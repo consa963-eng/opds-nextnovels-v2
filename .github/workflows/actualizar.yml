@@ -2,6 +2,11 @@ name: Actualizar catálogo OPDS
 
 on:
   workflow_dispatch:
+    inputs:
+      escaneo_completo:
+        description: "Buscar novelas que no estén en el catálogo (tarda más)"
+        type: boolean
+        default: false
   schedule:
     - cron: "0 3 * * 0"
 
@@ -11,6 +16,7 @@ permissions:
 jobs:
   actualizar:
     runs-on: ubuntu-latest
+    timeout-minutes: 120
     steps:
       - name: Descargar repositorio
         uses: actions/checkout@v4
@@ -26,6 +32,8 @@ jobs:
         run: pip install requests beautifulsoup4
 
       - name: Generar catálogo
+        env:
+          FULL_SCAN: ${{ inputs.escaneo_completo }}
         run: python generador.py
 
       - name: Guardar catálogo
