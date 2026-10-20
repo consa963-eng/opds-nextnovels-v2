@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:Sakaki Ichiro</id>
 <title>Sakaki Ichiro</title>
-<updated>2026-10-20T22:30:50.468155+00:00</updated>
+<updated>2026-10-20T22:47:56.200413+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-400.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>On The Way Back From The Hero Novela Ligera en Español</title>
