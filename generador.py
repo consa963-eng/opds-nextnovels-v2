@@ -1,407 +1,427 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""Generador OPDS de NextNovels. No enumera archivos de TeraBox durante el escaneo."""
+const REPO = "https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main";
+const DATA_URL = `${REPO}/catalogo/catalogo.json`;
+const TERABOX_API = "https://terabox-dl.vercel.app/api/info?url=";
+const TERABOX_DL_API = "https://terabox-dl.vercel.app/api/download";
+const TERABOX_LIST_API = "https://www.terabox.com/share/list";
+const TERABOX_HOSTS = new Set([
+  "terabox.com", "terabox.app", "teraboxlink.com", "freeterabox.com",
+  "1024terabox.com", "1024tera.com", "4funbox.com", "mirrobox.com", "nephobox.com",
+  "teraboxshare.com", "terabox.fun", "teraboxapp.com"
+]);
+const UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/131.0 Safari/537.36";
 
-import hashlib
-import json
-import re
-import time
-from datetime import datetime, timezone
-from pathlib import Path
-from urllib.parse import quote, urljoin, urlparse
-from xml.sax.saxutils import escape, quoteattr
-
-import requests
-from bs4 import BeautifulSoup
-
-BASE = "https://nextnovels.com"
-CATEGORY = BASE + "/"
-UPDATES = BASE + "/actualzaciones-orientales/"
-WORKER_BASE = "https://opds-nextnovels-v2.consa963.workers.dev"
-BASE_FEED = WORKER_BASE + "/catalogo"
-OUT = Path("catalogo")
-DATA = OUT / "catalogo.json"
-STATE = OUT / "estado.json"
-UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/131.0 Safari/537.36"
-MAX_PAGES = 80
-MIN_VALID = 10
-DELAY = 0.5
-TERABOX_HOSTS = (
-    "terabox.com", "terabox.app", "teraboxlink.com", "freeterabox.com",
-    "1024terabox.com", "1024tera.com", "4funbox.com", "mirrobox.com", "nephobox.com",
-    "teraboxshare.com", "terabox.fun", "teraboxapp.com",
-)
-FILE_TYPES = {".epub": "application/epub+zip", ".pdf": "application/pdf"}
-S = requests.Session()
-S.headers.update({"User-Agent": UA, "Accept-Language": "es-ES,es;q=0.9,en;q=0.8"})
-MONTHS = {"enero": 1, "febrero": 2, "marzo": 3, "abril": 4, "mayo": 5,
-          "junio": 6, "julio": 7, "agosto": 8, "septiembre": 9,
-          "octubre": 10, "noviembre": 11, "diciembre": 12}
-
-
-def clean(value):
-    return re.sub(r"\s+", " ", str(value or "")).strip()
-
-
-def absu(value):
-    return urljoin(BASE, value) if value else ""
-
-
-def get(url):
-    response = S.get(url, timeout=30)
-    response.raise_for_status()
-    return BeautifulSoup(response.text, "html.parser")
-
-
-def article_url(url):
-    parsed = urlparse(url)
-    path = parsed.path.rstrip("/")
-    host = (parsed.hostname or "").lower()
-    if parsed.netloc and host != "nextnovels.com" and not host.endswith(".nextnovels.com"):
-        return False
-    segments = [segment.lower() for segment in path.split("/") if segment]
-    bad = {"category", "tag", "author", "page", "genero", "wp-admin"}
-    if any(segment in bad for segment in segments) or path.startswith(("/wp-", "/indice-")):
-        return False
-    return path not in ("", "/")
-
-
-def label(soup, label_text):
-    match = re.search(rf"{re.escape(label_text)}\s*:?\s*([^\n]+)", soup.get_text("\n", strip=True), re.I)
-    return clean(match.group(1)) if match else ""
-
-
-def is_terabox(url):
-    host = (urlparse(url).hostname or "").lower()
-    return any(host == domain or host.endswith("." + domain) for domain in TERABOX_HOSTS)
-
-
-def today():
-    return datetime.now(timezone.utc).date().isoformat()
-
-
-def load_books():
-    try:
-        value = json.loads(DATA.read_text(encoding="utf-8"))
-        return value if isinstance(value, list) else []
-    except Exception:
-        return []
-
-
-def save_books(books):
-    DATA.write_text(json.dumps(books, ensure_ascii=False, indent=2), encoding="utf-8")
-
-
-def load_state():
-    try:
-        value = json.loads(STATE.read_text(encoding="utf-8"))
-        return value if isinstance(value, dict) else {}
-    except Exception:
-        return {}
-
-
-def save_state(state):
-    STATE.write_text(json.dumps(state, ensure_ascii=False, indent=2), encoding="utf-8")
-
-
-def parse(url, updated=None):
-    soup = get(url)
-    h1 = soup.find("h1")
-    title = clean(h1.get_text(" ", strip=True) if h1 else (soup.title.get_text() if soup.title else ""))
-    title = re.sub(r"\s+-\s+Next Novels\s*$", "", title, flags=re.I)
-    main = soup.select_one("article,.entry-content,.post-content,main") or soup
-
-    cover = ""
-    og = soup.find("meta", property="og:image")
-    if og and og.get("content"):
-        cover = urljoin(url, og["content"])
-    if not cover:
-        image = main.find("img")
-        if image:
-            cover = urljoin(url, image.get("src") or image.get("data-src") or "")
-
-    author = label(main, "Autor")
-    status = label(main, "Estado")
-    novel_type = label(main, "Tipo")
-    genres, downloads, terabox_links = [], [], []
-    for anchor in main.select("a[href]"):
-        genre_href = anchor.get("href", "")
-        if "/genero/" in genre_href or "/tag/" in genre_href:
-            genre = clean(anchor.get_text(" ", strip=True))
-            if genre and genre.casefold() not in {g.casefold() for g in genres}:
-                genres.append(genre)
-
-        target = urljoin(url, anchor.get("href", ""))
-        if not target:
-            continue
-        if is_terabox(target):
-            if target not in terabox_links:
-                terabox_links.append(target)
-            continue
-        ext = Path(urlparse(target.split("?", 1)[0]).path).suffix.lower()
-        if ext in FILE_TYPES:
-            text = clean(anchor.get_text(" ", strip=True))
-            downloads.append({"url": target, "title": text or Path(urlparse(target).path).name,
-                              "type": FILE_TYPES[ext]})
-
-    summary = ""
-    for heading in main.find_all(["h2", "h3", "h4"]):
-        if "sinopsis" in clean(heading.get_text()).lower():
-            paragraphs = []
-            for node in heading.find_all_next():
-                if node.name in ("h2", "h3", "h4"):
-                    break
-                if node.name == "p":
-                    text = clean(node.get_text(" ", strip=True))
-                    if text:
-                        paragraphs.append(text)
-            summary = "\n\n".join(paragraphs)
-            break
-
-    # Importante: aquí solo guardamos enlaces compartidos; no consultamos TeraBox.
-    return {
-        "id": url, "url": url, "title": title, "cover": cover, "author": author,
-        "status": status, "type": novel_type, "genres": genres, "summary": summary,
-        "downloads": downloads, "terabox_links": terabox_links, "updated": updated or today(),
+function xmlEscape(value = "") {
+  return String(value).replace(/&/g, "&amp;").replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;").replace(/\"/g, "&quot;").replace(/'/g, "&apos;");
+}
+function xmlCdata(value = "") { return String(value).replace(/\]\]>/g, "]]]]><![CDATA[>"); }
+function headers(type = "application/atom+xml; charset=UTF-8") {
+  return { "Content-Type": type, "Cache-Control": "public, max-age=300", "X-Content-Type-Options": "nosniff" };
+}
+function textError(message, status = 502) {
+  return new Response(String(message), { status, headers: { "Content-Type": "text/plain; charset=UTF-8", "Cache-Control": "no-store", "X-Content-Type-Options": "nosniff" } });
+}
+function isAllowedShareUrl(value) {
+  try {
+    const parsed = new URL(value), host = parsed.hostname.toLowerCase();
+    return parsed.protocol === "https:" && [...TERABOX_HOSTS].some(d => host === d || host.endsWith(`.${d}`)) && !parsed.username && !parsed.password;
+  } catch { return false; }
+}
+function isAllowedArticleUrl(value) {
+  try {
+    const parsed = new URL(value), host = parsed.hostname.toLowerCase();
+    return parsed.protocol === "https:" && (host === "nextnovels.com" || host.endsWith(".nextnovels.com")) && !parsed.username && !parsed.password;
+  } catch { return false; }
+}
+function cleanFilename(name, fallback = "descarga.bin") {
+  let value = String(name || fallback).replace(/[\\/\0-\x1F\x7F]/g, "_").trim();
+  if (!value || value === "." || value === "..") value = fallback;
+  return value.slice(0, 240);
+}
+function normalArticle(value) {
+  const u = new URL(value); u.hash = ""; u.search = ""; u.pathname = u.pathname.replace(/\/+$/, "") || "/";
+  return u.href.toLowerCase();
+}
+function novelDetailUrl(bookUrl, origin) { return `${origin}/novela?url=${encodeURIComponent(bookUrl)}`; }
+function imageMime(value = "") {
+  const path = String(value).split("?", 1)[0].toLowerCase();
+  if (path.endsWith(".png")) return "image/png";
+  if (path.endsWith(".webp")) return "image/webp";
+  if (path.endsWith(".gif")) return "image/gif";
+  return "image/jpeg";
+}
+function coverLinks(cover) {
+  if (!cover) return "";
+  const href = xmlEscape(cover), type = imageMime(cover);
+  return `<link rel="http://opds-spec.org/image" href="${href}" type="${type}"/><link rel="http://opds-spec.org/image/thumbnail" href="${href}" type="${type}"/>`;
+}
+function navEntry(book, origin) {
+  const title = xmlEscape(book.title || "Sin título"), id = xmlEscape(book.id || book.url || title);
+  let xml = `<entry><title>${title}</title><id>${id}</id>`;
+  if (book.summary) xml += `<content type="text">${xmlEscape(String(book.summary).slice(0, 1500))}</content>`;
+  if (book.author) xml += `<author><name>${xmlEscape(book.author)}</name></author>`;
+  if (book.cover) xml += coverLinks(book.cover);
+  if (book.url) {
+    xml += `<link rel="alternate" href="${xmlEscape(book.url)}" type="text/html"/>`;
+    xml += `<link rel="subsection" href="${xmlEscape(novelDetailUrl(book.url, origin))}" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>`;
+  }
+  return xml + "</entry>";
+}
+function feed(title, id, books, requestUrl, kind = "navigation") {
+  const now = new Date().toISOString(), origin = new URL(requestUrl).origin;
+  const entries = books.map(book => navEntry(book, origin)).join("\n");
+  return `<?xml version="1.0" encoding="UTF-8"?>\n<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">\n<title>${xmlEscape(title)}</title><id>${xmlEscape(id)}</id><updated>${now}</updated><link rel="self" href="${xmlEscape(requestUrl)}" type="application/atom+xml;profile=opds-catalog;kind=${kind}"/><link rel="start" href="${xmlEscape(origin + "/")}" type="application/atom+xml;profile=opds-catalog;kind=navigation"/><link rel="search" href="${xmlEscape(origin + "/opensearch.xml")}" type="application/opensearchdescription+xml"/>\n<opensearch:totalResults>${books.length}</opensearch:totalResults>\n${entries}\n</feed>`;
+}
+function rootFeed(requestUrl) {
+  const base = new URL(requestUrl).origin;
+  const items = [
+    ["Novedades", "/catalogo/novedades.xml", "Últimas novelas actualizadas"],
+    ["Todas las novelas", "/catalogo/todos.xml", "Catálogo de novelas; los volúmenes se consultan al abrir cada título"],
+    ["Autores", "/catalogo/autores.xml", "Novelas agrupadas por autor"],
+    ["Géneros", "/catalogo/generos.xml", "Novelas agrupadas por género"],
+    ["Títulos A-Z", "/catalogo/titulos.xml", "Novelas ordenadas alfabéticamente"]
+  ];
+  const entries = items.map(([title, path, description]) => `<entry><title>${xmlEscape(title)}</title><id>${xmlEscape(base + path)}</id><content type="text">${xmlEscape(description)}</content><link rel="subsection" href="${xmlEscape(base + path)}" type="application/atom+xml;profile=opds-catalog;kind=navigation"/></entry>`).join("\n");
+  return `<?xml version="1.0" encoding="UTF-8"?>\n<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog"><title>Next Novels</title><id>${xmlEscape(base + "/")}</id><updated>${new Date().toISOString()}</updated><link rel="self" href="${xmlEscape(base + "/")}" type="application/atom+xml;profile=opds-catalog;kind=navigation"/><link rel="search" href="${xmlEscape(base + "/opensearch.xml")}" type="application/opensearchdescription+xml"/>${entries}</feed>`;
+}
+function openSearch(requestUrl) {
+  const base = new URL(requestUrl).origin;
+  return `<?xml version="1.0" encoding="UTF-8"?><OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"><ShortName>Next Novels</ShortName><Description>Buscar novelas de Next Novels</Description><InputEncoding>UTF-8</InputEncoding><Url type="application/atom+xml;profile=opds-catalog;kind=navigation" template="${xmlEscape(base)}/search?q={searchTerms}"/></OpenSearchDescription>`;
+}
+async function getBooks() {
+  const response = await fetch(DATA_URL, { cf: { cacheTtl: 60, cacheEverything: true } });
+  if (!response.ok) throw new Error(`No se pudo descargar catalogo.json: ${response.status}`);
+  const books = await response.json();
+  if (!Array.isArray(books)) throw new Error("catalogo.json no contiene una lista de novelas.");
+  return books;
+}
+async function jsonResponse(response, label) {
+  const type = (response.headers.get("Content-Type") || "").toLowerCase();
+  if (type.includes("text/html")) throw new Error(`${label}: TeraBox o el intermediario devolvió HTML en lugar de JSON.`);
+  try { return await response.json(); }
+  catch { throw new Error(`${label}: respuesta JSON no válida.`); }
+}
+function shorturlFromShare(value) {
+  try {
+    const u = new URL(value), params = u.searchParams;
+    for (const key of ["surl", "shorturl"]) {
+      const v = params.get(key); if (v) return v.startsWith("1") ? v.slice(1) : v;
     }
+    const parts = u.pathname.split("/").filter(Boolean);
+    for (let i = 0; i < parts.length - 1; i++) {
+      if (["s", "share", "sharing"].includes(parts[i].toLowerCase())) {
+        const v = parts[i + 1]; return v.startsWith("1") ? v.slice(1) : v;
+      }
+    }
+    if (parts.length && parts[parts.length - 1].startsWith("1")) return parts[parts.length - 1].slice(1);
+  } catch {}
+  return "";
+}
+function extractJsToken(html) {
+  const patterns = [
+    /window\.jsToken\s*=\s*["']([^"']+)["']/i,
+    /(?:window\.)?jsToken\s*[:=]\s*["']([^"']+)["']/i,
+    /["']jsToken["']\s*:\s*["']([^"']+)["']/i,
+    /jsToken%22%3A%22([^%"']+)/i
+  ];
+  for (const pattern of patterns) { const match = html.match(pattern); if (match) return match[1]; }
+  return "";
+}
+function setCookieLines(headers) {
+  try {
+    if (typeof headers.getSetCookie === "function") {
+      const values = headers.getSetCookie();
+      if (Array.isArray(values) && values.length) return values;
+    }
+  } catch {}
+  const combined = headers.get("set-cookie");
+  if (!combined) return [];
+  // Algunos runtimes combinan varias cabeceras Set-Cookie en una sola cadena.
+  return combined.split(/,(?=\s*[^;,=\s]+=[^;,]*)/g);
+}
+function updateCookieJar(jar, headers) {
+  for (const line of setCookieLines(headers)) {
+    const pair = String(line).split(";", 1)[0].trim();
+    const equals = pair.indexOf("=");
+    if (equals <= 0) continue;
+    const name = pair.slice(0, equals).trim();
+    const value = pair.slice(equals + 1).trim();
+    if (!name) continue;
+    if (value) jar.set(name, value); else jar.delete(name);
+  }
+}
+async function fetchWithCookieJar(input, init = {}, jar = new Map(), maxRedirects = 8) {
+  let current = new URL(input);
+  let method = init.method || "GET";
+  let body = init.body;
+  for (let hop = 0; hop <= maxRedirects; hop++) {
+    const requestHeaders = new Headers(init.headers || {});
+    if (jar.size) requestHeaders.set("Cookie", [...jar.entries()].map(([k, v]) => `${k}=${v}`).join("; "));
+    const response = await fetch(current.href, { ...init, method, body, headers: requestHeaders, redirect: "manual" });
+    updateCookieJar(jar, response.headers);
+    const location = response.headers.get("Location");
+    if (![301, 302, 303, 307, 308].includes(response.status) || !location) {
+      return { response, url: current.href, cookies: jar };
+    }
+    if (hop === maxRedirects) throw new Error("TeraBox encadenó demasiadas redirecciones al abrir el enlace compartido.");
+    current = new URL(location, current);
+    if (response.status === 303 || ((response.status === 301 || response.status === 302) && method === "POST")) {
+      method = "GET";
+      body = undefined;
+    }
+  }
+  throw new Error("No se pudo seguir la redirección del enlace compartido.");
+}
+async function teraboxContext(shareUrl) {
+  if (!isAllowedShareUrl(shareUrl)) throw new Error("El enlace compartido no pertenece a un dominio TeraBox admitido.");
+  const cookies = new Map();
+  const { response, url } = await fetchWithCookieJar(shareUrl, {
+    headers: { "User-Agent": UA, "Accept": "text/html,application/xhtml+xml,*/*", "Accept-Language": "es-ES,es;q=0.9,en;q=0.8" }
+  }, cookies);
+  if (!response.ok) throw new Error(`No se pudo abrir el enlace público de TeraBox (HTTP ${response.status}).`);
+  const html = await response.text();
+  const shorturl = shorturlFromShare(url) || shorturlFromShare(shareUrl);
+  if (!shorturl) throw new Error("No se encontró el identificador público de la carpeta compartida.");
+  const jsToken = extractJsToken(html);
+  return { shorturl, jsToken, referer: `https://www.terabox.com/s/1${shorturl}`, cookies };
+}
+async function teraboxList(context, folderPath, page = 1) {
+  const params = new URLSearchParams({
+    app_id: "250528", web: "1", channel: "chunlei", clienttype: "0",
+    shorturl: context.shorturl, page: String(page), num: "100", order: "name", by: "name"
+  });
+  if (context.jsToken) params.set("jsToken", context.jsToken);
+  if (folderPath) params.set("dir", folderPath); else params.set("root", "1");
+  const { response } = await fetchWithCookieJar(`${TERABOX_LIST_API}?${params}`, {
+    headers: {
+      "User-Agent": UA, "Accept": "application/json, text/plain, */*",
+      "Accept-Language": "es-ES,es;q=0.9,en;q=0.8", "Referer": context.referer,
+      "Origin": "https://www.terabox.com"
+    }
+  }, context.cookies);
+  if (!response.ok) throw new Error(`El listado público de TeraBox respondió HTTP ${response.status}.`);
+  const data = await jsonResponse(response, "Listado de archivos");
+  if (String(data.errno ?? "0") !== "0") {
+    const detail = data.errmsg || data.show_msg || data.message || "sin mensaje";
+    throw new Error(`TeraBox rechazó el listado (errno ${data.errno}): ${detail}.`);
+  }
+  return Array.isArray(data.list) ? data.list : [];
+}
+async function listTeraboxFiles(shareUrl) {
+  const context = await teraboxContext(shareUrl), files = [], visited = new Set();
+  let visitedFolders = 0;
+  async function walk(folderPath = "", depth = 0) {
+    if (depth > 12 || visitedFolders >= 40) return;
+    const key = folderPath || "/";
+    if (visited.has(key)) return;
+    visited.add(key); visitedFolders++;
+    let items = [];
+    for (let page = 1; page <= 20; page++) {
+      const batch = await teraboxList(context, folderPath, page);
+      items.push(...batch);
+      if (batch.length < 100) break;
+    }
+    for (const item of items) {
+      const name = String(item.server_filename || item.filename || "").trim();
+      if (!name) continue;
+      const isDir = [1, "1", true, "true"].includes(item.isdir ?? item.is_dir);
+      const path = item.path || (folderPath ? `${folderPath.replace(/\/$/, "")}/${name}` : `/${name}`);
+      if (isDir) { await walk(path, depth + 1); continue; }
+      const ext = name.toLowerCase().match(/\.(epub|pdf)$/)?.[1];
+      const fsId = item.fs_id ?? item.fid;
+      if (!ext || fsId === undefined || fsId === null) continue;
+      files.push({ fs_id: String(fsId), name, path, type: ext === "epub" ? "application/epub+zip" : "application/pdf", size: item.size });
+    }
+  }
+  await walk();
+  const unique = new Map();
+  for (const file of files) unique.set(file.fs_id, file);
+  return [...unique.values()];
+}
+function extractShareLinks(html, pageUrl) {
+  const results = new Set();
+  const re = /<a\b[^>]*\bhref\s*=\s*(?:"([^"]*)"|'([^']*)'|([^\s>]+))/gi;
+  let match;
+  while ((match = re.exec(html))) {
+    const raw = (match[1] ?? match[2] ?? match[3] ?? "").replace(/&amp;/g, "&").replace(/&#038;/g, "&").trim();
+    try {
+      const target = new URL(raw, pageUrl).href;
+      if (isAllowedShareUrl(target)) results.add(target);
+    } catch {}
+  }
+  return [...results];
+}
+function downloadUrl(origin, shareUrl, file) {
+  const params = new URLSearchParams({ url: shareUrl, fs_id: file.fs_id, name: cleanFilename(file.name, "descarga.bin") });
+  return `${origin}/descargar?${params}`;
+}
+function fileEntry(file, href, idSuffix = "") {
+  const title = xmlEscape(file.title || file.name || "Archivo");
+  const id = xmlEscape(`nextnovels:file:${file.fs_id || href}${idSuffix}`);
+  const type = xmlEscape(file.type || (String(file.name || "").toLowerCase().endsWith(".pdf") ? "application/pdf" : "application/epub+zip"));
+  return `<entry><title>${title}</title><id>${id}</id><updated>${new Date().toISOString()}</updated><link rel="http://opds-spec.org/acquisition" href="${xmlEscape(href)}" type="${type}" title="${title}"/></entry>`;
+}
+function detailFeed(book, fileEntries, requestUrl, message = "") {
+  const base = new URL(requestUrl).origin, now = new Date().toISOString();
+  let extra = "";
+  if (!fileEntries.length) {
+    const explanation = message || "No se detectaron archivos EPUB o PDF públicos en esta novela.";
+    // Los clientes OPDS suelen ocultar entradas sin enlace de adquisición. Añadimos una
+    // entrada de diagnóstico válida y una salida de emergencia a la página del artículo.
+    extra = `<entry><title>${xmlEscape("No se pudieron listar los archivos")}</title><id>${xmlEscape(base + "/novela/estado")}</id><content type="text">${xmlEscape(explanation)}</content><link rel="alternate" href="${xmlEscape(book.url || "")}" type="text/html"/><link rel="http://opds-spec.org/acquisition" href="${xmlEscape(book.url || "")}" type="text/html" title="Abrir la página de Next Novels"/></entry>`;
+  }
+  return `<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog"><title>${xmlEscape(book.title || "Archivos de la novela")}</title><subtitle>${xmlEscape(fileEntries.length ? "Elige un volumen EPUB o PDF." : (message || "No se pudo obtener la lista de volúmenes. Puedes abrir la página original para comprobar los enlaces."))}</subtitle><id>${xmlEscape(base + "/novela?url=" + encodeURIComponent(book.url || ""))}</id><updated>${now}</updated><link rel="self" href="${xmlEscape(requestUrl)}" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/><link rel="start" href="${xmlEscape(base + "/")}" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>${book.cover ? coverLinks(book.cover) : ""}${fileEntries.join("\n")}${extra}</feed>`;
+}
+async function handleNovel(requestUrl) {
+  const articleParam = requestUrl.searchParams.get("url");
+  if (!articleParam || !isAllowedArticleUrl(articleParam)) return textError("Falta una URL válida de una novela de NextNovels.", 400);
+  let requestedKey;
+  try { requestedKey = normalArticle(articleParam); } catch { return textError("La URL de la novela no es válida.", 400); }
+  let books;
+  try { books = await getBooks(); } catch (error) { return textError(error.message, 502); }
+  const book = books.find(item => {
+    try { return item.url && normalArticle(item.url) === requestedKey; } catch { return false; }
+  });
+  if (!book) return textError("La novela no aparece en catalogo.json. Ejecuta el workflow para actualizar el catálogo.", 404);
 
+  const cacheKey = new Request(`${new URL(requestUrl).origin}/_lazy_cache/novela?url=${encodeURIComponent(book.url)}`);
+  try {
+    const cached = await caches.default.match(cacheKey);
+    if (cached) return cached;
+  } catch {}
 
-def discover():
-    out, seen = [], set()
-    for page in range(1, MAX_PAGES + 1):
-        page_url = CATEGORY if page == 1 else f"{CATEGORY}page/{page}/"
-        try:
-            soup = get(page_url)
-        except Exception as exc:
-            print(f"[WARN] No se pudo leer {page_url}: {exc}")
-            break
-        found = []
-        for anchor in soup.select("h2 a,h3 a,article a,.entry-title a"):
-            url = absu(anchor.get("href"))
-            if article_url(url) and url not in seen:
-                found.append(url)
-        new = 0
-        for url in found:
-            if url not in seen:
-                seen.add(url)
-                out.append(url)
-                new += 1
-        print(f"[DESCUBRIR] página {page}: +{new}")
-        if not new:
-            break
-        time.sleep(DELAY)
-    return out
+  let shareLinks = Array.isArray(book.terabox_links) ? book.terabox_links.filter(isAllowedShareUrl) : [];
+  // El catálogo antiguo no guardaba terabox_links: en ese caso se lee solo la página abierta.
+  let articleHtml = "";
+  if (!shareLinks.length) {
+    let page;
+    try {
+      page = await fetch(book.url, { headers: { "User-Agent": UA, "Accept": "text/html,application/xhtml+xml,*/*" }, redirect: "follow" });
+    } catch (error) {
+      const xml = detailFeed(book, [], requestUrl, `No se pudo conectar con la página de Next Novels: ${error?.message || "error de red"}`);
+      return new Response(xml, { status: 200, headers: { ...headers(), "Cache-Control": "no-store" } });
+    }
+    if (!page.ok) {
+      const xml = detailFeed(book, [], requestUrl, `La página de Next Novels respondió HTTP ${page.status}.`);
+      return new Response(xml, { status: 200, headers: { ...headers(), "Cache-Control": "no-store" } });
+    }
+    articleHtml = await page.text();
+    shareLinks = extractShareLinks(articleHtml, page.url || book.url);
+  }
+  shareLinks = [...new Set(shareLinks)];
+  const origin = new URL(requestUrl).origin, items = [], failures = [];
 
+  // Conserva los EPUB/PDF directos conocidos. Descarta los enlaces TeraBox antiguos.
+  for (const old of (Array.isArray(book.downloads) ? book.downloads : [])) {
+    if (!old?.url || old.storage_url) continue;
+    try {
+      const u = new URL(old.url), ext = u.pathname.toLowerCase().match(/\.(epub|pdf)$/)?.[1];
+      if (!ext || u.pathname === "/descargar" || u.pathname === "/bajar") continue;
+      if (u.hostname === new URL(origin).hostname) continue;
+      items.push({ file: { fs_id: `direct-${items.length}`, name: old.title || u.pathname.split("/").pop(), type: ext === "epub" ? "application/epub+zip" : "application/pdf" }, href: u.href });
+    } catch {}
+  }
+  if (!shareLinks.length && !items.length) failures.push("No se encontraron enlaces públicos de TeraBox en la página de esta novela.");
+  for (const share of shareLinks) {
+    try {
+      const files = await listTeraboxFiles(share);
+      for (const file of files) items.push({ file, href: downloadUrl(origin, share, file) });
+      if (!files.length) failures.push("Un enlace compartido no contiene archivos EPUB/PDF visibles.");
+    } catch (error) {
+      failures.push(`${new URL(share).hostname}: ${error?.message || "error al consultar TeraBox"}`);
+    }
+  }
+  const seen = new Set(), unique = [];
+  for (const item of items) {
+    const key = `${item.file.fs_id}:${item.href}`;
+    if (!seen.has(key)) { seen.add(key); unique.push(item); }
+  }
+  unique.sort((a, b) => String(a.file.name).localeCompare(String(b.file.name), "es", { numeric: true, sensitivity: "base" }));
+  const message = unique.length ? "" : (failures.join("; ") || "No se encontraron archivos descargables.");
+  const xmlItems = unique.map(item => fileEntry(item.file, item.href));
+  const response = new Response(detailFeed(book, xmlItems, requestUrl, message), {
+    status: 200,
+    headers: { ...headers(), "Cache-Control": unique.length ? "public, max-age=300" : "no-store" }
+  });
+  if (unique.length) { try { await caches.default.put(cacheKey, response.clone()); } catch {} }
+  return response;
+}
+async function resolverTerabox(teraboxUrl, fsId) {
+  if (!isAllowedShareUrl(teraboxUrl)) throw new Error("La URL de almacenamiento no es válida o no está admitida.");
+  if (!/^\d{1,30}$/.test(String(fsId || ""))) throw new Error("Falta fs_id o no tiene un formato válido.");
+  const infoResp = await fetch(TERABOX_API + encodeURIComponent(teraboxUrl), { headers: { "Accept": "application/json", "User-Agent": UA } });
+  if (!infoResp.ok) throw new Error(`El servicio de resolución respondió HTTP ${infoResp.status}.`);
+  const info = await jsonResponse(infoResp, "Información del enlace");
+  if (!info.ok || !info.sign || !info.timestamp || !info.shareid || !info.uk) {
+    throw new Error("No se pudieron obtener los metadatos del enlace público. Puede que TeraBox o el servicio externo lo esté limitando.");
+  }
+  const numericId = Number(fsId);
+  const downloadResp = await fetch(TERABOX_DL_API, {
+    method: "POST",
+    headers: { "Content-Type": "application/json", "Accept": "application/json", "User-Agent": UA, "Referer": "https://www.terabox.com/" },
+    body: JSON.stringify({ sign: info.sign, timestamp: info.timestamp, shareid: info.shareid, uk: info.uk,
+      fs_id: Number.isSafeInteger(numericId) ? numericId : String(fsId) })
+  });
+  if (!downloadResp.ok) throw new Error(`El servicio de enlaces respondió HTTP ${downloadResp.status}.`);
+  const data = await jsonResponse(downloadResp, "Creación de enlace de descarga");
+  if (!data.ok || !data.dlink) throw new Error("No se pudo generar el enlace para el archivo seleccionado. Puede que TeraBox no lo permita mediante enlace público.");
+  return data.dlink;
+}
+async function handleDownload(requestUrl) {
+  const teraboxUrl = requestUrl.searchParams.get("url") || requestUrl.searchParams.get("storage_url");
+  const fsId = requestUrl.searchParams.get("fs_id");
+  const filename = cleanFilename(requestUrl.searchParams.get("name"), "descarga.bin");
+  if (!teraboxUrl) return textError("Falta el parámetro url.", 400);
+  if (!fsId) return textError("Falta el parámetro fs_id.", 400);
+  const extension = filename.toLowerCase().split(".").pop();
+  if (!["epub", "pdf"].includes(extension)) return textError("Solo se admiten archivos EPUB y PDF.", 400);
+  let directUrl;
+  try { directUrl = await resolverTerabox(teraboxUrl, fsId); }
+  catch (error) { return textError(`No se pudo preparar la descarga: ${error.message}`, 502); }
+  let fileResponse;
+  try { fileResponse = await fetch(directUrl, { headers: { "Referer": "https://www.terabox.com/", "User-Agent": UA, "Accept": "*/*" }, redirect: "follow" }); }
+  catch { return textError("No se pudo conectar con el servidor del archivo.", 502); }
+  if (!fileResponse.ok) return textError(`El servidor del archivo respondió HTTP ${fileResponse.status}.`, 502);
+  const contentType = (fileResponse.headers.get("Content-Type") || "").toLowerCase();
+  if (contentType.includes("text/html")) return textError("TeraBox devolvió HTML en lugar del archivo. Puede requerir verificación o estar temporalmente bloqueado.", 502);
+  const mime = extension === "epub" ? "application/epub+zip" : "application/pdf";
+  const outputHeaders = new Headers({ "Content-Type": mime, "Content-Disposition": `attachment; filename*=UTF-8''${encodeURIComponent(filename)}`, "Cache-Control": "no-store", "X-Content-Type-Options": "nosniff" });
+  const length = fileResponse.headers.get("Content-Length");
+  if (length) outputHeaders.set("Content-Length", length);
+  return new Response(fileResponse.body, { status: 200, headers: outputHeaders });
+}
 
-def get_date(text):
-    match = re.search(r"(\d{1,2})\s+(enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre)\s+(\d{4})", text, re.I)
-    if not match:
-        return ""
-    day, month, year = int(match.group(1)), MONTHS[match.group(2).lower()], int(match.group(3))
-    return f"{year:04d}-{month:02d}-{day:02d}"
-
-
-def get_updates(last_date):
-    changes, latest_date = [], last_date
-    for page in range(1, 100):
-        page_url = UPDATES if page == 1 else f"{UPDATES}page/{page}/"
-        try:
-            soup = get(page_url)
-        except Exception as exc:
-            print("[WARN] No se pudo consultar Actualizaciones:", exc)
-            return None, latest_date
-        articles = soup.select("article")
-        if not articles:
-            break
-        page_old, new_on_page = False, 0
-        for article in articles:
-            text = clean(article.get_text(" ", strip=True))
-            date = get_date(text)
-            if not date:
-                continue
-            latest_date = max(latest_date, date)
-            if last_date and date <= last_date:
-                page_old = True
-                continue
-            low = text.lower()
-            if "novela ligera" not in low or not any(x in low for x in ("[añadido]", "[añadidos]", "[nueva novela]", "[novela nueva]")):
-                continue
-            novel_url = next((absu(a.get("href")) for a in article.select("h2 a,h3 a,.entry-title a,a[href]")
-                              if article_url(absu(a.get("href")))), None)
-            if novel_url:
-                changes.append({"url": novel_url, "date": date})
-                new_on_page += 1
-        if last_date and page_old and not new_on_page:
-            break
-        if not last_date:
-            break
-        time.sleep(DELAY)
-    return list({item["url"]: item for item in changes}.values()), latest_date
-
-
-def incremental(books):
-    state = load_state()
-    last_date = state.get("last_update", "")
-    print("[INFO] Última actualización:", last_date or "ninguna")
-    result = get_updates(last_date)
-    if result is None:
-        print("[WARN] Se conserva el catálogo actual.")
-        return books
-    changes, latest_date = result
-    if not last_date:
-        save_state({"last_update": latest_date})
-        print("[INFO] Punto de partida establecido:", latest_date)
-        return books
-    if not changes:
-        print("[INFO] No hay novedades.")
-        if latest_date > last_date:
-            save_state({"last_update": latest_date})
-        return books
-    by_url = {book["url"]: book for book in books}
-    for change in sorted(changes, key=lambda item: item["date"]):
-        try:
-            print("[ACTUALIZAR]", change["url"])
-            book = parse(change["url"], updated=change["date"])
-            if not book["title"]:
-                continue
-            if book.get("type") and "ligera" not in book["type"].lower():
-                print("[IGNORADA] No es novela ligera:", book["title"])
-                continue
-            by_url[book["url"]] = book
-            print("[OK]", book["title"])
-        except Exception as exc:
-            print("[WARN]", change["url"], exc)
-        time.sleep(DELAY)
-    save_state({"last_update": latest_date})
-    return list(by_url.values())
-
-
-def detail_url(book):
-    return WORKER_BASE + "/novela?url=" + quote(book.get("url", ""), safe="")
-
-
-def image_type(url):
-    ext = Path(urlparse(url).path).suffix.lower()
-    return {".png": "image/png", ".webp": "image/webp", ".gif": "image/gif"}.get(ext, "image/jpeg")
-
-
-def ent(book):
-    """Una novela es navegación; los volúmenes se enumeran al entrar en su ficha."""
-    title = escape(book.get("title") or "Sin título")
-    book_url = book.get("url", "")
-    parts = ["<entry>", f"<title>{title}</title>", f"<id>{escape(book.get('id') or book_url)}</id>"]
-    if book.get("summary"):
-        parts.append(f"<content type=\"text\">{escape(book['summary'][:1500])}</content>")
-    if book.get("author"):
-        parts.append(f"<author><name>{escape(book['author'])}</name></author>")
-    if book.get("cover"):
-        mime = image_type(book["cover"])
-        parts.append(f"<link rel=\"http://opds-spec.org/image\" href={quoteattr(book['cover'])} type={quoteattr(mime)}/>")
-        parts.append(f"<link rel=\"http://opds-spec.org/image/thumbnail\" href={quoteattr(book['cover'])} type={quoteattr(mime)}/>")
-    if book_url:
-        parts.append(f"<link rel=\"alternate\" href={quoteattr(book_url)} type=\"text/html\"/>")
-        parts.append(f"<link rel=\"subsection\" href={quoteattr(detail_url(book))} type=\"application/atom+xml;profile=opds-catalog;kind=acquisition\" title=\"Ver EPUB y PDF\"/>")
-    parts.append("</entry>")
-    return "\n".join(parts)
-
-
-def feed(title, feed_id, items, self_url, kind="navigation"):
-    parts = ['<?xml version="1.0" encoding="utf-8"?>',
-             '<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">',
-             f"<id>{escape(feed_id)}</id>", f"<title>{escape(title)}</title>",
-             f"<updated>{datetime.now(timezone.utc).isoformat()}</updated>",
-             f'<link rel="self" href={quoteattr(self_url)} type="application/atom+xml;profile=opds-catalog;kind={kind}"/>',
-             f'<link rel="start" href={quoteattr(WORKER_BASE + "/")} type="application/atom+xml;profile=opds-catalog;kind=navigation"/>']
-    parts.extend(ent(book) for book in items)
-    parts.append("</feed>")
-    return "\n".join(parts)
-
-
-def clean_old_feeds():
-    for pattern, regex in (("autores-*.xml", r"autores-[0-9a-f]{10}\.xml"),
-                           ("generos-*.xml", r"generos-[0-9a-f]{10}\.xml")):
-        for file in OUT.glob(pattern):
-            if not re.fullmatch(regex, file.name):
-                file.unlink()
-
-
-def generate(books):
-    books = list({book["url"]: book for book in books if book.get("url")}.values())
-    books.sort(key=lambda book: book.get("title", "").lower())
-    save_books(books)
-    clean_old_feeds()
-    nav = [("Novedades", "novedades.xml"), ("Todas las novelas", "todos.xml"),
-           ("Autores", "autores.xml"), ("Géneros", "generos.xml"), ("Títulos A-Z", "titulos.xml")]
-    root = ['<?xml version="1.0" encoding="utf-8"?>',
-            '<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">',
-            '<id>nextnovels:root</id>', '<title>Next Novels</title>',
-            f'<updated>{datetime.now(timezone.utc).isoformat()}</updated>',
-            f'<link rel="self" href={quoteattr(BASE_FEED + "/index.xml")} type="application/atom+xml;profile=opds-catalog;kind=navigation"/>']
-    for title, filename in nav:
-        root.append(f'<entry><title>{escape(title)}</title><id>nextnovels:{filename}</id><content type="text">Abrir {escape(title.lower())}</content><link rel="subsection" href={quoteattr(BASE_FEED + "/" + filename)} type="application/atom+xml;profile=opds-catalog;kind={"navigation" if filename != "todos.xml" and filename != "titulos.xml" and filename != "novedades.xml" else "navigation"}"/></entry>')
-    root.append("</feed>")
-    (OUT / "index.xml").write_text("\n".join(root), encoding="utf-8")
-
-    (OUT / "todos.xml").write_text(feed("Todas las novelas", "nextnovels:all", books, BASE_FEED + "/todos.xml"), encoding="utf-8")
-    (OUT / "titulos.xml").write_text(feed("Títulos A-Z", "nextnovels:titles", books, BASE_FEED + "/titulos.xml"), encoding="utf-8")
-    novidades = sorted(books, key=lambda book: book.get("updated", ""), reverse=True)[:200]
-    (OUT / "novedades.xml").write_text(feed("Novedades", "nextnovels:new", novidades, BASE_FEED + "/novedades.xml"), encoding="utf-8")
-
-    groups = {"autores": {}, "generos": {}}
-    for book in books:
-        if book.get("author"):
-            groups["autores"].setdefault(book["author"], []).append(book)
-        for genre in book.get("genres", []):
-            groups["generos"].setdefault(genre, []).append(book)
-    for kind, group_map in groups.items():
-        group_parts = ['<?xml version="1.0" encoding="utf-8"?>',
-                       '<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">',
-                       f"<id>nextnovels:{kind}</id>", f"<title>{kind.title()}</title>",
-                       f'<link rel="self" href={quoteattr(BASE_FEED + "/" + kind + ".xml")} type="application/atom+xml;profile=opds-catalog;kind=navigation"/>']
-        for name in sorted(group_map, key=str.lower):
-            slug = hashlib.md5(name.encode("utf-8")).hexdigest()[:10]
-            filename = f"{kind}-{slug}.xml"
-            group_parts.append(f'<entry><title>{escape(name)}</title><id>nextnovels:{filename}</id><link rel="subsection" href={quoteattr(BASE_FEED + "/" + filename)} type="application/atom+xml;profile=opds-catalog;kind=navigation"/></entry>')
-            (OUT / filename).write_text(feed(name, f"nextnovels:{kind}:{slug}", group_map[name], BASE_FEED + "/" + filename), encoding="utf-8")
-        group_parts.append("</feed>")
-        (OUT / f"{kind}.xml").write_text("\n".join(group_parts), encoding="utf-8")
-
-    opensearch = ('<?xml version="1.0" encoding="UTF-8"?>\n'
-                  '<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">\n'
-                  '<ShortName>Next Novels</ShortName><Description>Buscar en Next Novels</Description>\n'
-                  '<InputEncoding>UTF-8</InputEncoding>\n'
-                  f'<Url type="application/atom+xml;profile=opds-catalog;kind=navigation" template="{WORKER_BASE}/search?q={{searchTerms}}"/>\n'
-                  '</OpenSearchDescription>')
-    (OUT / "opensearch.xml").write_text(opensearch, encoding="utf-8")
-    print(f"[OK] Catálogo generado: {len(books)} novelas; archivos TeraBox bajo demanda")
-
-
-def main():
-    OUT.mkdir(exist_ok=True)
-    books = load_books()
-    if len(books) < MIN_VALID:
-        print("[INFO] Primera ejecución: escaneo de novelas sin enumerar archivos de TeraBox.")
-        urls = discover()
-        new_books = []
-        for index, url in enumerate(urls, 1):
-            try:
-                print(f"[{index}/{len(urls)}] {url}")
-                book = parse(url)
-                if book.get("title"):
-                    new_books.append(book)
-            except Exception as exc:
-                print("[WARN]", url, exc)
-            time.sleep(DELAY)
-        if len(new_books) < MIN_VALID:
-            raise RuntimeError(f"NextNovels devolvió muy pocos resultados: {len(new_books)}")
-        books = new_books
-        save_state({"last_update": ""})
-    else:
-        print(f"[INFO] Catálogo existente: {len(books)} novelas; no se vuelve a rastrear TeraBox.")
-        # Conservar títulos antiguos; sus páginas se consultarán solo al entrar en cada ficha.
-        books = incremental(books)
-    generate(books)
-
-
-if __name__ == "__main__":
-    main()
+export default {
+  async fetch(request) {
+    const url = new URL(request.url);
+    try {
+      if (url.pathname === "/" || url.pathname === "/index.xml") return new Response(rootFeed(request.url), { headers: headers() });
+      if (url.pathname === "/opensearch.xml") return new Response(openSearch(request.url), { headers: headers("application/opensearchdescription+xml; charset=UTF-8") });
+      if (url.pathname === "/novela") {
+        if (request.method !== "GET") return textError("Método no permitido.", 405);
+        return handleNovel(url);
+      }
+      if (url.pathname === "/descargar" || url.pathname === "/bajar") {
+        if (request.method !== "GET") return textError("Método no permitido.", 405);
+        return handleDownload(url);
+      }
+      if (url.pathname === "/search") {
+        const query = (url.searchParams.get("q") || "").trim().toLowerCase();
+        const books = await getBooks();
+        const results = query ? books.filter(book => [book.title, book.author, ...(book.genres || [])].filter(Boolean).join(" ").toLowerCase().includes(query)).slice(0, 200) : [];
+        return new Response(feed(`Resultados: ${query}`, `${url.origin}/search?q=${encodeURIComponent(query)}`, results, request.url, "navigation"), { headers: headers() });
+      }
+      if (url.pathname.startsWith("/catalogo/")) {
+        // Solo se permiten rutas dentro de /catalogo; evita traversal en la ruta del proxy.
+        if (url.pathname.includes("..") || !/^\/catalogo\/[a-zA-Z0-9._-]+$/.test(url.pathname)) return textError("Ruta de catálogo no válida.", 400);
+        const response = await fetch(`${REPO}${url.pathname}`, { cf: { cacheTtl: 60, cacheEverything: true } });
+        if (!response.ok) return textError("Catálogo no encontrado.", response.status);
+        const isXml = /\.(xml|opds)$/i.test(url.pathname);
+        return new Response(response.body, { status: response.status, headers: { "Content-Type": isXml ? "application/atom+xml; charset=UTF-8" : (response.headers.get("Content-Type") || "application/octet-stream"), "Cache-Control": "public, max-age=60", "X-Content-Type-Options": "nosniff" } });
+      }
+      return textError("Ruta no encontrada.", 404);
+    } catch (error) {
+      return textError(`Error del servidor: ${error?.message || "error desconocido"}`, 502);
+    }
+  }
+};
