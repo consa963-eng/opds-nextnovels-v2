@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:a1f258af7c</id>
 <title>Pan Tachibana</title>
-<updated>2026-10-20T17:08:06.191899+00:00</updated>
+<updated>2026-10-20T20:38:42.080487+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-a1f258af7c.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Nympho Sister Max Heart Novela Ligera en Español</title>
@@ -24,6 +24,6 @@ El miembro de su hermano se hinchó, dio un salto —bikun— dentro de ella, y 
 La ola de su clímax fue empujada aún más alto por la eyaculación de su hermano.
 
 —Es increíble... Onee-chan se va a romper...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1s9Th1iVyt-QuKn5YJhhpiw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1s9Th1iVyt-QuKn5YJhhpiw" type="text/html" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:3968e7bfd1</id>
 <title>Toshimizhi Uzo</title>
-<updated>2026-10-20T17:08:06.214819+00:00</updated>
+<updated>2026-10-20T20:38:42.108506+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-3968e7bfd1.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Five-Timing Scumbag and the Proper Way to End Love Novela Ligera en Español</title>
@@ -27,6 +27,6 @@ El juego d3m0n14co que alguien me propuso cuando lo había perdido todo consiste
 El hilo rojo del destino se enreda de forma cada vez más compleja y poco a poco se cierra alrededor de mi cu3ll0.
 
 Todas son buenas chicas, todas son lindas, todas son amables y las quiero muchísimo. Son demasiado para alguien como yo, que no es más que un d3sgr4ci4do... Así que, por favor, rompan conmigo cuanto antes.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F102zXHJGyFKdZRyl2S7tw9Q" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/102zXHJGyFKdZRyl2S7tw9Q" type="text/html" title="Descargar" />
 </entry>
 </feed>

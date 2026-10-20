@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:78800a2d55</id>
 <title>Kaedehara Kouta</title>
-<updated>2026-10-20T17:08:06.160171+00:00</updated>
+<updated>2026-10-20T20:38:42.039142+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-78800a2d55.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>I Am No Hero of the Shadows! Novela Ligera en Español</title>
@@ -24,7 +24,7 @@
 «¡¡¡Mi verdadera identidad ha sido descubierta!!!»
 
 Phil Saremabart, un joven noble con muy mala reputación en la calle. Por ciertas razones, actuaba en secreto como el «Héroe de las Sombras», pero un día su verdadera identidad es descubierta en plena ciudad. Aunque intenta disimular como puede, la hija de un noble, una linda Santa, e incluso la princesa del reino, jóvenes que sienten gratitud hacia el «Héroe de las Sombras», se acercan una tras otra. ¡¿Una nueva historia heroica (?) que comienza con el descubrimiento de su identidad, da inicio!!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Dea7ZaZumQOrrvEuWHVvvg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Dea7ZaZumQOrrvEuWHVvvg" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>If You Live Next Door, Eventually It’ll Turn Out Like This Novela Ligera en Español</title>
@@ -52,6 +52,6 @@ El contacto físico entre ambos va aumentando poco a poco y, al darse cuenta una
 Siempre había sido simplemente una amiga con la que pasaba todos los días. Pero si vives al lado, tarde o temprano terminará pasando esto... ¿no?
 
 ¡Los dos están enamorados, pero ninguno logra ser sincero! ¡Una dulce y desesperante comedia romántica sobre dos personas que esperan impacientes a que la otra dé el primer paso!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1sqQzkHX7IjJ4HIWkryYOAw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1sqQzkHX7IjJ4HIWkryYOAw" type="text/html" title="Descargar" />
 </entry>
 </feed>

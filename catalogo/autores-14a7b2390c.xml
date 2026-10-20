@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:14a7b2390c</id>
 <title>Shika Enpitsu</title>
-<updated>2026-10-20T17:08:06.202467+00:00</updated>
+<updated>2026-10-20T20:38:42.093833+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-14a7b2390c.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>We Who Hate Each Other After a One-Night Novela Ligera en Español</title>
@@ -26,7 +26,7 @@ Shinomiya, estudiante de tercer año del club universitario, y Hatano, estudiant
 Hatano, aspirante a novelista y creadora, aunque en un campo diferente, empatiza con la "soledad" y la "carencia" de Shinomiya, y ya no puede dejarla sola...
 
 Esta es la historia de cómo las dos, a través de sus torpes interacciones, se sienten atraídas la una por la otra y recorren la vida juntas.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1QdQbBZtReUJTmCFaHCQA8w" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1CSPhVKjbGZBsoXZHhMhWxA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1QdQbBZtReUJTmCFaHCQA8w" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1CSPhVKjbGZBsoXZHhMhWxA" type="text/html" title="Descargar" />
 </entry>
 </feed>

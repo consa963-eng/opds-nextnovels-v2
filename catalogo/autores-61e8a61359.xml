@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:61e8a61359</id>
 <title>Asato Asato</title>
-<updated>2026-10-20T17:08:06.138218+00:00</updated>
+<updated>2026-10-20T20:38:42.010902+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-61e8a61359.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>86 (Eighty Six) Novela Ligera en Español</title>
@@ -27,10 +27,10 @@ En las afueras de los 85 sectores de la República, "El inexistente Sector 86", 
 Shin, lider del escuadrón 86. Lena, "Handler" quien dirige a distancia al escuadrón desde la retaguardia mediante tecnología de comunicación especial.
 
 ¡Comienza la bélica historia de la lucha de estos dos personajes!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1LxhEx1hZY9nOc9k-ERlzsA" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1qzVfwq7qZJ-tF_PhIe-hYw" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1lCiih0mP1-l9NxaBYyAHFQ" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1kiWQzI8LD7dEoisSIdr6oQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1LxhEx1hZY9nOc9k-ERlzsA" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1qzVfwq7qZJ-tF_PhIe-hYw" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1lCiih0mP1-l9NxaBYyAHFQ" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1kiWQzI8LD7dEoisSIdr6oQ" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>The Yaebuki Agency Novela Ligera en Español</title>
@@ -45,6 +45,6 @@ Shin, lider del escuadrón 86. Lena, "Handler" quien dirige a distancia al escua
 <content type="text">Comienza la conmovedora y desgarradora historia de amor entre un chico y una chica, del autor de "86".
 
 El gran ritual para salvar al mundo de su destino de destrucción: la conquista de la Torre de Diez Millones de jō. El grupo de trabajo especial de la Familia Real, Yaeyamabuki, conocido comúnmente como la agencia Yaebuki, se enfrenta al desafío de conquistar esta colosal torre, tejida con magia espiritual y engranajes que se manifiestan cada noche. Los hechiceros gemelos, Akane y Aohi, se unen a Matsurika, un guardia de élite de la Capital Imperial, para prevenir un ataque terrorista de una secta. Se oponen a ellos un malvado dragón y sus seguidores, que obstaculizan la conquista de la Torre de Diez Millones de jō; los súbditos que resienten la sociedad controlada; y la Princesa de la Destrucción, quien mueve los hilos de la destrucción. El vínculo entre chicos y chicas que florece en medio de una batalla brutal acaba convirtiéndose en una espada que los hiere: «En un mundo que se desvanece, las flores que resisten y se marchitan son las más bellas». ¡Disfruta de esta nueva historia de Asato, autor de relatos de batallas y juventud, que fusiona el periodo Heian con el espiritualismo y el cyberpunk!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1DfG5b1yCUXeAvgqdQxfnMw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1DfG5b1yCUXeAvgqdQxfnMw" type="text/html" title="Descargar" />
 </entry>
 </feed>

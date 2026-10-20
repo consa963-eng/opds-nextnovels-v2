@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:1b3cc9f3d4</id>
 <title>Sakaku Hishikawa</title>
-<updated>2026-10-20T17:08:06.197118+00:00</updated>
+<updated>2026-10-20T20:38:42.087368+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1b3cc9f3d4.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Chainsaw Man: Buddy Stories Novela Ligera en Español</title>
@@ -43,7 +43,7 @@ La primera novela de Chainsaw Man nos sorprende con algunas historias inéditas 
 ¿Por qué, durante su época en el dojo, Tenza empezó a venerar a Shion como su maestro?
 
 ¡Un volumen repleto de historias inéditas que exploran el pasado de los personajes más queridos de la serie!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1oQuv3VRmBGZzBYGkmsH_ZQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1oQuv3VRmBGZzBYGkmsH_ZQ" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Hell’s Paradise Memories of Waves Novela Ligera en Español</title>
@@ -72,6 +72,6 @@ La primera novela de Chainsaw Man nos sorprende con algunas historias inéditas 
 ¡Una historia de acción y romance ninja para comprender la vida y la muerte, el esperado segundo volumen de la novela!
 
 ¡Incluye una hermosa ilustración a color dibujada por el propio Yūji Kaku, además de numerosas ilustraciones interiores!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1gFkYlvc1tG4eJdAkdBHEhw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1gFkYlvc1tG4eJdAkdBHEhw" type="text/html" title="Descargar" />
 </entry>
 </feed>

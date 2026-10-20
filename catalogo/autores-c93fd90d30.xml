@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:c93fd90d30</id>
 <title>Kuroouji</title>
-<updated>2026-10-20T17:08:06.173449+00:00</updated>
+<updated>2026-10-20T20:38:42.057750+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-c93fd90d30.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Profession, Merchant Novela Web en Español</title>
@@ -37,6 +37,6 @@ Entonces las palabras brotan como si salieran de las entrañas del mercader.
 «De acuerdo. Yo lo haré. Hagamos un duelo.»
 
 Y así comienza el viaje del mercader, lleno de infortunios femeninos, ¡todo para asegurarse enormes comisiones! Esta es una historia completa de fantasía y aventuras centrada en un mercader viajero, con guerreras, sacerdotisas, a veces estudiantes, héroes e incluso señores demoníacos que se unen a la acción.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1fk5CA1UwD-w2pxSmoCzB8Q" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1fk5CA1UwD-w2pxSmoCzB8Q" type="text/html" title="Descargar" />
 </entry>
 </feed>

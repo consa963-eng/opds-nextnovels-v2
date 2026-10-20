@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:a9cdfd1c80</id>
 <title>Inori</title>
-<updated>2026-10-20T17:08:06.156670+00:00</updated>
+<updated>2026-10-20T20:38:42.034676+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-a9cdfd1c80.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>I’m in Love with the Villainess Novela Ligera en Español</title>
@@ -23,7 +23,7 @@
 Oohashi Rei, una oficinista y esclava del trabajo, de repente se reencarnó en un nuevo mundo y despertó en el cuerpo de la protagonista de su juego Otome favorito: Revolution. Para su suerte, con la primera persona que se encuentra al despertarse es Claire François, ¡La villana de esta historia! y que también, es uno de los personajes favoritos de Rei.
 
 Sin pensarlo demasiado, Rei decide enamorar a Claire en lugar de a los demás protagonistas masculinos que existen dentro del juego... Pero, ¿Cómo reaccionará la villana? ¿Tendrá una reacción positiva a las pretensiones de Rei? ¿O solo le esperará un destino de rechazos?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F100W_9MyRyQbKEYMQsyhQHQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/100W_9MyRyQbKEYMQsyhQHQ" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>I’m in Love with the Villainess: She’s So Cheeky for a Commoner Novela Ligera en Español</title>
@@ -42,6 +42,6 @@ Sin pensarlo demasiado, Rei decide enamorar a Claire en lugar de a los demás pr
 <content type="text">¡Ahora, son los villanos quienes cuentan la historia!
 
 Claire François lo tiene todo: belleza, inteligencia y sangre noble. Como hija de un destacado aristócrata, asume su estatus y las responsabilidades que conlleva con la mayor seriedad, incluso cuando el rey amenaza con desestabilizar el reino con sus absurdas ideas de «meritocracia». Claire está dispuesta a adaptarse a este cambio social, hasta que una nueva estudiante plebeya en su exclusiva academia, Rei Taylor, pone su mundo patas arriba. Todo en Rei desconcierta a Claire: desde su comportamiento y su inteligencia hasta su extraña fifijación con ella. Lo que Claire no imagina es cuánto cambiará Rei su vida... y cuánto cambiará ella la de Rei.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1YxENTO6yvjEk8ErNtU1E1Q" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1YxENTO6yvjEk8ErNtU1E1Q" type="text/html" title="Descargar" />
 </entry>
 </feed>

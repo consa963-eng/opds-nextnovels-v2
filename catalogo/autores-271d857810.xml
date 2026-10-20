@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:271d857810</id>
 <title>Satou</title>
-<updated>2026-10-20T17:08:06.200014+00:00</updated>
+<updated>2026-10-20T20:38:42.090780+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-271d857810.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Path of an S-Rank Adventurer Novela Ligera en Español</title>
@@ -25,6 +25,6 @@ La verdadera razón detrás de su expulsión era el deseo de Sasha de protegerlo
 Un día, Sasha engañó a Hyse para que se adentrara en un bosque habitado por un dragón, donde estuvo a punto de morir. Traicionado por la confianza que había depositado en Sasha, Hyse juró no volver a creer en ella jamás y se propuso volverse más fuerte como aventurero solitario. A los 16 años, tanto Hyse como Sasha fueron reconocidos como aventureros de rango S. Hyse buscaba convertirse en el aventurero más fuerte en solitario, mientras que Sasha aspiraba a ser la mejor junto a sus compañeros.
 
 Esta es la historia de dos amigos de la infancia que alguna vez recorrieron el mismo camino, pero que se separaron para emprender trayectorias distintas, caminos que tal vez algún día vuelvan a cruzarse.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1KxRuMpMho0KawNktWeKCsA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1KxRuMpMho0KawNktWeKCsA" type="text/html" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:f2b092ec35</id>
 <title>Inaka Dachima</title>
-<updated>2026-10-20T17:08:06.156508+00:00</updated>
+<updated>2026-10-20T20:38:42.034497+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-f2b092ec35.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Okaa-san Online Novela Ligera en Español</title>
@@ -20,7 +20,7 @@
 <category term="Romance" label="Romance"/>
 <category term="Shounen" label="Shounen"/>
 <content type="text">¡Una nueva aventura de rol con temática de mamá! ¿Qué harías si te transportaran a un videojuego... con tu mamá? Ese es el dilema al que se enfrenta Masato Oosuki, un estudiante de secundaria que, sin saberlo, ha sido introducido en un mundo de rol con su cariñosa madre pisándole los talones como parte de un plan secreto del gobierno. Como ávido jugador, Masato está ansioso por demostrar sus habilidades... ¡pero eso es difícil cuando tu mamá es una experta en combate cuerpo a cuerpo, con armas duales y capacidad para atacar a múltiples objetivos!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1YXfSDd1ojNxJX_wmZ-EW_g" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1MKJmIL0TayDmtvK1VTZacg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1YXfSDd1ojNxJX_wmZ-EW_g" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1MKJmIL0TayDmtvK1VTZacg" type="text/html" title="Descargar" />
 </entry>
 </feed>

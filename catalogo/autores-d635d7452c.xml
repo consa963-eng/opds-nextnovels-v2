@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:d635d7452c</id>
 <title>Kureha</title>
-<updated>2026-10-20T17:08:06.172626+00:00</updated>
+<updated>2026-10-20T20:38:42.056739+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-d635d7452c.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Bride of the Barrier Master Novela Ligera en Español</title>
@@ -16,7 +16,7 @@
 <category term="Romance" label="Romance"/>
 <category term="Supernatural" label="Supernatural"/>
 <content type="text">Durante miles de años, Japón ha estado protegido por cinco clanes que dominan la magia para tejer barreras. Hana, de dieciocho años, nació en una rama de uno de esos clanes y siempre ha vivido a la sombra de su hermana gemela, más capaz, hermosa y popular que ella. Cuando un gran poder despierta en su interior, Hana decide ocultarlo para poder seguir llevando una vida tranquila, lejos de los focos. Pero ese estilo de vida ideal comienza a estar fuera de su alcance cuando Saku Ichinomiya asume el cargo de nuevo jefe del clan Ichinomiya y se propone encontrar una novia lo suficientemente fuerte como para estar a su lado. Ansiosa por mantener sus habilidades en secreto, Hana se mantiene alejada de Saku... pero ¿se verá tentada a firmar un contrato matrimonial si eso le garantiza el futuro pacífico y tranquilo con el que sueña?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F13gFwGlvxOGCMqA-B0qGe3w" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/13gFwGlvxOGCMqA-B0qGe3w" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>The Ogre’s Bride Novela Ligera en Español</title>
@@ -34,6 +34,6 @@ Sin embargo, un día conoce a un hombre de belleza incomparable, y el destino de
 "Te he encontrado, mi novia"
 
 Su nombre es Kiryuin Reiya, un oni que se encuentra en la cima del mundo espiritual. Confundida por el amor incondicional que Reiya le confeso, Yuzu escapa de su familia y encuentra su lugar en el mundo de Reiya...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1TdilqcL5SkMI54s74dpjVg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1TdilqcL5SkMI54s74dpjVg" type="text/html" title="Descargar" />
 </entry>
 </feed>

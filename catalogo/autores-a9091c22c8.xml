@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:a9091c22c8</id>
 <title>Reiryou Fuuki</title>
-<updated>2026-10-20T17:08:06.193167+00:00</updated>
+<updated>2026-10-20T20:38:42.082548+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-a9091c22c8.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Koibito Swap Novela Web en Español</title>
@@ -23,6 +23,6 @@
 Midorikawa Yusuke, un estudiante de preparatoria, tiene una amiga de la infancia llamada Yoshioka Kayo. Tras años de sentimientos mutuos, finalmente se convierten en amantes, pero últimamente se han sentido un poco distantes. Un día, atormentado por las preocupaciones de la edad, ve a Kayo salir de un karaoke con aspecto amistoso con otro hombre. Al día siguiente, con sus sentimientos rotos, Yusuke es interrogado por una guapa compañera de clase llamada Shiraki Kotone, quien dice ser la novia Ikeya (el amante de kayo).
 
 ¡El encuentro entre estos dos cambiará el color de su juventud...! ¡Una agridulce comedia romántica sobre la transición a la adultez que acentúa la dulzura!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1dTFgSlI-bI3bDaMzED9YnA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1dTFgSlI-bI3bDaMzED9YnA" type="text/html" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:427c830855</id>
 <title>Kurusu Natsume</title>
-<updated>2026-10-20T17:08:06.173507+00:00</updated>
+<updated>2026-10-20T20:38:42.057940+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-427c830855.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>A Misanthrope Teaches a Class for Demi-Humans Novela Ligera en Español</title>
@@ -17,6 +17,6 @@
 <category term="Romance" label="Romance"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">ESTAS CHICAS NO SON HUMANAS, PERO ADMIRAN A LOS HUMANOS MÁS QUE NADIE. Soy Rei Hitoma, una misántropa confesa debido a un trauma del pasado. Justo cuando pensaba que mi nuevo trabajo como profesora en las montañas me proporcionaría un entorno tranquilo y revitalizante, ¡resulta que esta escuela es en realidad para semihumanos que quieren convertirse en seres humanos de pleno derecho! Hay una sirena, un hombre lobo, un conejo y un pájaro... y todos ellos están ahora a mi cargo. Es mi deber enseñarles sobre la humanidad... y quizá, en el proceso, yo mismo aprenda algunas cosas. No se trata de un mundo alternativo ni de un caso de reencarnación. Es simplemente la historia de un profesor en una escuela un tanto peculiar y de sus alumnos, que se esfuerzan por convertirse en humanos.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1DbHDoy2HimdDXVqUjsmzPg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1DbHDoy2HimdDXVqUjsmzPg" type="text/html" title="Descargar" />
 </entry>
 </feed>

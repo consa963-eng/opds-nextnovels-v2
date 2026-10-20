@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:453a9f09e3</id>
 <title>Kamachi Kazuma</title>
-<updated>2026-10-20T17:08:06.161272+00:00</updated>
+<updated>2026-10-20T20:38:42.040482+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-453a9f09e3.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>A Simple Series Novela Ligera en Español</title>
@@ -15,7 +15,7 @@
 <category term="Shounen" label="Shounen"/>
 <category term="Supernatural" label="Supernatural"/>
 <content type="text">A un cierto número de estudiantes universitarios se les da una simple encuesta en la que deben ver unos cuantos corto-metrajes y ordenarlos de acuerdo a su preferencia. El lector también participa en la encuesta con los corto-metrajes siendo contadas en manera de historias cortas.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1eiqeGk5HYaWJMbqSSyjSIA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1eiqeGk5HYaWJMbqSSyjSIA" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Apocalypse Witch Novela Ligera en Español</title>
@@ -37,7 +37,7 @@
 Pero en la Academia Oceánica de Magia de Cristal Grimnoah, donde Karuta y todos aprenden magia de cristal, un superior de una generación anterior ha sido llamado como invitado. Esa usuaria de Magia de Adoración de Dios es conocida como al más fuerte del mundo, y subió al podio y le habló a todo el cuerpo estudiantil. Esto inicio un enfrentamiento entre las fuerzas de la magia nueva y la magia antigua.
 
 “Todos y cada uno de ustedes es incompetente. Por lo tanto, Grimnoah será cerrada.”</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1hHbeIbA21LWFJOwKxRkBQA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1hHbeIbA21LWFJOwKxRkBQA" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Toaru Majutsu no Index: Genesis Testament Novela Ligera en Español</title>
@@ -62,6 +62,6 @@ Es Nochebuena.
 En medio de la ciudad mostrando un alegre ajetreo, un chico corriente que no puede seguir el ritmo de la escuela, Kamijou Touma, tampoco tiene intención de perderse este evento! Estaba trabajando duro en sus lecciones suplementarias...
 
 Una mirada hacia atrás del bastardo propenso a las desgracias, la hermana de pelo plateado que se pasea por su dormitorio, Index, en la escena del latido del corazón diferente de lo habitual, activa una nueva habilidad de glotón!? Mientras Kamijou intenta desesperadamente detenerlo, Misaka Mikoto, absorto en la atmósfera de la Nochebuena, aparece ante él.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Dl36_94FPI0uIQi1983-zw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Dl36_94FPI0uIQi1983-zw" type="text/html" title="Descargar" />
 </entry>
 </feed>

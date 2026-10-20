@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:d5c40f6cd9</id>
 <title>Mishima Yomu, Wai</title>
-<updated>2026-10-20T17:08:06.180686+00:00</updated>
+<updated>2026-10-20T20:38:42.067021+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-d5c40f6cd9.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>I’m the Evil Lord of an Intergalactic Empire! Novela Ligera en Español</title>
@@ -21,8 +21,8 @@
 <content type="text">En su última vida, Liam vivió como una persona moralmente responsable... pero murió profundamente endeudado y traicionado por su esposa. Renacido en el seno de la familia gobernante de un vasto imperio interestelar, Liam sabe que la vida se divide entre los oprimidos y aquellos que se dedican a pisotear a los demás, así que esta vez va a elegir lo que quiere y vivir para sí mismo.
 
 Pero, de alguna manera, las cosas se niegan a funcionar así. A pesar de hacer todo lo posible por convertirse en un tirano, las decisiones de Liam no conducen a nada más que a la paz y la prosperidad del imperio bajo su gobierno, ¡y cada vez es más popular!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F14OYzH5QoBf9QbHlbGONMeQ" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1T75p_pc1uzgoMemxBnPCiw" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-im-the-heroic-knight-of-an-intergalactic-empire-novela-ligera-en-espanol/" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/14OYzH5QoBf9QbHlbGONMeQ" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1T75p_pc1uzgoMemxBnPCiw" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-im-the-heroic-knight-of-an-intergalactic-empire-novela-ligera-en-espanol/" type="text/html" title="Descargar" />
 </entry>
 </feed>

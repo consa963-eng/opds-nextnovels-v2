@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:4ae254de26</id>
 <title>Aoikou</title>
-<updated>2026-10-20T17:08:06.137113+00:00</updated>
+<updated>2026-10-20T20:38:42.009830+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-4ae254de26.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Hero-Killing Bride Novela Ligera en Español</title>
@@ -18,6 +18,6 @@
 <content type="text">A la luz del día, la hermana Alicia Snowell es una fiel y devota novia de los dioses, dedicada a servir a la Santa Iglesia y a sus seguidores. En las sombras, es una de las principales inquisidoras de la Iglesia, encargada de cazar y eliminar a los herejes por cualquier medio necesario
 
 La última misión de Alicia: asesinar al héroe Elcyon, exterminador del poderoso Señor Demonio, cuya creciente fama amenaza con eclipsar el poder político de la Iglesia. Para matar al héroe, divinamente protegido y supuestamente inmortal, Alicia primero necesita ganarse el corazón de Elcyon. Solo hay un problema: ¡Elcyon resulta ser una chica llamada Cion! Alicia no sabe qué hacer, pero mientras intenta seducir a una chica, se avecinan más problemas. Con los restos del ejército demoníaco aún sueltos, Alicia y Cion se enfrentan a una mortal batalla sobrenatural tras otra. ¿Adónde las llevarán los caminos entrelazados de las dos chicas?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1XguE28ZQWXwU7HemN55nSA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1XguE28ZQWXwU7HemN55nSA" type="text/html" title="Descargar" />
 </entry>
 </feed>

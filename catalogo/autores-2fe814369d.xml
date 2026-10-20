@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:2fe814369d</id>
 <title>You Si Jie</title>
-<updated>2026-10-20T17:08:06.222048+00:00</updated>
+<updated>2026-10-20T20:38:42.119882+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-2fe814369d.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>A Cup Of Love Novela Web en Español</title>
@@ -18,6 +18,6 @@
 La delicada joven era como una flor frágil, que requería una cuidadosa crianza para asegurarse de que no fuera aplastada. Una vez, la mantuvieron en el jarrón de otra persona; incluso solo para admirarla, tuvo que devanarse los sesos buscando excusas para visitarla.
 
 Ahora, ella ha sido trasplantada a su jardín, donde él le proporciona tierra rica y lluvia suave, lo que le permite crecer tan libremente como ella desee. Todo lo que pide a cambio es la oportunidad de verla, una y otra vez.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F10nFJgTcZIkFdlAb0AeqTGA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/10nFJgTcZIkFdlAb0AeqTGA" type="text/html" title="Descargar" />
 </entry>
 </feed>

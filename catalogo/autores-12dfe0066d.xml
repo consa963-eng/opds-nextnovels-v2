@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:12dfe0066d</id>
 <title>Wu Zhe</title>
-<updated>2026-10-20T17:08:06.219425+00:00</updated>
+<updated>2026-10-20T20:38:42.115963+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-12dfe0066d.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>A Lucky Coin Novela Web en Español</title>
@@ -22,7 +22,7 @@
 Un pasado misterioso. Una existencia errabunda. Dos adolescentes inseguros.
 
 Después que los padres de ambos desaparecen, una investigación detallada comienza a desentrañar las capas de la verdad… ¿qué deparará el futuro para Yan Hang, que desaparece sin despedirse, y para Chu Yi, de corazón noble? Cuando vuelvan a encontrarse años después, ¿qué camino seguirán?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1432HHsj4-3TbLyDlBGf0iA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1432HHsj4-3TbLyDlBGf0iA" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Antidote Novela Web en Español</title>
@@ -39,6 +39,6 @@ Después que los padres de ambos desaparecen, una investigación detallada comie
 <content type="text">Cheng Ke renunció a su trabajo y se alejó de su familia rica. Aunque es un artista que crea impresionantes piezas de arte con arena, está en el punto más bajo de su vida, sin motivación para hacer algo más que comer y dormir. Conoce a un «maleante» gracias a una disputa junto a un contenedor de basura. Por azares del destino, se vuelve el inquilino de ese hombre, Jiang Yuduo, que es un líder de pandilla que se hace cargo de los departamentos de su hermana.
 
 Sus mundos colisionan mientras pasan del rechazo mutuo a una comprensión mutua. A través del trabajo duro y la lucha, ambos alcanzan el éxito y avanzan hacia un mejor futuro.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1b1lLX_Bp5VIdY-xXomQCeA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1b1lLX_Bp5VIdY-xXomQCeA" type="text/html" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:d7592d9e73</id>
 <title>르냥</title>
-<updated>2026-10-20T17:08:06.228801+00:00</updated>
+<updated>2026-10-20T20:38:42.130037+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-d7592d9e73.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Regressed Warrior’s Female Dominance Diary Novela Web en Español</title>
@@ -33,6 +33,6 @@ El que siempre había sido manipulado por los demás, al fin se volvió egoísta
 Y ya que va a vivir a su puto antojo, decide también salvar el mundo.
 
 Para ello, ¡conquistará a todas las hembras!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1bSq6E2iemJCKjlWJ0F5vfA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1bSq6E2iemJCKjlWJ0F5vfA" type="text/html" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:06613034f3</id>
 <title>체나</title>
-<updated>2026-10-20T17:08:06.229159+00:00</updated>
+<updated>2026-10-20T20:38:42.131280+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-06613034f3.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Dukedom’s Legendary Prodigy Novela Web en Español</title>
@@ -24,6 +24,6 @@ Después de ser traicionado y dado por muerto, abrió los ojos y se encontró re
 Con la espada, la magia y la nigromancia, además del conocimiento y el poder que adquirió en su vida pasada, Dale resurge como el prodigioso genio de la casa ducal.
 
 Antiguo sabueso leal al Imperio, ahora apunta directamente a su corazón.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Lnm3V9Y8mIIiHkJtIT893g" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Lnm3V9Y8mIIiHkJtIT893g" type="text/html" title="Descargar" />
 </entry>
 </feed>

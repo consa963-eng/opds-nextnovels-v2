@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:18b8340b10</id>
 <title>久路途緑</title>
-<updated>2026-10-20T17:08:06.226430+00:00</updated>
+<updated>2026-10-20T20:38:42.126011+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-18b8340b10.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>I Thought I Had Reincarnated in a Musou Game, But It Turns Out This Is a Hardcore Grimdark Game Novela Ligera en Español</title>
@@ -25,6 +25,6 @@ En medio de su carnicería, se encuentra con Monica, otra persona que ha reencar
 ¡¿En serio?!
 
 Sin embargo, a Sharon nada de eso le importa. ¡Con un poder de combate abrumador y una locura que no tiene misericordia con nadie, se dispone a arrasarlo todo a su paso!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F11exWVC3dZIuB0uaGbyHOAA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/11exWVC3dZIuB0uaGbyHOAA" type="text/html" title="Descargar" />
 </entry>
 </feed>

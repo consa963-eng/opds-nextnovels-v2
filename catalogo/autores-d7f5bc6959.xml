@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:d7f5bc6959</id>
 <title>Awamura Akamitsu</title>
-<updated>2026-10-20T17:08:06.138795+00:00</updated>
+<updated>2026-10-20T20:38:42.011501+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-d7f5bc6959.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Seiken Tsukai no World Break Novela Ligera en Español</title>
@@ -20,6 +20,6 @@
 <content type="text">Escrita por Akamitsu Awamura, la serie se desarrolla en un instituto privado en el que existe el concepto de "salvadores". Se les conoce como personas que poseen recuerdos despiertos de sus vidas pasadas. La historia habla de un joven llamado Moroha Haimura que llega a esta escuela privada.
 
 En la escuela, hay dos tipos de personas: Los Shirogane, que luchan contra los enemigos con armas y técnicas obtenidas del Prana alimentado de sus propios cuerpos, y los Kuroma, que eliminan a los enemigos con magia para manipular los poderes del Mana que superan la física. Moroha Haimura es la primera persona con vidas pasadas tanto de Shirogane como de Kuroma.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1yTqjcaTui80_IYxIcXMz4g" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1yTqjcaTui80_IYxIcXMz4g" type="text/html" title="Descargar" />
 </entry>
 </feed>

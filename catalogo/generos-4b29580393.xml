@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:generos:4b29580393</id>
 <title>Yandere</title>
-<updated>2026-10-20T17:08:06.303952+00:00</updated>
+<updated>2026-10-20T20:38:42.254276+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-4b29580393.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Senpai, Will You Cheat With Me? Novela Ligera en Español</title>
@@ -26,6 +26,6 @@ Le propone un plan de venganza para hacerle sufrir el mismo dolor.
 Al principio, Toshiya se niega, pero ya no puede resistirse a los insistentes avances de Rinka, y terminan en una relación demasiado profunda como para dar marcha atrás...
 
 ¡La comedia romántica de «venganza» prohibida entre «yo», a quien le robaron a su novia, y una estudiante de segundo año yandere comienza aquí!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1ozq3lxMzNCQkYJYec_Wz7w" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1ozq3lxMzNCQkYJYec_Wz7w" type="text/html" title="Descargar" />
 </entry>
 </feed>

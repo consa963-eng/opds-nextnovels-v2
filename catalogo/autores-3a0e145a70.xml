@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:3a0e145a70</id>
 <title>Geon Eomul Nye</title>
-<updated>2026-10-20T17:08:06.147262+00:00</updated>
+<updated>2026-10-20T20:38:42.023253+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-3a0e145a70.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Merry Psycho Novela Web en Español</title>
@@ -36,6 +36,6 @@ Sintiendo que su mundo se derrumbaba, Seo-ryeong desató su locura reprimida.
 ¡Incapaz de atraparlo, decide que la atrapen primero!
 
 Lo que ella no se dio cuenta fue que el marido que había estado buscando durante tanto tiempo estaba a la vuelta de la esquina.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F115s2jvp_CjkJu77Oo2Numw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/115s2jvp_CjkJu77Oo2Numw" type="text/html" title="Descargar" />
 </entry>
 </feed>

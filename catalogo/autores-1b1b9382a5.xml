@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:1b1b9382a5</id>
 <title>Kanoda Kizu</title>
-<updated>2026-10-20T17:08:06.162669+00:00</updated>
+<updated>2026-10-20T20:38:42.041975+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1b1b9382a5.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Hey, Wanna Go Out With Me? Novela Ligera en Español</title>
@@ -26,6 +26,6 @@ Pensaron que sería sencillo fingir ser una pareja debido a lo mucho que habían
 —E-eh no, tomarse de la mano es embarazoso.
 
 ¡Una amiga de la infancia que es más que una amante se embarca en una vida amorosa más aventurera de lo que jamás habría imaginado!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1X6MkZ9KaPbjEo1RPiAtFzQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1X6MkZ9KaPbjEo1RPiAtFzQ" type="text/html" title="Descargar" />
 </entry>
 </feed>

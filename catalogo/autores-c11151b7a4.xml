@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:c11151b7a4</id>
 <title>Wilbright</title>
-<updated>2026-10-20T17:08:06.219158+00:00</updated>
+<updated>2026-10-20T20:38:42.114950+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-c11151b7a4.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Crown I Will Take From You Novela Web en Español</title>
@@ -39,6 +39,6 @@ La gloriosa corona que mi esposo deseaba le sería arrebatada.
 La profecía de que regresaba una vez en la vida brilló con una luz sombría.
 
 Para vengarme, yo, Medea, no me detendría ante nada.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1LcJBnn-t9mBfqojxfWyupA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1LcJBnn-t9mBfqojxfWyupA" type="text/html" title="Descargar" />
 </entry>
 </feed>

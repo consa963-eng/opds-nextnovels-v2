@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:f8eb6415ed</id>
 <title>FUNA</title>
-<updated>2026-10-20T17:08:06.145413+00:00</updated>
+<updated>2026-10-20T20:38:42.020657+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-f8eb6415ed.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>I Shall Survive Using Potions! Novela Ligera en Español</title>
@@ -22,7 +22,7 @@ Kaoru, que ahora vuelve a ser una chica de 15 años bastante avispada, ¡trabaja
 Eh, ¿Cómo una plebeya que no entiende el pensamiento de los nobles? ¿Ahora está atrapada en una historia delirante de la que intenta escapar?
 
 ¡Hey, esto es diferente de lo que me dijiste, diosa!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F12egwga6CyBT1sPtvlnToNw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/12egwga6CyBT1sPtvlnToNw" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Saving 80,000 Gold in Another World for my Retirement Novela Ligera en Español</title>
@@ -38,8 +38,8 @@ Eh, ¿Cómo una plebeya que no entiende el pensamiento de los nobles? ¿Ahora es
 <content type="text">Mitsuha es una estudiante de secundaria japonesa que se cayó accidentalmente por un acantilado y fue transportada a otro mundo al tiempo que adquiría una habilidad especial.
 
 Mitsuha quiere mucho a su familia, pero mucho más a su hermano mayor, ya que tiene complejo de hermano. Debido a su conexión con su hermano, la mayoría de sus decisiones se basan en lo que su hermano le dijo en el pasado. Además, de vez en cuando, llama a su onii-chan (hermano) de confianza cuando se encuentra en graves apuros.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1go4ZqbkcEXqyotcoi9tKig" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1K6gBRV-oU1O5nQlb5qvCkQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1go4ZqbkcEXqyotcoi9tKig" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1K6gBRV-oU1O5nQlb5qvCkQ" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Watashi, Nouryoku wa Heikinchi dette Itta yo ne! Novela Ligera en Español</title>
@@ -52,6 +52,6 @@ Mitsuha quiere mucho a su familia, pero mucho más a su hermano mayor, ya que ti
 <category term="Comedia" label="Comedia"/>
 <category term="Fantasía" label="Fantasía"/>
 <content type="text">Cuando cumplió diez años, Adele von Ascham sufrió un horrible dolor de cabeza y recordó su vida anterior como una joven japonesa de dieciocho años llamada Kurihara Misato. Sin embargo, esa vida cambió abruptamente cuando Misato murió tratando de ayudar a una niña y conoció a Dios. Durante ese encuentro, hizo una extraña petición y solicitó habilidades medias en su próxima vida. Pero pocas cosas -especialmente los deseos- salen como se planean.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F17srmjB6I1M9DzPapbWbqfg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/17srmjB6I1M9DzPapbWbqfg" type="text/html" title="Descargar" />
 </entry>
 </feed>

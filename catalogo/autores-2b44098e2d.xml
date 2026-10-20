@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:2b44098e2d</id>
 <title>Sing-Shong</title>
-<updated>2026-10-20T17:08:06.206205+00:00</updated>
+<updated>2026-10-20T20:38:42.098441+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-2b44098e2d.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Omniscient Reader’s Viewpoint Novela Web en Español</title>
@@ -26,7 +26,7 @@
 <content type="text">La novela «Tres maneras de sobrevivir al Apocalipsis» (TWSA) tardó más de una década y un total de 3.149 capítulos en publicarse, y otro tanto en leerse. Cuantos más capítulos se publicaban, más lectores abandonaban. Tras el capítulo 100, sólo quedaba uno: Kim Dokja, el último lector que leyó todo de principio a fin. Tras el último capítulo, Dokja recibe un mensaje nada menos que del propio autor. Dándole las gracias, le dice a Dokja que los capítulos de TWSA pronto serían de pago. Además, envía a Dokja un archivo con todos los capítulos de la novela.
 
 Lo que Dokja no sabía en ese momento: el mundo ficticio de TWSA se haría realidad en breve. Además, Dokja recibe un poder especial: es el «lector omnisciente», el único que sabe cómo acabará esta historia. Y para salvar a Yoo Joonghyuk, el protagonista de la novela, de retroceder una y otra vez, Dokja decide ahora devolver el favor a su héroe, que le ha acompañado durante más de diez años y ha hecho que su vida merezca la pena. Quiere crear su propio y maravilloso final feliz.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1LbhVFlnh5QB2O0KRiNm6bw" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1WXAKvSd1reKezzK_0VOB7g" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1LbhVFlnh5QB2O0KRiNm6bw" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1WXAKvSd1reKezzK_0VOB7g" type="text/html" title="Descargar" />
 </entry>
 </feed>

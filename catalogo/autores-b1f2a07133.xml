@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:b1f2a07133</id>
 <title>Amon Ibuki</title>
-<updated>2026-10-20T17:08:06.135720+00:00</updated>
+<updated>2026-10-20T20:38:42.008343+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-b1f2a07133.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Golden Kamuy Tokushirou Tsurumi’s Last Wish Novela Ligera en Español</title>
@@ -34,6 +34,6 @@ En pleno asedio envolvente contra el ejército ruso en Mukden, ocurre un suceso 
 Quinta historia: Tokushirō Tsurumi no vacila (Hajime Tsukishima)
 
 La batalla en Mukden se encuentra en un punto muerto. Las fuerzas están mermadas, las municiones escasean y la contienda atraviesa un momento crítico. Una noche, después de cenar, Tsukishima recibe una orden secreta de Tsurumi. Se trata de una estrategia oculta y asombrosa que podría decidir el resultado de la guerra.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1-sRicpNs77RvjgNg9W2u9w" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1-sRicpNs77RvjgNg9W2u9w" type="text/html" title="Descargar" />
 </entry>
 </feed>

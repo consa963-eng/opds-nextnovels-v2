@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:dbcd1f5e60</id>
 <title>Ookido Izumi</title>
-<updated>2026-10-20T17:08:06.191048+00:00</updated>
+<updated>2026-10-20T20:38:42.079537+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-dbcd1f5e60.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>I’ll Become a Villainess That Will Go Down in History Novela Ligera en Español</title>
@@ -17,6 +17,6 @@
 <category term="Romance" label="Romance"/>
 <category term="Shoujo" label="Shoujo"/>
 <content type="text">Nunca he podido soportar la típica actitud de ‘santurrona’ de las heroínas. Por suerte, todos mis sueños se hacen realidad cuando reencarno como villana. Decidida a convertirme en una mujer a la que nadie pueda criticar, me esfuerzo al máximo por entrenar mi cuerpo, mejorar mi intelecto y perfeccionar mis habilidades mágicas. Pero, por alguna razón, cuanto más me esfuerzo, más parece que le gusto a todo el mundo. No importa—traicionaré todas sus expectativas y me convertiré en la villana más grande que el mundo haya conocido jamás</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1dGNz-73PlFf3uwM2odGz-Q" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1dGNz-73PlFf3uwM2odGz-Q" type="text/html" title="Descargar" />
 </entry>
 </feed>

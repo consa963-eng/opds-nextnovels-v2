@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:bde187bbdf</id>
 <title>Shirai Muku</title>
-<updated>2026-10-20T17:08:06.204503+00:00</updated>
+<updated>2026-10-20T20:38:42.096473+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-bde187bbdf.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Why Not Take Both Twins as Your ‘Girlfriend’? Novela Ligera en Español</title>
@@ -24,7 +24,7 @@ Acepto sus sentimientos, pero justo cuando pensé que nos estábamos convirtiend
 Resulta que sus nombres eran Chikage Usami y Hikari Usami—¡son gemelas!
 
 Después de un giro inusual de los acontecimientos donde ambas gemelas me confiesan sus sentimientos, termino saliendo con ambas, según su sugerencia. En última instancia, nuestros días se llenan de citas alternas en solitario y momentos en los que los tres pasamos el tiempo juntos——</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1qFA1qnx-1Jaoye-31U75yA" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F11xZr1f9hxBHoSYXNy9KE0Q" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1qFA1qnx-1Jaoye-31U75yA" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/11xZr1f9hxBHoSYXNy9KE0Q" type="text/html" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:97b12c6e1a</id>
 <title>Sarasa Nagase</title>
-<updated>2026-10-20T17:08:06.199061+00:00</updated>
+<updated>2026-10-20T20:38:42.089673+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-97b12c6e1a.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Disowned Queen’s Consulting Detective Agency Novela Ligera en Español</title>
@@ -14,6 +14,6 @@
 <category term="Romance" label="Romance"/>
 <category term="Supernatural" label="Supernatural"/>
 <content type="text">Cuando se descubre que Octavia de Reine no es miembro legítimo de la noble Casa de Reine, la repudian rápidamente. Al principio se lo toma con calma... hasta que su padre, ávido de poder, y su antiguo pretendiente comienzan a disputarse la casa llena de misteriosas reliquias que le dejó su querida abuela. Su familia no sabe que ella está destinada a heredar un legado aún mayor. Olivia espera seguir los pasos de su abuela y convertirse en una famosa detective, ¡después de todo! Se enfrentará a jóvenes nobles, ladrones fantasmas y objetos mágicos corruptos por fuerzas demoníacas. Ah, y a una reina ángel vengativa. Además, ¿quién es ese marqués sospechosamente joven que parece tan enamorado de ella...?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1W5QnYdrILf7SxIdlhZZInQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1W5QnYdrILf7SxIdlhZZInQ" type="text/html" title="Descargar" />
 </entry>
 </feed>

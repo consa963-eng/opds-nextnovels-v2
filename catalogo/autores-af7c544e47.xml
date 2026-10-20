@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:af7c544e47</id>
 <title>Hiro Arikawa</title>
-<updated>2026-10-20T17:08:06.153216+00:00</updated>
+<updated>2026-10-20T20:38:42.030526+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-af7c544e47.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>City of Salt Novela Ligera en Español</title>
@@ -17,6 +17,6 @@
 <content type="text">En la era del desastre de la sal, la sal cubre el mundo por completo. La sal devora las ciudades sin tregua y está a punto de hacer colapsar la sociedad. Un hombre y una joven viven en el Tokio al borde de ese derrumbe. El nombre del hombre es Akinaba; el de la joven, Mana. Ante ellos, que viven en calma, pasan diversas personas: a veces con serenidad, a veces con violencia, a veces con bajeza. Mientras las ven partir, algo comienza a cambiar dentro de ambos...
 
 Ganadora del Gran Premio del 10.º Premio Dengeki y obra debut de Arikawa Hiro.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1-AO0-OMQefm5F6E3Yhi2vg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1-AO0-OMQefm5F6E3Yhi2vg" type="text/html" title="Descargar" />
 </entry>
 </feed>

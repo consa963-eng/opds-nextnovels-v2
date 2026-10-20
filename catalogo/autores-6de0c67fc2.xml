@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:6de0c67fc2</id>
 <title>아스파라거스튀김</title>
-<updated>2026-10-20T17:08:06.229011+00:00</updated>
+<updated>2026-10-20T20:38:42.130703+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-6de0c67fc2.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>I Became a Foreign Element in the Guideverse Novela Web en Español</title>
@@ -45,6 +45,6 @@ Hasta terminé haciéndome amigo de Ha Min, una belleza fuera de lo común, y qu
 Oye, Ha Min, ¿no se suponía que eras el fondo de baja autoestima? ¿Por qué eres tan lanzado?
 
 ¡Por favor, déjenme en paz y sean felices entre ustedes!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1FoNzAqe-xOKLCkSAlN_YHw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1FoNzAqe-xOKLCkSAlN_YHw" type="text/html" title="Descargar" />
 </entry>
 </feed>

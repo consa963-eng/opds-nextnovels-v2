@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:1745922eac</id>
 <title>Shuusui Tsukimi</title>
-<updated>2026-10-20T17:08:06.206029+00:00</updated>
+<updated>2026-10-20T20:38:42.098261+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1745922eac.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Sekaiichi Kawaii Musume ga Ai ni Kimashita yo! Novela Ligera en Español</title>
@@ -19,6 +19,6 @@
 <content type="text">"¡Vine a salvar el futuro de mi padre!"
 
 Iku Kudou, estudiante de segundo grado de 17 años de secundaria, de repente tiene una hija. Un día, una niña llamada Touka que se autoproclamó como su hija apareció frente a él. No recuerda haber tenido un hijo, pero Touka parece haber venido del futuro para salvar el futuro de su padre y su madre. Sin embargo, sin mencionar la forma de regresar al futuro, ¿incluso se está olvidando de lo mas escencial su "mamá" ...? Los dos comienzan a buscar una pista de esa "futura madre". Las candidatas son 3 chicas que Iku conoce bien. Para acortar la distancia entre ellos, tuvo que hacer un uso completo del artículo llamado "Papashu"(Paparts) que Touka trajo con ella.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1O-sZdbf9z5XtqCQEMkqb8Q" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1O-sZdbf9z5XtqCQEMkqb8Q" type="text/html" title="Descargar" />
 </entry>
 </feed>

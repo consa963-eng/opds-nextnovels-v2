@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:286b3fc3de</id>
 <title>Sou Akaike</title>
-<updated>2026-10-20T17:08:06.207793+00:00</updated>
+<updated>2026-10-20T20:38:42.099472+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-286b3fc3de.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Easygoing Territory Defense by the Optimistic Lord Novela Ligera en Español</title>
@@ -25,6 +25,6 @@ Acompañado por un puñado de fieles seguidores que voluntariamente renunciaron 
 Lo que nadie imagina es que la "inútil" magia de producción de Van encierra un potencial revolucionario. Capaz de crear objetos indestructibles con un pensamiento, forjar acero en segundos y construir fortificaciones en un día, el niño noble convertido en señor está a punto de transformar una aldea condenada en la fortaleza inexpugnable que será la envidia del reino.
 
 La batalla por la aldea sin nombre apenas comienza.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1-9nQXetGNiKb0dVJ72NfqQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1-9nQXetGNiKb0dVJ72NfqQ" type="text/html" title="Descargar" />
 </entry>
 </feed>

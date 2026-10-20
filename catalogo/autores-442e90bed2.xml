@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:442e90bed2</id>
 <title>Hachimoku Mei</title>
-<updated>2026-10-20T17:08:06.147931+00:00</updated>
+<updated>2026-10-20T20:38:42.024436+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-442e90bed2.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Mimosa Confessions Novela Ligera en Español</title>
@@ -17,6 +17,6 @@
 <category term="Vida Escolar" label="Vida Escolar"/>
 <category term="Yaoi" label="Yaoi"/>
 <content type="text">Creciendo en una lúgubre zona rural, Sakuma Kamiki tenía poco que alegrara sus monótonos días, aparte de su mejor amigo. El brillante y talentoso Ushio parecía tener todo lo que a Sakuma le faltaba, y su buena apariencia, desempeño académico y destreza atlética lo hacían popular entre las chicas de la escuela. Traumas pasados —y un complejo de inferioridad— los fueron separando lentamente, y para cuando entraron a la preparatoria, apenas se hablaban. Así, Sakuma se encuentra solo. Contra todo pronóstico, Sakuma finalmente consigue una amiga en Natsuki, la chica más dulce de la clase. Los dos congenian al hablar con entusiasmo sobre sus novelas favoritas, y él se enamora perdidamente de ella. Pero esa misma noche, se topa con una escena inesperada mientras camina por un parque conocido: su viejo amigo Ushio, vestido con un uniforme escolar de chica completo y sollozando incontrolablemente.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1yA3Yy68fMAPZ-ObJNTKdhg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1yA3Yy68fMAPZ-ObJNTKdhg" type="text/html" title="Descargar" />
 </entry>
 </feed>

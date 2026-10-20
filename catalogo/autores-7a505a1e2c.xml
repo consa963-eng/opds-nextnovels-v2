@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:7a505a1e2c</id>
 <title>Muku Shirai</title>
-<updated>2026-10-20T17:08:06.183768+00:00</updated>
+<updated>2026-10-20T20:38:42.070941+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-7a505a1e2c.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>I Became the Private Tutor for a Group of Gyarus Novela Ligera en Español</title>
@@ -28,7 +28,7 @@ Al principio, Ryusei no deja de verse arrastrado por el ritmo de estas chicas ru
 Poco a poco, la distancia entre ellos comienza a acortarse... ¿¡O quizás algo más!?
 
 Una vida escolar bastante seria, rodeado de gyarus que se esfuerzan al máximo ¡Que se alce el telón de esta historia!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1aCtDRcOk--G86tqFAIBHuA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1aCtDRcOk--G86tqFAIBHuA" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>My Bride Candidates Are Living With Me Now Novela Ligera en Español</title>
@@ -45,6 +45,6 @@ La más reciente obra del exitoso equipo responsable de "Jitsu wa Imouto Deshita
 La convivencia con tres amigas de la infancia se vuelve cada vez más dulce a medida que los malentendidos y las confusiones se acumulan. Cuanto más se desbordan y fracasan sus intentos de expresar sus sentimientos, más se acorta la distancia entre ellos.
 
 ¡Una tierna y apasionada vida de convivencia romántica que te hará sonreír de principio a fin!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://www.facebook.com/profile.php?id=100083362014420" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://www.facebook.com/profile.php?id=100083362014420" type="text/html" title="Descargar" />
 </entry>
 </feed>

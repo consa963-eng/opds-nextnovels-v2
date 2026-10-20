@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:215fb87fed</id>
 <title>Kasugamaru</title>
-<updated>2026-10-20T17:08:06.164118+00:00</updated>
+<updated>2026-10-20T20:38:42.043689+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-215fb87fed.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Raising the Flaming Flags of War Novela Ligera en Español</title>
@@ -20,6 +20,6 @@
 El tiempo pasa, y en una aldea remota del reino nace un muchacho misterioso. Poseedor de un talento que bien podría llamarse de niño prodigio, su nombre es Marco.
 
 Todos los que se cruzan con él quedan fascinados, como si en su interior vieran el reflejo de aquel antiguo campeón, Salomón. Esta es la historia de unos hombres que, guiados por el destino, vivieron en una era de grandes turbulencias.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1ovTL2bGvAIVhSCnPbxpYqg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1ovTL2bGvAIVhSCnPbxpYqg" type="text/html" title="Descargar" />
 </entry>
 </feed>

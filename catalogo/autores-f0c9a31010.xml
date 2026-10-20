@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:f0c9a31010</id>
 <title>Mao Nishiura</title>
-<updated>2026-10-20T17:08:06.175393+00:00</updated>
+<updated>2026-10-20T20:38:42.060530+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-f0c9a31010.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Pens Down, Swords Up Novela Ligera en Español</title>
@@ -22,6 +22,6 @@ Allen, el tercer hijo de una familia noble rural nacida en una sociedad aristocr
 Sin embargo, sus recuerdos de la vida anterior resucitan de repente: ¡un trabajador matado de los estudios que se la pasaba inmerso en exámenes de admisión y certificaciones! Aprovechando los conocimientos de su vida pasada, entrenó al máximo tanto sus aptitudes académicas como sus habilidades marciales para desafiar a la escuela de élite más difícil de todas. Su vertiginoso crecimiento llegó al punto de hacer dudar a todos sobre un posible fraude, convirtiéndose en el centro de atención tanto de aspirantes como de profesores.
 
 Durante la entrevista de aventurero revive los recuerdos de la búsqueda de empleo, y frente al aterrador examinador los de su castrante jefe anterior, ¡¿lo que lo llevará a armar aún más alboroto por toda la academia?!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Rc-3eHkIfFNuntdsxi080g" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Rc-3eHkIfFNuntdsxi080g" type="text/html" title="Descargar" />
 </entry>
 </feed>

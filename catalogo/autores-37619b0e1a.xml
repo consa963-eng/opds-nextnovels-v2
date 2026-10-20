@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:37619b0e1a</id>
 <title>Kobayashi Kotei</title>
-<updated>2026-10-20T17:08:06.168529+00:00</updated>
+<updated>2026-10-20T20:38:42.052323+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-37619b0e1a.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Hikikomari Kyuuketsuki no Monmon Novela Ligera en Español</title>
@@ -25,8 +25,8 @@ Ante la infinita desesperación, su doncella de confianza (?), Vill, acude al re
 "Por favor, déjemelo a mí, Komari-sama. Me aseguraré de que no te descubran".
 
 Así comienza la cómica fantasía que retrata las luchas de Komari. Es una persona encerrada, pero puede hacerlo si se lo propone.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1iT1VW893CUlbLNXWE6vaIQ" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1NgjB169vShZN_EgGXDs8bg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1iT1VW893CUlbLNXWE6vaIQ" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1NgjB169vShZN_EgGXDs8bg" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>I Accidentally Became a Thief Novela Ligera en Español</title>
@@ -39,6 +39,6 @@ Así comienza la cómica fantasía que retrata las luchas de Komari. Es una pers
 <category term="Comedia" label="Comedia"/>
 <category term="Yuri" label="Yuri"/>
 <content type="text">Nora, apodada la "Princesa Fantasma" por su presencia nula e invisible, vive sumida en deudas tras fallar en cien entrevistas de trabajo. Su vida da un vuelco cuando, tras ser perseguida por prestamistas, termina uniéndose accidentalmente a Lucky Lilac, un grupo de ladronas de guante blanco. Al descubrir que su falta de presencia es el talento perfecto para el robo, Nora deberá usar su "invisibilidad" para recuperar tesoros, enfrentar criminales y cumplir su gran sueño: ¡dejar atrás la pobreza y convertirse en millonaria!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1oi9d8PmdbLCzW-INUBKLTA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1oi9d8PmdbLCzW-INUBKLTA" type="text/html" title="Descargar" />
 </entry>
 </feed>

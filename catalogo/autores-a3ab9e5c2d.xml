@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:a3ab9e5c2d</id>
 <title>Shunto Saiba</title>
-<updated>2026-10-20T17:08:06.205697+00:00</updated>
+<updated>2026-10-20T20:38:42.097923+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-a3ab9e5c2d.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>You and I Are Polar Opposites Sunny &amp; Rainy Novela Ligera en Español</title>
@@ -25,6 +25,6 @@ Y Nishi-san acaba prestándole un libro que le gusta a Yamada, pero...
 ¿¡...!?
 
 ¡Una antología de relatos breves que narra los acontecimientos de un mismo día desde tres perspectivas distintas!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F11Egx3aLMXXDPGzuWErPBfA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/11Egx3aLMXXDPGzuWErPBfA" type="text/html" title="Descargar" />
 </entry>
 </feed>

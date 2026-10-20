@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:154dfd5d42</id>
 <title>Kinome</title>
-<updated>2026-10-20T17:08:06.167100+00:00</updated>
+<updated>2026-10-20T20:38:42.050097+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-154dfd5d42.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Akuyaku Onzoushi no Kanchigai Seija Seikatsu Novela Ligera en Español</title>
@@ -28,8 +28,8 @@ Quería el poder. Decidió engañar a la expulsada capitana de los caballeros y 
 ...Sólo por su "comportamiento arrogante", ¿por qué su reputación sigue subiendo sin que él lo controle?
 
 Sin embargo, Ouga sigue sin darse cuenta. Todavía no sabe que esta evaluación se convertirá en algo más allá de su propia gestión. ¿Adónde conducirá el malentendido? ¿Un santo autoproclamado debido a un malentendido por ser un heredero villano? ¡Se levanta el telón de una vida de malentendidos y santidad mal entendida!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1dmdZNavi2HYrdb0gdrwWtA" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1KG4Jv3Fr3k_wxS9aU4AKcA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1dmdZNavi2HYrdb0gdrwWtA" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1KG4Jv3Fr3k_wxS9aU4AKcA" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>I Got Kicked Out of the Hero’s Party, so I Went Back to My Hometown, but the Entire Party Followed Me Novela Ligera en Español</title>
@@ -64,7 +64,7 @@ Sin darse cuenta, Jin había hecho promesas de matrimonio a tres chicas distinta
 ¡E-esperen, tranquilícense todas un poco!
 
 ¡Da inicio una fantasía de harén × vida tranquila, llena de enredos románticos y comedia desbordante!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1vTB2Og-20tKLRop1EeppUg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1vTB2Og-20tKLRop1EeppUg" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>The Master Plan Novela Ligera en Español</title>
@@ -90,6 +90,6 @@ Su política de enseñanza consiste en abandonarla, provocarla e insultarla sin 
 Sin embargo, Elira queda completamente fascinada y dice: “Eres la primera persona que me acepta de frente de esta manera…”. ¡Y antes de darse cuenta, incluso termina comprometida con Kanata por iniciativa propia! ¿¡Además, otras estudiantes que admiran a Kanata comienzan a reunirse a su alrededor!?
 
 ¡Da inicio una fantasía harem imprevista protagonizada por un aspirante a villano!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1_LsPeAmCWr0mRhK3uyDd7Q" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1_LsPeAmCWr0mRhK3uyDd7Q" type="text/html" title="Descargar" />
 </entry>
 </feed>

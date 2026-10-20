@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:6955dc64d2</id>
 <title>Kawahara Reki</title>
-<updated>2026-10-20T17:08:06.164452+00:00</updated>
+<updated>2026-10-20T20:38:42.044072+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-6955dc64d2.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Sword Art Online Novela Ligera en Español</title>
@@ -28,10 +28,10 @@ Luego de unos momentos TODOS los jugadores fueron teletransportados a una plaza 
 La única forma de sobrevivir y salir del juego es venciendo a los jefes finales de cada piso, en total 100.
 
 Pero hay un problema, si muere en el juego, morirá en la vida real.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F15jRvv40fNmC4QfuC3OF0ww" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1zFF7zhiKCA2L0zO65dgUZg" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1BgZ4X553fT9zcXDPsaqKUg" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1ZDy9m5lSGh63hBxqZ61otg" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1yM8GW0zpoCGAJ5Zj-7YCZg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/15jRvv40fNmC4QfuC3OF0ww" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1zFF7zhiKCA2L0zO65dgUZg" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1BgZ4X553fT9zcXDPsaqKUg" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1ZDy9m5lSGh63hBxqZ61otg" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1yM8GW0zpoCGAJ5Zj-7YCZg" type="text/html" title="Descargar" />
 </entry>
 </feed>

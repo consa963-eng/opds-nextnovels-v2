@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:9dbd6e3173</id>
 <title>Takata</title>
-<updated>2026-10-20T17:08:06.210424+00:00</updated>
+<updated>2026-10-20T20:38:42.102864+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-9dbd6e3173.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta Novela Ligera en Español</title>
@@ -22,7 +22,7 @@ Se llamaba Asanagi-san. Los chicos de mi clase la llamaban "La segunda chica má
 Los viernes, rechazaba la invitación de su mejor amiga, Amami, "la chica más linda de la clase", para pasar el rato en mi casa conmigo.
 
 Juntos, jugábamos, veíamos películas y leíamos manga mientras comíamos comida basura, como pizza y hamburguesas, y bebíamos refrescos de cola sin preocuparnos de nada. Para los demás, podíamos parecer descuidados, pero para Asanagi-san y para mí era un tiempo precioso y secreto juntos.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1j9ZLeulcH3vQQGf5LUnM1w" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1pdnUyvPyssvLQwI06eKigw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1j9ZLeulcH3vQQGf5LUnM1w" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1pdnUyvPyssvLQwI06eKigw" type="text/html" title="Descargar" />
 </entry>
 </feed>

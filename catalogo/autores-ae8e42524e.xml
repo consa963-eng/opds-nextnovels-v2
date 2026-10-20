@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:ae8e42524e</id>
 <title>Wang Yu</title>
-<updated>2026-10-20T17:08:06.218670+00:00</updated>
+<updated>2026-10-20T20:38:42.114132+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-ae8e42524e.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Divine Transcendence Novela Web en Español</title>
@@ -20,6 +20,6 @@
 Esta es la leyenda de una bestia s*ave que está descontenta con su destino y lucha contra todos los reinos.
 
 Sabe que sólo convirtiéndose en inmortal podrá este reino recuperar por fin el aliento.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1ANLg4CLYR_aL2ssydXqodA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1ANLg4CLYR_aL2ssydXqodA" type="text/html" title="Descargar" />
 </entry>
 </feed>

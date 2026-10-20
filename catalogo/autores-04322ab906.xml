@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:04322ab906</id>
 <title>Hiroshi Ishikawa</title>
-<updated>2026-10-20T17:08:06.153878+00:00</updated>
+<updated>2026-10-20T20:38:42.031217+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-04322ab906.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Alliance of the 15s Novela Ligera en Español</title>
@@ -18,7 +18,7 @@
 <content type="text">Ryoichi, un joven de 15 años de edad conoce a Naomi, una adolescente quien por medio de su amigo de la infancia, Tetsuya, el As del equipo de béisbol de su escuela, está luchando contra una enfermedad que amenaza su vida.
 
 Mientras Ryoichi se empieza a acercar a Naomi, ella abre sus miedos y secretos hacia él, haciendo que Ryoichi cuide también de ella. Pero un día, cuando él la visita en el hospital, ella de repente le pregunta: "¿Por qué no nos suicidamos?"</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F14jbrgADLfmgkMY4qu89UYA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/14jbrgADLfmgkMY4qu89UYA" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Defy Winter Novela Ligera en Español</title>
@@ -38,6 +38,6 @@ La playa de la ciudad de Izumimachi, en Kanagawa, también estaba cubierta de ni
 Armado con una pala para la nieve, Yukihisa llega a cierto lugar de su barrio. Más allá de un portón corredizo se alzaba una casa con un diseño único, su diseño de cristal remarcaba su magnificencia. Una chica paleaba nieve dentro. Era Manase Minami, su compañera de clases que se había trasladado a su escuela hace poco. Vivía sola en esa casa. Para él, el llegar a esa casa y ayudar a Minami a quitar la nieve se había convertido en su rutina diaria.
 
 Yukihisa y Minami tenían una relación secreta, que era difícil de describir hasta para ellos. Ninguno de sus compañeros sabía de la misma. Y, en este mundo cubierto por la nieve, sería su mayor tesoro.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1SQKknh338znTeJJxi-lJOQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1SQKknh338znTeJJxi-lJOQ" type="text/html" title="Descargar" />
 </entry>
 </feed>

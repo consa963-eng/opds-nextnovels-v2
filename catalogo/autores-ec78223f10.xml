@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:ec78223f10</id>
 <title>Shinjin</title>
-<updated>2026-10-20T17:08:06.203564+00:00</updated>
+<updated>2026-10-20T20:38:42.095218+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-ec78223f10.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>For Some Reason, the Light-Attribute Beauty Asahi-san Has Been Spending Every Weekend in My Room Novela Ligera en Español</title>
@@ -37,6 +37,6 @@ Mientras se acumulan los fines de semanas, también lo hace el afecto entre ello
 "Pues muy bien, vendré mañana a la misma hora, así que preparate, ¿okey?"
 
 Esta es la historia de una chica de luz y un chico de oscuridad— enamorándose con un destellos de colores del arcoíris.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1ZBmyczraukYg3wig5gq-Cw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1ZBmyczraukYg3wig5gq-Cw" type="text/html" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:24417c2480</id>
 <title>Almond</title>
-<updated>2026-10-20T17:08:06.133883+00:00</updated>
+<updated>2026-10-20T20:38:42.006320+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-24417c2480.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Oblivious Saint Can’t Contain Her Power Novela Ligera en Español</title>
@@ -14,6 +14,6 @@
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
 <content type="text">El duque tiene dos hijas: Flora, que es hermosa y una candidata a ser santa, y Carolina, que es poco agraciada y carece de talento. Un día, con el fin de mejorar las relaciones con un país vecino, se decide que Carolina se case con el segundo príncipe, a pesar de los rumores de que él puede ser brutal y cruel. Después de casarse, se dieron cuenta de que, en realidad, Carolina era la hermana con más talento.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F17MDwEKzqinCYdbAQdlgJqQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/17MDwEKzqinCYdbAQdlgJqQ" type="text/html" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:13bceb914c</id>
 <title>Ishi No Yassan</title>
-<updated>2026-10-20T17:08:06.157508+00:00</updated>
+<updated>2026-10-20T20:38:42.035630+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-13bceb914c.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Betrayed by the Hero, I Formed a MILF Party with His Mom! Novela Ligera en Español</title>
@@ -24,7 +24,7 @@
 Sin embargo, en realidad es una persona reencarnada y solía ser mucho mayor, por lo que no le afectó demasiado cuando fue expulsado.
 
 Y él fue... bueno, a partir de aquí, tendrás que leer para descubrirlo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1M9-VG-yY2FHpK7TieJncqQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1M9-VG-yY2FHpK7TieJncqQ" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Betrayed by the Hero, I Formed a MILF Party with His Mom! Novela Web en Español</title>
@@ -46,6 +46,6 @@ Y él fue... bueno, a partir de aquí, tendrás que leer para descubrirlo.</cont
 Sin embargo, en realidad es una persona reencarnada y solía ser mucho mayor, así que no lo soportó tanto cuando lo expulsaron.
 
 Y fue… bueno, a partir de aquí, tendrás que seguir leyendo para averiguarlo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F16QNQwfVRiOh0C1X5EWXRbg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/16QNQwfVRiOh0C1X5EWXRbg" type="text/html" title="Descargar" />
 </entry>
 </feed>

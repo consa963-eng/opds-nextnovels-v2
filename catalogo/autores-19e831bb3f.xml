@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:19e831bb3f</id>
 <title>Nishi Jouyou</title>
-<updated>2026-10-20T17:08:06.188846+00:00</updated>
+<updated>2026-10-20T20:38:42.076943+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-19e831bb3f.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>I’m Fine With Being the Second Girlfriend Novela Ligera en Español</title>
@@ -30,6 +30,6 @@ Pero la segunda opción sigue siendo la segunda opción, así que si el sentimie
 Aunque ambos nos acercamos a la persona que más nos gusta, seguimos enredándonos el uno en el otro, sin poder parar, sin poder soltarnos pase lo que pase…
 
 Este es el desenlace de un amor ya irreparable, peligroso al cien por cien, puro, malsano y complicado.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1MuCsatXjgKLrASu406slxw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1MuCsatXjgKLrASu406slxw" type="text/html" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:a87541bd51</id>
 <title>Karasawa Kazuki</title>
-<updated>2026-10-20T17:08:06.163416+00:00</updated>
+<updated>2026-10-20T20:38:42.042825+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-a87541bd51.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Reincarnated Girl’s Resume Novela Ligera en Español</title>
@@ -25,7 +25,7 @@ Una chica que destacaba en todas las áreas —estudios, deportes, arte—, pero
 Cuando ya parecía que, gracias a su esfuerzo, la inanición quedaba descartada, aparecen unos magos. Ryou presencia la magia con sus propios ojos y descubre que aquel es un mundo distinto, donde existe un fenómeno sobrenatural como la magia.
 
 En ese otro mundo, gobernado de forma absoluta por los hechiceros, Ryou aprovecha los saberes y habilidades de su vida anterior mientras va mudándose de un sitio a otro: de campesina, a criada de nobles, a bandida…</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1aZRVWBGsZYwjrr_5yYVXhg" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1eK7MAt-Ju8uF829y5mhojw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1aZRVWBGsZYwjrr_5yYVXhg" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1eK7MAt-Ju8uF829y5mhojw" type="text/html" title="Descargar" />
 </entry>
 </feed>

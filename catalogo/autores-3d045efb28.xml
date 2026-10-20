@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:3d045efb28</id>
 <title>Shippo Senoo</title>
-<updated>2026-10-20T17:08:06.204342+00:00</updated>
+<updated>2026-10-20T20:38:42.096304+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-3d045efb28.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Cleric in a World Where Beauty and Ugliness Are Reversed Novela Ligera en Español</title>
@@ -18,6 +18,6 @@
 <category term="Maduro" label="Maduro"/>
 <category term="Romance" label="Romance"/>
 <content type="text">Makoto, un virgen de 30 años, meticulosamente investiga para dar el siguiente paso en la escalera de la adultez. Sin embargo, termina en un «club para adultos» selecto y de alta categoría, donde accidentalmente cae por las escaleras y renace en otro mundo. En este nuevo mundo, los conceptos de «castidad» y «belleza» se invierten por completo en comparación con la Tierra, y además, ¡hay una extrema escasez de hombres! En el gremio de aventureros de la ciudad, el trabajo que le asignan es el de «clérigo». ¡Su tarea es realizar rituales «sensuales» para calmar la «maldición del deseo lujurioso» de las aventureras femeninas! ¡Comienza un enfrentamiento de 24 horas contra las maldiciones con «Elfo Tetona», «Caballero Mujer» y «Loli Explosiva»! ¿Podrá liberar los corazones heridos de estas mujeres, que son menospreciadas como «mujeres feas» en todo el mundo, con rituales llenos de amor en un mundo donde se invierten los estándares de belleza? ¡Una historia de fantasía erótica de otro mundo donde las mentes y los cuerpos de un virgen y mujeres hermosas se entrelazan en un mundo de «inversión de belleza»!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1n3WJ4Fj5Zkp_2PHeL-Zo2Q" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1n3WJ4Fj5Zkp_2PHeL-Zo2Q" type="text/html" title="Descargar" />
 </entry>
 </feed>

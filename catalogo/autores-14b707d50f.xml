@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:14b707d50f</id>
 <title>Harajun</title>
-<updated>2026-10-20T17:08:06.149901+00:00</updated>
+<updated>2026-10-20T20:38:42.026809+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-14b707d50f.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>EXP Is Golden Novela Ligera en Español</title>
@@ -20,6 +20,6 @@
 Combinando Retainer con sus poderosos hechizos de encantamiento, Leah va formando poco a poco un ejército de sirvientes compuesto por formidables PNJ jefes únicos del juego. Con los puntos de experiencia lloviéndole, Leah se consolida como una fuerza a tener en cuenta… ¡solo para ser tachada de desastre natural viviente!
 
 Bueno, si los PNJ quieren coronarla Reina de la Destrucción, ¿quién es Leah para discutirlo? Las oportunidades de acelerar la destrucción de la humanidad no aparecen muy a menudo, y Leah no tiene intención de dejar que esta oportunidad se desperdicie.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1AKXul2rLBSowLhJU4mC8Ig" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1AKXul2rLBSowLhJU4mC8Ig" type="text/html" title="Descargar" />
 </entry>
 </feed>

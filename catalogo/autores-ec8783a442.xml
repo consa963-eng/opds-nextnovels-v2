@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:ec8783a442</id>
 <title>Lee Rinbi</title>
-<updated>2026-10-20T17:08:06.174182+00:00</updated>
+<updated>2026-10-20T20:38:42.058674+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-ec8783a442.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Princess Imprint A Traitor Novela Web en Español</title>
@@ -21,6 +21,6 @@ Evienrose, que se despertó ocho años atrás, ahora tiene un objetivo: converti
 Para lograrlo, nombra al propio rey rebelde, Michael Agnito, como su caballero personal.
 
 Pero con la intrigante hermana de Evienrose en el camino, la lucha por la corona está en marcha, ¡y el destino del Imperio Hadelamid está en sus manos!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1dOQ0dzEFKB1s8EQRtzz0Bg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1dOQ0dzEFKB1s8EQRtzz0Bg" type="text/html" title="Descargar" />
 </entry>
 </feed>

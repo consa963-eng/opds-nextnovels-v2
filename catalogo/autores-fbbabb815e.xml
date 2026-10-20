@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:fbbabb815e</id>
 <title>Niteron</title>
-<updated>2026-10-20T17:08:06.189241+00:00</updated>
+<updated>2026-10-20T20:38:42.077458+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-fbbabb815e.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Hole in My Heart Cannot Be Filled with Reincarnation Novela Ligera en Español</title>
@@ -18,6 +18,6 @@
 <category term="Psicológico" label="Psicológico"/>
 <category term="Romance" label="Romance"/>
 <content type="text">En un mundo donde los deseos despiertan magias únicas y los guerreros Adepts gozan de privilegios supremos, el reencarnado Konoe alcanza esta codiciada posición con un solo objetivo en mente: conseguir una poción de amor. Marcado por el trauma de su vida pasada e incapaz de confiar en los demás, cree que solo un brebaje mágico le permitirá ser al fin la persona más importante para alguien. Sin embargo, su plan da un giro inesperado cuando una chica de cabellos dorados y enfermedad terminal se cruza en su camino, ofreciéndole su devoción absoluta a cambio de que la salve.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F16ZnGyvUYcYxkTbk4TcKhTw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/16ZnGyvUYcYxkTbk4TcKhTw" type="text/html" title="Descargar" />
 </entry>
 </feed>

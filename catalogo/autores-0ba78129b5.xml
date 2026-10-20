@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:0ba78129b5</id>
 <title>Shin Kouduki</title>
-<updated>2026-10-20T17:08:06.203030+00:00</updated>
+<updated>2026-10-20T20:38:42.094593+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-0ba78129b5.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Banished Former Hero Lives as He Pleases Novela Ligera en Español</title>
@@ -17,6 +17,6 @@
 <category term="Harem" label="Harem"/>
 <category term="Romance" label="Romance"/>
 <content type="text">Considerado un «inútil» por su bajo nivel y su falta de un don divino, Allen es despojado de su estatus noble y desterrado del Ducado de Westfeldt. Pero Allen tiene un secreto: fue un gran héroe en su vida anterior, ¡y está encantado de tener la oportunidad de vivir por fin como le plazca! Sin embargo, su existencia sin dramas pronto se ve interrumpida por un encuentro desesperado con su exnovia. Como antiguo héroe que aún posee los increíbles poderes de su vida pasada, Allen no puede ignorar a alguien que necesita ayuda, ¡por mucho que le gustaría hacerlo! ¡Y así comienza la nueva saga heroica que nuestro antiguo héroe nunca quiso!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1lWmlSPfLPkjCPL18obyIkQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1lWmlSPfLPkjCPL18obyIkQ" type="text/html" title="Descargar" />
 </entry>
 </feed>

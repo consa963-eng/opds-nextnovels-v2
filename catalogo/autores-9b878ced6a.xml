@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:9b878ced6a</id>
 <title>Masaki Tama</title>
-<updated>2026-10-20T17:08:06.176544+00:00</updated>
+<updated>2026-10-20T20:38:42.061806+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-9b878ced6a.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>TS Eiseihei-san no Senjou Nikki Novela Web en Español</title>
@@ -24,7 +24,7 @@ Tras descubrirse su aptitud para la magia curativa, decidió alistarse voluntari
 La misión que se le encomienda es convertirse en la médico personal del as del frente, Garback, y no dejarle morir a cualquier precio. Pero resultó ser el peor de los comandantes, que intentará obtener resultados cueste lo que cueste, ¡incluso si eso significa la muerte de sus subordinados!
 
 En el frente, sumido en órdenes irracionales y violencia, comienza la feroz batalla de Touri por la supervivencia...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1H0xlGv_U-ngVJyIpuYMw0w" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1JcQftPYXY-LvvxknV1WI5A" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1H0xlGv_U-ngVJyIpuYMw0w" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1JcQftPYXY-LvvxknV1WI5A" type="text/html" title="Descargar" />
 </entry>
 </feed>

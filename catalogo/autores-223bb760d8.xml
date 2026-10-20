@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:223bb760d8</id>
 <title>Habara Tetsu</title>
-<updated>2026-10-20T17:08:06.147740+00:00</updated>
+<updated>2026-10-20T20:38:42.024282+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-223bb760d8.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Reborn Gladiator in the Procreation Colosseum Novela Ligera en Español</title>
@@ -34,6 +34,6 @@ La cuarta princesa, Luna, también levanta su hermoso trasero……
 ¡Incluso la esclava gladiadora elfa, Duranta, le ofrece su anhelo!
 
 Entregando su esencia en el interior de las cuatro, una por una…… ¡tras el ciclo de la reencarnación, por fin ha encontrado el harem definitivo!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1iD4I1VffDV07gJw6DUyJMw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1iD4I1VffDV07gJw6DUyJMw" type="text/html" title="Descargar" />
 </entry>
 </feed>

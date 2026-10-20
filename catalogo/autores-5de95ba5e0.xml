@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:5de95ba5e0</id>
 <title>Amamiya Kazuki</title>
-<updated>2026-10-20T17:08:06.134553+00:00</updated>
+<updated>2026-10-20T20:38:42.007040+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-5de95ba5e0.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Haibara’s Teenage New Game+ Novela Ligera en Español</title>
@@ -21,8 +21,8 @@ Natsuki se le dio la oportunidad de "rehacer" su vida de secundaria llena de arr
 ¡Lo que es más, la hermosa chica que una vez le había gustado, Hikari, ¿también estaba allí...?!
 
 El inconsciente joven inicia su segunda adolescencia nuevamente en la vida, ¡una nueva comedia rómatica estudiantil!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1jMjlzOufK7BeXCZhCPl4IQ" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1pFobiPgVbG-Kvu4tB_CNAA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1jMjlzOufK7BeXCZhCPl4IQ" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1pFobiPgVbG-Kvu4tB_CNAA" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Our Secret Youth in the Night School Novela Ligera en Español</title>
@@ -50,6 +50,6 @@ Ogino Misato, una gyaru amante de la música que era reservada.
 Y Akazawa You, el payaso de la clase, siempre alegre y despreocupado.
 
 Para Shuuto, ellos eran la élite social, gente de un mundo al que no pertenecía. Pero por alguna razón… ¡¿actuaban de forma completamente diferente a</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1tqc2KrEXNZDYp8QEabfCzQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1tqc2KrEXNZDYp8QEabfCzQ" type="text/html" title="Descargar" />
 </entry>
 </feed>

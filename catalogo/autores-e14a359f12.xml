@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:e14a359f12</id>
 <title>Bashoka Bashozoku</title>
-<updated>2026-10-20T17:08:06.140065+00:00</updated>
+<updated>2026-10-20T20:38:42.013104+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-e14a359f12.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Predator Witches Novela Ligera en Español</title>
@@ -23,6 +23,6 @@ La estudiante de instituto Renka Azuma es una de ellas; su alter ego es Silver L
 Un día, Silver Lotus rescata a una compañera bruja, una novata llamada Azure Nova, de un ataque de los Incubi. Este encuentro con su autoproclamada admiradora supone un cambio en la solitaria vida cotidiana de Silver Lotus.
 
 ¡Así comienza una oscura fantasía sobre una chica mágica poco ortodoxa que controla insectos para devorar monstruos!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1J4v3m_8JBJKRO5JsBWU44A" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1J4v3m_8JBJKRO5JsBWU44A" type="text/html" title="Descargar" />
 </entry>
 </feed>

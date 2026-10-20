@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:09267b7587</id>
 <title>Takumi Hiiragiboshi</title>
-<updated>2026-10-20T17:08:06.211540+00:00</updated>
+<updated>2026-10-20T20:38:42.104173+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-09267b7587.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Absolute Duo Novela Ligera en Español</title>
@@ -18,6 +18,6 @@
 <category term="Supernatural" label="Supernatural"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Tōru Kokonoe es un joven que decide, luego de perder a alguien valioso en un aterrador incidente, ser más fuerte. Por ende, se inscribe en una escuela especial donde las personas manifiestan sus almas como armas llamadas Blaze. Las personas con esta inusual habilidad son denominados "Exceed" y este fenómeno se da en 1 de cada 1000 personas. Tōru es capaz de producir su propio Blaze, pero por alguna razón se manifiesta como un escudo en lugar de un arma.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1TAAMkB88kXblSB0ZuqSNBw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1TAAMkB88kXblSB0ZuqSNBw" type="text/html" title="Descargar" />
 </entry>
 </feed>

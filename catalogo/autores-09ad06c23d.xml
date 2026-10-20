@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:09ad06c23d</id>
 <title>Fuyuse</title>
-<updated>2026-10-20T17:08:06.146150+00:00</updated>
+<updated>2026-10-20T20:38:42.021626+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-09ad06c23d.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Gunjin Shoujo, Kouritsu Mahou Gakuen ni Sennyuu Suru Koto ni Narimashita Novela Web en Español</title>
@@ -30,6 +30,6 @@ Aunque estaba desconcertada por la reluciente vida escolar, intentaba vivir de t
 Como guardaespaldas, su vida terminaría si alguno de los hijos nobles resultara herido. Pero luego apareció una joven que afirmaba ser la villana con un destino funesto. Si la chica moría, ¿no moriría ella también?
 
 Hoy, Razé continuará vigilando su vida escolar (con su propia vida en juego).</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1NlBYBhmWoR9g-JW1XWmAdA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1NlBYBhmWoR9g-JW1XWmAdA" type="text/html" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:c7fab75b6f</id>
 <title>Yamata Nagato</title>
-<updated>2026-10-20T17:08:06.220365+00:00</updated>
+<updated>2026-10-20T20:38:42.117417+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-c7fab75b6f.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The World's Fastest Level Up Novela Web en Español</title>
@@ -18,6 +18,6 @@
 <category term="Romance" label="Romance"/>
 <category term="Shounen" label="Shounen"/>
 <content type="text">Han pasado 20 años desde que las mazmorras aparecieron repentinamente en el mundo. La humanidad tiene poderes sobrenaturales como Nivel, Estadísticas y Habilidad. Soñando con hacerse rico rápidamente, Amane Rin, una aventurera desafiada a capturar mazmorras. A pesar de que poseía una habilidad única incluso para los aventureros, se lo consideraba incompetente debido al pobre uso de su habilidad. Sin embargo, llegó el punto de inflexión para el. Después de un año desde que comenzó a capturar mazmorras, evolucionó a un nivel superior. Como resultado, Rin se convirtió en una existencia no restringida por las reglas de la mazmorra. Rin, quien se hizo único, continuó subiendo de nivel con una velocidad abrumadora y subió a la posición más fuerte del mundo en un abrir y cerrar de ojos. Esta es la historia de un niño que fue menospreciado debido a su incompetencia, pero finalmente se convirtió en el más fuerte del mundo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Xa_rm1ch7wnMdG9dj6J70g" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Xa_rm1ch7wnMdG9dj6J70g" type="text/html" title="Descargar" />
 </entry>
 </feed>

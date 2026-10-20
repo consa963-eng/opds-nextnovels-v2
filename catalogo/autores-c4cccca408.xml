@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:c4cccca408</id>
 <title>Aizawa Daisuke</title>
-<updated>2026-10-20T17:08:06.131689+00:00</updated>
+<updated>2026-10-20T20:38:42.003804+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-c4cccca408.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Kage no Jitsuryokusha ni Naritakute! Novela Ligera en Español</title>
@@ -19,9 +19,9 @@
 <category term="Harem" label="Harem"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Al igual que todo el mundo adoraba a los héroes en su infancia, cierto joven adoraba esos poderes ocultos en las sombras. Tras ocultar su fuerza y vivir la mediocre vida de un personaje de la mafia durante el día mientras se somete a un frenético entrenamiento por la noche, finalmente se reencarna en un mundo diferente y obtiene el poder definitivo. El joven que sólo juega a ser un poder en la sombra, sus subordinados incomprendidos, y una gigantesca organización en la sombra que es pisoteada.... Esta es la historia de un joven que ha adorado los poderes en las sombras, posiblemente reinando sobre el mundo de las sombras en otro mundo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1WIJbfMkD4GrMfwr4KKCiAA" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1UT-LPdbXvOXU5OmWay44cg" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F10f55OdvxM_zXi4buwQlvWQ" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1FPKOeepVEwRl6BnWzTl_6g" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1WIJbfMkD4GrMfwr4KKCiAA" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1UT-LPdbXvOXU5OmWay44cg" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/10f55OdvxM_zXi4buwQlvWQ" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1FPKOeepVEwRl6BnWzTl_6g" type="text/html" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:4a5e1d3729</id>
 <title>Tomino Yoshiyuki</title>
-<updated>2026-10-20T17:08:06.214492+00:00</updated>
+<updated>2026-10-20T20:38:42.108174+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-4a5e1d3729.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Mobile Suit Gundam: Hathaway’s Flash Novela Ligera en Español</title>
@@ -21,6 +21,6 @@ La Federación Terrestre ha aceptado a la República de Zeon nuevamente en el re
 Una organización llamada Mafty, comienza acciones terroristas contra la Federación y sus altos funcionarios como un acto de venganza por la agresión y ataque a miles de víctimas inocentes, utilizando un nuevo prototipo de Mobile Suit, el RX-105 Xi Gundam. En respuesta, el nuevo comandante de la Federación Terrestre de la zona de Davao, el capitán Kenneth Sleg, crea la Unidad Circe para acabar con Mafty. Hathaway Noa, hijo del legendario Bright Noa, inicia su viaje en esta historia llena de intriga política, espionaje, redención y mucha acción.
 
 Y recuerden Su luz es la esperanza de la humanidad.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Hn1QRCL8z_el73eXUQn_kw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Hn1QRCL8z_el73eXUQn_kw" type="text/html" title="Descargar" />
 </entry>
 </feed>

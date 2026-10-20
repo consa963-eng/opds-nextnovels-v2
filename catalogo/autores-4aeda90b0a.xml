@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:4aeda90b0a</id>
 <title>Crosis</title>
-<updated>2026-10-20T17:08:06.141239+00:00</updated>
+<updated>2026-10-20T20:38:42.015037+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-4aeda90b0a.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>When I Reincarnated, I Had Slave Command and Recovery Skills, So I Tried Making a Secret Society of Slaves Just for Fun Novela Ligera en Español</title>
@@ -24,6 +24,6 @@
 Funda así una organización secreta compuesta enteramente por esclavos, a quienes rescata, entrena como aventureros y utiliza para su propio beneficio.
 
 Sin embargo, con el paso del tiempo, ¡la lealtad de los esclavos que ha salvado supera todas sus expectativas!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1BAs_6mAu9-RSdHeNPcsddA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1BAs_6mAu9-RSdHeNPcsddA" type="text/html" title="Descargar" />
 </entry>
 </feed>

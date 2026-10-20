@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:8c4a375e32</id>
 <title>Ichio Morimoto</title>
-<updated>2026-10-20T17:08:06.155862+00:00</updated>
+<updated>2026-10-20T20:38:42.033824+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-8c4a375e32.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Dr. Stone Star’s Dream, Earth’s Song Novela Ligera en Español</title>
@@ -18,6 +18,6 @@
 ¿¡El desafío de Senku es la operación para apoderarse del club de ciencias y el lanzamiento de un cohete!? Es imprescindible ver a Senku demostrando su "ciencia sin rival" también en el ámbito escolar.
 
 Además, se incluye un episodio posterior al colapso del mundo, en el que los populares personajes Chrome, Kohaku y Suika, tras escuchar las historias de Senku, se enfrentan al reto de tocar en una banda con instrumentos hechos a mano.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1_GCqwUntnkr-T_vXfNyIvQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1_GCqwUntnkr-T_vXfNyIvQ" type="text/html" title="Descargar" />
 </entry>
 </feed>

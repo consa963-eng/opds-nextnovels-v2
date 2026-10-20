@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:67964ebd29</id>
 <title>Myon</title>
-<updated>2026-10-20T17:08:06.184166+00:00</updated>
+<updated>2026-10-20T20:38:42.071474+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-67964ebd29.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Exhausted with Life, I Arrived at a Village Where Beautiful Women Won’t Let Me Go Novela Ligera en Español</title>
@@ -32,7 +32,7 @@ Incapaz de rechazar la dulce invitación de la hermosa Mina, con quien se había
 Para retener a Takuya en el campo, las atenciones y los mimos se intensifican cada vez más…
 
 ¡Una comedia romántica harem en el campo, llena de indulgencia y placer, sin que nadie los moleste!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1R8i5GzNRVnSdx7l7_Kq1Tg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1R8i5GzNRVnSdx7l7_Kq1Tg" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Te ni Ireta Saimin Apuri de Yume no Harem Seikatsu wo Okuritai Novela Ligera en Español</title>
@@ -52,6 +52,6 @@ Aunque esperaba construir un harem de mis sueños con la ‘Aplicación de Hipno
 ¡El protagonista autodenominado como un b4stard0 se esfuerza al máximo ayudando a las personas en busca de recompensas eróticas!
 
 ¡Comienza la comedia romántica de hipnosis y harem!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1OGFYjHUrWwxl071H3qECmA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1OGFYjHUrWwxl071H3qECmA" type="text/html" title="Descargar" />
 </entry>
 </feed>

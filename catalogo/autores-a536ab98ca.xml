@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:a536ab98ca</id>
 <title>Kaidou Sakon</title>
-<updated>2026-10-20T17:08:06.160784+00:00</updated>
+<updated>2026-10-20T20:38:42.039957+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-a536ab98ca.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Infinite Dendrogram Novela Ligera en Español</title>
@@ -17,8 +17,8 @@
 <category term="Fantasía" label="Fantasía"/>
 <category term="Shounen" label="Shounen"/>
 <content type="text">En el año 2043, salió a la venta Infinite Dendrogram, el primer VRMMO de inmersión completa exitosa del mundo. Además de su capacidad para simular a la perfección los cinco sentidos, junto con sus muchas otras increíbles características, el juego prometía ofrecer a los jugadores un mundo lleno de infinitas posibilidades. Casi dos años más tarde, Reiji Mukudori, un estudiante de primer año de universidad, pudo por fin comprar una copia del juego y empezar a jugar. Con la ayuda de su experimentado hermano mayor, Shu, y su compañero Embryo, Reiji se embarca en una aventura en el mundo de Infinite Dendrogram. ¿Qué descubrirá y encontrará en este mundo de juego conocido por su increíble realismo e infinitas posibilidades?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F13bJTea9D5OoQa__-94NBPw" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1UK1e-LnOATqL0fEfrY79eg" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1kDuIOdH_ssYfxrzDBjFlMA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/13bJTea9D5OoQa__-94NBPw" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1UK1e-LnOATqL0fEfrY79eg" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1kDuIOdH_ssYfxrzDBjFlMA" type="text/html" title="Descargar" />
 </entry>
 </feed>

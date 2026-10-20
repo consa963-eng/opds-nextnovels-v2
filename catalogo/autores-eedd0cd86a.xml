@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:eedd0cd86a</id>
 <title>Ainana Hiro</title>
-<updated>2026-10-20T17:08:06.131291+00:00</updated>
+<updated>2026-10-20T20:38:42.003410+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-eedd0cd86a.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Death March EX Novela Ligera en Español</title>
@@ -20,7 +20,7 @@
 <content type="text">¡Incluye los relatos cortos inéditos «La vieja amiga de Riza» y «Las aventuras de la princesa Arisa en otro mundo»!
 
 ¡Incluye material sobre los personajes del grupo de Satoo que solo se puede ver aquí, además de 40 relatos cortos exclusivos de tiendas anteriores y relatos cortos inéditos! ¡Un lujoso volumen que recoge más de 100 páginas de relatos cortos inéditos, así como ilustraciones de invitados de Ayame Gumu, Eiji Usuzuka, Ryuji Teru y Yoshiko Tobe!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Qy9_bqCsepCDH-N9eU6SNw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Qy9_bqCsepCDH-N9eU6SNw" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Death March Novela Ligera en Español</title>
@@ -40,9 +40,9 @@
 ¡Y así, sin ninguna explicación, Satou había alcanzado el nivel máximo en ese nuevo mundo, al igual que pudo acumular inmensas riquezas!
 
 De esta manera inicia su aventura en este nuevo mundo de fantasía, a veces con situaciones divertidas, a veces serias, pero siempre con la magnifica compañía de su harem.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1IF5YBY5PXzIgHN-x7Vg3FA" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1pkJjvewOA2GC3rkRQ8aJ5A" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Q7ohyGk8lqi1XwvPoovfrA" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1jIC6Dgk7IMNLpIhIC4albw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1IF5YBY5PXzIgHN-x7Vg3FA" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1pkJjvewOA2GC3rkRQ8aJ5A" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Q7ohyGk8lqi1XwvPoovfrA" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1jIC6Dgk7IMNLpIhIC4albw" type="text/html" title="Descargar" />
 </entry>
 </feed>

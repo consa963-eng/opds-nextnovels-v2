@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:446b4d7fb6</id>
 <title>Tenyu Sanada</title>
-<updated>2026-10-20T17:08:06.213449+00:00</updated>
+<updated>2026-10-20T20:38:42.106587+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-446b4d7fb6.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>My Girlfriend’s Big Sister is My Girlfriend in her 2nd Life Novela Ligera en Español</title>
@@ -32,6 +32,6 @@ Sin embargo, Sayuki, mostrando la tranquilidad de alguien que ya vive su segunda
 Usando todo su conocimiento del futuro, ella se adelanta a los f3t1ch3s de Ryuichi y lo 3stimul4 a fondo.
 
 Ante el amor de Sayuki, un amor ya preparado de antemano, Ryuichi es incapaz de resistirse y acaba hundiéndose en él.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1lwB7g1IefDvR4K_S8oiU4g" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1lwB7g1IefDvR4K_S8oiU4g" type="text/html" title="Descargar" />
 </entry>
 </feed>

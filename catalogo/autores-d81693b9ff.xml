@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:d81693b9ff</id>
 <title>Toshiya Oono</title>
-<updated>2026-10-20T17:08:06.215182+00:00</updated>
+<updated>2026-10-20T20:38:42.108869+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-d81693b9ff.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Suite Pretty Cure ♪ Novela Ligera en Español</title>
@@ -23,6 +23,6 @@ La historia arranca un año después del anime, con Hibiki —Cure Melody— ya 
 Un día, el Príncipe Senpai, a quien tanto Hibiki como Kanade admiran, desaparece sin dejar rastro. La búsqueda del culpable empieza, y un aire turbio se va extendiendo sobre la ciudad de Kanon. Al mismo tiempo, una nube negra cubre el cielo y empieza a engullir a los habitantes de Kanon. La ciudad se queda vacía y, al final, solo Hibiki y Kanade permanecen en ella. ¿Qué es esa nube negra? ¿Podrán Hibiki, Kanade, Ellen y Ako transformarse en Pretty Cure y rescatar a todos?
 
 La historia, narrada por completo en primera persona por Hibiki, resulta muy fácil de leer y está construida para que el lector se sumerja sin remedio en los sentimientos de una chica adolescente. ¡Se reedita en nueva edición para celebrar los veinte años de Pretty Cure!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F14WfGqy0qVp33JVU2k3_cbQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/14WfGqy0qVp33JVU2k3_cbQ" type="text/html" title="Descargar" />
 </entry>
 </feed>

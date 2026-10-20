@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:8df678c226</id>
 <title>Mariabelle</title>
-<updated>2026-10-20T17:08:06.175871+00:00</updated>
+<updated>2026-10-20T20:38:42.061085+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-8df678c226.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Nihon e Youkoso Elf-san Novela Ligera en Español</title>
@@ -17,8 +17,8 @@
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Shounen" label="Shounen"/>
 <content type="text">La principal afición de Kazuhiro Kitase es dormir. Desde que era pequeño, era capaz de entrar en un mundo dentro de sus sueños y allí emprendió emocionantes aventuras. A medida que fue creciendo, conoció a una elfa y un día, mientras pasaba el rato con ella, fueron incinerados por el aliento de un dragón. Cuando se despertó, se dio cuenta de que una figura familiar dormía tranquilamente a su lado… ¡¿La chica elfa de sus sueños?! ¡Únete a Kazuhiro en sus nuevas aventuras a través de Japón y el mundo de sus sueños con esta encantadora elfa!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F16lUiyOWiz5AOq-YPC3nm6g" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1gPx9ubKd_af2eONFnlx5ew" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1120Y76SNkUK1foKirek6Xg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/16lUiyOWiz5AOq-YPC3nm6g" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1gPx9ubKd_af2eONFnlx5ew" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1120Y76SNkUK1foKirek6Xg" type="text/html" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:5946496483</id>
 <title>Marukoshi Shishamo</title>
-<updated>2026-10-20T17:08:06.176195+00:00</updated>
+<updated>2026-10-20T20:38:42.061446+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-5946496483.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>After Helping the Former National Child Star Deemed a “Lost Cause,” She Started Fawning Only Over Me Novela Ligera en Español</title>
@@ -16,6 +16,6 @@
 <category term="Romance" label="Romance"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">A pesar de ser una niña prodigio, Touka es ridiculizada por el público como un caso de "crianza fallida" y se convierte en una estudiante de secundaria apática. Ryo no puede dejar a Touka sola y comienza a atender todas sus necesidades. Sin embargo, Touka poco a poco se vuelve cada vez más cariñosa con Ryo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1jCuOM9PVJBZz11sBaE-QIA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1jCuOM9PVJBZz11sBaE-QIA" type="text/html" title="Descargar" />
 </entry>
 </feed>

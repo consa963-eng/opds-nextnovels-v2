@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:1d84269cb1</id>
 <title>Hikaru Sugii</title>
-<updated>2026-10-20T17:08:06.152049+00:00</updated>
+<updated>2026-10-20T20:38:42.029283+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1d84269cb1.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Paradise Noise Novela Ligera en Español</title>
@@ -21,6 +21,6 @@
 Por capricho, subí un video musical donde llevaba ropa de mujer, pero inesperadamente me hice famoso como una misteriosa músico net de secundaria (a pesar de ser un chico). No pensé que me descubrirían ya que mi rostro no se mostraba, pero mi profesora de música de secundaria – Hanazono Misao – descubrió mi secreto y utilizó esa información para chantajearme.
 
 Y luego, gracias a las tres chicas que conocí a través de Hanazono-sensei – la pianista genio loca Rinko, la baterista princesa de arreglos florales Shizuki, y la vocalista Zashiki-Warashi Akane – mi vida de secundaria gris, apagada y tranquila se llenó de ruido colorido y problemas.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F18gj4vjH0Nodpzjib9ASglA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/18gj4vjH0Nodpzjib9ASglA" type="text/html" title="Descargar" />
 </entry>
 </feed>

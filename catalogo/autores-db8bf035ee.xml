@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:db8bf035ee</id>
 <title>Nekoko</title>
-<updated>2026-10-20T17:08:06.187628+00:00</updated>
+<updated>2026-10-20T20:38:42.075613+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-db8bf035ee.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Exiled Heavy Knight Knows How to Game the System Novela Ligera en Español</title>
@@ -25,7 +25,7 @@ Considerado inútil por sus parámetros descompensados y su ínfimo poder ofensi
 Y es que este mundo es idéntico al del juego que exprimió hasta la saciedad en su vida anterior... y el Caballero Pesado es, precisamente, la Clase más poderosa.
 
 Expulsado de la casa condal y convertido en un simple aventurero, Elma desplegará todo su conocimiento para explotar al máximo el potencial del Caballero Pesado, ascendiendo vertiginosamente gracias a una eficiente subida de nivel y a la obtención de las mejores Habilidades.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1A84k4xiIq_WjlAWCDB7aOw" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F12YYHFMq7mpltn7FewNZEQg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1A84k4xiIq_WjlAWCDB7aOw" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/12YYHFMq7mpltn7FewNZEQg" type="text/html" title="Descargar" />
 </entry>
 </feed>

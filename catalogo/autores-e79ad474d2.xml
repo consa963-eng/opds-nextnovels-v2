@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:e79ad474d2</id>
 <title>Asaoka Akira</title>
-<updated>2026-10-20T17:08:06.138050+00:00</updated>
+<updated>2026-10-20T20:38:42.010696+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-e79ad474d2.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Could You Turn Three Perverted Sisters Into Fine Brides? Novela Ligera en Español</title>
@@ -16,6 +16,6 @@
 <category term="Romance" label="Romance"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Tenma Ichijo es un pobre estudiante de secundaria que trabaja duro para saldar las deudas de su familia. A través de una oferta de un amigo de la familia, va a trabajar como "marido temporal" para las hijas del presidente de una famosa empresa. Su trabajo consiste en ayudarlas a acostumbrarse a estar rodeadas de hombres y a prepararse para su propio futuro de probable matrimonio. Tras aceptar, descubre que las cosas no son lo que parecen. Las tres hermanas son en realidad pervertidas con sus propios fetiches, y él es chantajeado para que las ayude. Es hora de rehabilitar a tres pervertidas.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1dQ8oO423YexJj_0Rwjgxcg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1dQ8oO423YexJj_0Rwjgxcg" type="text/html" title="Descargar" />
 </entry>
 </feed>

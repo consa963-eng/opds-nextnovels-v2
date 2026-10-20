@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:9cd53cd98f</id>
 <title>쿤타세계관</title>
-<updated>2026-10-20T17:08:06.229256+00:00</updated>
+<updated>2026-10-20T20:38:42.131622+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-9cd53cd98f.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>There Is No Such Thing as a Revolution in Russia Novela Web en Español</title>
@@ -17,6 +17,6 @@
 <content type="text">En Rusia no existe tal cosa como una revolución
 
 Nikolái, el último emperador, no lo tolerará.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1MUdZsc4nWBg32HW4BlEHkg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1MUdZsc4nWBg32HW4BlEHkg" type="text/html" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:7473582abb</id>
 <title>Syohgo Kinugasa</title>
-<updated>2026-10-20T17:08:06.209184+00:00</updated>
+<updated>2026-10-20T20:38:42.101346+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-7473582abb.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e — Year 3 Novela Ligera en Español</title>
@@ -22,9 +22,9 @@
 <content type="text">Tras el último "examen especial de fin de curso" del segundo año, Horikita y su antigua clase D de primero reciben a los alumnos de tercero de la clase A.Sin embargo, la persona más influyente, Ayakoji Kiyotaka, es trasladada a otra clase.Los alumnos de la clase de Horikita se sumergen en sentimientos de confusión y caos, pero sólo hay un hecho cruel.Horikita y los demás alumnos de la clase A del tercer curso deben vencer a "Ayanokoji Kiyotaka" para poder graduarse en la clase A.
 
 Mientras se forman nuevas conexiones entre la creciente clase Ryuen y la clase B, la clase C de Ayakoji y la clase D de Ichinose, ¡se anuncia la primera prueba especial del tercer año, la "Prueba Integral de Habilidad Académica General y Minoritaria"! Sólo una clase se graduará en la Clase A.¿Qué clase se situará en lo más alto? ¡Comienza la tan esperada "Edición del Tercer Curso"!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1MY761VOss1cmGtnIaXdcrA" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F10_P2p1YUYIREZwlmwtiWiA" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1K9pspItEjHIbrK4v0Lxtqg" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F11oXaaQ7mRWNHaXjJChATUw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1MY761VOss1cmGtnIaXdcrA" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/10_P2p1YUYIREZwlmwtiWiA" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1K9pspItEjHIbrK4v0Lxtqg" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/11oXaaQ7mRWNHaXjJChATUw" type="text/html" title="Descargar" />
 </entry>
 </feed>

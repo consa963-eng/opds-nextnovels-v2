@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:28369cf92f</id>
 <title>Wataru Watari</title>
-<updated>2026-10-20T17:08:06.218910+00:00</updated>
+<updated>2026-10-20T20:38:42.114499+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-28369cf92f.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Yahari Ore no Seishun Rabukome wa Machigatte Iru / Oregairu Shin Novela Ligera en Español</title>
@@ -18,7 +18,7 @@
 <category term="Seinen" label="Seinen"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Secuela directa de la serie original, incluida en los volúmenes de edición limitada en DVD/BD de la serie Yahari Ore no Seishun Love Comedy wa Machigatteiru.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1gKfDio_YIYK1pu20j-uoAA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1gKfDio_YIYK1pu20j-uoAA" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Yahari Ore no Seishun Rabukome wa Machigatte Iru / Oregairu: Yui's Story Novela Ligera en Español</title>
@@ -36,6 +36,11 @@ Cuando ve a sus compañeros de clase hablando alegremente de sus vidas adolescen
 Para ayudarlo a encajar con la sociedad, su profesora Shizuka Hiratsuka lo obliga a unirse al “Club de servicio escolar”, en el que resulta que también está apuntada una chica hermosa y popular llamada Yukino Yukinoshita, quien es tan solitaria como Hachiman.
 
 Ambos ofrecerán su ayuda y asesoramiento a quien lo solicite, como parte del trabajo del Club de servicio voluntario, conociendo así a personas como Yui Yuigahama, que termina por unirse al Club. Mientras más pasa el tiempo y más problemas enfrentan, los miembros del Club se verán envueltos en situaciones donde tendrán que dar una respuesta no solo a los problemas de los demás, sino a sus propios problemas y sus propios sentimientos, no solo personales, sino también entre ellos.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1vYJXDmg1zmxdV6jBZ9-6ow" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1vYJXDmg1zmxdV6jBZ9-6ow&amp;fs_id=979069656250214&amp;name=Oregairu+Yui+Story+-+Volumen+03+%5BCOA%5D.pdf" type="application/pdf" title="Oregairu Yui Story - Volumen 03 [COA].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1vYJXDmg1zmxdV6jBZ9-6ow&amp;fs_id=159075696217227&amp;name=Oregairu+Yui+Story+-+Volumen+03+%5BCOA%5D.epub" type="application/epub+zip" title="Oregairu Yui Story - Volumen 03 [COA].epub" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1vYJXDmg1zmxdV6jBZ9-6ow&amp;fs_id=660466067755500&amp;name=Oregairu+Yui+Story+-+Volumen+02+%5BCOA%5D.pdf" type="application/pdf" title="Oregairu Yui Story - Volumen 02 [COA].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1vYJXDmg1zmxdV6jBZ9-6ow&amp;fs_id=708406926799007&amp;name=Oregairu+Yui+Story+-+Volumen+02+%5BCOA%5D.epub" type="application/epub+zip" title="Oregairu Yui Story - Volumen 02 [COA].epub" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1vYJXDmg1zmxdV6jBZ9-6ow&amp;fs_id=903322320787098&amp;name=Oregairu+Yui+Story+-+Volumen+01+%5BCOA%5D.pdf" type="application/pdf" title="Oregairu Yui Story - Volumen 01 [COA].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1vYJXDmg1zmxdV6jBZ9-6ow&amp;fs_id=514337244203597&amp;name=Oregairu+Yui+Story+-+Volumen+01+%5BCOA%5D.epub" type="application/epub+zip" title="Oregairu Yui Story - Volumen 01 [COA].epub" />
 </entry>
 </feed>

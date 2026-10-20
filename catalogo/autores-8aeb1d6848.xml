@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:8aeb1d6848</id>
 <title>Kurasu Piero</title>
-<updated>2026-10-20T17:08:06.172108+00:00</updated>
+<updated>2026-10-20T20:38:42.056173+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-8aeb1d6848.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Tensei Oujo to Tensai Reijou no Mahou Kakumei Novela Ligera en Español</title>
@@ -20,8 +20,8 @@
 Un día, durante un percance mágico, se topó con una escena en la que su hermano Algard estaba rompiendo su compromiso con su prometida, Euphilia.
 
 Lo que nadie podía haber previsto es que este extraño encuentro terminaría cambiando el curso de la historia.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1-VHOVHJH95ZywSZt3tQRFw" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1lXaxPbbWkpW3fzqZuFJGqA" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1jL09ZupPTk_aa13AVZbvEA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1-VHOVHJH95ZywSZt3tQRFw" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1lXaxPbbWkpW3fzqZuFJGqA" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1jL09ZupPTk_aa13AVZbvEA" type="text/html" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:1da9c34229</id>
 <title>寺井外連</title>
-<updated>2026-10-20T17:08:06.226822+00:00</updated>
+<updated>2026-10-20T20:38:42.126528+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1da9c34229.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>A Love-Challenged Male College Student Forcefully Dominates Two Masochistic Female Friends With Annoying Attitudes Novela Web en Español</title>
@@ -19,6 +19,6 @@
 <content type="text">La historia gira en torno a un estudiante universitario llamado Hayashida Ringo, que es v*rgen y no tiene suerte en el amor. Su amiga Yamura Kazuki, a la que le gusta burlarse de los v*rgenes, se burla constantemente de él. Sin embargo, durante una cita en grupo a la que ambos asistieron, Ringo se vio obligado a llevar a Kazuki a casa. Allí, con su excepcional atractivo, la dominó por completo y la convirtió en masoquista.
 
 Como resultado, Ringo supera con éxito su condición de v*rgen, pero el enamoramiento de Kazuki por él se intensifica (aunque ella no se convertirá en su novia por el momento). Más tarde, durante unas breves vacaciones, Ringo se encuentra en la estación de tren con una mujer misteriosa y de aspecto frío llamada Akimura Yuriko...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F18eQ89LQsdzRhM50M8tFtPw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/18eQ89LQsdzRhM50M8tFtPw" type="text/html" title="Descargar" />
 </entry>
 </feed>

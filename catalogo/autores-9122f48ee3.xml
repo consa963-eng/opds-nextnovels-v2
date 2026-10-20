@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:9122f48ee3</id>
 <title>Inukai Anzu</title>
-<updated>2026-10-20T17:08:06.156748+00:00</updated>
+<updated>2026-10-20T20:38:42.034911+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-9122f48ee3.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>A Story About Forcing All My First Experiences Onto My Classmate Who Loves Me Novela Ligera en Español</title>
@@ -19,7 +19,7 @@
 <content type="text">Una historia de un amor inocente y erótica entre una gal con baja autoestima y una chica popular de instituto que comienza con una intención.
 
 "Quiero deshacerme de mis primeras veces y convertirme en alguien que no se lastima". Haru, una estudiante de instituto que desea esto, un día recibe una confesión de Hinaka Nakamachi, la chica popular de su clase. Pensando que sería conveniente tenerla como práctica para su primera experiencia romántica, Haru decide salir con ella, y... ¿qué pasará después?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1He283PQKVOFXJVGH8jPsWw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1He283PQKVOFXJVGH8jPsWw" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>The Princess of Our Class is My Puppy Novela Ligera en Español</title>
@@ -45,6 +45,6 @@ En ese momento, estaba a punto de ponerle un collar.
 (…De acuerdo. Lo pongo ahora.)
 
 Le acaricié suavemente el cabello, apartando sus mechones dorados para que cayeran sobre su hombro. Luego, le coloqué el collar rosa claro alrededor de su pálido cuello.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1W1pQhuOja0zWZM2y5Lp7xg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1W1pQhuOja0zWZM2y5Lp7xg" type="text/html" title="Descargar" />
 </entry>
 </feed>

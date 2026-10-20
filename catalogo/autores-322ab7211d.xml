@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:322ab7211d</id>
 <title>Misora Riku</title>
-<updated>2026-10-20T17:08:06.181010+00:00</updated>
+<updated>2026-10-20T20:38:42.067367+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-322ab7211d.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Rakudai Kishi no Cavalry Novela Ligera en Español</title>
@@ -23,11 +23,11 @@
 La compañera de cuarto de Ikki, Stella Vermillion, resulta ser una princesa de un país extranjero. Stella es una caballero Rank A, la clase de genio en magia que sólo aparece una vez en una década. Cuando Ikki la encontró mientras ella se estaba cambiando la ropa, hubo un grn malentendido, lo que eventualmente terminó en un duelo entre los dos. El castigo para el perdedor es sometimiento eterno al ganador.
 
 Obligados a vivir en el mismo cuarto y practicar magia juntos a lo largo de sus años escolares, ¿cómo se desarrollará la relación de Stella e Ikki?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1y8KRgQErqr-NNWfYKARSYg" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1kE0IV28zFh-gm2nXHET2TQ" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1lGSlCDzXrlcBv6u0e3EPuA" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F18FEdv0FGr2YWFaP82TID2A" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1sUGt6CONWuaAuntDaUK6sQ" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1KsWAzCLaXRqUcyQ4HjIf_w" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1y8KRgQErqr-NNWfYKARSYg" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1kE0IV28zFh-gm2nXHET2TQ" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1lGSlCDzXrlcBv6u0e3EPuA" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/18FEdv0FGr2YWFaP82TID2A" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1sUGt6CONWuaAuntDaUK6sQ" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1KsWAzCLaXRqUcyQ4HjIf_w" type="text/html" title="Descargar" />
 </entry>
 </feed>

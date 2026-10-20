@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:7f69d482b0</id>
 <title>Drug Jelly</title>
-<updated>2026-10-20T17:08:06.142513+00:00</updated>
+<updated>2026-10-20T20:38:42.016581+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-7f69d482b0.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>A Way To Protect You, Sweetheart Novela Web en Español</title>
@@ -33,6 +33,6 @@ Así que ella no sabía lo mucho que su rostro estaba distorsionado por sus pala
 —Solo tienes que aguantarme medio año. Entonces, me divorciaré de ti como quieras.
 
 Al oír la palabra "divorcio", él apretó los dientes.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1DKYjbQTuQFvwzfU3EQkN-A" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1DKYjbQTuQFvwzfU3EQkN-A" type="text/html" title="Descargar" />
 </entry>
 </feed>

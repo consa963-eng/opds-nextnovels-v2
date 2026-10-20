@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:43cf8ca8d7</id>
 <title>Ryu Hidari</title>
-<updated>2026-10-20T17:08:06.195263+00:00</updated>
+<updated>2026-10-20T20:38:42.085385+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-43cf8ca8d7.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Restarting my Youth with Villain Moves! Novela Ligera en Español</title>
@@ -35,6 +35,6 @@ Ella no tenía una familia feliz ni amigos, pero en mi vida anterior, fue la ún
 Bajo el paraguas de "villano", crearé un mundo entero para ti.
 
 ¡Una leyenda escolar de acción y poder desenfrenado comienza oficialmente!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1EI8FzwpoIqEeoF7zhw_OAg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1EI8FzwpoIqEeoF7zhw_OAg" type="text/html" title="Descargar" />
 </entry>
 </feed>

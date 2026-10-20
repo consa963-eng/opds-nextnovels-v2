@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:3e90297cf6</id>
 <title>Nekokuro</title>
-<updated>2026-10-20T17:08:06.187807+00:00</updated>
+<updated>2026-10-20T20:38:42.075818+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-3e90297cf6.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>My Student’s Mother Was My Ex-Girlfriend Novela Ligera en Español</title>
@@ -27,8 +27,8 @@ Sin embargo, los primeros amores no duran para siempre.
 Diez años después de romper con Misuzu, Yuuto acepta un puesto de profesor en el colegio privado Sakuramorioka.
 
 Allí conoce a una alumna de su clase, que resulta ser la hija adoptiva de Misuzu.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1auDAu6Ks1L5rolWB62Yn3w" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1nMQ_OnFXeZ83hbXp-3spvw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1auDAu6Ks1L5rolWB62Yn3w" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1nMQ_OnFXeZ83hbXp-3spvw" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Solitary Flower Novela Ligera en Español</title>
@@ -53,6 +53,6 @@ Cuando empezaron a vivir juntos, Sophia seguía actuando con frialdad hacia Kent
 “¡N-No es que me guste tu aroma ni nada…!” “¿Podrías, eh, llamarme Sophia…?” ¡Lentamente, empieza a buscar el afecto de Kento con torpeza…!
 
 ¡Esta adorable belleza británica que no puede ser honesta fácilmente es demasiado linda en esta conmovedora comedia romántica!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1gpD4wlHrn_-CHGDgWrnQUg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1gpD4wlHrn_-CHGDgWrnQUg" type="text/html" title="Descargar" />
 </entry>
 </feed>

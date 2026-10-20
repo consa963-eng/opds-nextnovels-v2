@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:e3555e20b6</id>
 <title>Anikki Burazza</title>
-<updated>2026-10-20T17:08:06.136051+00:00</updated>
+<updated>2026-10-20T20:38:42.008682+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-e3555e20b6.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Breakthrough with the Forbidden Master Novela Web en Español</title>
@@ -38,7 +38,7 @@ Todos los días, obligados a coexistir con el espíritu del Rey Demonio, viven u
 Earth recibe una guía personal especial del Rey Demonio solo para vengarse de sus padres y del mundo.
 
 Luego, en los próximos días. Los padres del héroe, los héroes del pasado, el primer amor, la princesa amiga de la infancia, los genios de la época y el mundo temblarán.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Z29wy_sfkc-2j1lhuwh8iw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Z29wy_sfkc-2j1lhuwh8iw" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>The Failed Hero Becomes to the Great Evil King Novela Ligera en Español</title>
@@ -65,6 +65,6 @@ Con su libido desatado y el poder de un aspirante a héroe, Daimon seduce a todo
 «Debería odiar esto, pero mi cuerpo me está siendo honesto... ¡No, basta, no más!»
 
 Una fantasía de seducción, venganza y poder sin igual comienza aquí, mientras él lleva a hermosas chicas a un placer irresistible y asciende a la cima.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1movmn_cI-JeWHEANcymchQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1movmn_cI-JeWHEANcymchQ" type="text/html" title="Descargar" />
 </entry>
 </feed>

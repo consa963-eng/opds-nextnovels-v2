@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:623411956b</id>
 <title>Mr. Big Horn</title>
-<updated>2026-10-20T17:08:06.183659+00:00</updated>
+<updated>2026-10-20T20:38:42.070586+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-623411956b.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Bird and the Golden Cage Novela Web en Español</title>
@@ -27,6 +27,6 @@ Por favor úsese insulina.
 Nota: Es en realidad, una historia sobre “utilizo el dinero de mi novio para comprar comprar comprar para mi ídolo”.
 
 ADVERTENCIA : Esta novela tiene contenido sexual explícito</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1BgivEPA1Yz5sdFifzL77Mw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1BgivEPA1Yz5sdFifzL77Mw" type="text/html" title="Descargar" />
 </entry>
 </feed>

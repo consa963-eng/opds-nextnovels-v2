@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:1434180610</id>
 <title>Gozennoryokutya</title>
-<updated>2026-10-20T17:08:06.147391+00:00</updated>
+<updated>2026-10-20T20:38:42.023589+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1434180610.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>It Seems I Was Hitting On the Most Beautiful Girl in School Without Me Noticing Novela Ligera en Español</title>
@@ -21,6 +21,6 @@ Ese protagonista se encuentra en una relación de consultoría con una chica sen
 Él no se da cuenta de que la chica a la que está consultando es la misma de la que está enamorado, y se limita a contarle sus crecientes sentimientos mientras sigue enamorándose de ella.
 
 La heroína se da cuenta de que la persona de la que él está enamorado es precisamente ella, y aunque se siente apenada por los sentimientos del protagonista, poco a poco se va sintiendo atraída por él.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1XxxLJZqatKwf_g8tcu5RsA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1XxxLJZqatKwf_g8tcu5RsA" type="text/html" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:30471433e0</id>
 <title>Youko Kagura</title>
-<updated>2026-10-20T17:08:06.222321+00:00</updated>
+<updated>2026-10-20T20:38:42.120432+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-30471433e0.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Onee-san Will Examine You Novela Ligera en Español</title>
@@ -13,6 +13,6 @@
 <category term="Harem" label="Harem"/>
 <category term="Hentai" label="Hentai"/>
 <content type="text">Satoru, un chico de constitución débil, ingresa en la sala E. Allí le esperaban cuatro hermanas enfermeras vestidas con leotardos. El atrevido servicio que estas bellezas mayores prestan más allá del ámbito de los cuidados devotos hace que la mente y el cuerpo del chico caigan víctimas de la enfermedad del deseo carnal.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1_AMc0TWGt5mg6hYYzBq57w" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1_AMc0TWGt5mg6hYYzBq57w" type="text/html" title="Descargar" />
 </entry>
 </feed>

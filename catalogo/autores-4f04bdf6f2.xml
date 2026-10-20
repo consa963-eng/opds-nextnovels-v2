@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:4f04bdf6f2</id>
 <title>Ryouma</title>
-<updated>2026-10-20T17:08:06.195030+00:00</updated>
+<updated>2026-10-20T20:38:42.085041+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-4f04bdf6f2.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>I’m Reincarnated into A World of Reversed Chastity Novela Web en Español</title>
@@ -18,6 +18,6 @@
 <category term="Seinen" label="Seinen"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Marzo de cierto año, la mañana después de una fuerte nevada, Hirose Yuu (un divorciado y soltero empleado de oficina de 40 años), que volvía a casa tras pasar la noche en vela, acabó siendo atropellado por un coche al caer por una pendiente helada en bajada. Cuando despertó, descubrió, para su sorpresa, que había renacido como una persona diferente con el mismo nombre, y además, un chico extremadamente atractivo. Lo que descubrió después fue que el mundo en el que vivía era uno con una proporción desequilibrada de hombres y mujeres, donde las mujeres eran las figuras principales de la sociedad y la protección era la posición natural de los hombres. En lo que respecta al matrimonio, la combinación de un hombre y varias mujeres era la norma, pero aun así, el número de mujeres excluidas era abrumadoramente grande, y no había fin a los casos de jóvenes agredidos. Durante mucho tiempo, se estableció la composición de mujeres desbordadas de deseo sexual buscando hombres y hombres a la defensiva porque tenían miedo de las mujeres. En medio de todo eso, Yuu, que compartía los valores de su mundo original y expresaba placer, en lugar de desagrado, por estar en contacto con mujeres, era como un ángel para las mujeres que luchaban por encontrar un hombre, y al mismo tiempo, era una presa ideal para ellas.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1uA5W2Vl3jHKl9Gj8rJUupQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1uA5W2Vl3jHKl9Gj8rJUupQ" type="text/html" title="Descargar" />
 </entry>
 </feed>

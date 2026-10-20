@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:f26da7e8b6</id>
 <title>Ono Fuyumi</title>
-<updated>2026-10-20T17:08:06.190875+00:00</updated>
+<updated>2026-10-20T20:38:42.079367+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-f26da7e8b6.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Twelve Kingdoms Novela Ligera en Español</title>
@@ -16,7 +16,7 @@
 <category term="Fantasía" label="Fantasía"/>
 <category term="Psicológico" label="Psicológico"/>
 <content type="text">Youko es una chica de Japón algo extraña, su color de pelo rojizo, considerado raro en una japonesa, le trae algunos problemas en el instituto y además todas las noches se ve atormentada por una extraña pesadilla sobre unos extraños monstruos. Acompaña a Youko en la lucha contra sus demonios internos en un mundo irreal ambientado en el Japón feudal muy logrado, en el que la fantasía, la magia y los extraños monstruos proporcionaran montones de aventuras.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1fN-800LDEOutaMHKBFzR_g" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F184LahYlIyfB7YFAv19J-TQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1fN-800LDEOutaMHKBFzR_g" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/184LahYlIyfB7YFAv19J-TQ" type="text/html" title="Descargar" />
 </entry>
 </feed>

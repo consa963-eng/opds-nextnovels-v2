@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:generos:ab96a84af1</id>
 <title>Misterio</title>
-<updated>2026-10-20T17:08:06.277265+00:00</updated>
+<updated>2026-10-20T20:38:42.207345+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-ab96a84af1.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>A Cave King’s Road to Paradise Novela Ligera en Español</title>
@@ -20,7 +20,7 @@
 <category term="Romance" label="Romance"/>
 <category term="Shounen" label="Shounen"/>
 <content type="text">En un mundo donde los emblemas deciden el destino de cada uno, el príncipe Heale nace con el Emblema del Rey de las Cavernas, una insignia tan inútil como él mismo. Considerado una deshonra para su familia, es desterrado a una isla estéril y desierta, sin una planta ni un alma a la vista. Solo, desdichado, pero decidido a sobrevivir, empuña un pico para ampliar la cueva que piensa convertir en su nuevo hogar… ¡y descubre el verdadero poder de su emblema! Resulta que el Rey de las Cavernas hace que excavar sea tan fácil como respirar. Y a medida que Heale cava más y más hondo en la isla, descubre un mineral de otro mundo tras otro. ¿Quién es el inútil ahora? Pero las menas valiosas no son lo único que encuentra Heale en sus aventuras mineras. Pronto traba amistad con limos y salva a unos goblins que llegan arrastrados hasta la orilla. Y todos juntos, como una gran familia, se esforzarán por superar cualquier reto en el camino de transformar la isla en su propio paraíso.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1xlvSAiPXLin25p3kmviGkw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1xlvSAiPXLin25p3kmviGkw" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>A Lucky Coin Novela Web en Español</title>
@@ -40,7 +40,7 @@
 Un pasado misterioso. Una existencia errabunda. Dos adolescentes inseguros.
 
 Después que los padres de ambos desaparecen, una investigación detallada comienza a desentrañar las capas de la verdad… ¿qué deparará el futuro para Yan Hang, que desaparece sin despedirse, y para Chu Yi, de corazón noble? Cuando vuelvan a encontrarse años después, ¿qué camino seguirán?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1432HHsj4-3TbLyDlBGf0iA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1432HHsj4-3TbLyDlBGf0iA" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Ameku M.D.: Doctor Detective Novela Ligera en Español</title>
@@ -56,8 +56,8 @@ Después que los padres de ambos desaparecen, una investigación detallada comie
 <category term="Seinen" label="Seinen"/>
 <category term="Tragedia" label="Tragedia"/>
 <content type="text">La Dra. Takao Ameku es la brillante pero excéntrica directora de patología investigativa del Hospital General Tenikai, encargada de diagnosticar a los pacientes que los demás departamentos del hospital no pueden. Sin embargo, debido a su pasión por resolver misterios, Takao también se ve envuelta en muertes misteriosas y asesinatos, arrastrando a su asistente Yu Takanashi a sus diversas aventuras.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1JKKcLqsgRGBWlaK15pVcAA" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1JWtsFTEl8go_nqcCJaJf8w" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1JKKcLqsgRGBWlaK15pVcAA" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1JWtsFTEl8go_nqcCJaJf8w" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Another 2001 Novela en Español</title>
@@ -74,7 +74,7 @@ Después que los padres de ambos desaparecen, una investigación detallada comie
 <category term="Supernatural" label="Supernatural"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Han pasado tres años desde la «calamidad» de 1998 que se cobró la vida de muchos estudiantes de la clase 3 de la Escuela Secundaria Yomiyama Norte. Después de que Sou Hiratsuka, conocido de la superviviente de 1998 Mei Misaki, descubre que lo han asignado a la clase maldita, él y sus compañeros desarrollan una serie de contramedidas para evitar una nueva tragedia. Pero cuando los compañeros de Sou y los familiares de estos empiezan a morir en una serie de horribles «accidentes», Sou y Mei comprenden que la calamidad se ha apoderado de su pueblo una vez más. Para frenar la marea de muertes, la pareja se verá obligada a enfrentarse a los misterios más profundos de Yomiyama…</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1-LoFSbG9fd5JgzhgAwzl7A" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1-LoFSbG9fd5JgzhgAwzl7A" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Anti-Phantom Android Development Laboratory Novela Web en Español</title>
@@ -99,7 +99,7 @@ Una misteriosa aldea abandonada en lo profundo de las montañas, un tren que apa
 A medida que continuaba la investigación de estos casos, se vieron obligados a entender, les gustara o no:
 
 Los espectros están en todas partes.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F13jldu8TLFvXnAHDC4UVL0A" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/13jldu8TLFvXnAHDC4UVL0A" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Arifureta Novela Ligera en Español</title>
@@ -118,8 +118,8 @@ Los espectros están en todas partes.</content>
 <category term="Misterio" label="Misterio"/>
 <category term="Supernatural" label="Supernatural"/>
 <content type="text">Hajime Nagumo, estudiante de secundaria, es víctima del acoso de sus compañeros por su relación con la idol de la clase, Kaori. Cierto día, toda su clase fue transportada a un nuevo y desconocido mundo de fantasía, cuando tomaron conciencia, todos sus compañeros habían obtenido poderosas habilidades mágicas, mientras que Hajime lo único que obtiene es la magia de alquimia básica, la cual sirve para transmutar materiales sólidos, una habilidad común y corriente que mayormente la suelen usar los artesanos y herreros. Durante una incursión en una mazmorra, Hajime es traicionado por uno de sus compañeros en medio de una feroz batalla y por desgracia cae al fondo de la mazmorra. Milagrosamente sobrevive a la caída, y ante la desesperación, el peligro que lo rodea, y la falta de habilidad de supervivencia, crea armas para sobrevivir y escapar de la mazmorra y hacerse más fuerte para vivir sin molestias. En su viaje, se encuentra con varios personajes que lo acompañarán en su aventura, con el vampiro encarcelado Yue, la conejita de orejas largas Shea, el dragón pervertido Tio, y muchos otros más.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F14DFpnESr7gF8l4C8oBWG6w" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1q821B2iPQwYc6Z9qqJwYFw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/14DFpnESr7gF8l4C8oBWG6w" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1q821B2iPQwYc6Z9qqJwYFw" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>B.A.D. Novela Ligera en Español</title>
@@ -139,7 +139,7 @@ Los espectros están en todas partes.</content>
 Mayuzumi Azaka, una chica de catorce años arrogante, fría, caprichosa y exigente con la comida, también tiene poderes sobrenaturales. Vestida con su estilo gótico lolita y sosteniendo su paraguas rojo de papel, me sonrió. Una sonrisa que parecía sumirme en una desesperación aún mayor. Y entonces, bajo un cerezo en flor, me dijo: «Quédate a mi lado».
 
 ¡Una fantasía cruel y dolorosa, fea y hermosa, está a punto de comenzar!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1BdeUPgcgiAXdt9efhblIpQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1BdeUPgcgiAXdt9efhblIpQ" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Beacon of Light in the Dark Sea Novela en Español</title>
@@ -161,7 +161,7 @@ Mayuzumi Azaka, una chica de catorce años arrogante, fría, caprichosa y exigen
 La sed de recursos de la humanidad nos ha llevado a donde nunca debimos ir: a las profundidades de una oscuridad aplastante. La Estación Submarina Internacional del Pacífico Norte es un laberinto sumergido de laboratorios, plataformas mineras y estrechos alojamientos a los que nunca llega la luz del sol.
 
 Muhyeon, dentista de profesión, se une a la estación esperando un trabajo rutinario, pero el silencio inquietante y el comportamiento cada vez más inestable de la tripulación pronto le demuestran que está equivocado. Desde lo peculiar hasta lo perturbador, cada encuentro hace que sea imposible ignorar una verdad: el peligro no está fuera de la estación, ya está aquí.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F12D2k-e0JwWUwLS1PpxpoKw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/12D2k-e0JwWUwLS1PpxpoKw" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Book Girl Novela Ligera en Español</title>
@@ -176,8 +176,8 @@ Muhyeon, dentista de profesión, se une a la estación esperando un trabajo ruti
 <category term="Shounen" label="Shounen"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Para Tohko Amano, una estudiante de tercer curso de secundaria que se autodenomina «chica de los libros», ser la presidenta del club de literatura es mucho más que una simple actividad extraescolar con pequeñas ventajas. Es su pan de cada día... ¡literalmente! Tohko es, en realidad, un demonio devorador de literatura y, en lugar de la opción menos apetecible del pan empapado, prefiere devorar páginas arrancadas de todo tipo de historias. Pero para Tohko, las verdaderas delicias son las historias escritas a mano. Y para satisfacer sus gustos gourmet, ha contratado (o mejor dicho, intimidado) a Konoha Inoue, un estudiante de curso inferior que ha dejado de escribir novelas tras sus experiencias con la publicación a una edad temprana. Así que, día tras día, Konoha garabatea sin parar para satisfacer el apetito de Tohko. Pero cuando, un día, otro estudiante llama a la puerta del club literario en busca de consejos para escribir cartas de amor, ¿descubrirá Tohko un nuevo tipo de manjar con el que saciar su voraz apetito?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1I5bdIuGEVf6PnP8N8uR5WA" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1eE1LeBvCvzFZRs9kZpmnmQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1I5bdIuGEVf6PnP8N8uR5WA" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1eE1LeBvCvzFZRs9kZpmnmQ" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Charlotte wa Tada, Jiken wo Tokitai Novela Ligera en Español</title>
@@ -198,7 +198,7 @@ Tras conocer a una chica llamada Sharnelia, que tiene el mismo apodo que ella, d
 No hace amistades. Pero unirá fuerzas si es necesario.
 
 Charlotte solo quiere resolver el caso.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1N0I1PCbyujROrkIrUgZHAw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1N0I1PCbyujROrkIrUgZHAw" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Christmas Terror Novela en Español</title>
@@ -222,7 +222,7 @@ Cuando la estructura «observador x observado» se desmorona, ¡el mundo se derr
 Este libro contiene todas las preocupaciones y la soledad inherentes al acto de escribir...
 
 Una obra controvertida entre obras controvertidas... ¿o tal vez una obra maestra?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1vicYdkEA9dqvuT3nuofK3w" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1vicYdkEA9dqvuT3nuofK3w" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Confined Together with the Horror Game’s Male Lead Novela Web en Español</title>
@@ -286,7 +286,7 @@ Mientras decía esto, la mirada en sus ojos se oscureció bruscamente.
 —Y tú tampoco te irás.
 
 ¿Cómo diablos llegó a esto?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1zoGkrT6sEX5svJG9GhJNvw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1zoGkrT6sEX5svJG9GhJNvw" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Drowning in Summer Novela Ligera en Español</title>
@@ -311,7 +311,7 @@ Ante la pregunta de Rin sobre qué harían después, Hikaru le propuso un juego:
 Dos almas sin rumbo, convertidas en armas. Una prosa de sensibilidad fresca que retrata el peligroso lado de la juventud.
 
 Obra galardonada con el 18º Premio de Novela Ligera de Shogakukan.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F17lA6EwYIw-w1azgiY1Lmrw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/17lA6EwYIw-w1azgiY1Lmrw" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Even If the Stars Perish, You Shall Resound Novela Ligera en Español</title>
@@ -332,7 +332,7 @@ Nuestra extraña convivencia comenzó para impedir mi suicidio. Los días que po
 Pero yo no sabía nada. Ni el significado de por qué ella seguía huyendo, ni la razón por la que se detuvo, ni siquiera la única broma que se escondía en el futuro.
 
 Esta es una historia de juventud y despedida que supera el pasado y el futuro, y una historia de amor que resuena a través del tiempo eterno.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1emraZfyKqLT-zdZN-jH4jQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1emraZfyKqLT-zdZN-jH4jQ" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Fate/Apocrypha Novela Ligera en Español</title>
@@ -347,12 +347,12 @@ Esta es una historia de juventud y despedida que supera el pasado y el futuro, y
 <category term="Seinen" label="Seinen"/>
 <category term="Supernatural" label="Supernatural"/>
 <content type="text">La ambientación de Fate/Apocrypha se sitúa en un mundo paralelo a Fate/stay night en el que el Gran Grial fue retirado de Fuyuki tras la Tercera Guerra del Santo Grial y desapareció durante muchos años. Alrededor de la década de 2000, más o menos cuando habría ocurrido la Quinta Guerra del Santo Grial, el grupo que saqueó el Grial, Yggdmillennia, declara abiertamente su secesión de la Asociación de Magos y que está en posesión del Grial. La Asociación envía a cincuenta magos para recuperarlo, pero todos menos uno son asesinados al instante por Lancer of Black. El que único que sobrevive consigue activar el sistema de reserva del Gran Grial, lo que permite convocar a 14 servants en total.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Mkjm1Kwb5K6I572HW2kXxw" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/fate-zero-novela-ligera-en-espanol/" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fate-strange-fake-novela-ligera-en-espanol/" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/fate-lost-einherjar-novela-ligera-en-espanol/" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fate-requiem-novela-ligera-en-espanol/" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fate-prototype-novela-ligera-en-espanol/" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Mkjm1Kwb5K6I572HW2kXxw" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/fate-zero-novela-ligera-en-espanol/" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fate-strange-fake-novela-ligera-en-espanol/" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/fate-lost-einherjar-novela-ligera-en-espanol/" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fate-requiem-novela-ligera-en-espanol/" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fate-prototype-novela-ligera-en-espanol/" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Fate/Strange Fake Novela Ligera en Español</title>
@@ -367,7 +367,7 @@ Esta es una historia de juventud y despedida que supera el pasado y el futuro, y
 <content type="text">Esta novela es una spinoff de Fate/stay night, de Narita Ryohgo, ambientada en una guerra que ocurre unos años después de la conclusión de la Quinta Guerra del Santo Grial.
 
 El escenario: la ciudad de Snowfield en el oeste de EE.UU., lejos de Fuyuki. Allí se desarrolla una "falsa Guerra del Santo Grial", muy distinta de la original. Había quienes habían estado vigilando los augurios del Santo Grial en Snowfield. Según una investigación de la Asociación de Magos, el sistema de la Guerra del Santo Grial en Snowfield era una imitación del de Fuyuki. Es más, el sistema era incompleto, lo que llevó a la exclusión de una de las siete clases y a la selección de seres como sirvientes que normalmente no podían ser convocados. Era, en verdad, una extraña falsificación. Como un órgano del gobierno de los EE.UU. ejecuta sus diversas tramas, los Siervos son convocados uno tras otro-</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1ZcOWRiNilahK_IbnjkeeDw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1ZcOWRiNilahK_IbnjkeeDw" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Goetia Shock Novela Ligera en Español</title>
@@ -386,7 +386,7 @@ El escenario: la ciudad de Snowfield en el oeste de EE.UU., lejos de Fuyuki. All
 Un futuro en el que la instalación de cerebros auxiliares en el cuerpo humano se ha convertido en algo habitual…
 
 ¡Una novela cyberpunk, dura y sexy, que narra las hazañas de Alicia, la «Maga de la computadora!!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1w2P9wHTQNp0Rj-0yP9vV3Q" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1w2P9wHTQNp0Rj-0yP9vV3Q" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Golden Kamuy Tokushirou Tsurumi’s Last Wish Novela Ligera en Español</title>
@@ -418,7 +418,7 @@ En pleno asedio envolvente contra el ejército ruso en Mukden, ocurre un suceso 
 Quinta historia: Tokushirō Tsurumi no vacila (Hajime Tsukishima)
 
 La batalla en Mukden se encuentra en un punto muerto. Las fuerzas están mermadas, las municiones escasean y la contienda atraviesa un momento crítico. Una noche, después de cenar, Tsukishima recibe una orden secreta de Tsurumi. Se trata de una estrategia oculta y asombrosa que podría decidir el resultado de la guerra.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1-sRicpNs77RvjgNg9W2u9w" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1-sRicpNs77RvjgNg9W2u9w" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Gosick Novela Ligera en Español</title>
@@ -431,8 +431,8 @@ La batalla en Mukden se encuentra en un punto muerto. Las fuerzas están mermada
 <category term="Misterio" label="Misterio"/>
 <category term="Romance" label="Romance"/>
 <content type="text">Se sitúa en 1924 en un ficticio país europeo llamado Saubure. La historia se centra en Kazuya Kujo, el tercer hijo de un soldado imperial japonés, quien es un estudiante de intercambio que llega a la Academia Santa Margarita, donde las leyendas urbanas e historias de terror están a la orden del día. Allí conoce a Victorique, una misteriosa y bella joven que nunca asiste a las clases y pasa sus días leyendo libros en la biblioteca de la escuela o resolviendo los misterios que Grevil, su hermano, no puede resolver. La serie se centra principalmente en Kazuya y Victorique que tratan de resolver diferentes casos misteriosos.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1OP9n7cNgxksmADPWn_Q9-A" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1eWnr-BSEra6rsliBrToKcg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1OP9n7cNgxksmADPWn_Q9-A" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1eWnr-BSEra6rsliBrToKcg" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>GosickS Novela Ligera en Español</title>
@@ -445,7 +445,7 @@ La batalla en Mukden se encuentra en un punto muerto. Las fuerzas están mermada
 <category term="Misterio" label="Misterio"/>
 <category term="Romance" label="Romance"/>
 <content type="text">Primavera de 1924. Kazuya Hisaki, un estudiante de intercambio procedente del Lejano Oriente, se siente solo en Sovyur, un pequeño país de Europa. Un entorno desconocido, la barrera del idioma, una leyenda siniestra que susurran sus compañeros de clase —«El viajero que llega en primavera trae la muerte»—… y, tal como lo decían los rumores, un asesinato. Cuando Kazuya se encuentra en una situación desesperada como sospechoso, quien le tiende una mano de salvación, por capricho, es una misteriosa joven que se encierra en la torre de la biblioteca... Una colección de relatos cortos, spin-off de una obra maestra del género de misterio, que retrata el momento de un encuentro que cambiará el mundo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1gZVrPQ7eKgx5T79WRf6siA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1gZVrPQ7eKgx5T79WRf6siA" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Half of a Life Novela Ligera en Español</title>
@@ -464,7 +464,7 @@ Buscando alojamiento bajo el sol abrasador, y encontrando todas las posadas comp
 Por casualidad, termina hospedándose brevemente en la posada de la familia de Kanae, Hisago Ryokan. Sin embargo, por alguna razón, Kanae desea una interacción más activa que la de una simple empleada y huésped. Mientras que su hermana mayor, Asahi, desconfía del comportamiento inusual de Kanae, su madre, la posadera, parece complacida con el cambio, y reina un ambiente apacible.
 
 Esta es una nueva historia moderna sobre el destino, donde el azar se divide.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1d63feGlyPRL8RuQpd_gV1Q" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1d63feGlyPRL8RuQpd_gV1Q" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>I Became the Youngest Daughter of the Mafia Family Novela Web en Español</title>
@@ -488,8 +488,8 @@ Si esta es una 'segunda oportunidad', sobreviviré a toda costa.
 Esta vez, me aseguraré de que...
 
 ¡Detendré la destrucción del Imperio...!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1WMPwkEfA7DXdMqlGSUegSg" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F13YAv4AqcrfbmfsZWjDQr-A" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1WMPwkEfA7DXdMqlGSUegSg" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/13YAv4AqcrfbmfsZWjDQr-A" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>I Got a New Skill Every Time I Was Exiled, and After 100 Different Worlds, I Was Unmatched Novela Ligera en Español</title>
@@ -511,7 +511,7 @@ Sin embargo, se entera de que el mundo al que fue expulsado ha tenido un trágic
 Para salvar a Tia, una chica elfa que fue su compañera, Ed, ahora el más fuerte, decide reiniciar todo y volver a conquistar los 100 mundos.
 
 ¡Con su segunda oportunidad, hará uso completo de sus habilidades y su poder para arrasar nuevamente en estos 100 mundos, en una emocionante aventura de fantasía en un nuevo juego!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1lMZUZ-4OhzIyjW4dNPeenw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1lMZUZ-4OhzIyjW4dNPeenw" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Ichiokunen Button o Rendashita Ore wa, Kidzuitara Saikyou ni Natteita Novela Web en Español</title>
@@ -530,8 +530,8 @@ Para salvar a Tia, una chica elfa que fue su compañera, Ed, ahora el más fuert
 <category term="Shounen" label="Shounen"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Allen se está entrenando para ser espadachín, pero no es bueno en eso. Después de aceptar un duelo con mucho en juego, está a punto de abandonar cuando un hombre misterioso le ofrece la oportunidad de obtener 100 millones de años de entrenamiento con solo presionar un botón. ¡¿Pero qué pasa cuando lo presiona una y otra vez?!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1iQ5heWIs47nCWueetFO0yg" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F16cYSXl5sfWJLiOQ4XPirxA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1iQ5heWIs47nCWueetFO0yg" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/16cYSXl5sfWJLiOQ4XPirxA" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>I’m in Love with the Villainess Novela Ligera en Español</title>
@@ -552,7 +552,7 @@ Para salvar a Tia, una chica elfa que fue su compañera, Ed, ahora el más fuert
 Oohashi Rei, una oficinista y esclava del trabajo, de repente se reencarnó en un nuevo mundo y despertó en el cuerpo de la protagonista de su juego Otome favorito: Revolution. Para su suerte, con la primera persona que se encuentra al despertarse es Claire François, ¡La villana de esta historia! y que también, es uno de los personajes favoritos de Rei.
 
 Sin pensarlo demasiado, Rei decide enamorar a Claire en lugar de a los demás protagonistas masculinos que existen dentro del juego... Pero, ¿Cómo reaccionará la villana? ¿Tendrá una reacción positiva a las pretensiones de Rei? ¿O solo le esperará un destino de rechazos?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F100W_9MyRyQbKEYMQsyhQHQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/100W_9MyRyQbKEYMQsyhQHQ" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Killed Again, Mr. Detective Novela Ligera en Español</title>
@@ -569,7 +569,7 @@ Sin pensarlo demasiado, Rei decide enamorar a Claire en lugar de a los demás pr
 <category term="Shounen" label="Shounen"/>
 <category term="Supernatural" label="Supernatural"/>
 <content type="text">Sakuya Otsuki, un detective inmortal de instituto que, por alguna razón, resucita sin importar cuántas veces lo maten. Asesinado por un criminal debido a su innato sentido del humor, y bajo la mirada fría de su excelente ayudante Lilitea, se enfrenta a una serie de casos difíciles basándose en las pistas que ha traído consigo desde las profundidades de la muerte.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F103oZkvuigpP6JTq9kY-PBA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/103oZkvuigpP6JTq9kY-PBA" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Kogoroshi Village Novela Ligera en Español</title>
@@ -586,7 +586,7 @@ Sin pensarlo demasiado, Rei decide enamorar a Claire en lugar de a los demás pr
 Mezclando crítica social con tensión psicológica, la novela explora la fe, la explotación, el aislamiento y los frágiles límites entre la reverencia y el deseo.
 
 Aunque no hay representaciones BL explícitas, la historia presenta una relación delicadamente equilibrada, que no es ni romance ni afecto, y que se desarrolla en torno al fotógrafo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1R-TkTWVKwY4P51phNUkyoA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1R-TkTWVKwY4P51phNUkyoA" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Koukou Jidai ni Gouman datta Joou-sama Tono Dousei Seikatsu wa Igaito Igokochi ga Warukunai Novela Ligera en Español</title>
@@ -610,7 +610,7 @@ Yamamoto descubrió la verdad: El novio de Hayashi la g0lpe4ba.
 Al enterarse, decide ayudarla para lo cual se la lleva a su departamento para esconderla.
 
 Una vez allí y justo cuando Yamamoto iba a irse a dormir, Hayashi lo abraza por la espalda y....</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1eaujfgFWQssfv35FZeXW_g" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1eaujfgFWQssfv35FZeXW_g" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Koukyuu no Karasu Novela Ligera en Español</title>
@@ -626,7 +626,7 @@ Una vez allí y justo cuando Yamamoto iba a irse a dormir, Hayashi lo abraza por
 <category term="Shoujo" label="Shoujo"/>
 <category term="Supernatural" label="Supernatural"/>
 <content type="text">En lo más profundo de los muros del palacio vive la solitaria y misteriosa Consorte del Cuervo. Algunos dicen que es una anciana, mientras que otros afirman que es joven y hermosa. En lo que todas las historias coinciden es en que tiene el poder de exorcizar espíritus, lanzar maldiciones fatales y encontrar objetos perdidos—por un precio. Cuando el joven emperador llega a la puerta de la Consorte del Cuervo en busca de ayuda mágica, su petición podría sacudir el palacio… o quizá incluso el reino entero.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1XfGvHZAcdqQPn_FvVWGaDQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1XfGvHZAcdqQPn_FvVWGaDQ" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Kusunoki’s Garden of Gods Novela Ligera en Español</title>
@@ -641,7 +641,7 @@ Una vez allí y justo cuando Yamamoto iba a irse a dormir, Hayashi lo abraza por
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Supernatural" label="Supernatural"/>
 <content type="text">¡PRIMAVERA, DULCES… Y DOMINACIÓN DE ESPÍRITUS! En lo más recóndito del campo, Minato Kusunoki se queda a cargo de una casa aterradora repleta de espíritus malignos… ¡o al menos lo estaba, hasta que su extraordinaria habilidad los expulsó a todos! En su ausencia, una procesión de kami extraños e insólitos se siente atraída por la comodidad de la residencia Kusunoki, ahora purificada. Primero llegan el goloso Yamagami y sus peludos parientes, luego una tortuga espiritual amante del sake… y antes de que Minato se dé cuenta, ¡su casa se ha transformado en un reino kami de primavera eterna! Sin embargo, el siguiente en llegar no es un kami, sino un onmyoji que desea tomar prestado el poder de Minato para ahuyentar a los espíritus… Así comienzan los días felices de Minato en el jardín de los dioses.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1pFDwNmljsWM9ix6ylHc2sQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1pFDwNmljsWM9ix6ylHc2sQ" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Lord of the Mysteries 2: Circle of Inevitability Novela Web en Español</title>
@@ -661,7 +661,7 @@ Una vez allí y justo cuando Yamamoto iba a irse a dormir, Hayashi lo abraza por
 <content type="text">El Señor de los Misterios, segunda parte.
 
 En 1368, a finales de julio. Un escarlata sangriento descenderá del cielo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1dKEfNmPbfJForxE1qRtH9w" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1dKEfNmPbfJForxE1qRtH9w" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Lord of the Mysteries Novela Web en Español</title>
@@ -685,8 +685,8 @@ Y a pesar de sus continuos intentos por sacar a la luz estos misterios, parecier
 Sigue las aventuras de Klein mientras se ve enredado con las diversas Iglesias del mundo (tanto ortodoxas como no ortodoxas), a la par que desarrolla lentamente nuevos poderes gracias a las pociones de los legendarios y enigmaticos Beyonder.
 
 ¿Será casualidad que eligiera como seudonimo «El Loco», la carta del tarot cuyo número es el 0 y que representa un potencial ilimitado? ¿O quizás la niebla del destino ha empezado a revelar un cielo estrellado lleno de infinitas posibilidades?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1EO66Zm7Bfy3Oc9aYwRzprg" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1f3eRXeBY_8g5B_iauFnz7g" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1EO66Zm7Bfy3Oc9aYwRzprg" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1f3eRXeBY_8g5B_iauFnz7g" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Mahouka Koukou No Rettousei Magian Company Novela Ligera en Español</title>
@@ -713,7 +713,23 @@ El propósito de la organización a la cual Tatsuya fue nombrado director ejecut
 Para Tatsuya, cuya influencia ha superado la de otros Magos de Clase Estratégica, el rumbo en el que ha decidido seguir naturalmente ha llamado la atención de otras personas alrededor del planeta. Un assassin de la asociación “FEHR” en la USNA, es enviado para investigar la dirección que Tatsuya ha elegido…
 
 El telón se abre sobre la nueva leyenda de Shiba Tatsuya——</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1Do9nA13QiqxGpCxLYoV5UQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1Do9nA13QiqxGpCxLYoV5UQ&amp;fs_id=219261418802810&amp;name=Mahouka+-+Magian+Company+-+Volumen+11+%5BA+y+T%5D.pdf" type="application/pdf" title="Mahouka - Magian Company - Volumen 11 [A y T].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1Do9nA13QiqxGpCxLYoV5UQ&amp;fs_id=65674594634655&amp;name=Mahouka+-+Magian+Company+-+Volumen+10+%5BA+y+T%5D.pdf" type="application/pdf" title="Mahouka - Magian Company - Volumen 10 [A y T].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1Do9nA13QiqxGpCxLYoV5UQ&amp;fs_id=175505554946717&amp;name=Mahouka+-+Magian+Company+-+Volumen+09+%5BA+y+T%5D.pdf" type="application/pdf" title="Mahouka - Magian Company - Volumen 09 [A y T].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1Do9nA13QiqxGpCxLYoV5UQ&amp;fs_id=1030120545622477&amp;name=Mahouka+-+Magian+Company+-+Volumen+08+%5BA+y+T%5D.pdf" type="application/pdf" title="Mahouka - Magian Company - Volumen 08 [A y T].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1Do9nA13QiqxGpCxLYoV5UQ&amp;fs_id=875678309155760&amp;name=Mahouka+-+Magian+Company+-+Volumen+07+%5BA+y+T%5D.pdf" type="application/pdf" title="Mahouka - Magian Company - Volumen 07 [A y T].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1Do9nA13QiqxGpCxLYoV5UQ&amp;fs_id=838206407418643&amp;name=Mahouka+-+Magian+Company+-+Volumen+06+%5BA+y+T%5D.pdf" type="application/pdf" title="Mahouka - Magian Company - Volumen 06 [A y T].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1Do9nA13QiqxGpCxLYoV5UQ&amp;fs_id=571265204729971&amp;name=Mahouka+-+Magian+Company+-+Volumen+06+%5BA+y+T%5D.epub" type="application/epub+zip" title="Mahouka - Magian Company - Volumen 06 [A y T].epub" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1Do9nA13QiqxGpCxLYoV5UQ&amp;fs_id=752374502222038&amp;name=Mahouka+-+Magian+Company+-+Volumen+05+%5BA+y+T%5D.pdf" type="application/pdf" title="Mahouka - Magian Company - Volumen 05 [A y T].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1Do9nA13QiqxGpCxLYoV5UQ&amp;fs_id=197779802876264&amp;name=Mahouka+-+Magian+Company+-+Volumen+05+%5BA+y+T%5D.epub" type="application/epub+zip" title="Mahouka - Magian Company - Volumen 05 [A y T].epub" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1Do9nA13QiqxGpCxLYoV5UQ&amp;fs_id=1098993155673078&amp;name=Mahouka+-+Magian+Company+-+Volumen+04+%5BA+y+T%5D.pdf" type="application/pdf" title="Mahouka - Magian Company - Volumen 04 [A y T].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1Do9nA13QiqxGpCxLYoV5UQ&amp;fs_id=1123566205821764&amp;name=Mahouka+-+Magian+Company+-+Volumen+04+%5BA+y+T%5D.epub" type="application/epub+zip" title="Mahouka - Magian Company - Volumen 04 [A y T].epub" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1Do9nA13QiqxGpCxLYoV5UQ&amp;fs_id=368655012740511&amp;name=Mahouka+-+Magian+Company+-+Volumen+03+%5BA+y+T%5D.pdf" type="application/pdf" title="Mahouka - Magian Company - Volumen 03 [A y T].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1Do9nA13QiqxGpCxLYoV5UQ&amp;fs_id=905674620077173&amp;name=Mahouka+-+Magian+Company+-+Volumen+03+%5BA+y+T%5D.epub" type="application/epub+zip" title="Mahouka - Magian Company - Volumen 03 [A y T].epub" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1Do9nA13QiqxGpCxLYoV5UQ&amp;fs_id=366548356560831&amp;name=Mahouka+-+Magian+Company+-+Volumen+02+%5BA+y+T%5D.pdf" type="application/pdf" title="Mahouka - Magian Company - Volumen 02 [A y T].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1Do9nA13QiqxGpCxLYoV5UQ&amp;fs_id=63878393689291&amp;name=Mahouka+-+Magian+Company+-+Volumen+02+%5BA+y+T%5D.epub" type="application/epub+zip" title="Mahouka - Magian Company - Volumen 02 [A y T].epub" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1Do9nA13QiqxGpCxLYoV5UQ&amp;fs_id=57517322932102&amp;name=Mahouka+-+Magian+Company+-+Volumen+01+%5BA+y+T%5D.pdf" type="application/pdf" title="Mahouka - Magian Company - Volumen 01 [A y T].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1Do9nA13QiqxGpCxLYoV5UQ&amp;fs_id=646018389479725&amp;name=Mahouka+-+Magian+Company+-+Volumen+01+%5BA+y+T%5D.epub" type="application/epub+zip" title="Mahouka - Magian Company - Volumen 01 [A y T].epub" />
 </entry>
 <entry>
 <title>Merry Psycho Novela Web en Español</title>
@@ -747,7 +763,7 @@ Sintiendo que su mundo se derrumbaba, Seo-ryeong desató su locura reprimida.
 ¡Incapaz de atraparlo, decide que la atrapen primero!
 
 Lo que ella no se dio cuenta fue que el marido que había estado buscando durante tanto tiempo estaba a la vuelta de la esquina.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F115s2jvp_CjkJu77Oo2Numw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/115s2jvp_CjkJu77Oo2Numw" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Omniscient Reader’s Viewpoint Novela Web en Español</title>
@@ -771,8 +787,8 @@ Lo que ella no se dio cuenta fue que el marido que había estado buscando durant
 <content type="text">La novela «Tres maneras de sobrevivir al Apocalipsis» (TWSA) tardó más de una década y un total de 3.149 capítulos en publicarse, y otro tanto en leerse. Cuantos más capítulos se publicaban, más lectores abandonaban. Tras el capítulo 100, sólo quedaba uno: Kim Dokja, el último lector que leyó todo de principio a fin. Tras el último capítulo, Dokja recibe un mensaje nada menos que del propio autor. Dándole las gracias, le dice a Dokja que los capítulos de TWSA pronto serían de pago. Además, envía a Dokja un archivo con todos los capítulos de la novela.
 
 Lo que Dokja no sabía en ese momento: el mundo ficticio de TWSA se haría realidad en breve. Además, Dokja recibe un poder especial: es el «lector omnisciente», el único que sabe cómo acabará esta historia. Y para salvar a Yoo Joonghyuk, el protagonista de la novela, de retroceder una y otra vez, Dokja decide ahora devolver el favor a su héroe, que le ha acompañado durante más de diez años y ha hecho que su vida merezca la pena. Quiere crear su propio y maravilloso final feliz.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1LbhVFlnh5QB2O0KRiNm6bw" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1WXAKvSd1reKezzK_0VOB7g" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1LbhVFlnh5QB2O0KRiNm6bw" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1WXAKvSd1reKezzK_0VOB7g" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Otherside Picnic Novela Ligera en Español</title>
@@ -788,9 +804,9 @@ Lo que Dokja no sabía en ese momento: el mundo ficticio de TWSA se haría reali
 <category term="Shoujo Ai" label="Shoujo Ai"/>
 <category term="Supernatural" label="Supernatural"/>
 <content type="text">La primera vez que se encontró con Toriko Nishina fue en el Otro Lado, después de ver "esa cosa" y casi morir. A partir de ese día, la vida de Sorawo Kamikoshi, una universitaria agobiada, cambió. En este Otro Mundo, lleno de misterio, que coexiste con el nuestro, aparecen seres peligrosos como los Kunekune y Hasshaku-sama de los que se habla en las historias de fantasmas reales. Por motivos de investigación, de lucro y en busca de una persona importante, Toriko y Sorawo entran en lo desconocido.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1yUx22gwYL7UFb3Vq4eeRzA" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1JZ4TtyOVJAcmWPt4P7Sn0Q" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Fhu16Ym_F8T1haVJWk-nqQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1yUx22gwYL7UFb3Vq4eeRzA" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1JZ4TtyOVJAcmWPt4P7Sn0Q" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Fhu16Ym_F8T1haVJWk-nqQ" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Perhaps, She Could Kill Novela Ligera en Español</title>
@@ -820,7 +836,7 @@ Mahina afirma poseer la "capacidad de matar gente".
 Sin embargo, impone una condición para recuperar su poder.
 
 Esta es la historia de una chica que podría tener habilidades especiales y un chico atormentado por un cierto pecado.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1lALcCTGT-s0scvTmPyyNCQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1lALcCTGT-s0scvTmPyyNCQ" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Phenomeno Novela Ligera en Español</title>
@@ -832,7 +848,7 @@ Esta es la historia de una chica que podría tener habilidades especiales y un c
 <category term="Misterio" label="Misterio"/>
 <category term="Supernatural" label="Supernatural"/>
 <content type="text">Nagito Yamada es un estudiante universitario que vive lejos de casa. Como necesita un lugar barato donde vivir, se entera de la existencia de una misteriosa «casa que concede deseos» que se alquila por un precio ridículamente bajo; no lo duda, la alquila y se muda allí. Al cabo de unas noches, empieza a oír unos extraños crujidos. Noche tras noche, se ve asaltado por esos ruidos torturadores. La gota que colma el vaso es cuando encuentra el número 7 grabado en la pared, como si fuera una cuenta atrás para algo. Interesado en el ocultismo, Nagito busca ayuda en una página web que visita con frecuencia: «Ikaigabuchi», especializada en temas ocultistas.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1FEVYNlaWJpZnzaFdy_agkg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1FEVYNlaWJpZnzaFdy_agkg" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Qualia the Purple Novela en Español</title>
@@ -847,7 +863,7 @@ Esta es la historia de una chica que podría tener habilidades especiales y un c
 <category term="Shoujo Ai" label="Shoujo Ai"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Marii Yukari, una estudiante de secundaria, ve a todos los seres humanos, excepto a sí misma, como robots a través de sus vívidos ojos morados. Sin embargo, a pesar de tener una perspectiva tan extraña del mundo, sus compañeros de clase la tratan como a una chica sencilla y peculiar, incluido Manabu «Gaku» Hatou, su único amigo. Pero empiezan a ocurrir cosas extrañas a su alrededor y, cuando la reclutan para una organización clandestina debido a sus talentos únicos, Manabu se ve envuelta en un mundo de peligrosos experimentos y física cuántica diferente a todo lo que jamás hubiera podido imaginar. ¿Será suficiente su amistad con Marii para salvarlas a ambas de lo que les espera en los bajos fondos científicos del mundo?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1HRB2MVZMoLqFgNDJd2juDA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1HRB2MVZMoLqFgNDJd2juDA" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Radiant Blade of the Wilderness Novela Web en Español</title>
@@ -877,7 +893,7 @@ Yuchong, la Tortuga de Tres Patas: al consumirla, el sigilo se convierte en una 
 Perdido en sus pensamientos, Ding Songyan volvió la cabeza hacia la persona que estaba a su lado y preguntó:
 
 ”¿Quieres decir que estas criaturas se extinguieron hace mucho tiempo? ¿Y que solo quedaron las artes marciales creadas por quienes las consumieron primero, basadas en las transformaciones que sufrieron sus cuerpos? ¿Y que esas artes… todavía pueden cultivarse?”</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1ngfLC3660BEC0ueQ6TMMzQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1ngfLC3660BEC0ueQ6TMMzQ" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Reborn as a Space Mercenary Novela Ligera en Español</title>
@@ -910,8 +926,8 @@ En cualquier caso, no sé qué ha provocado esto, pero supongo que tendré que a
 Todo irá bien. Tengo mi fiel nave espacial, así que probablemente pueda ganar algo de dinero. ¡Funcionará! Tiene que hacerlo.
 
 Esta es la historia de un hombre lanzado abruptamente al espacio junto con su nave espacial privada. Corre con ella y salva a damiselas en apuros por el camino, coquetea con dichas damiselas, gana dinero como mercader a sueldo y utiliza sus conocimientos de juego para abrirse camino y vivir libre y fácilmente.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F15yxNhh7rUL_HCsaLVQnK7g" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1meHwfCK71n2bSqowY2q_3g" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/15yxNhh7rUL_HCsaLVQnK7g" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1meHwfCK71n2bSqowY2q_3g" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Rebuild World Novela Ligera en Español</title>
@@ -929,9 +945,34 @@ Esta es la historia de un hombre lanzado abruptamente al espacio junto con su na
 <category term="Seinen" label="Seinen"/>
 <category term="Supernatural" label="Supernatural"/>
 <content type="text">El pináculo de la civilización humana ha llegado y se fue, dejando solo ruinas a su paso. La sociedad y la ciencia ahora luchan para reconstruirse, redescubriendo fragmentos de conocimiento de poderosos artefactos antiguos que desafían la comprensión. Estas reliquias del «Viejo Mundo» pueden hacer ricos de aquellos que las encuentran—si los sistemas de seguridad antiguos y las armas biológicas rebeldes no matan primero a los cazadores de reliquias. Akira, un joven huérfano de la calle, se propone a convertirse en uno de esos cazadores para escapar de su brutal vida en los barrios marginales. Sin entrenamiento, desnutrido y mal armado, Akira tendría suerte si lograba salir con vida de las ruinas—hasta que un encuentro con Alfa, una mujer misteriosa y fantasmal, cambia su destino para siempre. Alfa necesita un cazador y está dispuesta a entrenar a Akira para conseguir uno. ¿Su apoyo será suficiente para ayudar a un niño sin dinero de los barrios marginales a escalar en la cima de un mundo aplastante y despiadado?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1yo514zvXNTpQeYTkirxy9w" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fterabox.com%2Fs%2F16ycdtjD12NmQdTyV-cYA7g" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fterabox.com%2Fs%2F14YeL6dKxerLag4hXwdduIA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1yo514zvXNTpQeYTkirxy9w&amp;fs_id=998721427099899&amp;name=Rebuild+World+-+Volumen+03-1+%5BHT%5D.pdf" type="application/pdf" title="Rebuild World - Volumen 03-1 [HT].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1yo514zvXNTpQeYTkirxy9w&amp;fs_id=29926583463829&amp;name=Rebuild+World+-+Volumen+03-1+%5BHT%5D.epub" type="application/epub+zip" title="Rebuild World - Volumen 03-1 [HT].epub" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1yo514zvXNTpQeYTkirxy9w&amp;fs_id=991951821569208&amp;name=Rebuild+World+-+Volumen+02-2+%5BHT%5D.pdf" type="application/pdf" title="Rebuild World - Volumen 02-2 [HT].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1yo514zvXNTpQeYTkirxy9w&amp;fs_id=1035104022514381&amp;name=Rebuild+World+-+Volumen+02-2+%5BHT%5D.epub" type="application/epub+zip" title="Rebuild World - Volumen 02-2 [HT].epub" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1yo514zvXNTpQeYTkirxy9w&amp;fs_id=879840596190084&amp;name=Rebuild+World+-+Volumen+02-1+%5BHT%5D.pdf" type="application/pdf" title="Rebuild World - Volumen 02-1 [HT].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1yo514zvXNTpQeYTkirxy9w&amp;fs_id=609062009197451&amp;name=Rebuild+World+-+Volumen+02-1+%5BHT%5D.epub" type="application/epub+zip" title="Rebuild World - Volumen 02-1 [HT].epub" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1yo514zvXNTpQeYTkirxy9w&amp;fs_id=225099205987597&amp;name=Rebuild+World+-+Volumen+01-2+%5BHT%5D.pdf" type="application/pdf" title="Rebuild World - Volumen 01-2 [HT].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1yo514zvXNTpQeYTkirxy9w&amp;fs_id=600112510098466&amp;name=Rebuild+World+-+Volumen+01-2+%5BHT%5D.epub" type="application/epub+zip" title="Rebuild World - Volumen 01-2 [HT].epub" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1yo514zvXNTpQeYTkirxy9w&amp;fs_id=93336927638074&amp;name=Rebuild+World+-+Volumen+01-1+%5BHT%5D.pdf" type="application/pdf" title="Rebuild World - Volumen 01-1 [HT].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1yo514zvXNTpQeYTkirxy9w&amp;fs_id=799792565208769&amp;name=Rebuild+World+-+Volumen+01-1+%5BHT%5D.epub" type="application/epub+zip" title="Rebuild World - Volumen 01-1 [HT].epub" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fterabox.com%2Fs%2F16ycdtjD12NmQdTyV-cYA7g&amp;fs_id=442150449406594&amp;name=Rebuild+World+-+Volumen+06-2+%5BWP%5D.pdf" type="application/pdf" title="Rebuild World - Volumen 06-2 [WP].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fterabox.com%2Fs%2F16ycdtjD12NmQdTyV-cYA7g&amp;fs_id=703716122530837&amp;name=Rebuild+World+-+Volumen+06-1+%5BWP%5D.pdf" type="application/pdf" title="Rebuild World - Volumen 06-1 [WP].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fterabox.com%2Fs%2F16ycdtjD12NmQdTyV-cYA7g&amp;fs_id=909199485642371&amp;name=Rebuild+World+-+Volumen+05+%5BWP%5D.pdf" type="application/pdf" title="Rebuild World - Volumen 05 [WP].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fterabox.com%2Fs%2F16ycdtjD12NmQdTyV-cYA7g&amp;fs_id=674109865073944&amp;name=Rebuild+World+-+Volumen+04+%5BWP%5D.pdf" type="application/pdf" title="Rebuild World - Volumen 04 [WP].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fterabox.com%2Fs%2F16ycdtjD12NmQdTyV-cYA7g&amp;fs_id=370276802060253&amp;name=Rebuild+World+-+Volumen+03-2+%5BWP%5D.pdf" type="application/pdf" title="Rebuild World - Volumen 03-2 [WP].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fterabox.com%2Fs%2F16ycdtjD12NmQdTyV-cYA7g&amp;fs_id=409796317786971&amp;name=Rebuild+World+-+Volumen+03-1+%5BWP%5D.pdf" type="application/pdf" title="Rebuild World - Volumen 03-1 [WP].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fterabox.com%2Fs%2F16ycdtjD12NmQdTyV-cYA7g&amp;fs_id=875192685532761&amp;name=Rebuild+World+-+Volumen+02-2+%5BWP%5D.pdf" type="application/pdf" title="Rebuild World - Volumen 02-2 [WP].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fterabox.com%2Fs%2F16ycdtjD12NmQdTyV-cYA7g&amp;fs_id=203913348101626&amp;name=Rebuild+World+-+Volumen+02-1+%5BWP%5D.pdf" type="application/pdf" title="Rebuild World - Volumen 02-1 [WP].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fterabox.com%2Fs%2F16ycdtjD12NmQdTyV-cYA7g&amp;fs_id=401987523537651&amp;name=Rebuild+World+-+Volumen+01-2+%5BWP%5D.pdf" type="application/pdf" title="Rebuild World - Volumen 01-2 [WP].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fterabox.com%2Fs%2F16ycdtjD12NmQdTyV-cYA7g&amp;fs_id=220189702902350&amp;name=Rebuild+World+-+Volumen+01-1+%5BWP%5D.pdf" type="application/pdf" title="Rebuild World - Volumen 01-1 [WP].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fterabox.com%2Fs%2F14YeL6dKxerLag4hXwdduIA&amp;fs_id=4795932861102&amp;name=Rebuild+World+-+Volumen+09-1+%5BMPF%5D.pdf" type="application/pdf" title="Rebuild World - Volumen 09-1 [MPF].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fterabox.com%2Fs%2F14YeL6dKxerLag4hXwdduIA&amp;fs_id=371732518692448&amp;name=Rebuild+World+-+Volumen+08-2+%5BMPF%5D.pdf" type="application/pdf" title="Rebuild World - Volumen 08-2 [MPF].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fterabox.com%2Fs%2F14YeL6dKxerLag4hXwdduIA&amp;fs_id=576166037354241&amp;name=Rebuild+World+-+Volumen+08-1+%5BMPF%5D.pdf" type="application/pdf" title="Rebuild World - Volumen 08-1 [MPF].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fterabox.com%2Fs%2F14YeL6dKxerLag4hXwdduIA&amp;fs_id=644617103539215&amp;name=Rebuild+World+-+Volumen+07+%5BMPF%5D.pdf" type="application/pdf" title="Rebuild World - Volumen 07 [MPF].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fterabox.com%2Fs%2F14YeL6dKxerLag4hXwdduIA&amp;fs_id=2798222046354&amp;name=Rebuild+World+-+Volumen+06-2+%5BMPF%5D.pdf" type="application/pdf" title="Rebuild World - Volumen 06-2 [MPF].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fterabox.com%2Fs%2F14YeL6dKxerLag4hXwdduIA&amp;fs_id=71112369967743&amp;name=Rebuild+World+-+Volumen+06-1+%5BMPF%5D.pdf" type="application/pdf" title="Rebuild World - Volumen 06-1 [MPF].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fterabox.com%2Fs%2F14YeL6dKxerLag4hXwdduIA&amp;fs_id=433594149356854&amp;name=Rebuild+World+-+Volumen+05+%5BMPF%5D.pdf" type="application/pdf" title="Rebuild World - Volumen 05 [MPF].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fterabox.com%2Fs%2F14YeL6dKxerLag4hXwdduIA&amp;fs_id=835864677767277&amp;name=Rebuild+World+-+Volumen+04+%5BMPF%5D.pdf" type="application/pdf" title="Rebuild World - Volumen 04 [MPF].pdf" />
 </entry>
 <entry>
 <title>Reverend Insanity Novela Web en Español</title>
@@ -969,8 +1010,8 @@ Otra Sinopsis:
 La historia de un villano, Fang Yuan, que renació 500 años en el pasado con la cigarra de otoño primaveral que refinó con esmero. Con su profunda sabiduría, sus batallas y sus experiencias vitales, intenta vencer a sus enemigos con habilidad e ingenio. Despiadado y amoral, no tiene necesidad de contenerse mientras persigue su objetivo final. En un mundo de crueldad en el que se cultiva utilizando Gu -criaturas mágicas del mundo-, Fang Yuan debe alzarse por encima de todos con su propio poder.
 
 El Gu es un legendario insecto venenoso, utilizado a menudo en prácticas de magia negra. Puede adoptar la forma de varios insectos, normalmente serpientes, grillos, gusanos, etc. = la visión del mundo, los valores de valor y la filosofía de vida de cada uno.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1X52p3plXCIF4tHJcEd-Ccg" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1PDz7pxkuEzhiLsnFVq1pAg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1X52p3plXCIF4tHJcEd-Ccg" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1PDz7pxkuEzhiLsnFVq1pAg" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Shibou Yuugi de Meshi wo Kuu Novela Ligera en Español</title>
@@ -983,7 +1024,7 @@ El Gu es un legendario insecto venenoso, utilizado a menudo en prácticas de mag
 <category term="Misterio" label="Misterio"/>
 <category term="Suspenso" label="Suspenso"/>
 <content type="text">Yuki se despierta y se encuentra en una mansión desconocida, con un uniforme de sirvienta y acostada en una cama lujosa. Pronto, descubre a cinco chicas más, todas vestidas igual que ella. Esta es la Casa Fantasma, y la única forma de que sobrevivan es atravesar las trampas que las acechan: juegos mortales llenos de cerbatanas, sierras circulares, habitaciones cerradas y armas. Es una situación desesperada y aterradora para todos allí... bueno, para todos excepto para Yuki. Después de todo, esa es su profesión, con solo diecisiete años se gana la vida jugando juegos mortales.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Gchi15vPsouDNy-rLkxFQA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Gchi15vPsouDNy-rLkxFQA" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Shrouded Seascape Novela Web en Español</title>
@@ -1006,7 +1047,7 @@ El Gu es un legendario insecto venenoso, utilizado a menudo en prácticas de mag
 Pedir clemencia a las desconocidas criaturas de las profundidades sólo conduce a una existencia lenta y torturada. Los supervivientes atrapados se distorsionan gradualmente, perdiendo lo que les hacía humanos, tanto física como mentalmente, en favor de la penumbra mientras permanecen atrapados en esta oscuridad eterna. ¿Su única esperanza? Una peligrosa expedición a territorios marinos inexplorados.
 
 Impulsado por su determinación, el valiente Charles se embarca en este desalentador viaje a bordo de su barco de vapor, con el objetivo de recuperar la gloria pasada de la humanidad. Junto con su tripulación, buscan una salida de este mundo marino oculto, un camino de vuelta al mundo iluminado por el sol, donde los humanos una vez se alzaron.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F16c-YwqSph6ABDFpIOdxbgQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/16c-YwqSph6ABDFpIOdxbgQ" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka Novela Ligera en Español</title>
@@ -1026,8 +1067,8 @@ Impulsado por su determinación, el valiente Charles se embarca en este desalent
 Sólo un pequeño grupo de chicas jóvenes, las Leprechauns, pueden empuñar las antiguas armas necesarias para rechazar las invasiones de estas criaturas. En la inestable y fugaz vida de las chicas, donde una llamada a la muerte segura puede llegar en cualquier momento, entra un personaje improbable: un joven que lo perdió todo en su última batalla hace quinientos años, el último humano vivo despertado de un largo y gélido letargo.
 
 Incapaz de seguir luchando, Willem se convierte en el padre que las niñas nunca tuvieron, cuidándolas y alimentándolas incluso mientras lucha por aceptar su nueva vida, en la que siente el dolor de esperar impotente a que sus seres queridos vuelvan a casa de la batalla que su "Hija" sintió por él hace tanto tiempo. Juntos, Willem y las niñas llegan a comprender poco a poco lo que significa la familia y lo que realmente merece la pena proteger.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F19QHHM_VnGOi9BBPbuZb4pg" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F19ccFTeZtcOVf84lF5GvpJQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/19QHHM_VnGOi9BBPbuZb4pg" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/19ccFTeZtcOVf84lF5GvpJQ" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Solo Leveling Novela en Español</title>
@@ -1057,7 +1098,7 @@ Ahora, Sung Jinwoo tiene acceso a un sistema de misiones diarias, estadísticas 
 En un mundo donde los cazadores luchan por fama y fortuna, Jinwoo deberá decidir si sigue siendo la presa… o se convierte en el depredador definitivo.
 
 Una historia de supervivencia, crecimiento y venganza que redefine el concepto de «subir de nivel».</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F19YWM8Bc12tFJSararGd7Gw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/19YWM8Bc12tFJSararGd7Gw" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Strategic Base 32098 Paradise Novela Ligera en Español</title>
@@ -1077,7 +1118,7 @@ Ganador del Gran Premio de Oro de la 6.ª edición del Premio Sneaker.
 Dos superpotencias llevan más de mil años enfrascadas en una guerra interestelar. El soldado cíborg Varois desciende al planeta ultrasecreto del enemigo, conocido como «Paraíso». Pero lo que encuentra allí es solo un soldado enemigo y una niña llamada María.
 
 Una novela romántica de ciencia ficción que colma todas las expectativas.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1--2eFaQgUVJl0ivpIFnLFA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1--2eFaQgUVJl0ivpIFnLFA" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Surviving the Game as a Barbarian Novela Web en Español</title>
@@ -1094,7 +1135,7 @@ Una novela romántica de ciencia ficción que colma todas las expectativas.</con
 <category term="Misterio" label="Misterio"/>
 <category term="Shounen" label="Shounen"/>
 <content type="text">El personaje principal, Lee Han-soo, ha llegado a la etapa final del jefe en el juego [Dungeon &amp; Stone], un logro sin precedentes hasta ese momento. Pero al ingresar a la sala del jefe, de repente se encuentra dentro del mundo de [Dungeon &amp; Stone] como un bárbaro llamado 'Bjjorn, hijo de Yandel', y es recibido con un tutorial que lo felicita por completarlo. Después de la caída del mundo, solo queda una ciudad en pie. Cada mes, se abre un evento llamado [???], donde los aventureros pueden descubrir el misterio y obtener recompensas.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1a_iM-1lMNwwWL6MMfN6dYg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1a_iM-1lMNwwWL6MMfN6dYg" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>The Apothecary Diaries Novela Ligera en Español</title>
@@ -1109,8 +1150,8 @@ Una novela romántica de ciencia ficción que colma todas las expectativas.</con
 <category term="Romance" label="Romance"/>
 <category term="Seinen" label="Seinen"/>
 <content type="text">Maomao vive felizmente con su padre boticario, hasta que es secuestrada y vendida al servicio del palacio. Aunque parece normal, tiene un ingenio rápido, una mente aguda y un amplio conocimiento de la medicina. Ese es su secreto, hasta que se encuentra con un residente del palacio al menos tan perspicaz como ella.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Jui6KPEdeTUChmhHLiYWKA" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F14MclVbFjIhjKnEMaOFSHqQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Jui6KPEdeTUChmhHLiYWKA" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/14MclVbFjIhjKnEMaOFSHqQ" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>The Count’s Secret Maid Novela Web en Español</title>
@@ -1136,7 +1177,7 @@ Ella pensó que sería muy difícil servir al amo ciego.
 ¡El problema es que su personalidad es demasiado atrevida!
 
 La historia de un amo que ha perdido la vista y tiene un carácter muy desagradable, y una criada que pasó por todo tipo de penurias.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F17PCUDMCXfs2gmrpupXiHsw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/17PCUDMCXfs2gmrpupXiHsw" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>The Detective is Already Dead Novela Ligera en Español</title>
@@ -1164,8 +1205,8 @@ Y esta historia comienza un año después de ese incidente.
 Yo soy el único que queda, pero sigo con sus deseos.
 
 Esta historia está lejos de terminar...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1UORdkOkgnnVZp3lqTW4jiQ" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1ZggWOpUkyBwEZGdxolpnZg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1UORdkOkgnnVZp3lqTW4jiQ" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1ZggWOpUkyBwEZGdxolpnZg" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>The Devil Princess Novela Ligera en Español</title>
@@ -1187,7 +1228,7 @@ Esta historia está lejos de terminar...</content>
 Tras vivir mucho tiempo como un demonio, sin darse cuenta, un anhelo por ese mundo de luz se extendió por su corazón. Se sumergió en un círculo mágico de invocación que había aparecido. Entonces… al abrir los ojos de nuevo, se había convertido en un bebé humano.
 
 Se encontraba en el Reino Sagrado. Sentía miedo: aunque era un demonio, solo tenía la fuerza de un bebé. Si la descubrían, sería terrible. ¿Era humana o demonio? ¿Sería capaz de sobrevivir a partir de ese momento?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1jDWn73AoeF4cKKdmA_JARw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1jDWn73AoeF4cKKdmA_JARw" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>The Glass Tower Murders Novela en Español</title>
@@ -1219,7 +1260,7 @@ Los encargados de desentrañar el misterio son el famoso detective Aozuki Yoru y
 Pistas esparcidas por toda la trama, un desafío para el lector, una legibilidad abrumadora y un final sorprendente.
 
 ¡La primera novela policíaca completa del autor, la gran favorita!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Cq_vScHB4cBbu6sLMgI-5A" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Cq_vScHB4cBbu6sLMgI-5A" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>The Golden Light of Dawn Novela Web en Español</title>
@@ -1247,7 +1288,7 @@ Lo que le quedó a Rosha fue un sentimiento de culpa por sobrevivir sola, la ten
 ----...Los haré pedazos hasta la muerte. A todos esos monstruos, sin excepción.
 
 No había nada más que ira.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1JWzR8HrwHjCZeWFdRD0qnw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1JWzR8HrwHjCZeWFdRD0qnw" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>The Mysterious Scent Comes from the Bakery Novela Ligera en Español</title>
@@ -1276,7 +1317,7 @@ Sinopsis
 Ichikura Koharu, estudiante de primer año de universidad, aspira a convertirse en dibujante de manga mientras trabaja a medio tiempo en Nostimo, una panadería ubicada en la ciudad de Toyonaka, en la prefectura de Osaka. Cierto día, su mejor amiga Yukiko, que trabaja en la misma panadería, le cancela a último momento la transmisión en vivo de una obra de teatro que habían quedado en ir a ver juntas. Pero ¿por qué, si fue ella quien la invitó?
 
 Intrigada, Koharu rememora el comportamiento de su amiga y llega a una verdad inesperada… ¡Una serie de misterios de lo cotidiano ambientados en una panadería!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1p6QfL_h0Ozzk1JRB1U6T1w" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1p6QfL_h0Ozzk1JRB1U6T1w" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>The Mystic Archives of Dantalian Novela Ligera en Español</title>
@@ -1293,7 +1334,7 @@ Intrigada, Koharu rememora el comportamiento de su amiga y llega a una verdad in
 <content type="text">El joven Huey se hizo cargo de la antigua mansión de su difunto abuelo, un apasionado de los libros, así como de la colección de libros que allí se guardaba. Pero había una condición: también tenía que heredar la «Bibliotheca».
 
 Al inspeccionar la mansión, Huey descubre un sótano lleno de libros apilados. En medio de ellos se encuentra con una chica vestida de negro que lee en silencio un libro. Se llama Dalian y lleva un gran candado colgado delante. Ella misma es la entrada a la «Bibliotheca de Dantalian», que contiene los prohibidos «Libros Fantasma».</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1gXPJBYOW_myatl41BTnaQw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1gXPJBYOW_myatl41BTnaQw" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>The Night Wanderer Novela en Español</title>
@@ -1307,7 +1348,7 @@ Al inspeccionar la mansión, Huey descubre un sótano lleno de libros apilados. 
 <category term="Misterio" label="Misterio"/>
 <category term="Romance" label="Romance"/>
 <content type="text">En un mismo apartamento de Shanghái, dos personas separadas por casi 80 años se encuentran cada noche a las 10 en punto. Él, un brillante abogado de 1937; ella, una forense del 2015. Lo que comienza como un inexplicable cruce entre tiempos pronto se convierte en un vínculo peligroso, donde misterio, crimen y amor desafían las leyes de la realidad.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1d843VvxXto6Cr7wJQSc2aw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1d843VvxXto6Cr7wJQSc2aw" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>The Suspects of Necromancy Novela en Español</title>
@@ -1327,7 +1368,7 @@ Pero entonces, un ejército de muertos vivientes atacó de repente y aplastó r�
 Conrad, un caballero del reino, persiguió al misterioso nigromante. En una aldea remota, se topó con una mansión sospechosa y con una joven llamada Luna que la frecuentaba. Con sus ojos rojos, su piel pálida y su cabello dorado, ¿quién era ella? ¿Era el dueño de la mansión el nigromante?
 
 De un autor debut sensacional cuya primera obra batió récords de ventas llega un cautivador suspense fantástico que desafía a los lectores a reflexionar sobre el valor de la vida.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1FQS3HQ1BKQUxdcBSnJAMnA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1FQS3HQ1BKQUxdcBSnJAMnA" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>The World Bows Down Before My Flames Novela Ligera en Español</title>
@@ -1344,7 +1385,7 @@ De un autor debut sensacional cuya primera obra batió récords de ventas llega 
 <category term="Psicológico" label="Psicológico"/>
 <category term="Supernatural" label="Supernatural"/>
 <content type="text">Homura se muere por prenderle fuego a algo... a lo que sea. ¡Y puede que por fin tenga su oportunidad cuando es invocada a otro mundo tan desesperado como para pedirle ayuda a ella! Junto a un grupo de chicas de preparatoria igual de excéntricas que cuentan con sus propios poderes, Homura se pone en marcha para incinerar a los maleantes y frenar el caos provocado por la resurrección del Rey Demonio. ¿Qué pasará cuando inevitablemente se le vaya un poco la mano? ¿Terminarán sus llamas de justicia quemando el mundo entero?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F10F0S7Fl6JAyW6SfsigiWBg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/10F0S7Fl6JAyW6SfsigiWBg" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>The World’s Finest Assassin Novela Ligera en Español</title>
@@ -1363,8 +1404,8 @@ De un autor debut sensacional cuya primera obra batió récords de ventas llega 
 <content type="text">"¡Voy a vivir para mí mismo!"
 
 El mejor asesino de la Tierra sólo sabía vivir como una herramienta para sus empleadores... hasta que decidieron acabar con su vida. Renacido por la gracia de una diosa en un mundo de espadas y hechicería, se le ofrece la oportunidad de hacer las cosas de manera diferente esta vez, pero hay un inconveniente... Tiene que eliminar a un héroe superpoderoso que provocará el fin del mundo a menos que se le detenga. Ahora conocido como Lugh Tuatha Dé, el maestro asesino ciertamente tiene las manos ocupadas, en particular por todas las hermosas chicas que lo rodean constantemente. Puede que Lugh haya sido un asesino incomparable, pero ¿cómo se las arreglará contra enemigos con una magia poderosa?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1RzazcUsGgMYjNgFp5Bem1w" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1ofckgMLDecp74Xg0EpT8VQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1RzazcUsGgMYjNgFp5Bem1w" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1ofckgMLDecp74Xg0EpT8VQ" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Though I Am an Inept Villainess Novela Ligera en Español</title>
@@ -1381,7 +1422,7 @@ El mejor asesino de la Tierra sólo sabía vivir como una herramienta para sus e
 <content type="text">La "Corte de los Polluelos" del Reino de Ei, donde cinco clanes presentan a sus doncellas como consortes imperiales, es el escenario de una competencia feroz: solo una será coronada emperatriz. Justo cuando la frágil y hermosa "mariposa de la corte", Kou Reirin, parece estar a punto de casarse con el príncipe heredero, ¡la envidiosa "rata de la corte", Shu Keigetsu, le roba su cuerpo!
 
 Reirin despierta en las mazmorras como la conspiradora y la situación parece nefasta... ¿o tal vez no? ¡Ahora que tiene un cuerpo nuevo y robusto, ni siquiera la inminente amenaza de ejecución podrá detenerla!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1rRG1Kfsvq4F6wfYc9jdxNw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1rRG1Kfsvq4F6wfYc9jdxNw" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>To the Monster I Love Novela Ligera en Español</title>
@@ -1405,7 +1446,7 @@ Parece que me están por interrogar. Hablaré de las Ilegalidades, aquellos con 
 Magia, milagros, fantasías— parece que nada de eso se permite en esta ciudad. Sin embargo, aún hay esperanza. ¿Por qué? Lo entenderás si escuchas esto.
 
 Se supone que esta es mi verdadera misión. Pero ahora, soy el gran criminal que arrojó al caos la ciudad.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1-00zliBELC13UAzJoef2tg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1-00zliBELC13UAzJoef2tg" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Trash of the Count’s Family 2 Novela Web en Español</title>
@@ -1467,7 +1508,7 @@ Tenía un problema.
 Maldición.
 
 Parece que estaré ocupado por un tiempo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1JXFJgfuTEX45J0sdj2K78g" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1JXFJgfuTEX45J0sdj2K78g" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Who Killed the Hero? Novela Ligera en Español</title>
@@ -1480,7 +1521,7 @@ Parece que estaré ocupado por un tiempo.</content>
 <category term="Misterio" label="Misterio"/>
 <category term="Tragedia" label="Tragedia"/>
 <content type="text">Han pasado cuatro años desde la derrota del Señor de los Demonio. El reino, ahora en paz, ha asumido la tarea de recopilar las numerosas hazañas del Héroe caído, comenzando por entrevistar a los miembros de su antiguo grupo: Leon, el Santo de la Espada, Maria, la Santa Doncella y Solon, el Sabio. Solo queda una pregunta: ¿cómo murió el Héroe? Leer entre líneas estos relatos épicos sobre el pasado del Héroe y las aventuras del grupo juntos revelará poco a poco la verdad. ¿Quién mató al Héroe? ¿Fue el Señor de los Demonio... o un camarada?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1fvHcG_dqZsOS6ZASLQ8TzQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1fvHcG_dqZsOS6ZASLQ8TzQ" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Witch Can’t Be Collared Novela Ligera en Español</title>
@@ -1502,7 +1543,7 @@ Estas brujas, encarceladas y atadas por collares que suprimen su magia, tienen e
 "Vamos, Rogue, solo una palabra es todo lo que necesito. Dame la orden. Dime que lance un hechizo en ese hombre. ¡Solo una palabra! Claro, su mente puede romperse— pero el caso estará resuelto"
 
 Una historia emocionante de fantasía donde un investigador es atormentado por sus malvadas compañeras (Brujas).</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1TOqGWOZTxv6A7wdfoNqBcA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1TOqGWOZTxv6A7wdfoNqBcA" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e — Year 3 Novela Ligera en Español</title>
@@ -1522,9 +1563,9 @@ Una historia emocionante de fantasía donde un investigador es atormentado por s
 <content type="text">Tras el último "examen especial de fin de curso" del segundo año, Horikita y su antigua clase D de primero reciben a los alumnos de tercero de la clase A.Sin embargo, la persona más influyente, Ayakoji Kiyotaka, es trasladada a otra clase.Los alumnos de la clase de Horikita se sumergen en sentimientos de confusión y caos, pero sólo hay un hecho cruel.Horikita y los demás alumnos de la clase A del tercer curso deben vencer a "Ayanokoji Kiyotaka" para poder graduarse en la clase A.
 
 Mientras se forman nuevas conexiones entre la creciente clase Ryuen y la clase B, la clase C de Ayakoji y la clase D de Ichinose, ¡se anuncia la primera prueba especial del tercer año, la "Prueba Integral de Habilidad Académica General y Minoritaria"! Sólo una clase se graduará en la Clase A.¿Qué clase se situará en lo más alto? ¡Comienza la tan esperada "Edición del Tercer Curso"!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1MY761VOss1cmGtnIaXdcrA" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F10_P2p1YUYIREZwlmwtiWiA" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1K9pspItEjHIbrK4v0Lxtqg" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F11oXaaQ7mRWNHaXjJChATUw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1MY761VOss1cmGtnIaXdcrA" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/10_P2p1YUYIREZwlmwtiWiA" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1K9pspItEjHIbrK4v0Lxtqg" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/11oXaaQ7mRWNHaXjJChATUw" type="text/html" title="Descargar" />
 </entry>
 </feed>

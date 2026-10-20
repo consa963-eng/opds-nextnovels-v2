@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:f29fbccc0a</id>
 <title>Densuke</title>
-<updated>2026-10-20T17:08:06.141908+00:00</updated>
+<updated>2026-10-20T20:38:42.015884+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-f29fbccc0a.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Death Mage Novela Ligera en Español</title>
@@ -33,8 +33,8 @@ Sin embargo, al encontrarse con el dios por segunda vez este le informó que ten
 Hiroto renace una vez más como un ser mitad-Vampiro, mitad-Elfo Oscuro, un Dhampir.
 
 No queriendo morir y vivir una cuarta vida, él está decidido a vivir esta tercera con la única cosa que le quedo de su vida pasada… La Magia de Atributo Muerte y su enorme cantidad de Maná.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1S_6aYgefoCN4tSQHslyG5g" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1D6YErmAqnQieLwv6l4CxeA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1S_6aYgefoCN4tSQHslyG5g" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1D6YErmAqnQieLwv6l4CxeA" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Yondome wa Iya na Shizokusei Majutsushi Novela Web en Español</title>
@@ -57,6 +57,6 @@ Una serie de acontecimientos desafortunados obligaron a Hiroto a reencarnarse co
 Sin embargo, al encontrarse con el dios por segunda vez, se le informó que habría otra reencarnación — una que ya había sido puesta en marcha y que no podía ser detenida. No queriendo que Hiroto viviera mucho tiempo, el dios lo maldijo antes de que renaciera con la esperanza de que muriera rápidamente o se suicidara.
 
 Hiroto renació una vez más como mitad Vampiro y mitad Elfo Oscuro. Un Dhampir. No queriendo una cuarta vida, está decidido a vivir esta tercera vida con las únicas cosas que le quedan de sus vidas anteriores — la magia de atributo muerte y su enorme piscina de maná.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1eULqi2nbzsITeXBNznHjGQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1eULqi2nbzsITeXBNznHjGQ" type="text/html" title="Descargar" />
 </entry>
 </feed>

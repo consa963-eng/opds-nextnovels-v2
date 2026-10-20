@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:be4f9c45c3</id>
 <title>Ueo Hisamitsu</title>
-<updated>2026-10-20T17:08:06.217641+00:00</updated>
+<updated>2026-10-20T20:38:42.113047+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-be4f9c45c3.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Qualia the Purple Novela en Español</title>
@@ -17,6 +17,6 @@
 <category term="Shoujo Ai" label="Shoujo Ai"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Marii Yukari, una estudiante de secundaria, ve a todos los seres humanos, excepto a sí misma, como robots a través de sus vívidos ojos morados. Sin embargo, a pesar de tener una perspectiva tan extraña del mundo, sus compañeros de clase la tratan como a una chica sencilla y peculiar, incluido Manabu «Gaku» Hatou, su único amigo. Pero empiezan a ocurrir cosas extrañas a su alrededor y, cuando la reclutan para una organización clandestina debido a sus talentos únicos, Manabu se ve envuelta en un mundo de peligrosos experimentos y física cuántica diferente a todo lo que jamás hubiera podido imaginar. ¿Será suficiente su amistad con Marii para salvarlas a ambas de lo que les espera en los bajos fondos científicos del mundo?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1HRB2MVZMoLqFgNDJd2juDA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1HRB2MVZMoLqFgNDJd2juDA" type="text/html" title="Descargar" />
 </entry>
 </feed>

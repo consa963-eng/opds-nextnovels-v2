@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:eca900c52b</id>
 <title>Aki Kanehiro</title>
-<updated>2026-10-20T17:08:06.133044+00:00</updated>
+<updated>2026-10-20T20:38:42.005236+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-eca900c52b.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>We are Pretty Cure Novela Ligera en Español</title>
@@ -19,6 +19,6 @@
 <content type="text">Nagisa Misumi y Honoka Yukishiro, estudiantes de segundo año de secundaria femenina de la Academia Verone, se transforman en Cure Black y Cure White para enfrentarse a los ataques de los esbirros del Rey Maligno, que buscan las Prism Stones. Sale a la luz el secreto de lo sucedido sesenta años atrás entre Sanae, la abuela de Honoka, y Mipple…
 
 Nagisa Misumi y Honoka Yukishiro, dos chicas completamente normales de segundo año de la secundaria femenina de la Academia Verone, se convierten en Cure Black y Cure White y plantan cara a las embestidas de los secuaces del Rey Maligno, que ambicionan las Prism Stones. Se revela el secreto de lo ocurrido hace sesenta años entre Sanae, la abuela de Honoka, y Mipple… ¡Una novela original escrita expresamente para la popular serie de anime Pretty Cure, reeditada en nueva edición para coincidir con su vigésimo aniversario!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1_9i_qYtbiH_b4XfWgDAFxw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1_9i_qYtbiH_b4XfWgDAFxw" type="text/html" title="Descargar" />
 </entry>
 </feed>

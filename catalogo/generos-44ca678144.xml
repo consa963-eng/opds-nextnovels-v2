@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:generos:44ca678144</id>
 <title>Fantasía Oscura</title>
-<updated>2026-10-20T17:08:06.267791+00:00</updated>
+<updated>2026-10-20T20:38:42.191580+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-44ca678144.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Blade &amp; Bastard Novela Ligera en Español</title>
@@ -16,8 +16,8 @@
 <category term="Fantasía Oscura" label="Fantasía Oscura"/>
 <category term="Violencia" label="Violencia"/>
 <content type="text">En las profundidades inexploradas de la mazmorra, se descubre un cadáver—que no debería existir. Después de que Iarumas resucite, sus recuerdos de la vida anterior a la muerte desaparecen, y pasa sus días adentrándose en la mazmorra para recuperar los cuerpos de los aventureros muertos. ¿Ellos también podrán revivir? ¿O Dios los reducirá a montones de ceniza en el altar? Sea como sea, Iarumas cobra sus honorarios de buscador. Y aunque sus habilidades le granjean cierto respeto a regañadientes, también es despreciado por su actitud fría y utilitaria. Los vivos mantienen las distancias—Iarumas se relaciona principalmente con los muertos. Hasta que conoce a Garbage, una joven y salvaje espadachina que es la única superviviente de un grupo masacrado. Con Garbage a su lado, Iarumas se adentra en la mazmorra en busca de pistas sobre su pasado, esquivando monstruos, trampas y la inevitable muerte cenicienta.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1lQU97yU38uqPUhw6xq09Ww" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1pvg-Y4SqDWWNmVLRus_OUw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1lQU97yU38uqPUhw6xq09Ww" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1pvg-Y4SqDWWNmVLRus_OUw" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Vampire Hunter D Novela Ligera en Español</title>
@@ -32,8 +32,8 @@
 <category term="Horror" label="Horror"/>
 <category term="Romance" label="Romance"/>
 <content type="text">12.090 d.C. Es una época oscura para el mundo. La humanidad acaba de salir a rastras de trescientos años de dominación por parte de la raza de vampiros conocida como la Nobleza. La guerra contra los vampiros ha hecho estragos; las ciudades yacen en ruinas, el campo está fragmentado en pequeñas aldeas y feudos que siguen luchando contra las incursiones nocturnas de los vampiros caídos y los restos de sus demonios y hombres lobo fabricados genéticamente. Todos los pueblos quieren un Cazador, uno de los guerreros que han comprometido sus pistolas láser y sus espadas a erradicar a la Nobleza. Pero algunos Cazadores son mejores que otros, y algunos traen consigo su propio tipo de peligro...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F15lcQcHTKKFLiYNPrTiWZww" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F11-lQd890og_8Vlfo6BE9dA" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F10RrIBm60LUCcIfionlSRiA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/15lcQcHTKKFLiYNPrTiWZww" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/11-lQd890og_8Vlfo6BE9dA" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/10RrIBm60LUCcIfionlSRiA" type="text/html" title="Descargar" />
 </entry>
 </feed>

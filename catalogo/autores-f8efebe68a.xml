@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:f8efebe68a</id>
 <title>Mado Kaori</title>
-<updated>2026-10-20T17:08:06.174634+00:00</updated>
+<updated>2026-10-20T20:38:42.059401+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-f8efebe68a.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>You, Fireworks, and Our Promise Novela Ligera en Español</title>
@@ -22,6 +22,6 @@ En la primavera de su primer año de instituto, Makoto Natsume, recién ingresad
 Las estaciones pasan, y los dos visitan Nagaoka para resolver el misterio del cuadro. Lo que les aguarda allí es un encuentro inesperado y la verdad. Cuando los fuegos artificiales florecen en el cielo estival de Nagaoka, la "promesa" de ambos trasciende incluso el tiempo y cambia el destino. Una conmovedora historia juvenil donde los deseos se entrelazan, ambientada en el Gran Festival de Fuegos Artificiales de Nagaoka.
 
 Incluye ilustraciones a color y en blanco y negro con la misma calidad del original.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F14sfCh-7O6mZshYB9w_ST3Q" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/14sfCh-7O6mZshYB9w_ST3Q" type="text/html" title="Descargar" />
 </entry>
 </feed>

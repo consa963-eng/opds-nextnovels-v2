@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:add5721188</id>
 <title>Yoneori</title>
-<updated>2026-10-20T17:08:06.221103+00:00</updated>
+<updated>2026-10-20T20:38:42.118675+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-add5721188.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Forsaken Saintess and her Foodie Roadtrip in Another World Novela Ligera en Español</title>
@@ -20,6 +20,6 @@
 Pero con la ayuda de 【Supervivencia】 y otra habilidad especial, esta mujer a la que le encanta acampar, junto con los compañeros de viaje que recogió por casualidad, ¡se embarcará en un viaje sin prisas para disfrutar de la gastronomía de diferentes mundos! ¡Esta es una historia llena de sudor, lágrimas y hambre!
 
 O al menos eso se suponía, pero de alguna manera su viaje ha dado un giro inesperado…?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1lQ8BKQ86-WeNxGxlt9ac5w" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1lQ8BKQ86-WeNxGxlt9ac5w" type="text/html" title="Descargar" />
 </entry>
 </feed>

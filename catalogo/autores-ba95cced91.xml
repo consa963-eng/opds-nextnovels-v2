@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:ba95cced91</id>
 <title>Mari Morikawa</title>
-<updated>2026-10-20T17:08:06.175716+00:00</updated>
+<updated>2026-10-20T20:38:42.060908+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-ba95cced91.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Fiancée No More Novela Ligera en Español</title>
@@ -18,6 +18,6 @@
 Su vida cambia por completo un día cuando la hija de un capitalista le arrebata a su amigo de la infancia y prometido. Con el corazón destrozado, Estelle asiste a un baile y termina conociendo al Príncipe Arcrayne, un hombre malvado que pronto descubre su poder especial y decide que debe tenerla para él solo. Con ese fin, le propone matrimonio y comienza a actuar como un auténtico príncipe azul, fingiendo que se enamoró de ella a primera vista, una farsa que puede engañar a todos los demás, pero no a Estelle y sus poderes de percepción. Sin embargo, a pesar de todo, poco a poco se siente atraída por el príncipe...
 
 ¿Florecerá su amor fingido hasta convertirse en algo real? ¡Descúbrelo en esta historia de Cenicienta a regañadientes, llena de intrigas políticas!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1PwEZXXzxsplhJ-medoVfQQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1PwEZXXzxsplhJ-medoVfQQ" type="text/html" title="Descargar" />
 </entry>
 </feed>

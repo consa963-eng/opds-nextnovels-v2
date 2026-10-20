@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:5b14570623</id>
 <title>arukuhito</title>
-<updated>2026-10-20T17:08:06.137676+00:00</updated>
+<updated>2026-10-20T20:38:42.010369+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-5b14570623.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Isekai Walking Novela Ligera en Español</title>
@@ -28,6 +28,6 @@ Despreciado y desterrado del castillo, Sora se encuentra solo en una ciudad desc
 Guiado por su astucia, un espíritu esponjoso y misterioso que solo él puede ver, y el apoyo de dos aventureras experimentadas, Sora comenzará su viaje como un aventurero de rango más bajo, demostrando que lo que parece un don inútil puede convertirse en la llave para sobrevivir y prosperar en este nuevo mundo. Pero mientras se abre camino, las sombras del conflicto entre naciones y la amenaza del Rey Demonio se ciernen, y una figura del castillo del rey observa sus pasos con interés.
 
 "¿Una habilidad basura? Tal vez. Pero mientras pueda caminar, siempre tendré una oportunidad."</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F12HXTByTciRYd67Gs-R1ClA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/12HXTByTciRYd67Gs-R1ClA" type="text/html" title="Descargar" />
 </entry>
 </feed>

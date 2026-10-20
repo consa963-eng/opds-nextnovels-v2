@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:85e5e60b2f</id>
 <title>Foxtail Quill</title>
-<updated>2026-10-20T17:08:06.144145+00:00</updated>
+<updated>2026-10-20T20:38:42.019075+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-85e5e60b2f.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Shrouded Seascape Novela Web en Español</title>
@@ -25,6 +25,6 @@
 Pedir clemencia a las desconocidas criaturas de las profundidades sólo conduce a una existencia lenta y torturada. Los supervivientes atrapados se distorsionan gradualmente, perdiendo lo que les hacía humanos, tanto física como mentalmente, en favor de la penumbra mientras permanecen atrapados en esta oscuridad eterna. ¿Su única esperanza? Una peligrosa expedición a territorios marinos inexplorados.
 
 Impulsado por su determinación, el valiente Charles se embarca en este desalentador viaje a bordo de su barco de vapor, con el objetivo de recuperar la gloria pasada de la humanidad. Junto con su tripulación, buscan una salida de este mundo marino oculto, un camino de vuelta al mundo iluminado por el sol, donde los humanos una vez se alzaron.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F16c-YwqSph6ABDFpIOdxbgQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/16c-YwqSph6ABDFpIOdxbgQ" type="text/html" title="Descargar" />
 </entry>
 </feed>

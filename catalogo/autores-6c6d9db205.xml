@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:6c6d9db205</id>
 <title>Yoru Sumino</title>
-<updated>2026-10-20T17:08:06.221390+00:00</updated>
+<updated>2026-10-20T20:38:42.119027+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-6c6d9db205.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>I am Blue, in Pain, and Fragile Novela Ligera en Español</title>
@@ -16,7 +16,7 @@
 <content type="text">¿Qué pasa cuando las personas que prometen cambiar el mundo terminan destruyéndose entre ellas?...
 
 “La Fragilidad del Azul” es una historia intensa y dolorosamente humana sobre ideales, amistad y las heridas que dejamos crecer. Entre secretos, traiciones y sueños rotos, dos jóvenes descubrirán que aferrarse al pasado puede ser mucho más peligroso que dejarlo ir.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1jIWR2GE9fkzQAPwRmqSwfw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1jIWR2GE9fkzQAPwRmqSwfw" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>The Confession Strategy Novela Ligera en Español</title>
@@ -33,6 +33,6 @@ Chizuru está a punto de cumplir treinta años... y de casarse. Pero antes de qu
 Karin, amigo de ambos desde hace años, pone los ojos en blanco ante un plan tan infantil pero, en contra de su buen juicio, acepta ayudar. Sin embargo, esta llamada "Estrategia de la Confesión" pronto se descontrola de formas que nadie esperaba...
 
 Una comedia romántica agridulce sobre el amor no correspondido, amistades enredadas y los giros inesperados del corazón.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1lMNBZq5fAWMOyGi--cJQwQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1lMNBZq5fAWMOyGi--cJQwQ" type="text/html" title="Descargar" />
 </entry>
 </feed>

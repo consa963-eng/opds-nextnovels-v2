@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:f623e75af3</id>
 <title>D</title>
-<updated>2026-10-20T17:08:06.141509+00:00</updated>
+<updated>2026-10-20T20:38:42.015441+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-f623e75af3.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Jinsei Gyakuten Novela Ligera en Español</title>
@@ -26,8 +26,8 @@ Fue tanto el 4cos0 que llegaron a 4m3naz4r de destruir el negocio de su madre so
 Cuando llegó a la azotea de la escuela, se encontró con Ai, la chica mas hermosa de la preparatoria con una mirada vacía y a punto de hacer lo mismo que él.
 
 Tras ese encuentro ambos deciden avanzar para lo cual deberán de enfrentarse con diversas dificultades mientras curan sus h3rid4s mutuamente.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1SsQ_coUb5SoZCyEJfk99fg" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1dMmF9a-6wZoIc4qdxZ2QgA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1SsQ_coUb5SoZCyEJfk99fg" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1dMmF9a-6wZoIc4qdxZ2QgA" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Jinsei Gyakuten Novela Web en Español</title>
@@ -51,6 +51,6 @@ Fue tanto el 4cos0 que llegaron a 4m3naz4r de destruir el negocio de su madre so
 Cuando llegó a la azotea de la escuela, se encontró con Ai, la chica mas hermosa de la preparatoria con una mirada vacía y a punto de hacer lo mismo que él.
 
 Tras ese encuentro ambos deciden avanzar para lo cual deberán de enfrentarse con diversas dificultades mientras curan sus h3rid4s mutuamente.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1wsaG1x1N_5QNIOuvcwMLRg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1wsaG1x1N_5QNIOuvcwMLRg" type="text/html" title="Descargar" />
 </entry>
 </feed>

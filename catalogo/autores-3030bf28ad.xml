@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:3030bf28ad</id>
 <title>Nigozyu</title>
-<updated>2026-10-20T17:08:06.188360+00:00</updated>
+<updated>2026-10-20T20:38:42.076377+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-3030bf28ad.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Detective is Already Dead Novela Ligera en Español</title>
@@ -30,7 +30,7 @@ Y esta historia comienza un año después de ese incidente.
 Yo soy el único que queda, pero sigo con sus deseos.
 
 Esta historia está lejos de terminar...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1UORdkOkgnnVZp3lqTW4jiQ" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1ZggWOpUkyBwEZGdxolpnZg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1UORdkOkgnnVZp3lqTW4jiQ" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1ZggWOpUkyBwEZGdxolpnZg" type="text/html" title="Descargar" />
 </entry>
 </feed>

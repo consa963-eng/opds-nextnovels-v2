@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:d94e743a7b</id>
 <title>Sheng Li</title>
-<updated>2026-10-20T17:08:06.201730+00:00</updated>
+<updated>2026-10-20T20:38:42.092810+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-d94e743a7b.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Best Thing Novela Web en Español</title>
@@ -29,6 +29,6 @@ En cada uno de sus encuentros, ocurren muchas cosas divertidas y absurdas, y com
 ———
 
 Esta es una historia sobre la juventud, el crecimiento, el primer amor y las decisiones, un viaje por el que todos tenemos que pasar. El tiempo pasa y quizá ya no podamos seguir tomados de la mano de quien solía estar a nuestro lado, pero elegir amarte en ese momento fue lo mejor que he hecho nunca.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Z2Nq1w_bOd7LQjkIaYu1bQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Z2Nq1w_bOd7LQjkIaYu1bQ" type="text/html" title="Descargar" />
 </entry>
 </feed>

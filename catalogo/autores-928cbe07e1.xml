@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:928cbe07e1</id>
 <title>Fukufuku</title>
-<updated>2026-10-20T17:08:06.144796+00:00</updated>
+<updated>2026-10-20T20:38:42.019989+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-928cbe07e1.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Strongest Man, Born from Misfortune Novela Ligera en Español</title>
@@ -26,6 +26,6 @@ Pero la tranquilidad se desvanece cuando un ataque de su propio hermano, Gelt, l
 Acompañado de su leal compañero y de su astuto tío, un mago de élite, Siegbert se adentra en una mazmorra plagada de monstruos, donde no solo demostrará su valía, sino que se topará con una princesa de otro reino envuelta en secretos. ¿Podrá mantener oculto su poder mientras forja lazos que definirán su futuro?
 
 Con un toque de humor, acción y un protagonista que desafía su propia mala suerte, "El Hombre Más Fuerte Nacido de la Mala Suerte" es la historia de un chico que, entre desgracias y prodigios, está destinado a convertirse en el héroe más inesperado del mundo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1aX1GcY90BAEJcx-XTeainA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1aX1GcY90BAEJcx-XTeainA" type="text/html" title="Descargar" />
 </entry>
 </feed>

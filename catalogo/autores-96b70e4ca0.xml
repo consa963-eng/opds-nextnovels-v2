@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:96b70e4ca0</id>
 <title>Kagami Yuu</title>
-<updated>2026-10-20T17:08:06.160367+00:00</updated>
+<updated>2026-10-20T20:38:42.039345+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-96b70e4ca0.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Childhood Friends Can Have a Relationship Whenever They Want Novela Ligera en Español</title>
@@ -26,7 +26,7 @@ Se distanciaron tras un "incidente" en segundo de secundaria, pero un día, al e
 Después de clase, en la habitación de Shunta, Maria empieza a quitarse el uniforme, mostrando sus pechos grandes a Shunta...
 
 Una comedia romántica juvenil y atrevida sobre una amiga de la infancia que ha adquirido un cuerpo sexy.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1ZMxL0n7qITkFBjJKm-H2FQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1ZMxL0n7qITkFBjJKm-H2FQ" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Onna Tomodachi wa Tanomeba Igai to Yarasete Kureru Novela Ligera en Español</title>
@@ -52,8 +52,8 @@ A pesar de ser completamente opuestos, se convirtieron en mejores amigos mientra
 Un día, Minato se arrodilló y suplicó: "¡Déjame hacerlo una vez!".
 
 Cuando lo hizo, la ingenua Hazuki lo aceptó fácilmente.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1nxDZVKYXwNimj7YC5WMNoA" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Mpu-srjAjLcUxI47xruefQ" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1svNS1_Ys7f9OFB095GiFIQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1nxDZVKYXwNimj7YC5WMNoA" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Mpu-srjAjLcUxI47xruefQ" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1svNS1_Ys7f9OFB095GiFIQ" type="text/html" title="Descargar" />
 </entry>
 </feed>

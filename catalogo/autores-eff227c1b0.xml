@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:eff227c1b0</id>
 <title>Mikami Kota</title>
-<updated>2026-10-20T17:08:06.177691+00:00</updated>
+<updated>2026-10-20T20:38:42.063449+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-eff227c1b0.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Date This Super Cute Me! Novela Ligera en Español</title>
@@ -19,7 +19,7 @@
 <content type="text">Una confesión de la chica popular de la clase, Yuzu. ¡En realidad fue 'Por favor finge ser mi amante para resolver el triangulo amoroso entre mis amigos Riajuu (Populares)'!
 
 En la clase, Yuzu siempre finge ser una buena chica, pero solo frente a mí, se comporta como una narcisista en toda regla, lo que debería haberme molestado, pero...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Bc24I6oXTFFujXk2VaXeiw" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1iKXCYoS12qdOdXfQalcS_Q" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Bc24I6oXTFFujXk2VaXeiw" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1iKXCYoS12qdOdXfQalcS_Q" type="text/html" title="Descargar" />
 </entry>
 </feed>

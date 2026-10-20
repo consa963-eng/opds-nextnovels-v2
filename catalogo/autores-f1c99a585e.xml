@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:f1c99a585e</id>
 <title>Geol-geom</title>
-<updated>2026-10-20T17:08:06.147210+00:00</updated>
+<updated>2026-10-20T20:38:42.023073+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-f1c99a585e.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Fox Clan Hides Their True Identity from the Bride Novela Web en Español</title>
@@ -42,6 +42,6 @@ Todos parecen bondadosos e inocentes.
 Pensar que estas personas van a morir me destroza el corazón…
 
 "No puedo. Ya les tomé cariño. No me veo capaz de escapar sola y abandonarlos."</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1EY1KicFOhFVl7Ykwc8b8HA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1EY1KicFOhFVl7Ykwc8b8HA" type="text/html" title="Descargar" />
 </entry>
 </feed>

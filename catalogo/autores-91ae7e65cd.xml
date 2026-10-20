@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:91ae7e65cd</id>
 <title>Ramgeul</title>
-<updated>2026-10-20T17:08:06.193054+00:00</updated>
+<updated>2026-10-20T20:38:42.082207+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-91ae7e65cd.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Tyrant Wants To Live Honestly Novela Web en Español</title>
@@ -24,7 +24,7 @@ Pero luego abrió los ojos para encontrarse en sus días de infancia.
 —No puede terminar así otra vez.
 
 «No cometeré los mismos arrepentimientos. Voy a vivir honestamente. Esta vez, en esta vida, ese es mi objetivo.»</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F17OmUW8lv0s-dABoQhOof1A" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1n61DtQRrdqry4W3G5l9rkg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/17OmUW8lv0s-dABoQhOof1A" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1n61DtQRrdqry4W3G5l9rkg" type="text/html" title="Descargar" />
 </entry>
 </feed>

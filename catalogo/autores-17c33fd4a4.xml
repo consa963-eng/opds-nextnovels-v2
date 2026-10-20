@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:17c33fd4a4</id>
 <title>Aino Hitoshi</title>
-<updated>2026-10-20T17:08:06.131512+00:00</updated>
+<updated>2026-10-20T20:38:42.003615+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-17c33fd4a4.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>A New Life with an Elf Wife Novela Ligera en Español</title>
@@ -16,6 +16,6 @@
 <content type="text">¿Quieres un baño? ¿Quieres una comida? ¿O tal vez un elfo?
 
 Un elfo que conocí cuando era joven se convirtió en mi esposa para devolverme un favor. Una primera vez ingenua con Misha, toda llena de magia e inocencia. Un digno servicio de felación y tiempo travieso con velo nupcial. La nueva esposa elfo que quiere quedar embarazada es demasiado linda, ¡así que sexo todas las noches! Es una nueva vida feliz con una esposa elfo, un cambio completo de la vida cotidiana aburrida.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1nw2W0DJjbDoZPD4SRtggkA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1nw2W0DJjbDoZPD4SRtggkA" type="text/html" title="Descargar" />
 </entry>
 </feed>

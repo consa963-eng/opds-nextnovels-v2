@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:a86b333e74</id>
 <title>Kaori Hakuchou</title>
-<updated>2026-10-20T17:08:06.163074+00:00</updated>
+<updated>2026-10-20T20:38:42.042406+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-a86b333e74.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>You’re the One I’ll Won’t Choose Novela Ligera en Español</title>
@@ -27,6 +27,6 @@ Sin embargo, la experiencia y los conocimientos acumulados en su primera vida, j
 Encuentros que vuelven a repetirse, un destino que cambia, y las decisiones que tendrá que tomar en medio de todo eso…
 
 La historia de revancha juvenil de un músico mediocre que lo perdió todo en el amor y en sus sueños, y que ahora vuelve a reinterpretar su vida.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1NQefCDLsu6mpeu6Ysg1kSA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1NQefCDLsu6mpeu6Ysg1kSA" type="text/html" title="Descargar" />
 </entry>
 </feed>

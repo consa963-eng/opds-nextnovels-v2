@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:15c0a2c5e6</id>
 <title>Kuroneko Doragon</title>
-<updated>2026-10-20T17:08:06.173278+00:00</updated>
+<updated>2026-10-20T20:38:42.057469+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-15c0a2c5e6.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Childhood Friends Became Popular Idols Novela Ligera en Español</title>
@@ -25,6 +25,6 @@ Tengo algo que consultar con ustedes dos... no quiero trabajar. ¿Pueden apoyarm
 Fue una declaración parasitaria que nunca debió haberse acordado. Sin embargo, en el presente, diez años después, se habían convertido en idols con el fin de mantenerme el resto de mi vida.
 
 Mientras disfrutaba de una juventud garantizada, chicas nuevas seguían apareciendo ante mí...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1wS-cZQmxNKF4zf6QNXw-FQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1wS-cZQmxNKF4zf6QNXw-FQ" type="text/html" title="Descargar" />
 </entry>
 </feed>

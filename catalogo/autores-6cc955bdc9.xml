@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:6cc955bdc9</id>
 <title>Hatogami Kei</title>
-<updated>2026-10-20T17:08:06.150552+00:00</updated>
+<updated>2026-10-20T20:38:42.027490+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-6cc955bdc9.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>My Part-Time Job Became a Hangout Spot for Losing Heroines Novela Ligera en Español</title>
@@ -22,6 +22,6 @@
 Yuu Anekura, un estudiante de secundaria que trabaja a tiempo parcial en una tranquila cafetería, conoce a tres chicas: Youka Kengamine, Yoyo Naze y Miyako Furumi, todas famosas en la escuela, con aspecto desanimado. Parece que todas se enamoraron del mismo chico y fueron rechazadas.
 
 En otras palabras, son unas perdedoras. Yuu, un hombre que prefiere evitar problemas, pretende mantenerse alejado, pero... "Eres interesante", dice la segura Youka, quien se siente atraída por él. Esto provoca que la astuta y adorable Yoyo y la aficionada a los videojuegos Miyako lo aborden constantemente... ¡Una comedia romántica, torpe pero directa, sobre la juventud con heroínas peculiares está a punto de comenzar!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1dMKVa5wJaF3bS66XnPksNg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1dMKVa5wJaF3bS66XnPksNg" type="text/html" title="Descargar" />
 </entry>
 </feed>

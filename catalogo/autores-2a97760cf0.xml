@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:2a97760cf0</id>
 <title>Feng Qing</title>
-<updated>2026-10-20T17:08:06.144025+00:00</updated>
+<updated>2026-10-20T20:38:42.018697+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-2a97760cf0.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Golden Age Legitimate Fei Novela Web en Español</title>
@@ -31,6 +31,6 @@ Al subir al salón de bodas, él tenía una leve sonrisa en el rostro; un coraz�
 —Él es mi esposo. Intimidarlo a él es intimidarme a mí. Insultarlo a él es insultarme a mí. Hacerle daño a él es hacerme daño a mí. Si alguien me hace daño, ¡tendré que quitarle la vida!
 
 —Su Señoría no cree en los seres sobrenaturales y no busca el cielo. Si ella muere, ¡Su Señoría convertirá todo este mundo en un purgatorio y sacrificará todo este país para ella!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F16ZjZQRWPeIvNoeoEiulxeA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/16ZjZQRWPeIvNoeoEiulxeA" type="text/html" title="Descargar" />
 </entry>
 </feed>

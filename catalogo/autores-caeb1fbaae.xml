@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:caeb1fbaae</id>
 <title>Hajime Kamoshida</title>
-<updated>2026-10-20T17:08:06.148405+00:00</updated>
+<updated>2026-10-20T20:38:42.024969+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-caeb1fbaae.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Just Because! Novela en Español</title>
@@ -18,6 +18,6 @@
 <content type="text">Solo quedan tres meses de instituto. Mientras sentimientos inconfesables, exámenes, la búsqueda de empleo y las preocupaciones sobre el futuro los sumergen en un pantano turbio, una tenue luz comienza a brillar en la oscuridad.
 
 Es el invierno del tercer año de instituto, lo que significa que la vida escolar está a punto de quedar atrás. Todos pensaban que simplemente se graduarían y seguirían adelante, porque eso es lo que se supone que debe pasar. Pero entonces, él regresa. Un compañero de clase que se mudó en la secundaria. El regreso del estudiante transferido reaviva sentimientos que casi se habían asfixiado bajo el yugo abrumador del«solo porque sí»</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1ddr4YKOdHAcxRKwPZGDS8Q" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1ddr4YKOdHAcxRKwPZGDS8Q" type="text/html" title="Descargar" />
 </entry>
 </feed>

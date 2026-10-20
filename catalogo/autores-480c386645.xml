@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:480c386645</id>
 <title>Miyama Suzu</title>
-<updated>2026-10-20T17:08:06.181752+00:00</updated>
+<updated>2026-10-20T20:38:42.068297+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-480c386645.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Beast Tamer Novela Ligera en Español</title>
@@ -20,8 +20,8 @@
 <category term="Romance" label="Romance"/>
 <category term="Supernatural" label="Supernatural"/>
 <content type="text">El domador de bestias Rein, que utiliza animales, era un miembro del grupo del héroe. Sin embargo, como no podía hacer nada más, no era capaz de seguir el ritmo de la batalla. “Sólo sabes jugar con animales. Estás despedido”. Rein es expulsado del grupo y ahora vive libremente como aventurero. En su viaje, conoce a una chica de una tribu de gatos, la llamada especie más fuerte. Por otro lado, el grupo del héroe sigue sin saber que su éxito anterior fue todo gracias a Rein… Esta es la historia de un domador de bestias que ya no se contiene y su fatídico encuentro con una preciosa compañera.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1U_p5884rZFmNO8totHYW-Q" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1bhavtYPHi8Ih7uTLWB1cBA" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1HR5fTRz4D-TAyo2F5ywxdA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1U_p5884rZFmNO8totHYW-Q" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1bhavtYPHi8Ih7uTLWB1cBA" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1HR5fTRz4D-TAyo2F5ywxdA" type="text/html" title="Descargar" />
 </entry>
 </feed>

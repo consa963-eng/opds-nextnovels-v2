@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:46c3fe5a66</id>
 <title>Buncololi</title>
-<updated>2026-10-20T17:08:06.140285+00:00</updated>
+<updated>2026-10-20T20:38:42.013788+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-46c3fe5a66.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Nishino Novela Ligera en Español</title>
@@ -16,7 +16,7 @@
 <category term="Supernatural" label="Supernatural"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Nishino Gokyuo, el estudiante de secundaria de rostro aburrido, y el que posee las más grandes habilidades en el vecindario. Mientras se preocupa por su apariencia, gasta todos los días enterrándose en su trabajo que hace uso de su habilidad. Ha considerado esta vida de soledad como aceptable. Sin embargo, esos días no durarían. El otoño de su segundo año, el virgen reconoció la preciosidad de la juventud a través del festival cultural. Aprendió de la importancia de la amistad con el sexo opuesto. Con esto, ese chico, Nishino, decide dar vuelta a la página de la sencilla vida que tenía, junto con la revisión de su actitud hacia su vida cotidiana, y con el fin de hacer una maravillosa novia para disfrutar de su tiempo en la escuela secundaria, usa todos los medios a su disposición para luchar por la casta escolar, pero la posibilidad de subir no se ve muy bien, esto es una, cómo se le llama, historia dura (junto con batallas superpoderosas)</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F18sp2v27HXTj3eFChaYGLBA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/18sp2v27HXTj3eFChaYGLBA" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Sasaki to Pii-chan Novela Ligera en Español</title>
@@ -32,8 +32,8 @@
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
 <content type="text">Aunque la graciosa vida corporativa de Sasaki está constantemente llena de trabajo, lo deja cansado e insatisfecho al final de cada día. En busca de compañía para llenar el vacío de su vida, visita una tienda de mascotas por capricho, sin darse cuenta de que está a punto de cambiar su vida para siempre. Después de decidirse por un pájaro adorable y llevárselo a casa… su nuevo compañero de cuarto revela que en realidad es un sabio increíble de otro mundo que rápidamente otorga a Sasaki poderes sobrenaturales, así como la capacidad de cruzar entre mundos. Todo lo que Sasaki quiere hacer es usar estos poderes recién descubiertos para vivir en paz y comodidad, pero hay más de unos pocos personajes que podrían interponerse en el camino de eso…</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1g60Ss8GAp8w-JK5osXE0DQ" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1GR4G9rz22SUpLRUqZh2rjw" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Z3B1HpRulX1m4MCReO4VNg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1g60Ss8GAp8w-JK5osXE0DQ" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1GR4G9rz22SUpLRUqZh2rjw" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Z3B1HpRulX1m4MCReO4VNg" type="text/html" title="Descargar" />
 </entry>
 </feed>

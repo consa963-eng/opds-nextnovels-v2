@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:5f1bf659e0</id>
 <title>Mikito Chinen</title>
-<updated>2026-10-20T17:08:06.178489+00:00</updated>
+<updated>2026-10-20T20:38:42.064346+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-5f1bf659e0.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Ameku M.D.: Doctor Detective Novela Ligera en Español</title>
@@ -18,8 +18,8 @@
 <category term="Seinen" label="Seinen"/>
 <category term="Tragedia" label="Tragedia"/>
 <content type="text">La Dra. Takao Ameku es la brillante pero excéntrica directora de patología investigativa del Hospital General Tenikai, encargada de diagnosticar a los pacientes que los demás departamentos del hospital no pueden. Sin embargo, debido a su pasión por resolver misterios, Takao también se ve envuelta en muertes misteriosas y asesinatos, arrastrando a su asistente Yu Takanashi a sus diversas aventuras.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1JKKcLqsgRGBWlaK15pVcAA" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1JWtsFTEl8go_nqcCJaJf8w" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1JKKcLqsgRGBWlaK15pVcAA" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1JWtsFTEl8go_nqcCJaJf8w" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>The Glass Tower Murders Novela en Español</title>
@@ -51,6 +51,6 @@ Los encargados de desentrañar el misterio son el famoso detective Aozuki Yoru y
 Pistas esparcidas por toda la trama, un desafío para el lector, una legibilidad abrumadora y un final sorprendente.
 
 ¡La primera novela policíaca completa del autor, la gran favorita!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Cq_vScHB4cBbu6sLMgI-5A" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Cq_vScHB4cBbu6sLMgI-5A" type="text/html" title="Descargar" />
 </entry>
 </feed>

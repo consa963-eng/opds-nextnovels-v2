@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:2fafbeb339</id>
 <title>Izushiro</title>
-<updated>2026-10-20T17:08:06.158844+00:00</updated>
+<updated>2026-10-20T20:38:42.037143+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-2fafbeb339.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Saikyou Mahoushi no Inton Keikaku Novela Ligera en Español</title>
@@ -21,7 +21,7 @@
 <content type="text">Hace cientos de años los demonios aparecieron repentinamente y empezaron a atacar a los humanos, en ese momento los humanos no podían ni siquiera hacerles un rasguño con armas normales, los humanos construyeron siete países para evitar que su raza se extinguiera, y lograron obstaculizar a los demonios desviando su tecnología mágica a los militares, pero la batalla contra los demonios aún continúa.
 
 Nuestro protagonista Alusu Reigin, que siempre luchó en el frente de batalla, se ha ofrecido a retirarse a la temprana edad de 16 años, pero el país no puede dejarle ir, ya que se encuentra en la cima de todos los magos y el número 1 (un solo dígito), por lo que nuestra historia comienza...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F11J5DIsxkd_hVyhj3EjwTcw" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1QYYao1g1x9kQkxrQGtj1cA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/11J5DIsxkd_hVyhj3EjwTcw" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1QYYao1g1x9kQkxrQGtj1cA" type="text/html" title="Descargar" />
 </entry>
 </feed>

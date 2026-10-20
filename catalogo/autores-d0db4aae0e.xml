@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:d0db4aae0e</id>
 <title>Kai Yumizu</title>
-<updated>2026-10-20T17:08:06.160616+00:00</updated>
+<updated>2026-10-20T20:38:42.039761+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-d0db4aae0e.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Oukoku e Tsuzuku Michi Novela Ligera en Español</title>
@@ -20,6 +20,9 @@
 <category term="Romance" label="Romance"/>
 <category term="Seinen" label="Seinen"/>
 <content type="text">Aegil, un hombre nacido y criado en un ambiente horrible, tiene talento para la lucha. Criado como un esclavo gladiador, conoce a Lucy, una hermosa princesa vampiro que vive en lo profundo del bosque, y aprende a sobrevivir en tiempos de guerra. Lucy le ofrece una condición para convertirse en propiedad de Aegil: debe obtener su propio reino. El crecimiento de un hombre, varios dramas y tiempos turbulentos. A veces Aegil peleara, a veces seducirá a una mujer que le gusta, y a veces se levantara en los tiempos de guerra.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1I5OZXesO-OQFp_4RLCWBXA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1I5OZXesO-OQFp_4RLCWBXA&amp;fs_id=640740893838341&amp;name=Oukoku+e+Tsuzuku+Michi+-+Volumen+04+%5BBtoomT%5D.pdf" type="application/pdf" title="Oukoku e Tsuzuku Michi - Volumen 04 [BtoomT].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1I5OZXesO-OQFp_4RLCWBXA&amp;fs_id=941888430225191&amp;name=Oukoku+e+Tsuzuku+Michi+-+Volumen+03+%5BBtoomT%5D.pdf" type="application/pdf" title="Oukoku e Tsuzuku Michi - Volumen 03 [BtoomT].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1I5OZXesO-OQFp_4RLCWBXA&amp;fs_id=677300586225097&amp;name=Oukoku+e+Tsuzuku+Michi+-+Volumen+02+%5BBtoomT%5D.pdf" type="application/pdf" title="Oukoku e Tsuzuku Michi - Volumen 02 [BtoomT].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1I5OZXesO-OQFp_4RLCWBXA&amp;fs_id=191918653723808&amp;name=Oukoku+e+Tsuzuku+Michi+-+Volumen+01+%5BBtoomT%5D.pdf" type="application/pdf" title="Oukoku e Tsuzuku Michi - Volumen 01 [BtoomT].pdf" />
 </entry>
 </feed>

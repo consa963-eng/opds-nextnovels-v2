@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:cce1b3c45b</id>
 <title>Antai</title>
-<updated>2026-10-20T17:08:06.136144+00:00</updated>
+<updated>2026-10-20T20:38:42.008935+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-cce1b3c45b.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>My Ribdiculous Reincarnation Novela Ligera en Español</title>
@@ -29,8 +29,8 @@ Ganadora del 8.º Gran Premio de Novela en Red.
 Incluye historias posteriores a episodios populares, además de un episodio exclusivo del libro que solo puedes leer aquí:
 
 «El viejo soldado al que le dio una flecha en la rodilla... y su lanza».</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1yq30mCpi2QjveLvefi8vHA" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F15KicsYgDSRcGgR7AYCe3iA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1yq30mCpi2QjveLvefi8vHA" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/15KicsYgDSRcGgR7AYCe3iA" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Wanting To Live Safely Even In Another World Syndrome Novela Ligera en Español</title>
@@ -56,6 +56,6 @@ Pero es la historia de un hombre que quiere vivir sin complicaciones.
 Cuando el hombre recobró el sentido, se encontraba solo en medio de una montaña repleta de plantas y criaturas que jamás había visto. Tras esquivar encuentros con limos gigantes y bandidos, por fin bajó de la montaña, solo para que lo apresaran como sospechoso en el castillo al que llegó. En la mazmorra conoce a la caballero Ilias, que lo interroga; cuando menciona a los bandidos que vio al atravesar la montaña, Ilias —cuyas pesquisas no llevaban a ninguna parte— lo recluta a toda prisa para la misión de exterminio. Su deseo no es convertirse en héroe ni forjar un harén, sino sencillamente «vivir sin problemas». ¡La crónica de un hombre que blandirá la «comprensión» como arma para sobrevivir en otro mundo!
 
 ¡Obra galardonada en la sexta edición del Premio de Novela Web!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1GhNJc5f7wtm3Uvgf1QRWPw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1GhNJc5f7wtm3Uvgf1QRWPw" type="text/html" title="Descargar" />
 </entry>
 </feed>

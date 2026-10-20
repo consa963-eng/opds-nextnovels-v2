@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:ecac62a0d5</id>
 <title>Nekomata Nuko</title>
-<updated>2026-10-20T17:08:06.187990+00:00</updated>
+<updated>2026-10-20T20:38:42.076022+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-ecac62a0d5.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Love-Ignorant Abandoned JK Novela Ligera en Español</title>
@@ -23,6 +23,6 @@ Souta también encuentra la felicidad en los tranquilos días que pasa junto a l
 "Ehm... ¿podría ser tu prometida, aunque solo sea por un día, Souta-kun...?"
 
 ¡Una pareja perfectamente compatible protagoniza una comedia romántica de convivencia rebosante de felicidad!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F18g3bGM7BMFDU3JipZiGEzg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/18g3bGM7BMFDU3JipZiGEzg" type="text/html" title="Descargar" />
 </entry>
 </feed>

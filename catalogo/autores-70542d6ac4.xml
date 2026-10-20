@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:70542d6ac4</id>
 <title>Asaura</title>
-<updated>2026-10-20T17:08:06.138428+00:00</updated>
+<updated>2026-10-20T20:38:42.011124+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-70542d6ac4.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Lycoris Recoil: Gluttony Days Novela Ligera en Español</title>
@@ -27,7 +27,7 @@ Hoy también resuena en la cafetería Licorico el cencerro que anuncia la llegad
 Y el mundo de los bocadillos nocturnos de Kurumi, al que invita a la hambrienta Takina, tiene el sabor del pecado prohibido…!
 
 ¡La tercera entrega de la nueva serie de novelas, un combo de raciones abundantes y porciones gigantes, escrita por el propio creador original, que narra la vida cotidiana de las chicas de Licorice, que nunca sale como se espera!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1bQR-HCTUe5yovJ9-_tB_Xw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1bQR-HCTUe5yovJ9-_tB_Xw" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Lycoris Recoil: Ordinary Days Novela Ligera en Español</title>
@@ -39,7 +39,7 @@ Y el mundo de los bocadillos nocturnos de Kurumi, al que invita a la hambrienta 
 <category term="Comedia" label="Comedia"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Yuri" label="Yuri"/>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1BPK0zTwq2PdRQVp7tbFsdg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1BPK0zTwq2PdRQVp7tbFsdg" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Lycoris Recoil: Recovery Days Novela Ligera en Español</title>
@@ -54,6 +54,6 @@ Y el mundo de los bocadillos nocturnos de Kurumi, al que invita a la hambrienta 
 <content type="text">¡POR LA NOCHE SON AGENTES SECRETAS; POR EL DÍA, SON UNAS GIRASAS CAMARERAS!
 
 Aunque estas colegialas protegen a Japón como agentes de Lycoris, también trabajan en una cafetería. Chisato quiere que Takina disfrute de la experiencia de ver una película en el cine, ¡pero les llega una misión importante justo antes de que empiece la función! ¡Otro día, Takina se despierta en una cabaña en el bosque con un asesino?! Mientras tanto, ¿qué están haciendo Fuki y Sakura además de proteger la ciudad sin que nadie se dé cuenta? ¡La vida cotidiana de estas chicas es todo menos ordinaria!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1MjGrn8fYQCNbk_R9A2ncWg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1MjGrn8fYQCNbk_R9A2ncWg" type="text/html" title="Descargar" />
 </entry>
 </feed>

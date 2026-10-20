@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:471e39aa39</id>
 <title>Kijima Ryuuta</title>
-<updated>2026-10-20T17:08:06.166353+00:00</updated>
+<updated>2026-10-20T20:38:42.046409+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-471e39aa39.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Hazure Skill “Gacha” de Tsuihou Sareta Ore wa, Wagamama Osananajimi wo Zetsuen Shi Kakusei Suru Novela Web en Español</title>
@@ -17,6 +17,6 @@
 <category term="Romance" label="Romance"/>
 <category term="Shounen" label="Shounen"/>
 <content type="text">Crest nació como el quinto hijo de un duque. Sin embargo, como quinto hijo, no estaba en posición de intervenir. Su amiga de la infancia y también su prometida, Ellis, lo trató como un esclavo. Y en la ceremonia de mayoría de edad de Crest, recibió una habilidad llamada "Gacha". Sin embargo, no fue capaz de aprender a usarla y fue desterrado lejos de su hogar. Desterrado en el bosque lleno de monstruos, Crest empezó a entender el poder "Gacha". Y entonces, Crest se decidió. Definitivamente sobrevivirá y se recuperará.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1-T1Jsc_dk2McjgaPxVZoYA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1-T1Jsc_dk2McjgaPxVZoYA" type="text/html" title="Descargar" />
 </entry>
 </feed>

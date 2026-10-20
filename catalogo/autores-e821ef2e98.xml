@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:e821ef2e98</id>
 <title>Koutaro1226</title>
-<updated>2026-10-20T17:08:06.170462+00:00</updated>
+<updated>2026-10-20T20:38:42.054516+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-e821ef2e98.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Did You Think You Could Live Normally in a World With a 1:5 Gender Ratio? Novela Ligera en Español</title>
@@ -24,6 +24,6 @@ De repente, Masato se ve transportado a un mundo ligeramente distinto al suyo, d
 Con esa idea tan ingenua, Masato comienza su nueva vida sin saberlo: Sin saber cuánto alivio ha traído a las chicas a su alrededor con la amabilidad que muestra según los estándares de su mundo original. Y sin saber que, en el instante en que aparece la sombra de otra mujer cerca de él, los ojos de esas chicas pierden su brillo, mientras comienzan a volcar sobre él unos sentimientos tan intensos que rayan en lo obs3siv0…
 
 Esta es la historia de un protagonista que cree que puede vivir con normalidad, pero que sin darse cuenta hace que las chicas se enamoren de él, hasta que finalmente esas heroínas, con su amor tan intenso (rayando lo enf3rm1zo), le hacen entenderlo por las malas.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1yR21sEA_AqcORqES2KRp-A" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1yR21sEA_AqcORqES2KRp-A" type="text/html" title="Descargar" />
 </entry>
 </feed>

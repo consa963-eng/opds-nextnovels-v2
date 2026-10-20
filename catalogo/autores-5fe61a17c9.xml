@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:5fe61a17c9</id>
 <title>Nanasawa Matari</title>
-<updated>2026-10-20T17:08:06.185898+00:00</updated>
+<updated>2026-10-20T20:38:42.073649+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-5fe61a17c9.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Mitsuba’s Stories Novela Ligera en Español</title>
@@ -20,7 +20,7 @@
 Al despertar de un largo letargo con una misteriosa sensación de omnipotencia, Mitsuba se da cuenta de que su madrastra no la quiere. Gracias a las intrigas de esta, Mitsuba no solo pierde su título nobiliario, sino que también se ve obligada a ingresar en una academia militar.
 
 Sin embargo, Mitsuba se aferra a los vagos recuerdos de otro mundo y, sin saberlo, ejerce el poder de una maldición. Esta es la historia de una chica que, temida por quienes la rodean, se abre camino con habilidades extraordinarias: una narrativa única de conquista en un mundo diferente.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1XC_FMkeBj8b6u6S8w0zz-w" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1XC_FMkeBj8b6u6S8w0zz-w" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>The Maiden Called Hero or Monster Novela Ligera en Español</title>
@@ -42,6 +42,6 @@ Y entonces, la llamaron «monstruo», y su tremendo poder y abnegación fueron t
 Perder su pasado y ganar nuevos compañeros no alterará su camino. Solo hay una razón que guía sus acciones.
 
 «Porque soy una heroína».</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1WO90qsnI-ornFUwm2y9Xbw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1WO90qsnI-ornFUwm2y9Xbw" type="text/html" title="Descargar" />
 </entry>
 </feed>

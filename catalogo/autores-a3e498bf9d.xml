@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:a3e498bf9d</id>
 <title>Amamori Takibi</title>
-<updated>2026-10-20T17:08:06.134733+00:00</updated>
+<updated>2026-10-20T20:38:42.007247+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-a3e498bf9d.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Too Many Losing Heroines! Novela Ligera en Español</title>
@@ -32,9 +32,9 @@ Yo, Nukumizu Kazuhiko, un personaje de fondo de la clase, fui testigo de cómo u
 “De verdad, bueno. Es una declaración muy audaz esa ¿eh?”
 
 Hay una especie de destino en el que hay personas que realmente brillan solo después haber perdido. Heroínas perdedoras: ¡el telón de la misteriosa historia de la mayoría de edad “Makeine” se abre ahora!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Dw2VA98ASwu69Ru996vVSw" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1cmPert-JDpb2tYKRj-XGAw" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F18dlZFe4JITNMC7e6XvRBBA" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1wPJJl8TkKftPjOZYOZOn-A" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Dw2VA98ASwu69Ru996vVSw" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1cmPert-JDpb2tYKRj-XGAw" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/18dlZFe4JITNMC7e6XvRBBA" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1wPJJl8TkKftPjOZYOZOn-A" type="text/html" title="Descargar" />
 </entry>
 </feed>

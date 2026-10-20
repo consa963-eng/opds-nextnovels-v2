@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:1c5782421e</id>
 <title>Kawakami Minoru</title>
-<updated>2026-10-20T17:08:06.164519+00:00</updated>
+<updated>2026-10-20T20:38:42.044257+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1c5782421e.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Horizon in the Middle of Nowhere Novela Ligera en Español</title>
@@ -24,8 +24,8 @@
 Corre el año 1648 de la Era del Testamento. Toori Aoi, canciller y presidente del consejo estudiantil de la única academia a bordo de la ciudad-nave volante Musashi, se enfrenta al décimo aniversario de la muerte de su amiga de la infancia Horizon Ariadust en un accidente. Mientras se prepara para «celebrar» la ocasión declarándose a P-01s —un autómata idéntico a Horizon—, descubre que sus sospechas sobre el aspecto de P-01s tenían fundamento: P-01s es en realidad Horizon Ariadust, renacida en un cuerpo robótico. Además, las emociones de Horizon fueron despojadas de ella y ahora están almacenadas en ocho poderosas armas llamadas Armamentos del Pecado Mortal, que están en posesión de figuras clave de diversos países establecidos en los Estados Divinos.
 
 Para recuperar las emociones de Horizon Ariadust, Toori Aoi, junto con sus amigos y aliados, emprende una cruzada contra distintos obstáculos mientras los acontecimientos clave de la historia se recrean de forma futurista.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1HFBBbwBx9G434fEHctaCwQ" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1RmZNZaJILy3kTpb9dGMx9Q" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Ayd5Y8WKJhyMTi7iwbCaxQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1HFBBbwBx9G434fEHctaCwQ" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1RmZNZaJILy3kTpb9dGMx9Q" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Ayd5Y8WKJhyMTi7iwbCaxQ" type="text/html" title="Descargar" />
 </entry>
 </feed>

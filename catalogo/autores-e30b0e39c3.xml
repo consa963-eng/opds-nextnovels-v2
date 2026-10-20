@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:e30b0e39c3</id>
 <title>Leonar D</title>
-<updated>2026-10-20T17:08:06.174233+00:00</updated>
+<updated>2026-10-20T20:38:42.058881+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-e30b0e39c3.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Poison King Novela Ligera en Español</title>
@@ -19,8 +19,8 @@
 <category term="Maduro" label="Maduro"/>
 <category term="Romance" label="Romance"/>
 <content type="text">Hace trece años, un terrible monstruo llamado la Reina del Veneno atacó el Reino de Jade. Un valiente grupo de aventureros la derrotó, pero en el proceso uno de ellos fue golpeado por una maldición. Para sobrevivir, tuvo que transmitirla a su propio hijo. Despreciado como un niño maldito desde su nacimiento, Caim Halsberg es odiado por todos, excepto por su difunta madre y Tea, una sirvienta que trabaja para su familia. Mientras su padre y su hermana gemela residen en su mansión, Caim se ve obligado a vivir solo en una cabaña en el bosque. Pero todo cambia cuando cierto médico lo ayuda a superar la maldición y reclamar su poder. Caim, ahora convertido en el Rey del Veneno, emprende un viaje para lograr su único deseo, ¡pero nunca imaginó que su veneno tendría un efecto tan peculiar en las bellezas que conoce!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1RHpOuRyPyVTs4DrqO64xyA" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1bS9rZrPVIfU2QmBeGAqWPA" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1cOFLu463wh59Wj3pKC9HoA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1RHpOuRyPyVTs4DrqO64xyA" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1bS9rZrPVIfU2QmBeGAqWPA" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1cOFLu463wh59Wj3pKC9HoA" type="text/html" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:e0b42e4b07</id>
 <title>Kamino Okina</title>
-<updated>2026-10-20T17:08:06.161480+00:00</updated>
+<updated>2026-10-20T20:38:42.040729+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-e0b42e4b07.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Cat Planet Cuties Novela Ligera en Español</title>
@@ -21,6 +21,6 @@
 <category term="Seinen" label="Seinen"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Kakazu Kio, un estudiante de bachillerato de Okinawa (Japón), se despertó y se encontró a una chica desconocida a su lado, que emitía los suaves y constantes sonidos de alguien que duerme. ¡Y además le salían orejas y una cola de gato! Ante el atónito Kio, apareció su amiga de la infancia con el desayuno. Con voz severa, le preguntó: «¿Dónde está la chica guapa que volvió contigo ayer? ¡Preséntamela!». Justo cuando estas dos duras frases estaban a punto de convertirse en una auténtica reunión de denuncia de pervertidos, la hermosa y estricta profesora, Itokazu Maki, irrumpió en la habitación, complicando aún más las cosas para Kio. Sin embargo… ¡esta chica de orejas de gato que se hace llamar Eris es, en realidad, una extraterrestre! Pero un misterioso grupo que se niega a aceptar este tipo de contacto extraterrestre, así como la CIA, por no hablar de la Agencia de Inteligencia Japonesa, están extendiendo sus sucias manos hacia la despreocupada Eris. «¡Basta ya! ¿Qué te ha hecho Eris?».</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F11SkAMKXvdWJtr90MPoX7RQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/11SkAMKXvdWJtr90MPoX7RQ" type="text/html" title="Descargar" />
 </entry>
 </feed>

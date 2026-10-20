@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:22f6afe62f</id>
 <title>Marawu Senpuuki</title>
-<updated>2026-10-20T17:08:06.175552+00:00</updated>
+<updated>2026-10-20T20:38:42.060725+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-22f6afe62f.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Kissing My Student, It’s Over if We’re Caught Novela Ligera en Español</title>
@@ -22,7 +22,7 @@ Mi relación secreta con Kirihara es algo que no puedo contarle a nadie. Comenz�
 «Siento que lo quiero, profesor, y he crecido mucho»
 
 Kirihara, que se enfrenta honestamente a sus sentimientos, se hace más fuerte con sus sentimientos reprimidos. Si alguien se enterara de nuestra relación, sería el fin…</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1WVgkwXfMvLsFsVRWZUq50A" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1-g62CoJRwwLiH7ujuPKpNQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1WVgkwXfMvLsFsVRWZUq50A" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1-g62CoJRwwLiH7ujuPKpNQ" type="text/html" title="Descargar" />
 </entry>
 </feed>

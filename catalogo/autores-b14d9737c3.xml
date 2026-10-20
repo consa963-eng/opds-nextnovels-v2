@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:b14d9737c3</id>
 <title>Yin Ya</title>
-<updated>2026-10-20T17:08:06.220886+00:00</updated>
+<updated>2026-10-20T20:38:42.118323+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-b14d9737c3.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Legendary Master’s Wife Novela Web en Español</title>
@@ -22,7 +22,7 @@
 <category term="Xuanhuan" label="Xuanhuan"/>
 <category term="Yaoi" label="Yaoi"/>
 <content type="text">Después de una explosión, You XiaoMo descubrió que sería un discípulo a prueba de la secta de TianXin. Sin embargo, era un discipulo con un potencial dudoso, así que, justo cuando empezaba a adaptarse a sus nuevas circunstancias, recibió una mala noticia. Si no podía lograr el resultado requerido después de medio año para convertirse en un discípulo oficial de la secta TianXin, sería expulsado de la misma. Mientras que You XiaoMo hacía todo lo posible para fabricar medicinas y ganar dinero, se encontró con Ling Xiao. Para su horror, luego descubre que Ling Xiao es, en realidad, alguien envuelto en piel humana.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F10gU_q4iNfLDySNePFdr4Ww" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1eoFTukPlCg9vsaJM7wKnhw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/10gU_q4iNfLDySNePFdr4Ww" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1eoFTukPlCg9vsaJM7wKnhw" type="text/html" title="Descargar" />
 </entry>
 </feed>

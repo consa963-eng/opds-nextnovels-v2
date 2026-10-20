@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:223b30338e</id>
 <title>Hanseolon</title>
-<updated>2026-10-20T17:08:06.149843+00:00</updated>
+<updated>2026-10-20T20:38:42.026631+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-223b30338e.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Golden Light of Dawn Novela Web en Español</title>
@@ -30,6 +30,6 @@ Lo que le quedó a Rosha fue un sentimiento de culpa por sobrevivir sola, la ten
 ----...Los haré pedazos hasta la muerte. A todos esos monstruos, sin excepción.
 
 No había nada más que ira.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1JWzR8HrwHjCZeWFdRD0qnw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1JWzR8HrwHjCZeWFdRD0qnw" type="text/html" title="Descargar" />
 </entry>
 </feed>

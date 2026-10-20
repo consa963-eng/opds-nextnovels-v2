@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:5790709072</id>
 <title>Niko</title>
-<updated>2026-10-20T17:08:06.188697+00:00</updated>
+<updated>2026-10-20T20:38:42.076757+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-5790709072.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Villain’s Love Novela Ligera en Español</title>
@@ -22,6 +22,6 @@
 Tras el asesinato de su familia y la ruina de su país, Luciano, el príncipe de una nación afligida, se convierte en un demonio de la venganza. Tras todas las maldades que comete, finalmente se enfrenta a la reina del país enemigo, Alana. En lugar de suplicar por su vida, al contrario, ella implora su propia muerte. Luciano, que ha sido despojado de su placer, abraza a Alana a la fuerza e intenta hacerla sufrir. Sin embargo, a medida que pasan más tiempo juntos, su odio se convierte en obsesión y empieza a desear un futuro con ella… decidiendo mantenerla con vida para vengarse. Con esa excusa, Luciano se entrega a Alana, pero ella sigue deseando un final…
 
 El príncipe de la venganza y la reina que desea la muerte, ¿cuál es el futuro de estos dos atrapados en su aterrador pasado?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F12EpyOVpKq-_sLs9-vm1Mtw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/12EpyOVpKq-_sLs9-vm1Mtw" type="text/html" title="Descargar" />
 </entry>
 </feed>

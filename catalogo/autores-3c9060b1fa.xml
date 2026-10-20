@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:3c9060b1fa</id>
 <title>Hideyuki Kikuchi</title>
-<updated>2026-10-20T17:08:06.151568+00:00</updated>
+<updated>2026-10-20T20:38:42.028748+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-3c9060b1fa.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Vampire Hunter D Novela Ligera en Español</title>
@@ -17,8 +17,8 @@
 <category term="Horror" label="Horror"/>
 <category term="Romance" label="Romance"/>
 <content type="text">12.090 d.C. Es una época oscura para el mundo. La humanidad acaba de salir a rastras de trescientos años de dominación por parte de la raza de vampiros conocida como la Nobleza. La guerra contra los vampiros ha hecho estragos; las ciudades yacen en ruinas, el campo está fragmentado en pequeñas aldeas y feudos que siguen luchando contra las incursiones nocturnas de los vampiros caídos y los restos de sus demonios y hombres lobo fabricados genéticamente. Todos los pueblos quieren un Cazador, uno de los guerreros que han comprometido sus pistolas láser y sus espadas a erradicar a la Nobleza. Pero algunos Cazadores son mejores que otros, y algunos traen consigo su propio tipo de peligro...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F15lcQcHTKKFLiYNPrTiWZww" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F11-lQd890og_8Vlfo6BE9dA" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F10RrIBm60LUCcIfionlSRiA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/15lcQcHTKKFLiYNPrTiWZww" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/11-lQd890og_8Vlfo6BE9dA" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/10RrIBm60LUCcIfionlSRiA" type="text/html" title="Descargar" />
 </entry>
 </feed>

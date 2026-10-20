@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:7f8e5283ac</id>
 <title>Tobirano</title>
-<updated>2026-10-20T17:08:06.214152+00:00</updated>
+<updated>2026-10-20T20:38:42.107840+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-7f8e5283ac.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Betrothed to My Sister’s Ex Novela Ligera en Español</title>
@@ -22,6 +22,6 @@ Marie siempre ha sido una segunda opción. Sus padres la tratan como a una sirvi
 Pero en la tranquilidad de la noche, tiene un encuentro fortuito con un hombre cautivador de llamativos ojos verdes: el Conde Kyros. Su breve encuentro parece un sueño... hasta que la realidad vuelve a golpear con fuerza. Poco después, llega una propuesta de matrimonio del conde, para Anastasia, por supuesto.
 
 Excepto que... algo no cuadra. ¿El vestido que llega con la propuesta? Está claramente hecho para Marie. ¿Podría tratarse de un error? ¿O es este el comienzo de una inesperada historia de amor?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1xXYH9iuBisQ-xWNFUiPbGA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1xXYH9iuBisQ-xWNFUiPbGA" type="text/html" title="Descargar" />
 </entry>
 </feed>

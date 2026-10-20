@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:9046ccba29</id>
 <title>MyLittleBrother</title>
-<updated>2026-10-20T17:08:06.184102+00:00</updated>
+<updated>2026-10-20T20:38:42.071287+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-9046ccba29.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Cultivation Online Novela Web en Español</title>
@@ -21,7 +21,7 @@
 En este mundo oscuro e inmóvil, su hermana pequeña se convirtió en su única razón para vivir.
 
 Observa cómo este joven alcanza la cima como genio en Cultivation Online, el nuevo VRMMORPG, convirtiéndose en una figura legendaria en ambos mundos.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1yUnkJCYvYTuQsZGDlWmMkw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1yUnkJCYvYTuQsZGDlWmMkw" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Magic System in a Parallel World Novela Web en Español</title>
@@ -39,6 +39,6 @@ Un fatídico día, Leo se vio transportado a un mundo paralelo en el que existen
 Afortunadamente, fue dotado de un Sistema Mágico que tiene un potencial ilimitado.
 
 ¿Cómo podrá Leo, que no tiene conocimientos de magia ni experiencia en la lucha, sobrevivir a este mundo sombrío lleno de lo desconocido siendo él mismo una persona corriente?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1zO7v9PtCCu5VQWEXOti99w" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1zO7v9PtCCu5VQWEXOti99w" type="text/html" title="Descargar" />
 </entry>
 </feed>

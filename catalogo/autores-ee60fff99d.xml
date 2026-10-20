@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:ee60fff99d</id>
 <title>Tsukimi Shusui</title>
-<updated>2026-10-20T17:08:06.216605+00:00</updated>
+<updated>2026-10-20T20:38:42.111627+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-ee60fff99d.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Stupidly Cute Girls’ Strategy Chart Specializing in Me Novela Ligera en Español</title>
@@ -21,6 +21,6 @@
 En el pasado, Tokiomi, un ex-"genio" de los videojuegos, recibe un mensaje.
 
 El remitente parece ser una idol que el sigue... pero en realidad esa idol son tres chicas lindas, pero asombrosamente tontas y torpes. Para continuar con sus actividades, Tokiomi intenta descubrir quién envió el mensaje y demostrar que es solo admiración, no amor. Mientras tanto, las tres chicas, fascinadas por la apariencia juvenil pasada de Tokiomi, se acercan a él con segundas intenciones, ¡desatando una batalla de amor y defensa llena de inutilidad exagerada!?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F16hhSqQo4loXBz4XPMgjD-A" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/16hhSqQo4loXBz4XPMgjD-A" type="text/html" title="Descargar" />
 </entry>
 </feed>

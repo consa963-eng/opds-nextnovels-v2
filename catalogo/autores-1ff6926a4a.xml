@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:1ff6926a4a</id>
 <title>Kotoko</title>
-<updated>2026-10-20T17:08:06.169934+00:00</updated>
+<updated>2026-10-20T20:38:42.053919+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1ff6926a4a.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Breaking Up Was the Plan, the Duke Falling For the Villainess Was Not! Novela Ligera en Español</title>
@@ -20,7 +20,7 @@ Reencarné en las páginas de mi novela romántica favorita. No como la heroína
 Fácil, ¿verdad?
 
 Excepto que interpretar a una noble vengativa cuando en mi vida pasada había sido una mujer común es más difícil de lo que parece. Porque si ese es el caso, ¿por qué —al final de todo— el duque me abraza con fuerza y me susurra al oído: ‘Grace… nunca, jamás te dejaré ir’?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1VEa5gw4s97Y7BohEsxNedA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1VEa5gw4s97Y7BohEsxNedA" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Fake It to Break It! Novela Ligera en Español</title>
@@ -37,6 +37,6 @@ Excepto que interpretar a una noble vengativa cuando en mi vida pasada había si
 <content type="text">Viola no desea otra cosa que romper su aburrido compromiso con Phillip. Él es hijo de un duque, y Viola está completamente convencida de que no es la esposa adecuada para un hombre de su clase social. Lo peor de todo es que él parece totalmente desinteresado en ella. Así que cuando Viola sufre un accidente de carruaje, aprovecha la oportunidad para fingir amnesia con la esperanza de librarse de su compromiso. Lo que no sabe es que Phillip también es un oportunista y se aprovecha de la situación para contarle a la «amnésica» Viola una historia que ella apenas puede creer: ¡que han estado apasionadamente enamorados todo este tiempo!
 
 Ahora, atrapada en su propia mentira, Viola se ve obligada a seguirle el juego. ¿Podrá esta curiosa pareja burlarse mutuamente para alcanzar la felicidad? ¿O su extraña red de engaños los delatará a ambos?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1KQJTn5pccA6-knNUi36vkw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1KQJTn5pccA6-knNUi36vkw" type="text/html" title="Descargar" />
 </entry>
 </feed>

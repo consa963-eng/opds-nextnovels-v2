@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:79e87b630d</id>
 <title>Takahashi Bisui</title>
-<updated>2026-10-20T17:08:06.209925+00:00</updated>
+<updated>2026-10-20T20:38:42.102280+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-79e87b630d.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>How to Seduce a Fickle Angel Obsessed with Games Novela Ligera en Español</title>
@@ -27,6 +27,6 @@ La angelical Luxuria se presentó como una enemiga de la humanidad. Desafió a l
 Tras saborear la derrota, Luxuria se transforma en un Ángel Caído y comienza a perseguir a Shuto de forma agresiva, suplicándole que se case con ella… ¡¿Acaso este es el premio por haber ganado?!
 
 ¡Se alza el telón de una batalla de ingenio de altas apuestas mezclada con una comedia romántica escolar, en las primeras líneas de la Academia Valhalla!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1W7nYUYnjZxA1yKj9zDHN_g" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1W7nYUYnjZxA1yKj9zDHN_g" type="text/html" title="Descargar" />
 </entry>
 </feed>

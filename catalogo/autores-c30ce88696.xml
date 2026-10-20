@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:c30ce88696</id>
 <title>Kim Mamo</title>
-<updated>2026-10-20T17:08:06.166641+00:00</updated>
+<updated>2026-10-20T20:38:42.046937+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-c30ce88696.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Main Heroines are Trying to Kill Me Novela Web en Español</title>
@@ -20,8 +20,8 @@
 <content type="text">Para salvar el desesperanzado Mundo de Fantasía Oscura, contuve mis lágrimas y destruí el mundo, luego maté al Rey Demonio y regresé.
 
 Ahora, estoy tratando de salvar el mundo usando el «Sistema» que obtuve como el «Privilegio del Regresor»… Pero las Heroínas Principales también han despertado sus propios recuerdos de la línea de tiempo anterior.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1zbFQDZ4gWgU1hF_JXaujLw" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1l2Y3EhI5yUux-ZQS5z2P1A" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F12z6CmKnpy4H3_mt6ZEM6gg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1zbFQDZ4gWgU1hF_JXaujLw" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1l2Y3EhI5yUux-ZQS5z2P1A" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/12z6CmKnpy4H3_mt6ZEM6gg" type="text/html" title="Descargar" />
 </entry>
 </feed>

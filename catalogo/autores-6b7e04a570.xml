@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:6b7e04a570</id>
 <title>Koharu Michinoku</title>
-<updated>2026-10-20T17:08:06.168907+00:00</updated>
+<updated>2026-10-20T20:38:42.052777+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-6b7e04a570.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Starting Over at 28 Novela Ligera en Español</title>
@@ -21,6 +21,6 @@
 Estudiar, hacer amigos, disfrutar de los eventos escolares... esas cosas normales que un 4dult0 solo quiere disfrutar como parte de su juventud terminan viéndose increíblemente geniales para los estudiantes de preparatoria.
 
 Ayudando a los chicos con problemas, reparando cosas rotas y viviendo su juventud más seriamente que nadie, Kaneshige, de 28 años, despierta la admiración de los chicos y hace que las chicas de su misma clase se enamoren de él de verdad.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1jV6R6iKbJ6DUpH78PVqlCQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1jV6R6iKbJ6DUpH78PVqlCQ" type="text/html" title="Descargar" />
 </entry>
 </feed>

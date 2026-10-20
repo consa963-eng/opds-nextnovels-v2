@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:5c27514266</id>
 <title>Gangudou</title>
-<updated>2026-10-20T17:08:06.146687+00:00</updated>
+<updated>2026-10-20T20:38:42.022506+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-5c27514266.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>CtG - Zero kara Sodateru Dennou Shoujo Novela Ligera en Español</title>
@@ -24,6 +24,6 @@
 – ¡Ku, Kugimiya!
 
 !En el mundo real, la verdadera Haruha, junto con la verdadera Mifa – Kugimiya Miharu – aparecieron repentinamente! La verdad es que, ¡Haruha es una “nueva humana” creada en secreto!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1RQZ1xd1476flq8w7WB8tPA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1RQZ1xd1476flq8w7WB8tPA" type="text/html" title="Descargar" />
 </entry>
 </feed>

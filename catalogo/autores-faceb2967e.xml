@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:faceb2967e</id>
 <title>Makino Maebaru</title>
-<updated>2026-10-20T17:08:06.174843+00:00</updated>
+<updated>2026-10-20T20:38:42.059774+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-faceb2967e.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Invisible Wallflower Marries an Upstart Aristocrat After Getting Dumped for Her Sister! Novela Ligera en Español</title>
@@ -19,6 +19,6 @@
 Iris, la hija de un marqués, no sólo vio cómo su hermana menor le robaba a su prometido, sino que además terminó teniendo que casarse con Lord Lucas, un comerciante advenedizo que estaba cargando con las deudas de su familia. Sin embargo, ¡la razón por la que este antiguo plebeyo convertido en barón se casó con ella fue simplemente para que Iris les enseñara a él y a sus sirvientes cómo sobrevivir en la alta sociedad!
 
 “Me han dicho que carezco de presencia y que soy como el aire. Si alguien tan sencilla y aburrida como yo pudiera serle de alguna utilidad, estaré más que feliz de ayudarle, lord Lucas”, dijo Iris con total seriedad, tomando a Lucas por sorpresa. ¿Podrá Lucas resistirse a sentirse lentamente atraído por la dedicada Iris, quien se esfuerza por apoyarlo a él y a las personas en su vida? ¡Aquí comienza una complicada comedia romántica que arranca con un matrimonio de conveniencia!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1fXPwxV6LTIJMScKgCHpoIg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1fXPwxV6LTIJMScKgCHpoIg" type="text/html" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:d3e07eeb02</id>
 <title>Daken</title>
-<updated>2026-10-20T17:08:06.141704+00:00</updated>
+<updated>2026-10-20T20:38:42.015651+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-d3e07eeb02.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>How I Became King by Eating Monsters Novela Ligera en Español</title>
@@ -17,7 +17,7 @@
 <category term="Harem" label="Harem"/>
 <category term="Seinen" label="Seinen"/>
 <content type="text">Mars, tiene solo doce años, pero vive con miedo a ser asesinado. Se escabulle del castillo hacia el bosque de monstruos, donde, luchando contra los monstruos, tiene que cazar para alimentarse y evitar morir de hambre. Entonces, una noche, una mujer pelirroja aparece ante él y le dice: "Tienes promesa. Conviértete en mi aprendiz". Hay un secreto que solo ella conoce: ¡comer monstruos te hace más fuerte! Con su entrenamiento y su nuevo poder, Mars superará todos esos intentos de asesinato. Sin embargo, no terminan las cosas; ¡No, es sólo el comienzo de guerras a nivel nacional, incluso continental, con él en el medio!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1_XIAcsO0AnwPFR_cNni-NQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1_XIAcsO0AnwPFR_cNni-NQ" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>The Suspects of Necromancy Novela en Español</title>
@@ -37,7 +37,7 @@ Pero entonces, un ejército de muertos vivientes atacó de repente y aplastó r�
 Conrad, un caballero del reino, persiguió al misterioso nigromante. En una aldea remota, se topó con una mansión sospechosa y con una joven llamada Luna que la frecuentaba. Con sus ojos rojos, su piel pálida y su cabello dorado, ¿quién era ella? ¿Era el dueño de la mansión el nigromante?
 
 De un autor debut sensacional cuya primera obra batió récords de ventas llega un cautivador suspense fantástico que desafía a los lectores a reflexionar sobre el valor de la vida.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1FQS3HQ1BKQUxdcBSnJAMnA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1FQS3HQ1BKQUxdcBSnJAMnA" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Who Killed the Hero? Novela Ligera en Español</title>
@@ -50,6 +50,6 @@ De un autor debut sensacional cuya primera obra batió récords de ventas llega 
 <category term="Misterio" label="Misterio"/>
 <category term="Tragedia" label="Tragedia"/>
 <content type="text">Han pasado cuatro años desde la derrota del Señor de los Demonio. El reino, ahora en paz, ha asumido la tarea de recopilar las numerosas hazañas del Héroe caído, comenzando por entrevistar a los miembros de su antiguo grupo: Leon, el Santo de la Espada, Maria, la Santa Doncella y Solon, el Sabio. Solo queda una pregunta: ¿cómo murió el Héroe? Leer entre líneas estos relatos épicos sobre el pasado del Héroe y las aventuras del grupo juntos revelará poco a poco la verdad. ¿Quién mató al Héroe? ¿Fue el Señor de los Demonio... o un camarada?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1fvHcG_dqZsOS6ZASLQ8TzQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1fvHcG_dqZsOS6ZASLQ8TzQ" type="text/html" title="Descargar" />
 </entry>
 </feed>

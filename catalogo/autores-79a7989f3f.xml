@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:79a7989f3f</id>
 <title>toshizou</title>
-<updated>2026-10-20T17:08:06.215525+00:00</updated>
+<updated>2026-10-20T20:38:42.109212+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-79a7989f3f.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Yuri Tama Novela Ligera en Español</title>
@@ -16,8 +16,8 @@
 <category term="Vida Escolar" label="Vida Escolar"/>
 <category term="Yuri" label="Yuri"/>
 <content type="text">Yuna Momose y Rinka Aiba están hechas la una para la otra, y todo el instituto lo sabe. Entre la elegancia principesca de Yuna y el encanto principesco de Rinka, todos sus compañeros las ven como la pareja ideal. Yotsuba Hazama no es una excepción, pero es excepcional en otro aspecto: ¡Se las ha arreglado para hacerse amiga de las dos! Sin embargo, tener a la pareja favorita de toda la escuela como sus dos mejores amigas no es precisamente fácil. No sólo hace que todo el mundo trate a Yotsuba como la odiosa tercera en discordia, sino que ella también se siente como tal. O al menos así es, hasta que un día, Yuna la invita a salir. Y entonces Rinka también la invita a salir.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1fkqxstwU6iGDuAtx4tCJdw" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1cYr0MtW-LWNM7tTCF3e9-Q" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F10EH4nK7CJBHSKV1NDcsLCw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1fkqxstwU6iGDuAtx4tCJdw" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1cYr0MtW-LWNM7tTCF3e9-Q" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/10EH4nK7CJBHSKV1NDcsLCw" type="text/html" title="Descargar" />
 </entry>
 </feed>

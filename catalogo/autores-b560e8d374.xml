@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:b560e8d374</id>
 <title>Cocooned Cow</title>
-<updated>2026-10-20T17:08:06.141180+00:00</updated>
+<updated>2026-10-20T20:38:42.014873+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-b560e8d374.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Martial World Novela Web en Español</title>
@@ -17,7 +17,7 @@
 <category term="Maduro" label="Maduro"/>
 <category term="Xuanhuan" label="Xuanhuan"/>
 <content type="text">En el reino de los dioses, un sinfín de leyendas luchaban por un cubo misterioso. Sin embargo, después de la batalla que desapareció en el vacío. Lin Ming se topa con este misterioso cubo y comienza su viaje para convertirse en el héroe de la tierra.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1tPtqb274pIlM6SR55DJ8sQ" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1TfytjDgB3tfRK7yZVLKtzg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1tPtqb274pIlM6SR55DJ8sQ" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1TfytjDgB3tfRK7yZVLKtzg" type="text/html" title="Descargar" />
 </entry>
 </feed>

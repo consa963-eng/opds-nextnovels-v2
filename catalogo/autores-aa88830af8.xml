@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:aa88830af8</id>
 <title>Nagatsuki Tappei</title>
-<updated>2026-10-20T17:08:06.184744+00:00</updated>
+<updated>2026-10-20T20:38:42.072080+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-aa88830af8.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Re Zero Novela Ligera en Español</title>
@@ -24,12 +24,12 @@
 Pero cuando es salvado por una misteriosa chica de pelo plateado con un gato hada, Subaru coopera con la chica para devolverle el favor. Cuando finalmente consiguen una pista Subaru y la chica son atacados y asesinados por alguien.
 
 Subaru entonces despierta en el lugar al que fue convocado y se da cuenta de la habilidad que obtuvo «Vuelve por la Muerte» un chico indefenso que solo tiene la habilidad de rebobinar el tiempo muriendo. ¡Y mas alla de la desesperacion puede salvar a la chica del destino de la muerte!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1wfk76jqJLkz5wtKE9c7dEw" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1lQkn5_tchX6hi2KcjCjumA" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1naIPhbSRbEtcUz3Kn1b0Fg" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1jYIg5jzvrHuMi80vcXJHZA" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1ciip3Zj3YclZ9glmngx7qg" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1y_lGcxPpcw20dJn72-kieQ" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1k6HeXdCjGu017Fj20tsFyw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1wfk76jqJLkz5wtKE9c7dEw" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1lQkn5_tchX6hi2KcjCjumA" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1naIPhbSRbEtcUz3Kn1b0Fg" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1jYIg5jzvrHuMi80vcXJHZA" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1ciip3Zj3YclZ9glmngx7qg" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1y_lGcxPpcw20dJn72-kieQ" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1k6HeXdCjGu017Fj20tsFyw" type="text/html" title="Descargar" />
 </entry>
 </feed>

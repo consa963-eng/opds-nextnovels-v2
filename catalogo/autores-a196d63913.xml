@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:a196d63913</id>
 <title>Aka Akasaka, Hajime Tanaka</title>
-<updated>2026-10-20T17:08:06.131861+00:00</updated>
+<updated>2026-10-20T20:38:42.003988+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-a196d63913.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Oshi no Ko: Etude for Two Novela Ligera en Español</title>
@@ -16,6 +16,6 @@
 <content type="text">«Lleváis así mucho tiempo. Sinceramente, siempre estáis peleándoos».
 
 Kana Arima y Akane Kurokawa, que protagonizarán una obra de teatro el mes que viene, deciden ensayar con escenas improvisadas. Ha pasado mucho tiempo desde la película «15 años de mentiras» y ambas son consideradas jóvenes actrices con talento, pero siguen sin llevarse bien. Como resultado, lo que debería haber sido un ensayo se convierte en una discusión. Mientras se preocupan por el futuro de la obra, recuerdan una audición para una obra a la que ambas se habían presentado en el pasado. ¿Podría ser esta la causa de que su relación haya acabado así? La segunda novela de Oshi no Ko describe el pasado y el futuro de Kana Arima y Akane Kurokawa.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1fBvu-_DcakaKfDa5XCSUrw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1fBvu-_DcakaKfDa5XCSUrw" type="text/html" title="Descargar" />
 </entry>
 </feed>

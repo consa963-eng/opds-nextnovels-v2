@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:976c433f73</id>
 <title>Mamoru Iwas</title>
-<updated>2026-10-20T17:08:06.175156+00:00</updated>
+<updated>2026-10-20T20:38:42.060133+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-976c433f73.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Code Geass: Lelouch of the Rebellion Novela Ligera en Español</title>
@@ -16,6 +16,11 @@
 <category term="Supernatural" label="Supernatural"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">En el año 2010, el Sacro Imperio de Bretaña declaró la guerra a Japón. Impotente para detenerlos, Japón se rindió en menos de un mes. La libertad se perdió y Japón fue rebautizado como «Área 11» y su gente pasó a ser conocida como «Elevens». Lelouch es un británico y su amigo Suzaku, nacido como un once, ha alcanzado el estatus de británico honorario. De niño, Lelouch juró aplastar a su propio gobierno, pero ahora, siete años después y en el instituto, ha aceptado que no puede cambiar nada. Hasta que conoce a una misteriosa chica que le da el poder de controlar la mente de las personas: ¡el poder de Geass! Se pone una máscara y se convierte en el despiadado terrorista conocido sólo como Zero, destruyendo a cualquiera que se interponga en su camino, ¡incluido su amigo de la infancia, Suzaku!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1dNz_5UbULOTBlF2qy1191A" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1dNz_5UbULOTBlF2qy1191A&amp;fs_id=453563157930108&amp;name=Code+Geass+-+Stage+2+Knight+%5BMK%5D.pdf" type="application/pdf" title="Code Geass - Stage 2 Knight [MK].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1dNz_5UbULOTBlF2qy1191A&amp;fs_id=873810899345797&amp;name=Code+Geass+-+Stage+2+Knight+%5BMK%5D.epub" type="application/epub+zip" title="Code Geass - Stage 2 Knight [MK].epub" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1dNz_5UbULOTBlF2qy1191A&amp;fs_id=206934690958015&amp;name=Code+Geass+-+Stage+1+Entrance+%5BMK%5D.pdf" type="application/pdf" title="Code Geass - Stage 1 Entrance [MK].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1dNz_5UbULOTBlF2qy1191A&amp;fs_id=962626794682936&amp;name=Code+Geass+-+Stage+1+Entrance+%5BMK%5D.epub" type="application/epub+zip" title="Code Geass - Stage 1 Entrance [MK].epub" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1dNz_5UbULOTBlF2qy1191A&amp;fs_id=92435529963377&amp;name=Code+Geass+-+Stage+0+Entrance+%5BMK%5D.pdf" type="application/pdf" title="Code Geass - Stage 0 Entrance [MK].pdf" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1dNz_5UbULOTBlF2qy1191A&amp;fs_id=434380198339951&amp;name=Code+Geass+-+Stage+0+Entrance+%5BMK%5D.epub" type="application/epub+zip" title="Code Geass - Stage 0 Entrance [MK].epub" />
 </entry>
 </feed>

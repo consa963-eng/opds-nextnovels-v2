@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:72d4548015</id>
 <title>Komiyaji Chiji</title>
-<updated>2026-10-20T17:08:06.169087+00:00</updated>
+<updated>2026-10-20T20:38:42.052948+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-72d4548015.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>When I Said, “I Want a Beautiful and Rich Girlfriend,” a Girl with Circumstances Showed Up Novela Ligera en Español</title>
@@ -27,6 +27,6 @@ Shino Iori (virgen), un estudiante universitario de Fukuoka, se compromete con T
 Ella es una belleza y rica. Sin embargo, Iori se siente desanimado por su prometida, de la que se rumorea que "se acuesta con cualquiera", y Tsukasa se le insinúa agresivamente... ¿hacia dónde irá su futuro?
 
 ¡¡¡Este es el comienzo de una comedia romántica "ligeramente madura" de género ruptura-noviazgo que cuestiona el significado del enamoramiento!!!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1hSCijg0rIyhTNFsdLJ4DAA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1hSCijg0rIyhTNFsdLJ4DAA" type="text/html" title="Descargar" />
 </entry>
 </feed>

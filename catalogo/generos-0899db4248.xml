@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:generos:0899db4248</id>
 <title>Sobrenatural</title>
-<updated>2026-10-20T17:08:06.296426+00:00</updated>
+<updated>2026-10-20T20:38:42.240854+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-0899db4248.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Goetia Shock Novela Ligera en Español</title>
@@ -21,7 +21,7 @@
 Un futuro en el que la instalación de cerebros auxiliares en el cuerpo humano se ha convertido en algo habitual…
 
 ¡Una novela cyberpunk, dura y sexy, que narra las hazañas de Alicia, la «Maga de la computadora!!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1w2P9wHTQNp0Rj-0yP9vV3Q" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1w2P9wHTQNp0Rj-0yP9vV3Q" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Record of Grancrest War Novela Ligera en Español</title>
@@ -36,7 +36,7 @@ Un futuro en el que la instalación de cerebros auxiliares en el cuerpo humano s
 <category term="Romance" label="Romance"/>
 <category term="Sobrenatural" label="Sobrenatural"/>
 <content type="text">En un continente gobernado por el Caos, los Señores tienen el poder de un Escudo que puede calmar el Caos y proteger al pueblo. Sin embargo, antes de que nadie se dé cuenta, los Señores dejan de lado su credo de sofocar el Caos y, en su lugar, comienzan a luchar entre sí por sus Escudos para obtener dominio unos sobre otros. Siluca Meletes, una maga aislada que desprecia a los Señores por abandonar su credo, y un caballero errante llamado Theo, que está de viaje para entrenarse con el fin de liberar algún día su ciudad natal, hacen un juramento eterno de trabajar juntos para reformar el continente dominado por las guerras y el Caos y dar paso a una Era de Orden.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1LXdwzgfaGyDL5DU5Jhq8zg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1LXdwzgfaGyDL5DU5Jhq8zg" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>The God of Nishi-Yuigahama Station Novela en Español</title>
@@ -51,6 +51,6 @@ Un futuro en el que la instalación de cerebros auxiliares en el cuerpo humano s
 <content type="text">Tras un devastador accidente de tren en Kamakura, surge un extraño rumor: en la estación Nishi-Yuigahama existe un “dios” capaz de conceder un último encuentro con quienes ya murieron.
 
 Pero no todos regresan… y algunos están dispuestos a arriesgarlo todo por una despedida.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1MDkIPP4UjLibfozprnVrcA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1MDkIPP4UjLibfozprnVrcA" type="text/html" title="Descargar" />
 </entry>
 </feed>

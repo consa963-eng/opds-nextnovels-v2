@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:9279556108</id>
 <title>Baba Okina</title>
-<updated>2026-10-20T17:08:06.139611+00:00</updated>
+<updated>2026-10-20T20:38:42.012433+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-9279556108.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Kumo Desu ga, Nani ka? Ex Novela Ligera en Español</title>
@@ -21,6 +21,6 @@
 Además de una historia e ilustraciones completamente nuevas, este volumen contiene información de fondo sobre los otros niños del orfanato de Sariel, así como varias historias secundarias que antes solo estaban disponibles como promociones.
 
 ¡Una lectura imprescindible para los fans de la serie!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F15EN5_lhsRdqjzGh3Ui_plA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/15EN5_lhsRdqjzGh3Ui_plA" type="text/html" title="Descargar" />
 </entry>
 </feed>

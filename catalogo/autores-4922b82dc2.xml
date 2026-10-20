@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:4922b82dc2</id>
 <title>Satoshi Hase</title>
-<updated>2026-10-20T17:08:06.199818+00:00</updated>
+<updated>2026-10-20T20:38:42.090532+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-4922b82dc2.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Beatless Novela Ligera en Español</title>
@@ -47,8 +47,8 @@ Para salvarlo de ese "peor futuro posible" y casarse con él, ha viajado al pasa
 La Yume del futuro se lanza a la ofensiva para conquistar a Yuuji y acercarse a él, pero en medio del proceso termina intercambiándose con la Yume de dieciséis años...
 
 Una comedia romántica de reencarnación regresiva en la que volveré a intentarlo cuantas veces sea necesario para salvarte.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1WHb-5jUlW7chM9AarmfEMw" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1P8V4aVa8BRr8cCL1P6zcEQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1WHb-5jUlW7chM9AarmfEMw" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1P8V4aVa8BRr8cCL1P6zcEQ" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Strategic Base 32098 Paradise Novela Ligera en Español</title>
@@ -68,6 +68,6 @@ Ganador del Gran Premio de Oro de la 6.ª edición del Premio Sneaker.
 Dos superpotencias llevan más de mil años enfrascadas en una guerra interestelar. El soldado cíborg Varois desciende al planeta ultrasecreto del enemigo, conocido como «Paraíso». Pero lo que encuentra allí es solo un soldado enemigo y una niña llamada María.
 
 Una novela romántica de ciencia ficción que colma todas las expectativas.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1--2eFaQgUVJl0ivpIFnLFA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1--2eFaQgUVJl0ivpIFnLFA" type="text/html" title="Descargar" />
 </entry>
 </feed>

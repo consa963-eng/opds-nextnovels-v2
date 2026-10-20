@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:0c7cdf6983</id>
 <title>Shinden Mihiro</title>
-<updated>2026-10-20T17:08:06.203402+00:00</updated>
+<updated>2026-10-20T20:38:42.095046+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-0c7cdf6983.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>My Girlfriend Cheated on Me With a Senior, so I’m Cheating on Her With His Girlfriend Novela Ligera en Español</title>
@@ -21,6 +21,6 @@
 “Cálmate, Isshiki-kun… ¡No estaré satisfecha hasta que hagamos que esos dos que nos engañaron experimenten el infierno!”
 
 Isshiki Yuu quedó impactado por la infidelidad de su novia, así que decidió engañarla con la novia del chico que se la robó, Sakurajima Touko, quien además era su senpai. Como parte de su plan, Touko propuso vengarse lo más posible, ¡y así comenzó a convertir a Yuu en un hombre atractivo y popular entre las chicas! Su forma de vestir, los temas de conversación, etc… Yuu se encuentra en medio de un aumento vertiginoso de popularidad; sin embargo, sus sentimientos por Touko no hacen más que crecer. A medida que su plan avanza, la relación entre ellos se vuelve repentinamente íntima… ¿Qué venganza se llevarán a cabo los engañados en Nochebuena? ¿Cuál será el desenlace que les espera? ¡Se alza el telón para una comedia de amor y venganza!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1frmpvlCkKKlF7Lrdj3PHPg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1frmpvlCkKKlF7Lrdj3PHPg" type="text/html" title="Descargar" />
 </entry>
 </feed>

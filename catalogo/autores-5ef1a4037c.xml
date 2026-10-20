@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:5ef1a4037c</id>
 <title>Toui</title>
-<updated>2026-10-20T17:08:06.215690+00:00</updated>
+<updated>2026-10-20T20:38:42.109383+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-5ef1a4037c.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>I Reincarnated as the Villainous Young Master Who Corrupts the Count’s Daughter Novela Ligera en Español</title>
@@ -29,8 +29,8 @@ Reencarné en el mundo erótico que acababa de jugar, “La Academia del Harem d
 ¡Se enamoró perdidamente de mí, se apuntó voluntariamente como mi criada personal e incluso empezó a venir a mi habitación por las noches!
 
 ¡Ganador del Premio Especial en la Categoría de Comedia Romántica del 9.º Concurso de Novela Web de Kakuyomu!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1hB2jAKQvqtQ8g0ZT2_bn4Q" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1M5lPyOgYKJJ8-KOYveVk7g" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1tJkZbVJd9wO6uxjwvHEcpA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1hB2jAKQvqtQ8g0ZT2_bn4Q" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1M5lPyOgYKJJ8-KOYveVk7g" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1tJkZbVJd9wO6uxjwvHEcpA" type="text/html" title="Descargar" />
 </entry>
 </feed>

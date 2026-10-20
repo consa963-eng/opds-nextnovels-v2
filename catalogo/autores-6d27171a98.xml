@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:6d27171a98</id>
 <title>Cuttlefish That Loves Diving</title>
-<updated>2026-10-20T17:08:06.141406+00:00</updated>
+<updated>2026-10-20T20:38:42.015211+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-6d27171a98.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Lord of the Mysteries 2: Circle of Inevitability Novela Web en Español</title>
@@ -22,7 +22,7 @@
 <content type="text">El Señor de los Misterios, segunda parte.
 
 En 1368, a finales de julio. Un escarlata sangriento descenderá del cielo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1dKEfNmPbfJForxE1qRtH9w" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1dKEfNmPbfJForxE1qRtH9w" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Lord of the Mysteries Novela Web en Español</title>
@@ -46,8 +46,8 @@ Y a pesar de sus continuos intentos por sacar a la luz estos misterios, parecier
 Sigue las aventuras de Klein mientras se ve enredado con las diversas Iglesias del mundo (tanto ortodoxas como no ortodoxas), a la par que desarrolla lentamente nuevos poderes gracias a las pociones de los legendarios y enigmaticos Beyonder.
 
 ¿Será casualidad que eligiera como seudonimo «El Loco», la carta del tarot cuyo número es el 0 y que representa un potencial ilimitado? ¿O quizás la niebla del destino ha empezado a revelar un cielo estrellado lleno de infinitas posibilidades?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1EO66Zm7Bfy3Oc9aYwRzprg" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1f3eRXeBY_8g5B_iauFnz7g" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1EO66Zm7Bfy3Oc9aYwRzprg" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1f3eRXeBY_8g5B_iauFnz7g" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Radiant Blade of the Wilderness Novela Web en Español</title>
@@ -77,6 +77,6 @@ Yuchong, la Tortuga de Tres Patas: al consumirla, el sigilo se convierte en una 
 Perdido en sus pensamientos, Ding Songyan volvió la cabeza hacia la persona que estaba a su lado y preguntó:
 
 ”¿Quieres decir que estas criaturas se extinguieron hace mucho tiempo? ¿Y que solo quedaron las artes marciales creadas por quienes las consumieron primero, basadas en las transformaciones que sufrieron sus cuerpos? ¿Y que esas artes… todavía pueden cultivarse?”</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1ngfLC3660BEC0ueQ6TMMzQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1ngfLC3660BEC0ueQ6TMMzQ" type="text/html" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:e0d0fcd56a</id>
 <title>신양이</title>
-<updated>2026-10-20T17:08:06.228960+00:00</updated>
+<updated>2026-10-20T20:38:42.130536+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-e0d0fcd56a.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>After Being Annoyed By The Northern Grand Duke, I Married The Southern Grand Duke Novela Web en Español</title>
@@ -53,6 +53,6 @@ No solo me propone un matrimonio por contrato peligrosamente tentador, sino que 
 Eso dice, pero mi esposo temporal se acuesta a mi lado presumiendo sus sólidos abdominales.
 
 Yo... ¿estaré bien en este matrimonio?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1rHWIdzLLbKWDG-m7emJGmw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1rHWIdzLLbKWDG-m7emJGmw" type="text/html" title="Descargar" />
 </entry>
 </feed>

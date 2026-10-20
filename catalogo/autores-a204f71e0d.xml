@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:a204f71e0d</id>
 <title>Shiki</title>
-<updated>2026-10-20T17:08:06.202631+00:00</updated>
+<updated>2026-10-20T20:38:42.094002+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-a204f71e0d.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Observation Records of My Fiancée Novela Ligera en Español</title>
@@ -21,9 +21,9 @@
 «¡Príncipe Cecil! Debo confesarle algo: ¡yo soy la villana de esta historia!» . La declaración de Bertia fue sorprendente. Afirmaba tener recuerdos de su vida anterior, en la que había sido la antagonista de un «juego otome». Su elevada ambición era destacar como villana y, de ese modo, conseguir que se anulara su compromiso. Sin embargo, a pesar de sus planes para cometer diversas fechorías, sus intentos siempre habían fracasado.
 
 ¿Acaso su prometida, que aspira a dominar el arte de la villanía, simplemente se equivoca en sus esfuerzos?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1ipzBPFJY4rUpRw2BwwzRbQ" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1sChGxSsypmc_EfxYnZREXw" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1rp9I-o-CyuQhkB5_AoKZ3w" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1ipzBPFJY4rUpRw2BwwzRbQ" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1sChGxSsypmc_EfxYnZREXw" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1rp9I-o-CyuQhkB5_AoKZ3w" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Observation Records of My Wife Novela Ligera en Español</title>
@@ -50,7 +50,7 @@ Decidida a proteger el final feliz de todos, Bertia, que en su día fue una vill
 «¡Me haré pasar por tu villana suplente!».
 
 Y así, se levanta el telón sobre el nuevo papel de Bertia como la primera villana suplente del mundo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1cNLH1owMWg663rPCSlUyVw" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F171FstwEdqt0nJu1adj672g" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1cNLH1owMWg663rPCSlUyVw" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/171FstwEdqt0nJu1adj672g" type="text/html" title="Descargar" />
 </entry>
 </feed>

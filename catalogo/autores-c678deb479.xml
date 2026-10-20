@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:c678deb479</id>
 <title>sammbon</title>
-<updated>2026-10-20T17:08:06.198373+00:00</updated>
+<updated>2026-10-20T20:38:42.088804+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-c678deb479.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Survival of an Incompetent Villainous Prince Novela Ligera en Español</title>
@@ -22,6 +22,6 @@
 Cuando me di cuenta, estaba en el mundo de un juego RPG de citas que me encantaba. Sin embargo, en el que reencarné fue en Harold, el "príncipe malcriado inútil" que anula su compromiso con la heroína y alcanza un final de ruina. Para colmo, por su configuración es incapaz de desplegar magia en absoluto, un simple chivo expiatorio destinado a perder ante el protagonista.
 
 Pero esta vez será diferente. Para empezar, cancelaré la anulación del compromiso con la heroína y me pondré manos a la obra con mi propio entrenamiento. ¡Además, conseguiré armas distintas a las de la obra original y abrumaré a todos a mi alrededor con mi desbordante poder mágico inútil! Mientras solo persigo la fuerza, de repente me convierto en una presencia que atrae la atención de las demás heroínas...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1O4rwD-58tgoJi_tnZ0yXhw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1O4rwD-58tgoJi_tnZ0yXhw" type="text/html" title="Descargar" />
 </entry>
 </feed>

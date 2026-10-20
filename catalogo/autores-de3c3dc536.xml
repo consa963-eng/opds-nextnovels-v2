@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:de3c3dc536</id>
 <title>Kazemaru</title>
-<updated>2026-10-20T17:08:06.165202+00:00</updated>
+<updated>2026-10-20T20:38:42.044971+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-de3c3dc536.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>It’s Your Fault I’ve Been Ruined as an Elite Novela Web en Español</title>
@@ -25,6 +25,6 @@ La perezosa de Kyomoto, que se hace pasar por una oficinista perfecta, y la mist
 Ambientada en el departamento de Recursos Humanos de una gran empresa de TI "Deep Application", la relación entre las dos se entrelaza y cambia.
 
 ※Aunque hay descripciones de un romance con un hombre, al final es yuri.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1cV5AKbMsSRJGDQFoJPl6_Q" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1cV5AKbMsSRJGDQFoJPl6_Q" type="text/html" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:de68c3211d</id>
 <title>Kazuno Fehu</title>
-<updated>2026-10-20T17:08:06.165581+00:00</updated>
+<updated>2026-10-20T20:38:42.045475+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-de68c3211d.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Isekai Apocalypse Mynoghra Novela Ligera en Español</title>
@@ -19,6 +19,6 @@
 <content type="text">Takuto Ira sucumbió a una enfermedad a una edad temprana y acabó reencarnándose en un mundo que se parece al juego de estrategia por turnos de fantasía Eternal Nations. No sólo se reencarnó en su juego favorito, sino en el dios que comanda la malvada civilización Mynoghra. Con la hermosa unidad de héroe de Mynoghra, la Bruja del Fango Atou, a su lado, ¡ni siquiera los rasgos legendarios de la raza se interpondrán en el camino para reiniciar su civilización!
 
 "Señor Takuto... ¿no quieres empezar de nuevo conmigo?"</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F10WJfCLhSIoLVPIuR5nQbXw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/10WJfCLhSIoLVPIuR5nQbXw" type="text/html" title="Descargar" />
 </entry>
 </feed>

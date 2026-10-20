@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:6e4d657794</id>
 <title>Narita Ryohgo</title>
-<updated>2026-10-20T17:08:06.186598+00:00</updated>
+<updated>2026-10-20T20:38:42.074342+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-6e4d657794.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Bleach: Can’t Fear Your Own World Novela Ligera en Español</title>
@@ -18,7 +18,7 @@
 <category term="Shounen" label="Shounen"/>
 <category term="Supernatural" label="Supernatural"/>
 <content type="text">La Guerra Sangrienta de los Mil Años contra los Quincy finalizó, pero las cenizas de la crisis todavía arden en la Sociedad de Almas. Tokinada Tsunayashiro, quien ascendió como jefe de su clan tras una serie de asesinatos que acabaron con todos los aspirantes al título, tiene un gran plan para crear un nuevo Rey Espiritual. Sus oscuras ambiciones pronto siembran la semilla de una nueva guerra total entre los mundos, pero no todo está perdido. Existe un segador de almas imprevisto que tiene la clave para desactivar el conflicto: ¡Shuhei Hisagi, teniente del Noveno Escuadrón y reportero de la revista Boletín mensual del Seireitei!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1F11by7fq-Mt-OL4otphDGQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1F11by7fq-Mt-OL4otphDGQ" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Fate/Strange Fake Novela Ligera en Español</title>
@@ -33,6 +33,6 @@
 <content type="text">Esta novela es una spinoff de Fate/stay night, de Narita Ryohgo, ambientada en una guerra que ocurre unos años después de la conclusión de la Quinta Guerra del Santo Grial.
 
 El escenario: la ciudad de Snowfield en el oeste de EE.UU., lejos de Fuyuki. Allí se desarrolla una "falsa Guerra del Santo Grial", muy distinta de la original. Había quienes habían estado vigilando los augurios del Santo Grial en Snowfield. Según una investigación de la Asociación de Magos, el sistema de la Guerra del Santo Grial en Snowfield era una imitación del de Fuyuki. Es más, el sistema era incompleto, lo que llevó a la exclusión de una de las siete clases y a la selección de seres como sirvientes que normalmente no podían ser convocados. Era, en verdad, una extraña falsificación. Como un órgano del gobierno de los EE.UU. ejecuta sus diversas tramas, los Siervos son convocados uno tras otro-</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1ZcOWRiNilahK_IbnjkeeDw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1ZcOWRiNilahK_IbnjkeeDw" type="text/html" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:63d2c86ece</id>
 <title>The Moon Hidden in the Clouds</title>
-<updated>2026-10-20T17:08:06.213999+00:00</updated>
+<updated>2026-10-20T20:38:42.107294+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-63d2c86ece.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>My Husband was Switched Novela Web en Español</title>
@@ -38,6 +38,6 @@ Pero cuando abrí los ojos, mi pareja era Cedric, ¡el marido original que tanto
 ...El protagonista masculino que se suponía que se casaría con la protagonista femenina se convirtió en mi marido.
 
 ¡Devolvedme a mi nuevo marido!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1A3PVxgW1KRqRK_NN961YuQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1A3PVxgW1KRqRK_NN961YuQ" type="text/html" title="Descargar" />
 </entry>
 </feed>

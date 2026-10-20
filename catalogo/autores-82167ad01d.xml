@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:82167ad01d</id>
 <title>Usagi Tsuchiya</title>
-<updated>2026-10-20T17:08:06.218142+00:00</updated>
+<updated>2026-10-20T20:38:42.113567+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-82167ad01d.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Mysterious Scent Comes from the Bakery Novela Ligera en Español</title>
@@ -31,6 +31,6 @@ Sinopsis
 Ichikura Koharu, estudiante de primer año de universidad, aspira a convertirse en dibujante de manga mientras trabaja a medio tiempo en Nostimo, una panadería ubicada en la ciudad de Toyonaka, en la prefectura de Osaka. Cierto día, su mejor amiga Yukiko, que trabaja en la misma panadería, le cancela a último momento la transmisión en vivo de una obra de teatro que habían quedado en ir a ver juntas. Pero ¿por qué, si fue ella quien la invitó?
 
 Intrigada, Koharu rememora el comportamiento de su amiga y llega a una verdad inesperada… ¡Una serie de misterios de lo cotidiano ambientados en una panadería!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1p6QfL_h0Ozzk1JRB1U6T1w" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1p6QfL_h0Ozzk1JRB1U6T1w" type="text/html" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:c1d6b357a3</id>
 <title>Akashi Rokurou</title>
-<updated>2026-10-20T17:08:06.132522+00:00</updated>
+<updated>2026-10-20T20:38:42.004680+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-c1d6b357a3.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Jimi na Kensei wa Soredemo Saikyou desu Novela Ligera en Español</title>
@@ -23,6 +23,6 @@ Cuando llegó a una etapa en la que podía ser llamado "el más fuerte" en el es
 Su entrenamiento es sencillo, sus técnicas son sencillas, es "el más fuerte" pero parece sencillo.
 
 Con una espada de madera ordinaria en la mano, la lucha del Santo de la Espada de aspecto sencillo acaba de comenzar.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1E_Fod_2hce6vzpw14qzF0w" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1E_Fod_2hce6vzpw14qzF0w" type="text/html" title="Descargar" />
 </entry>
 </feed>

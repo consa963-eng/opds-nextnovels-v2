@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:c11cd2d4d7</id>
 <title>Return Of Han &amp; Tang</title>
-<updated>2026-10-20T17:08:06.193220+00:00</updated>
+<updated>2026-10-20T20:38:42.082734+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-c11cd2d4d7.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>A Silver Dragon Queen Turned Me Into a Young Dragon Princess Novela Web en Español</title>
@@ -27,6 +27,6 @@ Mo Li, un joven humano sumido en la más absoluta pobreza, tras ser secuestrado 
 —¿Qué? ¿Me estás diciendo que mi madre es una dragona a la que le gustaba que tipos de otras razas fueran sus «caballeros dragón»? Esto no tiene ninguna gracia… ¡¿Eh?! ¡Ay, ay, duele!
 
 —Vuelve a decir una sola tontería más y yo…</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1oqezaB4fBi-dkapwXy0KjQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1oqezaB4fBi-dkapwXy0KjQ" type="text/html" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:bbc2451ae8</id>
 <title>Shi Jiuyuan</title>
-<updated>2026-10-20T17:08:06.201782+00:00</updated>
+<updated>2026-10-20T20:38:42.092989+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-bbc2451ae8.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Speed and Love Novela Web en Español</title>
@@ -21,6 +21,6 @@
 La inmensa presión de la vida diaria provoca una creciente tensión entre la pareja. Cuando Jin Mu tiene nueve años, sus padres llegan a un acuerdo para divorciarse. Ella se va a vivir con la Sra. Jiang al sur, mientras que el Sr. Jin lleva a Jin Zhao a un pequeño pueblo del norte. A partir de ese momento, viven en mundos separados, sin volver a cruzarse jamás.
 
 Dieciocho años después, cuando Jin Mu tiene 18, la Sra. Jiang, ahora casada con su segundo esposo, decide emigrar. Mientras tanto, Jin Mu es enviada temporalmente a vivir con su padre, el Sr. Jin, donde se reencuentra inesperadamente con Jin Zhao, a quien no ha visto en nueve años. Los nombres "Zhao" (朝), que significa "mañana", y "Mu" (暮), que significa "tarde", simbolizan la relación entre el día y la noche, reflejando un vínculo eterno que perdura a pesar de su separación.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1sX--V_UxKbOClYBbj4iO_A" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1sX--V_UxKbOClYBbj4iO_A" type="text/html" title="Descargar" />
 </entry>
 </feed>

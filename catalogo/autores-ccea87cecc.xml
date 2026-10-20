@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:ccea87cecc</id>
 <title>Sakawa Ninomiya</title>
-<updated>2026-10-20T17:08:06.197301+00:00</updated>
+<updated>2026-10-20T20:38:42.087591+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-ccea87cecc.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>My Cheeky Childhood Friend Who’s a Godly Artist Is Gradually Becoming Unable to Defy Me Novela Ligera en Español</title>
@@ -23,6 +23,6 @@ Tras abandonar la escritura debido a un desafortunado accidente, decido converti
 "Quiero ser tu novia. La... novia de Juro".
 
 Comienza una comedia romántica de creación, ¡donde le daré una lección a mi descarada amiga de la infancia con mis habilidades!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1RGGiN2RBmv7kpmMFEvjGMA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1RGGiN2RBmv7kpmMFEvjGMA" type="text/html" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:8b1f913f67</id>
 <title>Kure Aiue</title>
-<updated>2026-10-20T17:08:06.172466+00:00</updated>
+<updated>2026-10-20T20:38:42.056554+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-8b1f913f67.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>She Recommends the Harem Novela Ligera en Español</title>
@@ -29,6 +29,6 @@ Con una sonrisa desafiante, añadió:
 “Por eso ¿No te gustaría una amiga con derecho?”
 
 Jamás habría imaginado que esa conversación sería el inicio de una vida de harem con mujeres hermosas y llenas de personalidad.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1N3UUkFp47abDQoHLjTEcAA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1N3UUkFp47abDQoHLjTEcAA" type="text/html" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:0e145213ab</id>
 <title>Kim Yeong-Ji</title>
-<updated>2026-10-20T17:08:06.166702+00:00</updated>
+<updated>2026-10-20T20:38:42.047112+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-0e145213ab.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Regina Rena Novela Web en Español</title>
@@ -17,6 +17,6 @@
 <category term="Romance" label="Romance"/>
 <category term="Shoujo" label="Shoujo"/>
 <content type="text">Cuando el padre de Rena Rubel, el estimado vizconde Rubel, la convoca a su estudio, ella espera con emoción recibir un regalo por su duodécimo cumpleaños. En cambio, con mentiras en la boca y una sonrisa en el rostro, la vende como sacrificio vivo al imperio. Tras lograr sobrevivir, Rena regresa seis años después, después de haber reflexionado largo y tendido sobre si debería darle al padre que una vez adoró la oportunidad de ser perdonado. Pero un encuentro fortuito y la creciente atracción que siente por un hombre misterioso llamado Lin podrían cambiar sus planes, para bien o para mal. ¿Encontrará Rena a su padre y lo perdonará por sus pecados, o lo hará pagar por haberla traicionado?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1nV-IsDogUiYjsWV50wzkEA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1nV-IsDogUiYjsWV50wzkEA" type="text/html" title="Descargar" />
 </entry>
 </feed>

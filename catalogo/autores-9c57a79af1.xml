@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:9c57a79af1</id>
 <title>Kurasumi Sunayama</title>
-<updated>2026-10-20T17:08:06.172294+00:00</updated>
+<updated>2026-10-20T20:38:42.056369+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-9c57a79af1.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Tengen Toppa Gurren Lagann Novela Ligera en Español</title>
@@ -25,7 +25,7 @@ La mitología robótica de combinación completamente nueva que GAINAX levantó 
 El osado combinado Gurren Lagann, con el indoblegable líder del Gurren-dan, Kamina, y Simon. Y así aparece majestuosa la primera parte, que narra la despedida llena de lágrimas de los hombres.
 
 ※ Esta obra contiene ilustraciones a color y en blanco y negro de la misma calidad que el original.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1KF-PQ9z4w3mlxKUb2oEH4Q" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1BP_rIF8XsxpSwGg9jOD40A" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1KF-PQ9z4w3mlxKUb2oEH4Q" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1BP_rIF8XsxpSwGg9jOD40A" type="text/html" title="Descargar" />
 </entry>
 </feed>

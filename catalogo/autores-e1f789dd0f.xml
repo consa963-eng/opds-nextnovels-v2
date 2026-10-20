@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:e1f789dd0f</id>
 <title>Shiraishi Arata</title>
-<updated>2026-10-20T17:08:06.204656+00:00</updated>
+<updated>2026-10-20T20:38:42.096640+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-e1f789dd0f.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Rakudai Kenja no Gakuin Musou Novela Ligera en Español</title>
@@ -22,6 +22,6 @@
 Sin embargo, 400 años después, se reencarnó por segunda vez y se inscribió en una academia de magia utilizando la brujería y el conocimiento que adquirió de su vida anterior. ¡Como para burlarse del estado de la magia que había estado en declive durante los últimos 400 años, fácilmente invoca la magia de clase legendaria!
 
 Con un poder abrumador, el mundo entero se arrodillará ante él.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1fDEauI8vYy65QVAfVDqfUA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1fDEauI8vYy65QVAfVDqfUA" type="text/html" title="Descargar" />
 </entry>
 </feed>

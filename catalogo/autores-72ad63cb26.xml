@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:72ad63cb26</id>
 <title>Aoi Miyamae</title>
-<updated>2026-10-20T17:08:06.136740+00:00</updated>
+<updated>2026-10-20T20:38:42.009474+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-72ad63cb26.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Assassin Empress Bellreuge Novela Ligera en Español</title>
@@ -18,6 +18,6 @@
 <content type="text">¡La princesa oprimida llega al poder!
 
 Bellreuge es solo una doncella al servicio de la primera princesa del Imperio… hasta que, de repente, recibe una propuesta de matrimonio del (infame) hijo del marques Asturm, también conocido como el Lobo Sangriento. La primera princesa, quien además es la media hermana mayor de Bellreuge, obliga a Bellreuge y a Asturm a huir de la capital imperial con soldados pisándoles los talones. Por suerte, Bellreuge sabe pelear… porque ha vivido bajo la amenaza constante de ser asesinada desde que nació. Ahora, exiliada al desconocido marquesado Beiermen, tendrá que encontrar la manera de sacar lo mejor de su situación. Lo que no sabe es que los acontecimientos se han acelerado más de lo que jamás hubiera podido anticipar y que, junto con Asturm, podría terminar decidiendo el destino del propio Imperio.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1v27nDFWC3EHTJzMdnG3DcA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1v27nDFWC3EHTJzMdnG3DcA" type="text/html" title="Descargar" />
 </entry>
 </feed>

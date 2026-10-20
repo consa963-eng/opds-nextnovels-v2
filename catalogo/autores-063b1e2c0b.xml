@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:063b1e2c0b</id>
 <title>달빛을가르는빗방울</title>
-<updated>2026-10-20T17:08:06.228748+00:00</updated>
+<updated>2026-10-20T20:38:42.129862+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-063b1e2c0b.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>I Became the Youngest Daughter of the Mafia Family Novela Web en Español</title>
@@ -26,7 +26,7 @@ Si esta es una 'segunda oportunidad', sobreviviré a toda costa.
 Esta vez, me aseguraré de que...
 
 ¡Detendré la destrucción del Imperio...!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1WMPwkEfA7DXdMqlGSUegSg" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F13YAv4AqcrfbmfsZWjDQr-A" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1WMPwkEfA7DXdMqlGSUegSg" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/13YAv4AqcrfbmfsZWjDQr-A" type="text/html" title="Descargar" />
 </entry>
 </feed>

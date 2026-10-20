@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:06ed324230</id>
 <title>Tarisa</title>
-<updated>2026-10-20T17:08:06.212557+00:00</updated>
+<updated>2026-10-20T20:38:42.105512+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-06ed324230.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>DUNGEON DIVE Novela Ligera en Español</title>
@@ -20,8 +20,8 @@
 <content type="text">Un chico normal y corriente llamado Aikawa Kanami acaba en un mundo de fantasía que funciona según las reglas de los videojuegos de rol, pero esto no es precisamente una buena noticia. Despierta en las entrañas de una gigantesca trampa mortal llamada «la Mazmorra». Tras escapar por los pelos gracias a su determinación, astucia y su nuevo arsenal de hechizos y habilidades mágicas, lo único que desea es volver a casa, a la Tierra, con su hermana discapacitada, que le necesita. ¿Su única pista? Se dice que quien consiga llegar al centésimo y último nivel verá cumplido cualquier deseo.
 
 En su desesperación, Kanami idea la forma más eficaz de superar la Mazmorra y, con una serie de mentiras, se gana una alianza de conveniencia con un aspirante a espadachín que es un desastre con la espada, pero increíblemente hábil con la magia. Sin embargo, la fría determinación de Kanami pronto se pone a prueba cuando él y su nuevo compañero se enfrentan a una batalla sorpresa contra un jefe. ¿Hasta dónde llegará para salir victorioso? ¡Descúbrelo en el primer volumen de esta querida y longeva serie!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1H4In-TRpua7rpvZjfcauRA" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1YwKfA0w3JJa4BIliPZqWwQ" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1PnRQjIL25XYRAGIX0PPDOQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1H4In-TRpua7rpvZjfcauRA" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1YwKfA0w3JJa4BIliPZqWwQ" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1PnRQjIL25XYRAGIX0PPDOQ" type="text/html" title="Descargar" />
 </entry>
 </feed>

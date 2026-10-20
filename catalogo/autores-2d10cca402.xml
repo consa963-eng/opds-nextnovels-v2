@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:2d10cca402</id>
 <title>Regobal Basso</title>
-<updated>2026-10-20T17:08:06.193111+00:00</updated>
+<updated>2026-10-20T20:38:42.082377+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-2d10cca402.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Revenge of the Iron-Blooded Sword Hound Novela Web en Español</title>
@@ -17,7 +17,7 @@
 <category term="Romance" label="Romance"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Vikir, el fiel sabueso de los Baskerville, había sido leal hasta que su lealtad fue traicionada por su dueño, Hugo, quien difamó su nombre y lo sacrificó. Con una determinación inquebrantable de evitar un destino similar en su nueva vida, sus ojos ardían con ira y sus dientes se mostraban afilados mientras planeaba una venganza sangrienta y brutal contra Hugo. La sed de venganza de Vikir no tenía límites, y esta vez estaba decidido a hacer justicia desgarrando la garganta de su antiguo amo y padre... Hugo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1KtnhYWuRSe2XE_H0xkWFOw" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1jlEjwUfyS3EbmQA6_QJMVA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1KtnhYWuRSe2XE_H0xkWFOw" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1jlEjwUfyS3EbmQA6_QJMVA" type="text/html" title="Descargar" />
 </entry>
 </feed>

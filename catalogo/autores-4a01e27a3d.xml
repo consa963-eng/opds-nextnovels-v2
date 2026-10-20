@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:4a01e27a3d</id>
 <title>Sangatsu Midori</title>
-<updated>2026-10-20T17:08:06.198912+00:00</updated>
+<updated>2026-10-20T20:38:42.089506+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-4a01e27a3d.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Shamer Novela Ligera en Español</title>
@@ -24,6 +24,6 @@ Al empezar el instituto, me pasaba la mayor parte del tiempo en casa jugando a v
 Pero un día, unos dos meses después, un profesor vino a mi casa…
 
 El profesor, que se hacía llamar Kiritani Kakeru, parecía ser un antiguo alumno de este instituto Seiran. Y al parecer, hubo un tiempo en el que él tampoco iba al colegio, igual que yo. Sin embargo, cambió cuando conoció a alguien que le hizo darse cuenta de la importancia de ser uno mismo. Eso me hizo preguntarme si yo también podría hacerlo…?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1LU-aUxY2kZv39tKne58eog" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1LU-aUxY2kZv39tKne58eog" type="text/html" title="Descargar" />
 </entry>
 </feed>

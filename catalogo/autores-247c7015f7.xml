@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:247c7015f7</id>
 <title>Fuuko Minami</title>
-<updated>2026-10-20T17:08:06.145816+00:00</updated>
+<updated>2026-10-20T20:38:42.021268+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-247c7015f7.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The King of Light and Shadow Novela Ligera en Español</title>
@@ -19,6 +19,6 @@
 De niños, el peso de las naciones y la política no significaba nada para ellos, y pasaban sus días juntos con total libertad. Pero con la edad llegaron los deberes, y Rishard ya no pudo escapar de la realidad de su papel.
 
 Arthur, rebosante de sentido de la justicia y cargado con las altas expectativas de sus vasallos, y Rishard, ahora convertido en una belleza impresionante: aunque se querían mucho, sus caminos comenzaron a separarse. Una épica historia de fantasía BL, publicada en dos volúmenes.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1LHm_fl8mVB2UYnSbTRy7rA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1LHm_fl8mVB2UYnSbTRy7rA" type="text/html" title="Descargar" />
 </entry>
 </feed>

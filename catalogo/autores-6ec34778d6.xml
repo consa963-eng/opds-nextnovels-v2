@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:6ec34778d6</id>
 <title>Mishima Yomu</title>
-<updated>2026-10-20T17:08:06.180490+00:00</updated>
+<updated>2026-10-20T20:38:42.066796+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-6ec34778d6.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Ano Otomege wa Oretachi ni Kibishii Sekai desu Novela Ligera en Español</title>
@@ -22,7 +22,7 @@ Intentaba llevar una vida tranquila como personaje mafioso cuando se topó con u
 Debería haber tomado la decisión correcta......pero, ¿a qué se debe este desasosiego?
 
 La novela web "si ruta", que fue un bonus en la encuesta "Mobseka" y recibió una enorme respuesta por ser "demasiado dura", ¡ha sido finalmente publicada en forma de libro con importantes añadidos!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Iy3kGRmodW4NS44jmC9Djw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Iy3kGRmodW4NS44jmC9Djw" type="text/html" title="Descargar" />
 </entry>
 <entry>
 <title>Valkyrie Bullet Novela Ligera en Español</title>
@@ -52,7 +52,7 @@ Ningún experimento ha tenido éxito,
 Presentado por el exitoso creador Yomu Mishima
 
 ¡¡Una heroica historia de Ciencia Ficcion comienza!!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F18ynCp33PIwiAP4FWH0OGVw" type="application/epub+zip" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1MajAGDMBYWjHqejza4NkdA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/18ynCp33PIwiAP4FWH0OGVw" type="text/html" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1MajAGDMBYWjHqejza4NkdA" type="text/html" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:9f31ef602f</id>
 <title>笑佳人</title>
-<updated>2026-10-20T17:08:06.227854+00:00</updated>
+<updated>2026-10-20T20:38:42.127969+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-9f31ef602f.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Where the Mask Ends Novela Web en Español</title>
@@ -22,6 +22,6 @@ Si Lu Zhuo muere, Wei Rao no se lleva nada.
 Si Lu Zhuo vive, no habrá divorcio ni abandono de la esposa durante cinco años.
 
 Cuando Lu Zhuo despierta y se entera de esto, lo descarta con una risa. Wei Rao se comporta de manera frívola, con apariencia de seductora tentadora, poco adecuada para ser esposa. Atado por el acuerdo, no abandonará a su esposa, pero Wei Rao no debe esperar obtener ni la mitad de su sincero afecto. Todo el mundo está convencido de que a Lu Zhuo no le gustará Wei Rao. Pero más tarde, Lu Zhuo se convierte en una prueba fehaciente de la "obsesión de los hombres por la belleza". El joven maestro, antes digno y educado, desde que se casó con Wei Rao, ¡se ha vuelto cada vez menos convencional</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1GmxI_gyYCcnQncfUnQ47Lg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1GmxI_gyYCcnQncfUnQ47Lg" type="text/html" title="Descargar" />
 </entry>
 </feed>

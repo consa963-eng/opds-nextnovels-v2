@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:e7d89f0dd3</id>
 <title>Pasek</title>
-<updated>2026-10-20T17:08:06.192061+00:00</updated>
+<updated>2026-10-20T20:38:42.080650+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-e7d89f0dd3.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>World Another Novela Web en Español</title>
@@ -14,6 +14,6 @@
 <category term="Comedia" label="Comedia"/>
 <category term="Fantasía" label="Fantasía"/>
 <content type="text">Alexander Mendez es un chico de 19 años el cual en un momento estaba en un mirador al lado de un niño comiendo papas, pero al instante siguiente despertó en medio del bosque, confundido y preocupado, se pregunta que acaba de pasar, más sin embargo, este lugar en el cual estaba tenía muchas sorpresas.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1wbFPSrKUCix963tW9X3yZQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1wbFPSrKUCix963tW9X3yZQ" type="text/html" title="Descargar" />
 </entry>
 </feed>
