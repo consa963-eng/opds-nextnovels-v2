@@ -4,6 +4,7 @@
 import json
 import re
 import time
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
@@ -30,7 +31,8 @@ UA = "Mozilla/5.0 (compatible; NextNovels-OPDS/1.0)"
 
 MAX_PAGES = 80
 MIN_VALID = 10
-DELAY = 1.0
+DELAY = 0.5
+WORKERS = 3
 
 S = requests.Session()
 S.headers.update({"User-Agent": UA})
@@ -540,6 +542,17 @@ def generate(books):
 # MAIN
 # ============================================================
 
+def scan_one(url):
+    try:
+        b = parse(url)
+        time.sleep(DELAY)
+        if b["title"] and (not b["type"] or "ligera" in b["type"].lower()):
+            return b
+    except Exception as e:
+        print("[WARN]", url, e)
+    return None
+
+
 def main():
     OUT.mkdir(exist_ok=True)
 
@@ -549,18 +562,15 @@ def main():
         print("[INFO] Primera ejecución: escaneo completo.")
 
         urls = discover()
+        print(f"[INFO] {len(urls)} fichas encontradas. Descargando con {WORKERS} hilos.")
+
         new_books = []
-
-        for i, url in enumerate(urls, 1):
-            try:
-                print(f"[{i}/{len(urls)}] {url}")
-                b = parse(url)
-                if b["title"] and (not b["type"] or "ligera" in b["type"].lower()):
+        with ThreadPoolExecutor(max_workers=WORKERS) as pool:
+            for i, b in enumerate(pool.map(scan_one, urls), 1):
+                if b:
                     new_books.append(b)
-            except Exception as e:
-                print("[WARN]", url, e)
-
-            time.sleep(DELAY)
+                if i % 50 == 0:
+                    print(f"[PROGRESO] {i}/{len(urls)}")
 
         if len(new_books) < MIN_VALID:
             if len(books) >= MIN_VALID:
