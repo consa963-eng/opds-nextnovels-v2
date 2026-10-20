@@ -1,4 +1,4 @@
-const REPO = "https://raw.githubusercontent.com/Deiviz25/opds-nextnovels/main";
+const REPO = "https://raw.githubusercontent.com/consa963-eng/opds-nextnovels/main";
 
 const DATA_URL = `${REPO}/catalogo/catalogo.json`;
 
