@@ -1,13 +1,14 @@
 const REPO = "https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main";
 const DATA_URL = `${REPO}/catalogo/catalogo.json`;
 
+// API oficial del proyecto terabox-dl
+const TERABOX_API = "https://terabox-dl.vercel.app/api/info?url=";
+const TERABOX_DL_API = "https://terabox-dl.vercel.app/api/download";
+
 function xmlEscape(value = "") {
   return String(value).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&apos;");
 }
-
-function xmlCdata(value = "") {
-  return String(value).replace(/]]>/g, "]]]]><![CDATA[>");
-}
+function xmlCdata(value = "") { return String(value).replace(/]]>/g, "]]]]><![CDATA[>"); }
 
 function entry(book) {
   const title = xmlEscape(book.title || "Sin título");
@@ -25,12 +26,11 @@ function entry(book) {
   if (Array.isArray(book.downloads) && book.downloads.length > 0) {
     for (const download of book.downloads) {
       if (!download.url) continue;
-      xml += `\n<link rel="http://opds-spec.org/acquisition" href="${xmlEscape(download.url)}" type="${xmlEscape(download.type || "application/epub+zip")}" title="${xmlEscape(download.title || "Descarga")}"/>\n`;
+      xml += `\n<link rel="http://opds-spec.org/acquisition" href="${xmlEscape(download.url)}" type="${xmlEscape(download.type || "application/epub+zip")}" title="${xmlEscape(download.title || "Descargar")}"/>\n`;
     }
   } else if (book.url) {
     xml += `\n<link rel="http://opds-spec.org/acquisition" href="${url}" type="text/html" title="Abrir en Next Novels"/>\n`;
   }
-
   xml += "</entry>";
   return xml;
 }
@@ -62,71 +62,45 @@ function openSearch(requestUrl) {
 async function getBooks() {
   const response = await fetch(DATA_URL, { cf: { cacheTtl: 300, cacheEverything: true } });
   if (!response.ok) throw new Error(`No se pudo descargar catalogo.json: ${response.status}`);
-  const books = await response.json();
-  if (!Array.isArray(books)) throw new Error("El catálogo no contiene una lista de novelas");
-  return books;
+  return await response.json();
 }
 
-function headers(type = "application/atom+xml; charset=UTF-8") {
-  return { "Content-Type": type, "Cache-Control": "public, max-age=300" };
-}
+function headers(type = "application/atom+xml; charset=UTF-8") { return { "Content-Type": type, "Cache-Control": "public, max-age=300" }; }
 
-// --------------------------------------------------
-// LÓGICA DE DESCARGA CORREGIDA
-// --------------------------------------------------
 async function resolverTerabox(teraboxUrl) {
-  // Extraemos el ID de la carpeta (surl) de cualquier formato de enlace de Terabox
-  let surl = "";
-  const match = teraboxUrl.match(/(?:\/s\/|\?surl=)([a-zA-Z0-9_-]+)/);
-  if (match) surl = match[1];
-  if (!surl) throw new Error("No se pudo extraer el código de Terabox");
-
-  // Usamos el endpoint de la API de Terabox que funciona sin cookies para listar
-  const apiUrl = `https://www.terabox.com/api/shorturlinfo?app_id=250528&shorturl=${surl}&root=1`;
+  const resp = await fetch(TERABOX_API + encodeURIComponent(teraboxUrl));
+  if (!resp.ok) throw new Error(`API respondió ${resp.status}`);
   
-  const resp = await fetch(apiUrl, {
-    headers: {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-      "Referer": "https://www.terabox.com/"
-    }
-  });
-
   const data = await resp.json();
   
-  // Si la API falla o está vacía, devolvemos la URL original para que el usuario la abra en el navegador
-  if (!data || data.errno !== 0 || !data.list || data.list.length === 0) {
-    return { directUrl: teraboxUrl, fileName: "Abrir en Terabox.html" };
+  if (!data.ok || !data.list || data.list.length === 0) {
+    throw new Error("Terabox bloqueó la petición o el enlace está roto.");
   }
 
-  // Buscar el primer archivo (no carpeta) que sea epub o pdf
-  let targetFile = data.list.find(f => f.isdir === 0 && f.server_filename.toLowerCase().endsWith(".epub"));
+  // Buscamos el primer EPUB o PDF (soporta que estén en carpetas)
+  let targetFile = data.list.find(f => (f.is_dir === 0 || f.is_dir === "0") && f.server_filename.toLowerCase().endsWith(".epub"));
   if (!targetFile) {
-    targetFile = data.list.find(f => f.isdir === 0 && f.server_filename.toLowerCase().endsWith(".pdf"));
+    targetFile = data.list.find(f => (f.is_dir === 0 || f.is_dir === "0") && f.server_filename.toLowerCase().endsWith(".pdf"));
   }
-
-  // Si no encontramos un archivo directo (ej. es una carpeta), redirigimos a la web
-  if (!targetFile) {
-    return { directUrl: teraboxUrl, fileName: "Abrir en Terabox.html" };
-  }
-
-  // Intentar obtener el enlace de descarga (dlink)
-  const dlinkUrl = `https://www.terabox.com/api/download?app_id=250528&web=1&channel=chunlei&clienttype=0&sign=${data.sign}&timestamp=${data.timestamp}&fs_id=${targetFile.fs_id}`;
   
-  const dlinkResp = await fetch(dlinkUrl, {
-    headers: {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-      "Referer": "https://www.terabox.com/"
-    }
+  if (!targetFile) throw new Error("No hay archivos .epub o .pdf en la carpeta");
+
+  const dlinkResp = await fetch(TERABOX_DL_API, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      sign: data.sign,
+      timestamp: data.timestamp,
+      shareid: data.shareid,
+      uk: data.uk,
+      fs_id: targetFile.fs_id
+    })
   });
 
   const dlinkData = await dlinkResp.json();
-  
-  if (dlinkData.errno === 0 && dlinkData.dlink) {
-    return { directUrl: dlinkData.dlink, fileName: targetFile.server_filename };
-  }
+  if (!dlinkData.ok || !dlinkData.dlink) throw new Error("No se pudo generar el enlace de descarga directo");
 
-  // Si todo falla, devolvemos el enlace de Terabox para que se abra en el navegador
-  return { directUrl: teraboxUrl, fileName: "Abrir en Terabox.html" };
+  return { directUrl: dlinkData.dlink, fileName: targetFile.server_filename };
 }
 
 export default {
@@ -144,29 +118,20 @@ export default {
         try {
           const { directUrl, fileName } = await resolverTerabox(teraboxUrl);
           
-          // Si el archivo es .html (significa que Terabox nos ha bloqueado), hacemos una redirección
-          if (fileName.endsWith(".html")) {
-             return Response.redirect(directUrl, 302);
-          }
-
           const fileResp = await fetch(directUrl, {
-            headers: {
-              "Referer": "https://www.terabox.com/",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-            }
+            headers: { "Referer": "https://www.terabox.com/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" }
           });
 
-          if (!fileResp.ok) return new Response(`Error al descargar archivo: ${fileResp.status}`, { status: 502 });
+          if (!fileResp.ok) return new Response(`Error al descargar desde los servidores de Terabox (${fileResp.status}).`, { status: 502 });
 
-          const isPdf = fileName.toLowerCase().endsWith(".pdf");
           const outHeaders = new Headers();
-          outHeaders.set("Content-Type", isPdf ? "application/pdf" : "application/epub+zip");
+          outHeaders.set("Content-Type", fileName.toLowerCase().endsWith(".pdf") ? "application/pdf" : "application/epub+zip");
           outHeaders.set("Content-Disposition", `attachment; filename*=UTF-8''${encodeURIComponent(fileName)}`);
-          outHeaders.set("Cache-Control", "no-store");
-
+          
           return new Response(fileResp.body, { status: 200, headers: outHeaders });
         } catch (err) {
-          return new Response(`Error en el proxy: ${err.message}`, { status: 502, headers: { "Content-Type": "text/plain; charset=UTF-8" } });
+          // Si falla, devolvemos un error de texto (así Readest no se queda en blanco)
+          return new Response(`Error del servidor: ${err.message}`, { status: 502, headers: { "Content-Type": "text/plain; charset=UTF-8" } });
         }
       }
 
@@ -174,7 +139,7 @@ export default {
         const query = (url.searchParams.get("q") || "").trim().toLowerCase();
         if (!query) return new Response(feed("Buscar", `${url.origin}/search`, [], request.url), { headers: headers() });
         const books = await getBooks();
-        const results = books.filter(book => [book.title, book.author, book.type, book.status, ...(Array.isArray(book.genres) ? book.genres : []), book.summary].filter(Boolean).join(" ").toLowerCase().includes(query));
+        const results = books.filter(book => [book.title, book.author, ...(book.genres || [])].filter(Boolean).join(" ").toLowerCase().includes(query));
         return new Response(feed(`Resultados: ${query}`, `${url.origin}/search?q=${encodeURIComponent(query)}`, results.slice(0, 200), request.url), { headers: headers() });
       }
 
