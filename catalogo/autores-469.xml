@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Shiohon</id>
-<title>Shiohon</title>
-<updated>2026-10-20T22:11:37.844315+00:00</updated>
+<id>nextnovels:autores:Syohgo Kinugasa</id>
+<title>Syohgo Kinugasa</title>
+<updated>2026-10-20T22:30:50.475402+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-469.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>I Started Working a Housekeeping Job and Ended up Being Liked by the Family of the Most Beautiful Girl in School Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-i-started-working-a-housekeeping-job-and-ended-up-being-liked-by-the-family-of-the-most-beautiful-girl-in-school-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-i-started-working-a-housekeeping-job-and-ended-up-being-liked-by-the-family-of-the-most-beautiful-girl-in-school-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/12/When-I-Started-Working-as-a-Part-Time-Housekeeper-I-Ended-Up-Being-Liked-by-the-Family-of-the-Most-Beautiful-Girl-in-the-School-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/12/When-I-Started-Working-as-a-Part-Time-Housekeeper-I-Ended-Up-Being-Liked-by-the-Family-of-the-Most-Beautiful-Girl-in-the-School-Portada.jpg"/>
-<author><name>Shiohon</name></author>
+<title>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e — Year 3 Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-year-3-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-year-3-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/08/Youkoso-Jitsuryoku-Shijou-Shugi-no-Kyoushitsu-e-%E2%80%94-Year-3-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/08/Youkoso-Jitsuryoku-Shijou-Shugi-no-Kyoushitsu-e-%E2%80%94-Year-3-Portada.jpg"/>
+<author><name>Syohgo Kinugasa</name></author>
 <category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
+<category term="Drama" label="Drama"/>
+<category term="Harem" label="Harem"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Psicológico" label="Psicológico"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<content type="text">Mi trabajo de medio tiempo es en casa de la chica más linda de la escuela. ¡Una adorable y torpe comedia romántica sobre un servicio doméstico con la idol inocente del instituto!
+<category term="Seinen" label="Seinen"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Tras el último "examen especial de fin de curso" del segundo año, Horikita y su antigua clase D de primero reciben a los alumnos de tercero de la clase A.Sin embargo, la persona más influyente, Ayakoji Kiyotaka, es trasladada a otra clase.Los alumnos de la clase de Horikita se sumergen en sentimientos de confusión y caos, pero sólo hay un hecho cruel.Horikita y los demás alumnos de la clase A del tercer curso deben vencer a "Ayanokoji Kiyotaka" para poder graduarse en la clase A.
 
-Durante las vacaciones de verano de su segundo año de preparatoria, Haruto Otsuki comienza un trabajo de medio tiempo como asistente doméstico. Su primera asignación resulta ser, para su sorpresa, en la casa de Ayaka Tojo, quien es reconocida como la chica más hermosa de la escuela.
-
-A pesar de la inesperada situación y su desconcierto inicial, Haruto logra cumplir con su trabajo y, poco a poco, se gana la simpatía de la familia de Ayaka, lo que lo lleva a visitar su casa regularmente. Con el tiempo, la relación entre ambos empieza a cambiar: desde alegrarla con sus platillos caseros, salir juntos al supermercado como si fueran recién casados, hasta citas en el cine que recuerdan a una pareja primeriza. Al pasar momentos especiales fuera de la escuela, los dos comienzan a acercarse más.
-
-¡Así comienza una torpe y encantadora comedia romántica entre la chica más inocente y hermosa de la escuela y un chico con talentos ocultos!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-i-started-working-a-housekeeping-job-and-ended-up-being-liked-by-the-family-of-the-most-beautiful-girl-in-school-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Mientras se forman nuevas conexiones entre la creciente clase Ryuen y la clase B, la clase C de Ayakoji y la clase D de Ichinose, ¡se anuncia la primera prueba especial del tercer año, la "Prueba Integral de Habilidad Académica General y Minoritaria"! Sólo una clase se graduará en la Clase A.¿Qué clase se situará en lo más alto? ¡Comienza la tan esperada "Edición del Tercer Curso"!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-year-3-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

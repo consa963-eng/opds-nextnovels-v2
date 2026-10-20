@@ -1,51 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kishimoto Kazuha</id>
-<title>Kishimoto Kazuha</title>
-<updated>2026-10-20T22:11:37.825782+00:00</updated>
+<id>nextnovels:autores:Kuou Haruki</id>
+<title>Kuou Haruki</title>
+<updated>2026-10-20T22:30:50.451962+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-247.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>A Beautiful Model In My Class Comes To The Coffee Shop Where I Work Part-time Only When I’m On Shift Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-a-beautiful-model-in-my-class-comes-to-the-coffee-shop-where-i-work-part-time-only-when-im-on-shift-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-a-beautiful-model-in-my-class-comes-to-the-coffee-shop-where-i-work-part-time-only-when-im-on-shift-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/09/A-Beautiful-Model-In-My-Class-Comes-To-The-Coffee-Shop-Where-I-Work-Part-time-Only-When-Im-On-Shift-Portada-1.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/09/A-Beautiful-Model-In-My-Class-Comes-To-The-Coffee-Shop-Where-I-Work-Part-time-Only-When-Im-On-Shift-Portada-1.jpg"/>
-<author><name>Kishimoto Kazuha</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Después de clase, soy el único que sabe lo que realmente siente mi compañera de clase cuando va a la cafetería.
-
-Una historia de amor que conecta a un chico de instituto amante del café y una modelo guapa y genial.
-
-Shizuku Kamisaka, la guapa modelo que está de moda en todas partes. Genial y serena. Y... mi compañera de clase.
-
-Es popular tanto en la escuela como entre el público en general.
-
-Por su parte, Juntaro, cuya única característica destacable es que trabaja a tiempo parcial en una cafetería después de clase, vive en un mundo completamente diferente.
-
-Eran dos personas que nunca debían haberse cruzado, pero entonces...
-
-"Bienvenida... Espera, ¿Kamisaka?"
-
-"Mi... ¿Mikage-kun?"
-
-Un día, Shizuku irrumpe en la cafetería con lágrimas en los ojos...
-
-Esta es una historia de amor entre un chico de instituto amante del café y la guapa y tranquila modelo de su clase, unidos por una sola taza de café.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-a-beautiful-model-in-my-class-comes-to-the-coffee-shop-where-i-work-part-time-only-when-im-on-shift-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
-</entry>
-<entry>
-<title>Isshou Hataraki Taku nai Ore ga, Classmate no Dainiki Idol ni Natsukaretara Novela Ligera en Español</title>
-<id>https://nextnovels.com/isshou-hataraki-taku-nai-ore-ga-classmate-no-dainiki-idol-ni-natsukaretara-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/isshou-hataraki-taku-nai-ore-ga-classmate-no-dainiki-idol-ni-natsukaretara-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/05/Isshou-Hataraki-Taku-nai-Ore-ga-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/05/Isshou-Hataraki-Taku-nai-Ore-ga-Portada.jpg"/>
-<author><name>Kishimoto Kazuha</name></author>
+<title>Liar Liar Novela Ligera en Español</title>
+<id>https://nextnovels.com/liar-liar-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/liar-liar-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/06/Liar-Liar-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/06/Liar-Liar-Portada.jpg"/>
+<author><name>Kuou Haruki</name></author>
 <category term="Comedia" label="Comedia"/>
+<category term="Harem" label="Harem"/>
+<category term="Psicológico" label="Psicológico"/>
 <category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Shidou Rintaro, un estudiante de preparatoria que aspira a ser amo de casa a tiempo completo, está en la misma clase que Otosaki Rei, miembro del popular grupo de idols "Millefeuille Stars". Rintaro, que no tiene un profundo interés en las idols, acepta esto como un hecho y vive su vida sin ninguna participación en particular. Un día, le llegó un punto de inflexión. Rintaro sin querer ayuda a Otosaki Rei, quien colapsa inesperadamente en la estación más cercana y descubre que tiene demasiada hambre para moverse debido a las rigurosas lecciones. Rintaro no tiene más remedio que servirle una comida casera y decirle que este es el final de su relación. “Pagaré 300.000 yenes al mes y también pagaré la comida para los dos. Así que, por favor, dame comida todos los días”. Rintaro desconfía de una oferta tan tentadora, pero a medida que conoce su corazón sin nubes, el vínculo entre ellos se profundiza gradualmente. Como Rintaro es favorecido por otros miembros de Millefeuille Stars además de Otosaki, y las salva de su situación, se vuelven insustituibles el uno para el otro. ――Esta es la historia de un hombre y una mujer que viven en mundos diferentes, pero que eventualmente se unen.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/isshou-hataraki-taku-nai-ore-ga-classmate-no-dainiki-idol-ni-natsukaretara-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<content type="text">Una isla escolar (academia) donde los estudiantes se baten en duelo (juego) para determinar sus rangos. Yo, Hiroto Shinohara, logré el mejor resultado de todos los tiempos en el examen de traslado de la isla academia más difícil de Japón, derroté al campeón absoluto del año anterior, Sarasa Saionji, en mi primer día en la academia, y me convertí en el «Siete Estrellas» que más rápido ha reinado en la historia de la isla academia. … Ah, por supuesto, todo eso es mentira.
+
+Tengo un gran problema, y para cumplir mi propósito en la isla escolar, tengo que seguir reinando en la cima, aunque sea una mentira. Para ello, utilizaré cualquier cosa, incluso el engaño de Himeji, la hermosa doncella que me asiste como su maestro, y mi complicidad con Saionji, que en realidad era una joven falsa. Entonces empecemos la mentira que ganará el mundo.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/liar-liar-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

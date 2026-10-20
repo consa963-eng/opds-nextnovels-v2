@@ -1,26 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kai Yumizu</id>
-<title>Kai Yumizu</title>
-<updated>2026-10-20T22:11:37.821929+00:00</updated>
+<id>nextnovels:autores:Kaya</id>
+<title>Kaya</title>
+<updated>2026-10-20T22:30:50.447072+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-201.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Oukoku e Tsuzuku Michi Novela Ligera en Español</title>
-<id>https://nextnovels.com/oukoku-e-tsuzuku-michi-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/oukoku-e-tsuzuku-michi-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/04/Oukoku-e-Tsuzuku-Michi-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/04/Oukoku-e-Tsuzuku-Michi-Portada.jpg"/>
-<author><name>Kai Yumizu</name></author>
+<title>Taking My Reincarnation One Step at a Time Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-taking-my-reincarnation-one-step-at-a-time-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-taking-my-reincarnation-one-step-at-a-time-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/09/Taking-My-Reincarnation-One-Step-at-a-Time-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/09/Taking-My-Reincarnation-One-Step-at-a-Time-Portada.jpg"/>
+<author><name>Kaya</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Adulto" label="Adulto"/>
 <category term="Aventura" label="Aventura"/>
-<category term="Drama" label="Drama"/>
+<category term="Comedia" label="Comedia"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<content type="text">Aegil, un hombre nacido y criado en un ambiente horrible, tiene talento para la lucha. Criado como un esclavo gladiador, conoce a Lucy, una hermosa princesa vampiro que vive en lo profundo del bosque, y aprende a sobrevivir en tiempos de guerra. Lucy le ofrece una condición para convertirse en propiedad de Aegil: debe obtener su propio reino. El crecimiento de un hombre, varios dramas y tiempos turbulentos. A veces Aegil peleara, a veces seducirá a una mujer que le gusta, y a veces se levantara en los tiempos de guerra.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/oukoku-e-tsuzuku-michi-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<content type="text">Aunque Sarasa no tenía ninguna enfermedad, se cansaba con facilidad y tendía a descansar. Aun así, consiguió un trabajo y trabajó duro. Pero al final, se desmayó, y acabó en la habitación de la Diosa de un mundo diferente.「Tienes un cuerpo que requiere poder mágico, pero naciste en la tierra que no lo tiene」. Ella se sorprendió por las palabras de la Diosa.「Es un mundo donde mucha gente como tú vino de la tierra. Sólo tienes que estar allí y absorber el poder mágico」. Y fue enviada a la fuerza a un mundo rebosante de poder mágico. Pero en realidad Sarasa, que debía actuar como purificadora del aire, fue dejada caer en un mundo lleno de monstruos fuertes, por lo que no podía poner un pie fuera「Sólo tengo que estar aquí, pero ¿qué es esto.......!?」.
+
+Su lenta vida en un mundo diferente comenzó con sus esfuerzos por salir al exterior.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-taking-my-reincarnation-one-step-at-a-time-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

@@ -1,39 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Rakuda</id>
-<title>Rakuda</title>
-<updated>2026-10-20T22:11:37.838210+00:00</updated>
+<id>nextnovels:autores:Sakaki Ichiro</id>
+<title>Sakaki Ichiro</title>
+<updated>2026-10-20T22:30:50.468155+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-400.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>The Protagonist’s Childhood Friend is Coming On Strong to Me, a Mob Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-protagonists-childhood-friend-is-coming-on-strong-to-me-a-mob-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-protagonists-childhood-friend-is-coming-on-strong-to-me-a-mob-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/01/The-Protagonists-Childhood-Friend-is-Coming-On-Strong-to-Me-a-Mob-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/01/The-Protagonists-Childhood-Friend-is-Coming-On-Strong-to-Me-a-Mob-Portada.jpg"/>
-<author><name>Rakuda</name></author>
-<category term="Comedia" label="Comedia"/>
+<title>On The Way Back From The Hero Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-on-the-way-back-from-the-hero-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-on-the-way-back-from-the-hero-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/11/On-The-Way-Back-From-The-Hero-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/11/On-The-Way-Back-From-The-Hero-Portada.jpg"/>
+<author><name>Sakaki Ichiro</name></author>
+<category term="Aventura" label="Aventura"/>
 <category term="Drama" label="Drama"/>
-<category term="Romance" label="Romance"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Tragedia" label="Tragedia"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Hay un chico en mi instituto que parece un héroe de comedia romántica. Es un tipo común y corriente, pero por alguna razón es popular entre las chicas mas atractivas.
+<category term="Fantasía" label="Fantasía"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<content type="text">El Héroe no sabía nada sobre los compañeros con los que derrotó al Rey Demonio...
 
-Su comedia romantica me mato. Por su culpa me juzgaron por un crimen que no cometi, lo perdi todo y acabe quitandome la vida.
+El Rey Demonio fue derrotado por el Héroe y sus cinco compañeros. Todo lo que quedaba era regresar a la capital, recibir su recompensa y ser aclamados como héroes. Sin embargo...
 
-Pero ocurrio un milagro. De repente, me encontré de nuevo en la mañana de la ceremonia de ingreso a mi primer año de instituto hace dos años.
+—Absurdo. Ambas cosas me dan náuseas.
 
-En esta segunda oportunidad que me fue dada milagrosamente, esta vez definitivamente no caere por culpa dde esa comedia romantica.
+Uno de sus compañeros, el arquero Jared, rechaza la idea y abandona el grupo. Es entonces cuando el Héroe Yuma se da cuenta por primera vez de que no sabía nada sobre aquellos con quienes había arriesgado la vida en su aventura: el sacerdote Graham, la hechicera Rauni, la paladín Leona y la exploradora Bonita...
 
-"Ishii Kazuki, te amo. ¡Casémonos!".
+En el camino de regreso a la capital, terminan compartiendo sus historias personales, pero sus compañeros comienzan a revelar una impactante verdad tras otra...
 
-¿¡Por qué!?
-
-¡Hidaka Mikoto, la amiga de la infancia y la chica de los sueños del protagonista, me lo confesó!
-
-Es la "Emperatriz de Hielo" de la clase, pero por alguna razón últimamente no ha parado de acercarse a mi....
-
-¡Espera! No soy yo, ¿verdad? ¡Tu deberías enamorarte de el!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-protagonists-childhood-friend-is-coming-on-strong-to-me-a-mob-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Una «fantasía de epílogo» que retrata la pérdida y el renacimiento del «Héroe».</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-on-the-way-back-from-the-hero-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

@@ -1,29 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Hinachihoko</id>
-<title>Hinachihoko</title>
-<updated>2026-10-20T22:11:37.817570+00:00</updated>
+<id>nextnovels:autores:Ichirou Sakaki</id>
+<title>Ichirou Sakaki</title>
+<updated>2026-10-20T22:30:50.441365+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-149.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Charlotte wa Tada, Jiken wo Tokitai Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-charlotte-wa-tada-jiken-wo-tokitai-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-charlotte-wa-tada-jiken-wo-tokitai-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/04/Charlotte-wa-Tada-Jiken-wo-Tokitai-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/04/Charlotte-wa-Tada-Jiken-wo-Tokitai-Portada.jpg"/>
-<author><name>Hinachihoko</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Romance" label="Romance"/>
-<content type="text">"Un detective de primera clase resuelve los casos antes de que ocurran". Ese era el eslogan de la gran detective a quien Charlotte admiraba. Tras su muerte, Charlotte asumió casos difíciles como agente para cumplir su voluntad. Sin embargo, aunque es hábil en el combate, todavía no es buena deduciendo...
-
-"Dedúcelo por mí".
-
-Tras conocer a una chica llamada Sharnelia, que tiene el mismo apodo que ella, decide dejar el trabajo intelectual en sus manos.
-
-No hace amistades. Pero unirá fuerzas si es necesario.
-
-Charlotte solo quiere resolver el caso.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-charlotte-wa-tada-jiken-wo-tokitai-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<title>Bluesteel Blasphemer Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-bluesteel-blasphemer-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-bluesteel-blasphemer-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/11/01-33.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/11/01-33.jpg"/>
+<author><name>Ichirou Sakaki</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Fantasía" label="Fantasía"/>
+<content type="text">A Yukinari Amano le encantan las armas. Después de reencarnarse en otro mundo, el joven emprende un viaje con Dasa, la hermana menor de la chica que le dio una segunda vida. Sin embargo, mientras están en el camino, la pareja es atacada por una deidad local, un «erdgod». Ninguna persona normal podría derrotar a uno, entonces cuando Yukinari usa su conocimiento de armas y nuevas habilidades para hacer lo imposible, ¡se le adora como el nuevo dios del área! ¡Prepárate para una aventura de realidad alterna, llena de armas y espadas y por supuesto, llena de acción!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-bluesteel-blasphemer-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

@@ -1,37 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Ryouta Yamaguchi</id>
-<title>Ryouta Yamaguchi</title>
-<updated>2026-10-20T22:11:37.839766+00:00</updated>
+<id>nextnovels:autores:Sasato Goro</id>
+<title>Sasato Goro</title>
+<updated>2026-10-20T22:30:50.469835+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-416.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Dokidoki! Pretty Cure Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-dokidoki-pretty-cure-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-dokidoki-pretty-cure-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/Dokidoki-Pretty-Cure-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/05/Dokidoki-Pretty-Cure-Portada.jpg"/>
-<author><name>Ryouta Yamaguchi</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Comedia" label="Comedia"/>
+<title>Aren’t you Embarrassed to Lose to a Maid? Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-arent-you-embarrassed-to-lose-to-a-maid-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-arent-you-embarrassed-to-lose-to-a-maid-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/Arent-you-Embarrassed-to-Lose-to-a-Maid-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/07/Arent-you-Embarrassed-to-Lose-to-a-Maid-Portada.jpg"/>
+<author><name>Sasato Goro</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Ecchi" label="Ecchi"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Magical Girl" label="Magical Girl"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Shoujo" label="Shoujo"/>
-<content type="text">Ha pasado un año desde la batalla final. Mana, Rikka, Makoto y Alice han recuperado por completo su vida de antes. Regina, que acaba de ingresar en la misma escuela secundaria que Mana y Rikka, sigue dando guerra como siempre, pero los días transcurren tranquilos y alegres junto a Aguri. Hasta que un día aparece de repente el Jikochuu, ese enemigo que creían haber destruido en el combate definitivo… El último verano de secundaria para Mana y las demás se convierte de nuevo en una batalla final.
+<category term="Romance" label="Romance"/>
+<category term="Shoujo Ai" label="Shoujo Ai"/>
+<category term="Yuri" label="Yuri"/>
+<content type="text">La sirvienta de baja cuna Lotte, incapaz de encajar en su entorno laboral debido a la diferencia abismal de estutus entre ella y sus compañeras. La valiente y audaz Alicia, una dama noble admirada por todos como la Gran Princesa Caballero del reino. Este par, ama y sirvienta guarda un indevido secret.
 
-¡El corazón te late cada vez más fuerte y no hay quien lo pare!
+Alicia acostumbra llamar a Lotte a su recamara y le da ordenes indecorosas
 
-【Punto destacado 1】
+「¿Podrias someterme? 」
 
-La novela arranca en el «episodio 50». Es decir, está concebida como la continuación directa del episodio 49, el último del anime. El volumen especial que todos esperaban: qué fue de las integrantes de Doki Doki! Pretty Cure, los misterios sin resolver… Todo queda al descubierto.
+「¡¿Eeeh?! ¿Yo, hacer eso con Lady Alicia? 」
 
-【Punto destacado 2】
+Un deseo de sumision que nadie podria esperar en su comportamiento diario, puro e intachable.
 
-La narradora es Rikka Hishikawa, Cure Diamond. Ver las caras más auténticas de las Doki Doki desde la mirada de Rikka es fresco y divertido. Hay además momentos que tocan la fibra al mostrar los sentimientos secretos de Rikka.
+Lotte, mientras se repite a si misma sin cesar que solo es parte de su trabajo como sirienta, acepta obedecer esas perversas ordenes, pero desde el primer dia queella se lo popuso, el corazon de Lotte no paro de latir de la emocion.
 
-【Punto destacado 3】
-
-Aparece una Pretty Cure original, exclusiva de esta novela. ¿Cuál es su verdadera identidad? ¿Y su frase de presentación? Solo quien lea la novela podrá vivirlo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-dokidoki-pretty-cure-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+A medida que aumentan sus enchutaros secretos y los momentos que la intachable caballero le arrebata durante el trabajo para ser, atentendida, ambas caen en una atraccion mutua y autodependiente.... Una historia de amor y sumision entre una sirvienta y una princesa caballero que no puede contenerse de dar ordenes atrevidas.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-arent-you-embarrassed-to-lose-to-a-maid-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

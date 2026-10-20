@@ -1,32 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Watanabe Tsunehiko</id>
-<title>Watanabe Tsunehiko</title>
-<updated>2026-10-20T22:11:37.851392+00:00</updated>
+<id>nextnovels:autores:Yuuji Yuuji</id>
+<title>Yuuji Yuuji</title>
+<updated>2026-10-20T22:30:50.484972+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-559.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Risou no Himo Seikatsu Novela Ligera en Español</title>
-<id>https://nextnovels.com/risou-no-himo-seikatsu-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/risou-no-himo-seikatsu-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/02/Risou-no-Himo-Seikatsu-Portada-e1645226193266.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/02/Risou-no-Himo-Seikatsu-Portada-e1645226193266.jpg"/>
-<author><name>Watanabe Tsunehiko</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
+<title>Ore no Kanojo to Osananajimi ga Shuraba Sugiru Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-ore-no-kanojo-to-osananajimi-ga-shuraba-sugiru-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-ore-no-kanojo-to-osananajimi-ga-shuraba-sugiru-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/04/OreShura-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/04/OreShura-Portada.jpg"/>
+<author><name>Yuuji Yuuji</name></author>
 <category term="Comedia" label="Comedia"/>
 <category term="Ecchi" label="Ecchi"/>
-<category term="Fantasía" label="Fantasía"/>
 <category term="Harem" label="Harem"/>
-<category term="Seinen" label="Seinen"/>
-<content type="text">Yamai Zenjirou es un oficinista cualquiera del Japón moderno. Una mañana, se encuentra con que ha sido convocado a un mundo tropical en el que los dinosaurios vagan por la tierra.
-
-Le dicen que es el reino de Capua y que la persona que le ha convocado -su monarca, la reina Aura- quiere que se case con ella y que deje atrás su antigua vida para llevar una vida de despreocupada extravagancia como su príncipe consorte.
-
-Las razones de su oferta son muchas y variadas, pero ella necesita un heredero, ¡y quiere que sea él quien se lo proporcione! Si acepta, no tendrá que trabajar nunca más, y podrá holgazanear en el lujo sin más preocupaciones que las de asegurar al reino su próximo monarca.
-
-Ciertamente, acostarse con la exuberante belleza no es una dificultad, pero ¿En realidad es todo? También tendrá que renunciar a todo lo que conoce en la Tierra.
-
-¿Está dispuesto a dejarlo todo de un momento a otro por ella? ¿Y qué tan bien podrá navegar por la política, la gente y la cultura de este nuevo mundo si lo hace?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/risou-no-himo-seikatsu-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Eita Kidō entra en el instituto con el objetivo de graduarse con unas notas lo suficientemente altas como para poder conseguir una beca para estudiar medicina. Con este objetivo en mente y el hecho de que sus padres se divorciaron, encontraron otras amantes y lo dejaron al cuidado de un familiar, rehúye todo lo que tenga que ver con el romance o el amor. Un día, la belleza de la escuela, Masuzu Natsukawa, le invita a caminar con ella a casa, pero él se niega. Después de varios días, cede y vuelve a casa con ella. Resulta que Masuzu está cansada de ser el centro de atención y de recibir confesiones casi a diario, así que sugiere que ella y Eita se conviertan en una falsa pareja. Aunque Eita intenta negarse, Masuzu le chantajea para que se convierta en su novio sólo de nombre. La noticia de la nueva pareja se extiende rápidamente por toda la escuela y la amiga de la infancia de Eita, Chiwa Harusaki, a quien le gusta, empieza a competir con Masuzu por el afecto de Eita.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-ore-no-kanojo-to-osananajimi-ga-shuraba-sugiru-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

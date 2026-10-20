@@ -1,31 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:TNK</id>
-<title>TNK</title>
-<updated>2026-10-20T22:11:37.848969+00:00</updated>
+<id>nextnovels:autores:Wataru Watari</id>
+<title>Wataru Watari</title>
+<updated>2026-10-20T22:30:50.481738+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-529.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>I Have a Secret Too Novela Web en Español</title>
-<id>https://nextnovels.com/descargar-i-have-a-secret-too-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-i-have-a-secret-too-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/04/Default-Portada.png"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/04/Default-Portada.png"/>
-<author><name>TNK</name></author>
+<title>Yahari Ore no Seishun Rabukome wa Machigatte Iru / Oregairu Shin Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-yahari-ore-no-seishun-rabukome-wa-machigatte-iru-oregairu-shin-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-yahari-ore-no-seishun-rabukome-wa-machigatte-iru-oregairu-shin-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/09/01-13.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/09/01-13.jpg"/>
+<author><name>Wataru Watari</name></author>
 <category term="Comedia" label="Comedia"/>
 <category term="Drama" label="Drama"/>
-<category term="NTR" label="NTR"/>
+<category term="Harem" label="Harem"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Hayato es un chico promedio, normal en todos los sentidos, tal vez demasiado normal. Y como casi todos los chicos a los 17 años, está enamorado de la chica de sus sueños, Kaede.
+<content type="text">Secuela directa de la serie original, incluida en los volúmenes de edición limitada en DVD/BD de la serie Yahari Ore no Seishun Love Comedy wa Machigatteiru.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-yahari-ore-no-seishun-rabukome-wa-machigatte-iru-oregairu-shin-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+<entry>
+<title>Yahari Ore no Seishun Rabukome wa Machigatte Iru / Oregairu: Yui's Story Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-yahari-ore-no-seishun-rabukome-wa-machigatte-iru-oregairu-yuis-story-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-yahari-ore-no-seishun-rabukome-wa-machigatte-iru-oregairu-yuis-story-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/07/Oregairu-Yuis-Story-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/07/Oregairu-Yuis-Story-Portada.jpg"/>
+<author><name>Wataru Watari</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">La historia se desarrolla en torno a un solitario estudiante de Preparatoria llamado Hachiman Hikigaya, quien tiene una cínica visión de la vida.
 
-Pero, a diferencia de la mayoría de los chicos, él no ha sido tímido y abiertamente le ha confesado varias veces sus sentimientos.
+Cuando ve a sus compañeros de clase hablando alegremente de sus vidas adolescentes, él murmura que son todos unos mentirosos. Cuando le preguntan por sus sueños para el futuro, su respuesta es: “no trabajar”.
 
-Kaede por su parte, nunca le ha dicho que sí, pero tampoco le ha dicho que no. Ella aún no está lista para una relación, así que siempre le pide tiempo para cuando se sienta preparada. De esa forma mantiene a Hayato cerca de ella para algún día formalizar su relación.
+Para ayudarlo a encajar con la sociedad, su profesora Shizuka Hiratsuka lo obliga a unirse al “Club de servicio escolar”, en el que resulta que también está apuntada una chica hermosa y popular llamada Yukino Yukinoshita, quien es tan solitaria como Hachiman.
 
-Pero eso es solo una farsa, lo que Kaede realmente quiere es poder divertirse con otros chicos en secreto hasta estar satisfecha y algún día, cuando haya disfrutado su juventud, aceptar a Hayato, ya que dice estar realmente enamorada de él.
-
-Pero… Hayato también tiene un secreto…</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-i-have-a-secret-too-novela-web-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Ambos ofrecerán su ayuda y asesoramiento a quien lo solicite, como parte del trabajo del Club de servicio voluntario, conociendo así a personas como Yui Yuigahama, que termina por unirse al Club. Mientras más pasa el tiempo y más problemas enfrentan, los miembros del Club se verán envueltos en situaciones donde tendrán que dar una respuesta no solo a los problemas de los demás, sino a sus propios problemas y sus propios sentimientos, no solo personales, sino también entre ellos.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-yahari-ore-no-seishun-rabukome-wa-machigatte-iru-oregairu-yuis-story-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

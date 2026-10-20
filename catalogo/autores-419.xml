@@ -1,82 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Ryuto</id>
-<title>Ryuto</title>
-<updated>2026-10-20T22:11:37.839989+00:00</updated>
+<id>nextnovels:autores:Satou</id>
+<title>Satou</title>
+<updated>2026-10-20T22:30:50.470189+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-419.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>29-sai Dokushin wa Isekai de Jiyuu ni Ikita……katta Novela Ligera en Español</title>
-<id>https://nextnovels.com/29-sai-dokushin-wa-isekai-de-jiyuu-ni-ikitakatta-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/29-sai-dokushin-wa-isekai-de-jiyuu-ni-ikitakatta-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/07/29-sai-Dokushin-wa-Isekai-de-Jiyuu-ni-Ikita%E2%80%A6%E2%80%A6katta-Portada.jpeg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/07/29-sai-Dokushin-wa-Isekai-de-Jiyuu-ni-Ikita%E2%80%A6%E2%80%A6katta-Portada.jpeg"/>
-<author><name>Ryuto</name></author>
+<title>The Path of an S-Rank Adventurer Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-path-of-an-s-rank-adventurer-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-path-of-an-s-rank-adventurer-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/The-Path-of-an-S-Rank-Adventurer-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/10/The-Path-of-an-S-Rank-Adventurer-Portada.jpg"/>
+<author><name>Satou</name></author>
 <category term="Acción" label="Acción"/>
 <category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Ecchi" label="Ecchi"/>
 <category term="Fantasía" label="Fantasía"/>
 <category term="Harem" label="Harem"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<content type="text">Desde el primer día me vi obligado a casarme con una chica, en el décimo día más o menos, el país comienza a mirarme fijamente y mi vida no irá bien.
+<content type="text">En un mundo donde el 40 % de la humanidad despierta con habilidades únicas.
 
-Seguiré viviendo sin perderme en tales dificultades (?)</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/29-sai-dokushin-wa-isekai-de-jiyuu-ni-ikitakatta-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
-</entry>
-<entry>
-<title>Reborn as a Space Mercenary Novela Ligera en Español</title>
-<id>https://nextnovels.com/reborn-as-a-space-mercenary-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/reborn-as-a-space-mercenary-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/02/Reborn-as-a-Space-Mercenary-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/02/Reborn-as-a-Space-Mercenary-Portada.jpg"/>
-<author><name>Ryuto</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Mecha" label="Mecha"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<content type="text">Cuando me desperté, me encontré dentro de una nave espacial.
+Las bestias mágicas y las mazmorras están por todas partes, lo que convierte a la profesión de aventurero en uno de los caminos más lucrativos. Sasha, la líder del equipo Sacred, estaba a punto de ser ascendida a aventurera de rango S. Ese mismo día, también se confirmó que otra persona había alcanzado el rango S: un chico llamado Hyse.
 
-Supongo que pensáis que estoy diciendo tonterías, pero tampoco tengo ni idea de lo que me pasó exactamente.
+Hyse fue miembro de Sacred, un aventurero de rango F que fue expulsado del equipo por Sasha. Hyse, quien poseía una habilidad inusual, luchaba por comprender su naturaleza. Incomprendido y abandonado por su amiga de la infancia, Sasha, fue expulsado del equipo con el pretexto de que «Hyse no podía seguir el ritmo».
 
-Estuve a punto de perder la cabeza, pero afortunadamente me di cuenta de que este lugar era muy parecido al mundo que aparecía en un juego al que estaba jugando recientemente.
+La verdadera razón detrás de su expulsión era el deseo de Sasha de protegerlo: no quería que Hyse muriera durante una aventura. Sin embargo, Hyse se negó a rendirse. Incluso solo, trabajó incansablemente para continuar su camino como aventurero.
 
-¿Estoy soñando? No, no es un sueño. ¿Tal vez me enviaron a un mundo diferente o algo así?
+Un día, Sasha engañó a Hyse para que se adentrara en un bosque habitado por un dragón, donde estuvo a punto de morir. Traicionado por la confianza que había depositado en Sasha, Hyse juró no volver a creer en ella jamás y se propuso volverse más fuerte como aventurero solitario. A los 16 años, tanto Hyse como Sasha fueron reconocidos como aventureros de rango S. Hyse buscaba convertirse en el aventurero más fuerte en solitario, mientras que Sasha aspiraba a ser la mejor junto a sus compañeros.
 
-¿Pero esas cosas no suelen implicar que te envíen a un mundo mágico con elfos, enanos, dragones y demás?
-
-En cualquier caso, no sé qué ha provocado esto, pero supongo que tendré que aguantarme y vivir bien en este mundo a partir de ahora.
-
-Todo irá bien. Tengo mi fiel nave espacial, así que probablemente pueda ganar algo de dinero. ¡Funcionará! Tiene que hacerlo.
-
-Esta es la historia de un hombre lanzado abruptamente al espacio junto con su nave espacial privada. Corre con ella y salva a damiselas en apuros por el camino, coquetea con dichas damiselas, gana dinero como mercader a sueldo y utiliza sus conocimientos de juego para abrirse camino y vivir libre y fácilmente.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/reborn-as-a-space-mercenary-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
-</entry>
-<entry>
-<title>Survival in Another World with My Mistress! Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-survival-in-another-world-with-my-mistress-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-survival-in-another-world-with-my-mistress-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/05/Goshujin-sama-to-Yuku-Isekai-Survival-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/05/Goshujin-sama-to-Yuku-Isekai-Survival-Portada.jpg"/>
-<author><name>Ryuto</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Seinen" label="Seinen"/>
-<content type="text">Cuando Kousuke se ve transportado a un nuevo mundo, tiene que aprender a sobrevivir tanto en un desierto sin caminos como en un bosque oscuro. Afortunadamente, su conocimiento de los juegos es útil. ¡Tiene todas las habilidades de creación que siempre quiso y un inventario infinitamente grande para llenar con botines y armas! Aún más afortunado, conoce a una sexy princesa elfa que... ¡¿le pone un collar de esclavo alrededor del cuello y lo pone a trabajar para salvar el mundo y satisfacer todos sus caprichos?!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-survival-in-another-world-with-my-mistress-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Esta es la historia de dos amigos de la infancia que alguna vez recorrieron el mismo camino, pero que se separaron para emprender trayectorias distintas, caminos que tal vez algún día vuelvan a cruzarse.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-path-of-an-s-rank-adventurer-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

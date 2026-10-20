@@ -1,30 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Akaneya Matsuri</id>
-<title>Akaneya Matsuri</title>
-<updated>2026-10-20T22:11:37.806600+00:00</updated>
+<id>nextnovels:autores:Akashi Rokurou</id>
+<title>Akashi Rokurou</title>
+<updated>2026-10-20T22:30:50.427909+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-14.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Alice Reloaded Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-alice-reloaded-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-alice-reloaded-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/Alice-Reloaded-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/09/Alice-Reloaded-Portada.jpg"/>
-<author><name>Akaneya Matsuri</name></author>
+<title>Jimi na Kensei wa Soredemo Saikyou desu Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-jimi-na-kensei-wa-soredemo-saikyou-desu-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-jimi-na-kensei-wa-soredemo-saikyou-desu-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-84.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-84.jpg"/>
+<author><name>Akashi Rokurou</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
+<category term="Artes marciales" label="Artes marciales"/>
 <category term="Fantasía" label="Fantasía"/>
-<content type="text">«...Con quien me encontré... fue con el mejor revólver.» Tras decir eso, Alice murió.
+<category term="Harem" label="Harem"/>
+<content type="text">Un estudiante japonés llamado Shirokuro Sansui murió por un error de Dios y fue teletransportado a un mundo diferente.
 
-Mi nombre es Sr. Magnum: una pistola mágica creada por una gran bruja. Cuando la calamidad provocada por la peor de todas las brujas, Zodd, me arrebata a mi compañera, recupero la conciencia en el pasado.
+Afirmó que deseaba convertirse en "el más fuerte", por lo que recibió de Dios una carta de recomendación para un sabio y recibió 500 años de entrenamiento.
 
-En Smoky &amp; Rocks, un yermo dominado por cactus y polvo, encuentro a la versión adolescente de Alice. Pero hay algo distinto en ella.
+Cuando llegó a una etapa en la que podía ser llamado "el más fuerte" en el estándar de la gente común, recogió a un bebé cerca de sus terrenos de entrenamiento, y allí, finalmente comienza su aventura isekai.
 
-«Jeje. Sr. Magnum, eres increíble.»
+Su entrenamiento es sencillo, sus técnicas son sencillas, es "el más fuerte" pero parece sencillo.
 
-—Es tonta. ¡Es tonta! La joven que algún día será conocida como 《Lightning Wild》 no es más que una chica traviesa y cabeza hueca... Vaya.
-
-Aun así, me levanto. Para no repetir la tragedia de antaño, para abrir un nuevo futuro.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-alice-reloaded-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Con una espada de madera ordinaria en la mano, la lucha del Santo de la Espada de aspecto sencillo acaba de comenzar.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-jimi-na-kensei-wa-soredemo-saikyou-desu-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

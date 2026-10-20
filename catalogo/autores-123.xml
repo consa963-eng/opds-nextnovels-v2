@@ -1,24 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Hajime Kamoshida</id>
-<title>Hajime Kamoshida</title>
-<updated>2026-10-20T22:11:37.815515+00:00</updated>
+<id>nextnovels:autores:Hinachihoko</id>
+<title>Hinachihoko</title>
+<updated>2026-10-20T22:30:50.438627+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-123.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Just Because! Novela en Español</title>
-<id>https://nextnovels.com/descargar-just-because-novela-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-just-because-novela-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/Just-Because-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/03/Just-Because-Portada.jpg"/>
-<author><name>Hajime Kamoshida</name></author>
+<title>Charlotte wa Tada, Jiken wo Tokitai Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-charlotte-wa-tada-jiken-wo-tokitai-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-charlotte-wa-tada-jiken-wo-tokitai-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/04/Charlotte-wa-Tada-Jiken-wo-Tokitai-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/04/Charlotte-wa-Tada-Jiken-wo-Tokitai-Portada.jpg"/>
+<author><name>Hinachihoko</name></author>
+<category term="Comedia" label="Comedia"/>
 <category term="Drama" label="Drama"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Misterio" label="Misterio"/>
 <category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Solo quedan tres meses de instituto. Mientras sentimientos inconfesables, exámenes, la búsqueda de empleo y las preocupaciones sobre el futuro los sumergen en un pantano turbio, una tenue luz comienza a brillar en la oscuridad.
+<content type="text">"Un detective de primera clase resuelve los casos antes de que ocurran". Ese era el eslogan de la gran detective a quien Charlotte admiraba. Tras su muerte, Charlotte asumió casos difíciles como agente para cumplir su voluntad. Sin embargo, aunque es hábil en el combate, todavía no es buena deduciendo...
 
-Es el invierno del tercer año de instituto, lo que significa que la vida escolar está a punto de quedar atrás. Todos pensaban que simplemente se graduarían y seguirían adelante, porque eso es lo que se supone que debe pasar. Pero entonces, él regresa. Un compañero de clase que se mudó en la secundaria. El regreso del estudiante transferido reaviva sentimientos que casi se habían asfixiado bajo el yugo abrumador del«solo porque sí»</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-just-because-novela-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+"Dedúcelo por mí".
+
+Tras conocer a una chica llamada Sharnelia, que tiene el mismo apodo que ella, decide dejar el trabajo intelectual en sus manos.
+
+No hace amistades. Pero unirá fuerzas si es necesario.
+
+Charlotte solo quiere resolver el caso.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-charlotte-wa-tada-jiken-wo-tokitai-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

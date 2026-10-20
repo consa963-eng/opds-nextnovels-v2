@@ -1,30 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Masterless Sword</id>
-<title>Masterless Sword</title>
-<updated>2026-10-20T22:11:37.830220+00:00</updated>
+<id>nextnovels:autores:Mitizou</id>
+<title>Mitizou</title>
+<updated>2026-10-20T22:30:50.457890+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-303.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Kingdom’s Bloodline Novela Web en Español</title>
-<id>https://nextnovels.com/descargar-kingdoms-bloodline-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-kingdoms-bloodline-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/09/Kingdoms-Bloodline-Portada.jpeg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/09/Kingdoms-Bloodline-Portada.jpeg"/>
-<author><name>Masterless Sword</name></author>
-<category term="Acción" label="Acción"/>
+<title>The Prince of the Otaku Club in a Chastity-Reversed World Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-prince-of-the-otaku-club-in-a-chastity-reversed-world-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-prince-of-the-otaku-club-in-a-chastity-reversed-world-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/The-Prince-of-the-Otaku-Club-in-a-Chastity-Reversed-World-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/10/The-Prince-of-the-Otaku-Club-in-a-Chastity-Reversed-World-Portada.jpg"/>
+<author><name>Mitizou</name></author>
+<category term="Comedia" label="Comedia"/>
 <category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Psicológico" label="Psicológico"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Harem" label="Harem"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<content type="text">Un humilde niño mendigo, un noble príncipe, un monstruo considerado el enemigo de todo el mundo. Si tuvieras las tres identidades al mismo tiempo, ¿cuál elegirías para ayudarte a conseguir un final mejor?
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Disfrutemos de nuestra juventud llena de deseos entre nosotras y este chico.
 
-Thales no tenía la respuesta.
-
-Solo sabía que había llegado a un mundo diferente y magnífico, y que tenía que enfrentarse a un futuro tan difícil de manejar como una pesadilla.
-
-El glorioso Imperio llevaba mil años destruido, la moribunda familia real sufría muchos problemas, la legendaria batalla sagrada estaba llena de conspiraciones y el mundo dividido se encontraba sumido en el caos.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-kingdoms-bloodline-novela-web-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+En un mundo lleno de mujeres carnívoras con una proporción de un hombre por cada veinte mujeres, nosotras las otakus no somos populares ni podemos conseguir novio. En el nuevo semestre, un chico otaku se unió al club que fundamos, la «Sociedad de Investigación de la Cultura Moderna». No hay forma de que no nos enamoremos de un hombre así.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-prince-of-the-otaku-club-in-a-chastity-reversed-world-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

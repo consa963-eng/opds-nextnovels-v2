@@ -1,31 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Yamasuyama</id>
-<title>Yamasuyama</title>
-<updated>2026-10-20T22:11:37.852588+00:00</updated>
+<id>nextnovels:autores:枩葉松</id>
+<title>枩葉松</title>
+<updated>2026-10-20T22:30:50.486542+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-574.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>The Losing Heroines are Setting Up Romance Flags For Me Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-losing-heroines-are-setting-up-romance-flags-for-me-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-losing-heroines-are-setting-up-romance-flags-for-me-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/The-Losing-Heroines-are-Setting-Up-Romance-Flags-For-Me-Portada-1.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/09/The-Losing-Heroines-are-Setting-Up-Romance-Flags-For-Me-Portada-1.jpg"/>
-<author><name>Yamasuyama</name></author>
+<title>The Gal Next Door Tries Too Hard To Win My Heart Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-gal-next-door-tries-too-hard-to-win-my-heart-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-gal-next-door-tries-too-hard-to-win-my-heart-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/The-Gal-Next-Door-Tries-Too-Hard-To-Win-My-Heart-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/08/The-Gal-Next-Door-Tries-Too-Hard-To-Win-My-Heart-Portada.jpg"/>
+<author><name>枩葉松</name></author>
 <category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">—¡Las heroínas perdedoras deben sufrir un final sumamente trágico! —ese es el eslogan del mundo del juego de romance en el que Takumi Sawaraguchi reencarnó como un personaje de fondo (mob).
+<content type="text">Al crecer en una familia numerosa sin privacidad alguna, a mí, Saeki Mashiro, finalmente me permitieron vivir solo cuando entré en el instituto. Solo hay una condición: «¡Nada de relaciones indecentes con chicas!». Pero entonces...
 
-Un día, por casualidad, presenció a una de las heroínas, Haruka Momochi, mostrando un comportamiento yandere y frotando apasionadamente sus mejillas contra el escritorio del protagonista.
+“¡Saekiii~ te quiero! ¿Puedo darte un gran abrazo?”
 
-Sin darse cuenta, Takumi comenzó a darle consejos a Haruka, quien constantemente desataba banderas de un final malo. Sin embargo, su amabilidad resultó contraproducente y le puso fin a su pacífica vida como personaje de fondo. ¡¿Termina involucrándose con las heroínas una por una?!
+“Te voy a aplastar con mis t3t@s, ¿okay?”
 
-"Haruka, que los quema a todos hasta la muerte", "Akira, que los obliga a cometer un suicidio doble" y "Saori, que causa la extinción de la humanidad".
+Esa es Amagi Arisa, la coqueta gal de al lado que también va a mi preparatoria. Por alguna razón, se ha enamorado perdidamente de mí y, antes de que me dé cuenta, está todo el tiempo en mi apartamento, abrazándome cada vez que puede y soltando frases descaradas como si nada.
 
-Para evitar los horribles Bad Endings que ocurrirían con un solo paso en falso, Takumi sigue aconsejando a estas heroínas tan excéntricas.
+De verdad que no creo que pueda aguantar mucho más... ¡y sin embargo sus provocaciones no hacen más que aumentar!
 
-Sin embargo, por alguna razón, ¡las flechas de su amor apuntan hacia Takumi y no al protagonista! ¡¿Siguen apareciendo señales de una historia de amor increíblemente dulce?!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-losing-heroines-are-setting-up-romance-flags-for-me-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+¡Una comedia romántica dulce, ligeramente traviesa y exagerada sobre una gal atrevida que está 100 % decidida a hacerme suyo!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-gal-next-door-tries-too-hard-to-win-my-heart-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

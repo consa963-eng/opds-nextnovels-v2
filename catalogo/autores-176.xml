@@ -1,52 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Inukai Anzu</id>
-<title>Inukai Anzu</title>
-<updated>2026-10-20T22:11:37.819808+00:00</updated>
+<id>nextnovels:autores:Kaidou Sakon</id>
+<title>Kaidou Sakon</title>
+<updated>2026-10-20T22:30:50.444395+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-176.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>A Story About Forcing All My First Experiences Onto My Classmate Who Loves Me Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-a-story-about-forcing-all-my-first-experiences-onto-my-classmate-who-loves-me-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-a-story-about-forcing-all-my-first-experiences-onto-my-classmate-who-loves-me-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/A-Story-About-Forcing-All-My-First-Experiences-Onto-My-Classmate-Who-Loves-Me-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/09/A-Story-About-Forcing-All-My-First-Experiences-Onto-My-Classmate-Who-Loves-Me-Portada.jpg"/>
-<author><name>Inukai Anzu</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Romance" label="Romance"/>
-<category term="Shoujo" label="Shoujo"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<category term="Yuri" label="Yuri"/>
-<content type="text">Una historia de un amor inocente y erótica entre una gal con baja autoestima y una chica popular de instituto que comienza con una intención.
-
-"Quiero deshacerme de mis primeras veces y convertirme en alguien que no se lastima". Haru, una estudiante de instituto que desea esto, un día recibe una confesión de Hinaka Nakamachi, la chica popular de su clase. Pensando que sería conveniente tenerla como práctica para su primera experiencia romántica, Haru decide salir con ella, y... ¿qué pasará después?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-a-story-about-forcing-all-my-first-experiences-onto-my-classmate-who-loves-me-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
-</entry>
-<entry>
-<title>The Princess of Our Class is My Puppy Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-princess-of-our-class-is-my-puppy-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-princess-of-our-class-is-my-puppy-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/The-Princess-of-Our-Class-is-My-Puppy-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/08/The-Princess-of-Our-Class-is-My-Puppy-Portada.jpg"/>
-<author><name>Inukai Anzu</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Shoujo Ai" label="Shoujo Ai"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<category term="Yuri" label="Yuri"/>
-<content type="text">Yo, Nabana Kurumi, y mi compañera de clase, Sorahashi Sera, ni siquiera éramos amigas, y casi nunca nos hablábamos en clase. Comparada con ella, a quien a menudo se decía que era la chica más linda de toda la escuela, yo, tan insignificante, ocupaba una posición completamente distinta en la escala social.
-
-A pesar de todo, yo estaba…
-
-En ese momento, estaba a punto de ponerle un collar.
-
-(…De acuerdo. Lo pongo ahora.)
-
-Le acaricié suavemente el cabello, apartando sus mechones dorados para que cayeran sobre su hombro. Luego, le coloqué el collar rosa claro alrededor de su pálido cuello.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-princess-of-our-class-is-my-puppy-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<title>Infinite Dendrogram Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-infinite-dendrogram-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-infinite-dendrogram-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-63.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-63.jpg"/>
+<author><name>Kaidou Sakon</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">En el año 2043, salió a la venta Infinite Dendrogram, el primer VRMMO de inmersión completa exitosa del mundo. Además de su capacidad para simular a la perfección los cinco sentidos, junto con sus muchas otras increíbles características, el juego prometía ofrecer a los jugadores un mundo lleno de infinitas posibilidades. Casi dos años más tarde, Reiji Mukudori, un estudiante de primer año de universidad, pudo por fin comprar una copia del juego y empezar a jugar. Con la ayuda de su experimentado hermano mayor, Shu, y su compañero Embryo, Reiji se embarca en una aventura en el mundo de Infinite Dendrogram. ¿Qué descubrirá y encontrará en este mundo de juego conocido por su increíble realismo e infinitas posibilidades?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-infinite-dendrogram-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

@@ -1,36 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Osada Hiro</id>
-<title>Osada Hiro</title>
-<updated>2026-10-20T22:11:37.837393+00:00</updated>
+<id>nextnovels:autores:Ryouta Yamaguchi</id>
+<title>Ryouta Yamaguchi</title>
+<updated>2026-10-20T22:30:50.466990+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-389.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>My Childhood Friend Thought I Was Dead, and Now Her Love Is Way Too Heavy Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-my-childhood-friend-thought-i-was-dead-and-now-her-love-is-way-too-heavy-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-my-childhood-friend-thought-i-was-dead-and-now-her-love-is-way-too-heavy-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/My-Childhood-Friend-Thought-I-Was-Dead-and-Now-Her-Love-Is-Way-Too-Heavy-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/05/My-Childhood-Friend-Thought-I-Was-Dead-and-Now-Her-Love-Is-Way-Too-Heavy-Portada.jpg"/>
-<author><name>Osada Hiro</name></author>
+<title>Dokidoki! Pretty Cure Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-dokidoki-pretty-cure-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-dokidoki-pretty-cure-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/Dokidoki-Pretty-Cure-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/05/Dokidoki-Pretty-Cure-Portada.jpg"/>
+<author><name>Ryouta Yamaguchi</name></author>
+<category term="Acción" label="Acción"/>
 <category term="Comedia" label="Comedia"/>
-<category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">"Ya no voy a soltarte. Será para siempreeeeeeeee."
+<category term="Fantasía" label="Fantasía"/>
+<category term="Magical Girl" label="Magical Girl"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Shoujo" label="Shoujo"/>
+<content type="text">Ha pasado un año desde la batalla final. Mana, Rikka, Makoto y Alice han recuperado por completo su vida de antes. Regina, que acaba de ingresar en la misma escuela secundaria que Mana y Rikka, sigue dando guerra como siempre, pero los días transcurren tranquilos y alegres junto a Aguri. Hasta que un día aparece de repente el Jikochuu, ese enemigo que creían haber destruido en el combate definitivo… El último verano de secundaria para Mana y las demás se convierte de nuevo en una batalla final.
 
-¡Una comedia romántica escolar intensa y llena de malentendidos que comienza con el reencuentro con una amiga de la infancia que había estado equivocada todo este tiempo!
+¡El corazón te late cada vez más fuerte y no hay quien lo pare!
 
-"No eres un fantasma ¿Verdad...? De verdad estás vivo. Se-kun estás vivo.”
+【Punto destacado 1】
 
-Apenas empezaba la preparatoria, cuando la chica más popular de la escuela, Hinata Hiiragi, se me lanzó encima y me abrazó.
+La novela arranca en el «episodio 50». Es decir, está concebida como la continuación directa del episodio 49, el último del anime. El volumen especial que todos esperaban: qué fue de las integrantes de Doki Doki! Pretty Cure, los misterios sin resolver… Todo queda al descubierto.
 
-¿Por qué? ¿Cómo pasó esto? Yo solo quería una vida escolar tranquila, pero en un instante terminé atrayendo la atención de todos a mi alrededor.
+【Punto destacado 2】
 
-Al parecer, Hiiragi-san era mi amiga de la infancia, de la que me separé en primaria, y había estado convencida de que yo había mu3rt0.
+La narradora es Rikka Hishikawa, Cure Diamond. Ver las caras más auténticas de las Doki Doki desde la mirada de Rikka es fresco y divertido. Hay además momentos que tocan la fibra al mostrar los sentimientos secretos de Rikka.
 
-¿Quizá como reacción a eso, su amor hacia mí se había vuelto más pesado e 1nt3nso que antes...?
+【Punto destacado 3】
 
-"Con que solo te tenga, Se-kun, eso es suficiente para mí."
-
-¡Una comedia romántica escolar 1nt3nsa y llena de malentendidos que comienza con el reencuentro con una amiga de la infancia que había estado equivocada todo este tiempo!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-my-childhood-friend-thought-i-was-dead-and-now-her-love-is-way-too-heavy-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Aparece una Pretty Cure original, exclusiva de esta novela. ¿Cuál es su verdadera identidad? ¿Y su frase de presentación? Solo quien lea la novela podrá vivirlo.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-dokidoki-pretty-cure-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

@@ -1,31 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kazemaru</id>
-<title>Kazemaru</title>
-<updated>2026-10-20T22:11:37.824240+00:00</updated>
+<id>nextnovels:autores:Koidanuki</id>
+<title>Koidanuki</title>
+<updated>2026-10-20T22:30:50.449892+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-228.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>It’s Your Fault I’ve Been Ruined as an Elite Novela Web en Español</title>
-<id>https://nextnovels.com/descargar-its-your-fault-ive-been-ruined-as-an-elite-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-its-your-fault-ive-been-ruined-as-an-elite-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/Its-Your-Fault-Ive-Been-Ruined-as-an-Elite-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/03/Its-Your-Fault-Ive-Been-Ruined-as-an-Elite-Portada.jpg"/>
-<author><name>Kazemaru</name></author>
-<category term="Adulto" label="Adulto"/>
-<category term="Maduro" label="Maduro"/>
+<title>I Can’t say my Real Job is a [Sex Knight] Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-i-cant-say-my-real-job-is-a-sex-knight-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-i-cant-say-my-real-job-is-a-sex-knight-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/01/I-Cant-say-my-Real-Job-is-a-Sex-Knight-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/01/I-Cant-say-my-Real-Job-is-a-Sex-Knight-Portada.jpg"/>
+<author><name>Koidanuki</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
 <category term="Romance" label="Romance"/>
-<category term="Yuri" label="Yuri"/>
-<content type="text">La mujer que puede con todo, la mujer perfecta. Esa es Kyomoto Haruki.
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">¡Si se descubre que no es el Caballero Sagrado más fuerte, será ejecutado inmediatamente! -Su arma es su propio deseo sexual.
 
-Todo va sin problemas. Es admirada y querida por sus colegas, pero la situación da un vuelco cuando Mizuno Asuka, su "némesis" y una Kouhai de sus años de estudiante, aparece ante ella.
-
-Si tan solo no existieras...
-
-La perezosa de Kyomoto, que se hace pasar por una oficinista perfecta, y la misteriosa e inescrutable Mizuno.
-
-Ambientada en el departamento de Recursos Humanos de una gran empresa de TI "Deep Application", la relación entre las dos se entrelaza y cambia.
-
-※Aunque hay descripciones de un romance con un hombre, al final es yuri.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-its-your-fault-ive-been-ruined-as-an-elite-novela-web-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Caballero Sagrado. Es una profesión especial otorgada por Dios a los 15 años. Un chico llamado Ars también recibió la profesión, pero.. "¡¿Qué demonios es este Caballero Sexual?!" ¿¡Le dieron el título de caballero "Sexual" que consume el deseo sexual para activar habilidades?! Sin embargo, al escuchar el poderoso grito de Ars, quienes lo rodeaban causaron un alboroto por el nacimiento de un caballero "Santo".¡¿Acaso no se dio cuenta, Ars estaba recibiendo una audiencia con el rey como [Caballero Sagrado] en la capital real..?! ¿Afirmar falsamente su profesión sería considerado traición a Dios. Sería ejecutado de inmediato, pero su habilidad,"Escudo Sexual" que aumenta su deseo sexual, resulta increíblemente poderosa ante el rey..?! Ahora reconocido oficialmente como Caballero Sagrado, Ars tiene la tarea de proteger al santo, pero..</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-i-cant-say-my-real-job-is-a-sex-knight-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

@@ -1,33 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Nozomi Kota</id>
-<title>Nozomi Kota</title>
-<updated>2026-10-20T22:11:37.836591+00:00</updated>
+<id>nextnovels:autores:Rakuda</id>
+<title>Rakuda</title>
+<updated>2026-10-20T22:30:50.465931+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-379.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Shigoto Kaeri, Dokushin no Bijin Joushi ni Tanomarete Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-shigoto-kaeri-dokushin-no-bijin-joushi-ni-tanomarete-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-shigoto-kaeri-dokushin-no-bijin-joushi-ni-tanomarete-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/07/Shigoto-Kaeri-Dokushin-no-Bijin-Joushi-ni-Tanomarete-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/07/Shigoto-Kaeri-Dokushin-no-Bijin-Joushi-ni-Tanomarete-Portada.jpg"/>
-<author><name>Nozomi Kota</name></author>
-<category term="Adulto" label="Adulto"/>
+<title>The Protagonist’s Childhood Friend is Coming On Strong to Me, a Mob Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-protagonists-childhood-friend-is-coming-on-strong-to-me-a-mob-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-protagonists-childhood-friend-is-coming-on-strong-to-me-a-mob-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/01/The-Protagonists-Childhood-Friend-is-Coming-On-Strong-to-Me-a-Mob-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/01/The-Protagonists-Childhood-Friend-is-Coming-On-Strong-to-Me-a-Mob-Portada.jpg"/>
+<author><name>Rakuda</name></author>
 <category term="Comedia" label="Comedia"/>
 <category term="Drama" label="Drama"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<content type="text">El joven empleado Haruhiko Sanezawa es abordado por Yuiko Monou, a quien se conoce como la "Reina" en el lugar de trabajo y es conocida por ser severa y temida. Haruhiko se confunde cuando lo invita a un hotel después de un evento de bebida. Ella le pregunta: "¿Puedes tener un bebé conmigo?" con una petición inesperada de manera tímida.​
+<category term="Supernatural" label="Supernatural"/>
+<category term="Tragedia" label="Tragedia"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Hay un chico en mi instituto que parece un héroe de comedia romántica. Es un tipo común y corriente, pero por alguna razón es popular entre las chicas mas atractivas.
 
-Así comienza una relación secreta entre un hombre y una mujer sin amor. ​
+Su comedia romantica me mato. Por su culpa me juzgaron por un crimen que no cometi, lo perdi todo y acabe quitandome la vida.
 
-“Oye, espera. En el trabajo, debemos comportarnos normalmente”. ​
+Pero ocurrio un milagro. De repente, me encontré de nuevo en la mañana de la ceremonia de ingreso a mi primer año de instituto hace dos años.
 
-La cara de su jefa, que ella solo le muestra, y la prohibición de enamorarse. A pesar de todo, comienzan a atraerse unos a otros. ​
+En esta segunda oportunidad que me fue dada milagrosamente, esta vez definitivamente no caere por culpa dde esa comedia romantica.
 
-¡Este es el comienzo de una comedia de amor prohibido y pecaminoso para adultos con un empleador impresionante y su empleado!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-shigoto-kaeri-dokushin-no-bijin-joushi-ni-tanomarete-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+"Ishii Kazuki, te amo. ¡Casémonos!".
+
+¿¡Por qué!?
+
+¡Hidaka Mikoto, la amiga de la infancia y la chica de los sueños del protagonista, me lo confesó!
+
+Es la "Emperatriz de Hielo" de la clase, pero por alguna razón últimamente no ha parado de acercarse a mi....
+
+¡Espera! No soy yo, ¿verdad? ¡Tu deberías enamorarte de el!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-protagonists-childhood-friend-is-coming-on-strong-to-me-a-mob-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

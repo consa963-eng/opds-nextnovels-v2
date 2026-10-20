@@ -1,37 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Yamaguchi Akira</id>
-<title>Yamaguchi Akira</title>
-<updated>2026-10-20T22:11:37.852522+00:00</updated>
+<id>nextnovels:autores:扇友太</id>
+<title>扇友太</title>
+<updated>2026-10-20T22:30:50.486443+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-573.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>My Household’s Liliana-san Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-my-households-liliana-san-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-my-households-liliana-san-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/My-Households-Liliana-san-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/08/My-Households-Liliana-san-Portada.jpg"/>
-<author><name>Yamaguchi Akira</name></author>
-<category term="Hentai" label="Hentai"/>
-<category term="Romance" label="Romance"/>
-<content type="text">«¿Quieres… celebrar el primer día del año conmigo?»
+<title>MONSTER DAYS Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-monster-days-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-monster-days-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/11/MONSTER-DAYS-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/11/MONSTER-DAYS-Portada.jpg"/>
+<author><name>扇友太</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Ficción" label="Ficción"/>
+<content type="text">Adéntrate en un mundo donde humanos y monstruos apenas logran coexistir tras siglos de guerra, traición y sangre derramada.
 
-Vestida con un lujoso y resplandeciente kimono, y aunque un poco cohibida, Liliana lo miró directamente a los ojos y le preguntó; Tatsuya, sonrojado, asintió con firmeza.
-
-Este año, de aquí en adelante, para siempre, quiero estar junto a Liliana.
-
-La bella mujer de piel morena se levantaba lentamente el dobladillo del kimono.
-
-«Liliana, no llevas ropa interior, ¿verdad?»
-
-«Sí, me dijeron que no se usa cuando se lleva kimono».
-
-Al deslizar los dedos por el monte de Venus que quedaba al descubierto y trazar su suave línea vertical, ella hizo temblar los muslos con un espasmo y dejó escapar un gemido sensual.
-
-«Ay, los dedos de Tatsuya se mueven mucho...»
-
-«Qué linda eres, Liliana. Disfruta con mis dedos y muéstrame tu primer clímax del año».
-
-Ya fuera en Navidad, en un viaje a las aguas termales o en Año Nuevo, hice el amor con Liliana hasta el límite. Pero, ¡quiero seguir abrazando a Liliana mucho, mucho más!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-my-households-liliana-san-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Sigue a Lyle Anglais, un joven agente de la Oficina de Mediación Humano-Demoniaca, en su arriesgada misión por mantener la paz entre especies enfrentadas por generaciones. Pero cuando una misteriosa y poderosa princesa dragón entra en su vida —una niña que carga con un destino envuelto en peligro y secretos—, su deber se transforma en una promesa personal: protegerla a toda costa, incluso si debe enfrentarse al mundo entero.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-monster-days-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

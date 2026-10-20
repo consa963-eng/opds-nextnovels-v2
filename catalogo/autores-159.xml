@@ -1,25 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Hitoma Iruma</id>
-<title>Hitoma Iruma</title>
-<updated>2026-10-20T22:11:37.818330+00:00</updated>
+<id>nextnovels:autores:Ishida Tomoha</id>
+<title>Ishida Tomoha</title>
+<updated>2026-10-20T22:30:50.442433+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-159.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>My First Love’s Kiss Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-my-first-loves-kiss-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-my-first-loves-kiss-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/10/My-First-Loves-Kiss-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/10/My-First-Loves-Kiss-Portada.jpg"/>
-<author><name>Hitoma Iruma</name></author>
+<title>6 Main Heroines Who Absolutely Want to Monopolize Me Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-6-main-heroines-who-absolutely-want-to-monopolize-me-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-6-main-heroines-who-absolutely-want-to-monopolize-me-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/04/6-Main-Heroines-Who-Absolutely-Want-to-Monopolize-Me-Portada.jpeg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/04/6-Main-Heroines-Who-Absolutely-Want-to-Monopolize-Me-Portada.jpeg"/>
+<author><name>Ishida Tomoha</name></author>
 <category term="Comedia" label="Comedia"/>
 <category term="Drama" label="Drama"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Harem" label="Harem"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<category term="Yuri" label="Yuri"/>
-<content type="text">¿Por qué tuve que enamorarme de mi compañera de cuarto?
+<content type="text">「Tener menos posesiones es mejor. Tanto las cosas materiales como las relaciones.」
 
-La vida de Hoshi Takasora se ve alterada cuando su compañera de escuela Mizuike Umi y su madre se mudan temporalmente al pequeño apartamento de su familia. Desde el principio, a Takasora le molesta el comportamiento de Umi… y su atractivo. Aunque al principio las dos chicas se comprometen a no interferir en la vida de la otra, Takasora no puede evitar empezar a preguntarse adónde va Umi por las noches… Del autor de Adachi y Shimamura llega la agridulce historia de dos chicas de secundaria cuyas vidas se ven empujadas a convivir bajo el mismo techo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-my-first-loves-kiss-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Shinichi Hirakawa, un estudiante de instituto minimalista que sólo se relaciona con el mínimo número de personas, va a participar en un programa de estudios sobre el amor en el extranjero.
+
+El programa proporciona un entorno perfecto con fondos ilimitados para gastos de manutención, y él convivirá con seis candidatas a novia... ¡El truco es que tiene que rechazarlas una a una secuencialmente!
+
+Entre las candidatas hay una ídolo, una actriz, una YouTuber, una amiga de la infancia, una hermanastra y una exnovia, cada una con un enfoque único para cortejarle.
+
+A Shinichi le inquieta la tarea de determinar quién debe ser eliminada de entre estas bellezas animosas y diversas.
+
+Sin embargo, todo cambia cuando surge una acusación anónima, afirmando--『¡Alguien entre nosotros nos está engañando!』.
+
+Así comienza una comedia amorosa en la que Shinichi decide la heroína perdedora, ¡un romance construido sobre la premisa del rechazo!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-6-main-heroines-who-absolutely-want-to-monopolize-me-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

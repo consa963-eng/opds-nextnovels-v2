@@ -1,27 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Shiwasu Tooru</id>
-<title>Shiwasu Tooru</title>
-<updated>2026-10-20T22:11:37.845092+00:00</updated>
+<id>nextnovels:autores:Takayama Seiichi</id>
+<title>Takayama Seiichi</title>
+<updated>2026-10-20T22:30:50.476431+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-479.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>The Game War Between Me and Her Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-game-war-between-me-and-her-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-game-war-between-me-and-her-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/11/01-34.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/11/01-34.jpg"/>
-<author><name>Shiwasu Tooru</name></author>
+<title>Hyakuren no Haou to Seiyaku no Valkyria Novela Ligera en Español</title>
+<id>https://nextnovels.com/hyakuren-no-haou-to-seiyaku-no-valkyria-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/hyakuren-no-haou-to-seiyaku-no-valkyria-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-50.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-50.jpg"/>
+<author><name>Takayama Seiichi</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Aventura" label="Aventura"/>
 <category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
 <category term="Harem" label="Harem"/>
 <category term="Romance" label="Romance"/>
 <category term="Shounen" label="Shounen"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Kishimine Kengo se mudó a una preparatoria que solía ser una escuela de chicas hasta hace varios años. A pesar del típico ambiente harem donde se encontraba rodeado sólo por chicas, no era bueno socializando y su único pasatiempo era sumergirse en la lectura. Vivía una vida tranquila.
-
-Pero decidió participar en actividades de club que no había hecho hasta ahora, y así su vida de preparatoria cambió y se convirtió en algo tormentoso y lleno de drama. Se unió al club donde se jugaban videojuegos modernos – en pocas palabras, el club de juegos. Kishimine fue admitido por la hermosa líder del consejo estudiantil y por un profesor pervertido, y demostró un talento inesperado. Ahora el telón se ha levantado en la excitante vida videojugabilística de un chico ordinario.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-game-war-between-me-and-her-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<content type="text">Un moderno estudiante de secundaria llamado Suou Yuuto, acaba en otro mundo llamado "Yggdrasil", justo en medio de la guerra. En un mundo regido por la supervivencia del más fuerte, en el que los numerosos clanes luchan por la hegemonía, Yuuto se alza como patriarca del clan "Lobo" con tan solo 16 años, liderando a miles de soldados utilizando sus conocimientos del mundo moderno como arma.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/hyakuren-no-haou-to-seiyaku-no-valkyria-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

@@ -1,38 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Chugong</id>
-<title>Chugong</title>
-<updated>2026-10-20T22:11:37.811147+00:00</updated>
+<id>nextnovels:autores:Enju</id>
+<title>Enju</title>
+<updated>2026-10-20T22:30:50.433342+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-70.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Solo Leveling Novela en Español</title>
-<id>https://nextnovels.com/descargar-solo-leveling-novela-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-solo-leveling-novela-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/11/Solo-Leveling-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/11/Solo-Leveling-Portada.jpg"/>
-<author><name>Chugong</name></author>
+<title>Kusunoki’s Garden of Gods Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-kusunokis-garden-of-gods-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-kusunokis-garden-of-gods-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/04/Kusunokis-Garden-of-Gods-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/04/Kusunokis-Garden-of-Gods-Portada.jpg"/>
+<author><name>Enju</name></author>
 <category term="Acción" label="Acción"/>
 <category term="Aventura" label="Aventura"/>
-<category term="Drama" label="Drama"/>
 <category term="Fantasía" label="Fantasía"/>
 <category term="Misterio" label="Misterio"/>
-<category term="Shounen" label="Shounen"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Supernatural" label="Supernatural"/>
-<content type="text">¿QUÉ HARÍAS SI TU VIDA FUERA UN JUEGO… PERO MORIR SIGNIFICARA LA MUERTE REAL?
-
-Sung Jinwoo es conocido como el «cazador más débil de toda la humanidad». Con apenas habilidades sobrenaturales y una resistencia apenas superior a la de un humano normal, se ve obligado a arriesgar su vida en mazmorras llenas de bestias mágicas para pagar las facturas del hospital de su madre y los estudios de su hermana.
-
-Pero todo cambia cuando, durante una incursión rutinaria, Jinwoo y su grupo descubren una mazmorra oculta con un templo ancestral y estatuas mortales que obedecen a mandamientos divinos.
-
-Al borde de la muerte, escucha una voz en su cabeza:
-
-«Felicidades por convertirte en Jugador.»
-
-Ahora, Sung Jinwoo tiene acceso a un sistema de misiones diarias, estadísticas mejorables y habilidades que lo harán más fuerte con cada desafío superado. Pero con este poder llegan peligros inimaginables: mazmorras instantáneas, bestias letales y la amenaza de una penalización mortal si falla.
-
-En un mundo donde los cazadores luchan por fama y fortuna, Jinwoo deberá decidir si sigue siendo la presa… o se convierte en el depredador definitivo.
-
-Una historia de supervivencia, crecimiento y venganza que redefine el concepto de «subir de nivel».</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-solo-leveling-novela-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<content type="text">¡PRIMAVERA, DULCES… Y DOMINACIÓN DE ESPÍRITUS! En lo más recóndito del campo, Minato Kusunoki se queda a cargo de una casa aterradora repleta de espíritus malignos… ¡o al menos lo estaba, hasta que su extraordinaria habilidad los expulsó a todos! En su ausencia, una procesión de kami extraños e insólitos se siente atraída por la comodidad de la residencia Kusunoki, ahora purificada. Primero llegan el goloso Yamagami y sus peludos parientes, luego una tortuga espiritual amante del sake… y antes de que Minato se dé cuenta, ¡su casa se ha transformado en un reino kami de primavera eterna! Sin embargo, el siguiente en llegar no es un kami, sino un onmyoji que desea tomar prestado el poder de Minato para ahuyentar a los espíritus… Así comienzan los días felices de Minato en el jardín de los dioses.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-kusunokis-garden-of-gods-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-<ShortName>Next Novels</ShortName><Description>Buscar en Next Novels</Description>
-<InputEncoding>UTF-8</InputEncoding>
-<Url type="application/atom+xml;profile=opds-catalog;kind=navigation" template="https://opds-nextnovels-v2.consa963.workers.dev/search?q={searchTerms}"/>
-</OpenSearchDescription>

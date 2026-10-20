@@ -1,29 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:AL</id>
-<title>AL</title>
-<updated>2026-10-20T22:11:37.807201+00:00</updated>
+<id>nextnovels:autores:Aloha Zachou</id>
+<title>Aloha Zachou</title>
+<updated>2026-10-20T22:30:50.428613+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-22.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>The Marquis’ Eldest Son’s Lascivious Story Novela Web en Español</title>
-<id>https://nextnovels.com/the-marquis-eldest-sons-lascivious-story-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/the-marquis-eldest-sons-lascivious-story-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/04/The-Marquis-Eldest-Sons-Lascivious-Story-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/04/The-Marquis-Eldest-Sons-Lascivious-Story-Portada.jpg"/>
-<author><name>AL</name></author>
+<title>Maryoku Cheat na Majo ni Narimashita Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-maryoku-cheat-na-majo-ni-narimashita-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-maryoku-cheat-na-majo-ni-narimashita-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/10/Maryoku-Cheat-na-Majo-ni-Narimashita-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/10/Maryoku-Cheat-na-Majo-ni-Narimashita-Portada.jpg"/>
+<author><name>Aloha Zachou</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Adulto" label="Adulto"/>
 <category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<content type="text">Un asalariado japonés se reencarnó en un mundo diferente con espadas y magia. Se reencarnó en la familia de un poderoso noble. Un día, cuando cumplió doce años, fue convocado repentinamente por su padre.
-
-「 No me importa si es una mujer del pueblo o una sirvienta de nuestra casa, aprende sobre las mujeres.」
-
-Tras obtener el permiso de su padre, utiliza su poder como noble para salirse con la suya con las mujeres.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/the-marquis-eldest-sons-lascivious-story-novela-web-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Shoujo Ai" label="Shoujo Ai"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Parece que me he reencarnado en un mundo de juego lleno de monstruos y mazmorras. Pero no te preocupes, no hay nada que no pueda manejar. Elegí Magia de Creación como habilidad única, y me permite crear cualquier objeto que quiera... siempre que tenga suficiente maná. Ah, siempre hay una trampa, ¿no? Pero donde hay una regla, hay una laguna, y esta brujita conoce el truco para ampliar su reserva de maná un poco más cada día. (Literalmente. Los golems existen en este mundo.) Después, seguiré algunas pistas. (Y cuanto antes, mejor. La diosa me dejó en medio de los páramos). Y finalmente, un día, me haré un lugar al que pueda pertenecer de verdad. (Ese es el plan, al menos.) ¡Hora de hacer algo de magia!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-maryoku-cheat-na-majo-ni-narimashita-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

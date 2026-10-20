@@ -1,63 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Takemiya Yuyuko</id>
-<title>Takemiya Yuyuko</title>
-<updated>2026-10-20T22:11:37.847234+00:00</updated>
+<id>nextnovels:autores:Toshiya Oono</id>
+<title>Toshiya Oono</title>
+<updated>2026-10-20T22:30:50.479370+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-507.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Golden Time Biographies: AFRICA Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-golden-time-biographies-africa-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-golden-time-biographies-africa-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/Golden-Time-Biographies-AFRICA-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/03/Golden-Time-Biographies-AFRICA-Portada.jpg"/>
-<author><name>Takemiya Yuyuko</name></author>
+<title>Suite Pretty Cure ♪ Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-suite-pretty-cure-%e2%99%aa-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-suite-pretty-cure-%e2%99%aa-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/Suite-Pretty-Cure-%E2%99%AA-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/05/Suite-Pretty-Cure-%E2%99%AA-Portada.jpg"/>
+<author><name>Toshiya Oono</name></author>
+<category term="Acción" label="Acción"/>
 <category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<content type="text">¿¡Kyoko y Chinami asisten a una reunión para ligar por sorpresa!? A pesar de ser un dúo de guapa y mona, no dan ninguna señal en ese sentido. "AFRICA", la historia que da título al volumen, describe el tumulto que provocan ellas, alborotadas por ciertas circunstancias. El peligroso y sospechoso trabajo nocturno de Yanagisawa y su inesperadamente dedicado? corazón amoroso, además de un episodio pasado con Kyoko que también se revela en "Your Eyes Only". Una experiencia de terror que asalta a Kyoko, que finalmente se ha infiltrado en la habitación vacía de Mari, que se ha ido a casa de sus padres — "La intrusa momentánea". ¡Se incluyen tres divertidas historias cortas que harán reír a todos!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-golden-time-biographies-africa-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
-</entry>
-<entry>
-<title>Golden Time Extra: We're Still Smiling in the Summer 100 Years Later Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-golden-time-extra-were-still-smiling-in-the-summer-100-years-later-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-golden-time-extra-were-still-smiling-in-the-summer-100-years-later-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/Golden-Time-Extra-Were-Still-Smiling-in-the-Summer-100-Years-Later.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/03/Golden-Time-Extra-Were-Still-Smiling-in-the-Summer-100-Years-Later.jpg"/>
-<author><name>Takemiya Yuyuko</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<content type="text">Mitsuo Yanagisawa, el mejor amigo de Mari. Guapo, fresco y, como persona, un tipo estupendo. Sin embargo, su morada es... un desordenado cuarto inmundo. ¿¡Cuál es el misterio de la medicina para hemorroides colocada en medio de ese caos!? — "La habitación de Mitsuo". ¿¡A punto de ir a la playa, Kyoko y Chinami hacen una prueba de bañadores!? "Incluso en el verano de dentro de cien años, nosotras seguiremos riendo", que describe el frenesí de Kyoko al confundir con una chica al amigo de Mari, apodado Shishō, y sus sentimientos ocultos, el detonante de todo esto. Su canción de debut es "Quemando a mi hermano"... "Summer Night Tour", las vivencias de Mari en una noche de pleno verano junto a la maravillosa senpai NANA. Todos son divertidos y harán reír, y además permiten conocer más a fondo a los personajes de Golden Time. ¡Un libro de lectura obligada para los fans de la serie!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-golden-time-extra-were-still-smiling-in-the-summer-100-years-later-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
-</entry>
-<entry>
-<title>Golden Time Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-golden-time-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-golden-time-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/06/Golden-Time-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/06/Golden-Time-Portada.jpg"/>
-<author><name>Takemiya Yuyuko</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<content type="text">Tada Banri, un estudiante nuevo de una escuela privada de abogados en Tokyo, se encontró perdido después de la ceremonia de bienvenida. En ese momento, se encontró con otro estudiante nuevo, Mitsuo Yanagisawa, también perdido. Entonces apareció delante de ellos una chica hermosa con un ramo de rosas, la cual golpea a Mitsuo en la cara con el ramo. La mujer perfecta, bien vestida y elegante que le había pegado a Mitsuo, era su amiga de niñez, Kouko Kaga. Como niños se habían prometido casarse algún día. Para escapar de ella, Mitsuo tomó el examen para entrar en esta universidad privada de forma secreta, pero inesperadamente ella apareció allí…</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-golden-time-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
-</entry>
-<entry>
-<title>Golden Time Spin-off: 2D-kun Special Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-golden-time-spin-off-2d-kun-special-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-golden-time-spin-off-2d-kun-special-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/Golden-Time-Spin-off-2D-kun-Special-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/03/Golden-Time-Spin-off-2D-kun-Special-Portada.jpg"/>
-<author><name>Takemiya Yuyuko</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<content type="text">Un hombre desesperado por el mundo tridimensional — su nombre es Niji-kun. Su nombre real es Satou. Estudiante universitario de primer año. En la universidad, ignora por completo a las mujeres tridimensionales y pasa sus días entre diálogos con su esposa imaginaria (su nombre es VJ. Una chica de 14 años que lucha con un uniforme escolar y una espada japonesa. Su comida favorita son los Choice) y escribiendo sus propias novelas. Ante él aparece una asesina del mundo tridimensional. Una kōhai de la secundaria — Akī, la mujer fatal. Una hermosa chica de ambiente que se le acerca con una distancia ambigua y sugerente. Una compañera de universidad — Aika, la guerrera del doujinshi. Se acerca a Niji-kun armada con la empatía de quienes viven en el mundo bidimensional. Además, incluso su amigo natural y ligón, Ebetsu, intenta sacudirlo con un arma: un café mix de harén. ¿Podrá Niji-kun mantener su amor por el mundo bidimensional? Una magnífica epopeya bidimensional que describe vívidamente el vagabundeo de un corazón.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-golden-time-spin-off-2d-kun-special-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Magical Girl" label="Magical Girl"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Shoujo" label="Shoujo"/>
+<content type="text">Octava entrega de la serie Pretty Cure, emitida de febrero de 2011 a enero de 2012. Pretty Cure con la música como tema protagonista: empieza con dos amigas de la infancia, la tercera integrante procede del bando enemigo y la cuarta es una niña de primaria que se transforma en Pretty Cure. De toda la franquicia, es una de las obras que más comentarios ha generado. Coincidiendo con el ruido mediático de la película de Pretty Cure en cartel a finales de octubre de 2016, se publica como quinta entrega de la colección Novela Pretty Cure Bunko.
+
+La historia arranca un año después del anime, con Hibiki —Cure Melody— ya en tercero de secundaria y metida de lleno en los preparativos para estudiar música en Alemania. Su amiga de la infancia Kanade —Cure Rhythm— también está volcada en las pruebas de acceso a la escuela de pastelería. Ellen —Cure Beat— y Ako —Cure Muse— andan igualmente ocupadas con sus propios caminos, y eso hace que Hibiki se sienta sola.
+
+Un día, el Príncipe Senpai, a quien tanto Hibiki como Kanade admiran, desaparece sin dejar rastro. La búsqueda del culpable empieza, y un aire turbio se va extendiendo sobre la ciudad de Kanon. Al mismo tiempo, una nube negra cubre el cielo y empieza a engullir a los habitantes de Kanon. La ciudad se queda vacía y, al final, solo Hibiki y Kanade permanecen en ella. ¿Qué es esa nube negra? ¿Podrán Hibiki, Kanade, Ellen y Ako transformarse en Pretty Cure y rescatar a todos?
+
+La historia, narrada por completo en primera persona por Hibiki, resulta muy fácil de leer y está construida para que el lector se sumerja sin remedio en los sentimientos de una chica adolescente. ¡Se reedita en nueva edición para celebrar los veinte años de Pretty Cure!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-suite-pretty-cure-%e2%99%aa-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

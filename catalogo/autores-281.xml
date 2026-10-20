@@ -1,27 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kushikino Tanbo</id>
-<title>Kushikino Tanbo</title>
-<updated>2026-10-20T22:11:37.828536+00:00</updated>
+<id>nextnovels:autores:Mesopo Tamia</id>
+<title>Mesopo Tamia</title>
+<updated>2026-10-20T22:30:50.455465+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-281.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Drunk Girlfriend Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-drunk-girlfriend-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-drunk-girlfriend-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Drunk-Girlfriend-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/08/Drunk-Girlfriend-Portada.jpg"/>
-<author><name>Kushikino Tanbo</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<title>A Dumped Villainess Married Me, a Lazy Villain Noble and We Became the Ultimate Power Couple Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-a-dumped-villainess-married-me-a-lazy-villain-noble-and-we-became-the-ultimate-power-couple-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-a-dumped-villainess-married-me-a-lazy-villain-noble-and-we-became-the-ultimate-power-couple-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/05/The-Lazy-Villainous-Noble-Married-the-Villainous-Young-Lady-and-Became-the-Most-Fearsome-Couple-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/05/The-Lazy-Villainous-Noble-Married-the-Villainous-Young-Lady-and-Became-the-Most-Fearsome-Couple-Portada.jpg"/>
+<author><name>Mesopo Tamia</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
 <category term="Romance" label="Romance"/>
-<content type="text">Terminé pasando la Nochebuena solo con una hermosa mujer mayor de mi barrio. Para cualquier hombre, eso suena como un sueño hecho realidad. Claro, a menos que esté completamente borracha.
-
-“Hermanito, ¿ya están listos los bocadillos?”
-
-Izumi Nanase era el tipo de mujer desesperanzada cuyo rostro era tan ridículamente hermoso que casi te hacía olvidar lo absurdamente despreocupada y relajada que era. La conocí esa Nochebuena de una manera bastante desafortunada, y desde entonces, se ha estado colando en mi casa, bebiendo como una esponja y molestándome cada vez que tiene oportunidad. Honestamente, no era más que un problema. Por muy guapa que fuera, tener una chica atractiva del barrio sin ningún sentido del espacio personal era una pesadilla.
-
-Despreocupada y completamente descuidada. Una comedia romántica casera sobre un chico de instituto que es arrastrado por una belleza veinteañera sin remedio, demasiado guapa para lo ridículamente indefensa que es a su alrededor.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-drunk-girlfriend-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Alban, al darse cuenta de que era un noble villano dentro de una novela, puso manos a la obra y comenzó a entrenar en la esgrima y la magia. Quería evitar a toda costa ser derrotado en un duelo por el protagonista y caer en la ruina. Justo cuando sus habilidades empezaban a dar frutos, se decide que se casará con Leticia, una dama villana rodeada de pésimos rumores. Sin embargo... ¡¿al conocerla resulta ser la esposa perfecta y su tipo ideal por completo?! La mala reputación era una conspiración de su exprometido; en realidad, en secreto le brindaba un amor incondicional a los niños sin hogar en su mansión, comportándose como un ángel. Ante tanta pureza y valor, olvidó el evitar su propia ruina, descongeló a la fuerza el frío corazón de Leticia y decidió vengarse del ruin duque que hizo caer en la trampa a su amada esposa. Aprovechando la mala fama de ambos para ataerlo a la trampa... «Si se interponen en nuestro camino, simplemente los pisotearé». ¡Una fantasía de represalia y remontada ideada por la pareja más temible de Villano × Villana!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-a-dumped-villainess-married-me-a-lazy-villain-noble-and-we-became-the-ultimate-power-couple-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

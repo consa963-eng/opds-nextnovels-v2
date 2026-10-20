@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Gangudou</id>
-<title>Gangudou</title>
-<updated>2026-10-20T22:11:37.814383+00:00</updated>
+<id>nextnovels:autores:Harunohi Biyori</id>
+<title>Harunohi Biyori</title>
+<updated>2026-10-20T22:30:50.437242+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-109.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>CtG - Zero kara Sodateru Dennou Shoujo Novela Ligera en Español</title>
-<id>https://nextnovels.com/ctg-zero-kara-sodateru-dennou-shoujo-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/ctg-zero-kara-sodateru-dennou-shoujo-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/11/01-43.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/11/01-43.jpg"/>
-<author><name>Gangudou</name></author>
-<category term="Acción" label="Acción"/>
+<title>The Devil Princess Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-devil-princess-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-devil-princess-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/11/The-Devil-Princess-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/11/The-Devil-Princess-Portada.jpg"/>
+<author><name>Harunohi Biyori</name></author>
 <category term="Aventura" label="Aventura"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
 <category term="Comedia" label="Comedia"/>
-<category term="Harem" label="Harem"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Josei" label="Josei"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
-<content type="text">En el juego VRMMO -CtG (Cradle to the Glaive), Yuu Kasugai se ha “casado” con Mifa, una chica que acaba de conocer. Despues de eso, ¿¡su hija Haruna nació y creció!? Más aun…..
+<content type="text">Tuvo un sueño: el mundo rebosaba de luz. Familia. Escuela. Amigos. Trenes. Autobuses. Películas. Libros. En ese mundo de luz, creció hasta la edad adulta… y al final, en una habitación blanca, cayó en la oscuridad. Despertó del sueño y descubrió que se había convertido en un demonio. En el mundo demoníaco, vivió una vida despreocupada hasta que se topó con un ser poderoso.
 
-– ¡Llegué, papá!
+Tras vivir mucho tiempo como un demonio, sin darse cuenta, un anhelo por ese mundo de luz se extendió por su corazón. Se sumergió en un círculo mágico de invocación que había aparecido. Entonces… al abrir los ojos de nuevo, se había convertido en un bebé humano.
 
-– ¡Ku, Kugimiya!
-
-!En el mundo real, la verdadera Haruha, junto con la verdadera Mifa – Kugimiya Miharu – aparecieron repentinamente! La verdad es que, ¡Haruha es una “nueva humana” creada en secreto!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/ctg-zero-kara-sodateru-dennou-shoujo-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Se encontraba en el Reino Sagrado. Sentía miedo: aunque era un demonio, solo tenía la fuerza de un bebé. Si la descubrían, sería terrible. ¿Era humana o demonio? ¿Sería capaz de sobrevivir a partir de ese momento?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-devil-princess-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

@@ -1,40 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Isla Osaki</id>
-<title>Isla Osaki</title>
-<updated>2026-10-20T22:11:37.820354+00:00</updated>
+<id>nextnovels:autores:Kamitsuki Rainy</id>
+<title>Kamitsuki Rainy</title>
+<updated>2026-10-20T22:30:50.445067+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-182.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Tale of the Sword Saint Beginning with Zero Attack Power Novela Web en Español</title>
-<id>https://nextnovels.com/descargar-tale-of-the-sword-saint-beginning-with-zero-attack-power-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-tale-of-the-sword-saint-beginning-with-zero-attack-power-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/01/Kougekiryoku-Zero-no-Yawaraka-Kenshi-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/01/Kougekiryoku-Zero-no-Yawaraka-Kenshi-Portada.jpg"/>
-<author><name>Isla Osaki</name></author>
+<title>Witch &amp; Hound Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-witch-hound-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-witch-hound-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/Witch-and-Hound-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/07/Witch-and-Hound-Portada.jpg"/>
+<author><name>Kamitsuki Rainy</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Romance" label="Romance"/>
-<content type="text">El mejor estudiante de la Escuela Militar Imperial, Eugene Saintfield.
+<category term="Seinen" label="Seinen"/>
+<content type="text">La misión es convertir en aliadas a las brujas, portadoras de calamidades.
 
-El tuvo un sueño.
+Campusfello, un pequeño país próspero en agricultura y herrería. La gente que allí vivía era pobre, pero de corazón rico. Sin embargo, el fuego de la guerra y la invasión se cernía sobre aquella pequeña nación. El Reino de la Lucha y la Magia, Amelia, bajo el mando de la Reina Amelia, había acaparado a muchos magos y seguía expandiendo su territorio mediante un poder sobrenatural.
 
-Ese sueño es ser la Espada Real de su amiga de la infancia Airi Grandflare, quien apunta a ser la Emperadora, y traer incluso mas prosperidad al Imperio.
+Si esto continuaba, Campusfello sería destruido. Ante esto, el señor feudal, Bad Grace, recurrió a una estratagema desesperada para cambiar las tornas. Esta consistía en reunir a las terribles brujas dispersas por todo el continente y enfrentarse al Reino de Amelia.
 
-Pero ese sueño se derrumbó.
+Por esa misma época, llegó la noticia de que la "Bruja del Espejo" había sido capturada en Lëwe, el País de los Caballeros, vecino de Campusfello. Se decía que la bruja, que había seducido al rey de Lëwe e intentado ocupar el trono de reina consorte, fue descubierta el día de su boda y masacró a los asistentes.
 
-Debido a su falta de talento.
-
-Eugene no tenia talento y fue fácilmente abandonado por su amiga de la infancia.
-
-Habiendo caído en la desesperación, el se enlisto en el mejor centro académico del Imperio, la Academia de Magia Lykeion, bajo la discreción de su padre.
-
-La vida de Eugene será bastante movida por varios encuentros en la academia.
-
-Eventualmente convirtiéndose en una ola que arrastrara a todo el continente.
-
-Aclaración: Esta historia se desarrolla en el mismo universo que el de la Diosa de Cero Creyentes en la misma línea temporal.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-tale-of-the-sword-saint-beginning-with-zero-attack-power-novela-web-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Bad, el señor feudal, parte hacia Lëwe con sus sirvientes para conseguir la custodia de la "Bruja del Espejo". Entre ese grupo se encontraba Roro. Conocido comúnmente como "Perro Negro", era un muchacho al que habían inculcado todo tipo de técnicas de asesinato y que había sido criado como el asesino de Campusfello... Una fantasía oscura, grandiosa y feroz, como nunca se ha visto, alza el telón.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-witch-hound-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

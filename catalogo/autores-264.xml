@@ -1,28 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kujou Ren</id>
-<title>Kujou Ren</title>
-<updated>2026-10-20T22:11:37.827209+00:00</updated>
+<id>nextnovels:autores:LeonarD</id>
+<title>LeonarD</title>
+<updated>2026-10-20T22:30:50.453727+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-264.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Today, the Honor Student Died Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-today-the-honor-student-died-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-today-the-honor-student-died-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/Today-the-Honor-Student-Died-Portada.jpeg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/03/Today-the-Honor-Student-Died-Portada.jpeg"/>
-<author><name>Kujou Ren</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<title>Infinite Magician Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-infinite-magician-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-infinite-magician-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Infinite-Magician-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/08/Infinite-Magician-Portada.jpg"/>
+<author><name>LeonarD</name></author>
+<category term="Aventura" label="Aventura"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
 <category term="Romance" label="Romance"/>
-<category term="Shoujo" label="Shoujo"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Miharu Tonose siempre se esforzaba por caer bien a todo el mundo: seguía el juego a sus amigos y profesores, y desempeñaba el papel de la estudiante modelo perfecta. Pero justo cuando empieza su segundo año de instituto, se convierte en víctima de acoso escolar. Atónita e indefensa en un parque con sus libros de texto destrozados, tiene un encuentro inesperado con Aoto Mikami, un compañero de clase del que se rumorea que es un delincuente juvenil.
+<content type="text">Rest, un niño que reencarnó con poder mágico infinito. Por alguna razón, finge no tener poder mágico y pasa sus días soportando todo tipo de malos tratos... ¡pero su vida cambia para siempre cuando salva a Viola y Primula, las hijas de un mago de la corte!
 
-A partir de ese momento, mientras su aislamiento en el instituto se agrava, su vínculo con Aoto comienza a crecer. A medida que Miharu se adentra en un mundo nuevo y experimenta sentimientos que nunca había conocido —el amor, la dependencia—, poco a poco empieza a redescubrirse a sí misma.
+—Dejemos que nazcan la mayor cantidad posible de niños que hereden su sangre en la familia del Marqués Rosemary...
 
-¿Qué respuesta encuentra Miharu tras perder de vista quién es realmente?
+Reconocido como un mago talentoso y a la vez como el futuro yerno de la familia, Rest pasa sus días entrenando para el examen de ingreso a la Academia Real como estudiante interno. Su talento se perfecciona cada vez más mientras subyuga demonios inusuales y desarrolla magia que también es insólita, logrando cosas que nadie jamás imaginó.
 
-Una conmovedora y emotiva historia de amor y madurez que te conmoverá hasta las lágrimas.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-today-the-honor-student-died-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Con el poder mágico más fuerte de todos, lo tiene todo en sus manos: ¡El camino hacia un éxito sin límites acaba de comenzar!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-infinite-magician-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

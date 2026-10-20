@@ -1,56 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Amamiya Kazuki</id>
-<title>Amamiya Kazuki</title>
-<updated>2026-10-20T22:11:37.807696+00:00</updated>
+<id>nextnovels:autores:Amane Sakuranomiya</id>
+<title>Amane Sakuranomiya</title>
+<updated>2026-10-20T22:30:50.429197+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-28.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Haibara’s Teenage New Game+ Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-haibaras-teenage-new-game-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-haibaras-teenage-new-game-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/03/Haibara-kun-no-Tsuyokute-Seisyun-New-Game-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/03/Haibara-kun-no-Tsuyokute-Seisyun-New-Game-Portada.jpg"/>
-<author><name>Amamiya Kazuki</name></author>
+<title>About the Case Where the Beautiful Girl I Rescued by Chance Became Attached to Me for Some Reason Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-about-the-case-where-the-beautiful-girl-i-rescued-by-chance-became-attached-to-me-for-some-reason-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-about-the-case-where-the-beautiful-girl-i-rescued-by-chance-became-attached-to-me-for-some-reason-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/12/About-the-Case-Where-the-Beautiful-Girl-I-Rescued-by-Chance-Became-Attached-to-Me-for-Some-Reason-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/12/About-the-Case-Where-the-Beautiful-Girl-I-Rescued-by-Chance-Became-Attached-to-Me-for-Some-Reason-Portada.jpg"/>
+<author><name>Amane Sakuranomiya</name></author>
 <category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
+<category term="Shoujo" label="Shoujo"/>
+<category term="Shounen" label="Shounen"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Natsuki Haihara es un joven que fracasó en hacer su debut de secundaria y ahora está en su cuarto año de universidad seguido de una terrible vida de secundaria. ¡Estaba por entrar a la sociedad cuando inesperadamente fue llevado atrás siete años justo antes de iniciar la secundaria!
+<content type="text">"Eh...¿Mikami-san?"
 
-Natsuki se le dio la oportunidad de "rehacer" su vida de secundaria llena de arrepentimientos, y usar sus anteriores experiencias para exitosamente volverse un miembro de un grupo de sies hermosos chicos y chicas en la cima de la casta.
+"No me importa."
 
-¡Lo que es más, la hermosa chica que una vez le había gustado, Hikari, ¿también estaba allí...?!
+"¿No estas demasiado cerca?"
 
-El inconsciente joven inicia su segunda adolescencia nuevamente en la vida, ¡una nueva comedia rómatica estudiantil!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-haibaras-teenage-new-game-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
-</entry>
-<entry>
-<title>Our Secret Youth in the Night School Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-our-secret-youth-in-the-night-school-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-our-secret-youth-in-the-night-school-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Our-Secret-Youth-in-the-Night-School-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/08/Our-Secret-Youth-in-the-Night-School-Portada.jpg"/>
-<author><name>Amamiya Kazuki</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Harem" label="Harem"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">“Escucha. Quiero convertir estas noches después de las actividades del club en nuestra propia primavera de la juventud.”
+"No me importa♪"
 
-Quien llamó a Minase Shuuto, un chico solitario en su primer año de preparatoria, fue Tsukimi Kaede. Estudiante de segundo año, era la personificación de la perfección: excelentes calificaciones, un atletismo increíble y una belleza deslumbrante. Un verdadero trío de talentos.
+Kirishima Rei, un autoproclamado solitario introvertido, ha fracasado por completo en su intento de debutar en preparatoria. Un día, por pura casualidad, terminó salvando a la belleza más comentada de toda la escuela Mikami Hina, de una situación difícil. A cambio, ella insistió en recompensar el favor almorzando juntos.
 
-Kaede llevó a Shuuto a un lugar al que nadie se atrevía a acercarse: el antiguo almacén del gimnasio. O, como lo llamaban, la “Base Secreta”.
+Pero Mikami-san claramente era alguien de un mundo más allá de su alcance. Esa breve conexión —una vez que le haya agradecido propiamente— seguramente se desvanecería. O al menos, eso es lo que había asumido Rei.
 
-Dentro, otros tres estudiantes ya estaban relajándose.
+Y sin embargo, antes de que se diera cuenta...
 
-Kazemiya Kanon, la ídolo de la escuela por la que todos los chicos estaban obsesionados.
+Encuentros secretos a la hora del almuerzo, conversaciones susurradas después de clases, encontrarse en su camino hacia la clase, encuentros inesperados los fines de semana— su tiempo con Mikami-san seguía creciendo.
 
-Ogino Misato, una gyaru amante de la música que era reservada.
+Sin importar cuanto tratara de mantener su distancia, ella simplemente lo ignoraba con un "No me importa♪" alegre y se abría paso más fuerte en su vida diaria.
 
-Y Akazawa You, el payaso de la clase, siempre alegre y despreocupado.
+Un chico tranquilo y bondadoso x una belleza misteriosa y asertiva—
 
-Para Shuuto, ellos eran la élite social, gente de un mundo al que no pertenecía. Pero por alguna razón… ¡¿actuaban de forma completamente diferente a</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-our-secret-youth-in-the-night-school-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+¿¡Una comedia romántica donde la heroína invade el mundo del protagonista!?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-about-the-case-where-the-beautiful-girl-i-rescued-by-chance-became-attached-to-me-for-some-reason-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

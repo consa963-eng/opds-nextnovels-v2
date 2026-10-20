@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Huainan Weiju</id>
-<title>Huainan Weiju</title>
-<updated>2026-10-20T22:11:37.819000+00:00</updated>
+<id>nextnovels:autores:Jougi Shiraishi</id>
+<title>Jougi Shiraishi</title>
+<updated>2026-10-20T22:30:50.443409+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-167.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>From Goblin to Goblin God Novela Web en Español</title>
-<id>https://nextnovels.com/descargar-from-goblin-to-goblin-god-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-from-goblin-to-goblin-god-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/04/From-Goblin-to-Goblin-God-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/04/From-Goblin-to-Goblin-God-Portada.jpg"/>
-<author><name>Huainan Weiju</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Adulto" label="Adulto"/>
-<category term="Ecchi" label="Ecchi"/>
+<title>Majo no Tabitabi Novela Ligera en Español</title>
+<id>https://nextnovels.com/majo-no-tabitabi-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/majo-no-tabitabi-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-15.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-15.jpg"/>
+<author><name>Jougi Shiraishi</name></author>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<content type="text">La historia de Lin Tian, quien reencarna como un goblin, una criatura mágica de bajo rango. Inicialmente, debe esconderse, pero luego revela su verdadera naturaleza y se beneficia de la bendición de los dioses al tener muchos hijos, volviéndose más fuerte con cada uno. La trama se centra en su ascenso desde la humildad de un goblin hasta alcanzar el estatus de "Dios Goblin</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-from-goblin-to-goblin-god-novela-web-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">Había una vez una bruja llamada Elaina, que emprendió un viaje a lo largo del mundo. En su camino conocería a todo tipo de personas, desde un país lleno de brujas hasta un gigante enamorado de sus propios músculos, pero con cada encuentro, Elaina se convertiría en una pequeña parte de su historia, y su propio mundo seria un poco más grande.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/majo-no-tabitabi-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

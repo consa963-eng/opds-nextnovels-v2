@@ -1,58 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Hoshino Hoshino</id>
-<title>Hoshino Hoshino</title>
-<updated>2026-10-20T22:11:37.818739+00:00</updated>
+<id>nextnovels:autores:Itsuki Tomohito</id>
+<title>Itsuki Tomohito</title>
+<updated>2026-10-20T22:30:50.443047+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-164.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Active JK Idol Seems to be Interested in Me Who is a Free Person Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-active-jk-idol-seems-to-be-interested-in-me-who-is-a-free-person-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-active-jk-idol-seems-to-be-interested-in-me-who-is-a-free-person-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/11/Active-JK-Idol-Seems-to-be-Interested-in-Me-Who-is-a-Free-Person-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/11/Active-JK-Idol-Seems-to-be-Interested-in-Me-Who-is-a-Free-Person-Portada.jpg"/>
-<author><name>Hoshino Hoshino</name></author>
+<title>The Reason a Penniless High Schooler Became Desired by a Wealthy Young Lady Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-reason-a-penniless-high-schooler-became-desired-by-a-wealthy-young-lady-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-reason-a-penniless-high-schooler-became-desired-by-a-wealthy-young-lady-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/The-Reason-a-Penniless-High-Schooler-Became-Desired-by-a-Wealthy-Young-Lady-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/09/The-Reason-a-Penniless-High-Schooler-Became-Desired-by-a-Wealthy-Young-Lady-Portada.jpg"/>
+<author><name>Itsuki Tomohito</name></author>
 <category term="Comedia" label="Comedia"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Himahara Kou, un chico del “club de irse a casa” que disfruta de su libertad, suele pasar el tiempo después de clases en distintos lugares, viviendo sin demasiadas preocupaciones.
+<content type="text">La señorita adora la pobreza: ¿¡cuál es la razón por la que lo desea...!?
 
-En su clase está Sakurazaki Nako, una idol de secundaria (JK) en activo y con una enorme popularidad.
+El estudiante de preparatoria Tenma Seitaro, que lleva una vida en la pobreza, conoce a una hermosa detective escolar y chica rica. Por cosas del destino, Seitaro se convierte en asistente de la bella joven y termina viviendo en su mansión.
 
-Ocupada con su vida de idol, Nako se siente intrigada por Kou, quien parece saber disfrutar del tiempo a su manera…
+Bajo el mismo techo que la señorita, uno pensaría que su relación se acerca rápidamente, pero... lo que ella busca es el poder oculto en su pobreza.
 
-Una comedia romántica sobre una idol que anhela la libertad y un chico libre que pertenece al club de irse a casa.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-active-jk-idol-seems-to-be-interested-in-me-who-is-a-free-person-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
-</entry>
-<entry>
-<title>When the Introverted Me Got Surrounded by S-Tier Beauties After a Seat Change, a Secret Relationship Began Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-when-the-introverted-me-got-surrounded-by-s-tier-beauties-after-a-seat-change-a-secret-relationship-began-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-when-the-introverted-me-got-surrounded-by-s-tier-beauties-after-a-seat-change-a-secret-relationship-began-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/When-the-Introverted-Me-Got-Surrounded-by-S-Tier-Beauties-After-a-Seat-Change-a-Secret-Relationship-Began-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/08/When-the-Introverted-Me-Got-Surrounded-by-S-Tier-Beauties-After-a-Seat-Change-a-Secret-Relationship-Began-Portada.jpg"/>
-<author><name>Hoshino Hoshino</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Harem" label="Harem"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Mi tranquila vida escolar... ha terminado oficialmente.
+Sin embargo, mientras persiguen casos juntos, la señorita empieza a desear al propio Seitaro...
 
-Izumiya Ryouta, un otaku introvertido, se encuentra de repente rodeado por las tres chicas más guapas de la clase tras un cambio de asientos.
+«¡Con toda tu pobreza incluida, me gustas, Seitaro!»
 
-Frente a él se sienta Miyama Airi, del tipo hermana pequeña. A su izquierda, la guapa y distante Ichinose Yuria. Y a su derecha, la refinada delegada de clase de cabello negro, Kuroki Ruri.
+¡Un estudiante de preparatoria sin un centavo es amado sin parar por la hija de una familia adinerada!
 
-A simple vista, son bellezas impecables, pero Ryouta descubre secretos que ninguna de ellas puede revelar jamás...
-
-"¡P-Por favor...! ¡No se lo digas a nadie!".
-
-"A partir de ahora, tenemos ese tipo de relación".
-
-!Esto es un secreto... solo entre tú y yo, Ryouta-kun".
-
-Lo único que quería era una vida tranquila de otaku, ¡¿cómo han acabado así las cosas?!
-
-Atrapado entre tres chicas problemáticas, un otaku introvertido lucha desesperadamente por evitar más caos en este enfrentamiento de comedia romántica.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-when-the-introverted-me-got-surrounded-by-s-tier-beauties-after-a-seat-change-a-secret-relationship-began-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+¡Una comedia romántica de diferencia de clases de nuevo tipo que convierte la pobreza en felicidad!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-reason-a-penniless-high-schooler-became-desired-by-a-wealthy-young-lady-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

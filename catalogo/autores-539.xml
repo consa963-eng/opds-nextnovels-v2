@@ -1,35 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Toui</id>
-<title>Toui</title>
-<updated>2026-10-20T22:11:37.849747+00:00</updated>
+<id>nextnovels:autores:Yoneori</id>
+<title>Yoneori</title>
+<updated>2026-10-20T22:30:50.482782+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-539.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>I Reincarnated as the Villainous Young Master Who Corrupts the Count’s Daughter Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-i-reincarnated-as-the-villainous-young-master-who-corrupts-the-counts-daughter-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-i-reincarnated-as-the-villainous-young-master-who-corrupts-the-counts-daughter-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/08/I-Reincarnated-as-the-Villainous-Young-Master-Who-Corrupts-the-Counts-Daughter-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/08/I-Reincarnated-as-the-Villainous-Young-Master-Who-Corrupts-the-Counts-Daughter-Portada.jpg"/>
-<author><name>Toui</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Adulto" label="Adulto"/>
+<title>The Forsaken Saintess and her Foodie Roadtrip in Another World Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-forsaken-saintess-and-her-foodie-roadtrip-in-another-world-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-forsaken-saintess-and-her-foodie-roadtrip-in-another-world-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/The-Forsaken-Saintess-and-her-Foodie-Roadtrip-in-Another-World-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/07/The-Forsaken-Saintess-and-her-Foodie-Roadtrip-in-Another-World-Portada.jpg"/>
+<author><name>Yoneori</name></author>
 <category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<content type="text">“Lord Nord… ¿le gustaría un poco de leche esta mañana?”
+<category term="Shoujo" label="Shoujo"/>
+<content type="text">Rin Takanashi, una cuidadora de mediana edad, quedó atrapada en una «Convocación de Santos» en la que la arrojaron como si fuera basura.
 
-Reencarné en el mundo erótico que acababa de jugar, “La Academia del Harem del Héroe Resurrecto”. Sin embargo, en lugar de ser el protagonista, me convertí en Nord, el hijo de la malvada familia noble que secuestró a Elise, la heroína, y finalmente fue asesinado por ella.
+Pero con la ayuda de 【Supervivencia】 y otra habilidad especial, esta mujer a la que le encanta acampar, junto con los compañeros de viaje que recogió por casualidad, ¡se embarcará en un viaje sin prisas para disfrutar de la gastronomía de diferentes mundos! ¡Esta es una historia llena de sudor, lágrimas y hambre!
 
-¡No era momento para relajarse y disfrutar de la leche de la sirvienta! Para evitar la muerte y vivir una vida tranquila y relajada, hice todo lo posible por alejarme de Elise… Sin embargo, ella malinterpretó todas mis acciones, lo que aumentó aún más su atracción por mí.
-
-“Por favor, mire mi cuerpo inocente, que nadie ha visto antes…”
-
-¡Se enamoró perdidamente de mí, se apuntó voluntariamente como mi criada personal e incluso empezó a venir a mi habitación por las noches!
-
-¡Ganador del Premio Especial en la Categoría de Comedia Romántica del 9.º Concurso de Novela Web de Kakuyomu!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-i-reincarnated-as-the-villainous-young-master-who-corrupts-the-counts-daughter-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+O al menos eso se suponía, pero de alguna manera su viaje ha dado un giro inesperado…?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-forsaken-saintess-and-her-foodie-roadtrip-in-another-world-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

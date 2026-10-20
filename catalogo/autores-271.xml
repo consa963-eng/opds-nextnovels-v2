@@ -1,26 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kurasu Piero</id>
-<title>Kurasu Piero</title>
-<updated>2026-10-20T22:11:37.827757+00:00</updated>
+<id>nextnovels:autores:Marawu Senpuuki</id>
+<title>Marawu Senpuuki</title>
+<updated>2026-10-20T22:30:50.454434+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-271.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Tensei Oujo to Tensai Reijou no Mahou Kakumei Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-tensei-oujo-to-tensai-reijou-no-mahou-kakumei-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-tensei-oujo-to-tensai-reijou-no-mahou-kakumei-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/05/Tensei-Oujo-to-Tensai-Reijou-no-Mahou-Kakumei-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/05/Tensei-Oujo-to-Tensai-Reijou-no-Mahou-Kakumei-Portada.jpg"/>
-<author><name>Kurasu Piero</name></author>
-<category term="Aventura" label="Aventura"/>
+<title>Kissing My Student, It’s Over if We’re Caught Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-kissing-my-student-its-over-if-were-caught-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-kissing-my-student-its-over-if-were-caught-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/05/Kissing-My-Student-Its-Over-if-Were-Caught-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/05/Kissing-My-Student-Its-Over-if-Were-Caught-Portada.jpg"/>
+<author><name>Marawu Senpuuki</name></author>
 <category term="Comedia" label="Comedia"/>
-<category term="Fantasía" label="Fantasía"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Yuri" label="Yuri"/>
-<content type="text">Anisphia, la Princesa que recordaba su vida anterior a una edad temprana, así como el intenso amor por la magia de su antiguo yo, partió para vivir sus fantasías en este mundo de fantasía.
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Tengo un encuentro secreto con mi estudiante…
 
-Un día, durante un percance mágico, se topó con una escena en la que su hermano Algard estaba rompiendo su compromiso con su prometida, Euphilia.
+Mi relación secreta con Kirihara es algo que no puedo contarle a nadie. Comenzó cuando me asignaron como profesor a la preparatoria Morigawara. En la escuela, Kirihara es una seria presidenta del consejo estudiantil que se ha ganado la confianza de sus profesores, pero cuando está sola, es traviesa, malcriada y celosa. Los fines de semana, preparo comidas en su casa y juego con ella, mimándola como a una amante. No puedo negarme debido a mi debilidad, pero aunque creo que no es bueno, guardo secretos poco a poco cada día…
 
-Lo que nadie podía haber previsto es que este extraño encuentro terminaría cambiando el curso de la historia.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-tensei-oujo-to-tensai-reijou-no-mahou-kakumei-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+«Siento que lo quiero, profesor, y he crecido mucho»
+
+Kirihara, que se enfrenta honestamente a sus sentimientos, se hace más fuerte con sus sentimientos reprimidos. Si alguien se enterara de nuestra relación, sería el fin…</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-kissing-my-student-its-over-if-were-caught-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

@@ -1,36 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Ishida Tomoha</id>
-<title>Ishida Tomoha</title>
-<updated>2026-10-20T22:11:37.820252+00:00</updated>
+<id>nextnovels:autores:Kamishiro Kyousuke</id>
+<title>Kamishiro Kyousuke</title>
+<updated>2026-10-20T22:30:50.444973+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-181.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>6 Main Heroines Who Absolutely Want to Monopolize Me Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-6-main-heroines-who-absolutely-want-to-monopolize-me-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-6-main-heroines-who-absolutely-want-to-monopolize-me-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/04/6-Main-Heroines-Who-Absolutely-Want-to-Monopolize-Me-Portada.jpeg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/04/6-Main-Heroines-Who-Absolutely-Want-to-Monopolize-Me-Portada.jpeg"/>
-<author><name>Ishida Tomoha</name></author>
+<title>My Stepmom’s Daughter Is My Ex Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-my-stepmoms-daughter-is-my-ex-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-my-stepmoms-daughter-is-my-ex-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-27.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-27.jpg"/>
+<author><name>Kamishiro Kyousuke</name></author>
 <category term="Comedia" label="Comedia"/>
 <category term="Drama" label="Drama"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Harem" label="Harem"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">「Tener menos posesiones es mejor. Tanto las cosas materiales como las relaciones.」
+<content type="text">Un chico y una chica de la escuela secundaria se convirtieron en pareja, coquetearon, discreparon en cosas triviales, se irritaron con más frecuencia el uno con el otro... y finalmente rompieron al graduarse.
 
-Shinichi Hirakawa, un estudiante de instituto minimalista que sólo se relaciona con el mínimo número de personas, va a participar en un programa de estudios sobre el amor en el extranjero.
+Ahora, en el instituto, los dos, Irido Mizuto y Ayai Yume, acabaron encontrándose de la forma más inesperada.
 
-El programa proporciona un entorno perfecto con fondos ilimitados para gastos de manutención, y él convivirá con seis candidatas a novia... ¡El truco es que tiene que rechazarlas una a una secuencialmente!
+La antigua pareja, reunida por el nuevo matrimonio de sus padres, decidió tener en cuenta los sentimientos de sus padres e ideó una "regla de hermanos", según la cual el primero que toma conciencia del otro como miembro del otro sexo pierde, pero...
 
-Entre las candidatas hay una ídolo, una actriz, una YouTuber, una amiga de la infancia, una hermanastra y una exnovia, cada una con un enfoque único para cortejarle.
-
-A Shinichi le inquieta la tarea de determinar quién debe ser eliminada de entre estas bellezas animosas y diversas.
-
-Sin embargo, todo cambia cuando surge una acusación anónima, afirmando--『¡Alguien entre nosotros nos está engañando!』.
-
-Así comienza una comedia amorosa en la que Shinichi decide la heroína perdedora, ¡un romance construido sobre la premisa del rechazo!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-6-main-heroines-who-absolutely-want-to-monopolize-me-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Cuando se encuentran en el cuarto de baño, van y vienen juntos de la escuela, junto con los recuerdos del pasado y viviendo bajo el mismo techo, ¿cómo se desentienden el uno del otro?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-my-stepmoms-daughter-is-my-ex-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

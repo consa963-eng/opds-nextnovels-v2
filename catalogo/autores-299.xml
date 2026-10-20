@@ -1,31 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Maruto Fumiaki</id>
-<title>Maruto Fumiaki</title>
-<updated>2026-10-20T22:11:37.829918+00:00</updated>
+<id>nextnovels:autores:Mishima Yomu</id>
+<title>Mishima Yomu</title>
+<updated>2026-10-20T22:30:50.457405+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-299.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>It’s Quite Late, but I’ve Fallen in Love With My Childhood Friend Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-its-quite-late-but-ive-fallen-in-love-with-my-childhood-friend-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-its-quite-late-but-ive-fallen-in-love-with-my-childhood-friend-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/09/Its-Quite-Late-but-Ive-Fallen-in-Love-With-My-Childhood-Friend-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/09/Its-Quite-Late-but-Ive-Fallen-in-Love-With-My-Childhood-Friend-Portada.jpg"/>
-<author><name>Maruto Fumiaki</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Josei" label="Josei"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<title>Ano Otomege wa Oretachi ni Kibishii Sekai desu Novela Ligera en Español</title>
+<id>https://nextnovels.com/ano-otomege-wa-oretachi-ni-kibishii-sekai-desu-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/ano-otomege-wa-oretachi-ni-kibishii-sekai-desu-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/06/Ano-Otomege-wa-Oretachi-ni-Kibishii-Sekai-desu-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/06/Ano-Otomege-wa-Oretachi-ni-Kibishii-Sekai-desu-Portada.jpg"/>
+<author><name>Mishima Yomu</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Mecha" label="Mecha"/>
 <category term="Romance" label="Romance"/>
+<content type="text">Forzado por su hermana pequeña, Leon se reencarnó en el mundo de un juego Otome que había conquistado hasta el momento de su muerte.
+
+Intentaba llevar una vida tranquila como personaje mafioso cuando se topó con una estudiante soltera que pretendía ignorar el flujo de la historia e intentaba sustituir al protagonista. Tras apoderarse de Marie, una chica con un ambiente similar al de su hermana pequeña en una vida anterior, Leon consiguió frustrar el intento.
+
+Debería haber tomado la decisión correcta......pero, ¿a qué se debe este desasosiego?
+
+La novela web "si ruta", que fue un bonus en la encuesta "Mobseka" y recibió una enorme respuesta por ser "demasiado dura", ¡ha sido finalmente publicada en forma de libro con importantes añadidos!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/ano-otomege-wa-oretachi-ni-kibishii-sekai-desu-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+<entry>
+<title>The Scoundrel Immortal’s Coup Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-scoundrel-immortals-coup-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-scoundrel-immortals-coup-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/The-Scoundrel-Immortals-Coup-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/10/The-Scoundrel-Immortals-Coup-Portada.jpg"/>
+<author><name>Mishima Yomu</name></author>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Romance" label="Romance"/>
+<content type="text">Para rodearse de mujeres hermosas, un chico fiel a sus deseos se convierte en inmortal y conquista el mundo.
+
+Haruto es un apuesto estudiante de preparatoria, pero en el fondo es un canalla que juzga constantemente a las chicas. Se suponía que iba a hacer una prueba de un juego de realidad virtual chino con su clase, ¡pero resultó ser un juego mortal donde su vida corría peligro!
+
+Haruto recibe poderes inmortales de una seductora mujer inmortal y, por casualidad, adquiere el alma del general más poderoso (Lu Bu) que reside en su interior, convirtiéndose en una fuerza imparable. En medio de la guerra y demonios devoradores de hombres, el único objetivo de Haruto es una vida rodeado de mujeres hermosas y la paz que eso conlleva. Mientras Haruto persigue sus deseos sin ocultarlos, una chica nómada y una espía tímida se acercan a él, y pronto, ¡comienza la búsqueda de dominación mundial de este canalla!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-scoundrel-immortals-coup-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+<entry>
+<title>Valkyrie Bullet Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-valkyrie-bullet-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-valkyrie-bullet-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/Valkyrie-Bullet-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/03/Valkyrie-Bullet-Portada.jpg"/>
+<author><name>Mishima Yomu</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Drama" label="Drama"/>
+<category term="Mecha" label="Mecha"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">La historia de un amor que está más cerca que nadie, y a la vez más lejos. Un romance con una vuelta de desventaja está por comenzar.
+<content type="text">Un soldado con un largo historial bélico fue asignado a… ¿¡Una escuela para chicas que vuelan por el cielo!?
 
-Ta-kun y yo somos amigos de la infancia desde hace diez años. Nuestra cercanía emocional es tan intensa que parecería imposible equivocarse con la distancia entre nosotros; estamos siempre uno al lado del otro, y sin embargo, no conectamos de forma romántica… Esa relación de amigos de la infancia tan “perfecta”... ¿¡Cómo demonios va a ser eso posibleee!?
+En un futuro cercano, la Tierra está siendo invadida por monstruos de otro mundo conocidas como “Falsas Bestias” y se ve obligada a una interminable batalla por defenderse.
 
-¡Si hasta me pego sutilmente a su espalda cuando estamos en su habitación, y sincronizo nuestra hora de salida para fingir un encuentro casual camino a la escuela! Pero como hemos estado juntos desde siempre, sus sentidos ya están entumecidos y ¡Ningún intento de acercamiento funciona! ¿¡Qué se supone que debo hacer ya!?
+Las armas convencionales son casi ineficaces y lo único que puede contrarrestarlas es el “Traje de Valquiria”, un traje de poder que está equipado con poderes misteriosos y sólo puede ser empuñado por mujeres.
 
-Ah, pero dijo que nadie le ha confesado su amor aún ¿Eso quiere decir que todavía tengo una oportunidad, no? ¿Que aún puedo llegar a ser la novia de Ta-kun…?
+Un hombre es asignado a la “tercera academia”, una preparatoria que entrena y gestiona a chicas que visten estos trajes de acero y luchan.
 
-Yo soy Hkari Shirasaka, 16 años… Y aunque sea tarde para admitirlo… me he enamorado de mi amigo de la infancia.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-its-quite-late-but-ive-fallen-in-love-with-my-childhood-friend-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Su nombre es “Hifumi Ren”.
+
+Ningún experimento ha tenido éxito,
+
+Él era piloto de pruebas de un arma antihumanoide.
+
+Presentado por el exitoso creador Yomu Mishima
+
+¡¡Una heroica historia de Ciencia Ficcion comienza!!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-valkyrie-bullet-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

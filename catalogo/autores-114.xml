@@ -1,25 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Gluttonous Demon King</id>
-<title>Gluttonous Demon King</title>
-<updated>2026-10-20T22:11:37.814748+00:00</updated>
+<id>nextnovels:autores:Hibariyu</id>
+<title>Hibariyu</title>
+<updated>2026-10-20T22:30:50.437709+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-114.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>The Trash of the Roman Magnate Family Novela Web en Español</title>
-<id>https://nextnovels.com/descargar-the-trash-of-the-roman-magnate-family-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-trash-of-the-roman-magnate-family-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/The-Trash-of-the-Roman-Magnate-Family-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/06/The-Trash-of-the-Roman-Magnate-Family-Portada.jpg"/>
-<author><name>Gluttonous Demon King</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Fantasía" label="Fantasía"/>
+<title>The Neat and Pretty Girl at My New School Is a Childhood Friend of Mine Who I Thought Was a Boy Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-neat-and-pretty-girl-at-my-new-school-is-a-childhood-friend-of-mine-who-i-thought-was-a-boy-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-neat-and-pretty-girl-at-my-new-school-is-a-childhood-friend-of-mine-who-i-thought-was-a-boy-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/The-Neat-and-Pretty-Girl-at-My-New-School-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/07/The-Neat-and-Pretty-Girl-at-My-New-School-Portada.jpg"/>
+<author><name>Hibariyu</name></author>
+<category term="Comedia" label="Comedia"/>
 <category term="Harem" label="Harem"/>
-<category term="Histórico" label="Histórico"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<content type="text">Lee Jae-hoon, quien vivió toda su vida en la pobreza. Al cerrar los ojos por un momento de agotamiento en la biblioteca, los abrió para descubrir que se había convertido en el hijo mayor de la familia más rica del antiguo Imperio Romano.
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">“¡Siempre seremos amigos!”
 
-Una nueva vida que comienza de nuevo. Esta vez vivirá como es debido, manejando el dinero sin límites.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-trash-of-the-roman-magnate-family-novela-web-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Al final del verano de su infancia, Hayato le hizo una promesa a su querido amigo. Siete años después, al transferirse a una preparatoria en la ciudad, se reencontró con él... ¡quien se había transformado en una chica delicada y hermosa!
+
+Haruki, conocida como la "flor inalcanzable", se reía inocentemente y sonreía traviesamente cuando estaba sola con Hayato, intercambiaban almuerzos juntos en un aula vacía y jugaban juntos en casa... Sin embargo, cuando la trataban y se burlaban de ella como a una niña, se sonrojaba profundamente, volviéndose repentinamente adorable.
+
+Entre el campo y la ciudad, niño y niña, corazones y cuerpos maduros, en medio de los cambios ocurridos durante su separación, permanecen inalterados los sentimientos y las promesas…
+
+¡Una comedia romántica juvenil que se desarrolla con un amigo de la infancia que se creía que era un amigo masculino!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-neat-and-pretty-girl-at-my-new-school-is-a-childhood-friend-of-mine-who-i-thought-was-a-boy-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

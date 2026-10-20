@@ -1,84 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Cuttlefish That Loves Diving</id>
-<title>Cuttlefish That Loves Diving</title>
-<updated>2026-10-20T22:11:37.811421+00:00</updated>
+<id>nextnovels:autores:F.D. クロ・ノクターン</id>
+<title>F.D. クロ・ノクターン</title>
+<updated>2026-10-20T22:30:50.433629+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-73.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Lord of the Mysteries 2: Circle of Inevitability Novela Web en Español</title>
-<id>https://nextnovels.com/descargar-lord-of-the-mysteries-2-circle-of-inevitability-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-lord-of-the-mysteries-2-circle-of-inevitability-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/06/Circle-of-Inevitability-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/06/Circle-of-Inevitability-Portada.jpg"/>
-<author><name>Cuttlefish That Loves Diving</name></author>
+<title>What Remains After the Goodbye Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-what-remains-after-the-goodbye-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-what-remains-after-the-goodbye-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/What-Remains-After-the-Goodbye-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/09/What-Remains-After-the-Goodbye-Portada.jpg"/>
+<author><name>F.D. クロ・ノクターン</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Horror" label="Horror"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Xuanhuan" label="Xuanhuan"/>
-<content type="text">El Señor de los Misterios, segunda parte.
+<category term="Drama" label="Drama"/>
+<category term="Ficción" label="Ficción"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Suspenso" label="Suspenso"/>
+<content type="text">Tres obras cortas que exploran la vida cuando los sentimientos se guardan, las discusiones ocurren en silencio y los amores parecen eternos.
 
-En 1368, a finales de julio. Un escarlata sangriento descenderá del cielo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-lord-of-the-mysteries-2-circle-of-inevitability-novela-web-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
-</entry>
-<entry>
-<title>Lord of the Mysteries Novela Web en Español</title>
-<id>https://nextnovels.com/descargar-lord-of-the-mysteries-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-lord-of-the-mysteries-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/08/Lord-of-the-Mysteries-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/08/Lord-of-the-Mysteries-Portada.jpg"/>
-<author><name>Cuttlefish That Loves Diving</name></author>
-<category term="Horror" label="Horror"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">En un extraño mundo, en el que ha empezado a toda marcha la era del vapor y la maquinaria, existen los Beyonder, personas de gran poder que han cambiado incontables veces el curso de la historia.
+Aun así, el destino puede obligar a decir adiós, sin importar la situación en la que uno se encuentre.
 
-Tras despertar en un mundo alternativo de la era victoriana, un mundo lleno de maquinaria, cañones, dreadnoughts, dirigibles; así como de pociones, adivinación, maleficios, cartas de tarot y artefactos sellados… Zhou Mingrui se encuentra reencarnado como Klein Moretti.
+La vida puede ser cruel, pero también es quien nos enseña a vivir.
 
-Todo lo que lo rodea esta cubierto por a una serie de misterios, ¿Cómo llegó ahí? ¿Porque reencarnó? ¿Podrá volver? ¿Está él conectado con las grandes figuras del pasado? Y más importante aun… ¿Cómo murió Klen Moretti?
-
-Y a pesar de sus continuos intentos por sacar a la luz estos misterios, pareciera que la verdad de algunos de ellos estuviera cada vez más lejos de su alcance.
-
-Sigue las aventuras de Klein mientras se ve enredado con las diversas Iglesias del mundo (tanto ortodoxas como no ortodoxas), a la par que desarrolla lentamente nuevos poderes gracias a las pociones de los legendarios y enigmaticos Beyonder.
-
-¿Será casualidad que eligiera como seudonimo «El Loco», la carta del tarot cuyo número es el 0 y que representa un potencial ilimitado? ¿O quizás la niebla del destino ha empezado a revelar un cielo estrellado lleno de infinitas posibilidades?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-lord-of-the-mysteries-novela-web-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
-</entry>
-<entry>
-<title>Radiant Blade of the Wilderness Novela Web en Español</title>
-<id>https://nextnovels.com/descargar-radiant-blade-of-the-wilderness-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-radiant-blade-of-the-wilderness-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/Radiant-Blade-of-the-Wilderness-Portada-1.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/06/Radiant-Blade-of-the-Wilderness-Portada-1.jpg"/>
-<author><name>Cuttlefish That Loves Diving</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Wuxia" label="Wuxia"/>
-<category term="Xuanhuan" label="Xuanhuan"/>
-<content type="text">Zhulong, el Dragón Antorcha: al consumirlo, abre el caos primordial, ilumina las nueve tinieblas, gobierna el día y la noche, alterna las cuatro estaciones y convoca el viento y la lluvia.
-
-Xiangliu, la Serpiente de Nueve Cabezas: al consumirla, la tierra se corroe, las montañas son devoradas por completo, el veneno perdura durante cien generaciones y sus nueve cabezas se mueven cada una según su propia voluntad.
-
-Feiyi, la Serpiente de Dos Colas: al consumirla, Los insectos y los parásitos se someten a tu voluntad, el espíritu se fortalece y cien enfermedades no encuentran arraigo.
-
-Yuchong, la Tortuga de Tres Patas: al consumirla, el sigilo se convierte en una segunda naturaleza y arena mortal puede ser expulsada desde la boca.
-
-…
-
-”¿Por qué el secreto Clásico de Montañas y Mares de este mundo es tan diferente del que conocí en mi vida anterior?”
-
-Perdido en sus pensamientos, Ding Songyan volvió la cabeza hacia la persona que estaba a su lado y preguntó:
-
-”¿Quieres decir que estas criaturas se extinguieron hace mucho tiempo? ¿Y que solo quedaron las artes marciales creadas por quienes las consumieron primero, basadas en las transformaciones que sufrieron sus cuerpos? ¿Y que esas artes… todavía pueden cultivarse?”</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-radiant-blade-of-the-wilderness-novela-web-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Y si hoy no te dice nada, no pasa nada. Quizá mañana sí.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-what-remains-after-the-goodbye-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>
