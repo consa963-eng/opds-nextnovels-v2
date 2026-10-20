@@ -18,7 +18,7 @@ CATEGORY = BASE + "/category/novela-ligera/"
 UPDATES = BASE + "/actualzaciones-orientales/"
 
 # ⚠️ CAMBIA ESTO por la URL real de tu Worker de Cloudflare.
-WORKER_BASE = "https://opds-nextnovels.tu-subdominio.workers.dev"
+WORKER_BASE = "https://opds-nextnovels-v2.consa963.workers.dev"
 
 # Dominios de Terabox que hay que proxificar para que la app
 # descargue directamente sin abrir la web.
