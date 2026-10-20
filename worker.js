@@ -1,9 +1,8 @@
 const REPO = "https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main";
 const DATA_URL = `${REPO}/catalogo/catalogo.json`;
 
-// Nueva API que soporta leer dentro de carpetas (subcarpetas)
-const TERABOX_API = "https://api.teraboxdownloader.com/api/v1/terabox?url=";
-const TERABOX_DL_API = "https://api.teraboxdownloader.com/api/v1/terabox/download";
+const TERABOX_API = "https://terabox-dl.vercel.app/api/info?url=";
+const TERABOX_DL_API = "https://terabox-dl.vercel.app/api/download";
 
 function xmlEscape(value = "") {
   return String(value).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&apos;");
@@ -75,54 +74,68 @@ function headers(type = "application/atom+xml; charset=UTF-8") {
 }
 
 async function resolverTerabox(teraboxUrl) {
-  // Pedimos la información a la nueva API
+  // 1. Pedimos la info del enlace
   const resp = await fetch(TERABOX_API + encodeURIComponent(teraboxUrl));
   if (!resp.ok) throw new Error(`API Terabox respondió ${resp.status}`);
-  const data = await resp.json();
+  let data = await resp.json();
   
-  if (!data.status || !data.list || data.list.length === 0) {
+  if (!data.ok || !data.list || data.list.length === 0) {
     throw new Error("Enlace privado, caducado o API caída");
   }
 
   let targetFile = null;
+  let folderToExplore = null;
 
-  // Buscamos el archivo dentro de la lista (la API ya navega por las subcarpetas si es necesario)
-  for (const file of data.list) {
-    if (file.is_dir === 0 && file.server_filename.toLowerCase().endsWith(".epub")) {
-      targetFile = file;
-      break; // Nos quedamos con el primer EPUB que encuentre
+  // Buscamos si lo primero que sale es un EPUB/PDF o una carpeta
+  for (const item of data.list) {
+    if (item.is_dir === 0 && item.server_filename.toLowerCase().endsWith(".epub")) {
+      targetFile = item;
+      break;
+    } else if (item.is_dir === 0 && item.server_filename.toLowerCase().endsWith(".pdf") && !targetFile) {
+      targetFile = item; // Guardamos el PDF por si no hay EPUB
+    } else if (item.is_dir === 1) {
+      folderToExplore = item;
     }
   }
 
-  // Si no hay EPUB, probamos con PDF
-  if (!targetFile) {
-    for (const file of data.list) {
-      if (file.is_dir === 0 && file.server_filename.toLowerCase().endsWith(".pdf")) {
-        targetFile = file;
-        break;
-      }
+  // 2. Si no es un archivo directo, es una carpeta. Entramos a ella.
+  if (!targetFile && folderToExplore) {
+    const folderUrl = `${TERABOX_API}${encodeURIComponent(teraboxUrl)}&path=${encodeURIComponent(folderToExplore.path)}`;
+    const folderResp = await fetch(folderUrl);
+    const folderData = await folderResp.json();
+    
+    if (folderData.ok && folderData.list) {
+       // Buscamos dentro de la carpeta
+       for (const item of folderData.list) {
+         if (item.is_dir === 0 && item.server_filename.toLowerCase().endsWith(".epub")) {
+           targetFile = item;
+           data = folderData; // Actualizamos los datos de sesión a los de la carpeta
+           break;
+         } else if (item.is_dir === 0 && item.server_filename.toLowerCase().endsWith(".pdf") && !targetFile) {
+           targetFile = item;
+           data = folderData;
+         }
+       }
     }
   }
 
-  if (!targetFile) throw new Error("No se encontraron archivos .epub o .pdf válidos");
+  if (!targetFile) throw new Error("No se encontraron archivos válidos (EPUB/PDF) dentro");
 
-  // Pedimos el enlace de descarga directa para ese archivo
+  // 3. Pedimos el enlace de descarga
   const dlinkResp = await fetch(TERABOX_DL_API, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({
+      sign: data.sign,
+      timestamp: data.timestamp,
       shareid: data.shareid,
       uk: data.uk,
-      fs_id: targetFile.fs_id,
-      timestamp: data.timestamp,
-      sign: data.sign
+      fs_id: targetFile.fs_id
     })
   });
 
   const dlinkData = await dlinkResp.json();
-  if (!dlinkData.status || !dlinkData.dlink) {
-    throw new Error("No se pudo generar el enlace directo");
-  }
+  if (!dlinkData.ok || !dlinkData.dlink) throw new Error("No se pudo generar el enlace directo");
 
   return {
     directUrl: dlinkData.dlink,
