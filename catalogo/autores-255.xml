@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Kurokawa Yukitsugu</id>
+<title>Kurokawa Yukitsugu</title>
+<updated>2026-10-20T16:02:35.240817+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-255.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>Repeated Vice Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-repeated-vice-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-repeated-vice-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/Repeated-Vice-Portada.jpg" />
+<author><name>Kurokawa Yukitsugu</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Un sueño sobre la muerte fue la llamada de atención que necesitaba. Lofus Ray Lightless está lejos de ser un modelo de virtud. De hecho, se deleita en su maldad. Pero un vívido sueño sobre las muchas formas en que está destinado a morir lo convence de que debe cambiar su forma de actuar, o al menos fingir que lo hará. Con su fiel mayordomo a su lado, Lofus se propone cambiar el rumbo del destino a su favor para poder disfrutar de una vida larga y egoísta. Pero el futuro no es exactamente como lo ha visto, y puede que haya mordido más de lo que puede masticar....</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-repeated-vice-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+</entry>
+</feed>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Nanmin</id>
+<title>Nanmin</title>
+<updated>2026-10-20T16:02:35.244682+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-335.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>The Dragon-Slaying Maiden Offers up Her Soul Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-dragon-slaying-maiden-offers-up-her-soul-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-dragon-slaying-maiden-offers-up-her-soul-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/The-Dragon-Slaying-Maiden-Offers-up-Her-Soul-Portada.jpg" />
+<author><name>Nanmin</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Mecha" label="Mecha"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Yuri" label="Yuri"/>
+<content type="text">¿Por qué luchan ellas? Y yo... "Dragones": monstruos devoradores de hombres que arrebataron el espacio vital de la humanidad, empujándola a los confines del océano hace 20 años. Ahora, la humanidad ha iniciado una operación de contraataque para recuperar el "continente". Yamada, una mujer actualmente desempleada que solía ser la piloto más fuerte, decide regresar al frente de batalla con el deseo de "lograr algo" tras ser diagnosticada con solo un año de vida. Aunque planeaba imponer su autoridad como veterana ante las jóvenes de su unidad, Yamada termina sufriendo para adaptarse a las diferencias con las máquinas antiguas. Aun así, gracias a su alegría y desenfreno, las jóvenes logran liberar las angustias que guardaban y se sienten gradualmente atraídas por ella... sin saber que está destinada a desaparecer.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-dragon-slaying-maiden-offers-up-her-soul-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+</entry>
+</feed>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Kaya Kuramoto</id>
+<title>Kaya Kuramoto</title>
+<updated>2026-10-20T16:02:35.238300+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-201.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>Bakumatsu Magic Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-bakumatsu-magic-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-bakumatsu-magic-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/Bakumatsu-Magic-Portada.jpg" />
+<author><name>Kaya Kuramoto</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Romance" label="Romance"/>
+<content type="text">Es el ocaso del shogunato. Una era convulsa en la que la facción que aboga por expulsar a los bárbaros y la facción aperturista se enfrentan sin tregua. Kuze Iori, un joven estudioso de las ciencias occidentales y mago que se forma en la academia Tekijuku de Osaka, recibe la orden de su director, Ogata Kōan, de viajar al dominio de Matsue, en la provincia de Izumo, para traducir un intrincado libro de magia. Iori desea completar la traducción cuanto antes y regresar a Osaka, pero en la residencia a la que ha sido invitado le entregan un volumen que describe el horno de forja del mithril, el metal mágico cuya técnica se perdió con la antigua “Gran Catástrofe”, y que además estuvo relacionado con la caída de su difunto padre.
+
+A medida que Iori comienza la traducción, a su alrededor ocurren desapariciones misteriosas en las aldeas, el filo asesino de los patriotas anti-extranjeros ataca de improviso y el mago Kanamori Tonsō es asesinado. Junto a Tōma, un patriota de ojos rojos, Iori se adentra en un misterio tras otro. Y ante ambos se extiende, poco a poco, una oscuridad infinita oculta en la forja del mithril.
+
+Una fantasía de finales del shogunato donde la melodía de la magia lo envuelve todo.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-bakumatsu-magic-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+</entry>
+</feed>

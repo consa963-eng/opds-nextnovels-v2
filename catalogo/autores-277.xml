@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Maseki no Katasa</id>
+<title>Maseki no Katasa</title>
+<updated>2026-10-20T16:02:35.241846+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-277.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>Imperial Reincarnation Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-imperial-reincarnation-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-imperial-reincarnation-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/09/Imperial-Reincarnation-Portada.jpg" />
+<author><name>Maseki no Katasa</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">«¡Te ordeno que te arrodilles!».
+
+Cuando un aficionado a la historia reencarna en el emperador Carmine, un niño pequeño, inmediatamente se ve abrumado por la desesperación, ya que los gobernantes infantiles no son conocidos precisamente por su longevidad. Pero a medida que aprende los entresijos de la elaborada metafísica de su nueva realidad y el corrupto y abultado aparato estatal, pone en marcha un plan para purgar la podredumbre, y ¡ay de cualquier noble intrigante que se interponga entre Carmine y un gobierno funcional! Por supuesto, primero tendrá que sobrevivir, lo cual no es tarea fácil para un emperador infantil que baila al son que le tocan otros. Pero bueno, ¿tan difícil puede ser gobernar un imperio?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://www.mediafire.com/file/ngyx72o7y6h6z2b/Imperial_Reincarnation-_I_Came%252C_I_Saw%252C_I_Survived_06_%255BJNC%255D%255BPremium%255D.pdf/file" type="application/pdf" title="https://www.mediafire.com/file/ngyx72o7y6h6z2b/Imperial_Reincarnation-_I_Came%252C_I_Saw%252C_I_Survived_06_%255BJNC%255D%255BPremium%255D.pdf/file" />
+</entry>
+</feed>

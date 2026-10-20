@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Kaori Hakuchou</id>
+<title>Kaori Hakuchou</title>
+<updated>2026-10-20T16:02:35.237787+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-190.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>You’re the One I’ll Won’t Choose Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-youre-the-one-ill-wont-choose-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-youre-the-one-ill-wont-choose-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/Youre-the-One-Ill-Wont-Choose-Portada.jpg" />
+<author><name>Kaori Hakuchou</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Romance" label="Romance"/>
+<content type="text">Si pudieras volver a vivir la vida otra vez ¿Elegirías el mismo camino y el mismo amor?
+
+¿…Qué fue realmente mi vida?
+
+A los 41 años, Masahito Arisugawa, un músico de tercera categoría. Tras dedicar su carrera y su vida a apoyar a su esposa Miyako, su primer amor y una intérprete genial, lo único que le esperaba fue un divorcio repentino.
+
+Una noche, ahogado en alcohol por la desesperación, al despertar… ¡Su vida había retrocedido hasta la primavera de sus 15 años!
+
+Si pudiera rehacer su vida, quiere vivirla ya no atado a ella ni a la música, sino para sí mismo.
+
+Sin embargo, la experiencia y los conocimientos acumulados en su primera vida, junto con un cuerpo joven que puede moverse libremente, empiezan a despertar un talento musical que había permanecido dormido.
+
+Encuentros que vuelven a repetirse, un destino que cambia, y las decisiones que tendrá que tomar en medio de todo eso…
+
+La historia de revancha juvenil de un músico mediocre que lo perdió todo en el amor y en sus sueños, y que ahora vuelve a reinterpretar su vida.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-youre-the-one-ill-wont-choose-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+</entry>
+</feed>

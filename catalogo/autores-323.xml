@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Nagase Sarasa</id>
+<title>Nagase Sarasa</title>
+<updated>2026-10-20T16:02:35.244104+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-323.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>I’m the Villainess, So I’m Taming the Final Boss Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-im-the-villainess-so-im-taming-the-final-boss-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-im-the-villainess-so-im-taming-the-final-boss-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/Im-the-Villainess-So-Im-Taming-the-Final-Boss-Portada.jpg" />
+<author><name>Nagase Sarasa</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Romance" label="Romance"/>
+<category term="Shoujo" label="Shoujo"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Estoy en el mundo de un juego de romance que jugué en mi vida pasada, ¿verdad? Siendo ese el caso, como la villana, me veré enredada en la guerra entre la heroína y el rey demonio, pero sólo yo moriré… ¡¡Deben estar de broma!!
+
+Si es así, esquivaré el final mortal domesticando al último enemigo del juego, el rey demonio.
+
+Esta es la historia donde la villana les da su merecido a la heroína, su antiguo prometido y su amigo de la infancia; se convierte en empresaria, obtiene más subordinados (esclavos) y es mimada por el rey demonio.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-im-the-villainess-so-im-taming-the-final-boss-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+</entry>
+<entry>
+<title>The Do-Over Damsel Conquers the Dragon Emperor Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-do-over-damsel-conquers-the-dragon-emperor-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-do-over-damsel-conquers-the-dragon-emperor-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/08/The-Do-Over-Damsel-Conquers-the-Dragon-Emperor-Portada.jpg" />
+<author><name>Nagase Sarasa</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Romance" label="Romance"/>
+<category term="Shoujo" label="Shoujo"/>
+<content type="text">Jill es condenada a muerte por el príncipe heredero, su prometido. Pero justo antes de morir, es enviada seis años atrás en el tiempo, a la fiesta en la que se decidió su compromiso. Para evitar este destino ruinoso, Jill le propone matrimonio inmediatamente a la persona que está detrás de ella... ¡pero es el hombre que era su mayor enemigo, el emperador Hadis! Jill sabe todo sobre su futuro descenso al mal. Rápidamente se retracta de la propuesta, pero Hadis, encantado, la lleva de vuelta a su castillo y le prepara una comida. Completamente conquistada por la comida, Jill toma una decisión que le cambiará la vida...
+
+«¡Voy a reformarme, no, voy a hacerte feliz!».
+
+¡Es hora de rehacer esta vida con el enemigo!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-do-over-damsel-conquers-the-dragon-emperor-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+</entry>
+</feed>

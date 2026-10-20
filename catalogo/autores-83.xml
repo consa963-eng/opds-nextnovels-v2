@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Fuyuno Yozora</id>
+<title>Fuyuno Yozora</title>
+<updated>2026-10-20T16:02:35.232720+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-83.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>That Summer, Fell in Love at the End of a Dream Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-that-summer-fell-in-love-at-the-end-of-a-dream-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-that-summer-fell-in-love-at-the-end-of-a-dream-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/That-Summer-Fell-in-Love-at-the-End-of-a-Dream-Portada.jpg" />
+<author><name>Fuyuno Yozora</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Tragedia" label="Tragedia"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Si la vida pudiera reiniciarse, estaría dispuesto a pagar cualquier precio para volver a enamorarme de ti…
+
+— Realmente me gustas mucho…
+
+Esta es la última voz en este mundo, la última frase.
+
+Aunque con lágrimas en el rostro, seguía sonriendo.
+
+Después de dejar estas palabras, el mundo se terminó.
+
+Este largo sueño finalmente llegó a su fin…
+
+Apenas ingresé a la escuela, me enamoré a primera vista del senpai, quien tenía una increíble habilidad con el piano. Él, tan amable, se ofreció a enseñarme simplemente porque mencioné que me gustaba el piano, a pesar de ser la primera vez que nos veíamos. Cuando reuní el valor para participar con él en un concierto y le confesé mis sentimientos en un hermoso campo de girasoles, él finalmente correspondió a mi amor.
+
+Con el corazón lleno de esperanzas para un futuro feliz, todo se desmoronó en un instante por un accidente de coche. Debido a las heridas, quedé parapléjico, y el senpai perdió sus manos, las cuales solían tocar música tan hermosa. Sin embargo, en ese momento oscuro, un mensaje apareció repentinamente en mi móvil: "Si pudieras cambiar las decisiones del pasado, ¿qué harías? Este es el sueño que deseas, pero también el mundo falso que tanto anhelas. A pesar de esto, ¿te sumergirías en este sueño?"
+
+En ese instante, obtuve la oportunidad de cambiar nuestro destino y volver a enamorarme de él. Pero en este sueño con límite de tiempo, él ha olvidado completamente quién soy yo y nuestro amor...</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-that-summer-fell-in-love-at-the-end-of-a-dream-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+</entry>
+</feed>

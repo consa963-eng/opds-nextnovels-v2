@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Itsuki Tomohito</id>
+<title>Itsuki Tomohito</title>
+<updated>2026-10-20T16:02:35.236399+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-163.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>The Reason a Penniless High Schooler Became Desired by a Wealthy Young Lady Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-reason-a-penniless-high-schooler-became-desired-by-a-wealthy-young-lady-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-reason-a-penniless-high-schooler-became-desired-by-a-wealthy-young-lady-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/The-Reason-a-Penniless-High-Schooler-Became-Desired-by-a-Wealthy-Young-Lady-Portada.jpg" />
+<author><name>Itsuki Tomohito</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">La señorita adora la pobreza: ¿¡cuál es la razón por la que lo desea...!?
+
+El estudiante de preparatoria Tenma Seitaro, que lleva una vida en la pobreza, conoce a una hermosa detective escolar y chica rica. Por cosas del destino, Seitaro se convierte en asistente de la bella joven y termina viviendo en su mansión.
+
+Bajo el mismo techo que la señorita, uno pensaría que su relación se acerca rápidamente, pero... lo que ella busca es el poder oculto en su pobreza.
+
+Sin embargo, mientras persiguen casos juntos, la señorita empieza a desear al propio Seitaro...
+
+«¡Con toda tu pobreza incluida, me gustas, Seitaro!»
+
+¡Un estudiante de preparatoria sin un centavo es amado sin parar por la hija de una familia adinerada!
+
+¡Una comedia romántica de diferencia de clases de nuevo tipo que convierte la pobreza en felicidad!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-reason-a-penniless-high-schooler-became-desired-by-a-wealthy-young-lady-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+</entry>
+</feed>

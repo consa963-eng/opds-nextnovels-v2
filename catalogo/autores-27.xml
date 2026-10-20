@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Amamori Takibi</id>
+<title>Amamori Takibi</title>
+<updated>2026-10-20T16:02:35.230282+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-27.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>Too Many Losing Heroines! Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-too-many-losing-heroines-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-too-many-losing-heroines-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/07/Make-Heroine-ga-Oosugiru-Portada.jpg" />
+<author><name>Amamori Takibi</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Harem" label="Harem"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">“¿Huh? ¿A quién llamas perdedor?
+
+Yo, Nukumizu Kazuhiko, un personaje de fondo de la clase, fui testigo de cómo una chica famosa, Yanami Anna, era rechazada por otro estudiante.
+
+“Aunque dijo que nos casaríamos. ¿Crees que eso es justo?”
+
+“¿Cuándo dijo eso?”
+
+“Cuando teníamos 4 o 5 años de edad o algo así.”
+
+¿Entonces no cuenta? Junto a ella, estaban otras perdedoras como Yakishio Remon del Club de Atletismo y Tomari Chika del Club de Literatura.
+
+“Nukumizu-kun, hay dos tipos de chicas en el mundo. Una es la amiga de la infancia y la otra es una gata ladrona.”
+
+“De verdad, bueno. Es una declaración muy audaz esa ¿eh?”
+
+Hay una especie de destino en el que hay personas que realmente brillan solo después haber perdido. Heroínas perdedoras: ¡el telón de la misteriosa historia de la mayoría de edad “Makeine” se abre ahora!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-too-many-losing-heroines-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+</entry>
+</feed>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Ryo Shirakome</id>
+<title>Ryo Shirakome</title>
+<updated>2026-10-20T16:02:35.247140+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-387.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>Arifureta Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-arifureta-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-arifureta-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2021/12/arifureta-01-e1641220451841.jpg" />
+<author><name>Ryo Shirakome</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Drama" label="Drama"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Maduro" label="Maduro"/>
+<category term="Mecha" label="Mecha"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Hajime Nagumo, estudiante de secundaria, es víctima del acoso de sus compañeros por su relación con la idol de la clase, Kaori. Cierto día, toda su clase fue transportada a un nuevo y desconocido mundo de fantasía, cuando tomaron conciencia, todos sus compañeros habían obtenido poderosas habilidades mágicas, mientras que Hajime lo único que obtiene es la magia de alquimia básica, la cual sirve para transmutar materiales sólidos, una habilidad común y corriente que mayormente la suelen usar los artesanos y herreros. Durante una incursión en una mazmorra, Hajime es traicionado por uno de sus compañeros en medio de una feroz batalla y por desgracia cae al fondo de la mazmorra. Milagrosamente sobrevive a la caída, y ante la desesperación, el peligro que lo rodea, y la falta de habilidad de supervivencia, crea armas para sobrevivir y escapar de la mazmorra y hacerse más fuerte para vivir sin molestias. En su viaje, se encuentra con varios personajes que lo acompañarán en su aventura, con el vampiro encarcelado Yue, la conejita de orejas largas Shea, el dragón pervertido Tio, y muchos otros más.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-arifureta-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+</entry>
+<entry>
+<title>Arifureta Zero Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-arifureta-zero-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-arifureta-zero-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/06/01-13.jpg" />
+<author><name>Ryo Shirakome</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">Esta es la historia de lo que ocurrió mucho antes de que Hajime fuera convocado a Tortus. Oscar Orcus es considerado un sinergista de tercera categoría por la mayoría de la gente. Pasa sus días tranquilamente, trabajando para poder enviar dinero a un orfanato. Todo eso cambia cuando el torbellino que es Miledi Reisen irrumpe en su vida. Miledi ve el potencial oculto en Óscar, y le invita a su viaje para derrotar a los dioses. Óscar no quiere participar en ningún viaje y se niega. Pero Miledi es persistente, y la situación cambia drásticamente cuando el orfanato que quiere proteger es atacado. Al final, ¿qué decidirá nuestro improbable héroe?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-arifureta-zero-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+</entry>
+</feed>

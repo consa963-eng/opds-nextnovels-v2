@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Zezeze</id>
+<title>Zezeze</title>
+<updated>2026-10-20T16:02:35.255565+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-565.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>The Girls in The Entertainment Department Won't Let me, an Ardinary Person, Escape Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-girls-in-the-entertainment-department-wont-let-me-an-ardinary-person-escape-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-girls-in-the-entertainment-department-wont-let-me-an-ardinary-person-escape-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/06/The-Girls-in-The-Entertainment-Department-Wont-Let-me-an-Ardinary-Person-Escape-Portada.jpg" />
+<author><name>Zezeze</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">¡ Las chicas que saben distinguir lo extraordinario no pueden ignorar a este chico!
+
+"Yo, en realidad, estoy en el departamento académico..."
+
+Yuto Aoi, hijo secreto de un actor famoso, ingresa a la Preparatoria Privada Ichiyo, que tiene diversos departamentos.
+
+Él, como un estudiante común del departamento académico, desea tener una vida estudiantil tranquila... ¡Pero, por alguna razón, las chicas del departamento de artes escénicas no lo dejan en paz!
+
+Es acusado de ser el novio de su amiga de la infancia, Akari Hotta, que sueña con ser idol, debido a su cercana relación y comienza a vivir al lado de la popular actriz joven de su edad, Nagisa Minase, lo que da lugar a una vida diaria ruidosa y llena de atención.
+
+Además, la genética de su padre, quien fue llamado un ‘guapo nivel tesoro nacional’ cuando era joven, es bastante fuerte, y, debido a su atractivo oculto y su talento para la actuación ¡Le encargan ser la pareja para el examen del departamento de artes escénicas de Nagisa!
+
+¡Una comedia romántica escolar llena de chicas brillantes que se interesan por él!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-girls-in-the-entertainment-department-wont-let-me-an-ardinary-person-escape-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+</entry>
+</feed>

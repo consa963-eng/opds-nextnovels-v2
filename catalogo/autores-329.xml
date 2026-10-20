@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Nana Nanana</id>
+<title>Nana Nanana</title>
+<updated>2026-10-20T16:02:35.244394+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-329.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>Can a Boy-Girl Friendship Survive? Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-can-a-boy-girl-friendship-survive-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-can-a-boy-girl-friendship-survive-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/06/Can-a-Boy-Girl-Friendship-Survive-Portada.jpg" />
+<author><name>Nana Nanana</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">La amistad de la infancia entre Himari y Yu se tambalea cuando Yu se reencuentra en el instituto con su primer amor. Himari, que nunca ha experimentado la emoción del enamoramiento, ahora debe enfrentarse a sus propios sentimientos. Sus sueños compartidos y los tranquilos días en su club de jardinería se ponen a prueba en esta historia con amor, flores y los altibajos que supone madurar.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-can-a-boy-girl-friendship-survive-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+</entry>
+</feed>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:generos:Ficción</id>
+<title>Ficción</title>
+<updated>2026-10-20T16:02:35.276709+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-11.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>Gosick BLUE Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-gosick-blue-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-gosick-blue-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/Gosick-BLUE.jpg" />
+<author><name>Sakuraba Kazuki</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Ficción" label="Ficción"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">¡Tras cruzar un mar lejano y llegar por fin al Nuevo Continente, se vieron envueltos en un atentado con bomba ocurrido en la torre de gran altura que simboliza el éxito del Nuevo Mundo! En ese momento, ¿qué pasó con Viktoria, en el último piso de la torre, y con Kazuya, en el subsuelo…!? ¡La segunda entrega de la nueva y popular serie de misterio!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-gosick-blue-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+</entry>
+<entry>
+<title>Gosick GREEN Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-gosick-green-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-gosick-green-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/Gosick-GREEN.jpg" />
+<author><name>Sakuraba Kazuki</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Ficción" label="Ficción"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Nada más llegar al Nuevo Mundo, Viktoria y Kazuya resolvieron un caso difícil tras otro. La Agencia de Detectives Grey Wolf, recién inaugurada, se vio desbordada por una avalancha de clientes. ¿Acaso el legendario ladrón de bancos se ha fugado de la cárcel…? ¡¿La famosa y milagrosa dupla volverá a causar un gran revuelo en todo Nueva York?!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-gosick-green-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+</entry>
+<entry>
+<title>Gosick PINK Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-gosick-pink-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-gosick-pink-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/Gosick-PINK.jpg" />
+<author><name>Sakuraba Kazuki</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Ficción" label="Ficción"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Tras llegar a Nueva York, Viktoria y Kazuya se alojaron en la casa de Ruri, la hermana de Kazuya. Al salir a la calle de inmediato, se toparon con los misterios un tanto extraños del Nuevo Continente… ¿Quién fue el primer cliente que recibió la Agencia de Detectives Gray Wolf? ¡La tercera entrega de esta popular serie!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-gosick-pink-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+</entry>
+<entry>
+<title>Gosick RED Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-gosick-red-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-gosick-red-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/Gosick-RED.jpg" />
+<author><name>Sakuraba Kazuki</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Ficción" label="Ficción"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">¡La historia se desarrolla en Nueva York! Viktoria, dotada de una inteligencia prodigiosa conocida como la «Fuente de la Sabiduría», abre una agencia de detectives, pero pronto recibe un encargo peligroso de un jefe del hampa... ¡La esperada edición de bolsillo de esta popular serie de misterio, oscura y encantadora, que ahora toma un nuevo rumbo!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-gosick-red-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+</entry>
+<entry>
+<title>MONSTER DAYS Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-monster-days-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-monster-days-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/11/MONSTER-DAYS-Portada.jpg" />
+<author><name>扇友太</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Ficción" label="Ficción"/>
+<content type="text">Adéntrate en un mundo donde humanos y monstruos apenas logran coexistir tras siglos de guerra, traición y sangre derramada.
+
+Sigue a Lyle Anglais, un joven agente de la Oficina de Mediación Humano-Demoniaca, en su arriesgada misión por mantener la paz entre especies enfrentadas por generaciones. Pero cuando una misteriosa y poderosa princesa dragón entra en su vida —una niña que carga con un destino envuelto en peligro y secretos—, su deber se transforma en una promesa personal: protegerla a toda costa, incluso si debe enfrentarse al mundo entero.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-monster-days-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+</entry>
+<entry>
+<title>What Remains After the Goodbye Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-what-remains-after-the-goodbye-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-what-remains-after-the-goodbye-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/What-Remains-After-the-Goodbye-Portada.jpg" />
+<author><name>F.D. クロ・ノクターン</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Drama" label="Drama"/>
+<category term="Ficción" label="Ficción"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Suspenso" label="Suspenso"/>
+<content type="text">Tres obras cortas que exploran la vida cuando los sentimientos se guardan, las discusiones ocurren en silencio y los amores parecen eternos.
+
+Aun así, el destino puede obligar a decir adiós, sin importar la situación en la que uno se encuentre.
+
+La vida puede ser cruel, pero también es quien nos enseña a vivir.
+
+Y si hoy no te dice nada, no pasa nada. Quizá mañana sí.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-what-remains-after-the-goodbye-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+</entry>
+</feed>

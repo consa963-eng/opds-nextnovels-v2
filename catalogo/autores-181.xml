@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Kamitsuki Rainy</id>
+<title>Kamitsuki Rainy</title>
+<updated>2026-10-20T16:02:35.237353+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-181.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>Witch &amp; Hound Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-witch-hound-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-witch-hound-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/Witch-and-Hound-Portada.jpg" />
+<author><name>Kamitsuki Rainy</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Seinen" label="Seinen"/>
+<content type="text">La misión es convertir en aliadas a las brujas, portadoras de calamidades.
+
+Campusfello, un pequeño país próspero en agricultura y herrería. La gente que allí vivía era pobre, pero de corazón rico. Sin embargo, el fuego de la guerra y la invasión se cernía sobre aquella pequeña nación. El Reino de la Lucha y la Magia, Amelia, bajo el mando de la Reina Amelia, había acaparado a muchos magos y seguía expandiendo su territorio mediante un poder sobrenatural.
+
+Si esto continuaba, Campusfello sería destruido. Ante esto, el señor feudal, Bad Grace, recurrió a una estratagema desesperada para cambiar las tornas. Esta consistía en reunir a las terribles brujas dispersas por todo el continente y enfrentarse al Reino de Amelia.
+
+Por esa misma época, llegó la noticia de que la "Bruja del Espejo" había sido capturada en Lëwe, el País de los Caballeros, vecino de Campusfello. Se decía que la bruja, que había seducido al rey de Lëwe e intentado ocupar el trono de reina consorte, fue descubierta el día de su boda y masacró a los asistentes.
+
+Bad, el señor feudal, parte hacia Lëwe con sus sirvientes para conseguir la custodia de la "Bruja del Espejo". Entre ese grupo se encontraba Roro. Conocido comúnmente como "Perro Negro", era un muchacho al que habían inculcado todo tipo de técnicas de asesinato y que había sido criado como el asesino de Campusfello... Una fantasía oscura, grandiosa y feroz, como nunca se ha visto, alza el telón.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-witch-hound-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+</entry>
+</feed>
