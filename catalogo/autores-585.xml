@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Yoshida Sunao</id>
+<title>Yoshida Sunao</title>
+<updated>2026-10-20T22:11:37.853443+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-585.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>Trinity Blood CANON Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-trinity-blood-canon-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-trinity-blood-canon-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/Trinity-Blood-CANON-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/03/Trinity-Blood-CANON-Portada.jpg"/>
+<author><name>Yoshida Sunao</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Drama" label="Drama"/>
+<category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Se incluyen todos los relatos cortos hasta ahora no recopilados, como "Gunmetal Hound". Además, a partir de las notas de ideas y materiales de diseño que dejó el autor, ¡se explica el 〈principio〉 y el 〈 final 〉 de "Trinity Blood" que nunca llegaron a escribirse! También se publica la versión más reciente del glosario "Gran Compendio Eclesiástico".</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-trinity-blood-canon-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+</feed>

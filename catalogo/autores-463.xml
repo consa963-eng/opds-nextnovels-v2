@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Shin Kouduki</id>
+<title>Shin Kouduki</title>
+<updated>2026-10-20T22:11:37.843802+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-463.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>The Banished Former Hero Lives as He Pleases Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-banished-former-hero-lives-as-he-pleases-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-banished-former-hero-lives-as-he-pleases-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/09/The-Banished-Former-Hero-Lives-as-He-Pleases-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/09/The-Banished-Former-Hero-Lives-as-He-Pleases-Portada.jpg"/>
+<author><name>Shin Kouduki</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
+<content type="text">Considerado un «inútil» por su bajo nivel y su falta de un don divino, Allen es despojado de su estatus noble y desterrado del Ducado de Westfeldt. Pero Allen tiene un secreto: fue un gran héroe en su vida anterior, ¡y está encantado de tener la oportunidad de vivir por fin como le plazca! Sin embargo, su existencia sin dramas pronto se ve interrumpida por un encuentro desesperado con su exnovia. Como antiguo héroe que aún posee los increíbles poderes de su vida pasada, Allen no puede ignorar a alguien que necesita ayuda, ¡por mucho que le gustaría hacerlo! ¡Y así comienza la nueva saga heroica que nuestro antiguo héroe nunca quiso!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-banished-former-hero-lives-as-he-pleases-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+</feed>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Kumo Kagyu</id>
+<title>Kumo Kagyu</title>
+<updated>2026-10-20T22:11:37.827390+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-266.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>Moscow 2160 Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-moscow-2160-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-moscow-2160-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/Moscow-2160-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/06/Moscow-2160-Portada.jpg"/>
+<author><name>Kumo Kagyu</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Drama" label="Drama"/>
+<category term="Psicológico" label="Psicológico"/>
+<content type="text">Buscar comida o morir de hambre. Luchar o congelarse. Matar o ser asesinado.
+
+Es el año 2160, y la Guerra Fría sigue en pleno apogeo entre EE. UU. y la URSS, sin un final a la vista. En Moscú, la libertad, la verdad y la prosperidad desaparecieron hace mucho tiempo. Niños abandonados, hambrientos y tiritando de frío luchan por sobrevivir. Soldados cyborgs impredecibles regresan de la guerra enojados y armados. Las autoridades gubernamentales vigilan a todos a través de las redes cibernéticas mientras transmiten noticias sobre supuestas victorias en el extranjero. En la batalla entre bastidores, el KGB, los espías del bloque occidental y la mafia se persiguen unos a otros. Danila Kragin es una pieza en su conflicto: un mercenario y un activo desechable llamado «Janitor». Luchando como todos los demás, hará cualquier trabajo por un precio, y ni siquiera en medio de una lluvia de balas se dará por vencido. Pase lo que pase, debe llegar a casa, por su amada Stasia y por sus hermanos menores, quienes esperan su regreso a salvo.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-moscow-2160-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+</feed>

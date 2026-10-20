@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:神代家家長</id>
+<title>神代家家長</title>
+<updated>2026-10-20T22:11:37.856957+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-631.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>I was Summoned to Another World, but I Got the Power to Cut Anything, so It was Easy Mode Novela Web en Español</title>
+<id>https://nextnovels.com/descargar-i-was-summoned-to-another-world-but-i-got-the-power-to-cut-anything-so-it-was-easy-mode-novela-web-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-i-was-summoned-to-another-world-but-i-got-the-power-to-cut-anything-so-it-was-easy-mode-novela-web-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/I-was-Summoned-to-Another-World-but-I-Got-the-Power-to-Cut-Anything-so-It-was-Easy-Mode-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/05/I-was-Summoned-to-Another-World-but-I-Got-the-Power-to-Cut-Anything-so-It-was-Easy-Mode-Portada.jpg"/>
+<author><name>神代家家長</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">Durante una clase en el instituto, Haruki Ito, uno de los estudiantes, es invocado a otro mundo junto con toda su clase. Encerrado en una celda con una compañera, Haruki forma pareja con Shizuka Inoue, una chica que resulta ser una belleza oculta. Ambos son encerrados juntos y, tras ser drogados con una sustancia en la comida que los obliga a entrar en celo, terminan teniendo una relación física de manera inevitable. Durante una semana, permanecen encerrados, siendo drogados repetidamente con cada comida, lo que los lleva a mantener una relación continua.
+
+Tras ser liberados y reunirse con sus compañeros de clase, descubren que las mujeres que formaban pareja con cada estudiante son tomadas como rehenes, y se ven obligados a luchar contra monstruos para servir al reino. Gracias al sistema único de este mundo, Haruki obtiene el poder necesario para enfrentarse a los monstruos…
+
+(¿Eh? ¿No soy yo… como súper fuerte?)
+
+Se revela que Haruki Ito no solo es más fuerte que los considerados los más poderosos del reino, sino que posee un poder de nivel superior, capaz de destruir un país por sí solo.
+
+Esta es la historia de Haruki Ito, quien, con el poder divino conocido como Ripper (El Destripador), se convierte en un ser invencible enfrentándose a los más fuertes en este mundo de fantasía.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-i-was-summoned-to-another-world-but-i-got-the-power-to-cut-anything-so-it-was-easy-mode-novela-web-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+</feed>

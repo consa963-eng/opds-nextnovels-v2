@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Kamishiro Kyousuke</id>
+<title>Kamishiro Kyousuke</title>
+<updated>2026-10-20T22:11:37.822473+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-207.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>My Stepmom’s Daughter Is My Ex Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-my-stepmoms-daughter-is-my-ex-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-my-stepmoms-daughter-is-my-ex-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-27.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-27.jpg"/>
+<author><name>Kamishiro Kyousuke</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Un chico y una chica de la escuela secundaria se convirtieron en pareja, coquetearon, discreparon en cosas triviales, se irritaron con más frecuencia el uno con el otro... y finalmente rompieron al graduarse.
+
+Ahora, en el instituto, los dos, Irido Mizuto y Ayai Yume, acabaron encontrándose de la forma más inesperada.
+
+La antigua pareja, reunida por el nuevo matrimonio de sus padres, decidió tener en cuenta los sentimientos de sus padres e ideó una "regla de hermanos", según la cual el primero que toma conciencia del otro como miembro del otro sexo pierde, pero...
+
+Cuando se encuentran en el cuarto de baño, van y vienen juntos de la escuela, junto con los recuerdos del pasado y viviendo bajo el mismo techo, ¿cómo se desentienden el uno del otro?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-my-stepmoms-daughter-is-my-ex-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+</feed>

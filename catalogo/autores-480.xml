@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Shouga Neiya</id>
+<title>Shouga Neiya</title>
+<updated>2026-10-20T22:11:37.845168+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-480.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>When I Repaired a Gal’s Bicycle, She Became Attached to Me Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-when-i-repaired-a-gals-bicycle-she-became-attached-to-me-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-when-i-repaired-a-gals-bicycle-she-became-attached-to-me-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/When-I-Repaired-a-Gals-Bicycle-She-Became-Attached-to-Me-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/10/When-I-Repaired-a-Gals-Bicycle-She-Became-Attached-to-Me-Portada.jpg"/>
+<author><name>Shouga Neiya</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Kutsuzawa Kousei es un chico introvertido sin ningún amigo. Un día, mientras caminaba solo a casa como siempre, se topa con la chica más popular de la clase, una chica guapa muy codiciada por todos los chicos.
+
+Después de salvarla de una caída y reparar su bicicleta, planea marcharse de inmediato, pero ella le mira con ojos de admiración.
+
+Un introvertido y una chica social, dos personas que nunca debieron cruzarse, torpes, pero irresistiblemente atraídos el uno por el otro, comienza su historia juvenil de comedia romántica.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-when-i-repaired-a-gals-bicycle-she-became-attached-to-me-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+</feed>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Drug Jelly</id>
+<title>Drug Jelly</title>
+<updated>2026-10-20T22:11:37.812015+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-79.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>A Way To Protect You, Sweetheart Novela Web en Español</title>
+<id>https://nextnovels.com/descargar-a-way-to-protect-you-sweetheart-novela-web-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-a-way-to-protect-you-sweetheart-novela-web-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/09/A-Way-To-Protect-You-Sweetheart-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/09/A-Way-To-Protect-You-Sweetheart-Portada.jpg"/>
+<author><name>Drug Jelly</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Maduro" label="Maduro"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Romance" label="Romance"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">Finalmente, era su primera noche.
+
+Leticia susurró, apoyando su frente contra su pecho.
+
+—Como era de esperar, ¿está demasiado lejos? ¿Debería acercarme?
+
+Dietrian apenas se tragó un gemido. Su mano agarrando el hombro de Leticia estaba temblando con una dulce expresión, pero ella no se dio cuenta.
+
+—Sé que te sientes incómodo. Pero por favor ten paciencia conmigo hasta que venga mi madre.
+
+Dietrian odiaba a Leticia. Era normal sabiendo que la madre de Leticia mató a su familia. Ella nunca había dudado del hecho.
+
+Así que ella no sabía lo mucho que su rostro estaba distorsionado por sus palabras.
+
+—Solo tienes que aguantarme medio año. Entonces, me divorciaré de ti como quieras.
+
+Al oír la palabra "divorcio", él apretó los dientes.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-a-way-to-protect-you-sweetheart-novela-web-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+</feed>

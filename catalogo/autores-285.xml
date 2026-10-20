@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Leonar D</id>
+<title>Leonar D</title>
+<updated>2026-10-20T22:11:37.828848+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-285.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>The Poison King Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-poison-king-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-poison-king-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/05/The-Poison-King-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/05/The-Poison-King-Portada.jpg"/>
+<author><name>Leonar D</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Adulto" label="Adulto"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Maduro" label="Maduro"/>
+<category term="Romance" label="Romance"/>
+<content type="text">Hace trece años, un terrible monstruo llamado la Reina del Veneno atacó el Reino de Jade. Un valiente grupo de aventureros la derrotó, pero en el proceso uno de ellos fue golpeado por una maldición. Para sobrevivir, tuvo que transmitirla a su propio hijo. Despreciado como un niño maldito desde su nacimiento, Caim Halsberg es odiado por todos, excepto por su difunta madre y Tea, una sirvienta que trabaja para su familia. Mientras su padre y su hermana gemela residen en su mansión, Caim se ve obligado a vivir solo en una cabaña en el bosque. Pero todo cambia cuando cierto médico lo ayuda a superar la maldición y reclamar su poder. Caim, ahora convertido en el Rey del Veneno, emprende un viaje para lograr su único deseo, ¡pero nunca imaginó que su veneno tendría un efecto tan peculiar en las bellezas que conoce!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-poison-king-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+</feed>

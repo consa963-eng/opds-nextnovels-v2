@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Xizhi Dian</id>
+<title>Xizhi Dian</title>
+<updated>2026-10-20T22:11:37.852197+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-569.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>Urgent! The Female CEO Turned into a Cat and Refused to Leave my House! Novela Web en Español</title>
+<id>https://nextnovels.com/descargar-urgent-the-female-ceo-turned-into-a-cat-and-refused-to-leave-my-house-novela-web-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-urgent-the-female-ceo-turned-into-a-cat-and-refused-to-leave-my-house-novela-web-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/Urgent-The-Female-CEO-Turned-into-a-Cat-and-Refused-to-Leave-my-House-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/07/Urgent-The-Female-CEO-Turned-into-a-Cat-and-Refused-to-Leave-my-House-Portada.jpg"/>
+<author><name>Xizhi Dian</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<content type="text">Diario de Su Yan: Mi nombre es Su Yan, un empleado ordinario de Morningstar Financial.
+
+Encontré una gata calicó; es linda, pero tiene mal genio.
+
+Pero desde que tengo a esta gata, a menudo me descuentan el sueldo en la empresa donde trabajo, y la mirada de la directora ejecutiva hacia mí se ha vuelto cada vez más extraña.
+
+Siento que estoy al borde de ser despedido por un jefe inescrupuloso en cualquier momento.
+
+Sinceramente, ofrezco una gata calicó en venta. Si alguien quiere comprarla... ¡olvídalo!
+
+…………
+
+Diario de la presidenta: Mi nombre es Shu Qing y soy la presidenta de Morningstar Financial.
+
+Me he topado con algo muy extraño; cada tarde me convierto en gata.
+
+Desde que fui "secuestrada" y llevada a casa por un hombre sinvergüenza llamado Su Yan, me he dado cuenta poco a poco de que las cosas no son tan simples como parecen.
+
+Este hombre parece tener un gran talento para las finanzas.
+
+Con su ayuda invisible, logré que la empresa capeara todas las crisis de manera segura.
+
+Pero a este idiota siempre le gusta tocarme de forma inapropiada.
+
+Contratar a un sicario, el objetivo es un empleado estúpido, si alguien acepta el trabajo... ¡olvídalo!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-urgent-the-female-ceo-turned-into-a-cat-and-refused-to-leave-my-house-novela-web-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+</feed>

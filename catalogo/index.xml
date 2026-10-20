@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
 <id>nextnovels:root</id>
 <title>Next Novels</title>
-<updated>2026-10-20T20:59:07.712507+00:00</updated>
-<link rel="self" href="https://opds-nextnovels-v2.consa963.workers.dev/catalogo/index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
-<entry><title>Novedades</title><id>nextnovels:novedades.xml</id><content type="text">Abrir novedades</content><link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/catalogo/novedades.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/></entry>
-<entry><title>Todas las novelas</title><id>nextnovels:todos.xml</id><content type="text">Abrir todas las novelas</content><link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/catalogo/todos.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/></entry>
-<entry><title>Autores</title><id>nextnovels:autores.xml</id><content type="text">Abrir autores</content><link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/catalogo/autores.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/></entry>
-<entry><title>Géneros</title><id>nextnovels:generos.xml</id><content type="text">Abrir géneros</content><link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/catalogo/generos.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/></entry>
-<entry><title>Títulos A-Z</title><id>nextnovels:titulos.xml</id><content type="text">Abrir títulos a-z</content><link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/catalogo/titulos.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/></entry>
+<updated>2026-10-20T22:11:37.767469+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<entry><title>Novedades</title><id>nextnovels:novedades.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/novedades.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
+<entry><title>Todas las novelas</title><id>nextnovels:todos.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/todos.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
+<entry><title>Autores</title><id>nextnovels:autores.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
+<entry><title>Géneros</title><id>nextnovels:generos.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
+<entry><title>Títulos A-Z</title><id>nextnovels:titulos.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/titulos.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
 </feed>

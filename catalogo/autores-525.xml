@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Tetometo</id>
+<title>Tetometo</title>
+<updated>2026-10-20T22:11:37.848694+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-525.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>I Began the Summoner in VRMMO Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-i-began-the-summoner-in-vrmmo-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-i-began-the-summoner-in-vrmmo-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/04/I-Began-the-Summoner-in-VRMMO-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/04/I-Began-the-Summoner-in-VRMMO-Portada.jpg"/>
+<author><name>Tetometo</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<content type="text">El primer juego de acción VRMMO del mundo: FWO (Fantasy World Online). Nuestro protagonista decide convertirse en Invocador. No tiene un interés particular en capturar monstruos de forma agresiva ni en convertirse en el jugador más fuerte; simplemente desea vivir una aventura, buscar monstruos adorables y conseguir materiales para ropa. Sin darse cuenta, y llevado por una situación tras otra, termina convirtiéndose en el Invocador mejor clasificado.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-i-began-the-summoner-in-vrmmo-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:generos:Shounen Ai</id>
+<title>Shounen Ai</title>
+<updated>2026-10-20T22:11:37.936419+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-38.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>A Lucky Coin Novela Web en Español</title>
+<id>https://nextnovels.com/descargar-a-lucky-coin-novela-web-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-a-lucky-coin-novela-web-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/04/A-Lucky-Coin-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/04/A-Lucky-Coin-Portada.jpg"/>
+<author><name>Wu Zhe</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Shounen Ai" label="Shounen Ai"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Un adolescente deprimido de diecisiete años, cuya madre murió cuando era niño y cuyo padre desaparece con frecuencia, conoce a un niño tartamudo que es abusado con frecuencia por su familia y acosado por sus compañeros de escuela. Con el paso de los días, se vuelven el único amigo del otro, con graduales chispas de admiración. Pero el tumultuoso curso de la vida no les permite una existencia pacífica. El pasado resurge, y los sentimientos de ambos cambian silenciosamente…
+
+Un pasado misterioso. Una existencia errabunda. Dos adolescentes inseguros.
+
+Después que los padres de ambos desaparecen, una investigación detallada comienza a desentrañar las capas de la verdad… ¿qué deparará el futuro para Yan Hang, que desaparece sin despedirse, y para Chu Yi, de corazón noble? Cuando vuelvan a encontrarse años después, ¿qué camino seguirán?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-a-lucky-coin-novela-web-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+</feed>

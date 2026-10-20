@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Roeselawik</id>
+<title>Roeselawik</title>
+<updated>2026-10-20T22:11:37.839319+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-411.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>The Sex Beast System Novela Web en Español</title>
+<id>https://nextnovels.com/descargar-the-sex-beast-system-novela-web-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-sex-beast-system-novela-web-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/The-Sex-Beast-System-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/05/The-Sex-Beast-System-Portada.jpg"/>
+<author><name>Roeselawik</name></author>
+<category term="Adulto" label="Adulto"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">La emoción corría salvaje entre todos, ya que era el Día de la Ceremonia del Sistema, donde cada individuo se infunde con sus sistemas. Jacob, no era diferente. Para su alegría, consiguió un sistema en el que se ganan puntos al realizar tareas pervertidas y disfrutar de actividades nocturnas: el sistema de bestias. Bueno, esa alegría duró unos pocos segundos antes de que se diera cuenta de las otras especificaciones de este sistema … lo que lo hizo casi desmayarse por la sorpresa.
+
+Lo que Jacob pensó que era un sistema roto al principio, resultó ser algo completamente diferente incluso de su imaginación más salvaje…y cambió por completo toda su vida.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-sex-beast-system-novela-web-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+</feed>

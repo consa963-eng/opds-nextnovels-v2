@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Natsunomi</id>
+<title>Natsunomi</title>
+<updated>2026-10-20T22:11:37.835496+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-365.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>A Toxic 20-Year-Old Game Streamer Accidentally Reveals His Nice Personality Because He Forgot to End the Stream Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-a-toxic-20-year-old-game-streamer-accidentally-reveals-his-nice-personality-because-he-forgot-to-end-the-stream-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-a-toxic-20-year-old-game-streamer-accidentally-reveals-his-nice-personality-because-he-forgot-to-end-the-stream-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/04/A-Toxic-20-Year-Old-Game-Streamer-Accidentally-Reveals-His-Nice-Personality-Because-He-Forgot-to-End-the-Stream-Portada.jpeg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/04/A-Toxic-20-Year-Old-Game-Streamer-Accidentally-Reveals-His-Nice-Personality-Because-He-Forgot-to-End-the-Stream-Portada.jpeg"/>
+<author><name>Natsunomi</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">«Lo que ha pasado hoy es un secreto entre nosotros, ¿de acuerdo?».
+
+Nakayama Haruto es un comentarista de videojuegos conocido por su toxicidad como el streamer «Oni-chan». Después de terminar su sesión de streaming habitual, Haruto olvidó accidentalmente finalizar la transmisión. Como resultado, su vida secreta como streamer que trabaja para apoyar la educación y los gastos de manutención de su hermana menor queda al descubierto. Además, también se revela que prepara meticulosamente guiones para provocar a los demás, ¡todo ello mientras es, en realidad, una persona genuinamente agradable!
+
+Para complicar aún más las cosas, durante una retransmisión en directo del popular VTuber y jugador profesional, Ayaya (alias Shirayuki Aya), Haruto revela sin querer su verdadera personalidad una vez más. Inesperadamente, esto hizo que se acercaran más el uno al otro mientras seguían jugando y saliendo juntos.
+
+¡Así comienza una comedia romántica entre el tóxico streamer con mentalidad empresarial y la popular heroína VTuber!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-a-toxic-20-year-old-game-streamer-accidentally-reveals-his-nice-personality-because-he-forgot-to-end-the-stream-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+</feed>

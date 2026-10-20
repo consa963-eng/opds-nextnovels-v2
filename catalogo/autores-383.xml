@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Ogiwara Noriko</id>
+<title>Ogiwara Noriko</title>
+<updated>2026-10-20T22:11:37.836867+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-383.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>Red Data Girl Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-red-data-girl-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-red-data-girl-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/01/Red-Data-Girl-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/01/Red-Data-Girl-Portada.jpg"/>
+<author><name>Ogiwara Noriko</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Romance" label="Romance"/>
+<category term="Shoujo" label="Shoujo"/>
+<category term="Supernatural" label="Supernatural"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Izumiko Suzuhara es una niña de 15 años que se crio en el Santuario Tamakura, parte del Santuario Kumano, Patrimonio de la Humanidad. Tiene una extraña aflicción en la que destruye cualquier dispositivo eléctrico con el que entra en contacto.
+
+A pesar de ser tímida, quiere intentar vivir en la ciudad. Su tutor, Yukimasa Sagara, le recomienda que se inscriba en la Escuela Preparatoria Houjou en Tokio, acompañada por su hijo y amigo de la infancia de Izumiko, Miyuki Sagara.
+
+Mientras está en Tokio, aparece una entidad llamada "Himegami". Izumiko se entera de que ella es una yorishiro, un recipiente para un espíritu sintoísta conocido como kami, mientras que Miyuki se entera de que él es un yamabushi, un guerrero encargado de protegerla.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-red-data-girl-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+</feed>

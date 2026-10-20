@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Eagle Eats Chick</id>
+<title>Eagle Eats Chick</title>
+<updated>2026-10-20T22:11:37.812174+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-81.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>Stargate Novela Web en Español</title>
+<id>https://nextnovels.com/descargar-stargate-novela-web-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-stargate-novela-web-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/Stargate-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/02/Stargate-Portada.jpg"/>
+<author><name>Eagle Eats Chick</name></author>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Romance" label="Romance"/>
+<category term="Supernatural" label="Supernatural"/>
+<category term="Xuanhuan" label="Xuanhuan"/>
+<content type="text">El cultivo marcial tradicional y una sociedad en ciernes de habilidades arcanas chocan en la moderna Ciudad de Plata. ¿Son mejores los caminos probados y verdaderos, o son las artes llamativas de un poder abrumador el nuevo orden mundial?
+
+Li Hao es arrastrado fuera de la normalidad por una canción y la muerte de su amigo de la infancia. Enzarzado en una guerra entre lo viejo y lo nuevo, debe decidir qué camino seguir. Lo que los demás no saben es que el joven con una sonrisa fácil es la definición de libro de texto de jugar a ser un cerdo para comerse al tigre. No se trata de encontrar a los que le hacen daño, sino de cuánto les hará pagar.
+
+¿Qué será, qi o magia? Pero, ¿Por qué las decisiones siempre tienen que ser en blanco y negro? ¿No puede mezclar su propio tono de gris?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-stargate-novela-web-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+</feed>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Zhu Yi</id>
+<title>Zhu Yi</title>
+<updated>2026-10-20T22:11:37.855738+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-615.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>The First Frost Novela Web en Español</title>
+<id>https://nextnovels.com/descargar-the-first-frost-novela-web-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-first-frost-novela-web-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/04/The-First-Frost-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/04/The-First-Frost-Portada.jpg"/>
+<author><name>Zhu Yi</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Maduro" label="Maduro"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<content type="text">Fue una coincidencia que Wen Yi Fan se convirtiera en compañera de casa de Sang Yan, a quien rechazó en preparatoria. Al igual que dos completos desconocidos viviendo bajo el mismo techo, ambos se ocupaban de sus propios asuntos. Su tranquila forma de vida se vino abajo tras un incidente una noche. Sang Yan le dijo a Wen Yi Fan que era sonámbula. Ella estaba angustiada, pero no sabía cómo reaccionar.
+
+—Anoche seguramente fue la primera vez que me viste sonámbula, ¿verdad?
+
+Sang Yan respondió lentamente:
+
+—Hubo otra vez.
+
+Wen Yi Fan se quedó en silencio durante dos segundos, antes de preguntar con vacilación:
+
+—Entonces... ¿hice algo?
+
+—Te acercaste y me abrazaste.
+
+—¿...?
+
+Sang Yan levantó una ceja y añadió con indiferencia:
+
+—Y también me besaste.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-first-frost-novela-web-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+</feed>

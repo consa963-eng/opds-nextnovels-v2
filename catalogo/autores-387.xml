@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Ookido Izumi</id>
+<title>Ookido Izumi</title>
+<updated>2026-10-20T22:11:37.837202+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-387.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>I’ll Become a Villainess That Will Go Down in History Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-ill-become-a-villainess-that-will-go-down-in-history-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-ill-become-a-villainess-that-will-go-down-in-history-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Ill-Become-a-Villainess-That-Will-Go-Down-in-History-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/08/Ill-Become-a-Villainess-That-Will-Go-Down-in-History-Portada.jpg"/>
+<author><name>Ookido Izumi</name></author>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Romance" label="Romance"/>
+<category term="Shoujo" label="Shoujo"/>
+<content type="text">Nunca he podido soportar la típica actitud de ‘santurrona’ de las heroínas. Por suerte, todos mis sueños se hacen realidad cuando reencarno como villana. Decidida a convertirme en una mujer a la que nadie pueda criticar, me esfuerzo al máximo por entrenar mi cuerpo, mejorar mi intelecto y perfeccionar mis habilidades mágicas. Pero, por alguna razón, cuanto más me esfuerzo, más parece que le gusto a todo el mundo. No importa—traicionaré todas sus expectativas y me convertiré en la villana más grande que el mundo haya conocido jamás</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-ill-become-a-villainess-that-will-go-down-in-history-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+</feed>
