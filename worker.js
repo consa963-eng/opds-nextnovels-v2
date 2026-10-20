@@ -6,12 +6,7 @@ const DATA_URL = `${REPO}/catalogo/catalogo.json`;
 // --------------------------------------------------
 
 function xmlEscape(value = "") {
-  return String(value)
-    .replace(/&/g, "&amp;")
-    .replace(/</g, "&lt;")
-    .replace(/>/g, "&gt;")
-    .replace(/"/g, "&quot;")
-    .replace(/'/g, "&apos;");
+  return String(value).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&apos;");
 }
 
 function xmlCdata(value = "") {
@@ -90,10 +85,9 @@ function headers(type = "application/atom+xml; charset=UTF-8") {
 }
 
 // --------------------------------------------------
-// RESOLVER TERABOX (MÉTODO DIRECTO, SIN APIs DE TERCEROS)
+// RESOLVER TERABOX (USANDO COOKIE)
 // --------------------------------------------------
-async function resolverTerabox(teraboxUrl) {
-  // 1. Extraer el surl (funciona con /s/ y con /sharing/link?surl=)
+async function resolverTerabox(teraboxUrl, cookie) {
   let surl = "";
   const urlObj = new URL(teraboxUrl);
   
@@ -106,25 +100,18 @@ async function resolverTerabox(teraboxUrl) {
 
   if (!surl) throw new Error("No se pudo extraer el código de Terabox");
 
-  // 2. Hacemos la petición a la API interna de Terabox (igual que haría tu navegador)
-  const apiUrl = `https://www.terabox.com/share/list?app_id=250528&shorturl=${surl}&root=1&web=1&clienttype=0`;
-  
-  const resp = await fetch(apiUrl, {
-    headers: {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-      "Referer": "https://www.terabox.com/"
-    }
-  });
+  const headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "Cookie": cookie,
+    "Referer": "https://www.terabox.com/"
+  };
 
+  // 1. Pedir lista del nivel 1
+  const apiUrl = `https://www.terabox.com/share/list?app_id=250528&shorturl=${surl}&root=1&web=1&clienttype=0`;
+  const resp = await fetch(apiUrl, { headers });
   const data = await resp.json();
   
-  if (!data.list || data.list.length === 0) {
-    throw new Error("Terabox no devolvió archivos (enlace privado o inválido)");
-  }
-
-  // 3. Buscar el EPUB o PDF
-  let targetFile = null;
-  let folderPath = "/";
+  if (!data.list || data.list.length === 0) throw new Error("Terabox no devolvió archivos (cookie caducada o enlace privado)");
 
   const findFile = (list) => {
     let epub = list.find(f => f.isdir === "0" && f.server_filename.toLowerCase().endsWith(".epub"));
@@ -134,93 +121,82 @@ async function resolverTerabox(teraboxUrl) {
     return null;
   };
 
-  targetFile = findFile(data.list);
+  let targetFile = findFile(data.list);
+  let folderPath = "/";
 
-  // Si lo que hay es una carpeta, entramos a buscar dentro
+  // 2. Si es una carpeta, entrar (Nivel 2)
   if (!targetFile && data.list[0].isdir === "1") {
-    const folder = data.list[0];
-    folderPath = folder.path;
-    const folderApiUrl = `https://www.terabox.com/share/list?app_id=250528&shorturl=${surl}&root=1&dir=${encodeURIComponent(folderPath)}&web=1&clienttype=0`;
+    const folder1 = data.list[0];
+    const folder1ApiUrl = `https://www.terabox.com/share/list?app_id=250528&shorturl=${surl}&root=1&dir=${encodeURIComponent(folder1.path)}&web=1&clienttype=0`;
+    const resp1 = await fetch(folder1ApiUrl, { headers });
+    const data1 = await resp1.json();
     
-    const folderResp = await fetch(folderApiUrl, {
-      headers: {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-        "Referer": "https://www.terabox.com/"
+    if (data1.list) {
+      targetFile = findFile(data1.list);
+      folderPath = folder1.path;
+      
+      // Si dentro de esa carpeta hay OTRA carpeta, entramos (Nivel 3)
+      if (!targetFile && data1.list[0] && data1.list[0].isdir === "1") {
+        const folder2 = data1.list[0];
+        const folder2ApiUrl = `https://www.terabox.com/share/list?app_id=250528&shorturl=${surl}&root=1&dir=${encodeURIComponent(folder2.path)}&web=1&clienttype=0`;
+        const resp2 = await fetch(folder2ApiUrl, { headers });
+        const data2 = await resp2.json();
+        if (data2.list) {
+          targetFile = findFile(data2.list);
+          folderPath = folder2.path;
+        }
       }
-    });
-    const folderData = await folderResp.json();
-    
-    if (folderData.list) targetFile = findFile(folderData.list);
+    }
   }
 
-  if (!targetFile) throw new Error("No se encontraron archivos EPUB o PDF en el enlace");
+  if (!targetFile) throw new Error("No se encontraron archivos EPUB o PDF en la carpeta");
 
-  // 4. Generar el enlace de descarga (dlink)
+  // 3. Generar dlink
   const dlinkApiUrl = `https://www.terabox.com/api/download?app_id=250528&web=1&channel=chunlei&clienttype=0&sign=${data.sign}&timestamp=${data.timestamp}&fs_id=${targetFile.fs_id}&dir=${encodeURIComponent(folderPath)}`;
-  
-  const dlinkResp = await fetch(dlinkApiUrl, {
-    headers: {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-      "Referer": "https://www.terabox.com/"
-    }
-  });
-
+  const dlinkResp = await fetch(dlinkApiUrl, { headers });
   const dlinkData = await dlinkResp.json();
   
   let directUrl = dlinkData.dlink;
-  
-  // Si Terabox falla al darnos el dlink, probamos el enlace alternativo
   if (!directUrl || dlinkData.errno !== 0) {
     directUrl = `https://www.terabox.com/download?app_id=250528&web=1&sign=${data.sign}&timestamp=${data.timestamp}&fs_id=${targetFile.fs_id}&dir=${encodeURIComponent(folderPath)}`;
   }
 
-  return {
-    directUrl: directUrl,
-    fileName: targetFile.server_filename
-  };
+  return { directUrl, fileName: targetFile.server_filename };
 }
 
 // --------------------------------------------------
 // WORKER
 // --------------------------------------------------
-
 export default {
-  async fetch(request) {
+  async fetch(request, env) {
     const url = new URL(request.url);
 
     try {
       if (url.pathname === "/" || url.pathname === "/index.xml") return new Response(rootFeed(request.url), { headers: headers() });
       if (url.pathname === "/opensearch.xml") return new Response(openSearch(request.url), { headers: headers("application/opensearchdescription+xml; charset=UTF-8") });
 
-      // --------------------------------------------------
-      // DESCARGAR TERABOX
-      // --------------------------------------------------
       if (url.pathname === "/descargar") {
         const teraboxUrl = url.searchParams.get("url");
         if (!teraboxUrl) return new Response("Falta el parámetro url", { status: 400 });
 
         let parsed;
-        try {
-          parsed = new URL(teraboxUrl);
-        } catch {
-          return new Response("URL inválida", { status: 400 });
-        }
+        try { parsed = new URL(teraboxUrl); } catch { return new Response("URL inválida", { status: 400 }); }
 
         const host = parsed.hostname.toLowerCase();
-
-        // Validamos TODOS los dominios, incluyendo terabox.app
         const esTerabox =
           host === "terabox.com" || host.endsWith(".terabox.com") ||
           host === "terabox.app" || host.endsWith(".terabox.app") ||
           host === "1024tera.com" || host.endsWith(".1024tera.com") ||
           host === "teraboxapp.com" || host.endsWith(".teraboxapp.com");
 
-        if (parsed.protocol !== "https:" || !esTerabox) {
-          return new Response("El enlace no es de Terabox", { status: 400 });
-        }
+        if (parsed.protocol !== "https:" || !esTerabox) return new Response("El enlace no es de Terabox", { status: 400 });
+
+        // Verificamos que tenemos la cookie guardada en Cloudflare
+        const cookie = env.TERABOX_COOKIE;
+        if (!cookie) return new Response("Falta configurar el secreto TERABOX_COOKIE en Cloudflare", { status: 500 });
 
         try {
-          const { directUrl, fileName } = await resolverTerabox(teraboxUrl);
+          const { directUrl, fileName } = await resolverTerabox(teraboxUrl, cookie);
           const fileResp = await fetch(directUrl, {
             headers: {
               "Referer": "https://www.terabox.com/",
@@ -245,9 +221,6 @@ export default {
         }
       }
 
-      // --------------------------------------------------
-      // BÚSQUEDA
-      // --------------------------------------------------
       if (url.pathname === "/search") {
         const query = (url.searchParams.get("q") || "").trim().toLowerCase();
         if (!query) return new Response(feed("Buscar", `${url.origin}/search`, [], request.url), { headers: headers() });
@@ -256,22 +229,4 @@ export default {
         return new Response(feed(`Resultados: ${query}`, `${url.origin}/search?q=${encodeURIComponent(query)}`, results.slice(0, 200), request.url), { headers: headers() });
       }
 
-      // --------------------------------------------------
-      // CATÁLOGOS XML
-      // --------------------------------------------------
-      if (url.pathname.startsWith("/catalogo/")) {
-        const target = `${REPO}${url.pathname}`;
-        const response = await fetch(target);
-        if (!response.ok) return new Response("Catálogo no encontrado", { status: response.status });
-        const isXml = url.pathname.endsWith(".xml") || url.pathname.endsWith(".opds");
-        const contentType = isXml ? "application/atom+xml; charset=UTF-8" : response.headers.get("Content-Type") || "application/octet-stream";
-        return new Response(response.body, { status: response.status, headers: { "Content-Type": contentType, "Cache-Control": "public, max-age=300" } });
-      }
-
-      return new Response("Not Found", { status: 404 });
-
-    } catch (error) {
-      return new Response(`Error: ${error.message}`, { status: 502, headers: { "Content-Type": "text/plain; charset=UTF-8" } });
-    }
-  }
-};
+      if (url.pathname.st
