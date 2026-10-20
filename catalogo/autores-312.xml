@@ -1,32 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Mochizaki Yuba</id>
-<title>Mochizaki Yuba</title>
-<updated>2026-10-20T22:53:53.465846+00:00</updated>
+<id>nextnovels:autores:Misora Riku</id>
+<title>Misora Riku</title>
+<updated>2026-10-20T22:58:27.593504+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-312.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>I Fell in Love with the Manager of a God-Tier Idol Seiyuu Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-i-fell-in-love-with-the-manager-of-a-god-tier-idol-seiyuu-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-i-fell-in-love-with-the-manager-of-a-god-tier-idol-seiyuu-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/I-Fell-in-Love-with-the-Manager-of-a-God-Tier-Idol-Seiyuu-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/10/I-Fell-in-Love-with-the-Manager-of-a-God-Tier-Idol-Seiyuu-Portada.jpg"/>
-<author><name>Mochizaki Yuba</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<title>Rakudai Kishi no Cavalry Novela Ligera en Español</title>
+<id>https://nextnovels.com/rakudai-kishi-no-cavalry-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/rakudai-kishi-no-cavalry-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/05/Rakudai-Kishi-no-Cavalry-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/05/Rakudai-Kishi-no-Cavalry-Portada.jpg"/>
+<author><name>Misora Riku</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Drama" label="Drama"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
 <category term="Romance" label="Romance"/>
-<content type="text">El editor Kanata Fukami, lidiando con un escritor genial y dejándose llevar constantemente por sus artimañas, se encontraba atrapado en una rutina diaria ajetreada y estresante.
+<category term="Shounen" label="Shounen"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">En una época y lugar donde el alma de uno puede materializarse en un arma, hay magos modernos llamados caballeros mágicos. Aunque Kurogane Ikki es un estudiante en una institución que entrena caballeros mágicos, él no tiene un talento particular para la magia y es etiquetado como el “Caballero Fracasado” o “El Peor”. Obteniendo notas muy por debajo del promedio en sus calificaciones,fue obligado a repetir un año. Pero on la llegada de una nueva directora a institución, fue creada una nueva regla: los caballeros con habilidades compatibles, como decidió el consejo, deben compartir habitaciones y asistir juntos a prácticas y entrenamientos a lo largo de sus años en la escuela para llevar sus habilidades hasta el máximo. Es una regla para implementar el veredicto absoluto de habilidad.
 
-Pero recientemente, había hecho una amiga especial que le ayudaba a olvidar su cansancio. Se trataba de Naruka Hanamura, la mánager de la popular actriz de doblaje de instituto Sui Narumi.
+La compañera de cuarto de Ikki, Stella Vermillion, resulta ser una princesa de un país extranjero. Stella es una caballero Rank A, la clase de genio en magia que sólo aparece una vez en una década. Cuando Ikki la encontró mientras ella se estaba cambiando la ropa, hubo un grn malentendido, lo que eventualmente terminó en un duelo entre los dos. El castigo para el perdedor es sometimiento eterno al ganador.
 
-Era brillante, enérgica y simpática. Iban juntos a conciertos de ídolos y charlaban sobre chismes de la industria en bares de mala muerte. Y entonces...
-
-"Definitivamente somos almas gemelas. Nuestros caminos son diferentes, pero la calidad de nuestra pasión es la misma".
-
-"Jajaja, somos camaradas".
-
-Ambos dedicaban sus vidas a apoyar a los genios.
-
-Esta es la historia de otra heroína que brilla en la sombra.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-i-fell-in-love-with-the-manager-of-a-god-tier-idol-seiyuu-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Obligados a vivir en el mismo cuarto y practicar magia juntos a lo largo de sus años escolares, ¿cómo se desarrollará la relación de Stella e Ikki?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/rakudai-kishi-no-cavalry-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

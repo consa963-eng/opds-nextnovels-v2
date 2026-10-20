@@ -1,42 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Hajime Ninomae</id>
-<title>Hajime Ninomae</title>
-<updated>2026-10-20T22:53:53.445004+00:00</updated>
+<id>nextnovels:autores:Hagure Metabo</id>
+<title>Hagure Metabo</title>
+<updated>2026-10-20T22:58:27.549605+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-98.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Phenomeno Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-phenomeno-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-phenomeno-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/04/Phenomeno-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/04/Phenomeno-Portada.jpg"/>
-<author><name>Hajime Ninomae</name></author>
-<category term="Horror" label="Horror"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">Nagito Yamada es un estudiante universitario que vive lejos de casa. Como necesita un lugar barato donde vivir, se entera de la existencia de una misteriosa «casa que concede deseos» que se alquila por un precio ridículamente bajo; no lo duda, la alquila y se muda allí. Al cabo de unas noches, empieza a oír unos extraños crujidos. Noche tras noche, se ve asaltado por esos ruidos torturadores. La gota que colma el vaso es cuando encuentra el número 7 grabado en la pared, como si fuera una cuenta atrás para algo. Interesado en el ocultismo, Nagito busca ayuda en una página web que visita con frecuencia: «Ikaigabuchi», especializada en temas ocultistas.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-phenomeno-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
-</entry>
-<entry>
-<title>Puella Magi Madoka Magica Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-puella-magi-madoka-magica-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-puella-magi-madoka-magica-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/Puella-Magi-Madoka-Magica-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/03/Puella-Magi-Madoka-Magica-Portada.jpg"/>
-<author><name>Hajime Ninomae</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
+<title>A Livid Lady’s Guide to Getting Even Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-a-livid-ladys-guide-to-getting-even-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-a-livid-ladys-guide-to-getting-even-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/10/A-Livid-Ladys-Guide-to-Getting-Even-Portada-1.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/10/A-Livid-Ladys-Guide-to-Getting-Even-Portada-1.jpg"/>
+<author><name>Hagure Metabo</name></author>
 <category term="Drama" label="Drama"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Shoujo Ai" label="Shoujo Ai"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Madoka Kaname y Sayaka Miki son dos chicas normales de secundaria con vidas normales, pero todo eso cambia cuando conocen a Kyuubey, un familiar mágico con aspecto de gato, y a Homura Akemi, la nueva alumna transferida.
-
-Kyuubey les hace una propuesta: concederles cualquier deseo que tengan. A cambio, cada una de ellas se convertirá en una chica mágica, obteniendo el poder suficiente para hacer realidad sus sueños. Sin embargo, Homura Akemi, que ya es una chica mágica, les insta a no aceptar la oferta, afirmando que no todo es lo que parece.
-
-Una historia de esperanza, desesperación y amistad, esta novelización del exitoso anime Puella Magi Madoka Magica aborda las dificultades de ser una chica mágica y el precio de hacer realidad un sueño.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-puella-magi-madoka-magica-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<category term="Harem" label="Harem"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<content type="text">Elizabeth Leiston, hija del influyente primer ministro, es una dama perfecta en camino a convertirse en la futura reina del Reino de Haldoria. Pero su vida da un giro inesperado cuando su prometido hace alarde de cancelar públicamente su compromiso. Poco después, la encarcela y empieza a difundir rumores desagradables sobre ella. El apoyo que Elizabeth recibe de su leal doncella, Mireille, y su furia interior son todo lo que necesita para reconsiderar sus objetivos. ¿Por qué debería seguir dedicándose a un país que no la respeta cuando puede pisotearlo? Se vengará de quienes la perjudicaron y derribará el maldito reino, ¡aunque sea lo último que haga! Por suerte, Elizabeth no es una damisela en apuros y posee siete poderosos grimorios mágicos que no dudará en usar. ¡Prepárense porque esta despiadada dama está sedienta de sangre!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-a-livid-ladys-guide-to-getting-even-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

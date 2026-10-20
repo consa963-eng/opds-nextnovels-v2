@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Ichirou Sakaki</id>
-<title>Ichirou Sakaki</title>
-<updated>2026-10-20T22:53:53.449838+00:00</updated>
+<id>nextnovels:autores:Hoshizora Meteo</id>
+<title>Hoshizora Meteo</title>
+<updated>2026-10-20T22:58:27.559555+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-149.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Bluesteel Blasphemer Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-bluesteel-blasphemer-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-bluesteel-blasphemer-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/11/01-33.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/11/01-33.jpg"/>
-<author><name>Ichirou Sakaki</name></author>
+<title>Fate/Requiem Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-fate-requiem-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-fate-requiem-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-16.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-16.jpg"/>
+<author><name>Hoshizora Meteo</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
 <category term="Fantasía" label="Fantasía"/>
-<content type="text">A Yukinari Amano le encantan las armas. Después de reencarnarse en otro mundo, el joven emprende un viaje con Dasa, la hermana menor de la chica que le dio una segunda vida. Sin embargo, mientras están en el camino, la pareja es atacada por una deidad local, un «erdgod». Ninguna persona normal podría derrotar a uno, entonces cuando Yukinari usa su conocimiento de armas y nuevas habilidades para hacer lo imposible, ¡se le adora como el nuevo dios del área! ¡Prepárate para una aventura de realidad alterna, llena de armas y espadas y por supuesto, llena de acción!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-bluesteel-blasphemer-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<category term="Magia" label="Magia"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Una vez, hubo una gran guerra. La guerra terminó, y el mundo se volvió pacífico. Ahora, cualquiera tiene un "Santo Grial" y convoca a un sirviente atado a su destino. Sólo hay una chica, Utsumi Erice, que no tiene uno. Esta chica se encuentra con el último Siervo convocado en el mundo, un chico. Pero no tiene ni idea de cuál será su destino.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fate-requiem-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

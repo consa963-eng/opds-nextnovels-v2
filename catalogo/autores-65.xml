@@ -1,33 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Dojyomaru</id>
-<title>Dojyomaru</title>
-<updated>2026-10-20T22:53:53.441110+00:00</updated>
+<id>nextnovels:autores:Daken</id>
+<title>Daken</title>
+<updated>2026-10-20T22:58:27.543202+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-65.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>How a Realist Hero Rebuilt The Kingdom Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-how-a-realist-hero-rebuilt-the-kingdom-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-how-a-realist-hero-rebuilt-the-kingdom-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/01/Genjitsu-Shugi-Yuusha-no-Oukoku-Saikenki-e1643611291125.png"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/01/Genjitsu-Shugi-Yuusha-no-Oukoku-Saikenki-e1643611291125.png"/>
-<author><name>Dojyomaru</name></author>
+<title>How I Became King by Eating Monsters Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-how-i-became-king-by-eating-monsters-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-how-i-became-king-by-eating-monsters-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/01/How-I-Became-King-by-Eating-Monsters-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/01/How-I-Became-King-by-Eating-Monsters-Portada.jpg"/>
+<author><name>Daken</name></author>
 <category term="Acción" label="Acción"/>
 <category term="Aventura" label="Aventura"/>
-<category term="Drama" label="Drama"/>
+<category term="Comedia" label="Comedia"/>
 <category term="Fantasía" label="Fantasía"/>
 <category term="Harem" label="Harem"/>
 <category term="Seinen" label="Seinen"/>
-<content type="text">"¡Oh Héroe!"
-
-Con esa línea tan cliché, Kazuya Souma se encontró siendo convocado a otro mundo y su aventura... no comenzó.
-
-¡Luego de presentar su plan para fortalecer al país económica y militarmente, el rey le cede el trono y Souma termina liderando la nación! Es más, ¿¡ahora está comprometido con la hija del rey...!?
-
-Para volver a encaminar al país, Souma llama a los sabios, talentosos, y dotados para que estén a su lado. Cinco personas se reúnen ante el Souma recién coronado.
-
-¿¡Cuales son los varios talentos y habilidades que ellos poseen...!? ¿A qué camino llevará a Souma y las personas del país su punto de vista realista?
-
-¡Aquí comienza una historia de fantasía administrativa y revolucionaria de alguien invocado a otro mundo!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-how-a-realist-hero-rebuilt-the-kingdom-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<content type="text">Mars, tiene solo doce años, pero vive con miedo a ser asesinado. Se escabulle del castillo hacia el bosque de monstruos, donde, luchando contra los monstruos, tiene que cazar para alimentarse y evitar morir de hambre. Entonces, una noche, una mujer pelirroja aparece ante él y le dice: "Tienes promesa. Conviértete en mi aprendiz". Hay un secreto que solo ella conoce: ¡comer monstruos te hace más fuerte! Con su entrenamiento y su nuevo poder, Mars superará todos esos intentos de asesinato. Sin embargo, no terminan las cosas; ¡No, es sólo el comienzo de guerras a nivel nacional, incluso continental, con él en el medio!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-how-i-became-king-by-eating-monsters-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+<entry>
+<title>Who Killed the Hero? Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-who-killed-the-hero-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-who-killed-the-hero-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/07/Who-Killed-the-Hero-Portada-1.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/07/Who-Killed-the-Hero-Portada-1.jpg"/>
+<author><name>Daken</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">Han pasado cuatro años desde la derrota del Señor de los Demonio. El reino, ahora en paz, ha asumido la tarea de recopilar las numerosas hazañas del Héroe caído, comenzando por entrevistar a los miembros de su antiguo grupo: Leon, el Santo de la Espada, Maria, la Santa Doncella y Solon, el Sabio. Solo queda una pregunta: ¿cómo murió el Héroe? Leer entre líneas estos relatos épicos sobre el pasado del Héroe y las aventuras del grupo juntos revelará poco a poco la verdad. ¿Quién mató al Héroe? ¿Fue el Señor de los Demonio... o un camarada?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-who-killed-the-hero-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

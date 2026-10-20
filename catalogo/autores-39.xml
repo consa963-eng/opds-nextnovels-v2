@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Aoi Miyamae</id>
-<title>Aoi Miyamae</title>
-<updated>2026-10-20T22:53:53.437824+00:00</updated>
+<id>nextnovels:autores:Aoi Maru</id>
+<title>Aoi Maru</title>
+<updated>2026-10-20T22:58:27.538096+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-39.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Assassin Empress Bellreuge Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-assassin-empress-bellreuge-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-assassin-empress-bellreuge-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/Assassin-Empress-Bellreuge-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/10/Assassin-Empress-Bellreuge-Portada.jpg"/>
-<author><name>Aoi Miyamae</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
+<title>The Gluttonous Gyaru Was Getting Cheated On, So I’ll Capture Her Stomach and Steal Her Away Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-gluttonous-gyaru-was-getting-cheated-on-so-ill-capture-her-stomach-and-steal-her-away-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-gluttonous-gyaru-was-getting-cheated-on-so-ill-capture-her-stomach-and-steal-her-away-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/The-Gluttonous-Gyaru-Was-Getting-Cheated-On-So-Ill-Capture-Her-Stomach-and-Steal-Her-Away-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/08/The-Gluttonous-Gyaru-Was-Getting-Cheated-On-So-Ill-Capture-Her-Stomach-and-Steal-Her-Away-Portada.jpg"/>
+<author><name>Aoi Maru</name></author>
 <category term="Romance" label="Romance"/>
-<category term="Shoujo" label="Shoujo"/>
-<content type="text">¡La princesa oprimida llega al poder!
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Gakuto Suou, un chico, termina presenciando por pura casualidad el momento en que Shizuku Kushina, la gyaru más linda de su clase, descubre que su novio le fue infiel.
 
-Bellreuge es solo una doncella al servicio de la primera princesa del Imperio… hasta que, de repente, recibe una propuesta de matrimonio del (infame) hijo del marques Asturm, también conocido como el Lobo Sangriento. La primera princesa, quien además es la media hermana mayor de Bellreuge, obliga a Bellreuge y a Asturm a huir de la capital imperial con soldados pisándoles los talones. Por suerte, Bellreuge sabe pelear… porque ha vivido bajo la amenaza constante de ser asesinada desde que nació. Ahora, exiliada al desconocido marquesado Beiermen, tendrá que encontrar la manera de sacar lo mejor de su situación. Lo que no sabe es que los acontecimientos se han acelerado más de lo que jamás hubiera podido anticipar y que, junto con Asturm, podría terminar decidiendo el destino del propio Imperio.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-assassin-empress-bellreuge-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Su exnovio rechazaba el enorme apetito de Shizuku, pero Gakuto la acepta tal como es. Por su parte, Shizuku disfruta feliz cada plato que él prepara. Sin darse cuenta, entre ambos comienza a brotar un sentimiento especial.
+
+Esta es la historia de un chico que ama cocinar para los demás y de una gyaru siempre hambrienta que solo quiere comer hasta quedar satisfecha; una historia en la que, mientras él cocina una y otra vez y ella disfruta cada bocado, ambos se van enamorando poco a poco</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-gluttonous-gyaru-was-getting-cheated-on-so-ill-capture-her-stomach-and-steal-her-away-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

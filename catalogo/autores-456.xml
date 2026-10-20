@@ -1,31 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Shuu</id>
-<title>Shuu</title>
-<updated>2026-10-20T22:53:53.483439+00:00</updated>
+<id>nextnovels:autores:Shin Towada</id>
+<title>Shin Towada</title>
+<updated>2026-10-20T22:58:27.623280+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-456.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Maou Gakuin No Futekigousha Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-misfit-of-demon-king-academy-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-misfit-of-demon-king-academy-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-17.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-17.jpg"/>
-<author><name>Shuu</name></author>
+<title>Tokyo Ghoul: Days Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-tokyo-ghoul-days-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-tokyo-ghoul-days-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/Tokyo-Ghoul-Days-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/06/Tokyo-Ghoul-Days-Portada.jpg"/>
+<author><name>Shin Towada</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
-<content type="text">Después de que han pasado 2000 años, el despiadado señor de los demonios acaba de reencarnar. Pero su aptitud en una academia para criar candidatos a señores demoníacos es, ¿"Inepta"?
+<category term="Drama" label="Drama"/>
+<category term="Horror" label="Horror"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">En la cafetería Anteiku, donde se reúnen los ghouls, el peligro y la posibilidad de ser descubiertos acechan. Yoshimura, el dueño de la cafetería, tiene sospechas sobre cierta persona. ¿Qué tipo de oscuridad traerá esa persona a quienes cazan y a quienes son cazados? Este libro recoge seis historias totalmente nuevas del universo de Tokyo Ghoul.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-tokyo-ghoul-days-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+<entry>
+<title>Tokyo Ghoul: Past Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-tokyo-ghoul-past-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-tokyo-ghoul-past-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/Tokyo-Ghoul-Past-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/06/Tokyo-Ghoul-Past-Portada.jpg"/>
+<author><name>Shin Towada</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Drama" label="Drama"/>
+<category term="Horror" label="Horror"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Antes del incidente de la estructura de acero en el Distrito 20, ya se habían recibido informes de que había ghouls acechando entre la multitud en Tokio, acechando cuidadosamente a sus presas. Esta novela narra los acontecimientos que tuvieron lugar antes del inicio de la serie *Tokyo Ghoul*: una época en la que Kaneki aún era humano, los Kirishima aún vivían juntos y Rize disfrutaba de sus banquetes.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-tokyo-ghoul-past-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+<entry>
+<title>Tokyo Ghoul: Void Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-tokyo-ghoul-void-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-tokyo-ghoul-void-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/Tokyo-Ghoul-Void-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/06/Tokyo-Ghoul-Void-Portada.jpg"/>
+<author><name>Shin Towada</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Drama" label="Drama"/>
+<category term="Horror" label="Horror"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Tras la incursión sin precedentes de la organización «El Árbol de Aogiri» en el centro de detención de ghouls, la Comisión Antighoul está trabajando para reforzar la seguridad en los veintitrés distritos. Sin embargo, algunos ghouls comienzan a provocar disturbios en el Distrito 8, perpetuando el ciclo de represalias entre humanos y ghouls. ¿Y qué ha sido de Kaneki desde que abandonó el Distrito 20? Esta segunda novela narra las secuelas seis meses después de la ocupación del Distrito 11.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-tokyo-ghoul-void-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+<entry>
+<title>Tokyo Ghoul:re: Quest Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-tokyo-ghoulre-quest-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-tokyo-ghoulre-quest-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/Tokyo-Ghoul-re-Quest-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/06/Tokyo-Ghoul-re-Quest-Portada.jpg"/>
+<author><name>Shin Towada</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Drama" label="Drama"/>
+<category term="Horror" label="Horror"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">¡Una popular serie de novelas que ha superado el medio millón de ejemplares vendidos!
 
-Teniendo la capacidad de destruir humanos, elementales y dioses, después de un largo período de incontables guerras y luchas, Arnos el señor de los demonios se cansó de todo eso y anheló un mundo pacífico, así que decidió reencarnar en el futuro.
+¡Se publica la primera novela basada en «:re»!
 
-Sin embargo, lo que le esperaba después de su reencarnación es un mundo demasiado acostumbrado a la paz que sus descendientes se debilitaron demasiado debido a un enorme debilitamiento de los poderes mágicos.
+Los días de Saiko dedicados a los juegos. La vida cotidiana de Hinami y los ghouls de «El árbol de Aogiri».
 
-Arnos se matriculó en la Academia Maou, establecida para encontrar cualquier estudiante que pudiera ser la reencarnación del señor de los demonios, pero sus poderes son demasiado extraordinarios como para que los de la academia no pudieran juzgar adecuadamente sus poderes, por lo que se le considera un "estudiante inepto". Al ser subestimado y evitado por la mayoría de la gente de allí, reclutó a una chica amiga suya, Misha, como su subordinada y camarada, y se esfuerza por escalar a la cima de la jerarquía de la raza demoníaca para reclamar un día su antiguo título y estatus.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-misfit-of-demon-king-academy-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+La preparación de dulces del equipo de Suzuya y Haise. Los recuerdos de Tsukiyama Shuu y de la familia que lo amaba.
+
+El festival de arte celebrado en la [CCG], la admiración de Ihei por la Muerte.
+
+Los que se han ido y los que aún permanecen, las huellas que cada uno ha dejado están aquí...</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-tokyo-ghoulre-quest-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

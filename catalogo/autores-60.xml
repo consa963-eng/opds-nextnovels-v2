@@ -1,22 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Chatsufusa</id>
-<title>Chatsufusa</title>
-<updated>2026-10-20T22:53:53.440501+00:00</updated>
+<id>nextnovels:autores:Buri/Kiba</id>
+<title>Buri/Kiba</title>
+<updated>2026-10-20T22:58:27.542261+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-60.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>The Invincible Little Lady Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-invincible-little-lady-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-invincible-little-lady-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/04/Douyara-Watashi-No-Karada-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/04/Douyara-Watashi-No-Karada-Portada.jpg"/>
-<author><name>Chatsufusa</name></author>
-<category term="Acción" label="Acción"/>
+<title>Among Them, There is One who is My Fave Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-among-them-there-is-one-who-is-my-fave-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-among-them-there-is-one-who-is-my-fave-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/04/Among-Them-there-is-One-who-is-my-Fave-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/04/Among-Them-there-is-One-who-is-my-Fave-Portada.jpg"/>
+<author><name>Buri/Kiba</name></author>
 <category term="Aventura" label="Aventura"/>
 <category term="Comedia" label="Comedia"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Shoujo" label="Shoujo"/>
-<content type="text">En su lecho de muerte, una joven enferma desea renacer con un cuerpo fuerte que nunca sucumba ante nada ni nadie. Y he aquí que su deseo se cumple. Al reencarnarse en otro mundo como Mary Regalia, descubre que su nuevo cuerpo tiene los máximos atributos, desde fuerza física hasta defensa—e incluso magia. Pero, ¡espera! Eso no es lo que realmente quería. Lo único que anhelaba era una vida normal. Desconcertada por la decisión de Dios de concederle su deseo de esta forma tan inesperada, Mary intenta pasar sus días de la forma más tranquila posible. El problema es que… ¡no hay nada más difícil que llevar una vida normal cuando eres absolutamente invencible!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-invincible-little-lady-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Akito Asakura es un popular estudiante de secundaria que disfruta de sus actividades como ídolo y de la vida escolar. Aunque era popular en su clase, se perdió las tareas grupales para el viaje escolar debido a un resfriado y se vio obligado a liderar a un grupo de alborotadores, una mezcla heterogénea de los rezagados de cada clase. Una introvertida cínica, una delincuente malhablada, una lolita gótica silenciosa. La única chica alta y cooperativa declara: "No quiero ser amiga de ellos".
+
+Después de una intensa reunión, Akito nota un objeto perdido en el aula y se da cuenta de algo. ¡Este objeto pertenece a su VTuber favorita, "Shiraha Eruna"!
+
+"¿Así que mi ídola está entre esas cuatro raras?"
+
+¡Comienza una historia de misterio, comedia romántica y drama de viaje escolar llena de las luces y sombras de la juventud!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-among-them-there-is-one-who-is-my-fave-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

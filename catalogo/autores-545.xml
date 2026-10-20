@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Youko Kagura</id>
-<title>Youko Kagura</title>
-<updated>2026-10-20T22:53:53.494363+00:00</updated>
+<id>nextnovels:autores:Uiri</id>
+<title>Uiri</title>
+<updated>2026-10-20T22:58:27.643299+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-545.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Onee-san Will Examine You Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-onee-san-will-examine-you-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-onee-san-will-examine-you-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Onee-san-Will-Examine-You-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/08/Onee-san-Will-Examine-You-Portada.jpg"/>
-<author><name>Youko Kagura</name></author>
+<title>When I Ran Into my Childhood Friend, Who was Older than Me, the Two Sisters Started Fighting Over Me. ~ Want to see Which One is Better? Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-when-i-ran-into-my-childhood-friend-who-was-older-than-me-the-two-sisters-started-fighting-over-me-want-to-see-which-one-is-better-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-when-i-ran-into-my-childhood-friend-who-was-older-than-me-the-two-sisters-started-fighting-over-me-want-to-see-which-one-is-better-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/When-I-Ran-Into-my-Childhood-Friend-Who-was-Older-than-Me-the-Two-Sisters-Started-Fighting-Over-Me-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/02/When-I-Ran-Into-my-Childhood-Friend-Who-was-Older-than-Me-the-Two-Sisters-Started-Fighting-Over-Me-Portada.jpg"/>
+<author><name>Uiri</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Ecchi" label="Ecchi"/>
 <category term="Harem" label="Harem"/>
-<category term="Hentai" label="Hentai"/>
-<content type="text">Satoru, un chico de constitución débil, ingresa en la sala E. Allí le esperaban cuatro hermanas enfermeras vestidas con leotardos. El atrevido servicio que estas bellezas mayores prestan más allá del ámbito de los cuidados devotos hace que la mente y el cuerpo del chico caigan víctimas de la enfermedad del deseo carnal.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-onee-san-will-examine-you-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Tengo dos amigas de la infancia que son hermanas. La hermana mayor Momo, y Miu y yo tenemos la misma edad. Desde que nos reencontramos, me ha abrazado en traje de baño y me ha invitado a un baño termal, y nos hemos vuelto extrañamente cercanos...
+
+Una comedia romántica de harem agridulce de X con más de 550.000 seguidores.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-when-i-ran-into-my-childhood-friend-who-was-older-than-me-the-two-sisters-started-fighting-over-me-want-to-see-which-one-is-better-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

@@ -1,33 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Hideaki Mashiroya</id>
-<title>Hideaki Mashiroya</title>
-<updated>2026-10-20T22:53:53.446682+00:00</updated>
+<id>nextnovels:autores:Hibariyu</id>
+<title>Hibariyu</title>
+<updated>2026-10-20T22:58:27.553080+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-116.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>This Is Just Pretend, After All Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-this-is-just-pretend-after-all-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-this-is-just-pretend-after-all-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/This-Is-Just-Pretend-After-All-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/06/This-Is-Just-Pretend-After-All-Portada.jpg"/>
-<author><name>Hideaki Mashiroya</name></author>
-<category term="Adulto" label="Adulto"/>
-<category term="Drama" label="Drama"/>
+<title>The Neat and Pretty Girl at My New School Is a Childhood Friend of Mine Who I Thought Was a Boy Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-neat-and-pretty-girl-at-my-new-school-is-a-childhood-friend-of-mine-who-i-thought-was-a-boy-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-neat-and-pretty-girl-at-my-new-school-is-a-childhood-friend-of-mine-who-i-thought-was-a-boy-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/The-Neat-and-Pretty-Girl-at-My-New-School-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/07/The-Neat-and-Pretty-Girl-at-My-New-School-Portada.jpg"/>
+<author><name>Hibariyu</name></author>
+<category term="Comedia" label="Comedia"/>
 <category term="Harem" label="Harem"/>
-<category term="Psicológico" label="Psicológico"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Amor y besos; todo es real, todo es mentira. El dulce y amargo "jugar a la casita" de dos estudiantes de preparatoria.
+<content type="text">“¡Siempre seremos amigos!”
 
-Por ciertas circunstancias, Souichirou tiene que dejar su ciudad natal para mudarse a la casa de unos familiares. Allí se reencuentra con Miku, una pariente lejana y amiga de la infancia con la que, de niños, siempre era obligado a jugar a "la casita". Ahora, ella se lo propone con el mismo entusiasmo de antes――.
+Al final del verano de su infancia, Hayato le hizo una promesa a su querido amigo. Siete años después, al transferirse a una preparatoria en la ciudad, se reencontró con él... ¡quien se había transformado en una chica delicada y hermosa!
 
-—¿No te gustaría volver a fingir que somos novios después de tanto tiempo?
+Haruki, conocida como la "flor inalcanzable", se reía inocentemente y sonreía traviesamente cuando estaba sola con Hayato, intercambiaban almuerzos juntos en un aula vacía y jugaban juntos en casa... Sin embargo, cuando la trataban y se burlaban de ella como a una niña, se sonrojaba profundamente, volviéndose repentinamente adorable.
 
-—Ah, qué nostálgico. Hagámoslo.
+Entre el campo y la ciudad, niño y niña, corazones y cuerpos maduros, en medio de los cambios ocurridos durante su separación, permanecen inalterados los sentimientos y las promesas…
 
-Al principio, solo se divertían interpretando el papel de una pareja inocente. Sin embargo, poco a poco se volvieron más atrevidos, empezando a abrazarse y besarse. Se involucraron cada vez más en un "juego de la casita" que iba en serio, y finalmente se volvió difícil distinguir entre los verdaderos sentimientos, las apariencias y las mentiras. Para ambos, todo seguía siendo "amor dentro del juego", por lo que nunca podrían confesar su "amor verdadero".
-
-¿Saldrán a la luz los sentimientos ocultos de estas dos personas que están inmersas en este juego de la casita?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-this-is-just-pretend-after-all-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+¡Una comedia romántica juvenil que se desarrolla con un amigo de la infancia que se creía que era un amigo masculino!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-neat-and-pretty-girl-at-my-new-school-is-a-childhood-friend-of-mine-who-i-thought-was-a-boy-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

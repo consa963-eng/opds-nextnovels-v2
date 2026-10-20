@@ -1,43 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Yanagawa Keisho</id>
-<title>Yanagawa Keisho</title>
-<updated>2026-10-20T22:53:53.493311+00:00</updated>
+<id>nextnovels:autores:Tsujimura Nanako</id>
+<title>Tsujimura Nanako</title>
+<updated>2026-10-20T22:58:27.641564+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-536.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Today, I Was Confessed To by the Student Council President, Reunited with My Childhood Friend, and Had a Marriage Meeting with a Nordic Noble Lady Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-today-i-was-confessed-to-by-the-student-council-president-reunited-with-my-childhood-friend-and-had-a-marriage-meeting-with-a-nordic-noble-lady-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-today-i-was-confessed-to-by-the-student-council-president-reunited-with-my-childhood-friend-and-had-a-marriage-meeting-with-a-nordic-noble-lady-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/Today-I-Was-Confessed-To-by-the-Student-Council-President-Reunited-with-My-Childhood-Friend-and-Had-a-Marriage-Meeting-with-a-Nordic-Noble-Lady-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/10/Today-I-Was-Confessed-To-by-the-Student-Council-President-Reunited-with-My-Childhood-Friend-and-Had-a-Marriage-Meeting-with-a-Nordic-Noble-Lady-Portada.jpg"/>
-<author><name>Yanagawa Keisho</name></author>
+<title>The Case Files of Jeweler Richard Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-case-files-of-jeweler-richard-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-case-files-of-jeweler-richard-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/02/The-Case-Files-of-Jeweler-Richard-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/02/The-Case-Files-of-Jeweler-Richard-Portada.jpg"/>
+<author><name>Tsujimura Nanako</name></author>
 <category term="Comedia" label="Comedia"/>
-<category term="Harem" label="Harem"/>
-<category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">¡Ese día, la comedia romántica, la comedia romántica y más comedia romántica entraron en mi vida!
-
-Ese día, mi vida se cruzó con la de tres chicas hermosas.
-
-Shiiba Shio, la presidenta del consejo estudiantil, admirada por toda la escuela.
-
-"Me gustas. Me gustas desde la secundaria."
-
-Casualmente, hoy se me declaró.
-
-Gokase Raika, la chica popular que se convirtió en el centro de atención en su primer día en la nueva escuela.
-
-"Te amo. Uf... qué vergüenza..."
-
-Casualmente, hoy me reencontré con ella como amiga de la infancia, y se me declaró.
-
-Nadeshiko Elvshid, la hermosa hija del presidente de una empresa del norte de Europa.
-
-"Aunque empezó como un matrimonio concertado por mi padre, sentí que tu corazón es precioso."
-
-Casualmente, la conocí hoy por primera vez en la reunión para concertar el matrimonio, y me propuso matrimonio.
-
-¡Una comedia romántica repentina y simultánea se desarrolla en tres direcciones!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-today-i-was-confessed-to-by-the-student-council-president-reunited-with-my-childhood-friend-and-had-a-marriage-meeting-with-a-nordic-noble-lady-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<category term="Drama" label="Drama"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<content type="text">En una noche aparentemente ordinaria, la estudiante universitaria Nakata Seigi rescata a un bello inglés llamado Richard de un grupo de borrachos. Richard es un joyero que viaja por todo el mundo para vender joyas a sus clientes. Juntos, los dos comienzan a resolver los misterios que rodean a las joyas que encuentran y a sus propietarios, empezando por el misterioso anillo de zafiro rosa que le dejó la abuela de Seigi.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-case-files-of-jeweler-richard-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

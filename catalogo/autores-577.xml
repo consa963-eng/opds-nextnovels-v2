@@ -1,31 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:白乃友</id>
-<title>白乃友</title>
-<updated>2026-10-20T22:53:53.498072+00:00</updated>
+<id>nextnovels:autores:Yuri Yumemi</id>
+<title>Yuri Yumemi</title>
+<updated>2026-10-20T22:58:27.649417+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-577.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>The Story of Feeding the Cutest Gal in Class Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-story-of-feeding-the-cutest-gal-in-class-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-story-of-feeding-the-cutest-gal-in-class-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/05/The-Story-of-Feeding-the-Cutest-Gal-in-Class-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/05/The-Story-of-Feeding-the-Cutest-Gal-in-Class-Portada.jpg"/>
-<author><name>白乃友</name></author>
+<title>Witch Can’t Be Collared Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-witch-cant-be-collared-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-witch-cant-be-collared-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/04/Witch-Cant-Be-Collared-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/04/Witch-Cant-Be-Collared-Portada.jpg"/>
+<author><name>Yuri Yumemi</name></author>
+<category term="Acción" label="Acción"/>
 <category term="Comedia" label="Comedia"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">—¡Onii-chan, eres un dios de verdad! ¡Podría comer esto por siempre!
+<category term="Fantasía" label="Fantasía"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">Con magia— una vez exclusiva al dominio de los nobles— ahora se expande a las masas, tasas de crímenes se han disparado. En respuesta, el Reino Imperial estableció la Oficina de Investigaciones de Crímenes Mágicos.
 
-Kazami Houri, un estudiante de primer año de preparatoria, pasa sus días en clase hablando de temas otaku con sus amigos. Pero guarda un gran secreto.
+Rogue, un investigador, es transferido a la Sexta División debido a un plan por su superior, Velladonna. Este infame departamento tiene la tarea de solventar crímenes mágicos— junto a cada bruja que trajo la calamidad sobre el reino.
 
-La chica más popular de su clase, modelo y belleza reconocida, Katsuki Sakura… ¡es su hermanastra! Y no solo viven juntos, también están saliendo.
+Estas brujas, encarceladas y atadas por collares que suprimen su magia, tienen el poder para causar desastres. Aunque, juegan con Rogue sin miramientos— lideradas por el "Demonio Marioneta" Miseria— llevando al caos...
 
-En la escuela, Sakura mantiene la distancia con Houri, cuidando que nadie descubra su amor por él ni sus hobbies otaku. Pero en casa, la pareja es súper melosa: ven anime juntos, se disfrazan con cosplay y disfrutan de las comidas caseras de Houri.
+"Vamos, Rogue, solo una palabra es todo lo que necesito. Dame la orden. Dime que lance un hechizo en ese hombre. ¡Solo una palabra! Claro, su mente puede romperse— pero el caso estará resuelto"
 
-—¡El pescado guisado está buenísimo!
-
-Y así comienza otra dulce y acogedora cena entre los dos.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-story-of-feeding-the-cutest-gal-in-class-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Una historia emocionante de fantasía donde un investigador es atormentado por sus malvadas compañeras (Brujas).</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-witch-cant-be-collared-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

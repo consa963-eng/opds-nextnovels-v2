@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Riichiro Inagaki</id>
-<title>Riichiro Inagaki</title>
-<updated>2026-10-20T22:53:53.474415+00:00</updated>
+<id>nextnovels:autores:Omiyabi</id>
+<title>Omiyabi</title>
+<updated>2026-10-20T22:58:27.607505+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-382.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Dr. Stone The Voices That Face the Future Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-dr-stone-the-voices-that-face-the-future-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-dr-stone-the-voices-that-face-the-future-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/Dr.-Stone-The-Voices-That-Face-the-Future.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/09/Dr.-Stone-The-Voices-That-Face-the-Future.jpg"/>
-<author><name>Riichiro Inagaki</name></author>
-<category term="Aventura" label="Aventura"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Shounen" label="Shounen"/>
-<content type="text">Antes del colapso de la civilización, ¡¡Tsukasa y Gen se enfrentan en un programa de televisión!! Tsukasa, que lucha por su orgullo y sus secretos, ¿podrá vencer la temible trampa del mentalista Gen?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-dr-stone-the-voices-that-face-the-future-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<title>I Reincarnated as the Childhood Friend of the Final Boss Villainess Who Falls into Darkness Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-i-reincarnated-as-the-childhood-friend-of-the-final-boss-villainess-who-falls-into-darkness-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-i-reincarnated-as-the-childhood-friend-of-the-final-boss-villainess-who-falls-into-darkness-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/I-Reincarnated-as-the-Childhood-Friend-of-the-Final-Boss-Villainess-Who-Falls-into-Darkness-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/10/I-Reincarnated-as-the-Childhood-Friend-of-the-Final-Boss-Villainess-Who-Falls-into-Darkness-Portada.jpg"/>
+<author><name>Omiyabi</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Arc Fort es un reencarnado. Por lo tanto, sabía que este mundo era el del popular juego otome «Celestia Kingdom» de su vida anterior. Al principio pensó que había reencarnado como un personaje secundario sin nombre, pero resultó que en realidad era el amigo de la infancia de la joven destinada a ser el jefe final más temible. Si los conocimientos de su vida pasada eran correctos, ¡¿acaso ella no caería en la oscuridad debido a su muerte?! Para evitar a toda costa el Bad End, Arc se convirtió en el más fuerte. Sin embargo, por alguna razón, ella actúa de forma extraña... «Oye, ¿por qué no me miras...?» ——Un momento, ¿acaso la metí hasta el fondo...?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-i-reincarnated-as-the-childhood-friend-of-the-final-boss-villainess-who-falls-into-darkness-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

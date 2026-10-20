@@ -1,37 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Shijiman</id>
-<title>Shijiman</title>
-<updated>2026-10-20T22:53:53.480492+00:00</updated>
+<id>nextnovels:autores:Sasato Goro</id>
+<title>Sasato Goro</title>
+<updated>2026-10-20T22:58:27.618443+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-432.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Goodbye, My Destined One. Let’s Meet Two Days Before Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-goodbye-my-destined-one-lets-meet-two-days-before-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-goodbye-my-destined-one-lets-meet-two-days-before-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/Goodbye-My-Destined-One.-Lets-Meet-Two-Days-Before-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/02/Goodbye-My-Destined-One.-Lets-Meet-Two-Days-Before-Portada.jpg"/>
-<author><name>Shijiman</name></author>
+<title>Aren’t you Embarrassed to Lose to a Maid? Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-arent-you-embarrassed-to-lose-to-a-maid-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-arent-you-embarrassed-to-lose-to-a-maid-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/Arent-you-Embarrassed-to-Lose-to-a-Maid-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/07/Arent-you-Embarrassed-to-Lose-to-a-Maid-Portada.jpg"/>
+<author><name>Sasato Goro</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
 <category term="Romance" label="Romance"/>
-<category term="Suspenso" label="Suspenso"/>
-<content type="text">Se suponía que era por ella, por la mujer que amo.
+<category term="Shoujo Ai" label="Shoujo Ai"/>
+<category term="Yuri" label="Yuri"/>
+<content type="text">La sirvienta de baja cuna Lotte, incapaz de encajar en su entorno laboral debido a la diferencia abismal de estutus entre ella y sus compañeras. La valiente y audaz Alicia, una dama noble admirada por todos como la Gran Princesa Caballero del reino. Este par, ama y sirvienta guarda un indevido secret.
 
-Hasta que caiga en el 4bism0, esto no terminará.
+Alicia acostumbra llamar a Lotte a su recamara y le da ordenes indecorosas
 
-Se abre el telón de unos "dos días" cíclicos que erosionan la cordura.
+「¿Podrias someterme? 」
 
-Shuujun Kurata es un joven que posee el poder de ‘regresar de la mu3rt3’. Para salvar a su novia, Kotoka Sumi, repite los mismos dos días una y otra vez junto a Yato Tsugahara, otra chica que también es consciente del salto temporal.
+「¡¿Eeeh?! ¿Yo, hacer eso con Lady Alicia? 」
 
-Sin embargo, no importa cuántas veces lo intente, Kotoka mu3re. Mientras Shuujun se desespera ante un destino de mu3rt3 inevitable, el v3nen0 de Yato comienza a acecharlo:
+Un deseo de sumision que nadie podria esperar en su comportamiento diario, puro e intachable.
 
-"Disfrutemos cada día juntos. Vamos a divertirnos hasta que vacíes tu mente".
+Lotte, mientras se repite a si misma sin cesar que solo es parte de su trabajo como sirienta, acepta obedecer esas perversas ordenes, pero desde el primer dia queella se lo popuso, el corazon de Lotte no paro de latir de la emocion.
 
-"Yo haré que te olvides de esa tal Sumi-san."
-
-Kotoka m0r1rá. De todos modos, el mundo volverá a reiniciarse. Una vez que todo vuelva a empezar, ellos dos serán los únicos que lo recuerden. Si es así entonces...
-
-"Sigamos con el salto temporal. Así, nadie recordará nada."
-
-Salto temporal × Romance × Suspenso. Comienzan unos ‘dos días’ dulces, provocadores y r3torc1dos.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-goodbye-my-destined-one-lets-meet-two-days-before-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+A medida que aumentan sus enchutaros secretos y los momentos que la intachable caballero le arrebata durante el trabajo para ser, atentendida, ambas caen en una atraccion mutua y autodependiente.... Una historia de amor y sumision entre una sirvienta y una princesa caballero que no puede contenerse de dar ordenes atrevidas.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-arent-you-embarrassed-to-lose-to-a-maid-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

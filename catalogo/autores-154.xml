@@ -1,24 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Iori Miyazawa</id>
-<title>Iori Miyazawa</title>
-<updated>2026-10-20T22:53:53.450330+00:00</updated>
+<id>nextnovels:autores:Ichiya Sumi</id>
+<title>Ichiya Sumi</title>
+<updated>2026-10-20T22:58:27.560538+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-154.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Otherside Picnic Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-otherside-picnic-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-otherside-picnic-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/Otherside-Picnic-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/05/Otherside-Picnic-Portada.jpg"/>
-<author><name>Iori Miyazawa</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Drama" label="Drama"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Shoujo Ai" label="Shoujo Ai"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">La primera vez que se encontró con Toriko Nishina fue en el Otro Lado, después de ver "esa cosa" y casi morir. A partir de ese día, la vida de Sorawo Kamikoshi, una universitaria agobiada, cambió. En este Otro Mundo, lleno de misterio, que coexiste con el nuestro, aparecen seres peligrosos como los Kunekune y Hasshaku-sama de los que se habla en las historias de fantasmas reales. Por motivos de investigación, de lucro y en busca de una persona importante, Toriko y Sorawo entran en lo desconocido.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-otherside-picnic-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<title>My Transfer Destination Is a City of Women! Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-my-transfer-destination-is-a-city-of-women-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-my-transfer-destination-is-a-city-of-women-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/My-Transfer-Destination-Is-a-City-of-Women-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/10/My-Transfer-Destination-Is-a-City-of-Women-Portada.jpg"/>
+<author><name>Ichiya Sumi</name></author>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Harem" label="Harem"/>
+<category term="Hentai" label="Hentai"/>
+<category term="Romance" label="Romance"/>
+<content type="text">Koichi, quien murió siendo virgen, fue recompensado con una reencarnación en otro mundo como el hijo de una familia noble.
+
+Sin embargo, en este momento se encuentra en plena transferencia a una ciudad provincial.
+
+Y su destino no es otro que una «Ciudad de Mujeres», habitada únicamente por mujeres con atuendos sumamente reveladores…!
+
+Una doncella con el trasero completamente al descubierto, una señora feudal de pechos descomunales, y para colmo, una noción de la castidad que parece… ¿¡bastante extraña!?
+
+¡Una ciudad entera convertida en un harén!
+
+¡Así comienza esta fantasía de una vida amorosa y apasionada en otro mundo!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-my-transfer-destination-is-a-city-of-women-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

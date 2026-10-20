@@ -1,33 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Sabu Meiji</id>
-<title>Sabu Meiji</title>
-<updated>2026-10-20T22:53:53.475954+00:00</updated>
+<id>nextnovels:autores:Purapura</id>
+<title>Purapura</title>
+<updated>2026-10-20T22:58:27.609979+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-394.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Lilith Who Lost Her Arm Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-lilith-who-lost-her-arm-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-lilith-who-lost-her-arm-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/Lilith-Who-Lost-Her-Arm-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/09/Lilith-Who-Lost-Her-Arm-Portada.jpg"/>
-<author><name>Sabu Meiji</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Fantasía" label="Fantasía"/>
+<title>After I Rescued a Cold-Hearted, Black-Haired, Beautiful Girl, She Started Acting Sweet Only When We Were Alone Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-after-i-rescued-a-cold-hearted-black-haired-beautiful-girl-she-started-acting-sweet-only-when-we-were-alone-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-after-i-rescued-a-cold-hearted-black-haired-beautiful-girl-she-started-acting-sweet-only-when-we-were-alone-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/10/After-I-Rescued-a-Cold-Hearted-Black-Haired-Beautiful-Girl-She-Started-Acting-Sweet-Only-When-We-Were-Alone-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/10/After-I-Rescued-a-Cold-Hearted-Black-Haired-Beautiful-Girl-She-Started-Acting-Sweet-Only-When-We-Were-Alone-Portada.jpg"/>
+<author><name>Purapura</name></author>
+<category term="Comedia" label="Comedia"/>
 <category term="Romance" label="Romance"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">Premio Sneaker «Medalla de Oro». La historia de un chico exorcista y una chica demonio, y el final de su encuentro...
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Un amor elegido por otra persona no siempre conduce a la infelicidad. De hecho, quizá sea precisamente porque fue planeado que pueda comenzar de la mejor manera.
 
-◇ 1 de noviembre del año 36 de la era Meiji / Asentamiento extranjero de Kobe
+Nacido como el hijo mayor de la prestigiosa y antigua familia noble Ichijo, Minato, estudiante de preparatoria, recibe repentinamente la noticia de su padre de que su prometida ya está decidida. Como heredero de una distinguida familia, la libertad nunca fue parte de la ecuación, algo que había aceptado hacía mucho tiempo. Con una seca resignación, Minato sigue las instrucciones de su padre y se dirige a la reunión concertada.
 
-Kaina, el niño prodigio exorcista, recibió una herida mortal cuando le atravesaron el corazón durante una misión militar. Mientras moría, una voz agradable resonó desde algún lugar.
+Soy Nanase Rei, la hija mayor de la familia Nanase. Espero con ilusión nuestra vida juntos, querido esposo.
 
-«Hijo del hombre, te daré un segundo corazón. A cambio... vendrás conmigo al camino de la hegemonía, más allá del purgatorio».
+Pero la chica que lo espera no es otra que Nanase Rei, la belleza de corazón frío de su clase, conocida por su comportamiento gélido.
 
-Quien apareció fue una joven tan bella que podía confundirse con un ángel: Ririsu. Una demonio que figuraba entre los «Siete Pecados Capitales»... y que no tenía brazos.
+Así comienza su vida en común, junto al cariño incesante e inesperado de Rei.
 
-Kaina, que había intercambiado el poder demoníaco por una vida ligada al destino de Ririsu, se convirtió en su compañero inseparable. ¿El final de su viaje será la perdición en el purgatorio, o un camino de hegemonía que conquiste el futuro?
-
-La crónica sobrenatural de exorcistas de la era Meiji, «Ririsu, la que perdió el brazo», comienza aquí.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-lilith-who-lost-her-arm-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Aunque Minato está desconcertado por el repentino giro de los acontecimientos, pronto se da cuenta de que este nuevo capítulo puede no ser tan malo después de todo y, lentamente, comienza a sentir felicidad en la vida que comparte con Rei.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-after-i-rescued-a-cold-hearted-black-haired-beautiful-girl-she-started-acting-sweet-only-when-we-were-alone-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

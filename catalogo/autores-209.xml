@@ -1,56 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kenkyona Sakuru</id>
-<title>Kenkyona Sakuru</title>
-<updated>2026-10-20T22:53:53.455833+00:00</updated>
+<id>nextnovels:autores:Kaya Kuramoto</id>
+<title>Kaya Kuramoto</title>
+<updated>2026-10-20T22:58:27.572580+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-209.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-i-was-reincarnated-as-the-7th-prince-so-i-can-take-my-time-perfecting-my-magical-ability-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-i-was-reincarnated-as-the-7th-prince-so-i-can-take-my-time-perfecting-my-magical-ability-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/09/I-Was-Reincarnated-as-the-7th-Prince-so-I-Can-Take-My-Time-Perfecting-My-Magical-Ability-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/09/I-Was-Reincarnated-as-the-7th-Prince-so-I-Can-Take-My-Time-Perfecting-My-Magical-Ability-Portada.jpg"/>
-<author><name>Kenkyona Sakuru</name></author>
+<title>Bakumatsu Magic Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-bakumatsu-magic-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-bakumatsu-magic-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/Bakumatsu-Magic-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/10/Bakumatsu-Magic-Portada.jpg"/>
+<author><name>Kaya Kuramoto</name></author>
 <category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
 <category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Shounen" label="Shounen"/>
-<content type="text">Me quedé hipnotizado por la magia de mi oponente durante nuestro duelo... y perdí la vida.
+<category term="Romance" label="Romance"/>
+<content type="text">Es el ocaso del shogunato. Una era convulsa en la que la facción que aboga por expulsar a los bárbaros y la facción aperturista se enfrentan sin tregua. Kuze Iori, un joven estudioso de las ciencias occidentales y mago que se forma en la academia Tekijuku de Osaka, recibe la orden de su director, Ogata Kōan, de viajar al dominio de Matsue, en la provincia de Izumo, para traducir un intrincado libro de magia. Iori desea completar la traducción cuanto antes y regresar a Osaka, pero en la residencia a la que ha sido invitado le entregan un volumen que describe el horno de forja del mithril, el metal mágico cuya técnica se perdió con la antigua “Gran Catástrofe”, y que además estuvo relacionado con la caída de su difunto padre.
 
-O al menos, eso es lo que creía.
+A medida que Iori comienza la traducción, a su alrededor ocurren desapariciones misteriosas en las aldeas, el filo asesino de los patriotas anti-extranjeros ataca de improviso y el mago Kanamori Tonsō es asesinado. Junto a Tōma, un patriota de ojos rojos, Iori se adentra en un misterio tras otro. Y ante ambos se extiende, poco a poco, una oscuridad infinita oculta en la forja del mithril.
 
-De alguna manera, me reencarné como Lloyd, el séptimo príncipe del Reino de Saloum. Sin apenas pretensiones al trono, me animaron a vivir como quisiera. Mientras entrenaba en el manejo de la espada con mi doncella personal, Sylpha, me dediqué a estudiar magia, una materia que siempre me había apasionado. Dotado tanto de conocimientos como de talento, mis habilidades mágicas mejoraron a un ritmo asombroso, lo que me valió el reconocimiento de quienes me rodeaban.
-
-Sin embargo, nada de eso me importaba. Seguí con mis investigaciones por pura pasión, realizando experimentos según mi criterio.
-
-Un día, descubrí que el archivo subterráneo del castillo albergaba grimorios peligrosos, tomos prohibidos e incluso arcángeles sellados. Intrigado, me dispuse a explorar la biblioteca en secreto.
-
-Y allí me encontré con un ser más aterrador de lo que jamás hubiera imaginado...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-i-was-reincarnated-as-the-7th-prince-so-i-can-take-my-time-perfecting-my-magical-ability-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
-</entry>
-<entry>
-<title>Modern Era Transition of the Second Prince Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-modern-era-transition-of-the-second-prince-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-modern-era-transition-of-the-second-prince-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/Modern-Era-Transition-of-the-Second-Prince-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/07/Modern-Era-Transition-of-the-Second-Prince-Portada.jpg"/>
-<author><name>Kenkyona Sakuru</name></author>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Shounen" label="Shounen"/>
-<content type="text">¿Un príncipe en el Japón moderno? ¡La versatilidad lo es todo!
-
-Albert di Saloum, el Segundo Príncipe del Reino de Saloum, es el epítome de la perfección: inteligente, apuesto y con una habilidad innata para salir airoso de cualquier situación. Su hermano menor, Lloyd, el Séptimo Príncipe, es un prodigio de la magia con un talento descomunal. Sin embargo, un desafortunado accidente —cuyo origen es mejor no investigar demasiado— los transporta a un mundo completamente desconocido: el Japón de la era moderna.
-
-Sin poder mágico que los rodee, sin saber el idioma y sin un lugar a donde ir, los hermanos están perdidos. Pero la suerte les sonríe cuando Natsume Arisugawa, una joven amable y aspirante a novelista, decide tenderles una mano.
-
-Ahora, Albert deberá usar su "versatilidad" al máximo: aprender japonés en una sola noche, conseguir trabajo en una librería, enfrentarse a acaparadores en un duelo de ramen televisado, e incluso construir un smartphone desde cero con piezas de desecho. Todo mientras protege a su adorado hermano menor y busca la manera de regresar a su hogar.
-
-Entre ofertas de huevos a 78 yenes, tigres fugados y zorros espirituales que proponen matrimonio, ¿podrá un príncipe de otro mundo adaptarse a la vida cotidiana japonesa?
-
-"—Mi mayor virtud es la versatilidad. Déjame el resto a mí."</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-modern-era-transition-of-the-second-prince-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Una fantasía de finales del shogunato donde la melodía de la magia lo envuelve todo.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-bakumatsu-magic-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

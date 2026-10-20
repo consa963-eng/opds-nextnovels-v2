@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Joyo Nishi</id>
-<title>Joyo Nishi</title>
-<updated>2026-10-20T22:53:53.451815+00:00</updated>
+<id>nextnovels:autores:Itsuki Tomohito</id>
+<title>Itsuki Tomohito</title>
+<updated>2026-10-20T22:58:27.563556+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-169.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>The Pet Girl on August Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-pet-girl-on-august-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-pet-girl-on-august-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/11/The-Pet-Girl-on-August-Shoujo-Jian-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/11/The-Pet-Girl-on-August-Shoujo-Jian-Portada.jpg"/>
-<author><name>Joyo Nishi</name></author>
+<title>The Reason a Penniless High Schooler Became Desired by a Wealthy Young Lady Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-reason-a-penniless-high-schooler-became-desired-by-a-wealthy-young-lady-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-reason-a-penniless-high-schooler-became-desired-by-a-wealthy-young-lady-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/The-Reason-a-Penniless-High-Schooler-Became-Desired-by-a-Wealthy-Young-Lady-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/09/The-Reason-a-Penniless-High-Schooler-Became-Desired-by-a-Wealthy-Young-Lady-Portada.jpg"/>
+<author><name>Itsuki Tomohito</name></author>
 <category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<content type="text">Este verano, Natsume Koji, un estudiante de secundaria, se ve obligado a hacer de guardián de una joven colegiala, Fumika Yukimi, que posee la asombrosa capacidad de «ver el futuro». ¿Por qué esta situación tan inusual? Según las predicciones de Fumika, ella podría ser la próxima víctima de un asesino en serie al final de las vacaciones de verano, a menos que actúe como un «gato» en la casa de Natsume.
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">La señorita adora la pobreza: ¿¡cuál es la razón por la que lo desea...!?
 
-Trauma Savant es un grupo de chicas dotadas de poderes sobrenaturales, adquiridos a cambio de dolores pasados. La capacidad de Fumika es, de hecho, muy real.
+El estudiante de preparatoria Tenma Seitaro, que lleva una vida en la pobreza, conoce a una hermosa detective escolar y chica rica. Por cosas del destino, Seitaro se convierte en asistente de la bella joven y termina viviendo en su mansión.
 
-Para escapar de esta situación inextricable, en la que Natsume corre el riesgo de ser denunciado a la policía y arruinado socialmente, deciden resolver el caso de los asesinatos en serie, que está causando mucho revuelo. Para ello, se asocian con Tsukiko Kyono, una joven apasionada con habilidades excepcionales que en el pasado escapó de un asesino en serie.
+Bajo el mismo techo que la señorita, uno pensaría que su relación se acerca rápidamente, pero... lo que ella busca es el poder oculto en su pobreza.
 
-Sin embargo, a medida que avanzan en su investigación, se presentan una serie de casos complejos que les llevan a preguntarse si lograrán sobrevivir en esta situación en constante evolución...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-pet-girl-on-august-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Sin embargo, mientras persiguen casos juntos, la señorita empieza a desear al propio Seitaro...
+
+«¡Con toda tu pobreza incluida, me gustas, Seitaro!»
+
+¡Un estudiante de preparatoria sin un centavo es amado sin parar por la hija de una familia adinerada!
+
+¡Una comedia romántica de diferencia de clases de nuevo tipo que convierte la pobreza en felicidad!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-reason-a-penniless-high-schooler-became-desired-by-a-wealthy-young-lady-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

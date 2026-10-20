@@ -1,34 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Jouyou Nishi</id>
-<title>Jouyou Nishi</title>
-<updated>2026-10-20T22:53:53.451733+00:00</updated>
+<id>nextnovels:autores:Itsuki Togami</id>
+<title>Itsuki Togami</title>
+<updated>2026-10-20T22:58:27.563366+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-168.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Just an Idol! Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-just-an-idol-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-just-an-idol-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/Just-an-Idol-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/06/Just-an-Idol-Portada.jpg"/>
-<author><name>Jouyou Nishi</name></author>
+<title>Jack-of-All-Trades, Party of None Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-jack-of-all-trades-party-of-none-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-jack-of-all-trades-party-of-none-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/Jack-of-All-Trades-Party-of-None-Portada-1.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/02/Jack-of-All-Trades-Party-of-None-Portada-1.jpg"/>
+<author><name>Itsuki Togami</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
 <category term="Comedia" label="Comedia"/>
-<content type="text">¡Buenas visuales, buenas voces y buen baile! ¡Pero estas chicas piensan demasiado en el amor!
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
+<content type="text">“Orn Doula, hoy será tu último día en el grupo”.
 
-Un grupo de cinco idols que últimamente está dando mucho de qué hablar.
+Como al grupo le faltaba alguien que pudiera desempeñar el papel esencial de encantador, fue Orn, que se adaptaba rápidamente, quien pasó de ser espadachín a encantador.
 
-En esta era saturada de idols, lo que las llevó a la cima en un abrir y cerrar de ojos fue su abrumadora ‘belleza visual’.
+Un día, Orn, que pertenece al grupo de héroes, recibe de repente la noticia del líder del grupo: “Tus habilidades son insuficientes, así que abandona el grupo”. Los demás miembros del grupo también lo insultan llamándolo «débil» y «aprendiz de todo, maestro de nada».
 
-Pero, al final, no dejan de ser idols. En su vida cotidiana son un desastre de chicas en plena adolescencia que se enamoran de cualquiera a la menor oportunidad.
+Orn es alguien con habilidades físicas y mágicas normales, sin nada destacable.
 
-"Se me rompió el tacón. Llévame a caballito."
+Sin embargo, su valor reside en su capacidad para adquirir fácilmente habilidades que la gente normal tiene que obtener con mucho esfuerzo. Sin duda, es un «aprendiz de todo y maestro de nada». Y por eso había codiciado y devorado todo tipo de conocimientos y técnicas.
 
-"Esta es Maya Yoruno, la hermosa y digna center perfecta…"
+Tras ser expulsado del grupo y empezar de cero, decide retomar sus aventuras. Así pues, decide volver como espadachín, ya que solo era encantador debido a las circunstancias del grupo.
 
-"¡No tiene nada de malo~! ¡Aunque sea solo acariciarme la cabeza estaría bien~!"
+Sin embargo, haber sido encantador no fue en absoluto una pérdida de tiempo.
 
-Ittetsu Hananome, un estudiante de preparatoria supuestamente serio y tradicional, termina recibiendo de lleno el amor 0bs3siv0 de todas ellas al convertirse en su mánager, por lo que decide aislarlas a todas en una casa compartida.
-
-Así da inicio al ‘Proyecto de la Idol Inmortal’, cuyo objetivo es evitar escándalos amorosos… pero ¿Será realmente posible?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-just-an-idol-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Su paso por el grupo de héroes, sus conocimientos, su experiencia y el desarrollo de innumerables hechizos originales sin duda convertirán a Orn en un espadachín con unas habilidades poco convencionales.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-jack-of-all-trades-party-of-none-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

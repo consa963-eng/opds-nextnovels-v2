@@ -1,25 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Hirasaka Yomi</id>
-<title>Hirasaka Yomi</title>
-<updated>2026-10-20T22:53:53.447711+00:00</updated>
+<id>nextnovels:autores:Hinohara</id>
+<title>Hinohara</title>
+<updated>2026-10-20T22:58:27.555183+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-127.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Henjin no Salad Bowl Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-henjin-no-salad-bowl-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-henjin-no-salad-bowl-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/08/Henjin-no-Salad-Bowl-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/08/Henjin-no-Salad-Bowl-Portada.jpg"/>
-<author><name>Hirasaka Yomi</name></author>
-<category term="Comedia" label="Comedia"/>
+<title>Nekonoyama Neneko Becomes a Cat Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-nekonoyama-neneko-becomes-a-cat-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-nekonoyama-neneko-becomes-a-cat-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/Nekonoyama-Neneko-Becomes-a-Cat-Portada.jpeg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/03/Nekonoyama-Neneko-Becomes-a-Cat-Portada.jpeg"/>
+<author><name>Hinohara</name></author>
 <category term="Ecchi" label="Ecchi"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<content type="text">Kaburaya Sosuke, un detective empobrecido, conoció a Sarah, una princesa de otro mundo con poderes mágicos.
+<category term="Maduro" label="Maduro"/>
+<category term="Romance" label="Romance"/>
+<category term="Yuri" label="Yuri"/>
+<content type="text">«¿Está mal que una chica quiera convertirse en príncipe?»
 
-Sarah empezó a vivir con Sosuke, y se adaptó rápidamente a la vida en el Japón moderno. Mientras tanto, Livia, una caballero que vino del mismo mundo que Sarah, se encontró perdida y sin hogar, pero sorprendentemente disfrutó de sus días aquí.
+Nekonoyama Neneko es una semihumana que cursa el instituto y puede transformarse en gata.
 
-Estas dos personas, que llevan una vida positiva a pesar de su situación, empezaron a influir en Sosuke y en los demás bichos raros del barrio, entre los que se encuentran un abogado diabólico, un agente de divorcios y el líder de una secta.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-henjin-no-salad-bowl-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Aunque oculta su verdadera identidad al mundo, se muestra tímida con todo el mundo, excepto con su familia.
+
+La única persona a la que deja entrar en su corazón es Mashiro, la amiga de su hermana mayor.
+
+Neneko vive admirando a la guay y misteriosa Mashiro.
+
+Un día, Neneko descubre que Mashiro es una vampiresa y le propone vivir juntas como su donante de sangre (pareja).
+
+Esta es una historia de amor entre chicas torpes en el amor.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-nekonoyama-neneko-becomes-a-cat-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

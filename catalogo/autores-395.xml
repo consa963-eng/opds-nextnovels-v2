@@ -1,37 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Saeki Nagi</id>
-<title>Saeki Nagi</title>
-<updated>2026-10-20T22:53:53.476066+00:00</updated>
+<id>nextnovels:autores:Rakuda</id>
+<title>Rakuda</title>
+<updated>2026-10-20T22:58:27.610170+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-395.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>An Extremely Wholesome Level-Up of a Beautiful Girl Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-an-extremely-wholesome-level-up-of-a-beautiful-girl-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-an-extremely-wholesome-level-up-of-a-beautiful-girl-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/An-Extremely-Wholesome-Level-Up-of-a-Beautiful-Girl-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/05/An-Extremely-Wholesome-Level-Up-of-a-Beautiful-Girl-Portada.jpg"/>
-<author><name>Saeki Nagi</name></author>
+<title>The Protagonist’s Childhood Friend is Coming On Strong to Me, a Mob Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-protagonists-childhood-friend-is-coming-on-strong-to-me-a-mob-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-protagonists-childhood-friend-is-coming-on-strong-to-me-a-mob-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/01/The-Protagonists-Childhood-Friend-is-Coming-On-Strong-to-Me-a-Mob-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/01/The-Protagonists-Childhood-Friend-is-Coming-On-Strong-to-Me-a-Mob-Portada.jpg"/>
+<author><name>Rakuda</name></author>
 <category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Harem" label="Harem"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Drama" label="Drama"/>
 <category term="Romance" label="Romance"/>
+<category term="Supernatural" label="Supernatural"/>
+<category term="Tragedia" label="Tragedia"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">¡EXP Gigantesca, Harem al Máximo! Una comedia romántica sana de solo un ligero toque
+<content type="text">Hay un chico en mi instituto que parece un héroe de comedia romántica. Es un tipo común y corriente, pero por alguna razón es popular entre las chicas mas atractivas.
 
-En un mundo moderno donde han aparecido las mazmorras, las mujeres poseen "Niveles" mientras que los hombres manifiestan "EXP". Al ser tocadas por un hombre, las mujeres reciben puntos de experiencia junto con un flujo de placer intenso. Yo, Tatsuya, un estudiante de preparatoria, poseo una cantidad masiva de EXP; tan masiva, de hecho, que un simple toque hace que las chicas se desmayen de éxtasis. Debido a esto, me había rendido con la idea de tener novia... o eso pensaba.
+Su comedia romantica me mato. Por su culpa me juzgaron por un crimen que no cometi, lo perdi todo y acabe quitandome la vida.
 
-"¡Por supuesto que vamos a hacerlo!"
+Pero ocurrio un milagro. De repente, me encontré de nuevo en la mañana de la ceremonia de ingreso a mi primer año de instituto hace dos años.
 
-"¡Por favor!"
+En esta segunda oportunidad que me fue dada milagrosamente, esta vez definitivamente no caere por culpa dde esa comedia romantica.
 
-"Patético perdedor ♡"
+"Ishii Kazuki, te amo. ¡Casémonos!".
 
-Una gyaru, una enfermera escolar y una streamer insolente. ¡Estas hermosas chicas que quieren subir de nivel han notado mi "tamaño"! Entre una convivencia dulce y coqueta, sesiones nocturnas en la enfermería y transmisiones en vivo de "resistencia al éxtasis", ¡me persiguen tan implacablemente que mis propios impulsos están llegando al límite! Si cruzo la línea, las romperé, y aun así...
+¿¡Por qué!?
 
-"¡Dame más... EXP!"
+¡Hidaka Mikoto, la amiga de la infancia y la chica de los sueños del protagonista, me lo confesó!
 
-¡Una comedia romántica de harem sana que comienza con solo un pequeño toque!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-an-extremely-wholesome-level-up-of-a-beautiful-girl-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Es la "Emperatriz de Hielo" de la clase, pero por alguna razón últimamente no ha parado de acercarse a mi....
+
+¡Espera! No soy yo, ¿verdad? ¡Tu deberías enamorarte de el!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-protagonists-childhood-friend-is-coming-on-strong-to-me-a-mob-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

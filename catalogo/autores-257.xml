@@ -1,29 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kuroyuki Yukiha</id>
-<title>Kuroyuki Yukiha</title>
-<updated>2026-10-20T22:53:53.460461+00:00</updated>
+<id>nextnovels:autores:Kurasu Piero</id>
+<title>Kurasu Piero</title>
+<updated>2026-10-20T22:58:27.582564+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-257.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>The Misdeeds of an Extremely Arrogant Villain Aristocrat Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-misdeeds-of-an-extremely-arrogant-villain-aristocrat-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-misdeeds-of-an-extremely-arrogant-villain-aristocrat-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/03/The-Misdeeds-of-an-Extremely-Arrogant-Villain-Aristocrat-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/03/The-Misdeeds-of-an-Extremely-Arrogant-Villain-Aristocrat-Portada.jpg"/>
-<author><name>Kuroyuki Yukiha</name></author>
-<category term="Acción" label="Acción"/>
+<title>Tensei Oujo to Tensai Reijou no Mahou Kakumei Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-tensei-oujo-to-tensai-reijou-no-mahou-kakumei-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-tensei-oujo-to-tensai-reijou-no-mahou-kakumei-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/05/Tensei-Oujo-to-Tensai-Reijou-no-Mahou-Kakumei-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/05/Tensei-Oujo-to-Tensai-Reijou-no-Mahou-Kakumei-Portada.jpg"/>
+<author><name>Kurasu Piero</name></author>
 <category term="Aventura" label="Aventura"/>
 <category term="Comedia" label="Comedia"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
 <category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Parece que me he reencarnado como el antagonista de una novela de fantasía.
+<category term="Yuri" label="Yuri"/>
+<content type="text">Anisphia, la Princesa que recordaba su vida anterior a una edad temprana, así como el intenso amor por la magia de su antiguo yo, partió para vivir sus fantasías en este mundo de fantasía.
 
-Soy Luke Wizaria Gilbert, el noble villano con monstruoso talento que se convierte en el “perdedor” derrotado por el protagonista subestimado. Para evitar el “final de mi ruina” que pretende satisfacer a los lectores, ¡no tengo más remedio que esforzarme incansablemente sin ser engreído!
+Un día, durante un percance mágico, se topó con una escena en la que su hermano Algard estaba rompiendo su compromiso con su prometida, Euphilia.
 
-Resistiendo el destino y persiguiendo la fuerza con determinación, Luke se inscribe en la Academia de Magia de Aslan, ¡con el objetivo de ostentar el título del más fuerte de su año! No solo cautiva a la talentosa hija de una familia prestigiosa con belleza e intelecto, sino que incluso la potencia sombría con la que normalmente no se involucraría y la heroína, que debería ser la aliada del protagonista, ¡comienzan a reunirse alrededor de Luke!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-misdeeds-of-an-extremely-arrogant-villain-aristocrat-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Lo que nadie podía haber previsto es que este extraño encuentro terminaría cambiando el curso de la historia.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-tensei-oujo-to-tensai-reijou-no-mahou-kakumei-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

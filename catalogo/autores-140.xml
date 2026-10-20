@@ -1,40 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Hochi</id>
-<title>Hochi</title>
-<updated>2026-10-20T22:53:53.448945+00:00</updated>
+<id>nextnovels:autores:Hitsuji</id>
+<title>Hitsuji</title>
+<updated>2026-10-20T22:58:27.557771+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-140.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Huh, Transfer Failed?!… or Success? Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-huh-transfer-failed-or-success-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-huh-transfer-failed-or-success-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/What-Failure-to-Transition.-Success-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/05/What-Failure-to-Transition.-Success-Portada.jpg"/>
-<author><name>Hochi</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Adulto" label="Adulto"/>
-<category term="Aventura" label="Aventura"/>
+<title>When I Started a New Game in a Galge World, I Had Memories of Having Already Romanced All the Heroines, and Now It’s a Total Mess Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-when-i-started-a-new-game-in-a-galge-world-i-had-memories-of-having-already-romanced-all-the-heroines-and-now-its-a-total-mess-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-when-i-started-a-new-game-in-a-galge-world-i-had-memories-of-having-already-romanced-all-the-heroines-and-now-its-a-total-mess-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/12/When-I-Started-a-New-Game-in-a-Galge-World-I-Had-Memories-Portada.jpeg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/12/When-I-Started-a-New-Game-in-a-Galge-World-I-Had-Memories-Portada.jpeg"/>
+<author><name>Hitsuji</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
 <category term="Ecchi" label="Ecchi"/>
-<category term="Fantasía" label="Fantasía"/>
 <category term="Harem" label="Harem"/>
-<category term="Maduro" label="Maduro"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<content type="text">Un desventurado obrero, Todo Yoichi (35 años, soltero y que vive a crédito), se ve involucrado en un accidente de camión con un joven con un nombre similar al suyo.
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">¡Da comienzo la comedia romántica con las tres heroínas que ya fueron conquistadas!
 
-Aparece una mujer que dice ser ‘la administradora’ y le dice que el joven era el que se suponía iba a reencarnar, y que solo estuvo involucrado en un accidente por error de nomenclatura.
-
-Mientras que el joven ante él recibió las habilidades trampa y se reencarnó en un mundo diferente con espadas y magia, la administradora se vio obligada a reutilizar el cuerpo original de Yoichi porque no había más en stock para establecer una nueva existencia para él, ya que todo ya le fue dado al joven antes que él.
-
-Lo mismo podría decirse de las habilidades trampa, y todo lo que logró obtener fue el ‘Conjunto de habilidades estándar’, que incluye [Evaluación], [Almacenamiento infinito], [Comprensión del lenguaje] y [Retorno], habilidades comúnmente encontrado en las novelas ligeras ‘Isekai’ que Yoichi había leído.
-
-¡Finalmente, voy a salir de esta vida endeudado! Pensó Yoichi, ansioso por disfrutar de su vida de nuevo en un mundo diferente, pero no importa cómo lo mirara, solo podía encontrarse de nuevo en su mundo anterior.
-
-También fue incapaz de las habilidades que se le dieron, ya que no había ninguna indicación de cómo usarlas en primer lugar.
-
-Para deshacerse de su dolor, se fue a un hotel que ofrece ‘servicios especiales’ y se divirtió un rato, y nada más dormirse, fue trasladado nuevamente al espacio en blanco, con la ‘administradora’ arrodillado ante él en disculpa por cometer otro error.
-
-Después de haber mejorado su ‘Conjunto de habilidades estándar’ como compensación por el error, además de hacer que las habilidades estuvieran disponibles, por supuesto, se despertó de regreso a Japón, y después de haber probado sus habilidades en su mundo real, Yoichi notó que una tierra desconocida llamado «Bosque de Jana» también se estableció como el punto de inicio de su [Retorno], mientras que su hogar en Japón como punto de retorno. Inmediatamente usó esta habilidad, ¡solo para darse cuenta de que podía viajar de un lado a otro entre el otro mundo y Japón!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-huh-transfer-failed-or-success-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Al despertar, me había reencarnado como Minato Riku, el protagonista de un galge. Enseguida me encuentro con las tres heroínas del juego, pero como cada una de ellas conserva los recuerdos de haber sido conquistada por Minato Riku, ¡empieza una comedia romántica llena de escenas propias de un campo de batalla amoroso.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-when-i-started-a-new-game-in-a-galge-world-i-had-memories-of-having-already-romanced-all-the-heroines-and-now-its-a-total-mess-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

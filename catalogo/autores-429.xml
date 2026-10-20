@@ -1,23 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Shakushineko</id>
-<title>Shakushineko</title>
-<updated>2026-10-20T22:53:53.480146+00:00</updated>
+<id>nextnovels:autores:Sangatsu Midori</id>
+<title>Sangatsu Midori</title>
+<updated>2026-10-20T22:58:27.617878+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-429.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Lovestruck Prince! Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-lovestruck-prince-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-lovestruck-prince-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/Lovestruck-Prince-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/09/Lovestruck-Prince-Portada.jpg"/>
-<author><name>Shakushineko</name></author>
+<title>Shamer Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-shamer-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-shamer-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/Shamer-Portada.jpeg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/03/Shamer-Portada.jpeg"/>
+<author><name>Sangatsu Midori</name></author>
 <category term="Comedia" label="Comedia"/>
-<category term="Fantasía" label="Fantasía"/>
+<category term="Drama" label="Drama"/>
 <category term="Romance" label="Romance"/>
-<category term="Shoujo" label="Shoujo"/>
-<content type="text">Cuando el príncipe heredero Vincent anuncia que su compromiso ha terminado, Elizabeth se desmaya. ¿Qué será de la casa la Montlivere? ¿Y de toda su familia? A lado del príncipe, la supuesta heroína sonríe con aire burlón. Elizabeth está condenada a un destino de villana... ¡Pero las tornas cambian cuando Vincent de repente denuncia a la heroína por sus fechorías!
+<category term="Shounen" label="Shounen"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">¿Qué habría pasado si no hubiera cometido un error en aquel momento…?
 
-Sumérgete en la historia de un príncipe desafortunado pero apuesto que lucha por su querida prometida, desviando todos los intentos de convertirla en una malvada por cualquier medio necesario. Tendrán su final feliz, aunque eso le cueste la vida.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-lovestruck-prince-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Tras mi «confesión» en la secundaria, perdí el contacto con mi mejor amigo y compañero de la infancia, dejé de tener un sitio en clase e incluso dejé el fútbol, en el que me esforzaba por llegar a ser profesional.
+
+Al empezar el instituto, me pasaba la mayor parte del tiempo en casa jugando a videojuegos en lugar de ir al colegio.
+
+Pero un día, unos dos meses después, un profesor vino a mi casa…
+
+El profesor, que se hacía llamar Kiritani Kakeru, parecía ser un antiguo alumno de este instituto Seiran. Y al parecer, hubo un tiempo en el que él tampoco iba al colegio, igual que yo. Sin embargo, cambió cuando conoció a alguien que le hizo darse cuenta de la importancia de ser uno mismo. Eso me hizo preguntarme si yo también podría hacerlo…?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-shamer-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

@@ -1,42 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Hitsuji Tarou</id>
-<title>Hitsuji Tarou</title>
-<updated>2026-10-20T22:53:53.448821+00:00</updated>
+<id>nextnovels:autores:Hitoma Iruma</id>
+<title>Hitoma Iruma</title>
+<updated>2026-10-20T22:58:27.557555+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-139.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Akashic Records of the Bastard Magical Instructor Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-akashic-records-of-the-bastard-magical-instructor-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-akashic-records-of-the-bastard-magical-instructor-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/01/Akashic-Records-of-the-Bastard-Magical-Instructor-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/01/Akashic-Records-of-the-Bastard-Magical-Instructor-Portada.jpg"/>
-<author><name>Hitsuji Tarou</name></author>
-<category term="Acción" label="Acción"/>
+<title>My First Love’s Kiss Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-my-first-loves-kiss-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-my-first-loves-kiss-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/10/My-First-Loves-Kiss-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/10/My-First-Loves-Kiss-Portada.jpg"/>
+<author><name>Hitoma Iruma</name></author>
 <category term="Comedia" label="Comedia"/>
 <category term="Drama" label="Drama"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
-<content type="text">Sisti asiste a una academia de magia para perfeccionar sus habilidades en las artes mágicas, y espera resolver el misterio del enigmático Castillo del Cielo. Tras la jubilación de su profesor favorito, el sustituto, Glen, resulta ser un instructor tardío, perezoso y aparentemente incompetente. ¿Cómo es que Glen fue elegido por el mejor mago de la academia?
+<category term="Vida Escolar" label="Vida Escolar"/>
+<category term="Yuri" label="Yuri"/>
+<content type="text">¿Por qué tuve que enamorarme de mi compañera de cuarto?
 
-Nota:
-
-1. v6 continúa donde terminó el anime.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-akashic-records-of-the-bastard-magical-instructor-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
-</entry>
-<entry>
-<title>Memory Records of Bastard Magic Instructor Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-memory-records-of-bastard-magic-instructor-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-memory-records-of-bastard-magic-instructor-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/05/Memory-Records-of-Bastard-Magic-Instructor-Portada.webp"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/05/Memory-Records-of-Bastard-Magic-Instructor-Portada.webp"/>
-<author><name>Hitsuji Tarou</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Fantasía" label="Fantasía"/>
-<content type="text">Las historias paralelas se publicaron originalmente en la revista Dragon Magazine de Fantasia Bunko antes de ser compiladas en volúmenes. Cada volumen presenta una historia paralela original exclusiva del volumen en el que se publica.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-memory-records-of-bastard-magic-instructor-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+La vida de Hoshi Takasora se ve alterada cuando su compañera de escuela Mizuike Umi y su madre se mudan temporalmente al pequeño apartamento de su familia. Desde el principio, a Takasora le molesta el comportamiento de Umi… y su atractivo. Aunque al principio las dos chicas se comprometen a no interferir en la vida de la otra, Takasora no puede evitar empezar a preguntarse adónde va Umi por las noches… Del autor de Adachi y Shimamura llega la agridulce historia de dos chicas de secundaria cuyas vidas se ven empujadas a convivir bajo el mismo techo.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-my-first-loves-kiss-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

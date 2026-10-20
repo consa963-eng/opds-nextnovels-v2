@@ -1,80 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Nekokuro</id>
-<title>Nekokuro</title>
-<updated>2026-10-20T22:53:53.469743+00:00</updated>
+<id>nextnovels:autores:Nanano Riku</id>
+<title>Nanano Riku</title>
+<updated>2026-10-20T22:58:27.599957+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-344.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>My Student’s Mother Was My Ex-Girlfriend Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-my-students-mother-was-my-ex-girlfriend-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-my-students-mother-was-my-ex-girlfriend-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/My-Students-Mother-Was-My-Ex-Girlfriend-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/06/My-Students-Mother-Was-My-Ex-Girlfriend-Portada.jpg"/>
-<author><name>Nekokuro</name></author>
+<title>Koujo Denka no Kateikyoushi Novela Ligera en Español</title>
+<id>https://nextnovels.com/koujo-denka-no-kateikyoushi-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/koujo-denka-no-kateikyoushi-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/02/Koujo-Denka-no-Kateikyoushi-Portada-e1644649302214.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/02/Koujo-Denka-no-Kateikyoushi-Portada-e1644649302214.jpg"/>
+<author><name>Nanano Riku</name></author>
+<category term="Acción" label="Acción"/>
 <category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
 <category term="Romance" label="Romance"/>
-<content type="text">La frustrante distancia entre ellos... ¡no desaparece ni siquiera después de una ruptura!
+<category term="Seinen" label="Seinen"/>
+<content type="text">Él estaba por ir por un buen camino en la vida, hasta que ese momento llego.
 
-Una comedia romántica dulce y a la vez frustrante para adultos, sobre dos personas que rompieron una vez pero que ahora vuelven a vivir juntas.
+Aunque, era un plebeyo, aún llego al segundo rango en la Academia Real debido a sus propios esfuerzos, superando incluso a la nobleza. Luego de graduarse de una Universidad con un excelente registro, se le garantizo un buen lugar de trabajo. si las cosas iban tan bien, se había convertido en un Mago de la Corte. un elite entre las elites
 
-Durante la secundaria, Yuuto Shirasaki salió con Misuzu Kamijou, la chica más popular del colegio.
+Pero bueno, debido a circunstancias falló el examen. Qué lamentable. Y siquiera tenía suficiente dinero para el tren para volver a casa. En tal dura situación, mi profesor me presentó un trabajo: volverme profesor particular para la hija de un Duque. Este trabajo me huele mal...
 
-Sin embargo, los primeros amores no duran para siempre.
+Esta es una historia de un hombre que quiere llevar una vida ordinaria, pero lo inesperado lo atrapa en una competición entre su rival de sus días de academia y su estudiante de tutorías-- Todo este lo fuerza a subir la ladera de la sociedad.
 
-"Así que, este es nuestro final..."
-
-Diez años después de romper con Misuzu, Yuuto acepta un puesto de profesor en el colegio privado Sakuramorioka.
-
-Allí conoce a una alumna de su clase, que resulta ser la hija adoptiva de Misuzu.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-my-students-mother-was-my-ex-girlfriend-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
-</entry>
-<entry>
-<title>Solitary Flower Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-solitary-flower-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-solitary-flower-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/08/Solitary-Flower-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/08/Solitary-Flower-Portada.jpg"/>
-<author><name>Nekokuro</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Deportes" label="Deportes"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">¡Una comedia romántica conmovedora con una hermanastra Kuudere y su compañera de clase, todo bajo el mismo techo!
-
-Cuando los padres de Shirakawa Kento se vuelven a casar, su nueva hermanastra se convierte en Sophia Frost, una chica británica de cabello rubio y ojos azules que también es su compañera de clase en la escuela secundaria.
-
-Es conocida por su comportamiento tranquilo y por estar siempre sola, apodada como la 'Flor Solitaria' por su belleza.
-
-Cuando empezaron a vivir juntos, Sophia seguía actuando con frialdad hacia Kento, diciendo "No tengo nada que decirte", pero a medida que pasaban más tiempo bajo el mismo techo...
-
-“¡N-No es que me guste tu aroma ni nada…!” “¿Podrías, eh, llamarme Sophia…?” ¡Lentamente, empieza a buscar el afecto de Kento con torpeza…!
-
-¡Esta adorable belleza británica que no puede ser honesta fácilmente es demasiado linda en esta conmovedora comedia romántica!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-solitary-flower-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
-</entry>
-<entry>
-<title>When I Saved a Girl About to Be Kidnapped, It Turned Out She Was a Princess Visiting in Secret Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-when-i-saved-a-girl-about-to-be-kidnapped-it-turned-out-she-was-a-princess-visiting-in-secret-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-when-i-saved-a-girl-about-to-be-kidnapped-it-turned-out-she-was-a-princess-visiting-in-secret-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/11/Yuukai-Sare-Sou-ni-Natte-Iru-Ko-wo-Tasuketara-Oshinobi-de-Asobi-ni-Kite-Ita-Ohime-sama-Datta-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/11/Yuukai-Sare-Sou-ni-Natte-Iru-Ko-wo-Tasuketara-Oshinobi-de-Asobi-ni-Kite-Ita-Ohime-sama-Datta-Portada.jpg"/>
-<author><name>Nekokuro</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Después de rescatar a la elegante y refinada princesa, Luna, comenzamos una vida de semi-cohabitación juntos—!? ¡Una comedia romántica dulce y amorosa llena de coqueteo!
-
-Kiriyama Seito, un estudiante de secundaria común, se encuentra en la escena de un secuestro durante las vacaciones de verano. Rescata a una niña llamada Luna, que está al borde de ser secuestrada, y le ofrece refugio ya que no tiene otro lugar a donde ir. Mientras comparte su casa con la increíblemente hermosa, elegante y despreocupada Luna, Seito gradualmente se siente más atraído por ella.
-
-De repente, el primer día del nuevo período escolar, Luna inesperadamente se transfiere a la clase de Seito como estudiante de intercambio. Se revela que Luna es en realidad una princesa de cierto país y es tan adorada que recibe propuestas de matrimonio—!?
-
-"L-Lo que estoy haciendo es solo para ti, Seito-sama... No haré esto por nadie más..." ¡
-
-Una dulce comedia juvenil romántica con la elegante princesa, Luna!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-when-i-saved-a-girl-about-to-be-kidnapped-it-turned-out-she-was-a-princess-visiting-in-secret-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+¿Cómo pasó esto...?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/koujo-denka-no-kateikyoushi-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

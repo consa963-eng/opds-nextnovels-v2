@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:generos:Aventura</id>
 <title>Aventura</title>
-<updated>2026-10-20T22:53:53.507199+00:00</updated>
+<updated>2026-10-20T22:58:27.663074+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-3.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>29-sai Dokushin wa Isekai de Jiyuu ni Ikita……katta Novela Ligera en Español</title>
@@ -312,6 +312,23 @@ Con la ayuda de unos pocos seguidores leales, Arslan aprende rápidamente que na
 
 Ambientada en una representación ficticia de la antigua Persia, esta historia clásica del autor japonés Yoshiki Tanaka combina intriga política, tácticas militares y fantasía.</content>
 <link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-arslan-senki-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+<entry>
+<title>Ascendance of a Bookworm Novela Web en Español</title>
+<id>https://nextnovels.com/descargar-ascendance-of-a-bookworm-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-ascendance-of-a-bookworm-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/Ascendance-of-a-Bookworm-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/05/Ascendance-of-a-Bookworm-Portada.jpg"/>
+<author><name>Kazuki Miya</name></author>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Shoujo" label="Shoujo"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Una estudiante universitaria despierta en un mundo donde casi nadie sabe leer y los libros son un lujo raro. Reencarnada como la hija de un soldado, su pasión por la lectura se enfrenta a una cruda realidad: no hay libros. Pero si no existen… ¡los hará ella misma! Decidida a vivir rodeada de libros, su sueño es convertirse en bibliotecaria. Así comienza su aventura, creando libros desde cero en un mundo que los desconoce.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-ascendance-of-a-bookworm-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 <entry>
 <title>Ascendance of a Bookworm: Hannelore’s Fifth Year at the Royal Academy Novela Ligera en Español</title>
@@ -755,6 +772,27 @@ Lo intenté... pero no pude crear nada. Sin embargo, mientras lo intentaba repet
 <link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-death-march-ex-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 <entry>
+<title>Death March Novela Ligera en Español</title>
+<id>https://nextnovels.com/death-march-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/death-march-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2021/12/death-march-3-e1641219988908.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2021/12/death-march-3-e1641219988908.jpg"/>
+<author><name>Ainana Hiro</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">Ichirou Suzuki, un simple programador de 29 años, al cual le apodan "Satou". Cierto día, luego de quedarse dormido en la oficina, despertó en un desconocido mundo de fantasía. Antes de retomar la conciencia por completo, vio como se acercaba un enorme grupo de enemigos, y de manera inconsciente, usó el hechizo "Lluvia de Meteoros", que terminó devastando todo lo que le rodeaba.
+
+¡Y así, sin ninguna explicación, Satou había alcanzado el nivel máximo en ese nuevo mundo, al igual que pudo acumular inmensas riquezas!
+
+De esta manera inicia su aventura en este nuevo mundo de fantasía, a veces con situaciones divertidas, a veces serias, pero siempre con la magnifica compañía de su harem.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/death-march-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+<entry>
 <title>Different World Reincarnation as a Sage Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-different-world-reincarnation-as-a-sage-novela-ligera-en-espanol/</id>
 <link rel="alternate" href="https://nextnovels.com/descargar-different-world-reincarnation-as-a-sage-novela-ligera-en-espanol/" type="text/html"/>
@@ -818,6 +856,41 @@ Además, se incluye un episodio posterior al colapso del mundo, en el que los po
 <category term="Shounen" label="Shounen"/>
 <content type="text">Antes del colapso de la civilización, ¡¡Tsukasa y Gen se enfrentan en un programa de televisión!! Tsukasa, que lucha por su orgullo y sus secretos, ¿podrá vencer la temible trampa del mentalista Gen?</content>
 <link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-dr-stone-the-voices-that-face-the-future-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+<entry>
+<title>Dream of a Beast Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-dream-of-a-beast-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-dream-of-a-beast-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/Dream-of-a-Beast-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/10/Dream-of-a-Beast-Portada.jpg"/>
+<author><name>真樹真也</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<content type="text">Un chico que carga con el karma de una vida pasada y una chica que blande una espada solitaria.
+
+Ambos albergan en su interior una bestia hambrienta de corazón. Al encontrarse, la rueda del destino comienza a girar.
+
+Un hombre que mató a su padre, a quien odiaba desde lo más profundo de su ser, y puso fin a su vida sumido en la desesperación, renace en un mundo diferente como un niño llamado Abel.
+
+Aunque Abel vivía su segunda vida rodeado del amor incondicional de sus nuevos padres, en lo más profundo de su corazón ardía sin cesar una llama oscura: el pecado de su vida anterior.
+
+En el otoño de sus seis años, tras acompañar a sus padres a una expedición para acabar con una bestia mágica, Abel se encuentra con Ys, una joven caballero que parte en dos a un monstruo con una gran espada casi tan alta como ella.
+
+Con su hermoso cabello negro, símbolo de su linaje demoníaco, y su piel blanca como la nieve manchada de sangre ajena, Ys mira a Abel y le dice:
+
+—Tienes unos ojos extraños. ¿De verdad eres un niño?
+
+—Yo... yo... No soy nadie...
+
+—Qué respuesta tan interesante. Te pareces a mí.
+
+Ambos aun no lo saben. Que al final del camino de aquellos que llevan en su corazón un "anhelo" como una bestia hambrienta, les aguarda un destino cruel...</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-dream-of-a-beast-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 <entry>
 <title>DUNGEON DIVE Novela Ligera en Español</title>
@@ -928,6 +1001,38 @@ Bueno, si los PNJ quieren coronarla Reina de la Destrucción, ¿quién es Leah p
 <category term="Shounen" label="Shounen"/>
 <content type="text">Bruscamente trasladados a un mundo de fantasía, Mimori Touka y sus compañeros de clase han sido convocados por la diosa local para que sirvan como héroes. Por suerte, la mayoría de los estudiantes muestran habilidades increíbles a su llegada, excepto Mimori, cuyas habilidades se quedan en un mísero rango E. Al no serle de utilidad, la Diosa destierra a Mimori a una mazmorra de la que nadie ha vuelto con vida. Sin embargo, resulta que las habilidades de Mimori no son inútiles, sino anormales. Incluso anormalmente poderosas. Si Mimori consigue volver a la superficie, nada se interpondrá en su camino para vengarse.</content>
 <link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/failure-frame-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+<entry>
+<title>Fairy Tail: After the Grand Magic Games Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-fairy-tail-after-the-grand-magic-games-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-fairy-tail-after-the-grand-magic-games-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/Fairy-Tail-After-the-Grand-Magic-Games.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/06/Fairy-Tail-After-the-Grand-Magic-Games.jpg"/>
+<author><name>Miu Kawasaki</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">¡EL GREMIO DE FAIRY TAIL VUELVE A LAS ANDADAS EN UNA NUEVA NOVELA!
+
+Regresa el universo de Fairy Tail con otra novela que transcurre poco después del Gran Torneo de Magia. Todo comienza con Natsu y Lucy en medio de una misión por los bosques cuando, de repente, cae ante sus narices un huevo del cielo... Al eclosionar, nace una criatura misteriosa y Natsu decide aceptarlo como uno más de la familia. Por otra parte, seis de los gremios han decidido llevar a acabo una propuesta: participar en un programa de intercambio entre Fairy Tail, Blue Pegasus, Lamia Scale, Mermaid Heel, Quattro Kerberos y Saberthooth. ¿Descubrirán Natsu y los demás el origen de esa extraña criatura...? Pero antes, ¡que empiece el periplo para visitar a los gremios!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fairy-tail-after-the-grand-magic-games-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+<entry>
+<title>Fairy Tail: The Color Residing within the Heart Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-fairy-tail-the-color-residing-within-the-heart-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-fairy-tail-the-color-residing-within-the-heart-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/Fairy-Tail-The-Color-Residing-within-the-Heart-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/06/Fairy-Tail-The-Color-Residing-within-the-Heart-Portada.jpg"/>
+<author><name>Miu Kawasaki</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">¡NUEVO FORMATO PARA LAS NUEVAS AVENTURAS DEL GREMIO DE MAGOS MÁS ALOCADO!
+
+Bienvenidos a la primera novela ligera que adapta el universo mágico de Fairy Tail. Entre sus páginas podremos descubrir una maravillosa y apasionante historia que, cronológicamente, tiene lugar en el período comprendido entre la saga de Edolas y la saga de la isla Tenrou. ¡No pierdas la oportunidad de disfrutar en formato novela esta aventura inédita y pásatelo en grande con Natsu, Happy, Lucy y compañía!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fairy-tail-the-color-residing-within-the-heart-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 <entry>
 <title>Farming Life in Another World Novela Ligera en Español</title>
@@ -1059,6 +1164,23 @@ Nota: Esta serie de novelas son historias alternas, así que pueden empezar desd
 <link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fullmetal-alchemist-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 <entry>
+<title>Goblin Slayer Novela Ligera en Español</title>
+<id>https://nextnovels.com/goblin-slayer-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/goblin-slayer-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-31.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-31.jpg"/>
+<author><name>Kagyuu Kumo</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Maduro" label="Maduro"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">Una joven sacerdotisa ha formado su primer grupo de aventuras, pero casi inmediatamente se encuentran en apuros. Es el Cazador de Goblins quien viene a su rescate - un hombre que ha dedicado su vida a la exterminación de todos los Goblins, por cualquier medio necesario. Y cuando los rumores de sus hazañas comienzan a circular, no se sabe quién será el siguiente en acudir.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/goblin-slayer-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+<entry>
 <title>God’s Games We Play Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-gods-games-we-play-novela-ligera-en-espanol/</id>
 <link rel="alternate" href="https://nextnovels.com/descargar-gods-games-we-play-novela-ligera-en-espanol/" type="text/html"/>
@@ -1084,6 +1206,24 @@ El "Juego de los Dioses" al que está a punto de enfrentarse podría ser demasia
 
 Pero, como se trata de un juego así, "¡sería un desperdicio no divertirse y jugar con todo el corazón!". ¡Y así comienza la batalla intelectual definitiva entre un chico genio, un antiguo dios (que resulta ser una chica) y sus amigos!</content>
 <link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-gods-games-we-play-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+<entry>
+<title>Goshujin-sama to Yuku Isekai Survival! Novela Web en Español</title>
+<id>https://nextnovels.com/descargar-goshujin-sama-to-yuku-isekai-survival-novela-web-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-goshujin-sama-to-yuku-isekai-survival-novela-web-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/11/Goshujin-sama-to-Yuku-Isekai-Survival-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/11/Goshujin-sama-to-Yuku-Isekai-Survival-Portada.jpg"/>
+<author><name>Ryuto</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Maduro" label="Maduro"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Seinen" label="Seinen"/>
+<content type="text">Cuando Kousuke se ve transportado a un nuevo mundo, tiene que aprender a sobrevivir tanto en un desierto sin caminos como en un bosque oscuro. Afortunadamente, su conocimiento de los juegos es útil. ¡Tiene todas las habilidades de creación que siempre quiso y un inventario infinitamente grande para llenar con botines y armas! Aún más afortunado, conoce a una sexy princesa elfa que... ¡¿le pone un collar de esclavo alrededor del cuello y lo pone a trabajar para salvar el mundo y satisfacer todos sus caprichos?!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-goshujin-sama-to-yuku-isekai-survival-novela-web-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 <entry>
 <title>Gosick Novela Ligera en Español</title>
@@ -2122,6 +2262,26 @@ Guiado por su astucia, un espíritu esponjoso y misterioso que solo él puede ve
 <link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-ill-become-a-villainess-that-will-go-down-in-history-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 <entry>
+<title>I’m in Love with the Villainess: She’s So Cheeky for a Commoner Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-im-in-love-with-the-villainess-shes-so-cheeky-for-a-commoner-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-im-in-love-with-the-villainess-shes-so-cheeky-for-a-commoner-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/07/Im-in-Love-with-the-Villainess-Shes-so-Cheeky-for-a-Commoner-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/07/Im-in-Love-with-the-Villainess-Shes-so-Cheeky-for-a-Commoner-Portada.jpg"/>
+<author><name>Inori</name></author>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<category term="Yuri" label="Yuri"/>
+<content type="text">¡Ahora, son los villanos quienes cuentan la historia!
+
+Claire François lo tiene todo: belleza, inteligencia y sangre noble. Como hija de un destacado aristócrata, asume su estatus y las responsabilidades que conlleva con la mayor seriedad, incluso cuando el rey amenaza con desestabilizar el reino con sus absurdas ideas de «meritocracia». Claire está dispuesta a adaptarse a este cambio social, hasta que una nueva estudiante plebeya en su exclusiva academia, Rei Taylor, pone su mundo patas arriba. Todo en Rei desconcierta a Claire: desde su comportamiento y su inteligencia hasta su extraña fifijación con ella. Lo que Claire no imagina es cuánto cambiará Rei su vida... y cuánto cambiará ella la de Rei.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-im-in-love-with-the-villainess-shes-so-cheeky-for-a-commoner-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+<entry>
 <title>I’m the Evil Lord of an Intergalactic Empire! Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-im-the-evil-lord-of-an-intergalactic-empire-novela-ligera-en-espanol/</id>
 <link rel="alternate" href="https://nextnovels.com/descargar-im-the-evil-lord-of-an-intergalactic-empire-novela-ligera-en-espanol/" type="text/html"/>
@@ -2358,6 +2518,27 @@ Aquí estoy, reencarnado en el mundo de Love &amp; Magic Academy, un juego otome
 <link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-love-magic-academy-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 <entry>
+<title>Love Thy Dark Lord Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-love-thy-dark-lord-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-love-thy-dark-lord-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/Love-Thy-Dark-Lord-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/10/Love-Thy-Dark-Lord-Portada.jpg"/>
+<author><name>Honjo Kentaro</name></author>
+<category term="Aventura" label="Aventura"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
+<content type="text">He de vivir como rey. En este lujoso infierno. Cansado de una vida como un director ejecutivo decorativo, “yo (boku)” quien puso fin a sus propios días y renació en la mente de un joven rey de otro mundo. Sin embargo, su reino sufre una enorme deuda fiscal y la constante interferencia de las potencias extranjeras, e incluso dentro del país ya comienzan a surgir indicios de revolución.
+
+Rodeado de las jóvenes candidatas a reinas (cuyo peso político no puede ignorarse) y de unos consejeros claramente más capaces que él, son pocas las cosas que puede hacer este hombre sin poder de otro mundo. Pero, si no encuentra la manera de hacerlo bien, no sobrevivirá
+
+―Mi nombre quedará registrado como el de uno de los monarcas incompetentes. Para siempre.
+
+Aun así, él sigue en el trono. Para cumplir, esta vez, con ese papel que en su día “arrojó”.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-love-thy-dark-lord-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+<entry>
 <title>Magical★Explorer Novela Ligera en Español</title>
 <id>https://nextnovels.com/magical-explorer-novela-ligera-en-espanol/</id>
 <link rel="alternate" href="https://nextnovels.com/magical-explorer-novela-ligera-en-espanol/" type="text/html"/>
@@ -2466,6 +2647,45 @@ Arnos se matriculó en la Academia Maou, establecida para encontrar cualquier es
 <link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-maryoku-cheat-na-majo-ni-narimashita-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 <entry>
+<title>Miss Pendleton Novela Web en Español</title>
+<id>https://nextnovels.com/descargar-miss-pendleton-novela-web-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-miss-pendleton-novela-web-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/09/Miss-Pendleton-Portada-1.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/09/Miss-Pendleton-Portada-1.jpg"/>
+<author><name>Yu Hyemin</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Histórico" label="Histórico"/>
+<category term="Josei" label="Josei"/>
+<category term="Romance" label="Romance"/>
+<content type="text">Laura Pendleton, la famosa casamentera de la alta sociedad.
+
+Creía que esta última petición, encontrar pareja para Ian Dalton, un soltero de primera y rico terrateniente, sería pan comido.
+
+Al menos, hasta que conoció al hombre envuelto en nada más que obstinación.
+
+«Ya te habrás enterado. Cuántos problemas le ha costado a mi hermana traerme aquí».
+
+Una nariz recta y unos ojos que irradiaban una elegancia refinada. La señorita Pendleton pensó:
+
+Con un rostro como ese, podría llevarse a cualquier dama en carruaje a su finca.
+
+Y muy pronto se dio cuenta de lo acertada que era su valoración.
+
+—¿Me está diciendo que me case con otra persona ahora mismo?
+
+Su hermoso rostro se torció ligeramente antes de volver a hablar.
+
+—Cásese conmigo, señorita Pendleton.
+
+Un anillo de diamantes de corte fino brillaba a la luz.
+
+Se lo tendió a Laura Pendleton, una solterona de veintinueve años.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-miss-pendleton-novela-web-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+<entry>
 <title>Moscow 2160 Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-moscow-2160-novela-ligera-en-espanol/</id>
 <link rel="alternate" href="https://nextnovels.com/descargar-moscow-2160-novela-ligera-en-espanol/" type="text/html"/>
@@ -2519,6 +2739,28 @@ Después de más de una década de encierro, Alrs rompe el sello y se aventura a
 
 Por suerte, se tenían salvadas antes de que se perdieran. Pero, al ser cartas que escribió tras la publicación de cada volumen, estas suelen tener spoilers de dichos volúmenes. Así que están advertidos.</content>
 <link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-mushoku-tensei-behind-the-scenes-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+<entry>
+<title>Mushoku Tensei Novela Ligera en Español</title>
+<id>https://nextnovels.com/mushoku-tensei-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/mushoku-tensei-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-23.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-23.jpg"/>
+<author><name>Rifujin na Magonote</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Maduro" label="Maduro"/>
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<content type="text">Un nini virgen y desempleado de 34 años es echado de casa sin un solo centavo, lo cual le hace darse cuenta de que su vida está acabada. Justo cuando estaba arrepintiéndose de las decisiones tomadas hasta entonces, un camión lo atropella, matándolo de manera abrupta. Cuando por fin despierta, se encuentra… ¡en un mundo de fantasía donde la espada y la magia son la norma! Ahora ha renacido como un bebé llamado Rudeus y decide vivir al máximo, sin arrepentimientos. Valiéndose del conocimiento de su vida anterior, Rudeus desarrolla habilidades mágicas de inmediato. Esto le lleva a fungir como tutor de una señorita acomodada. Además, también conoce a un elfo mestizo hermoso de pelo verde esmeralda. Poco a poco su vida se mueve en una nueva dirección.
+
+¡Bienvenidos a una historia de fantasía en donde podrán rehacer su vida!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/mushoku-tensei-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 <entry>
 <title>Mushoku Tensei Special Book Novela Ligera en Español</title>
@@ -2671,6 +2913,26 @@ Un viaje de reencarnación, política palaciega y crecimiento de poder, donde ca
 <category term="Supernatural" label="Supernatural"/>
 <content type="text">El protagonista era un eterno aventurero de rango cobre del área fronteriza, Tiene mala suerte cuando se encuentra con un poderoso monstruo dentro del laberinto, es derrotado y cuando se da cuenta, ya se ha convertido en un hombre de hueso. Agonizando ya que no puede ingresar a la ciudad en su condición actual, recuerda que los monstruos evolucionan, así que ahora, con el objetivo de ganar un cuerpo con carne, va a vencer a los monstruos del laberinto.</content>
 <link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/nozomanu-fushi-no-boukensha-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+<entry>
+<title>Ochite Kita Ryuu Ou to Horobiyuku Majo no Kuni Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-ochite-kita-ryuu-ou-to-horobiyuku-majo-no-kuni-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-ochite-kita-ryuu-ou-to-horobiyuku-majo-no-kuni-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/06/Ochite-Kita-Ryuu-Ou-to-Horobiyuku-Majo-no-Kuni-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/06/Ochite-Kita-Ryuu-Ou-to-Horobiyuku-Majo-no-Kuni-Portada.jpg"/>
+<author><name>Maisaka Kou</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Supernatural" label="Supernatural"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">En un mundo lejano existen brujas sexis y hermosas que son perseguidas, abusadas y llevadas al borde de la extinción por los humanos. Sin embargo, cierto día un hombre llamado Naga (Rey Dragón) cayó dentro de ese mundo, enfrente de Harrigan, la “Bruja del Bosque Negro”, a quien no pudo evitar manosear sus enormes pechos. Pero en el País de las Brujas, aún cuando todo podría ser perfecto para nuestro protagonista, de pronto aparece Yuuki (la chica amarilla), quien odia en extremo a los hombres y desea matar a Naga. ¿Podrá sobrevivir Naga y evitar la destrucción de este paraíso mágico?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-ochite-kita-ryuu-ou-to-horobiyuku-majo-no-kuni-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 <entry>
 <title>Okaa-san Online Novela Ligera en Español</title>
@@ -2858,6 +3120,29 @@ Sin embargo, 400 años después, se reencarnó por segunda vez y se inscribió e
 
 Con un poder abrumador, el mundo entero se arrodillará ante él.</content>
 <link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-rakudai-kenja-no-gakuin-musou-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+<entry>
+<title>Re Zero Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-re-zero-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-re-zero-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2021/12/Re-Zero-e1641220480303.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2021/12/Re-Zero-e1641220480303.jpg"/>
+<author><name>Nagatsuki Tappei</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">De repente, un estudiante de instituto, Subaru Natsuki, ha sido invocado a otro mundo cuando volvía de la tienda. Con la mayor crisis de su vida al ser convocado a otro mundo y sin rastro del que le convocó las cosas empeoran cuando es atacado.
+
+Pero cuando es salvado por una misteriosa chica de pelo plateado con un gato hada, Subaru coopera con la chica para devolverle el favor. Cuando finalmente consiguen una pista Subaru y la chica son atacados y asesinados por alguien.
+
+Subaru entonces despierta en el lugar al que fue convocado y se da cuenta de la habilidad que obtuvo «Vuelve por la Muerte» un chico indefenso que solo tiene la habilidad de rebobinar el tiempo muriendo. ¡Y mas alla de la desesperacion puede salvar a la chica del destino de la muerte!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-re-zero-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 <entry>
 <title>Re:Monster Novela Ligera en Español</title>
@@ -3228,6 +3513,30 @@ La suerte finalmente le sonríe cuando una aventurera experimentada reconoce su 
 <link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-scooped-up-by-an-s-rank-adventurer-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 <entry>
+<title>Seirei Gensouki Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-seirei-gensouki-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-seirei-gensouki-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/02/portada-5-e1643857927939.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/02/portada-5-e1643857927939.jpg"/>
+<author><name>Kitayama Yuri</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">Amakawa Haruto es un hombre joven que murió antes de reunirse con su amigo de la infancia quien desapareció hace cinco años. Rio es es un chico que vive en la pobreza que quiere vengar a su madre quien fue asesinada en frente de él cuando tenía cinco años.
+
+La tierra y otro mundo. Dos personas con historias y valores completamente diferentes. Por alguna razón, las memorias y personalidad de Haruto quien debió haber muerto es resucitado dentro del cuerpo de Rio. Mientras los dos están confundidos de que sus memorias y personalidades fueran fusionadas, Rio (Haruto) decide vivir en este mundo nuevo.
+
+Junto a las memorias de Haruto, Rio despierta un "poder especial" desconocido, y parece que si lo utiliza bien, podrá vivir una vida mejor. Pero antes de eso, Rio se encuentra con un secuestro que parece involucrar dos princesas del Reino Bertram en el que vive.
+
+Luego de salvar a las princesas, a Rio se le concede una beca en la Academia Real, una escuela para los ricos y poderosos. Ser un huérfano pobre en una escuela llena de nobles resulta ser un lugar extremadamente detestable para estar.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-seirei-gensouki-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+<entry>
 <title>Sentenced to Be a Hero Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-sentenced-to-be-a-hero-novela-ligera-en-espanol/</id>
 <link rel="alternate" href="https://nextnovels.com/descargar-sentenced-to-be-a-hero-novela-ligera-en-espanol/" type="text/html"/>
@@ -3454,6 +3763,33 @@ Sean testigos de la tristeza y el dolor de un hombre que sólo quiere retirarse.
 <category term="Seinen" label="Seinen"/>
 <content type="text">Cuando Kousuke se ve transportado a un nuevo mundo, tiene que aprender a sobrevivir tanto en un desierto sin caminos como en un bosque oscuro. Afortunadamente, su conocimiento de los juegos es útil. ¡Tiene todas las habilidades de creación que siempre quiso y un inventario infinitamente grande para llenar con botines y armas! Aún más afortunado, conoce a una sexy princesa elfa que... ¡¿le pone un collar de esclavo alrededor del cuello y lo pone a trabajar para salvar el mundo y satisfacer todos sus caprichos?!</content>
 <link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-survival-in-another-world-with-my-mistress-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+<entry>
+<title>Sword Art Online Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-sword-art-online-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-sword-art-online-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2021/12/1519825649-e1641220496808.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2021/12/1519825649-e1641220496808.jpg"/>
+<author><name>Kawahara Reki</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">Sword Art Online, el juego de realidad virtual más reciente en el mercado, Fue tan deseado en su lanzamiento, que sus reservas se agotaron casi al instante.
+
+De entre todos los jugadores que compraron este juego, destaca Kirito, un chico que incluso tuvo la suerte de ser parte del programa Beta del juego.
+
+Al entrar al juego pareciera que todo está bien, pero hay un problema, al momento de intentar salirse del juego, no pudo hallar el botón necesario para dicha acción. El problema recae en que no era un problema que solo le pasaba a Kirito, ese mismo caso le pasaba a todos los jugadores de SAO.
+
+Luego de unos momentos TODOS los jugadores fueron teletransportados a una plaza en el primer piso del juego, y allí comenzó todo.
+
+La única forma de sobrevivir y salir del juego es venciendo a los jefes finales de cada piso, en total 100.
+
+Pero hay un problema, si muere en el juego, morirá en la vida real.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-sword-art-online-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 <entry>
 <title>Sword of the Demon Hunter Novela Ligera en Español</title>
@@ -4441,6 +4777,27 @@ Kamiya, un héroe reencarnado en otro mundo, tiene la misión de viajar hacia el
 
 Ya sea la valiente caballera, la compasiva santa o la maga tsundere, todas están desesperadas por conquistarlo. Aun así, él se niega a ceder ante ninguna. ¿Por qué? Porque el Héroe se ha dado cuenta de la verdad: uno de los miembros de su grupo es en realidad el "Rey Demonio" disfrazado...</content>
 <link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-theres-a-demon-lord-hiding-in-my-temptation-filled-harem-party-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+<entry>
+<title>Thousand Autumns Novela en Español</title>
+<id>https://nextnovels.com/descargar-thousand-autumns-novela-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-thousand-autumns-novela-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/Thousand-Autumns-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/02/Thousand-Autumns-Portada.jpg"/>
+<author><name>Meng Xi Shi</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Drama" label="Drama"/>
+<category term="Histórico" label="Histórico"/>
+<category term="Maduro" label="Maduro"/>
+<category term="Romance" label="Romance"/>
+<category term="Shounen Ai" label="Shounen Ai"/>
+<category term="Wuxia" label="Wuxia"/>
+<content type="text">En el complejo círculo de las artes marciales, lo más importante son la fuerza y el poder. Las distintas sectas buscan imponerse mientras se suceden las peleas por ser el luchador más fuerte. Shen Qiao, el líder de la prestigiosa secta taoísta de la Montaña Xuandu, sufre un accidente en medio de una pelea que hace que pierda todo su poder y su posición como líder. Ciego y sin recuerdos, Shen Qiao tendrá que descubrir la verdad sobre su accidente y sobre sí mismo mientras aprende a vivir con las consecuencias de su accidente.
+
+El poderoso «Señor Demonio» Yan Wushi, el arrogante y caprichoso líder de la Secta Huanyue, una de las tres grandes sectas demoníacas, regresa de su retiro de diez años después de ser derrotado por Cui Youwang. Yan Wushi rescata a Shen Qiao con el objetivo de corromperlo y que se una a él, pero pronto descubrirá que Shen Qiao no es fácil como pensaba de ideales y personalidades totalmente distintas, los dos se embarcarán en una aventura en un territorio dividido y marcado por las intrigas donde, contra todo pronóstico, se convertirán en compañeros de viaje.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-thousand-autumns-novela-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 <entry>
 <title>Toaru Majutsu no Index: Genesis Testament Novela Ligera en Español</title>

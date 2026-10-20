@@ -1,29 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Sakawa Ninomiya</id>
-<title>Sakawa Ninomiya</title>
-<updated>2026-10-20T22:53:53.476983+00:00</updated>
+<id>nextnovels:autores:Ryou Hazakura</id>
+<title>Ryou Hazakura</title>
+<updated>2026-10-20T22:58:27.612330+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-404.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>My Cheeky Childhood Friend Who’s a Godly Artist Is Gradually Becoming Unable to Defy Me Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-my-cheeky-childhood-friend-whos-a-godly-artist-is-gradually-becoming-unable-to-defy-me-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-my-cheeky-childhood-friend-whos-a-godly-artist-is-gradually-becoming-unable-to-defy-me-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/My-Cheeky-Childhood-Friend-Whos-a-Godly-Artist-Is-Gradually-Becoming-Unable-to-Defy-Me-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/05/My-Cheeky-Childhood-Friend-Whos-a-Godly-Artist-Is-Gradually-Becoming-Unable-to-Defy-Me-Portada.jpg"/>
-<author><name>Sakawa Ninomiya</name></author>
+<title>I, Who Longs To Be A Dependent, Have Decided To Be Owned By A Yandere Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-i-who-longs-to-be-a-dependent-have-decided-to-be-owned-by-a-yandere-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-i-who-longs-to-be-a-dependent-have-decided-to-be-owned-by-a-yandere-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/04/I-Who-Longs-To-Be-A-Dependent-Have-Decided-To-Be-Owned-By-A-Yandere-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/04/I-Who-Longs-To-Be-A-Dependent-Have-Decided-To-Be-Owned-By-A-Yandere-Portada.jpg"/>
+<author><name>Ryou Hazakura</name></author>
 <category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Harem" label="Harem"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<content type="text">¡Le daré una lección a mi descarada amiga de la infancia, que se cree una diosa, con mis ilustraciones!
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Si no quieres trabajar en el futuro ¿Qué tal si una yandere te enci3rr4?
 
-Yo, Arima Juro, un aspirante a autor de novelas ligeras, tengo una archienemiga constante que siempre me menosprecia: mi amiga de la infancia, Sugaki Asuha, apodada "Oyster-sensei", venerada como una artista de primer nivel.
+Akira Kiritani, un estudiante de preparatoria perezoso tiene una condición única: Desde pequeño, siempre ha sido amado por yanderes.
 
-Tras abandonar la escritura debido a un desafortunado accidente, decido convertirme en artista y superarla.
+Un día, al salir de la escuela, sorprende a Yui Minazuki, una compañera hermosa e inteligente, oliendo su bolso escolar.
 
-"¿Si no puedes ser lo suficientemente buena como para vencerme, tal vez tengas que hacer lo que yo diga?", me provoca, pero mi rápido progreso y la repentina aparición de una hermosa chica mayor de la preparatoria la hacen perder la compostura...
+Al descubrir que Yui siente un amor patológico por él, Akira le ruega que lo 3nc13rre y decide dejarse cuidar por ella hasta su vejez.
 
-"Quiero ser tu novia. La... novia de Juro".
+"El collar es un pedido especial, así que espera hasta que esté listo ¿De acuerdo?" Le dice Yui con una sonrisa angelical.
 
-Comienza una comedia romántica de creación, ¡donde le daré una lección a mi descarada amiga de la infancia con mis habilidades!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-my-cheeky-childhood-friend-whos-a-godly-artist-is-gradually-becoming-unable-to-defy-me-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Sin embargo, cuando su vida enc3rrad0 en casa de Yui comienza, suena el timbre de la puerta...
+
+¿Akira logrará convertirse en un buen mantenido de yanderes o no?
+
+¡Esta es la historia de Akira, quien lleva una caótica vida escolar mientras intenta convertirse en un mantenido para una yandere!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-i-who-longs-to-be-a-dependent-have-decided-to-be-owned-by-a-yandere-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

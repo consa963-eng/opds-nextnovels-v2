@@ -1,27 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Eda</id>
-<title>Eda</title>
-<updated>2026-10-20T22:53:53.441320+00:00</updated>
+<id>nextnovels:autores:Dojyomaru</id>
+<title>Dojyomaru</title>
+<updated>2026-10-20T22:58:27.543583+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-67.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Isekai Ryouridou Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-isekai-ryouridou-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-isekai-ryouridou-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/06/01-36.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/06/01-36.jpg"/>
-<author><name>Eda</name></author>
+<title>How a Realist Hero Rebuilt The Kingdom Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-how-a-realist-hero-rebuilt-the-kingdom-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-how-a-realist-hero-rebuilt-the-kingdom-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/01/Genjitsu-Shugi-Yuusha-no-Oukoku-Saikenki-e1643611291125.png"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/01/Genjitsu-Shugi-Yuusha-no-Oukoku-Saikenki-e1643611291125.png"/>
+<author><name>Dojyomaru</name></author>
+<category term="Acción" label="Acción"/>
 <category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
 <category term="Drama" label="Drama"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Harem" label="Harem"/>
 <category term="Seinen" label="Seinen"/>
-<content type="text">El protagonista principal es Tsurumi Asuta. 17 años, estudiante de 2º de bachillerato.
+<content type="text">"¡Oh Héroe!"
 
-Trabajaba como aprendiz de cocinero en la [Tsurumi-ya], dirigida por su padre.
+Con esa línea tan cliché, Kazuya Souma se encontró siendo convocado a otro mundo y su aventura... no comenzó.
 
-Un día se produjo un incendio en la [Tsurumi-ya], y por el bien del preciado cuchillo de su padre [Santoku Houchou - del tipo japonés] corrió al interior para recuperarlo y así encontró su fin. Antes de darse cuenta, se despertó en un entorno desconocido. Entonces fue atacado por una bestia parecida a un jabalí, pero una chica llamada 'Ai Fa' del [Pueblo de Morihen] le salvó. Fue entonces cuando se dio cuenta de que realmente estaba en un mundo diferente...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-isekai-ryouridou-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+¡Luego de presentar su plan para fortalecer al país económica y militarmente, el rey le cede el trono y Souma termina liderando la nación! Es más, ¿¡ahora está comprometido con la hija del rey...!?
+
+Para volver a encaminar al país, Souma llama a los sabios, talentosos, y dotados para que estén a su lado. Cinco personas se reúnen ante el Souma recién coronado.
+
+¿¡Cuales son los varios talentos y habilidades que ellos poseen...!? ¿A qué camino llevará a Souma y las personas del país su punto de vista realista?
+
+¡Aquí comienza una historia de fantasía administrativa y revolucionaria de alguien invocado a otro mundo!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-how-a-realist-hero-rebuilt-the-kingdom-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>
