@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:b5fc68fe36</id>
 <title>Shiiru Tsukishima</title>
-<updated>2026-10-20T16:38:00.741303+00:00</updated>
+<updated>2026-10-20T17:08:06.201996+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-b5fc68fe36.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>A Story of Friction in the World with a Broken Gender Ratio Novela Ligera en Español</title>
@@ -25,6 +25,6 @@ Un sistema social optimizado para una abrumadora diferencia numérica entre homb
 Lo que allí se desarrolla es una carrera definitiva de heroínas, en la que hermosas chicas se disputan a los hombres jugándose la vida, compitiendo mediante el número, la inteligencia, la capacidad física, las estrategias y las maniobras.
 
 A diferencia de los demás hombres, Mizuki posee una forma de pensar que no está condicionada por la posición social ni por el género. Tras conocer a las chicas de la clase A, terminará viéndose envuelto en una feroz lucha entre facciones...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-a-story-of-friction-in-the-world-with-a-broken-gender-ratio-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1-imOGkG4G8ebE5TJOWDdsA" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

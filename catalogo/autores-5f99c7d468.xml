@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:5f99c7d468</id>
 <title>Hinachihoko</title>
-<updated>2026-10-20T16:38:00.708850+00:00</updated>
+<updated>2026-10-20T17:08:06.152371+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-5f99c7d468.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Charlotte wa Tada, Jiken wo Tokitai Novela Ligera en Español</title>
@@ -23,6 +23,6 @@ Tras conocer a una chica llamada Sharnelia, que tiene el mismo apodo que ella, d
 No hace amistades. Pero unirá fuerzas si es necesario.
 
 Charlotte solo quiere resolver el caso.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-charlotte-wa-tada-jiken-wo-tokitai-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1N0I1PCbyujROrkIrUgZHAw" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

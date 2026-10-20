@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:33ab9a07b8</id>
 <title>Fuyuno Yozora</title>
-<updated>2026-10-20T16:38:00.705093+00:00</updated>
+<updated>2026-10-20T17:08:06.145981+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-33ab9a07b8.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>That Summer, Fell in Love at the End of a Dream Novela Ligera en Español</title>
@@ -32,6 +32,7 @@ Apenas ingresé a la escuela, me enamoré a primera vista del senpai, quien ten�
 Con el corazón lleno de esperanzas para un futuro feliz, todo se desmoronó en un instante por un accidente de coche. Debido a las heridas, quedé parapléjico, y el senpai perdió sus manos, las cuales solían tocar música tan hermosa. Sin embargo, en ese momento oscuro, un mensaje apareció repentinamente en mi móvil: "Si pudieras cambiar las decisiones del pasado, ¿qué harías? Este es el sueño que deseas, pero también el mundo falso que tanto anhelas. A pesar de esto, ¿te sumergirías en este sueño?"
 
 En ese instante, obtuve la oportunidad de cambiar nuestro destino y volver a enamorarme de él. Pero en este sueño con límite de tiempo, él ha olvidado completamente quién soy yo y nuestro amor...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-that-summer-fell-in-love-at-the-end-of-a-dream-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F12dxxyqSS-tfHqOeNc9sDtQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1OZ-FkCoUx6-rJ-4qw4ZEGA" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

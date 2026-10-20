@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:11e26b7360</id>
 <title>Hiiro Nagawa</title>
-<updated>2026-10-20T16:38:00.708543+00:00</updated>
+<updated>2026-10-20T17:08:06.151892+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-11e26b7360.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Exiled to the Graveyard of Past Heroes Novela Ligera en Español</title>
@@ -21,6 +21,7 @@
 Traicionado por sus fieles compañeros y su amada, Elott queda devastado. Sin embargo, este lugar es la tumba de incontables héroes de inmenso poder que, como él, fueron traicionados y desterrados por su país hace mucho tiempo.
 
 Para vengar a su patria traicionada, Eliott usa su singular habilidad de resurrección para despertar a los antiguos héroes que duermen en el fondo del Abismo. Su ejército, al que se unen hermosas heroínas y princesas celestiales curtidas en la batalla, se convierte finalmente en la nación más poderosa, superando con creces incluso el poderío militar de su patria.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-exiled-to-the-graveyard-of-past-heroes-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F106dBZGQK2fXnucxa4vci7w" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1JR1X3_shXDlOD_-MN2WRwA" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

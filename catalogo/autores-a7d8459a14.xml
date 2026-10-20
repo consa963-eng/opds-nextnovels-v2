@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:a7d8459a14</id>
 <title>Kamishiro Kyousuke</title>
-<updated>2026-10-20T16:38:00.715079+00:00</updated>
+<updated>2026-10-20T17:08:06.161658+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-a7d8459a14.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>My Stepmom’s Daughter Is My Ex Novela Ligera en Español</title>
@@ -22,6 +22,7 @@ Ahora, en el instituto, los dos, Irido Mizuto y Ayai Yume, acabaron encontrándo
 La antigua pareja, reunida por el nuevo matrimonio de sus padres, decidió tener en cuenta los sentimientos de sus padres e ideó una "regla de hermanos", según la cual el primero que toma conciencia del otro como miembro del otro sexo pierde, pero...
 
 Cuando se encuentran en el cuarto de baño, van y vienen juntos de la escuela, junto con los recuerdos del pasado y viviendo bajo el mismo techo, ¿cómo se desentienden el uno del otro?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-my-stepmoms-daughter-is-my-ex-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1GaT_76edPp81IHFNHBWBcQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1L0JZUH6xNMXVMcW3CSSuHg" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:41a4f8af2c</id>
 <title>Ryuusen Hirotsugu</title>
-<updated>2026-10-20T16:38:00.737240+00:00</updated>
+<updated>2026-10-20T17:08:06.195801+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-41a4f8af2c.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Kenja no Deshi wo Nanoru Kenja Novela Ligera en Español</title>
@@ -17,6 +17,7 @@
 <category term="Magia" label="Magia"/>
 <category term="Romance" label="Romance"/>
 <content type="text">En un VRMMORPG de origen misterioso, Sakimori Kagami con su digno personaje, ostentaba el titulo de ser uno de los Nueve Sabios, lo que lo colocaba en el pináculo de los magos. Un día para no dejar que se desperdiciara su saldo del juego, compro el articulo más barato, el cual permitía modificar la apariencia del personaje, y se le ocurrió la idea de crear el personaje femenino ideal, debido a que ya había creado el masculino, al final de esto, una repentina somnolencia lo atacó, al despertar se encontraba en un mundo más realista que el del juego y se había transformado en una linda jovencita. Por lo que ahora tiene que adaptarse a este mundo con su nueva identidad y genero.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-kenja-no-deshi-wo-nanoru-kenja-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1_UBp-V40WfKAMa4dxyzA4g" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1ZnAqQiMP-MmTdJHplLDLJg" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

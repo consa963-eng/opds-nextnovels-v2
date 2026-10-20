@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:48190b0db6</id>
 <title>Kurikinton</title>
-<updated>2026-10-20T16:38:00.722642+00:00</updated>
+<updated>2026-10-20T17:08:06.172799+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-48190b0db6.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Because My Childhood Friend Got a Boyfriend, I Made a Bento for Another Girl, and Then My Childhood Friend Started Acting Strange Novela Ligera en Español</title>
@@ -24,6 +24,6 @@ Pero cuando Akari se entera de ello, su comportamiento empieza a volverse extra�
 "¿Por qué… estás aquí, Chisato-chan?"
 
 ...Se suponía que siempre fuimos amigos de la infancia… una familia especial.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-because-my-childhood-friend-got-a-boyfriend-i-made-a-bento-for-another-girl-and-then-my-childhood-friend-started-acting-strange-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1YRLDyHO3GAN_qAKkfXLDbw" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

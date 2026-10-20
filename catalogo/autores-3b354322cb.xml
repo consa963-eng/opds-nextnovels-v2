@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:3b354322cb</id>
 <title>Jouyou Nishi</title>
-<updated>2026-10-20T16:38:00.713619+00:00</updated>
+<updated>2026-10-20T17:08:06.159576+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-3b354322cb.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Just an Idol! Novela Ligera en Español</title>
@@ -28,6 +28,6 @@ Pero, al final, no dejan de ser idols. En su vida cotidiana son un desastre de c
 Ittetsu Hananome, un estudiante de preparatoria supuestamente serio y tradicional, termina recibiendo de lleno el amor 0bs3siv0 de todas ellas al convertirse en su mánager, por lo que decide aislarlas a todas en una casa compartida.
 
 Así da inicio al ‘Proyecto de la Idol Inmortal’, cuyo objetivo es evitar escándalos amorosos… pero ¿Será realmente posible?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-just-an-idol-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1qWz4shNUSkucsXREHe3VeQ" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

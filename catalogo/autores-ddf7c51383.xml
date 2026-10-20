@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:ddf7c51383</id>
 <title>Hikaru Taiyou</title>
-<updated>2026-10-20T16:38:00.708730+00:00</updated>
+<updated>2026-10-20T17:08:06.152195+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-ddf7c51383.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Erotical Wizard With 12 Brides Novela Ligera en Español</title>
@@ -19,6 +19,6 @@
 <category term="Romance" label="Romance"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Junpei Ichinose, un estudiante de una escuela de magia de Tokio, es un desertor escolar que nunca ha descubierto su aptitud para la magia. De repente, la hermosa bruja Meryl aparece ante él y le dice: «Necesito tu poder, reencarnación del Rey Demonio». Junpei descubre que posee el poder del Rey Demonio. Descubre que posee el poder del Rey Demonio, y su secreto se revela ante Sonia, una hermosa chica descendiente de un valiente guerrero. Junpei, que no tiene intención alguna de convertirse en el Rey Demonio, convence a Sonia para que le enseñe a usar su poder correctamente. Sin embargo, ¡el poder del Rey Demonio es la «magia erótica» más poderosa y terrible! ¡La batalla escolar del harén para dominar la magia H con chicas guapas está a punto de comenzar!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-erotical-wizard-with-12-brides-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1pbaDM3NkjAqAS54e7eWN0w" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:1277dc4066</id>
 <title>Itsuki Togami</title>
-<updated>2026-10-20T16:38:00.713073+00:00</updated>
+<updated>2026-10-20T17:08:06.158510+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1277dc4066.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Jack-of-All-Trades, Party of None Novela Ligera en Español</title>
@@ -31,6 +31,9 @@ Tras ser expulsado del grupo y empezar de cero, decide retomar sus aventuras. As
 Sin embargo, haber sido encantador no fue en absoluto una pérdida de tiempo.
 
 Su paso por el grupo de héroes, sus conocimientos, su experiencia y el desarrollo de innumerables hechizos originales sin duda convertirán a Orn en un espadachín con unas habilidades poco convencionales.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-jack-of-all-trades-party-of-none-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1GEwT7iJWM6yqpWlJnEOwwQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1N_rkjOHey65F37rxnGFK0w" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1zcsD5wITXOfkA_8hbqxC3A" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1ctof1mHdjWFu7IkJQOccSw" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

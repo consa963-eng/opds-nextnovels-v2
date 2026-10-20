@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:de22e57a93</id>
 <title>Akatsuki Takaka</title>
-<updated>2026-10-20T16:38:00.698302+00:00</updated>
+<updated>2026-10-20T17:08:06.132701+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-de22e57a93.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>I’m a Kept Man for the Three Most Beautiful Girls in School Novela Ligera en Español</title>
@@ -34,6 +34,7 @@ Y todo es porque... “““Está bien, es parte del trabajo.”””
 Una vida amorosa a 5.000 yenes por hora… ¿Es esto… ser un hombre mantenido?
 
 —Sí. Queremos cuidarte, Kei-kun.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-im-a-kept-man-for-the-three-most-beautiful-girls-in-school-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1CTniXHqZ12617Ux2lM_Jfw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1SEklukvri1Ty535It2uKqw" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

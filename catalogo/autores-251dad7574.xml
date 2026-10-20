@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:251dad7574</id>
 <title>Motoo Nakanishi</title>
-<updated>2026-10-20T16:38:00.729087+00:00</updated>
+<updated>2026-10-20T17:08:06.183344+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-251dad7574.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Sword of the Demon Hunter Novela Ligera en Español</title>
@@ -18,6 +18,7 @@
 <content type="text">En esta épica fantástica de humanos y demonios que atraviesa el tiempo, un guerrero del Japón feudal debe cazar a un demonio a través de las eras.
 
 Durante generaciones, un santuario se ha alzado en la aldea montañesa de Kadono, y en cada generación el santuario ha tenido a su Itsukihime—su doncella del santuario—y la doncella ha tenido a su guardián. Durante el período Edo, un joven llamado Jinta protege la aldea y a la Itsukihime. Cuando se enfrenta a un extraño demonio en el bosque cercano, este le dice que en un futuro lejano un Dios Demonio amenazará a todas las personas, en todas partes, y afirma que el ascenso al poder del Dios Demonio surge de este mismo tiempo y lugar, en la aldea de Kadono. Así comienza el viaje de siglos de un hombre manchado por los demonios, cazando a través del tiempo para buscar justicia por lo que ha perdido y para encontrar una razón para seguir luchando.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-sword-of-the-demon-hunter-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F11GFWxXsNTEVay54jYqdlaw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1PQ6rI8i1x6rq4v7OhJ383g" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

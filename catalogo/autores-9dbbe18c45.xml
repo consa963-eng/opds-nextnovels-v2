@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:9dbbe18c45</id>
 <title>Irori Fuyutsuki</title>
-<updated>2026-10-20T16:38:00.712330+00:00</updated>
+<updated>2026-10-20T17:08:06.157165+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-9dbbe18c45.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Experiencing a Year’s Worth of Love With you Through the Changing Seasons Novela Ligera en Español</title>
@@ -26,6 +26,6 @@ Aunque siente una fuerte atracción por la chica que aparece en el punto de encu
 La chica, que se hace llamar "Natsu", le cuenta que dentro de ella existen cuatro personalidades, cada una con el nombre de una de las cuatro estaciones.
 
 Esta es una historia de amor juvenil y puro que narra los tres meses de romance que Kousuke vive con ellas, mientras sus personalidades cambian al ritmo de las estaciones.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-experiencing-a-years-worth-of-love-with-you-through-the-changing-seasons-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F16QAEBDUCJJGRZit6O1M_-g" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

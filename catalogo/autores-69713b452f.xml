@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:69713b452f</id>
 <title>Youichi Nagana</title>
-<updated>2026-10-20T16:38:00.753591+00:00</updated>
+<updated>2026-10-20T17:08:06.222162+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-69713b452f.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Tenkuu Kangoku no Majutsu Garou Novela Ligera en Español</title>
@@ -17,6 +17,6 @@
 <category term="Harem" label="Harem"/>
 <category term="Romance" label="Romance"/>
 <content type="text">¡Reúne a las chicas de la prisión con poderes mágicos y escapa!Un día, un chico, Rion, fue encerrado en la &amp;Gran Prisión del Cielo. Lo que le esperaba eran las chicas prisioneras que tenían la Pintura del Rey Demonio sellada en sus cuerpos. Utilizando el poder de su magia, Rion decide escapar de la prisión——</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-tenkuu-kangoku-no-majutsu-garou-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1bGXcmEc0UJ4Qr4EOoz9r7Q" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

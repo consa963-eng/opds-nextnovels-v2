@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:51d407090c</id>
 <title>Mitizou</title>
-<updated>2026-10-20T16:38:00.727742+00:00</updated>
+<updated>2026-10-20T17:08:06.181194+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-51d407090c.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Prince of the Otaku Club in a Chastity-Reversed World Novela Ligera en Español</title>
@@ -20,6 +20,6 @@
 <content type="text">Disfrutemos de nuestra juventud llena de deseos entre nosotras y este chico.
 
 En un mundo lleno de mujeres carnívoras con una proporción de un hombre por cada veinte mujeres, nosotras las otakus no somos populares ni podemos conseguir novio. En el nuevo semestre, un chico otaku se unió al club que fundamos, la «Sociedad de Investigación de la Cultura Moderna». No hay forma de que no nos enamoremos de un hombre así.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-prince-of-the-otaku-club-in-a-chastity-reversed-world-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1CpFzI2ODI8zaRdsUkAq9xg" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

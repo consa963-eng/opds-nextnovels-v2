@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:389dbed653</id>
 <title>Uchida Hiroki</title>
-<updated>2026-10-20T16:38:00.751106+00:00</updated>
+<updated>2026-10-20T17:08:06.217281+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-389dbed653.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Schwarzes Marken Novela Ligera en Español</title>
@@ -22,7 +22,7 @@ Alemania del Este, bajo la invasión de la especie de origen extraterrestre BETA
 Sin embargo, en medio de la batalla, él rescata a una joven piloto del ejército de Alemania Occidental que había quedado aislada...
 
 18 años antes de los eventos del popular juego de PC Muv-Luv Alternative, se cuenta la historia de jóvenes pilotos inmersos en la feroz guerra europea, luchando por sus vidas en una batalla a vida o muerte.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-schwarzes-marken-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1c-Uh3gaxvQQOnW5Jv9Ho3g" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Schwarzesmarken Requiem Novela Ligera en Español</title>
@@ -45,6 +45,6 @@ La hija de un Junker, la sangre sucia de.... No puedo poner el nombre, solo pond
 Las historias que Kurt el joven maquinista de un T-64 le cuenta en sus expediciones a la recluta Anna sobre la abominable división negra, los Schwarzenmarken — Y la lapida de acero de Schultvenberg 1981
 
 Esa y otras historias en esta una colección de historias cortas que relata un capítulo de la Gran Guerra Europea en el mundo de 'Muv-Luv Alternative', incluyendo una historia completamente nueva ambientada en un breve periodo después de la Operación Neptuno!!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-schwarzesmarken-requiem-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1mFX2J9b9YweoO-AO7YC_eg" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

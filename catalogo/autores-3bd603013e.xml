@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:3bd603013e</id>
 <title>Kareno Akira</title>
-<updated>2026-10-20T16:38:00.716503+00:00</updated>
+<updated>2026-10-20T17:08:06.163743+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-3bd603013e.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Shuumatsu Nani Shitemasu ka? Iden: Lillia Asplay Novela Ligera en Español</title>
@@ -20,7 +20,7 @@
 Esta es la intensa y a la vez encantadora vida cotidiana de esa chica.
 
 Una nueva historia hilada a partir de la serie "Shuumatsu Nani Shitemasu ka?", que incluso llegó a ser adaptada a anime.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-shuumatsu-nani-shitemasu-ka-iden-lillia-asplay-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F165ZlrOQtjYCuov7ekVw0xw" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka Novela Ligera en Español</title>
@@ -40,7 +40,8 @@ Una nueva historia hilada a partir de la serie "Shuumatsu Nani Shitemasu ka?", q
 Sólo un pequeño grupo de chicas jóvenes, las Leprechauns, pueden empuñar las antiguas armas necesarias para rechazar las invasiones de estas criaturas. En la inestable y fugaz vida de las chicas, donde una llamada a la muerte segura puede llegar en cualquier momento, entra un personaje improbable: un joven que lo perdió todo en su última batalla hace quinientos años, el último humano vivo despertado de un largo y gélido letargo.
 
 Incapaz de seguir luchando, Willem se convierte en el padre que las niñas nunca tuvieron, cuidándolas y alimentándolas incluso mientras lucha por aceptar su nueva vida, en la que siente el dolor de esperar impotente a que sus seres queridos vuelvan a casa de la batalla que su "Hija" sintió por él hace tanto tiempo. Juntos, Willem y las niñas llegan a comprender poco a poco lo que significa la familia y lo que realmente merece la pena proteger.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-shuumatsu-nani-shitemasu-ka-isogashii-desu-ka-sukutte-moratte-ii-desu-ka-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F19QHHM_VnGOi9BBPbuZb4pg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F19ccFTeZtcOVf84lF5GvpJQ" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Shuumatsu Nani Shitemasuka? Mou Ichido Dake Aemasuka? Novela Ligera en Español</title>
@@ -57,6 +58,9 @@ Incapaz de seguir luchando, Willem se convierte en el padre que las niñas nunca
 Tiat, Collon, Pannibal y Lakhesh se han convertido en hadas soldados y continúan el papel de sus predecesores, luchando por la seguridad de Regul Aire. Y al igual que el resto de hadas soldado del almacén, necesitan un guardián del ejército, y así, un fatídico día, Tiat se encuentra con Feodor Jessman, un joven diablillo y militar de cuarto grado. A primera vista parece un típico estudiante de honor, sin embargo, no pasa mucho tiempo hasta que revela sus verdaderos colores.
 
 ¿Qué traerán sus ambiciones secretas para las cuatro jóvenes e incluso para el futuro de Regul Aire?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-shuumatsu-nani-shitemasuka-mou-ichido-dake-aemasuka-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1zMTkUZVnGiASweqyLMrUcA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1nTc8jB8wqG3TnQp6_j-Okw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1MF4gLRRFsNEoBo1Enp-c3g" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F17UKyqz9xhMtlDOnTOdhv8Q" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

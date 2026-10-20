@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:d8de3d9d68</id>
 <title>Sousuke Kurinohara</title>
-<updated>2026-10-20T16:38:00.744526+00:00</updated>
+<updated>2026-10-20T17:08:06.207990+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-d8de3d9d68.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Love Comedy on the Premise of Marriage Novela Ligera en Español</title>
@@ -30,6 +30,6 @@ Y algún tipo de riquejo loco… Yui. (26 ♀)
 Una segunda mayoría de edad pasada con chicas que no están listas para casarse.
 
 Una comedia romántica sobre un grupo de chicas que quieren casarse, ¡aquí viene la fiesta!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-love-comedy-on-the-premise-of-marriage-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1KyWZ6lMmwHuVP-L3WqVKyg" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

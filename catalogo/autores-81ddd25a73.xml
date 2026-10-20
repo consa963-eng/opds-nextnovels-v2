@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:81ddd25a73</id>
 <title>Kasuga Mikage</title>
-<updated>2026-10-20T16:38:00.716638+00:00</updated>
+<updated>2026-10-20T17:08:06.163941+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-81ddd25a73.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Ambition of Oda Nobuna Novela Ligera en Español</title>
@@ -25,6 +25,6 @@ Fue salvado por nada más que el hombre que más tarde se convertiría en el inf
 Con la historia completamente cambiada debido a las acciones de Yoshiharu, él intenta hacer las cosas bien otra vez, pero parece que la historia esta tomando un curso diferente de la que él aprendió en la escuela.
 
 Oda Nobunaga es ahora una brillante pero joven señorita llamada Oda Nobuna. Yoshiharu empieza trabajando bajo su mandato para traer la historia de regreso a su curso original y encontrar su camino de regreso a casa al mundo actual.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-ambition-of-oda-nobuna-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1jooZvgUs5k_1J3G492gobQ" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

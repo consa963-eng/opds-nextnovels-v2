@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:242255f7a8</id>
 <title>Hoshino Hoshino</title>
-<updated>2026-10-20T16:38:00.711003+00:00</updated>
+<updated>2026-10-20T17:08:06.155025+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-242255f7a8.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Active JK Idol Seems to be Interested in Me Who is a Free Person Novela Ligera en Español</title>
@@ -21,7 +21,7 @@ En su clase está Sakurazaki Nako, una idol de secundaria (JK) en activo y con u
 Ocupada con su vida de idol, Nako se siente intrigada por Kou, quien parece saber disfrutar del tiempo a su manera…
 
 Una comedia romántica sobre una idol que anhela la libertad y un chico libre que pertenece al club de irse a casa.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-active-jk-idol-seems-to-be-interested-in-me-who-is-a-free-person-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1WBlBfhtfbtX8TOXj-YTAyw" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>When the Introverted Me Got Surrounded by S-Tier Beauties After a Seat Change, a Secret Relationship Began Novela Ligera en Español</title>
@@ -51,6 +51,7 @@ A simple vista, son bellezas impecables, pero Ryouta descubre secretos que ningu
 Lo único que quería era una vida tranquila de otaku, ¡¿cómo han acabado así las cosas?!
 
 Atrapado entre tres chicas problemáticas, un otaku introvertido lucha desesperadamente por evitar más caos en este enfrentamiento de comedia romántica.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-when-the-introverted-me-got-surrounded-by-s-tier-beauties-after-a-seat-change-a-secret-relationship-began-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1AEtwyi83Cz_4oVZZN92lsw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1quuu-wl_Vta9K6y2V_IjxQ" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

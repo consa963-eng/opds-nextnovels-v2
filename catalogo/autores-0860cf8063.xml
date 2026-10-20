@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:0860cf8063</id>
 <title>Ricky</title>
-<updated>2026-10-20T16:38:00.735715+00:00</updated>
+<updated>2026-10-20T17:08:06.193287+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-0860cf8063.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Continuity Is the Father of Magical Power Novela Ligera en Español</title>
@@ -25,6 +25,6 @@ Lo sabía desde mi infancia. Pero sigo sin saber cuál es mi aptitud mágica... 
 Me encantaba pensar que la magia de creación era un éxito. Sin embargo, los adultos que me rodeaban se entristecían cuando sabían que era magia de creación... por alguna razón... «La magia de creación es rara, pero se considera magia incompetente». Al parecer, la magia de creación parece ser una magia incompetente que desperdicia el uso de la magia y no puede crear ni siquiera cosas sencillas.
 
 Lo intenté... pero no pude crear nada. Sin embargo, mientras lo intentaba repetidamente, descubrí un secreto sobre la magia de creación. Además, utilizando la magia que he entrenado hasta ahora, ¡convertiré mi magia incompetente en magia útil!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-continuity-is-the-father-of-magical-power-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1HbYXs2dHP52ADeOO3CoXIQ" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

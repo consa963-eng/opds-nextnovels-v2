@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:80c943f06d</id>
 <title>Riku Nanano</title>
-<updated>2026-10-20T16:38:00.736072+00:00</updated>
+<updated>2026-10-20T17:08:06.193951+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-80c943f06d.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Sousei no Tenken Tsukai Novela Ligera en Español</title>
@@ -15,6 +15,7 @@
 <category term="Fantasía" label="Fantasía"/>
 <category term="Romance" label="Romance"/>
 <content type="text">En su vida pasada, Chou Sekiei fue el invicto héroe de guerra Kou Eihou. Sin presiones, ¿verdad? Ahora, mil años después, lo único que quiere es conseguir un buen y cómodo trabajo como funcionario civil y tener una vida tranquila. Lástima que aún tenga una destreza en la lucha que no puede explicar. Lástima que de niño fuera acogido por un renombrado general y entrenado junto a Chou Hakurei, famosa por su talento y belleza. Sekiei estaba deseando disfrutar un poco de paz y tranquilidad para poder relajarse y leer, pero cuando la nación extranjera de Gen lanza una invasión que desencadena la guerra, se ve obligado a dejar los libros. Con el poder de unas habilidades que esperaba no volver a utilizar, Sekiei tendrá que hacerse un nombre una vez más en el campo de batalla… ¿Bastarán él y sus amigos para salvar su patria?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/sousei-no-tenken-tsukai-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1cm9e0IVx8uKXyPVpjC8MAw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1lX_rWgM5v1DjRdqN0wiXdg" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

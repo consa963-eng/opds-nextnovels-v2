@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:127e07fa26</id>
 <title>Okayu Masaki</title>
-<updated>2026-10-20T16:38:00.733978+00:00</updated>
+<updated>2026-10-20T17:08:06.190369+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-127e07fa26.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Bludgeoning Angel Dokuro-chan Novela Ligera en Español</title>
@@ -24,6 +24,6 @@ Junto con una misteriosa onomatopeya, un ángel aparece de repente en la casa de
 ¿¡El nombre de esa chica es Dokuro-chan, el Ángel Apaleador!?
 
 Sin que él se dé cuenta, Dokuro-chan se instala de gorra en casa de Sakura y empieza a seducirlo (en todos los sentidos)… ¡¡!!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-bludgeoning-angel-dokuro-chan-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1j4LafT-I3SwC2hjlET76pg" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

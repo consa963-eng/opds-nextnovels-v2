@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:6d4cd67512</id>
 <title>Ryuto</title>
-<updated>2026-10-20T16:38:00.737072+00:00</updated>
+<updated>2026-10-20T17:08:06.195591+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-6d4cd67512.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>29-sai Dokushin wa Isekai de Jiyuu ni Ikita……katta Novela Ligera en Español</title>
@@ -24,7 +24,8 @@
 <content type="text">Desde el primer día me vi obligado a casarme con una chica, en el décimo día más o menos, el país comienza a mirarme fijamente y mi vida no irá bien.
 
 Seguiré viviendo sin perderme en tales dificultades (?)</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/29-sai-dokushin-wa-isekai-de-jiyuu-ni-ikitakatta-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1rs0J3B5PFw8ews8Zjw5dkw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1V7gGeCEcxMGByIc-Y4fIWQ" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Reborn as a Space Mercenary Novela Ligera en Español</title>
@@ -57,7 +58,8 @@ En cualquier caso, no sé qué ha provocado esto, pero supongo que tendré que a
 Todo irá bien. Tengo mi fiel nave espacial, así que probablemente pueda ganar algo de dinero. ¡Funcionará! Tiene que hacerlo.
 
 Esta es la historia de un hombre lanzado abruptamente al espacio junto con su nave espacial privada. Corre con ella y salva a damiselas en apuros por el camino, coquetea con dichas damiselas, gana dinero como mercader a sueldo y utiliza sus conocimientos de juego para abrirse camino y vivir libre y fácilmente.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/reborn-as-a-space-mercenary-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F15yxNhh7rUL_HCsaLVQnK7g" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1meHwfCK71n2bSqowY2q_3g" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Survival in Another World with My Mistress! Novela Ligera en Español</title>
@@ -74,6 +76,6 @@ Esta es la historia de un hombre lanzado abruptamente al espacio junto con su na
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Seinen" label="Seinen"/>
 <content type="text">Cuando Kousuke se ve transportado a un nuevo mundo, tiene que aprender a sobrevivir tanto en un desierto sin caminos como en un bosque oscuro. Afortunadamente, su conocimiento de los juegos es útil. ¡Tiene todas las habilidades de creación que siempre quiso y un inventario infinitamente grande para llenar con botines y armas! Aún más afortunado, conoce a una sexy princesa elfa que... ¡¿le pone un collar de esclavo alrededor del cuello y lo pone a trabajar para salvar el mundo y satisfacer todos sus caprichos?!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-survival-in-another-world-with-my-mistress-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1YGZBktPiU2SkHMym4zt8Uw" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

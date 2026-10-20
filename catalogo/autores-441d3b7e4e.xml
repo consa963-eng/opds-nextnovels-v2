@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:441d3b7e4e</id>
 <title>Kana Akatsuki</title>
-<updated>2026-10-20T16:38:00.715368+00:00</updated>
+<updated>2026-10-20T17:08:06.162187+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-441d3b7e4e.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Agents of the Four Seasons Novela Ligera en Español</title>
@@ -14,6 +14,7 @@
 <category term="Fantasía" label="Fantasía"/>
 <category term="Romance" label="Romance"/>
 <content type="text">Érase una vez el Invierno. El Invierno fue en su día la única estación del mundo, pero una existencia así resultaba demasiado solitaria de soportar, por lo que creó a la Primavera para amarla. Al poco tiempo, la tierra deseó disponer de más tiempo para descansar en el ciclo, y así nacieron el Verano y el Otoño. A quienes llevan el ciclo se les llama los Agentes de las Cuatro Estaciones. Hinagiku, la Agente de la Primavera, desapareció de esta tierra hace diez años, llevándose consigo la estación de la primavera. Ahora, tras increíbles penurias, ha regresado para restaurar el ciclo a su estado natural y, tal y como reza el mito transmitido desde los albores de los tiempos, envía su amor al Invierno.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-agents-of-the-four-seasons-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1W5EVGR4xbgNpBlPtJXr_2g" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F19jSIa0VIR53kMhNoPbh2NQ" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:51b8506bca</id>
 <title>Saki Hiiragi</title>
-<updated>2026-10-20T16:38:00.738566+00:00</updated>
+<updated>2026-10-20T17:08:06.197637+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-51b8506bca.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>When I Became the Manager of Popular Streamers, They Were All My Ex-Girlfriends Novela Ligera en Español</title>
@@ -30,6 +30,6 @@ Mei Nacoi, una Vtuber que cautiva a sus espectadores con sus s3duct0r4s transmis
 ¡Las tres populares streamers habían sido exnovias de Kei!
 
 ¿Hasta dónde llegará esta relación 1nm0ral mientras se hunden cada vez más en su relación secreta...?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-when-i-became-the-manager-of-popular-streamers-they-were-all-my-ex-girlfriends-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1hKeYJ2NgSvM812vvA2GUTw" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:18d05e4a60</id>
 <title>Shinonome Rippuu, Ichiei Ishibumi</title>
-<updated>2026-10-20T16:38:00.742591+00:00</updated>
+<updated>2026-10-20T17:08:06.203795+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-18d05e4a60.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Junior High School DxD Novela Ligera en Español</title>
@@ -19,6 +19,9 @@
 <content type="text">¿¡La estudian de la sección escuela media que conoce Rias──es una belleza descendiente de Miyamoto Musashi!?
 
 Una nueva estudiante toca a la puerta de sección escuela media de la academia Kuou. Zekka es descendiente Miyamoto Musashi y posee la sacred Gear tipo espada 「Tensei」. ¿¡Su objetivo es hacer amigos en la academia Kuou!? ¡La nueva serie de 「D×D」 será guiada por amigos únicos y estudiantes de la sección secundaria superior como Rias y los demás!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/junior-high-school-dxd-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F17-onE2NQLy8Suj4k14V62A" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Q9zqVQz41-7Cc12wixfDlw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1EuOtGdU_qgAOzZIu-Uo3fA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/high-school-dxd-novela-ligera-en-espanol/" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

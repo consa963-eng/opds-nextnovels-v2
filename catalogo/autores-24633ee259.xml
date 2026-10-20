@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:24633ee259</id>
 <title>Fujino Omori</title>
-<updated>2026-10-20T16:38:00.704286+00:00</updated>
+<updated>2026-10-20T17:08:06.144388+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-24633ee259.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Wistoria Grimo Acta Novela Ligera en Español</title>
@@ -33,6 +33,7 @@ Por su parte, Will descubre que carece de talento y se ve separado de la joven. 
 ¡En un mundo donde reina la magia y se enaltece el «bastón», ahora nace la «espada» herética!
 
 ¡Comienza la magnífica novelización de la precuela del popular cómic, escrita por el propio autor original!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-wistoria-grimo-acta-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F12zpDRlwViUc_1B4gNH8Tng" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1KCFa2alDX_OJml5yJcGBHg" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

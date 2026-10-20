@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:05969cbf39</id>
 <title>Harunadon</title>
-<updated>2026-10-20T16:38:00.707454+00:00</updated>
+<updated>2026-10-20T17:08:06.150216+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-05969cbf39.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>If the Villainess and Villain Met and Fell in Love Novela Ligera en Español</title>
@@ -18,6 +18,6 @@
 <content type="text">A VECES, EL FUEGO Y EL HIELO SON LA COMBINACIÓN PERFECTA.
 
 Brigitte Meidell pertenece a una familia noble, lo que significa que se depositaban grandes expectativas en su contrato espiritual. Sin embargo, su espíritu vinculado resultó ser un don nadie débil y, desde entonces, ha sido motivo de vergüenza para su familia. Pensaba que su compromiso con el príncipe le daría un giro a su vida, pero cuando él rompe públicamente su relación, se encuentra sola de nuevo. Tras su comportamiento altivo y malvado como futura esposa del príncipe, nadie le muestra mucha simpatía, excepto el hijo del duque, Yuri, que asiste a la misma academia de magia. A Yuri se le teme por sus increíbles habilidades y su personalidad gélida, pero con él de su lado, su suerte podría haber cambiado...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-if-the-villainess-and-villain-met-and-fell-in-love-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F17ii5095zRxgwaP1X008Evg" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

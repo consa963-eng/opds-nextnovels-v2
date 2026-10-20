@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:ed47d63206</id>
 <title>Kore Yamazaki</title>
-<updated>2026-10-20T16:38:00.720590+00:00</updated>
+<updated>2026-10-20T17:08:06.169592+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-ed47d63206.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Mahou Tsukai no Yome Novela Ligera en Español</title>
@@ -17,6 +17,6 @@
 <category term="Shounen" label="Shounen"/>
 <category term="Supernatural" label="Supernatural"/>
 <content type="text">El mundo de The Ancient Magus' Bride es más grande que el de Elías y Chise, y muchos son los personajes y espíritus que se cruzan en el camino de sus vidas. Sus historias se enroscan en un tapiz, palabras como hilo de oro, un tejido de recuerdos y secretos. En estas páginas se incluyen nuevas historias de la fantástica Gran Bretaña de Kore Yamazaki, escritas por la propia autora y por un grupo de estrellas de la literatura japonesa. Desde un vampiro celta enamorado de un humano, hasta un caballero de las piedras preciosas, e incluso un vistazo a lo que Silky hace en su tiempo libre, deja que esta colección encantada te lleve a los rincones ocultos de un amado mundo de fantasía.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-mahou-tsukai-no-yome-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F11ZelZe2OTdlA-eeBkvAb4A" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

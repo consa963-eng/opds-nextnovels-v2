@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:9a4a70bc76</id>
 <title>Hirasaka Yomi</title>
-<updated>2026-10-20T16:38:00.709237+00:00</updated>
+<updated>2026-10-20T17:08:06.153056+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-9a4a70bc76.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Henjin no Salad Bowl Novela Ligera en Español</title>
@@ -19,6 +19,7 @@
 Sarah empezó a vivir con Sosuke, y se adaptó rápidamente a la vida en el Japón moderno. Mientras tanto, Livia, una caballero que vino del mismo mundo que Sarah, se encontró perdida y sin hogar, pero sorprendentemente disfrutó de sus días aquí.
 
 Estas dos personas, que llevan una vida positiva a pesar de su situación, empezaron a influir en Sosuke y en los demás bichos raros del barrio, entre los que se encuentran un abogado diabólico, un agente de divorcios y el líder de una secta.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-henjin-no-salad-bowl-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1TTyqDoJDwJWzBcRp78moaw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F11PNfJZZVKqd4F5VR1NFUDA" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

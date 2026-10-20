@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:c6e52a75c4</id>
 <title>Mizuki Mizushiro</title>
-<updated>2026-10-20T16:38:00.728272+00:00</updated>
+<updated>2026-10-20T17:08:06.181915+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-c6e52a75c4.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Amamori Junna is Humid Novela Ligera en Español</title>
@@ -22,6 +22,8 @@
 Junna, que solo aparece en días húmedos de lluvia, parece seca y sin expresión, pero mantiene una cercanía excesiva y es una chica que busca mimos.
 
 Además, un día soleado, al descubrir el “secreto” de Junna, la cercanía hacia Shigure aumenta hasta el punto de sentir su aliento, dejando que su amor profundo se desborde por completo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-amamori-junna-is-humid-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1JLtV_0EspkZIadICja2thQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Qh1yZyDW63oKkFTmUMKItA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1MbLLGpHVERzoKZC4gh9SBQ" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:8c60dcfc2d</id>
 <title>Shiotarou Yamaga</title>
-<updated>2026-10-20T16:38:00.742785+00:00</updated>
+<updated>2026-10-20T17:08:06.204126+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-8c60dcfc2d.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Please Stop Fighting Over Me! Novela Ligera en Español</title>
@@ -25,6 +25,6 @@ Yo, Kurimoto Tsubame, que me mudé desde el campo a la ciudad, ahora estoy, por 
 —¿Por qué terminó así?...
 
 Solo quería que Seira-chan y Orine-san, que son como el perro y el mono, se reconciliaran...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-please-stop-fighting-over-me-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1XYik-Bv9lQmop2Tkv0x8hw" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

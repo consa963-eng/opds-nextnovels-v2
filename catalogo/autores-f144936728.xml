@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:f144936728</id>
 <title>Yoshiki Tanaka</title>
-<updated>2026-10-20T16:38:00.753396+00:00</updated>
+<updated>2026-10-20T17:08:06.221717+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-f144936728.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Arslan Senki Novela Ligera en Español</title>
@@ -21,6 +21,6 @@
 Con la ayuda de unos pocos seguidores leales, Arslan aprende rápidamente que nada es lo que parece en la superficie. Su propia historia familiar, la identidad del extraño enmascarado que intenta matarlo y la causa de los eventos sobrenaturales cada vez más extraños son todos misterios por resolver.
 
 Ambientada en una representación ficticia de la antigua Persia, esta historia clásica del autor japonés Yoshiki Tanaka combina intriga política, tácticas militares y fantasía.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-arslan-senki-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1ndVAHDFvzyivY5YVNpNcbw" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

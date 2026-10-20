@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:4e50fe9155</id>
 <title>Harunohi Biyori</title>
-<updated>2026-10-20T16:38:00.707545+00:00</updated>
+<updated>2026-10-20T17:08:06.150386+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-4e50fe9155.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Devil Princess Novela Ligera en Español</title>
@@ -24,6 +24,6 @@
 Tras vivir mucho tiempo como un demonio, sin darse cuenta, un anhelo por ese mundo de luz se extendió por su corazón. Se sumergió en un círculo mágico de invocación que había aparecido. Entonces… al abrir los ojos de nuevo, se había convertido en un bebé humano.
 
 Se encontraba en el Reino Sagrado. Sentía miedo: aunque era un demonio, solo tenía la fuerza de un bebé. Si la descubrían, sería terrible. ¿Era humana o demonio? ¿Sería capaz de sobrevivir a partir de ese momento?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-devil-princess-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1jDWn73AoeF4cKKdmA_JARw" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

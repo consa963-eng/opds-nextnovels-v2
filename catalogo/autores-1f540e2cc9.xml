@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:1f540e2cc9</id>
 <title>LeonarD</title>
-<updated>2026-10-20T16:38:00.723729+00:00</updated>
+<updated>2026-10-20T17:08:06.174420+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1f540e2cc9.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Infinite Magician Novela Ligera en Español</title>
@@ -21,6 +21,7 @@
 Reconocido como un mago talentoso y a la vez como el futuro yerno de la familia, Rest pasa sus días entrenando para el examen de ingreso a la Academia Real como estudiante interno. Su talento se perfecciona cada vez más mientras subyuga demonios inusuales y desarrolla magia que también es insólita, logrando cosas que nadie jamás imaginó.
 
 Con el poder mágico más fuerte de todos, lo tiene todo en sus manos: ¡El camino hacia un éxito sin límites acaba de comenzar!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-infinite-magician-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1IdPn8lLsTSBrPVMInVzE_g" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1kM1CSKlesU77ZJBJ9iR4mQ" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

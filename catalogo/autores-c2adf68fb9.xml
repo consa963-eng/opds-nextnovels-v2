@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:c2adf68fb9</id>
 <title>Yakiimo Hokuhoku</title>
-<updated>2026-10-20T16:38:00.752378+00:00</updated>
+<updated>2026-10-20T17:08:06.219813+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-c2adf68fb9.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Saved By the Ice Cold Prince’s Embrace Novela Ligera en Español</title>
@@ -20,6 +20,6 @@ Allí la espera el príncipe Clarens, conocido por su fama de frío y despiadado
 «Aquí no hay nadie que vaya a hacerte daño». Criada sin conocer el amor, Katrina se siente confundida ante la dulce ternura que recibe por primera vez, y poco a poco se va sintiendo atraída por Clarens. Por su parte, Clarens también empieza a conmoverse ante la abnegada Katrina…
 
 Una fantasía romántica en la que una pura e inocente dama sustituta y un príncipe de hielo de corazón cerrado descubrirán el verdadero amor. ♡</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-saved-by-the-ice-cold-princes-embrace-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1TfLPCqSyIK8CjzfpFmROoQ" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

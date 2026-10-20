@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:8ff776e90c</id>
 <title>Hametsu</title>
-<updated>2026-10-20T16:38:00.706763+00:00</updated>
+<updated>2026-10-20T17:08:06.149177+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-8ff776e90c.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Beautiful Girl Who Confessed to Me as a Punishment Game Keeps Novela Ligera en Español</title>
@@ -21,6 +21,6 @@
 El juego de castigo que le dieron a Kirino Kiryu, la chica más guapa de la clase —sin duda un juego de castigo para obligarla a ella y al chico guapo que le gusta a ambos a desarrollar una relación— fue observado en silencio por mí, un lector de novelas ligeras nerd en un rincón de la clase. Sin embargo, la persona a la que Kiryu se confesó no era uno de los mejores chicos de la clase, sino yo, un personaje nerd del fondo. No pude rechazar a Kiryu en medio de una multitud rugiente, así que acepté, esperando que ella me rechazara en el momento oportuno, pero... ¡¿pero la cosa se está poniendo seria?!
 
 Géneros: Romance, drama, comedia, recuentos de la vida.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-beautiful-girl-who-confessed-to-me-as-a-punishment-game-keeps-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F15WXqZ7_zKKCKKhpFoxzPNw" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

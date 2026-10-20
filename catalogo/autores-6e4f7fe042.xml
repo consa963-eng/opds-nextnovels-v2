@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:6e4f7fe042</id>
 <title>Yuu Kagami</title>
-<updated>2026-10-20T16:38:00.754881+00:00</updated>
+<updated>2026-10-20T17:08:06.224126+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-6e4f7fe042.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Beautiful Girl Who Loves Eroge Wants to Do Everything Like in Those Games Novela Ligera en Español</title>
@@ -33,7 +33,8 @@ Como primer paso, Masato comienza a dibujar a Noel después de que ella se quita
 ¿¡Desarrollar un 3rog3 a solas con una hermosa chica en un edificio comercial de Akihabara!?
 
 ¡Una comedia romántica de creadores, donde la pasión y el 3rot1sm0 se cruzan!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-beautiful-girl-who-loves-eroge-wants-to-do-everything-like-in-those-games-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1j36P8cEfXVa5FbZnjfYkWA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1axsg3rWYxyxpajB1XGM3ow" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>When I Confessed to the Girl I Liked, Her Twin Sister Came Along as an Extra Novela Ligera en Español</title>
@@ -53,6 +54,7 @@ Como primer paso, Masato comienza a dibujar a Noel después de que ella se quita
 Por un momento, no supo de qué le estaban hablando, pero sabía que no podía retroceder, así que aceptó salir con ambas al mismo tiempo.
 
 Pero entonces, le esperan aún más acontecimientos inesperados.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-when-i-confessed-to-the-girl-i-liked-her-twin-sister-came-along-as-an-extra-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F17Ky6NjBpShFVTES2b3uULw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1rhusl3QZ_yt6fMsLaqDkkg" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

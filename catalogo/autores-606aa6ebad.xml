@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:606aa6ebad</id>
+<title>Miu Kawasaki</title>
+<updated>2026-10-20T17:08:06.181531+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-606aa6ebad.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>Fairy Tail: After the Grand Magic Games Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-fairy-tail-after-the-grand-magic-games-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-fairy-tail-after-the-grand-magic-games-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/Fairy-Tail-After-the-Grand-Magic-Games.jpg" />
+<author><name>Miu Kawasaki</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">¡EL GREMIO DE FAIRY TAIL VUELVE A LAS ANDADAS EN UNA NUEVA NOVELA!
+
+Regresa el universo de Fairy Tail con otra novela que transcurre poco después del Gran Torneo de Magia. Todo comienza con Natsu y Lucy en medio de una misión por los bosques cuando, de repente, cae ante sus narices un huevo del cielo... Al eclosionar, nace una criatura misteriosa y Natsu decide aceptarlo como uno más de la familia. Por otra parte, seis de los gremios han decidido llevar a acabo una propuesta: participar en un programa de intercambio entre Fairy Tail, Blue Pegasus, Lamia Scale, Mermaid Heel, Quattro Kerberos y Saberthooth. ¿Descubrirán Natsu y los demás el origen de esa extraña criatura...? Pero antes, ¡que empiece el periplo para visitar a los gremios!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fairy-tail-after-the-grand-magic-games-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+</entry>
+<entry>
+<title>Fairy Tail: The Color Residing within the Heart Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-fairy-tail-the-color-residing-within-the-heart-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-fairy-tail-the-color-residing-within-the-heart-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/Fairy-Tail-The-Color-Residing-within-the-Heart-Portada.jpg" />
+<author><name>Miu Kawasaki</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">¡NUEVO FORMATO PARA LAS NUEVAS AVENTURAS DEL GREMIO DE MAGOS MÁS ALOCADO!
+
+Bienvenidos a la primera novela ligera que adapta el universo mágico de Fairy Tail. Entre sus páginas podremos descubrir una maravillosa y apasionante historia que, cronológicamente, tiene lugar en el período comprendido entre la saga de Edolas y la saga de la isla Tenrou. ¡No pierdas la oportunidad de disfrutar en formato novela esta aventura inédita y pásatelo en grande con Natsu, Happy, Lucy y compañía!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fairy-tail-the-color-residing-within-the-heart-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+</entry>
+</feed>

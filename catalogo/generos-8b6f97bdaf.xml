@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:generos:8b6f97bdaf</id>
 <title>Ciencia ficción</title>
-<updated>2026-10-20T16:38:00.771248+00:00</updated>
+<updated>2026-10-20T17:08:06.242701+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-8b6f97bdaf.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>86 (Eighty Six) Novela Ligera en Español</title>
+<id>https://nextnovels.com/86-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/86-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2021/12/86-e1641220488949.jpg" />
+<author><name>Asato Asato</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Drama" label="Drama"/>
+<category term="Mecha" label="Mecha"/>
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Supernatural" label="Supernatural"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">La República de San Magnolia.
+
+Durante muchos años este país estuvo bajo ataque por el Imperio, quien creó unos innovadores vehículos militares no tripulados llamados Legión. En respuesta a los ataques, La República desarrollo con éxito una tecnología parecida, ayudando a retener el ataque enemigo, y lo más importante, sin ninguna muerte. ¿Pero es eso verdad? En esta versión oficial, sí hubo víctimas.
+
+En las afueras de los 85 sectores de la República, "El inexistente Sector 86", el lugar donde se producía las batallas contra la Legión. Donde los jóvenes del destacamento luchaban en sus vehículos contra la Legión.
+
+Shin, lider del escuadrón 86. Lena, "Handler" quien dirige a distancia al escuadrón desde la retaguardia mediante tecnología de comunicación especial.
+
+¡Comienza la bélica historia de la lucha de estos dos personajes!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1LxhEx1hZY9nOc9k-ERlzsA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1qzVfwq7qZJ-tF_PhIe-hYw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1lCiih0mP1-l9NxaBYyAHFQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1kiWQzI8LD7dEoisSIdr6oQ" type="application/epub+zip" title="Descargar" />
+</entry>
 <entry>
 <title>A Simple Series Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-a-simple-series-novela-ligera-en-espanol/</id>
@@ -15,7 +43,7 @@
 <category term="Shounen" label="Shounen"/>
 <category term="Supernatural" label="Supernatural"/>
 <content type="text">A un cierto número de estudiantes universitarios se les da una simple encuesta en la que deben ver unos cuantos corto-metrajes y ordenarlos de acuerdo a su preferencia. El lector también participa en la encuesta con los corto-metrajes siendo contadas en manera de historias cortas.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-a-simple-series-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1eiqeGk5HYaWJMbqSSyjSIA" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Ano Otomege wa Oretachi ni Kibishii Sekai desu Novela Ligera en Español</title>
@@ -35,7 +63,7 @@ Intentaba llevar una vida tranquila como personaje mafioso cuando se topó con u
 Debería haber tomado la decisión correcta......pero, ¿a qué se debe este desasosiego?
 
 La novela web "si ruta", que fue un bonus en la encuesta "Mobseka" y recibió una enorme respuesta por ser "demasiado dura", ¡ha sido finalmente publicada en forma de libro con importantes añadidos!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/ano-otomege-wa-oretachi-ni-kibishii-sekai-desu-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Iy3kGRmodW4NS44jmC9Djw" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Apocalypse Witch Novela Ligera en Español</title>
@@ -57,25 +85,45 @@ La novela web "si ruta", que fue un bonus en la encuesta "Mobseka" y recibió un
 Pero en la Academia Oceánica de Magia de Cristal Grimnoah, donde Karuta y todos aprenden magia de cristal, un superior de una generación anterior ha sido llamado como invitado. Esa usuaria de Magia de Adoración de Dios es conocida como al más fuerte del mundo, y subió al podio y le habló a todo el cuerpo estudiantil. Esto inicio un enfrentamiento entre las fuerzas de la magia nueva y la magia antigua.
 
 “Todos y cada uno de ustedes es incompetente. Por lo tanto, Grimnoah será cerrada.”</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-apocalypse-witch-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1hHbeIbA21LWFJOwKxRkBQA" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
-<title>Banner of the Stars Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-banner-of-the-stars-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-banner-of-the-stars-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/09/Banner-of-the-Stars-Portada.jpg" />
-<author><name>Hiroyuki Morioka</name></author>
+<title>Beacon of Light in the Dark Sea Novela en Español</title>
+<id>https://nextnovels.com/descargar-beacon-of-light-in-the-dark-sea-novela-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-beacon-of-light-in-the-dark-sea-novela-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/Beacon-of-Light-in-the-Dark-Sea-Portada.jpg" />
+<author><name>Yeon Sanho/Softcoral</name></author>
 <category term="Acción" label="Acción"/>
 <category term="Aventura" label="Aventura"/>
 <category term="Ciencia ficción" label="Ciencia ficción"/>
 <category term="Drama" label="Drama"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<content type="text">Has viajado con Jint y Lafier a través de tres volúmenes de acción e intriga a escala interplanetaria en CREST OF THE STARS. A través del dolor y la camaradería, se abrieron camino a través de una prueba imposible sin sufrir ningún daño. Pero esa aventura, aunque grandiosa, fue solo la introducción a una crónica más amplia, que abarca décadas, de la guerra galáctica.
+<category term="Fantasía" label="Fantasía"/>
+<category term="Maduro" label="Maduro"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">La historia del intento de un hombre por sobrevivir bajo el mar en medio de la locura y el caos. ¡La exitosa novela coreana por fin está disponible en inglés en formato impreso!
 
-Únete a nuestros dos héroes, ahora auténticos pilotos estelares asignados a una nave de guerra de la flota del Imperio Abh, mientras participan en su primera operación militar oficial. Se les encarga la tarea de ayudar a defender un sistema estelar estratégicamente crucial de la Alianza de las Tres Naciones. Sin embargo, surgen complicaciones cuando descubren que su oficial al mando no es otra que la hermana del barón Abh al que mataron tres años antes.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-banner-of-the-stars-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+La sed de recursos de la humanidad nos ha llevado a donde nunca debimos ir: a las profundidades de una oscuridad aplastante. La Estación Submarina Internacional del Pacífico Norte es un laberinto sumergido de laboratorios, plataformas mineras y estrechos alojamientos a los que nunca llega la luz del sol.
+
+Muhyeon, dentista de profesión, se une a la estación esperando un trabajo rutinario, pero el silencio inquietante y el comportamiento cada vez más inestable de la tripulación pronto le demuestran que está equivocado. Desde lo peculiar hasta lo perturbador, cada encuentro hace que sea imposible ignorar una verdad: el peligro no está fuera de la estación, ya está aquí.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F12D2k-e0JwWUwLS1PpxpoKw" type="application/epub+zip" title="Descargar" />
+</entry>
+<entry>
+<title>Beatless Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-beatless-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-beatless-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/Beatless-Portada.jpg" />
+<author><name>Satoshi Hase</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Drama" label="Drama"/>
+<category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">¡PRIMER VOLUMEN DE LA NOVELA DE BEATLESS, SIN LATIDOS!
+
+La historia de Sin latidos originalmente era una novela en dos volúmenes, donde descubrimos el fascinante mundo de las EIH, androides humanoides que ayudan a los humanos en su día a día... pero no son tan inofensivos como parecen.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-beatless-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
 </entry>
 <entry>
 <title>Bludgeoning Angel Dokuro-chan Novela Ligera en Español</title>
@@ -97,7 +145,7 @@ Junto con una misteriosa onomatopeya, un ángel aparece de repente en la casa de
 ¿¡El nombre de esa chica es Dokuro-chan, el Ángel Apaleador!?
 
 Sin que él se dé cuenta, Dokuro-chan se instala de gorra en casa de Sakura y empieza a seducirlo (en todos los sentidos)… ¡¡!!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-bludgeoning-angel-dokuro-chan-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1j4LafT-I3SwC2hjlET76pg" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Bluesteel Blasphemer Novela Ligera en Español</title>
@@ -110,7 +158,7 @@ Sin que él se dé cuenta, Dokuro-chan se instala de gorra en casa de Sakura y e
 <category term="Ciencia ficción" label="Ciencia ficción"/>
 <category term="Fantasía" label="Fantasía"/>
 <content type="text">A Yukinari Amano le encantan las armas. Después de reencarnarse en otro mundo, el joven emprende un viaje con Dasa, la hermana menor de la chica que le dio una segunda vida. Sin embargo, mientras están en el camino, la pareja es atacada por una deidad local, un «erdgod». Ninguna persona normal podría derrotar a uno, entonces cuando Yukinari usa su conocimiento de armas y nuevas habilidades para hacer lo imposible, ¡se le adora como el nuevo dios del área! ¡Prepárate para una aventura de realidad alterna, llena de armas y espadas y por supuesto, llena de acción!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-bluesteel-blasphemer-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1a9bmB8cLvmIgo1y_gUYsvA" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Cat Planet Cuties Novela Ligera en Español</title>
@@ -129,25 +177,7 @@ Sin que él se dé cuenta, Dokuro-chan se instala de gorra en casa de Sakura y e
 <category term="Seinen" label="Seinen"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Kakazu Kio, un estudiante de bachillerato de Okinawa (Japón), se despertó y se encontró a una chica desconocida a su lado, que emitía los suaves y constantes sonidos de alguien que duerme. ¡Y además le salían orejas y una cola de gato! Ante el atónito Kio, apareció su amiga de la infancia con el desayuno. Con voz severa, le preguntó: «¿Dónde está la chica guapa que volvió contigo ayer? ¡Preséntamela!». Justo cuando estas dos duras frases estaban a punto de convertirse en una auténtica reunión de denuncia de pervertidos, la hermosa y estricta profesora, Itokazu Maki, irrumpió en la habitación, complicando aún más las cosas para Kio. Sin embargo… ¡esta chica de orejas de gato que se hace llamar Eris es, en realidad, una extraterrestre! Pero un misterioso grupo que se niega a aceptar este tipo de contacto extraterrestre, así como la CIA, por no hablar de la Agencia de Inteligencia Japonesa, están extendiendo sus sucias manos hacia la despreocupada Eris. «¡Basta ya! ¿Qué te ha hecho Eris?».</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-cat-planet-cuties-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
-</entry>
-<entry>
-<title>Chrome Shelled Regios Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-chrome-shelled-regios-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-chrome-shelled-regios-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/06/Regios01.jpg" />
-<author><name>Amagi Shuusuke</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">En esta historia de fantasía escolar ambientada en un futuro lejano, las criaturas contaminadas por la polución han invadido la tierra, obligando a la humanidad a vivir en ciudades móviles aisladas llamadas Regios. Una de estas ciudades, llamada Zuellni, es una escuela autónoma en la que acaba de inscribirse el estudiante de primer año Layfon Alseif. Layfon se une a regañadientes al 17º Pelotón de Artes Militares dirigido por la estudiante de tercer año Nina Antalk y se embarca en una serie de aventuras.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-chrome-shelled-regios-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F11SkAMKXvdWJtr90MPoX7RQ" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>City of Salt Novela Ligera en Español</title>
@@ -162,7 +192,7 @@ Sin que él se dé cuenta, Dokuro-chan se instala de gorra en casa de Sakura y e
 <content type="text">En la era del desastre de la sal, la sal cubre el mundo por completo. La sal devora las ciudades sin tregua y está a punto de hacer colapsar la sociedad. Un hombre y una joven viven en el Tokio al borde de ese derrumbe. El nombre del hombre es Akinaba; el de la joven, Mana. Ante ellos, que viven en calma, pasan diversas personas: a veces con serenidad, a veces con violencia, a veces con bajeza. Mientras las ven partir, algo comienza a cambiar dentro de ambos...
 
 Ganadora del Gran Premio del 10.º Premio Dengeki y obra debut de Arikawa Hiro.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-city-of-salt-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1-AO0-OMQefm5F6E3Yhi2vg" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Cosmic Princess Kaguya! Novela Ligera en Español</title>
@@ -184,25 +214,7 @@ Iroha frecuenta Tsukuyomi, donde las personas pueden vivir vidas diferentes y de
 La Kaguya adulta desarrolla una personalidad indulgente. A petición ferviente de Kaguya, Iroha la ayuda a comenzar a transmitir en Tsukuyomi. Con Iroha como productora y compositora, y Kaguya como streamer y cantante, su amistad se fortalece cada vez más. Lo que no saben es que fuerzas siniestras acechan, ansiosas por llevarse a Kaguya de vuelta a la luna.
 
 Esta es la historia de la princesa Kaguya como nunca antes se había visto.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-cosmic-princess-kaguya-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
-</entry>
-<entry>
-<title>Crest of the Stars Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-crest-of-the-stars-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-crest-of-the-stars-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/09/Crest-of-the-Stars-Portada.jpg" />
-<author><name>Hiroyuki Morioka</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Drama" label="Drama"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<content type="text">En un futuro lejano, la humanidad ha atravesado las estrellas y se ha establecido en mundos distantes. Pero por muy avanzada que sea la tecnología del futuro, parece que las naciones espaciales no pueden desprenderse por completo de su naturaleza humana.
-
-Jint Lin lo descubre por las malas cuando, siendo niño, su mundo natal es conquistado por el poderoso Imperio Abh: los autoproclamados Kin of the Stars (Parientes de las Estrellas) y gobernantes de vastas extensiones del universo conocido. Como nuevo miembro de la aristocracia imperial de los Abh, Jint debe aprender a forjar su propio destino en el vasto universo mientras soporta cargas que nunca pidió, atrapado entre su herencia de «Lander», habitante de la superficie, y la cultura bizantina de los Abh, de la que ahora es miembro nominal. Un encuentro fortuito con la valiente pero solitaria aprendiz de piloto estelar Lafier a bordo de la nave patrullera Goslauth los llevará a ambos por un camino de intrigas y guerras que abarcan toda la galaxia y que cambiarán para siempre el destino de toda la humanidad.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-crest-of-the-stars-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1RIWva-Ugemb3MjJ2qkispg" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>CtG - Zero kara Sodateru Dennou Shoujo Novela Ligera en Español</title>
@@ -224,27 +236,7 @@ Jint Lin lo descubre por las malas cuando, siendo niño, su mundo natal es conqu
 – ¡Ku, Kugimiya!
 
 !En el mundo real, la verdadera Haruha, junto con la verdadera Mifa – Kugimiya Miharu – aparecieron repentinamente! La verdad es que, ¡Haruha es una “nueva humana” creada en secreto!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/ctg-zero-kara-sodateru-dennou-shoujo-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
-</entry>
-<entry>
-<title>Date a Live Novela Ligera en Español</title>
-<id>https://nextnovels.com/date-a-live-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/date-a-live-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/06/01-43.jpg" />
-<author><name>Koushi Tachibana</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Mecha" label="Mecha"/>
-<category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Itsuka Shido era solo otro chico normal de secundaria con una vida normal. Pero, el último día de las vacaciones de primavera antes de que comenzaran las clases, un terremoto destruyó la ciudad y una chica con armadura apareció frente a él. La hermana adoptiva de Shido, Kotori, le dice que la niña es una "Criatura Designada Especial Desastrosa: Espíritu", lo que causó los terremotos espaciales y reveló que ella era la comandante de la organización que se ocupaba de los Espíritus, &lt;Ratatoskr&gt; y le ordenó salir. en una cita con el Espíritu para apaciguarla. Kotori le dice: "No te pido que derrotes al Espíritu. Deja que se enamore de ti y salve el mundo".</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/date-a-live-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1RQZ1xd1476flq8w7WB8tPA" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Dr. Stone Star’s Dream, Earth’s Song Novela Ligera en Español</title>
@@ -260,7 +252,7 @@ Jint Lin lo descubre por las malas cuando, siendo niño, su mundo natal es conqu
 ¿¡El desafío de Senku es la operación para apoderarse del club de ciencias y el lanzamiento de un cohete!? Es imprescindible ver a Senku demostrando su "ciencia sin rival" también en el ámbito escolar.
 
 Además, se incluye un episodio posterior al colapso del mundo, en el que los populares personajes Chrome, Kohaku y Suika, tras escuchar las historias de Senku, se enfrentan al reto de tocar en una banda con instrumentos hechos a mano.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-dr-stone-stars-dream-earths-song-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1_GCqwUntnkr-T_vXfNyIvQ" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Dr. Stone The Voices That Face the Future Novela Ligera en Español</title>
@@ -272,7 +264,7 @@ Además, se incluye un episodio posterior al colapso del mundo, en el que los po
 <category term="Ciencia ficción" label="Ciencia ficción"/>
 <category term="Shounen" label="Shounen"/>
 <content type="text">Antes del colapso de la civilización, ¡¡Tsukasa y Gen se enfrentan en un programa de televisión!! Tsukasa, que lucha por su orgullo y sus secretos, ¿podrá vencer la temible trampa del mentalista Gen?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-dr-stone-the-voices-that-face-the-future-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1TlxqAM2R2c9A-Sd4krvH8A" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Even A Replica Falls In Love Novela Ligera en Español</title>
@@ -302,7 +294,7 @@ Para que el chico que me gusta pueda distinguirme, me hice un peinado medio reco
 Mi nombre, mi cuerpo, todo es prestado y vacío, pero este sentimiento de amor es solo mío.
 
 Una historia de amor juvenil muy pura y un poco misteriosa que se desarrolla en una ciudad junto al mar.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-even-a-replica-falls-in-love-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1DFGrFCi092xSGpWMAF7aew" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>EXP Is Golden Novela Ligera en Español</title>
@@ -320,7 +312,18 @@ Una historia de amor juvenil muy pura y un poco misteriosa que se desarrolla en 
 Combinando Retainer con sus poderosos hechizos de encantamiento, Leah va formando poco a poco un ejército de sirvientes compuesto por formidables PNJ jefes únicos del juego. Con los puntos de experiencia lloviéndole, Leah se consolida como una fuerza a tener en cuenta… ¡solo para ser tachada de desastre natural viviente!
 
 Bueno, si los PNJ quieren coronarla Reina de la Destrucción, ¿quién es Leah para discutirlo? Las oportunidades de acelerar la destrucción de la humanidad no aparecen muy a menudo, y Leah no tiene intención de dejar que esta oportunidad se desperdicie.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-exp-is-golden-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1AKXul2rLBSowLhJU4mC8Ig" type="application/epub+zip" title="Descargar" />
+</entry>
+<entry>
+<title>Final Fantasy XV: Prologue - Parting Ways Novela en Español</title>
+<id>https://nextnovels.com/descargar-final-fantasy-xv-prologue-parting-ways-novela-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-final-fantasy-xv-prologue-parting-ways-novela-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/Final-Fantasy-XV-Prologue-Parting-Ways-Portada.jpg" />
+<author><name>Square Enix</name></author>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Fantasía" label="Fantasía"/>
+<content type="text">Esta novela web se ubica después de la película «Kingsglaive: FFXV», mostrando lo que el príncipe Noctis y sus amigos estaban haciendo justo antes del comienzo del juego.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F14_PQZOaXqvAsVlbY_-dkYA" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Free Life Fantasy Online Novela Ligera en Español</title>
@@ -336,7 +339,7 @@ Bueno, si los PNJ quieren coronarla Reina de la Destrucción, ¿quién es Leah p
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Shounen" label="Shounen"/>
 <content type="text">La chica gamer Kotone se emociona cuando recibe una copia de Free Life Fantasy Online, también conocido como FLFO, de manos de su hermana menor. En el mundo de FLFO, Kotone decide convertirse en una zombi, una de las razas inhumanas del juego que es difícil de dominar, incluso para jugadores experimentados. Pero eso no es un impedimento para Kotone. De hecho, cuando se embarca en su primera búsqueda, encuentra un mundo de maravillas que están a punto de convertirse en una gran parte de su vida real.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-free-life-fantasy-online-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1G24RBsGLTdEhUGI4WxsHFQ" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Girly Air Force Novela Ligera en Español</title>
@@ -349,7 +352,7 @@ Bueno, si los PNJ quieren coronarla Reina de la Destrucción, ¿quién es Leah p
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Shounen" label="Shounen"/>
 <content type="text">En el año 2015 un grupo de aeronaves no identificadas son vistas en varias regiones de Asia, se conoce que su capacidad de combate es superior al armamento actual, por lo cual, diferentes países asiáticos comienzan el desarrollo de un armamento especial. Durante un ataque de una nave vista en Japón, Kei Narutani es testigo de un avión cayendo al atacar al enemigo, el avión cae en el mar y rápidamente asiste a ayudar, pero descubre que el piloto no es más que una pequeña niña.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-girly-air-force-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1EPZsgbmkJNOpsWQp8f0CFg" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Goetia Shock Novela Ligera en Español</title>
@@ -368,7 +371,35 @@ Bueno, si los PNJ quieren coronarla Reina de la Destrucción, ¿quién es Leah p
 Un futuro en el que la instalación de cerebros auxiliares en el cuerpo humano se ha convertido en algo habitual…
 
 ¡Una novela cyberpunk, dura y sexy, que narra las hazañas de Alicia, la «Maga de la computadora!!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-goetia-shock-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1w2P9wHTQNp0Rj-0yP9vV3Q" type="application/epub+zip" title="Descargar" />
+</entry>
+<entry>
+<title>Halo: Edge of Dawn Novela en Español</title>
+<id>https://nextnovels.com/descargar-halo-edge-of-dawn-novela-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-halo-edge-of-dawn-novela-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/Halo-Edge-of-Dawn-Portada.jpg" />
+<author><name>Kelly Gay</name></author>
+<category term="Aventura" label="Aventura"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Fantasía" label="Fantasía"/>
+<content type="text">"2560. Tras eliminar al Jefe de guerra Escharum y sumir en el caos a los líderes de los Desterrados, el Jefe Maestro continúa la lucha en Zeta Halo, acompañado por su nueva compañera IA y su leal piloto, Fernando Esparza.
+
+Mientras el Spartan-117 busca a las fuerzas aliadas dispersas, un joven médico de combate—torturado y encarcelado durante meses por los Desterrados y el enigmático Heraldo—podría tener la clave para desentrañar misterios más profundos dentro de este antiguo mundo anillo. Pero cada paso hacia las respuestas está acechado por el siniestro y escurridizo maestro espadachín Jega ‘Rdomnai, quien está empeñado en vengarse..."</content>
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1W3ng4F-IAtvnaXWxVbkoXw" type="application/epub+zip" title="Descargar" />
+</entry>
+<entry>
+<title>Halo: Outcast Novela en Español</title>
+<id>https://nextnovels.com/descargar-halo-outcast-novela-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-halo-outcast-novela-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/Halo-Outcast-Portada.jpg" />
+<author><name>Troy Denning</name></author>
+<category term="Aventura" label="Aventura"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Fantasía" label="Fantasía"/>
+<content type="text">2559. El Inquisidor Thel 'Vadam, que en su día fue uno de los guerreros más grandes y temibles del Covenant, ahora está aliado con sus antiguos enemigos humanos, al tiempo que se encuentra profundamente comprometido con llevar al pueblo Sangheili a una nueva era de unificación. Pero sus aspiraciones se ven constantemente amenazadas, ya sea por las peligrosas facciones beligerantes de las fortalezas rivales Sangheili o por la implacable sombra de opresión que proyecta la inteligencia artificial renegada Cortana.
+
+De repente, se presenta una oportunidad para romper las cadenas de Cortana gracias a los rumores sobre la existencia de un antiguo artefacto ubicado en el hostil mundo de Netherop. La Spartan Olympia Vale, entrenada con las habilidades necesarias para vivir y prosperar entre los sangheili, también reconoce este tesoro alienígena como un medio esencial para ayudar a la humanidad a alcanzar el mismo objetivo de libertad. Pero, entre bastidores, tanto 'Vadam como Vale están siendo manipulados por una misteriosa figura con sus propios intereses. Y para empeorar las cosas, todos los involucrados se están poniendo, sin saberlo, en una situación peligrosa frente a fuerzas que escapan a su comprensión.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1QTG9LE7q2af7sHa7MM4xBw" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Horizon in the Middle of Nowhere Novela Ligera en Español</title>
@@ -390,7 +421,9 @@ Un futuro en el que la instalación de cerebros auxiliares en el cuerpo humano s
 Corre el año 1648 de la Era del Testamento. Toori Aoi, canciller y presidente del consejo estudiantil de la única academia a bordo de la ciudad-nave volante Musashi, se enfrenta al décimo aniversario de la muerte de su amiga de la infancia Horizon Ariadust en un accidente. Mientras se prepara para «celebrar» la ocasión declarándose a P-01s —un autómata idéntico a Horizon—, descubre que sus sospechas sobre el aspecto de P-01s tenían fundamento: P-01s es en realidad Horizon Ariadust, renacida en un cuerpo robótico. Además, las emociones de Horizon fueron despojadas de ella y ahora están almacenadas en ocho poderosas armas llamadas Armamentos del Pecado Mortal, que están en posesión de figuras clave de diversos países establecidos en los Estados Divinos.
 
 Para recuperar las emociones de Horizon Ariadust, Toori Aoi, junto con sus amigos y aliados, emprende una cruzada contra distintos obstáculos mientras los acontecimientos clave de la historia se recrean de forma futurista.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-horizon-in-the-middle-of-nowhere-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1HFBBbwBx9G434fEHctaCwQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1RmZNZaJILy3kTpb9dGMx9Q" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Ayd5Y8WKJhyMTi7iwbCaxQ" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Humanity Has Declined Novela Ligera en Español</title>
@@ -405,7 +438,7 @@ Para recuperar las emociones de Horizon Ariadust, Toori Aoi, junto con sus amigo
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Seinen" label="Seinen"/>
 <content type="text">Durante años, la disminución de las tasas de natalidad ha obligado a lo que queda de la raza humana a ceder cada vez más territorio a otros seres que han aparecido para aprovechar el nicho ecológico que se vacía. Ahora, solo queda un puñado de humanos entre los restos de la civilización y la Tierra está dominada por hadas, diminutas criaturas de diez centímetros de altura y sorprendente inteligencia. Pero la importancia de la humanidad aún no ha terminado, como aprende la joven Watashi cuando toma la decisión de regresar a su ciudad natal y asumir el puesto de su abuelo como mediadora entre las razas. Por desgracia, el trabajo no va a ser ni de lejos tan sencillo como ella esperaba, y va a necesitar una sabiduría muy superior a la de su edad para cumplir su misión más importante.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-humanity-has-declined-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1qwJXA1OB05_McTgOlCyKvA" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Infinite Dendrogram Novela Ligera en Español</title>
@@ -420,27 +453,30 @@ Para recuperar las emociones de Horizon Ariadust, Toori Aoi, junto con sus amigo
 <category term="Fantasía" label="Fantasía"/>
 <category term="Shounen" label="Shounen"/>
 <content type="text">En el año 2043, salió a la venta Infinite Dendrogram, el primer VRMMO de inmersión completa exitosa del mundo. Además de su capacidad para simular a la perfección los cinco sentidos, junto con sus muchas otras increíbles características, el juego prometía ofrecer a los jugadores un mundo lleno de infinitas posibilidades. Casi dos años más tarde, Reiji Mukudori, un estudiante de primer año de universidad, pudo por fin comprar una copia del juego y empezar a jugar. Con la ayuda de su experimentado hermano mayor, Shu, y su compañero Embryo, Reiji se embarca en una aventura en el mundo de Infinite Dendrogram. ¿Qué descubrirá y encontrará en este mundo de juego conocido por su increíble realismo e infinitas posibilidades?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-infinite-dendrogram-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F13bJTea9D5OoQa__-94NBPw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1UK1e-LnOATqL0fEfrY79eg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1kDuIOdH_ssYfxrzDBjFlMA" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
-<title>Isekai wa Smartphone Totomoni Novela Ligera en Español</title>
-<id>https://nextnovels.com/isekai-wa-smartphone-totomoni-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/isekai-wa-smartphone-totomoni-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-70.jpg" />
-<author><name>Patora Fuyuhara</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
+<title>I’m in Love with the Villainess Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-im-in-love-with-the-villainess-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-im-in-love-with-the-villainess-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/07/I-Favor-the-Villainess-Portada.jpg" />
+<author><name>Inori</name></author>
 <category term="Ciencia ficción" label="Ciencia ficción"/>
 <category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Misterio" label="Misterio"/>
 <category term="Romance" label="Romance"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">Después de un extraño accidente en el que unos rayos mataran al joven de 15 años Mochizuki Touya se despierta para encontrarse cara a cara con Dios. “Lamento decir que he cometido un error…” le dice que puede reencarnar en un mundo de fantasía y, como recompensa, le permite llevarse su smarthphone.
+<category term="Shoujo Ai" label="Shoujo Ai"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">— Aunque sea la heroína de este juego Otome... ¿De verdad es malo que me guste la villana? ¿Qué consecuencias me traerá?
 
-Y así comienza la aventura de Touya en un nuevo mundo pseudo-medieval y anacrónico. ¡Amigos! ¡Risas! ¡Lágrimas! ¡Inexpicable Deus ex Machina! El chico se embarca en un viaje lleno de cosas increíbles, viajando distraídamente de un lugar a otro, siguiendo cualquier objetivo que le atraiga.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/isekai-wa-smartphone-totomoni-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+Oohashi Rei, una oficinista y esclava del trabajo, de repente se reencarnó en un nuevo mundo y despertó en el cuerpo de la protagonista de su juego Otome favorito: Revolution. Para su suerte, con la primera persona que se encuentra al despertarse es Claire François, ¡La villana de esta historia! y que también, es uno de los personajes favoritos de Rei.
+
+Sin pensarlo demasiado, Rei decide enamorar a Claire en lugar de a los demás protagonistas masculinos que existen dentro del juego... Pero, ¿Cómo reaccionará la villana? ¿Tendrá una reacción positiva a las pretensiones de Rei? ¿O solo le esperará un destino de rechazos?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F100W_9MyRyQbKEYMQsyhQHQ" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>I’m the Evil Lord of an Intergalactic Empire! Novela Ligera en Español</title>
@@ -459,7 +495,9 @@ Y así comienza la aventura de Touya en un nuevo mundo pseudo-medieval y anacró
 <content type="text">En su última vida, Liam vivió como una persona moralmente responsable... pero murió profundamente endeudado y traicionado por su esposa. Renacido en el seno de la familia gobernante de un vasto imperio interestelar, Liam sabe que la vida se divide entre los oprimidos y aquellos que se dedican a pisotear a los demás, así que esta vez va a elegir lo que quiere y vivir para sí mismo.
 
 Pero, de alguna manera, las cosas se niegan a funcionar así. A pesar de hacer todo lo posible por convertirse en un tirano, las decisiones de Liam no conducen a nada más que a la paz y la prosperidad del imperio bajo su gobierno, ¡y cada vez es más popular!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-im-the-evil-lord-of-an-intergalactic-empire-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F14OYzH5QoBf9QbHlbGONMeQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1T75p_pc1uzgoMemxBnPCiw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-im-the-heroic-knight-of-an-intergalactic-empire-novela-ligera-en-espanol/" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Last and First Idol Novela Ligera en Español</title>
@@ -485,7 +523,7 @@ La Primera y Última Idol es una galardonada reflexión oscura sobre esto últim
 16.º Premio Sentido de Género (Premio Idol del Futuro)
 
 ¡La Primera y Última Idol obtuvo el primer premio especial en la historia del Concurso de Ciencia Ficción Hayakawa, y fue la primera obra debut en ganar el Premio Seiun en 42 años!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-last-and-first-idol-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1EeaXIuPKwdkg_vS5u9MAdQ" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Mahouka Koukou No Rettousei Magian Company Novela Ligera en Español</title>
@@ -512,7 +550,7 @@ El propósito de la organización a la cual Tatsuya fue nombrado director ejecut
 Para Tatsuya, cuya influencia ha superado la de otros Magos de Clase Estratégica, el rumbo en el que ha decidido seguir naturalmente ha llamado la atención de otras personas alrededor del planeta. Un assassin de la asociación “FEHR” en la USNA, es enviado para investigar la dirección que Tatsuya ha elegido…
 
 El telón se abre sobre la nueva leyenda de Shiba Tatsuya——</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/mahouka-koukou-no-rettousei-magian-company-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1Do9nA13QiqxGpCxLYoV5UQ" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Mobile Suit Gundam Novela Ligera en Español</title>
@@ -527,7 +565,7 @@ El telón se abre sobre la nueva leyenda de Shiba Tatsuya——</content>
 <content type="text">En el año U.C. 0079, la humanidad se encuentra atrapada en una guerra brutal entre la Federación Terrestre y el Principado de Zeon. En una colonia espacial aislada, un joven civil se ve forzado a tomar el control de un arma experimental: el Gundam, una máquina de combate humanoide capaz de cambiar el rumbo del conflicto.
 
 Mientras una nave de guerra improvisada, con una tripulación compuesta en parte por civiles, intenta escapar del caos, la guerra se vuelve algo personal. La línea entre el deber y la supervivencia comienza a desdibujarse, y la figura del héroe no es tan clara como parece.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-mobile-suit-gundam-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1iaUNu0rscKBFcjoHb9MXwQ" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Mobile Suit Gundam: Hathaway’s Flash Novela Ligera en Español</title>
@@ -546,7 +584,7 @@ La Federación Terrestre ha aceptado a la República de Zeon nuevamente en el re
 Una organización llamada Mafty, comienza acciones terroristas contra la Federación y sus altos funcionarios como un acto de venganza por la agresión y ataque a miles de víctimas inocentes, utilizando un nuevo prototipo de Mobile Suit, el RX-105 Xi Gundam. En respuesta, el nuevo comandante de la Federación Terrestre de la zona de Davao, el capitán Kenneth Sleg, crea la Unidad Circe para acabar con Mafty. Hathaway Noa, hijo del legendario Bright Noa, inicia su viaje en esta historia llena de intriga política, espionaje, redención y mucha acción.
 
 Y recuerden Su luz es la esperanza de la humanidad.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-mobile-suit-gundam-hathaways-flash-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Hn1QRCL8z_el73eXUQn_kw" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Moscow 2160 Novela Ligera en Español</title>
@@ -562,7 +600,8 @@ Y recuerden Su luz es la esperanza de la humanidad.</content>
 <content type="text">Buscar comida o morir de hambre. Luchar o congelarse. Matar o ser asesinado.
 
 Es el año 2160, y la Guerra Fría sigue en pleno apogeo entre EE. UU. y la URSS, sin un final a la vista. En Moscú, la libertad, la verdad y la prosperidad desaparecieron hace mucho tiempo. Niños abandonados, hambrientos y tiritando de frío luchan por sobrevivir. Soldados cyborgs impredecibles regresan de la guerra enojados y armados. Las autoridades gubernamentales vigilan a todos a través de las redes cibernéticas mientras transmiten noticias sobre supuestas victorias en el extranjero. En la batalla entre bastidores, el KGB, los espías del bloque occidental y la mafia se persiguen unos a otros. Danila Kragin es una pieza en su conflicto: un mercenario y un activo desechable llamado «Janitor». Luchando como todos los demás, hará cualquier trabajo por un precio, y ni siquiera en medio de una lluvia de balas se dará por vencido. Pase lo que pase, debe llegar a casa, por su amada Stasia y por sus hermanos menores, quienes esperan su regreso a salvo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-moscow-2160-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1qIB0sor-0gyyYdfw7h9h8A" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1HZVQ6IJWdVAmlWgX9Je0nw" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Mushi-Uta Bug Novela Ligera en Español</title>
@@ -581,7 +620,7 @@ Es el año 2160, y la Guerra Fría sigue en pleno apogeo entre EE. UU. y la URSS
 Grabada eternamente por la brillante lanza plateada,
 
 ¡Esta es la mejor y la peor chica que conoce a otra chica!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-mushi-uta-bug-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1ywsYK8DQsh99sW3AUn4KqA" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Mushi-Uta Novela Ligera en Español</title>
@@ -602,7 +641,32 @@ Sin embargo, Shiika era una MushiTsuki que había escapado de las instalaciones 
 Las personas que albergan sueños y deseos dolorosos pero fuertes están a punto de disfrutar de la llegada de la Navidad. Este es el encuentro de un chico y su encuentro con una chica.
 
 La historia más hermosa y desastrosa de este encuentro fatídico.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-mushi-uta-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1tSXhbyEct_XY4G0YE6Gy5Q" type="application/epub+zip" title="Descargar" />
+</entry>
+<entry>
+<title>Omniscient Reader’s Viewpoint Novela Web en Español</title>
+<id>https://nextnovels.com/descargar-omniscient-readers-viewpoint-novela-web-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-omniscient-readers-viewpoint-novela-web-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/12/Omniscient-Readers-Viewpoint-Portada.jpg" />
+<author><name>Sing-Shong</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Maduro" label="Maduro"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Supernatural" label="Supernatural"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">La novela «Tres maneras de sobrevivir al Apocalipsis» (TWSA) tardó más de una década y un total de 3.149 capítulos en publicarse, y otro tanto en leerse. Cuantos más capítulos se publicaban, más lectores abandonaban. Tras el capítulo 100, sólo quedaba uno: Kim Dokja, el último lector que leyó todo de principio a fin. Tras el último capítulo, Dokja recibe un mensaje nada menos que del propio autor. Dándole las gracias, le dice a Dokja que los capítulos de TWSA pronto serían de pago. Además, envía a Dokja un archivo con todos los capítulos de la novela.
+
+Lo que Dokja no sabía en ese momento: el mundo ficticio de TWSA se haría realidad en breve. Además, Dokja recibe un poder especial: es el «lector omnisciente», el único que sabe cómo acabará esta historia. Y para salvar a Yoo Joonghyuk, el protagonista de la novela, de retroceder una y otra vez, Dokja decide ahora devolver el favor a su héroe, que le ha acompañado durante más de diez años y ha hecho que su vida merezca la pena. Quiere crear su propio y maravilloso final feliz.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1LbhVFlnh5QB2O0KRiNm6bw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1WXAKvSd1reKezzK_0VOB7g" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Otherside Picnic Novela Ligera en Español</title>
@@ -618,7 +682,9 @@ La historia más hermosa y desastrosa de este encuentro fatídico.</content>
 <category term="Shoujo Ai" label="Shoujo Ai"/>
 <category term="Supernatural" label="Supernatural"/>
 <content type="text">La primera vez que se encontró con Toriko Nishina fue en el Otro Lado, después de ver "esa cosa" y casi morir. A partir de ese día, la vida de Sorawo Kamikoshi, una universitaria agobiada, cambió. En este Otro Mundo, lleno de misterio, que coexiste con el nuestro, aparecen seres peligrosos como los Kunekune y Hasshaku-sama de los que se habla en las historias de fantasmas reales. Por motivos de investigación, de lucro y en busca de una persona importante, Toriko y Sorawo entran en lo desconocido.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-otherside-picnic-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1yUx22gwYL7UFb3Vq4eeRzA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1JZ4TtyOVJAcmWPt4P7Sn0Q" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Fhu16Ym_F8T1haVJWk-nqQ" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Our Last Crusade or the Rise of a New World Novela Ligera en Español</title>
@@ -645,7 +711,7 @@ La princesa bruja de hielo alabada como la más fuerte de toda la Agencia de la 
 "Del mismo modo, si me derrotas, se convertirá en un paso en la unificación de tu mundo."
 
 Los dos archienemigos debían matarse entre sí. Sin embargo, al chico le robaron el corazón por la belleza y la nobleza de la chica. Y la chica se sintió atraída por la fuerza y la forma de vida del chico. Aunque no se permitiera caminar uno al lado del otro y el único camino ante ellos fuera derrotarse mutuamente.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-our-last-crusade-or-the-rise-of-a-new-world-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1v9dYoRR64UoR4tJcVWy6MA" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Perhaps, She Could Kill Novela Ligera en Español</title>
@@ -675,7 +741,7 @@ Mahina afirma poseer la "capacidad de matar gente".
 Sin embargo, impone una condición para recuperar su poder.
 
 Esta es la historia de una chica que podría tener habilidades especiales y un chico atormentado por un cierto pecado.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-perhaps-she-could-kill-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1lALcCTGT-s0scvTmPyyNCQ" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Puella Magi Madoka Magica Novela Ligera en Español</title>
@@ -696,7 +762,7 @@ Esta es la historia de una chica que podría tener habilidades especiales y un c
 Kyuubey les hace una propuesta: concederles cualquier deseo que tengan. A cambio, cada una de ellas se convertirá en una chica mágica, obteniendo el poder suficiente para hacer realidad sus sueños. Sin embargo, Homura Akemi, que ya es una chica mágica, les insta a no aceptar la oferta, afirmando que no todo es lo que parece.
 
 Una historia de esperanza, desesperación y amistad, esta novelización del exitoso anime Puella Magi Madoka Magica aborda las dificultades de ser una chica mágica y el precio de hacer realidad un sueño.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-puella-magi-madoka-magica-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F12vQ1YZdLxjxOugqqoiNDoA" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Qualia the Purple Novela en Español</title>
@@ -711,7 +777,7 @@ Una historia de esperanza, desesperación y amistad, esta novelización del exit
 <category term="Shoujo Ai" label="Shoujo Ai"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Marii Yukari, una estudiante de secundaria, ve a todos los seres humanos, excepto a sí misma, como robots a través de sus vívidos ojos morados. Sin embargo, a pesar de tener una perspectiva tan extraña del mundo, sus compañeros de clase la tratan como a una chica sencilla y peculiar, incluido Manabu «Gaku» Hatou, su único amigo. Pero empiezan a ocurrir cosas extrañas a su alrededor y, cuando la reclutan para una organización clandestina debido a sus talentos únicos, Manabu se ve envuelta en un mundo de peligrosos experimentos y física cuántica diferente a todo lo que jamás hubiera podido imaginar. ¿Será suficiente su amistad con Marii para salvarlas a ambas de lo que les espera en los bajos fondos científicos del mundo?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-qualia-the-purple-novela-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1HRB2MVZMoLqFgNDJd2juDA" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Reborn as a Space Mercenary Novela Ligera en Español</title>
@@ -744,7 +810,8 @@ En cualquier caso, no sé qué ha provocado esto, pero supongo que tendré que a
 Todo irá bien. Tengo mi fiel nave espacial, así que probablemente pueda ganar algo de dinero. ¡Funcionará! Tiene que hacerlo.
 
 Esta es la historia de un hombre lanzado abruptamente al espacio junto con su nave espacial privada. Corre con ella y salva a damiselas en apuros por el camino, coquetea con dichas damiselas, gana dinero como mercader a sueldo y utiliza sus conocimientos de juego para abrirse camino y vivir libre y fácilmente.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/reborn-as-a-space-mercenary-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F15yxNhh7rUL_HCsaLVQnK7g" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1meHwfCK71n2bSqowY2q_3g" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Rebuild World Novela Ligera en Español</title>
@@ -762,7 +829,9 @@ Esta es la historia de un hombre lanzado abruptamente al espacio junto con su na
 <category term="Seinen" label="Seinen"/>
 <category term="Supernatural" label="Supernatural"/>
 <content type="text">El pináculo de la civilización humana ha llegado y se fue, dejando solo ruinas a su paso. La sociedad y la ciencia ahora luchan para reconstruirse, redescubriendo fragmentos de conocimiento de poderosos artefactos antiguos que desafían la comprensión. Estas reliquias del «Viejo Mundo» pueden hacer ricos de aquellos que las encuentran—si los sistemas de seguridad antiguos y las armas biológicas rebeldes no matan primero a los cazadores de reliquias. Akira, un joven huérfano de la calle, se propone a convertirse en uno de esos cazadores para escapar de su brutal vida en los barrios marginales. Sin entrenamiento, desnutrido y mal armado, Akira tendría suerte si lograba salir con vida de las ruinas—hasta que un encuentro con Alfa, una mujer misteriosa y fantasmal, cambia su destino para siempre. Alfa necesita un cazador y está dispuesta a entrenar a Akira para conseguir uno. ¿Su apoyo será suficiente para ayudar a un niño sin dinero de los barrios marginales a escalar en la cima de un mundo aplastante y despiadado?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-rebuild-world-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1yo514zvXNTpQeYTkirxy9w" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fterabox.com%2Fs%2F16ycdtjD12NmQdTyV-cYA7g" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fterabox.com%2Fs%2F14YeL6dKxerLag4hXwdduIA" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Schwarzes Marken Novela Ligera en Español</title>
@@ -782,7 +851,7 @@ Alemania del Este, bajo la invasión de la especie de origen extraterrestre BETA
 Sin embargo, en medio de la batalla, él rescata a una joven piloto del ejército de Alemania Occidental que había quedado aislada...
 
 18 años antes de los eventos del popular juego de PC Muv-Luv Alternative, se cuenta la historia de jóvenes pilotos inmersos en la feroz guerra europea, luchando por sus vidas en una batalla a vida o muerte.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-schwarzes-marken-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1c-Uh3gaxvQQOnW5Jv9Ho3g" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Schwarzesmarken Requiem Novela Ligera en Español</title>
@@ -805,26 +874,7 @@ La hija de un Junker, la sangre sucia de.... No puedo poner el nombre, solo pond
 Las historias que Kurt el joven maquinista de un T-64 le cuenta en sus expediciones a la recluta Anna sobre la abominable división negra, los Schwarzenmarken — Y la lapida de acero de Schultvenberg 1981
 
 Esa y otras historias en esta una colección de historias cortas que relata un capítulo de la Gran Guerra Europea en el mundo de 'Muv-Luv Alternative', incluyendo una historia completamente nueva ambientada en un breve periodo después de la Operación Neptuno!!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-schwarzesmarken-requiem-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
-</entry>
-<entry>
-<title>Seiken Gakuin no Maken Tsukai Novela Ligera en Español</title>
-<id>https://nextnovels.com/seiken-gakuin-no-maken-tsukai-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/seiken-gakuin-no-maken-tsukai-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/06/02-16.jpg" />
-<author><name>Shimizu Yuu</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Artes marciales" label="Artes marciales"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Uno de los señores demonios más poderosos de la historia ha estado sellado durante mil años. Cuando finalmente despierta, se reencarna como… ¿un niño de 10 años? ¡Ahora bajo el cuidado de la chica que lo liberó, el Señor Demonio Leonis debe sortear los peligros de la Academia de la Espada Sagrada!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/seiken-gakuin-no-maken-tsukai-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1mFX2J9b9YweoO-AO7YC_eg" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Sekaiichi Kawaii Musume ga Ai ni Kimashita yo! Novela Ligera en Español</title>
@@ -841,7 +891,7 @@ Esa y otras historias en esta una colección de historias cortas que relata un c
 <content type="text">"¡Vine a salvar el futuro de mi padre!"
 
 Iku Kudou, estudiante de segundo grado de 17 años de secundaria, de repente tiene una hija. Un día, una niña llamada Touka que se autoproclamó como su hija apareció frente a él. No recuerda haber tenido un hijo, pero Touka parece haber venido del futuro para salvar el futuro de su padre y su madre. Sin embargo, sin mencionar la forma de regresar al futuro, ¿incluso se está olvidando de lo mas escencial su "mamá" ...? Los dos comienzan a buscar una pista de esa "futura madre". Las candidatas son 3 chicas que Iku conoce bien. Para acortar la distancia entre ellos, tuvo que hacer un uso completo del artículo llamado "Papashu"(Paparts) que Touka trajo con ella.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/sekaiichi-kawaii-musume-ga-ai-ni-kimashita-yo-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1O-sZdbf9z5XtqCQEMkqb8Q" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Shuumatsu Nani Shitemasu ka? Iden: Lillia Asplay Novela Ligera en Español</title>
@@ -859,7 +909,7 @@ Iku Kudou, estudiante de segundo grado de 17 años de secundaria, de repente tie
 Esta es la intensa y a la vez encantadora vida cotidiana de esa chica.
 
 Una nueva historia hilada a partir de la serie "Shuumatsu Nani Shitemasu ka?", que incluso llegó a ser adaptada a anime.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-shuumatsu-nani-shitemasu-ka-iden-lillia-asplay-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F165ZlrOQtjYCuov7ekVw0xw" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka Novela Ligera en Español</title>
@@ -879,7 +929,8 @@ Una nueva historia hilada a partir de la serie "Shuumatsu Nani Shitemasu ka?", q
 Sólo un pequeño grupo de chicas jóvenes, las Leprechauns, pueden empuñar las antiguas armas necesarias para rechazar las invasiones de estas criaturas. En la inestable y fugaz vida de las chicas, donde una llamada a la muerte segura puede llegar en cualquier momento, entra un personaje improbable: un joven que lo perdió todo en su última batalla hace quinientos años, el último humano vivo despertado de un largo y gélido letargo.
 
 Incapaz de seguir luchando, Willem se convierte en el padre que las niñas nunca tuvieron, cuidándolas y alimentándolas incluso mientras lucha por aceptar su nueva vida, en la que siente el dolor de esperar impotente a que sus seres queridos vuelvan a casa de la batalla que su "Hija" sintió por él hace tanto tiempo. Juntos, Willem y las niñas llegan a comprender poco a poco lo que significa la familia y lo que realmente merece la pena proteger.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-shuumatsu-nani-shitemasu-ka-isogashii-desu-ka-sukutte-moratte-ii-desu-ka-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F19QHHM_VnGOi9BBPbuZb4pg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F19ccFTeZtcOVf84lF5GvpJQ" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Shuumatsu Nani Shitemasuka? Mou Ichido Dake Aemasuka? Novela Ligera en Español</title>
@@ -896,7 +947,10 @@ Incapaz de seguir luchando, Willem se convierte en el padre que las niñas nunca
 Tiat, Collon, Pannibal y Lakhesh se han convertido en hadas soldados y continúan el papel de sus predecesores, luchando por la seguridad de Regul Aire. Y al igual que el resto de hadas soldado del almacén, necesitan un guardián del ejército, y así, un fatídico día, Tiat se encuentra con Feodor Jessman, un joven diablillo y militar de cuarto grado. A primera vista parece un típico estudiante de honor, sin embargo, no pasa mucho tiempo hasta que revela sus verdaderos colores.
 
 ¿Qué traerán sus ambiciones secretas para las cuatro jóvenes e incluso para el futuro de Regul Aire?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-shuumatsu-nani-shitemasuka-mou-ichido-dake-aemasuka-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1zMTkUZVnGiASweqyLMrUcA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1nTc8jB8wqG3TnQp6_j-Okw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1MF4gLRRFsNEoBo1Enp-c3g" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F17UKyqz9xhMtlDOnTOdhv8Q" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Sorcery Grand Prix Wizard Formula Novela Ligera en Español</title>
@@ -910,25 +964,7 @@ Tiat, Collon, Pannibal y Lakhesh se han convertido en hadas soldados y continúa
 <category term="Fantasía" label="Fantasía"/>
 <category term="Hentai" label="Hentai"/>
 <content type="text">Al ex héroe Artis le pide una chica que le salvó la vida en el pasado que conduzca en un auto mágico en el Campeonato Mundial de Fórmula Mágica en parejas. En el auto, donde el conductor y el navegante están muy cerca, Artis frota accidentalmente el pecho de su compañera Senari, ¿¡y la potencia aumenta!?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-sorcery-grand-prix-wizard-formula-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
-</entry>
-<entry>
-<title>Spy Classroom Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-spy-classroom-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-spy-classroom-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-66.jpg" />
-<author><name>Takemachi</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Artes marciales" label="Artes marciales"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Romance" label="Romance"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">Un mundo en el que las guerras se libran con espías. Con un porcentaje de éxito en las misiones del 100%, el extraordinario, aunque bastante difícil de tratar, espía Klaus recibe el encargo de una misión casi imposible por parte de la agencia, que alberga un insano 90% de posibilidades de fracaso y muerte... ¡que por alguna razón implica a siete chicas inexpertas...!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-spy-classroom-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1DmMUQ7M7dmNaKcVt-zOyXA" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Strategic Base 32098 Paradise Novela Ligera en Español</title>
@@ -948,7 +984,37 @@ Ganador del Gran Premio de Oro de la 6.ª edición del Premio Sneaker.
 Dos superpotencias llevan más de mil años enfrascadas en una guerra interestelar. El soldado cíborg Varois desciende al planeta ultrasecreto del enemigo, conocido como «Paraíso». Pero lo que encuentra allí es solo un soldado enemigo y una niña llamada María.
 
 Una novela romántica de ciencia ficción que colma todas las expectativas.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-strategic-base-32098-paradise-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1--2eFaQgUVJl0ivpIFnLFA" type="application/epub+zip" title="Descargar" />
+</entry>
+<entry>
+<title>Sword Art Online Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-sword-art-online-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-sword-art-online-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2021/12/1519825649-e1641220496808.jpg" />
+<author><name>Kawahara Reki</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">Sword Art Online, el juego de realidad virtual más reciente en el mercado, Fue tan deseado en su lanzamiento, que sus reservas se agotaron casi al instante.
+
+De entre todos los jugadores que compraron este juego, destaca Kirito, un chico que incluso tuvo la suerte de ser parte del programa Beta del juego.
+
+Al entrar al juego pareciera que todo está bien, pero hay un problema, al momento de intentar salirse del juego, no pudo hallar el botón necesario para dicha acción. El problema recae en que no era un problema que solo le pasaba a Kirito, ese mismo caso le pasaba a todos los jugadores de SAO.
+
+Luego de unos momentos TODOS los jugadores fueron teletransportados a una plaza en el primer piso del juego, y allí comenzó todo.
+
+La única forma de sobrevivir y salir del juego es venciendo a los jefes finales de cada piso, en total 100.
+
+Pero hay un problema, si muere en el juego, morirá en la vida real.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F15jRvv40fNmC4QfuC3OF0ww" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1zFF7zhiKCA2L0zO65dgUZg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1BgZ4X553fT9zcXDPsaqKUg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1ZDy9m5lSGh63hBxqZ61otg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1yM8GW0zpoCGAJ5Zj-7YCZg" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Tengen Toppa Gurren Lagann Novela Ligera en Español</title>
@@ -971,7 +1037,8 @@ La mitología robótica de combinación completamente nueva que GAINAX levantó 
 El osado combinado Gurren Lagann, con el indoblegable líder del Gurren-dan, Kamina, y Simon. Y así aparece majestuosa la primera parte, que narra la despedida llena de lágrimas de los hombres.
 
 ※ Esta obra contiene ilustraciones a color y en blanco y negro de la misma calidad que el original.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-tengen-toppa-gurren-lagann-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1KF-PQ9z4w3mlxKUb2oEH4Q" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1BP_rIF8XsxpSwGg9jOD40A" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>The Dorky NPC Mercenary Knows His Place Novela Ligera en Español</title>
@@ -985,25 +1052,7 @@ El osado combinado Gurren Lagann, con el indoblegable líder del Gurren-dan, Kam
 <category term="Comedia" label="Comedia"/>
 <category term="Harem" label="Harem"/>
 <content type="text">Como mercenario, John Ouzos no es ajeno al campo de batalla, pero nunca ha luchado por la gloria. Para pagar las deudas de su padre (por la compra de una granja) y poder permitirse sus aficiones (el anime), John pilota a regañadientes su destartalada nave (la Patchwork) allá donde le lleve el dinero, siempre y cuando la misión no parezca demasiado complicada. En lo que a él respecta, los problemas siempre persiguen al protagonista de una historia, así que se asegura de no ser ni siquiera un personaje secundario. Va a ser solo un NPC. A pesar de su baja estatura y su corpulencia, John es abordado por enjambres de mujeres hermosas, fuertes y esculturales mientras deambula por la galaxia. Sin embargo, solo están interesadas en trabajar con él o en batirse en duelo, y solo porque resulta ser uno de los mejores pilotos que hay. John hace todo lo posible por evitar a las mujeres y pasar desapercibido. Al fin y al cabo, ¡más atención significa más problemas! Piratas escondidos en asteroides, pastiches de ópera espacial y divertidos malentendidos abundan en esta serie de alto vuelo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-dorky-npc-mercenary-knows-his-place-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
-</entry>
-<entry>
-<title>The Ending Chronicle Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-ending-chronicle-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-ending-chronicle-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/01/Owari-no-Chronicle-Portada.jpeg" />
-<author><name>Kawakami Minoru</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Gender Bender" label="Gender Bender"/>
-<category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
-<content type="text">El mundo estuvo una vez en guerra con 10 mundos alternativos (Engranajes). Esto se conoció como la Guerra Conceptual y nuestro mundo ganó hace 60 años. Todo esto se ocultó, por lo que ninguna persona normal es consciente de este hecho en la época actual.
-
-Tras la muerte de su abuelo, el estudiante de instituto Sayama Mikoto es convocado de repente por la gigantesca corporación IAI. Se entera de que este mundo se dirige a la destrucción debido a la aceleración de los Núcleos Conceptuales. Para evitarlo, hay que entablar negociaciones con los supervivientes de los otros mundos paralelos para que sus 10 conceptos puedan ser activados.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-ending-chronicle-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F15tYvbaHcmRVbRpKH4oRR_g" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>The Game War Between Me and Her Novela Ligera en Español</title>
@@ -1022,7 +1071,23 @@ Tras la muerte de su abuelo, el estudiante de instituto Sayama Mikoto es convoca
 <content type="text">Kishimine Kengo se mudó a una preparatoria que solía ser una escuela de chicas hasta hace varios años. A pesar del típico ambiente harem donde se encontraba rodeado sólo por chicas, no era bueno socializando y su único pasatiempo era sumergirse en la lectura. Vivía una vida tranquila.
 
 Pero decidió participar en actividades de club que no había hecho hasta ahora, y así su vida de preparatoria cambió y se convirtió en algo tormentoso y lleno de drama. Se unió al club donde se jugaban videojuegos modernos – en pocas palabras, el club de juegos. Kishimine fue admitido por la hermosa líder del consejo estudiantil y por un profesor pervertido, y demostró un talento inesperado. Ahora el telón se ha levantado en la excitante vida videojugabilística de un chico ordinario.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-game-war-between-me-and-her-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1CoJdrX8JSwZ7R9_x5S9pHg" type="application/epub+zip" title="Descargar" />
+</entry>
+<entry>
+<title>The Incredible Tide Novela en Español</title>
+<id>https://nextnovels.com/descargar-the-incredible-tide-novela-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-incredible-tide-novela-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/The-Incredible-Tide-Portada.jpg" />
+<author><name>Alexander Key</name></author>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<content type="text">Depende únicamente de nosotros si esto es un reflejo o una profecía.
+
+Un náufrago en una isla rocosa es capturado por una banda de hombres malvados.
+
+Nació como Conan de Orme, pero Orme ya no existe. Cuando una guerra nuclear hace que los océanos se traguen al mundo occidental, Conan escapa por casualidad y termina en una isla desolada y llena de riscos. Después de años de privilegios, la vida en la isla es un cambio difícil, pero se hace fuerte: aprende a pescar, a hacer fuego y a hacerse amigo de las aves. En las noches sin luna, grita hacia la oscuridad, atormentado por una soledad que no puede superar. Un día, aparece un barco en el horizonte y Conan cree que se ha salvado. Pero para este joven sobreviviente, los problemas apenas comienzan.
+
+El barco pertenece a la Nueva Orden, gobernantes crueles que están reconstruyendo la Tierra a la fuerza. Envían a su nuevo esclavo a la despiadada ciudad de Industria, con la intención de quebrantar su espíritu. Pero Conan encuentra poder en la isla y, con él, reconstruirá el mundo.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1n3gIrweerNZ_lN3o-m2m7g" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>The Villager of Level 999 Novela Ligera en Español</title>
@@ -1043,7 +1108,7 @@ Pero decidió participar en actividades de club que no había hecho hasta ahora,
 <content type="text">Mundo de fantasía: Earth Clear
 
 En este mundo, cada persona nace con un rol que define su forma de vida: miembro de la realeza, héroe, sabio, guerrero, luchador, monje, mago… y el rol más débil de todos, que existe únicamente para enriquecer y desarrollar el mundo: el aldeano. Carentes de destreza en el combate, los aldeanos son meras existencias que deben ser protegidas en un mundo invadido por monstruos. Sin embargo, un día, un aldeano común con un nivel promedio de 10 alcanza la inimaginable cima del Nivel 999. Tras haber alcanzado el límite definitivo y no encontrar ningún valor más allá de acumular riqueza, el aldeano llamado Koji se encuentra con Alice, una chica demonio considerada enemiga de la humanidad. Este encuentro fatídico despierta un nuevo sentido de propósito en Koji, lo que lo lleva por un camino peligroso para desafiar el destino del mundo. ¡Así comienza la épica saga del viaje heroico del aldeano más débil!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-villager-of-level-999-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1-qv2BqH2Sm5siwEUAuLU8w" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>The World Bows Down Before My Flames Novela Ligera en Español</title>
@@ -1060,7 +1125,7 @@ En este mundo, cada persona nace con un rol que define su forma de vida: miembro
 <category term="Psicológico" label="Psicológico"/>
 <category term="Supernatural" label="Supernatural"/>
 <content type="text">Homura se muere por prenderle fuego a algo... a lo que sea. ¡Y puede que por fin tenga su oportunidad cuando es invocada a otro mundo tan desesperado como para pedirle ayuda a ella! Junto a un grupo de chicas de preparatoria igual de excéntricas que cuentan con sus propios poderes, Homura se pone en marcha para incinerar a los maleantes y frenar el caos provocado por la resurrección del Rey Demonio. ¿Qué pasará cuando inevitablemente se le vaya un poco la mano? ¿Terminarán sus llamas de justicia quemando el mundo entero?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-world-bows-down-before-my-flames-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F10F0S7Fl6JAyW6SfsigiWBg" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>The Yaebuki Agency Novela Ligera en Español</title>
@@ -1075,7 +1140,7 @@ En este mundo, cada persona nace con un rol que define su forma de vida: miembro
 <content type="text">Comienza la conmovedora y desgarradora historia de amor entre un chico y una chica, del autor de "86".
 
 El gran ritual para salvar al mundo de su destino de destrucción: la conquista de la Torre de Diez Millones de jō. El grupo de trabajo especial de la Familia Real, Yaeyamabuki, conocido comúnmente como la agencia Yaebuki, se enfrenta al desafío de conquistar esta colosal torre, tejida con magia espiritual y engranajes que se manifiestan cada noche. Los hechiceros gemelos, Akane y Aohi, se unen a Matsurika, un guardia de élite de la Capital Imperial, para prevenir un ataque terrorista de una secta. Se oponen a ellos un malvado dragón y sus seguidores, que obstaculizan la conquista de la Torre de Diez Millones de jō; los súbditos que resienten la sociedad controlada; y la Princesa de la Destrucción, quien mueve los hilos de la destrucción. El vínculo entre chicos y chicas que florece en medio de una batalla brutal acaba convirtiéndose en una espada que los hiere: «En un mundo que se desvanece, las flores que resisten y se marchitan son las más bellas». ¡Disfruta de esta nueva historia de Asato, autor de relatos de batallas y juventud, que fusiona el periodo Heian con el espiritualismo y el cyberpunk!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-yaebuki-agency-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1DfG5b1yCUXeAvgqdQxfnMw" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Toaru Majutsu no Index: Genesis Testament Novela Ligera en Español</title>
@@ -1100,7 +1165,7 @@ Es Nochebuena.
 En medio de la ciudad mostrando un alegre ajetreo, un chico corriente que no puede seguir el ritmo de la escuela, Kamijou Touma, tampoco tiene intención de perderse este evento! Estaba trabajando duro en sus lecciones suplementarias...
 
 Una mirada hacia atrás del bastardo propenso a las desgracias, la hermana de pelo plateado que se pasea por su dormitorio, Index, en la escena del latido del corazón diferente de lo habitual, activa una nueva habilidad de glotón!? Mientras Kamijou intenta desesperadamente detenerlo, Misaka Mikoto, absorto en la atmósfera de la Nochebuena, aparece ante él.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-toaru-majutsu-no-index-genesis-testament-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Dl36_94FPI0uIQi1983-zw" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Trinity Blood CANON Novela Ligera en Español</title>
@@ -1116,7 +1181,7 @@ Una mirada hacia atrás del bastardo propenso a las desgracias, la hermana de pe
 <category term="Shounen" label="Shounen"/>
 <category term="Supernatural" label="Supernatural"/>
 <content type="text">Se incluyen todos los relatos cortos hasta ahora no recopilados, como "Gunmetal Hound". Además, a partir de las notas de ideas y materiales de diseño que dejó el autor, ¡se explica el 〈principio〉 y el 〈 final 〉 de "Trinity Blood" que nunca llegaron a escribirse! También se publica la versión más reciente del glosario "Gran Compendio Eclesiástico".</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-trinity-blood-canon-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1saxGtdFc8yEZ3ssW6kYMZw" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Valkyrie Bullet Novela Ligera en Español</title>
@@ -1146,35 +1211,7 @@ Ningún experimento ha tenido éxito,
 Presentado por el exitoso creador Yomu Mishima
 
 ¡¡Una heroica historia de Ciencia Ficcion comienza!!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-valkyrie-bullet-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
-</entry>
-<entry>
-<title>“Leave This to Me and Go on Ahead!” Unwanted Galactic Uprising by The Man Who Secretly Longed to Die Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-leave-this-to-me-and-go-on-ahead-unwanted-galactic-uprising-by-the-man-who-secretly-longed-to-die-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-leave-this-to-me-and-go-on-ahead-unwanted-galactic-uprising-by-the-man-who-secretly-longed-to-die-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/04/Leave-This-to-Me-and-Go-on-Ahead-Unwanted-Galactic-Uprising-by-The-Man-Who-Secretly-Longed-to-Die-Portada.jpeg" />
-<author><name>のらしろ</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Shounen" label="Shounen"/>
-<content type="text">«¡Como era de esperar de nuestro capitán, una carga decisiva magistral!».
-
-¡La muerte ideal!…
-
-O al menos eso era lo que se suponía, pero gracias a sus subordinados (?), ¡un ascenso meteórico inesperado! Un oficial genio con deseos de morir agita una ópera espacial de pobreza a riqueza, ¡comienza!
-
-El chuunibyou y el hecho de que su novia le fuera infiel hicieron que el tardío alférez Nao aspirara con fuerza a esa situación de «proteger a sus compañeros y morir heroicamente». Sin embargo, contrariamente a lo esperado, en la Guardia de la Región Capital [Guardia Costera], donde fue destinado, se vuelve muy activo gracias a su mente aguda y a los problemáticos miembros de la unidad (?).
-
-En una desesperada situación de combate cuerpo a cuerpo en la que se suponía que debía morir como un [héroe], ¡sus subordinados aniquilan al enemigo en un abrir y cerrar de ojos!
-
-Cuando se encuentra con piratas espaciales, planea quedarse atrás en la nave para realizar una carga suicida, ¡pero consiguen capturar la nave enemiga debido a un fallo en el motor!
-
-Aunque le preocupan la demoníaca y poco femenina oficial ejecutiva y la combinación de un maníaco de los mechas y una sargento mayor musculosa, un mes después de asumir el cargo, obtiene un ascenso y, de forma excepcional, se convierte en capitán en funciones. Además, parece que se ha ganado el favor de la princesa (?).
-
-¡Comienza una ópera espacial de pobreza a riqueza protagonizada por un oficial genio con deseos de morir!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-leave-this-to-me-and-go-on-ahead-unwanted-galactic-uprising-by-the-man-who-secretly-longed-to-die-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F18ynCp33PIwiAP4FWH0OGVw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1MajAGDMBYWjHqejza4NkdA" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

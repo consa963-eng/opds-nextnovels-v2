@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:7e6c7ddd19</id>
 <title>波瀾 紡</title>
-<updated>2026-10-20T16:38:00.757017+00:00</updated>
+<updated>2026-10-20T17:08:06.227450+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-7e6c7ddd19.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>I Became a Villain in a Fantasy World Novela Ligera en Español</title>
@@ -18,6 +18,6 @@
 <content type="text">Haruto Tokito es un estudiante de secundaria común que termina atrapado dentro de su videojuego de fantasía favorito, pero con un gran problema: ¡ha reencarnado en el personaje del villano! Dispuesto a evitar su trágico destino, Haruto usa su conocimiento del juego para ayudar y salvar a las heroínas, ganándose su amor por completo.
 
 El verdadero caos empieza cuando regresa al mundo real y descubre que los niveles de afecto que acumuló con las chicas dentro del juego... ¡se han transferido por completo a las chicas de su escuela! Ahora, Haruto tendrá que lidiar con un dulce e inesperado doble harén, tanto en la fantasía como en la realidad.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-i-became-a-villain-in-a-fantasy-world-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Awm5y2zAi0n5r8W6tkl64g" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

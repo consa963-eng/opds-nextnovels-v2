@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:3eeec43fb2</id>
 <title>Kei Amagi</title>
-<updated>2026-10-20T16:38:00.717738+00:00</updated>
+<updated>2026-10-20T17:08:06.165757+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-3eeec43fb2.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Assassins Pride Novela Ligera en Español</title>
@@ -18,6 +18,7 @@
 <category term="Seinen" label="Seinen"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">En el mundo donde solo los aristócratas tienen el poder de luchar contra el «monstruo», mana. Un joven llamado Kufa es enviado como tutor para encontrar el talento de Mareida, una niña molesta nacida en la familia de un duque. Si ella no tiene el talento necesario, deberá asesinarla. Ese, es el lado oscuro de su misión…</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-assassins-pride-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1dD1I0QK8NVlH_oxTeBr20w" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F12yZFr--ETbYyyn2hKf8TWg" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

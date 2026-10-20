@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:b85740a2a5</id>
 <title>Hoshizora Meteo</title>
-<updated>2026-10-20T16:38:00.711222+00:00</updated>
+<updated>2026-10-20T17:08:06.155392+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-b85740a2a5.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Fate/Requiem Novela Ligera en Español</title>
@@ -15,6 +15,10 @@
 <category term="Magia" label="Magia"/>
 <category term="Supernatural" label="Supernatural"/>
 <content type="text">Una vez, hubo una gran guerra. La guerra terminó, y el mundo se volvió pacífico. Ahora, cualquiera tiene un "Santo Grial" y convoca a un sirviente atado a su destino. Sólo hay una chica, Utsumi Erice, que no tiene uno. Esta chica se encuentra con el último Siervo convocado en el mundo, un chico. Pero no tiene ni idea de cuál será su destino.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fate-requiem-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1_r-VZ_McoNcE1oaRzJf_Jw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/fate-zero-novela-ligera-en-espanol/" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fate-strange-fake-novela-ligera-en-espanol/" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fate-apocrypha-novela-ligera-en-espanol/" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fate-prototype-novela-ligera-en-espanol/" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

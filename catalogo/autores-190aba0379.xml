@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:190aba0379</id>
+<title>Masterless Sword</title>
+<updated>2026-10-20T17:08:06.176929+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-190aba0379.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>Kingdom’s Bloodline Novela Web en Español</title>
+<id>https://nextnovels.com/descargar-kingdoms-bloodline-novela-web-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-kingdoms-bloodline-novela-web-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/09/Kingdoms-Bloodline-Portada.jpeg" />
+<author><name>Masterless Sword</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Maduro" label="Maduro"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<content type="text">Un humilde niño mendigo, un noble príncipe, un monstruo considerado el enemigo de todo el mundo. Si tuvieras las tres identidades al mismo tiempo, ¿cuál elegirías para ayudarte a conseguir un final mejor?
+
+Thales no tenía la respuesta.
+
+Solo sabía que había llegado a un mundo diferente y magnífico, y que tenía que enfrentarse a un futuro tan difícil de manejar como una pesadilla.
+
+El glorioso Imperio llevaba mil años destruido, la moribunda familia real sufría muchos problemas, la legendaria batalla sagrada estaba llena de conspiraciones y el mundo dividido se encontraba sumido en el caos.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1qSpkQa9pWEGGGRqTEf0aJw" type="application/epub+zip" title="Descargar" />
+</entry>
+</feed>

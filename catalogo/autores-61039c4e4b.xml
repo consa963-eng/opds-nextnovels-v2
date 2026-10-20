@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:61039c4e4b</id>
 <title>Nanashimaru</title>
-<updated>2026-10-20T16:38:00.730854+00:00</updated>
+<updated>2026-10-20T17:08:06.186078+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-61039c4e4b.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>I Was Reborn into a Gacha Game, and I’ll Keep Supporting the ★1 Heroine Novela Ligera en Español</title>
@@ -29,6 +29,6 @@ Así empieza una vida donde solo yo conozco y disfruto de sus encantos ocultos.
 "¿De verdad estás dispuesto a apoyar... a alguien como yo?"
 
 ¡Una comedia romántica juvenil donde el vínculo con una heroína de 1 ★, cuya verdadera ternura solo yo he descubierto, se va profundizando poco a poco!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-i-was-reborn-into-a-gacha-game-and-ill-keep-supporting-the-%e2%98%851-heroine-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1-x88jr3Z9vKWb8Ee54_yHg" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

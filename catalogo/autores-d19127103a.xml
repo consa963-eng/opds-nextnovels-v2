@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:d19127103a</id>
 <title>Moyu Shigure</title>
-<updated>2026-10-20T16:38:00.729184+00:00</updated>
+<updated>2026-10-20T17:08:06.183500+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-d19127103a.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>I Was Reincarnated as the Villain of an Eroge Game but I decided to Become a Mob Novela Ligera en Español</title>
@@ -31,6 +31,6 @@ Mientras tanto, el protagonista original también empieza a mostrar señales inq
 ¡Ya no puedo seguir siendo solo un Mob!
 
 ¡Esta es una comedia romántica de reencarnación en un juego eroge con harem!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-i-was-reincarnated-as-the-villain-of-an-eroge-game-but-i-decided-to-become-a-mob-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1EgGnsiKSDZmEFZoTGS611A" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

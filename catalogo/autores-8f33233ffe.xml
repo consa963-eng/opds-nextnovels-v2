@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:8f33233ffe</id>
 <title>Kyoichiro Tarumi</title>
-<updated>2026-10-20T16:38:00.723324+00:00</updated>
+<updated>2026-10-20T17:08:06.173832+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-8f33233ffe.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>History of the Kingdom of Orcsen Novela Ligera en Español</title>
@@ -23,6 +23,7 @@ En un mundo donde conviven las armas de fuego y la hechicería, dos grandes pote
 Pero bajo la serena fachada de Elfland se esconde una cruda realidad. Los elfos oscuros, que alguna vez formaron parte de la patria élfica, están siendo sistemáticamente exterminados. Huyendo para salvar su vida y al borde de la muerte, la líder del clan de los elfos oscuros, Dinerúth, es rescatada nada menos que por Gustav, rey de Orcsen.
 
 Su fatídico encuentro desencadena una cadena de acontecimientos que sacudirá los cimientos de ambas naciones y reescribirá la historia misma de su mundo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-history-of-the-kingdom-of-orcsen-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1XkpQ9s3YPOjTWCa4wJ1I_g" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F10ZPnEkUdzAnkwo0_lfW1mA" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:generos:e0731d4ee5</id>
 <title>Shoujo Ai</title>
-<updated>2026-10-20T16:38:00.825346+00:00</updated>
+<updated>2026-10-20T17:08:06.293611+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-e0731d4ee5.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Aren’t you Embarrassed to Lose to a Maid? Novela Ligera en Español</title>
@@ -29,7 +29,7 @@ Un deseo de sumision que nadie podria esperar en su comportamiento diario, puro 
 Lotte, mientras se repite a si misma sin cesar que solo es parte de su trabajo como sirienta, acepta obedecer esas perversas ordenes, pero desde el primer dia queella se lo popuso, el corazon de Lotte no paro de latir de la emocion.
 
 A medida que aumentan sus enchutaros secretos y los momentos que la intachable caballero le arrebata durante el trabajo para ser, atentendida, ambas caen en una atraccion mutua y autodependiente.... Una historia de amor y sumision entre una sirvienta y una princesa caballero que no puede contenerse de dar ordenes atrevidas.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-arent-you-embarrassed-to-lose-to-a-maid-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1jvNgjmR-uOQbJxkj48QILg" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Cosmic Princess Kaguya! Novela Ligera en Español</title>
@@ -51,7 +51,28 @@ Iroha frecuenta Tsukuyomi, donde las personas pueden vivir vidas diferentes y de
 La Kaguya adulta desarrolla una personalidad indulgente. A petición ferviente de Kaguya, Iroha la ayuda a comenzar a transmitir en Tsukuyomi. Con Iroha como productora y compositora, y Kaguya como streamer y cantante, su amistad se fortalece cada vez más. Lo que no saben es que fuerzas siniestras acechan, ansiosas por llevarse a Kaguya de vuelta a la luna.
 
 Esta es la historia de la princesa Kaguya como nunca antes se había visto.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-cosmic-princess-kaguya-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1RIWva-Ugemb3MjJ2qkispg" type="application/epub+zip" title="Descargar" />
+</entry>
+<entry>
+<title>I’m in Love with the Villainess Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-im-in-love-with-the-villainess-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-im-in-love-with-the-villainess-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/07/I-Favor-the-Villainess-Portada.jpg" />
+<author><name>Inori</name></author>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Romance" label="Romance"/>
+<category term="Shoujo Ai" label="Shoujo Ai"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">— Aunque sea la heroína de este juego Otome... ¿De verdad es malo que me guste la villana? ¿Qué consecuencias me traerá?
+
+Oohashi Rei, una oficinista y esclava del trabajo, de repente se reencarnó en un nuevo mundo y despertó en el cuerpo de la protagonista de su juego Otome favorito: Revolution. Para su suerte, con la primera persona que se encuentra al despertarse es Claire François, ¡La villana de esta historia! y que también, es uno de los personajes favoritos de Rei.
+
+Sin pensarlo demasiado, Rei decide enamorar a Claire en lugar de a los demás protagonistas masculinos que existen dentro del juego... Pero, ¿Cómo reaccionará la villana? ¿Tendrá una reacción positiva a las pretensiones de Rei? ¿O solo le esperará un destino de rechazos?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F100W_9MyRyQbKEYMQsyhQHQ" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Majo no Tabitabi: School Story Novela Ligera en Español</title>
@@ -85,7 +106,8 @@ Van juntos al instituto llevándose bien, sufren cambios radicales de personalid
 «¡Vamos a practicar duro para el gran día!»
 
 ¡La parodia escolar de «El viaje de la bruja» se convierte por fin en una serie!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-majo-no-tabitabi-school-story-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1yCklnNUKRYTIkj47fVilJw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/majo-no-tabitabi-novela-ligera-en-espanol/" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Maryoku Cheat na Majo ni Narimashita Novela Ligera en Español</title>
@@ -101,7 +123,7 @@ Van juntos al instituto llevándose bien, sufren cambios radicales de personalid
 <category term="Shoujo Ai" label="Shoujo Ai"/>
 <category term="Supernatural" label="Supernatural"/>
 <content type="text">Parece que me he reencarnado en un mundo de juego lleno de monstruos y mazmorras. Pero no te preocupes, no hay nada que no pueda manejar. Elegí Magia de Creación como habilidad única, y me permite crear cualquier objeto que quiera... siempre que tenga suficiente maná. Ah, siempre hay una trampa, ¿no? Pero donde hay una regla, hay una laguna, y esta brujita conoce el truco para ampliar su reserva de maná un poco más cada día. (Literalmente. Los golems existen en este mundo.) Después, seguiré algunas pistas. (Y cuanto antes, mejor. La diosa me dejó en medio de los páramos). Y finalmente, un día, me haré un lugar al que pueda pertenecer de verdad. (Ese es el plan, al menos.) ¡Hora de hacer algo de magia!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-maryoku-cheat-na-majo-ni-narimashita-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1gYIwTuNDsTBvyi7oAqE83Q" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Otherside Picnic Novela Ligera en Español</title>
@@ -117,7 +139,9 @@ Van juntos al instituto llevándose bien, sufren cambios radicales de personalid
 <category term="Shoujo Ai" label="Shoujo Ai"/>
 <category term="Supernatural" label="Supernatural"/>
 <content type="text">La primera vez que se encontró con Toriko Nishina fue en el Otro Lado, después de ver "esa cosa" y casi morir. A partir de ese día, la vida de Sorawo Kamikoshi, una universitaria agobiada, cambió. En este Otro Mundo, lleno de misterio, que coexiste con el nuestro, aparecen seres peligrosos como los Kunekune y Hasshaku-sama de los que se habla en las historias de fantasmas reales. Por motivos de investigación, de lucro y en busca de una persona importante, Toriko y Sorawo entran en lo desconocido.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-otherside-picnic-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1yUx22gwYL7UFb3Vq4eeRzA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1JZ4TtyOVJAcmWPt4P7Sn0Q" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Fhu16Ym_F8T1haVJWk-nqQ" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Please Stop Fighting Over Me! Novela Ligera en Español</title>
@@ -140,7 +164,7 @@ Yo, Kurimoto Tsubame, que me mudé desde el campo a la ciudad, ahora estoy, por 
 —¿Por qué terminó así?...
 
 Solo quería que Seira-chan y Orine-san, que son como el perro y el mono, se reconciliaran...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-please-stop-fighting-over-me-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1XYik-Bv9lQmop2Tkv0x8hw" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Puella Magi Madoka Magica Novela Ligera en Español</title>
@@ -161,7 +185,7 @@ Solo quería que Seira-chan y Orine-san, que son como el perro y el mono, se rec
 Kyuubey les hace una propuesta: concederles cualquier deseo que tengan. A cambio, cada una de ellas se convertirá en una chica mágica, obteniendo el poder suficiente para hacer realidad sus sueños. Sin embargo, Homura Akemi, que ya es una chica mágica, les insta a no aceptar la oferta, afirmando que no todo es lo que parece.
 
 Una historia de esperanza, desesperación y amistad, esta novelización del exitoso anime Puella Magi Madoka Magica aborda las dificultades de ser una chica mágica y el precio de hacer realidad un sueño.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-puella-magi-madoka-magica-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F12vQ1YZdLxjxOugqqoiNDoA" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Qualia the Purple Novela en Español</title>
@@ -176,7 +200,7 @@ Una historia de esperanza, desesperación y amistad, esta novelización del exit
 <category term="Shoujo Ai" label="Shoujo Ai"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Marii Yukari, una estudiante de secundaria, ve a todos los seres humanos, excepto a sí misma, como robots a través de sus vívidos ojos morados. Sin embargo, a pesar de tener una perspectiva tan extraña del mundo, sus compañeros de clase la tratan como a una chica sencilla y peculiar, incluido Manabu «Gaku» Hatou, su único amigo. Pero empiezan a ocurrir cosas extrañas a su alrededor y, cuando la reclutan para una organización clandestina debido a sus talentos únicos, Manabu se ve envuelta en un mundo de peligrosos experimentos y física cuántica diferente a todo lo que jamás hubiera podido imaginar. ¿Será suficiente su amistad con Marii para salvarlas a ambas de lo que les espera en los bajos fondos científicos del mundo?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-qualia-the-purple-novela-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1HRB2MVZMoLqFgNDJd2juDA" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>ROLL OVER AND DIE Novela Ligera en Español</title>
@@ -201,7 +225,8 @@ Además de que poseía solo una habilidad, "Reversión", y ni siquiera sabía co
 El Sabio del grupo, Jean Inteige, también estaba convencido de que ella no tenía el derecho de formar parte de los Héroes, y tenía la perfecta idea para deshacerse de ella.
 
 Al borde de la desesperación, cuando por fin las maldiciones "se reviertan" ¿Qué le esperará a Flum? ¿Y qué tipo de vida estará destinada a tener?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-roll-over-and-die-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1cFcvL8ljDAzxkM5s6u2kbA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1RGfZV69kyCOL1qV_F8XBkg" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>The Abandoned Elf Is The Strongest And Cutest In The World! Novela Ligera en Español</title>
@@ -222,7 +247,7 @@ Así, elige reencarnar como la raza más fuerte, una alta elfa. Además, recibe 
 Pero a cambio, los eventos que le esperan son tan difíciles que rayan en lo imposible. Aun así, Ayano supera todas las misiones y disfruta su aventura en el mundo paralelo junto a Homura.
 
 Porque Ayano es la más fuerte y la más linda del mundo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-abandoned-elf-is-the-strongest-and-cutest-in-the-world-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1uI9fsjZh_gCSQjOG59vuOg" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>The Princess of Our Class is My Puppy Novela Ligera en Español</title>
@@ -248,7 +273,7 @@ En ese momento, estaba a punto de ponerle un collar.
 (…De acuerdo. Lo pongo ahora.)
 
 Le acaricié suavemente el cabello, apartando sus mechones dorados para que cayeran sobre su hombro. Luego, le coloqué el collar rosa claro alrededor de su pálido cuello.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-princess-of-our-class-is-my-puppy-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1W1pQhuOja0zWZM2y5Lp7xg" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>VTuber Legend Novela Ligera en Español</title>
@@ -265,7 +290,8 @@ Le acaricié suavemente el cabello, apartando sus mechones dorados para que caye
 Sin embargo, parece que le falta originalidad, y está muy por detrás de sus mayores y compañeros en popularidad.
 
 Pero un día, sin querer, se olvida de apagar el stream y su verdadero carácter se revela al mundo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-vtuber-legend-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Omu4Y9nNIg-eLn9PO0ZvYg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1K60IvRYRU1qc0EJughJPgQ" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>We Who Hate Each Other After a One-Night Novela Ligera en Español</title>
@@ -289,6 +315,7 @@ Shinomiya, estudiante de tercer año del club universitario, y Hatano, estudiant
 Hatano, aspirante a novelista y creadora, aunque en un campo diferente, empatiza con la "soledad" y la "carencia" de Shinomiya, y ya no puede dejarla sola...
 
 Esta es la historia de cómo las dos, a través de sus torpes interacciones, se sienten atraídas la una por la otra y recorren la vida juntas.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-we-who-hate-each-other-after-a-one-night-mistake-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1QdQbBZtReUJTmCFaHCQA8w" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1CSPhVKjbGZBsoXZHhMhWxA" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

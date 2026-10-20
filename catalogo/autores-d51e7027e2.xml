@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:d51e7027e2</id>
 <title>Ougon no Kuroyagi</title>
-<updated>2026-10-20T16:38:00.735024+00:00</updated>
+<updated>2026-10-20T17:08:06.191735+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-d51e7027e2.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Adventure of a Rune Master Novela Ligera en Español</title>
@@ -29,6 +29,6 @@ Akimitsu Tsukasa fue invocado a otro mundo junto con sus compañeros de clase, p
 Tsukasa terminó en Aiguille, hogar de la raza de los "demonios" con cuernos, y dependió únicamente de la gracia (don) que recibió al invocar —una forma anticuada de magia llamada "injutsu"— para vivir como un "mercenario libre", enfrentándose constantemente a la muerte.
 
 Un día, su amiga de la infancia, Matsuzaka Mihono, lo visita repentinamente y le pide que "salve a su hermana menor, Shihono". ¿Qué condición le pondrá a Mihono?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-adventure-of-a-rune-master-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1BgHD-lrVAdAx882jAtzU4g" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

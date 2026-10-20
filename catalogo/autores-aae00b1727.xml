@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:aae00b1727</id>
 <title>Addict</title>
-<updated>2026-10-20T16:38:00.697214+00:00</updated>
+<updated>2026-10-20T17:08:06.130678+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-aae00b1727.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Heroines of a Gal Game who Avoided the End of Death read my [Diary] and Found out My Secret Novela Ligera en Español</title>
@@ -28,6 +28,7 @@ Para que tanto las heroínas como yo pudiéramos sobrevivir, no había más opci
 Luché con todas mis fuerzas tras bambalinas para apoyar al protagonista y asegurar un final en harem a toda costa, pero repetí una y otra vez las elecciones equivocadas… y llegué al peor final malo posible, donde nadie se queda con nadie.
 
 En medio de esa situación desesperada, tomé la decisión de sacr1fic4rme yo solo. Empujé a Satsuki, quien estaba a punto de ser atrop3llad4 por un auto, y entonces…</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-heroines-of-a-gal-game-who-avoided-the-end-of-death-read-my-diary-and-found-out-my-secret-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F11IyqNN9296Ioh8YYMH03Ug" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1NKnmdzcrusLQuJTp4juTvw" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

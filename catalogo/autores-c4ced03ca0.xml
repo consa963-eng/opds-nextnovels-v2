@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:c4ced03ca0</id>
 <title>Kyouhei Iwai</title>
-<updated>2026-10-20T16:38:00.723419+00:00</updated>
+<updated>2026-10-20T17:08:06.174001+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-c4ced03ca0.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Mushi-Uta Bug Novela Ligera en Español</title>
@@ -21,7 +21,7 @@
 Grabada eternamente por la brillante lanza plateada,
 
 ¡Esta es la mejor y la peor chica que conoce a otra chica!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-mushi-uta-bug-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1ywsYK8DQsh99sW3AUn4KqA" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Mushi-Uta Novela Ligera en Español</title>
@@ -42,6 +42,6 @@ Sin embargo, Shiika era una MushiTsuki que había escapado de las instalaciones 
 Las personas que albergan sueños y deseos dolorosos pero fuertes están a punto de disfrutar de la llegada de la Navidad. Este es el encuentro de un chico y su encuentro con una chica.
 
 La historia más hermosa y desastrosa de este encuentro fatídico.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-mushi-uta-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1tSXhbyEct_XY4G0YE6Gy5Q" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

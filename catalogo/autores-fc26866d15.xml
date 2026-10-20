@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:fc26866d15</id>
+<title>ZIO</title>
+<updated>2026-10-20T17:08:06.226051+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-fc26866d15.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>The Returned Demon Queen is an S-Class Hunter Novela Web en Español</title>
+<id>https://nextnovels.com/descargar-the-returned-demon-queen-is-an-s-class-hunter-novela-web-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-returned-demon-queen-is-an-s-class-hunter-novela-web-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/The-Returned-Demon-Queen-is-an-S-Class-Hunter-Portada.jpg" />
+<author><name>ZIO</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">----La única razón por la que... sostuve una espada fue solo una. No fue por la humanidad.
+
+Yi Geum se convirtió en una cazadora únicamente por su hermana menor, Yi Eun.
+
+Sin embargo, el mundo llamó a Yi Eun una villana y la llevó a su muerte.
+
+Si es así, ¿un mundo como ese tiene algún valor?
+
+Convirtiéndose en la Reina Demonio, Yi Geum lleva a la ruina al mundo que le arrebató a Yi Eun.
+
+▬ι══════ﺤ
+
+Yi Geum sintió instintivamente que todo finalmente había terminado.
+
+Pero cuando abrió los ojos de nuevo, la visión que se desplegó ante ella estaba llena de luz deslumbrante y hermosos colores.
+
+Y una voz mecánica y rígida le susurró al oído.
+
+【Has regresado.】
+
+▬ι══════ﺤ
+
+Ahora, el objetivo de Yi Geum ha cambiado.
+
+Pase lo que pase, protegerá a su hermana a toda costa.
+
+Incluso si eso significa provocar la destrucción del mundo una vez más.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1sp1E5wVAZUmn3CTQ3S-pZg" type="application/epub+zip" title="Descargar" />
+</entry>
+</feed>

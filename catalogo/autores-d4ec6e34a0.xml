@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:d4ec6e34a0</id>
 <title>Shuu</title>
-<updated>2026-10-20T16:38:00.743929+00:00</updated>
+<updated>2026-10-20T17:08:06.205860+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-d4ec6e34a0.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Maou Gakuin No Futekigousha Novela Ligera en Español</title>
@@ -25,6 +25,7 @@ Teniendo la capacidad de destruir humanos, elementales y dioses, después de un 
 Sin embargo, lo que le esperaba después de su reencarnación es un mundo demasiado acostumbrado a la paz que sus descendientes se debilitaron demasiado debido a un enorme debilitamiento de los poderes mágicos.
 
 Arnos se matriculó en la Academia Maou, establecida para encontrar cualquier estudiante que pudiera ser la reencarnación del señor de los demonios, pero sus poderes son demasiado extraordinarios como para que los de la academia no pudieran juzgar adecuadamente sus poderes, por lo que se le considera un "estudiante inepto". Al ser subestimado y evitado por la mayoría de la gente de allí, reclutó a una chica amiga suya, Misha, como su subordinada y camarada, y se esfuerza por escalar a la cima de la jerarquía de la raza demoníaca para reclamar un día su antiguo título y estatus.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-misfit-of-demon-king-academy-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Cig6NV9UaljPkKBN58cz2Q" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F12CDJ5m0O3OtrkolPtcHE5w" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

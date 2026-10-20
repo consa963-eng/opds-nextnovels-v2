@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:e07f38e33b</id>
 <title>Nanato Nana</title>
-<updated>2026-10-20T16:38:00.730956+00:00</updated>
+<updated>2026-10-20T17:08:06.186245+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-e07f38e33b.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>VTuber Legend Novela Ligera en Español</title>
@@ -19,6 +19,7 @@
 Sin embargo, parece que le falta originalidad, y está muy por detrás de sus mayores y compañeros en popularidad.
 
 Pero un día, sin querer, se olvida de apagar el stream y su verdadero carácter se revela al mundo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-vtuber-legend-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Omu4Y9nNIg-eLn9PO0ZvYg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1K60IvRYRU1qc0EJughJPgQ" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

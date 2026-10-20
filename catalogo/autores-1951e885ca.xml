@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:1951e885ca</id>
 <title>Isle Osaki</title>
-<updated>2026-10-20T16:38:00.712744+00:00</updated>
+<updated>2026-10-20T17:08:06.157965+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1951e885ca.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Zero Damage Sword Saint Novela Ligera en Español</title>
@@ -16,6 +16,6 @@
 <category term="Harem" label="Harem"/>
 <category term="Romance" label="Romance"/>
 <content type="text">Eugene Santafield es un joven que sueña con convertirse en espadachín mágico. Solo hay un problema: ¡no puede usar magia de ataque! En cambio, está bendecido con una magia defensiva y curativa extremadamente poderosa, una ironía que le vale el ridículo de sus compañeros. Decidido a escapar de quienes conocen sus fallos, Eugene huye a la Academia de Magia Lykeion, donde conoce a Erinyes, una Reina Demonio caída encarcelada bajo la escuela. Cautivada por su potencial, Erinyes nombra a Eugene su cuidador. Poco después, el director de la academia asigna a Eugene como guardián de Sumire, una misteriosa chica de otro mundo que, casualmente, es una Ifrit legendaria. Con estas dos mujeres a su lado, el mayor fracaso de la historia seguro que se convertirá en un espadachín legendario.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-zero-damage-sword-saint-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F117pKM5WhwtYMsD03aovu8w" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

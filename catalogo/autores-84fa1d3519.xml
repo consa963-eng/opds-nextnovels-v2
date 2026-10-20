@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:84fa1d3519</id>
 <title>Kurisu</title>
-<updated>2026-10-20T16:38:00.722735+00:00</updated>
+<updated>2026-10-20T17:08:06.172959+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-84fa1d3519.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Aibeya Novela Ligera en Español</title>
@@ -21,6 +21,6 @@ Aunque un poco desconcertado, abrió la puerta del vestidor para darse un baño 
 Y esa noche, Aki le propuso que salieran juntos como novios de prueba…
 
 【¡Esta es una edición especial que incluye, como relato corto de regalo, una escena que se eliminó de la versión en libro de bolsillo por motivos de extensión!】</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-aibeya-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1RSfdWPfKnv__ePt4pV5tqQ" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

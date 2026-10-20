@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:b867285a72</id>
 <title>高野ケイ</title>
-<updated>2026-10-20T16:38:00.757599+00:00</updated>
+<updated>2026-10-20T17:08:06.228440+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-b867285a72.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>There’s a Demon Lord Hiding in My Temptation-Filled Harem Party Novela Ligera en Español</title>
@@ -23,6 +23,6 @@
 Kamiya, un héroe reencarnado en otro mundo, tiene la misión de viajar hacia el castillo del Rey Demonio junto a un grupo de hermosas chicas. Sin embargo, hay un problema enorme: sus compañeras intentan seducirlo todas las noches.
 
 Ya sea la valiente caballera, la compasiva santa o la maga tsundere, todas están desesperadas por conquistarlo. Aun así, él se niega a ceder ante ninguna. ¿Por qué? Porque el Héroe se ha dado cuenta de la verdad: uno de los miembros de su grupo es en realidad el "Rey Demonio" disfrazado...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-theres-a-demon-lord-hiding-in-my-temptation-filled-harem-party-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Auq06_9Y-wq4dGhnLZss7A" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

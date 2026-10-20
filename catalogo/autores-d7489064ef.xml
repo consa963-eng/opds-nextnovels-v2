@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:d7489064ef</id>
 <title>Kanekiru Kogitsune</title>
-<updated>2026-10-20T16:38:00.715634+00:00</updated>
+<updated>2026-10-20T17:08:06.162507+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-d7489064ef.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Re:Monster Novela Ligera en Español</title>
@@ -21,6 +21,6 @@
 <content type="text">‎Apuñalado por un acosador y dado por muerto, Gobrou despertó para descubrir que había renacido como la más débil de las criaturas: un simple goblin. Pero gracias a la misteriosa Habilidad de Absorción, un poder que le permite volverse más fuerte al consumir lo que derrota, evolucionó rápidamente más allá de toda lógica. En poco tiempo, se abrió camino hasta la cima de la comunidad goblin.
 
 ‎Ahora, en un brutal mundo alterno donde reina la fuerza y los débiles son devorados, Gobrou inicia una salvaje lucha por la supremacía. Con subordinados capaces y aliados leales a su lado, su feroz ascenso está a punto de comenzar: una saga de supervivencia bañada en sangre, llena de rebelión, evolución y caos monstruoso.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-re-monster-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1tD2J8DBEsgKudGCFVaUj0Q" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

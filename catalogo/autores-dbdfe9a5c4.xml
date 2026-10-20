@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:dbdfe9a5c4</id>
 <title>Hagure Metabo</title>
-<updated>2026-10-20T16:38:00.706272+00:00</updated>
+<updated>2026-10-20T17:08:06.148245+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-dbdfe9a5c4.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>A Livid Lady’s Guide to Getting Even Novela Ligera en Español</title>
@@ -16,6 +16,6 @@
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
 <content type="text">Elizabeth Leiston, hija del influyente primer ministro, es una dama perfecta en camino a convertirse en la futura reina del Reino de Haldoria. Pero su vida da un giro inesperado cuando su prometido hace alarde de cancelar públicamente su compromiso. Poco después, la encarcela y empieza a difundir rumores desagradables sobre ella. El apoyo que Elizabeth recibe de su leal doncella, Mireille, y su furia interior son todo lo que necesita para reconsiderar sus objetivos. ¿Por qué debería seguir dedicándose a un país que no la respeta cuando puede pisotearlo? Se vengará de quienes la perjudicaron y derribará el maldito reino, ¡aunque sea lo último que haga! Por suerte, Elizabeth no es una damisela en apuros y posee siete poderosos grimorios mágicos que no dudará en usar. ¡Prepárense porque esta despiadada dama está sedienta de sangre!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-a-livid-ladys-guide-to-getting-even-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1MFo3b54AwIm94zHiZnbt8g" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

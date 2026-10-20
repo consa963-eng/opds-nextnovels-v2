@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:45c071a9c8</id>
 <title>Kuou Haruki</title>
-<updated>2026-10-20T16:38:00.722031+00:00</updated>
+<updated>2026-10-20T17:08:06.171789+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-45c071a9c8.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Liar Liar Novela Ligera en Español</title>
@@ -19,6 +19,7 @@
 <content type="text">Una isla escolar (academia) donde los estudiantes se baten en duelo (juego) para determinar sus rangos. Yo, Hiroto Shinohara, logré el mejor resultado de todos los tiempos en el examen de traslado de la isla academia más difícil de Japón, derroté al campeón absoluto del año anterior, Sarasa Saionji, en mi primer día en la academia, y me convertí en el «Siete Estrellas» que más rápido ha reinado en la historia de la isla academia. … Ah, por supuesto, todo eso es mentira.
 
 Tengo un gran problema, y para cumplir mi propósito en la isla escolar, tengo que seguir reinando en la cima, aunque sea una mentira. Para ello, utilizaré cualquier cosa, incluso el engaño de Himeji, la hermosa doncella que me asiste como su maestro, y mi complicidad con Saionji, que en realidad era una joven falsa. Entonces empecemos la mentira que ganará el mundo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/liar-liar-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1xrvAmFq49D9NC0dWt02f7A" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F13oJ4AW7SgjUYX5aPVAqK9w" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

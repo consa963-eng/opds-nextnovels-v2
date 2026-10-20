@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:63440cc6e0</id>
 <title>Hinoura Takumi</title>
-<updated>2026-10-20T16:38:00.709140+00:00</updated>
+<updated>2026-10-20T17:08:06.152871+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-63440cc6e0.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>I Got a New Skill Every Time I Was Exiled, and After 100 Different Worlds, I Was Unmatched Novela Ligera en Español</title>
@@ -24,6 +24,6 @@ Sin embargo, se entera de que el mundo al que fue expulsado ha tenido un trágic
 Para salvar a Tia, una chica elfa que fue su compañera, Ed, ahora el más fuerte, decide reiniciar todo y volver a conquistar los 100 mundos.
 
 ¡Con su segunda oportunidad, hará uso completo de sus habilidades y su poder para arrasar nuevamente en estos 100 mundos, en una emocionante aventura de fantasía en un nuevo juego!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-i-got-a-new-skill-every-time-i-was-exiled-and-after-100-different-worlds-i-was-unmatched-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1lMZUZ-4OhzIyjW4dNPeenw" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

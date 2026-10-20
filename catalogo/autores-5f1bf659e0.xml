@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:5f1bf659e0</id>
 <title>Mikito Chinen</title>
-<updated>2026-10-20T16:38:00.726231+00:00</updated>
+<updated>2026-10-20T17:08:06.178489+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-5f1bf659e0.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Ameku M.D.: Doctor Detective Novela Ligera en Español</title>
@@ -18,6 +18,39 @@
 <category term="Seinen" label="Seinen"/>
 <category term="Tragedia" label="Tragedia"/>
 <content type="text">La Dra. Takao Ameku es la brillante pero excéntrica directora de patología investigativa del Hospital General Tenikai, encargada de diagnosticar a los pacientes que los demás departamentos del hospital no pueden. Sin embargo, debido a su pasión por resolver misterios, Takao también se ve envuelta en muertes misteriosas y asesinatos, arrastrando a su asistente Yu Takanashi a sus diversas aventuras.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-ameku-m-d-doctor-detective-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1JKKcLqsgRGBWlaK15pVcAA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1JWtsFTEl8go_nqcCJaJf8w" type="application/epub+zip" title="Descargar" />
+</entry>
+<entry>
+<title>The Glass Tower Murders Novela en Español</title>
+<id>https://nextnovels.com/descargar-the-glass-tower-murders-novela-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-glass-tower-murders-novela-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/The-Glass-Tower-Murders-Portada.jpg" />
+<author><name>Mikito Chinen</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">A todos los amantes de la novela negra.
+
+En un bosque cubierto de nieve, brilla resplandeciente una torre de cristal.
+
+Once plantas sobre rasante y una subterránea: una aguja única, hermosa y gigantesca.
+
+A instancias de un multimillonario amante de las novelas de misterio, se ha convocado a una serie de invitados con más de un hueso en la boca:
+
+un detective, un médium, un novelista, un chef...
+
+En esta mansión se suceden las tragedias.
+
+El dueño de la mansión es envenenado, en el comedor se produce un incendio y aparece un cadáver cubierto de sangre.
+
+Además, un incidente ocurrido hace trece años escrito con letras de sangre...
+
+Los encargados de desentrañar el misterio son el famoso detective Aozuki Yoru y el médico Ichijō Yūma.
+
+Pistas esparcidas por toda la trama, un desafío para el lector, una legibilidad abrumadora y un final sorprendente.
+
+¡La primera novela policíaca completa del autor, la gran favorita!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Cq_vScHB4cBbu6sLMgI-5A" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

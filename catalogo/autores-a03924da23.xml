@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:a03924da23</id>
 <title>Yuri Yumemi</title>
-<updated>2026-10-20T16:38:00.754567+00:00</updated>
+<updated>2026-10-20T17:08:06.223635+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-a03924da23.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Witch Can’t Be Collared Novela Ligera en Español</title>
@@ -24,6 +24,6 @@ Estas brujas, encarceladas y atadas por collares que suprimen su magia, tienen e
 "Vamos, Rogue, solo una palabra es todo lo que necesito. Dame la orden. Dime que lance un hechizo en ese hombre. ¡Solo una palabra! Claro, su mente puede romperse— pero el caso estará resuelto"
 
 Una historia emocionante de fantasía donde un investigador es atormentado por sus malvadas compañeras (Brujas).</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-witch-cant-be-collared-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1TOqGWOZTxv6A7wdfoNqBcA" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

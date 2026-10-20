@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:dd3787328a</id>
 <title>Kionachi</title>
-<updated>2026-10-20T16:38:00.719036+00:00</updated>
+<updated>2026-10-20T17:08:06.167643+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-dd3787328a.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Bokutachi no Remake Novela Ligera en Español</title>
@@ -17,6 +17,6 @@
 <category term="Romance" label="Romance"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Hashiba Kyouya es un desarrollador de 28 años. Con su empresa quebrada y él, en consecuencia, perdiendo su empleo, regresa a su ciudad natal. Al observar el éxito de los creadores de su época, se arrepiente de las decisiones de su vida mientras yacía angustiado en su cama. Sin embargo, cuando Kyouya se despierta al día siguiente, descubre que ha viajado diez años hacia el pasado, antes de ingresar a la universidad. ¿Podrá finalmente hacer las cosas bien? Esta es una historia sobre una persona que fracasó en sus sueños, pero que ha conseguido una segunda oportunidad.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-bokutachi-no-remake-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1BipbIiaopqeYtp_te12-yg" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:e65932e0db</id>
 <title>hiromu</title>
-<updated>2026-10-20T16:38:00.709596+00:00</updated>
+<updated>2026-10-20T17:08:06.153707+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-e65932e0db.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Chitose-kun wa Ramune Bin no Naka Novela Ligera en Español</title>
@@ -29,6 +29,7 @@ La as y enérgica chica del club de baloncesto, Aomi Haru…
 Con su tiempo disfrutando del comienzo de una nueva clase junto a ellas es corta, se le confía a Saku la recuperación de cierto estudiante encerrado.
 
 ¿Esta es la historia de un harem normie o…?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/chitose-kun-wa-ramune-bin-no-naka-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1vobLKEga-hx_Xaigp_M3aw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1wM-ycbSAgycNwMp8-XgHyw" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

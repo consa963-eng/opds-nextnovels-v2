@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:610c787cff</id>
 <title>Aloha Zachou</title>
-<updated>2026-10-20T16:38:00.698993+00:00</updated>
+<updated>2026-10-20T17:08:06.134047+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-610c787cff.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Maryoku Cheat na Majo ni Narimashita Novela Ligera en Español</title>
@@ -18,6 +18,6 @@
 <category term="Shoujo Ai" label="Shoujo Ai"/>
 <category term="Supernatural" label="Supernatural"/>
 <content type="text">Parece que me he reencarnado en un mundo de juego lleno de monstruos y mazmorras. Pero no te preocupes, no hay nada que no pueda manejar. Elegí Magia de Creación como habilidad única, y me permite crear cualquier objeto que quiera... siempre que tenga suficiente maná. Ah, siempre hay una trampa, ¿no? Pero donde hay una regla, hay una laguna, y esta brujita conoce el truco para ampliar su reserva de maná un poco más cada día. (Literalmente. Los golems existen en este mundo.) Después, seguiré algunas pistas. (Y cuanto antes, mejor. La diosa me dejó en medio de los páramos). Y finalmente, un día, me haré un lugar al que pueda pertenecer de verdad. (Ese es el plan, al menos.) ¡Hora de hacer algo de magia!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-maryoku-cheat-na-majo-ni-narimashita-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1gYIwTuNDsTBvyi7oAqE83Q" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

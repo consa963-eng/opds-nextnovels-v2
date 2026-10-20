@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:ca40243408</id>
 <title>Hiroki Iwata</title>
-<updated>2026-10-20T16:38:00.709416+00:00</updated>
+<updated>2026-10-20T17:08:06.153370+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-ca40243408.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>My First Love, a Losing Heroine in Her 30s, Won’t Shake Off Her Rom-Com Hangover Novela Ligera en Español</title>
@@ -20,6 +20,6 @@ Kagetsu es el primer amor de Ibuki, la chica de su vecindario por la que sentía
 Junto a ella viven otras dos mujeres que rondan los treinta y arrastran sus propios traumas amorosos: una cuya pareja ideal resultó tener ya una novia de la infancia, y otra cuyo novio dejó embarazada a su propia hermana.
 
 Un día, Ibuki descubre por accidente la «Lista de reinicio» (un registro secreto donde Kagetsu anotó los propósitos necesarios para superar su desamor y rehacer su vida desde cero). Decidido a devolverle el brillo a su primer amor, Ibuki da un paso al frente para proclamar: «¡Kagetsu-nee, déjame ayudarte con tu lista!». Así da comienzo una singular travesía para sanar las secuelas emocionales de estas «heroínas perdedoras».</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-my-first-love-a-losing-heroine-in-her-30s-wont-shake-off-her-rom-com-hangover-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1wwZGwFNTebHIzeICqH7h2w" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

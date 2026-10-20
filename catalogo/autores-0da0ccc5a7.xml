@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:0da0ccc5a7</id>
+<title>Ming Kai Ye He</title>
+<updated>2026-10-20T17:08:06.179972+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-0da0ccc5a7.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>A Touch of Green Novela Web en Español</title>
+<id>https://nextnovels.com/descargar-a-touch-of-green-novela-web-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-a-touch-of-green-novela-web-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/A-Touch-of-Green-Portada.jpg" />
+<author><name>Ming Kai Ye He</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<content type="text">—No lo sigas mirando. Por favor, mírame a mí también.
+
+Chen Qingwu siempre creyó que algún día se casaría con Meng Qiran; después de todo, habían crecido juntos y eran inseparables desde la infancia.
+
+Ese viernes, la banda de Meng Qiran tenía un concierto, y Chen Qingwu tomó un vuelo de medianoche para ir a apoyarlo.
+
+Meng Qiran se emborrachó, y quien fue a recogerla al aeropuerto fue su hermano mayor, Meng Fuyuan.
+
+El hijo mayor de la familia Meng era serio y reservado, y nunca sonreía con facilidad. Se sentó en el auto ocupándose de asuntos de trabajo, sin dedicarle ni siquiera una sonrisa de cortesía. Chen Qingwu hacía tiempo que sentía que tal vez Meng Fuyuan no la apreciaba.
+
+Eso fue así hasta más tarde, cuando Meng Fuyuan se fue de viaje de negocios al extranjero y le trajo de regalo un juego de porcelana hecho por la abuela de un amigo.
+
+Esa porcelana tan fina y delicada, envuelta en suaves materiales a prueba de golpes capa tras capa, cinco capas en total, había recorrido miles de kilómetros sin sufrir el más mínimo daño. Ella ya estaba agotada solo de desempacarla, y ni hablar del esfuerzo que debió haberle tomado empacarla personalmente.
+
+Un pensamiento repentino y absurdo le pasó por la mente:
+
+¿Podría ser… que le gusto a Meng Fuyuan?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Pe4RbfwLd2zTK34EqOfuZQ" type="application/epub+zip" title="Descargar" />
+</entry>
+</feed>

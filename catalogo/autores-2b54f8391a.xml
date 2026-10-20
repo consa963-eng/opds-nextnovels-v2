@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:2b54f8391a</id>
 <title>Hideaki Mashiroya</title>
-<updated>2026-10-20T16:38:00.708258+00:00</updated>
+<updated>2026-10-20T17:08:06.151402+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-2b54f8391a.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>This Is Just Pretend, After All Novela Ligera en Español</title>
@@ -27,6 +27,6 @@ Por ciertas circunstancias, Souichirou tiene que dejar su ciudad natal para muda
 Al principio, solo se divertían interpretando el papel de una pareja inocente. Sin embargo, poco a poco se volvieron más atrevidos, empezando a abrazarse y besarse. Se involucraron cada vez más en un "juego de la casita" que iba en serio, y finalmente se volvió difícil distinguir entre los verdaderos sentimientos, las apariencias y las mentiras. Para ambos, todo seguía siendo "amor dentro del juego", por lo que nunca podrían confesar su "amor verdadero".
 
 ¿Saldrán a la luz los sentimientos ocultos de estas dos personas que están inmersas en este juego de la casita?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-this-is-just-pretend-after-all-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F13WaniJ82H0xpbYIT8Gjedw" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

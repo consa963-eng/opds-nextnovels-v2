@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:42865108ff</id>
 <title>Saki Aida</title>
-<updated>2026-10-20T16:38:00.738469+00:00</updated>
+<updated>2026-10-20T17:08:06.197479+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-42865108ff.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Bowing to Love Novela Ligera en Español</title>
@@ -21,6 +21,6 @@ De repente, perder el tiempo no parece una mala idea, con la compañía adecuada
 Luciano anhela al otro hombre, pero teme que, si se descubre su relación, el gran abismo entre sus posiciones sociales podría causar problemas.
 
 Pero cuando Dominatus se enfrenta a un gladiador favorecido por el emperador, salta a la batalla sin dudarlo, sabiendo que la pelea podría costarle la vida. ¿Saldrá Dominatus victorioso o se perderá el amor en las arenas de la Arena antes de que Luciano pueda desnudar su corazón?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-bowing-to-love-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F18vZcX-z9rt5JQSt98sx_Sw" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

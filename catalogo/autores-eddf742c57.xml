@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:eddf742c57</id>
 <title>Takesuxi</title>
-<updated>2026-10-20T16:38:00.746981+00:00</updated>
+<updated>2026-10-20T17:08:06.211371+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-eddf742c57.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Adventurer Life with Exiled Daughter Novela Ligera en Español</title>
@@ -25,6 +25,6 @@ A petición de Erika, Shin comienza una nueva vida junto a ella. Se labran una r
 “¡Shin! ¡Hoy toca volver a la vida de aventureros!”
 
 …Y ahora, ella le dedica una sonrisa radiante y amplia.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-adventurer-life-with-exiled-daughter-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1e_zbEj6Yj60epyATGVnCVw" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:94ae36a0cf</id>
 <title>Konohara Narise</title>
-<updated>2026-10-20T16:38:00.720481+00:00</updated>
+<updated>2026-10-20T17:08:06.169407+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-94ae36a0cf.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Kogoroshi Village Novela Ligera en Español</title>
@@ -19,7 +19,7 @@
 Mezclando crítica social con tensión psicológica, la novela explora la fe, la explotación, el aislamiento y los frágiles límites entre la reverencia y el deseo.
 
 Aunque no hay representaciones BL explícitas, la historia presenta una relación delicadamente equilibrada, que no es ni romance ni afecto, y que se desarrolla en torno al fotógrafo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-kogoroshi-village-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1R-TkTWVKwY4P51phNUkyoA" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Of Beauty Novela Web en Español</title>
@@ -32,6 +32,6 @@ Aunque no hay representaciones BL explícitas, la historia presenta una relació
 <category term="Romance" label="Romance"/>
 <category term="Yaoi" label="Yaoi"/>
 <content type="text">Matsuoka está enganchado a usar la ropa de su ex novia y salir a caminar por la noche por la ciudad, sintiendo el placer de ser mirado por hombres dondequiera que vaya. Una noche, después de ser asaltado por un hombre durante un encuentro único, es salvado por Hirosue, un trabajador superior anodino de su empresa. Atraído por el amor inocente y puro de Hirosue, Matsuoka continúa reuniéndose con Hirosue vestido de mujer, hasta que Hirosue finalmente se confiesa con él. El pináculo de los logros de Narise Konohara retrata el dolor y la belleza del amor no correspondido, y también ha sido adaptado a una obra de teatro.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-of-beauty-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1jCekjTZmomAA0Y7Dlcw8qg" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

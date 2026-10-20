@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:e23a60c158</id>
 <title>Mina Sakurai</title>
-<updated>2026-10-20T16:38:00.726812+00:00</updated>
+<updated>2026-10-20T17:08:06.179375+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-e23a60c158.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Garden of the Hidden Pheasant Novela Ligera en Español</title>
@@ -17,6 +17,6 @@
 Ayu fue dejada de repente por un cambio de corazón de su novio. Chiharu y Mai se pelearon por un pequeño malentendido. Shouko no logra encontrar su lugar ni en casa ni en la escuela. El lugar donde estas chicas de preparatoria derraman lágrimas y se quedan sin saber qué hacer es un macizo de flores abandonado en un rincón de la escuela. Y hay otra persona que también visita este macizo: Taji, un maestro en su sexto año de docencia. Él también pasa sus días estancado, pues su relación con su novia desde la época universitaria ha llegado a una encrucijada. Sin ser un maestro apasionado, pero sin poder volverse del todo indiferente, Taji comparte con ellas el secreto de sus preocupaciones mientras cultivan espárragos en aquel macizo.
 
 Esta es la historia de personas que, aun tropezando, intentan seguir adelante y mirar hacia el futuro.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-garden-of-the-hidden-pheasant-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1bmuS3RCBGQZYo1MYEunMkQ" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

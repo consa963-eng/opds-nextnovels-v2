@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:8663ed2838</id>
 <title>Ryouta Yamaguchi</title>
-<updated>2026-10-20T16:38:00.736691+00:00</updated>
+<updated>2026-10-20T17:08:06.195093+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-8663ed2838.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Dokidoki! Pretty Cure Novela Ligera en Español</title>
@@ -31,6 +31,6 @@ La narradora es Rikka Hishikawa, Cure Diamond. Ver las caras más auténticas de
 【Punto destacado 3】
 
 Aparece una Pretty Cure original, exclusiva de esta novela. ¿Cuál es su verdadera identidad? ¿Y su frase de presentación? Solo quien lea la novela podrá vivirlo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-dokidoki-pretty-cure-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1ri_CBtpVLpjXYqGZWNrTPg" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

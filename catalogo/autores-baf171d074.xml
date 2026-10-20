@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:baf171d074</id>
 <title>Okazawa 64</title>
-<updated>2026-10-20T16:38:00.734074+00:00</updated>
+<updated>2026-10-20T17:08:06.190540+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-baf171d074.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Isekai de Tochi wo Katte Noujou wo Tsukurou Novela Ligera en Español</title>
@@ -26,6 +26,6 @@ El gran hombre fuerte, que se hace llamar el Rey Demonio Zedan, ha venido a reta
 ¡Sin embargo, la declaración de Platy llevó la situación en una dirección inesperada...!
 
 ¡Comienza el segundo acto de una vida lenta en otro mundo, donde una tierra inculta se cultiva con vecinos animados!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/isekai-de-tochi-wo-katte-noujou-wo-tsukurou-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1_pMOgxN8BWE_knI8rwkU9w" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

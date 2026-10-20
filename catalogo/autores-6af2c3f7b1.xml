@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:6af2c3f7b1</id>
 <title>Kinojo Miya</title>
-<updated>2026-10-20T16:38:00.718573+00:00</updated>
+<updated>2026-10-20T17:08:06.166930+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-6af2c3f7b1.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Chillin’ in Another World with Level 2 Super Cheat Powers Novela Ligera en Español</title>
@@ -18,6 +18,6 @@
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
 <content type="text">Banaza, un humilde comerciante, es convocado a otro mundo como candidato a héroe, con la esperanza de que tenga lo necesario para derrotar al ejército de demonios. Cuando sus invocadores descubren que no posee habilidades especiales, Banaza es despedido sumariamente … pero algo sale mal y no puede volver a casa. Ahora debe encontrar una forma de sobrevivir en este nuevo reino. Afortunadamente, Banaza podría ser más poderoso de lo que nadie, incluido el propio Banaza, se dio cuenta.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-chillin-in-another-world-with-level-2-super-cheat-powers-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1jvA8udGzDcYMgyiY48-9kg" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

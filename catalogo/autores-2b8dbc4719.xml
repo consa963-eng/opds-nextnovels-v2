@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:2b8dbc4719</id>
 <title>Kurokawa Yukitsugu</title>
-<updated>2026-10-20T16:38:00.722843+00:00</updated>
+<updated>2026-10-20T17:08:06.173111+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-2b8dbc4719.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Repeated Vice Novela Ligera en Español</title>
@@ -18,6 +18,6 @@
 <category term="Romance" label="Romance"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Un sueño sobre la muerte fue la llamada de atención que necesitaba. Lofus Ray Lightless está lejos de ser un modelo de virtud. De hecho, se deleita en su maldad. Pero un vívido sueño sobre las muchas formas en que está destinado a morir lo convence de que debe cambiar su forma de actuar, o al menos fingir que lo hará. Con su fiel mayordomo a su lado, Lofus se propone cambiar el rumbo del destino a su favor para poder disfrutar de una vida larga y egoísta. Pero el futuro no es exactamente como lo ha visto, y puede que haya mordido más de lo que puede masticar....</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-repeated-vice-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F11hBlDBkuhFMyK_JoaNwo0w" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:f7a7124711</id>
 <title>Tatematsuri</title>
-<updated>2026-10-20T16:38:00.747865+00:00</updated>
+<updated>2026-10-20T17:08:06.212718+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-f7a7124711.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Munou to Iware Tsuzuketa Madoushi, Jitsu wa Sekai Saikyou Nanoni Yuuhei Sareteita node Jikaku Nashi Novela Ligera en Español</title>
@@ -23,6 +23,6 @@ El efecto de este talento es simplemente "una audición más aguda" - ¡Alrs, ma
 Pero mientras está encarcelado, Alrs descubre que puede usar la magia que escucha con su "Audición". También logra robar cantos divinos de los Dioses del cielo con su audición extraordinaria, y así, domina la legendaria magia. ¡Se convierte en la entidad más poderosa del mundo sin darse cuenta!
 
 Después de más de una década de encierro, Alrs rompe el sello y se aventura al mundo exterior en busca de magia desconocida. Sin embargo, Alrs, quien no tiene experiencia en el mundo, no tiene conciencia de su extraordinario poder...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/munou-to-iware-tsuzuketa-madoushi-jitsu-wa-sekai-saikyou-nanoni-yuuhei-sareteita-node-jikaku-nashi-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1JRhcGAhp8KWhHg2dyFas0A" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

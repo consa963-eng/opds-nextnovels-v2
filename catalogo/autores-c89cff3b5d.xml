@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:c89cff3b5d</id>
 <title>Kaitou Reiji</title>
-<updated>2026-10-20T16:38:00.714704+00:00</updated>
+<updated>2026-10-20T17:08:06.161113+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-c89cff3b5d.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Unbreakable Machine Doll Novela Ligera en Español</title>
@@ -27,6 +27,7 @@ Raishin Akabane es el protagonista de esta historia, un joven titiritero japones
 Acompañado por la bella adolescente Yaya, quien es en realidad una autómata especializada en el combate cuerpo a cuerpo, planea alzarse como el mejor estudiante de su clase.
 
 En la Academia, hay un torneo de combate exclusivo a los mejores 100 estudiantes y sus autómatas, para decidir a quién se le otorga el título de Wisheman, el más grande titiritero.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-unbreakable-machine-doll-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1m8GKGcEe5V5MyaKedG5TFA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1bpEjFIMg_2KcZzjYEcKiCQ" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:cf3ad7d095</id>
 <title>Sora Suigetsu</title>
-<updated>2026-10-20T16:38:00.744329+00:00</updated>
+<updated>2026-10-20T17:08:06.207493+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-cf3ad7d095.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Scooped Up by an S-Rank Adventurer! Novela Ligera en Español</title>
@@ -22,6 +22,6 @@
 Expulsado por ser demasiado débil, ¡nadie parece darse cuenta de que Lloyd es en realidad un mago blanco absurdamente poderoso entrenado por la propia Lady Merlin! Manipular la magia es prácticamente algo innato en él, lo que suele dejar boquiabiertos incluso a los aventureros de rango S. Aunque Lloyd no tiene ni idea de lo fuerte que es en realidad.
 
 La suerte finalmente le sonríe cuando una aventurera experimentada reconoce su valía y lo incorpora directamente a su grupo. Pero su primera misión, cazar una manada de lobos de alto rango, da un giro inesperado cuando la ciudad sufre un ataque. Ahora Lloyd debe lidiar con nuevas dinámicas sociales y una misión mucho más peligrosa de lo que parecía en un principio… y tal vez, solo tal vez, demostrar su valía por el camino.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-scooped-up-by-an-s-rank-adventurer-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1SRG0kKPVsZ0k9895Hh87Gw" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

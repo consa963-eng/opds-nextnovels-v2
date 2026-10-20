@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:3f2fc3e99b</id>
 <title>Kareki Honosaki</title>
-<updated>2026-10-20T16:38:00.716410+00:00</updated>
+<updated>2026-10-20T17:08:06.163589+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-3f2fc3e99b.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Straylight Run Novela Ligera en Español</title>
@@ -19,6 +19,6 @@ En un mundo contaminado en la Tierra, la humanidad ha sido empujada a la colosal
 Habiendo perdido a sus amigos, a sus padres e incluso su hogar, lo único que le queda es Hikari, una chica que conoció en el nivel más bajo, "Under", de donde escapó por poco con vida. El chico ya no duda. Pone el dedo en el gatillo y murmura desafiante:
 
 "Jackpot"</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-straylight-run-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1qNmM-hTCIxa6dP9Z2CL54g" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

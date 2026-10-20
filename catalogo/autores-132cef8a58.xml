@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:132cef8a58</id>
 <title>Fukamizu Kocha</title>
-<updated>2026-10-20T16:38:00.704380+00:00</updated>
+<updated>2026-10-20T17:08:06.144624+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-132cef8a58.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>I’d Bet my Entire Life to Defeat the Silver Witch Novela Ligera en Español</title>
@@ -16,6 +16,6 @@
 <category term="Romance" label="Romance"/>
 <category term="Yuri" label="Yuri"/>
 <content type="text">Flandre, una noble prodigio, dedica su vida a superar a su eterna rival, la enigmática "Bruja de Plata" Cruel Luminous. Al descubrir que el inmenso poder de Cruel consume su vitalidad, Flandre decide convertirse en su fuente de energía mágica. Entre duelos y un contrato de suministro de maná, su rivalidad evoluciona hacia un vínculo profundo e inesperado.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-id-bet-my-entire-life-to-defeat-the-silver-witch-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1ZvHfnt6WQwn-0jiB3Eqb5Q" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

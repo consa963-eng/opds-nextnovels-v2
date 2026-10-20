@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:96bd4e08c4</id>
 <title>Tsukiyo Rui</title>
-<updated>2026-10-20T16:38:00.750950+00:00</updated>
+<updated>2026-10-20T17:08:06.216925+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-96bd4e08c4.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Redo of Healer Novela Ligera en Español</title>
@@ -22,7 +22,7 @@
 <category term="Seinen" label="Seinen"/>
 <category term="Tragedia" label="Tragedia"/>
 <content type="text">“Los Sanadores no pueden luchar solos”. Keyaru, quien fue atormentado por la lógica de que su Clase es la más indefensa e inútil, fue utilizado como una herramienta continuamente por los otros Héroes. Sin embargo, un día logro liberarse de los efectos de las drogas y se percató de la verdadera naturaleza de la magia «Curativa», así decidiendo rehacer el mundo y empezar por segunda vez, retomando su camino 4 años atrás, donde su pesadilla empezó, con una segunda oportunidad en su vida, tomará venganza de todos los que le hicieron daño—así comienza su camino de la venganza, con su primer objetivo, Flare. ¡Vamos, que comience la «Fiesta» de la Venganza!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-redo-of-healer-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1R0WAi1_UtZWdMtjicojwIg" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>The Abandoned Elf Is The Strongest And Cutest In The World! Novela Ligera en Español</title>
@@ -43,7 +43,7 @@ Así, elige reencarnar como la raza más fuerte, una alta elfa. Además, recibe 
 Pero a cambio, los eventos que le esperan son tan difíciles que rayan en lo imposible. Aun así, Ayano supera todas las misiones y disfruta su aventura en el mundo paralelo junto a Homura.
 
 Porque Ayano es la más fuerte y la más linda del mundo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-abandoned-elf-is-the-strongest-and-cutest-in-the-world-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1uI9fsjZh_gCSQjOG59vuOg" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>The World’s Finest Assassin Novela Ligera en Español</title>
@@ -62,6 +62,7 @@ Porque Ayano es la más fuerte y la más linda del mundo.</content>
 <content type="text">"¡Voy a vivir para mí mismo!"
 
 El mejor asesino de la Tierra sólo sabía vivir como una herramienta para sus empleadores... hasta que decidieron acabar con su vida. Renacido por la gracia de una diosa en un mundo de espadas y hechicería, se le ofrece la oportunidad de hacer las cosas de manera diferente esta vez, pero hay un inconveniente... Tiene que eliminar a un héroe superpoderoso que provocará el fin del mundo a menos que se le detenga. Ahora conocido como Lugh Tuatha Dé, el maestro asesino ciertamente tiene las manos ocupadas, en particular por todas las hermosas chicas que lo rodean constantemente. Puede que Lugh haya sido un asesino incomparable, pero ¿cómo se las arreglará contra enemigos con una magia poderosa?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-worlds-finest-assassin-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1RzazcUsGgMYjNgFp5Bem1w" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1ofckgMLDecp74Xg0EpT8VQ" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:508687f4f7</id>
 <title>Mizuki Nomura</title>
-<updated>2026-10-20T16:38:00.728363+00:00</updated>
+<updated>2026-10-20T17:08:06.182082+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-508687f4f7.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Book Girl Novela Ligera en Español</title>
@@ -17,6 +17,7 @@
 <category term="Shounen" label="Shounen"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Para Tohko Amano, una estudiante de tercer curso de secundaria que se autodenomina «chica de los libros», ser la presidenta del club de literatura es mucho más que una simple actividad extraescolar con pequeñas ventajas. Es su pan de cada día... ¡literalmente! Tohko es, en realidad, un demonio devorador de literatura y, en lugar de la opción menos apetecible del pan empapado, prefiere devorar páginas arrancadas de todo tipo de historias. Pero para Tohko, las verdaderas delicias son las historias escritas a mano. Y para satisfacer sus gustos gourmet, ha contratado (o mejor dicho, intimidado) a Konoha Inoue, un estudiante de curso inferior que ha dejado de escribir novelas tras sus experiencias con la publicación a una edad temprana. Así que, día tras día, Konoha garabatea sin parar para satisfacer el apetito de Tohko. Pero cuando, un día, otro estudiante llama a la puerta del club literario en busca de consejos para escribir cartas de amor, ¿descubrirá Tohko un nuevo tipo de manjar con el que saciar su voraz apetito?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-book-girl-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1I5bdIuGEVf6PnP8N8uR5WA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1eE1LeBvCvzFZRs9kZpmnmQ" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

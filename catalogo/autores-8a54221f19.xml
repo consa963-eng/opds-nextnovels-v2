@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:8a54221f19</id>
 <title>Shibai Kineko</title>
-<updated>2026-10-20T16:38:00.741209+00:00</updated>
+<updated>2026-10-20T17:08:06.201838+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-8a54221f19.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>And You Thought There is Never a Girl Online? Novela Ligera en Español</title>
@@ -17,6 +17,7 @@
 <category term="Seinen" label="Seinen"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Hideki Nishimura es un joven que se confesó a quien creía que era una chica en Internet, pero resultó ser un chico. Este hecho le marcó y lo guarda como un angustioso recuerdo que no cuenta a nadie por lo que juró no creer nunca más a nadie en Internet. Sin embargo, un día una joven de Internet se le confiesa a él, y resulta ser una hermosa muchacha llamada Ako Tamaki. Ako no sabe distinguir la realidad del mundo online, es bastante solitaria y tiene graves problemas de comunicación. Así pues, Hideki y sus amigos de la guild trabajarán juntos para ayudarla.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-and-you-thought-there-is-never-a-girl-online-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1kC5tkXvkdzulQM9i8Z4mJw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1wJ3hrmTspgDEObLL8Ks9Ig" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

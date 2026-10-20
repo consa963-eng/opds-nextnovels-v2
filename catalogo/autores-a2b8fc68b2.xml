@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:a2b8fc68b2</id>
 <title>Takano Kei</title>
-<updated>2026-10-20T16:38:00.746074+00:00</updated>
+<updated>2026-10-20T17:08:06.210228+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-a2b8fc68b2.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>I Like Villains, so I Reincarnated as One Novela Ligera en Español</title>
@@ -20,6 +20,6 @@
 Weiss Hamilton, un personaje de videojuego, está destinado a perderlo todo: su posición, su familia y, en última instancia, su vida. Un villano trágico que fue eclipsado por su talentosa hermana, culpado por la mala gestión de su territorio y cuyo destino es caer a manos del héroe del juego; Weiss no es más que un fracaso. ¿Y reencarnar en él? ¡Un destino peor que la muerte! ¿O tal vez no?
 
 Armado con el conocimiento de la trama del juego, el nuevo Weiss tiene una segunda oportunidad para reescribir su destino y convertirse en un villano en regla con un futuro mejor. Usando sus propios trucos (cheats) para esquivar cada trampa, Weiss tiene la habilidad de evitar la ruina y la tragedia inminente, todo mientras se gana el corazón de las hermosas mujeres que lo rodean. ¿Podrá mantener este nuevo curso, hacer crecer su hénrem y sobrevivir a la historia escrita en su contra?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-i-like-villains-so-i-reincarnated-as-one-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1uupTTHlGSDjQtEGeKMHCBQ" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:539a0f7b60</id>
 <title>Amara</title>
-<updated>2026-10-20T16:38:00.699679+00:00</updated>
+<updated>2026-10-20T17:08:06.134904+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-539a0f7b60.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Cat and the Dragon Novela Ligera en Español</title>
@@ -13,6 +13,7 @@
 <category term="Aventura" label="Aventura"/>
 <category term="Fantasía" label="Fantasía"/>
 <content type="text">En lo profundo del bosque, un dragón vivía junto a unos gatos que dominaban la magia. Los gatos llamaban al dragón, quien los había protegido y criado durante mucho tiempo, «el tío de las plumas», mientras que los humanos lo llamaban «dragón de los gatos» con una mezcla de temor y respeto. También hay gatos que, tras alejarse del amparo del dragón, viven ahora con los humanos. Un príncipe que anhela la aventura y un héroe felino negro. Un gato blanco que enseña magia a una niña del orfanato. Y en el bosque, hoy también el dragón le enseña a cazar a un gatito. Esta es una historia cálida, misteriosa y un poco conmovedora sobre gatos, dragones y humanos.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-cat-and-the-dragon-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F15XmU-t-MycA-QZokDMJMVA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1UkxhRKx9wJEFpSPIZ5EM_Q" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

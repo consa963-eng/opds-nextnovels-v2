@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:b86e879319</id>
 <title>Takumi Toyoda</title>
-<updated>2026-10-20T16:38:00.747203+00:00</updated>
+<updated>2026-10-20T17:08:06.211708+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-b86e879319.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Rail Wars! Novela Ligera en Español</title>
@@ -16,6 +16,6 @@
 <category term="Harem" label="Harem"/>
 <category term="Romance" label="Romance"/>
 <content type="text">Tiene lugar en una versión alterna de Japón donde el sistema nacional de vías férreas nunca fue privatizado. Naoto Takayama es un estudiante de secundaria ordinario quien aspira a una vida cómoda trabajando en Japanese National Railways. Él termina trabajando como un aprendiz del Cuerpo de Seguridad Pública, donde él en contra de su voluntad tiene que lidiar con sus extraños colegas y a la vez con RJ, un grupo de extremistas que pelea por privatizar las vías férreas.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/rail-wars-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/187tTFVm_bsS8_pIvR337XA" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

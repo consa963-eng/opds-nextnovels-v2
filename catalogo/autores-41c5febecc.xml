@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:41c5febecc</id>
 <title>Ayasato Keishi</title>
-<updated>2026-10-20T16:38:00.702204+00:00</updated>
+<updated>2026-10-20T17:08:06.139370+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-41c5febecc.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>B.A.D. Novela Ligera en Español</title>
@@ -22,6 +22,6 @@
 Mayuzumi Azaka, una chica de catorce años arrogante, fría, caprichosa y exigente con la comida, también tiene poderes sobrenaturales. Vestida con su estilo gótico lolita y sosteniendo su paraguas rojo de papel, me sonrió. Una sonrisa que parecía sumirme en una desesperación aún mayor. Y entonces, bajo un cerezo en flor, me dijo: «Quédate a mi lado».
 
 ¡Una fantasía cruel y dolorosa, fea y hermosa, está a punto de comenzar!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-b-a-d-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1BdeUPgcgiAXdt9efhblIpQ" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

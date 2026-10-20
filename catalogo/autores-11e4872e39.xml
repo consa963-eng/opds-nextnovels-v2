@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:11e4872e39</id>
+<title>Not Asking If It's Three Or Nine</title>
+<updated>2026-10-20T17:08:06.189571+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-11e4872e39.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>After Our Divorce, I Still Wore Your Jacket Novela Web en Español</title>
+<id>https://nextnovels.com/descargar-after-our-divorce-i-still-wore-your-jacket-novela-web-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-after-our-divorce-i-still-wore-your-jacket-novela-web-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/04/After-Our-Divorce-I-Still-Wore-Your-Jacket-Portada-1.jpg" />
+<author><name>Not Asking If It's Three Or Nine</name></author>
+<category term="Adulto" label="Adulto"/>
+<category term="Drama" label="Drama"/>
+<category term="Maduro" label="Maduro"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Yaoi" label="Yaoi"/>
+<content type="text">Yuan Ye y el Emperador Fílmico, Fang Shaoyi, estuvieron casados durante diez años. Después de un sello del Ministerio de Asuntos Civiles, se divorciaron y sus libretas rojas se convirtieron en verdes. Cuando se casaron, anunciaron orgullosamente las noticias al mundo entero. Sin embargo, después de su divorcio, ninguno se atrevió a anunciarlo, determinados a ocultar esta conclusión.
+
+Después de una ruptura tan dolorosa ¿Cómo lograrán congeniar cuando se vean obligados a fingir ser esposos en un reality show que acordaron grabar antes de su divorcio?
+
+Emperador Fílmico Gong VS Escritor Shou.
+
+Trata del compañerismo, trata de la compañía. Trata de aquellas cosas inseparables y difíciles de hablar sobre el afecto.
+
+Resumido en una frase: Estuvimos enamorados durante 13 años, y luego nos divorciamos.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1I3HDHnKZQDdqBYo-Vp5ing" type="application/epub+zip" title="Descargar" />
+</entry>
+</feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:348826242d</id>
 <title>Sunsunsun</title>
-<updated>2026-10-20T16:38:00.745096+00:00</updated>
+<updated>2026-10-20T17:08:06.208828+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-348826242d.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Alya Sometimes Hides Her Feelings in Russian Novela Ligera en Español</title>
@@ -29,7 +29,8 @@ En realidad, yo, Kuze Masachika, tengo la capacidad de escuchar ruso a nivel nat
 ¡¿No podía dejar de sonreír ante la ignorante Alya-san que, hoy también, hablaba dulcemente en el idioma ruso?!
 
 Una comedia romántica adolescente con una JK rusa de altísimo nivel, objeto de admiración de todos los estudiantes.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-alya-sometimes-hides-her-feelings-in-russian-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F11Bok4p8nr2h6A-dFjxb7pQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1KIvUPz5XontO6Frhka4W6w" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>The Hero Alya Sometimes Hides Her Feelings in Russian Novela Ligera en Español</title>
@@ -54,6 +55,7 @@ Además, parece que en este mundo, ¡la magia no funciona a menos que se recite 
 ¡Y así nace el grupo de héroes formado por la Heroína Alya, la Santa Masha y el Sabio Masachika, incapaz de usar magia!
 
 ¡Comienza una animada aventura isekai con momentos tiernos!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-hero-alya-sometimes-hides-her-feelings-in-russian-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1LkSKhZDyX-fNn9psP38YoA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1DRFIO-tAEjAWNJlI8s6Rnw" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:d547f22052</id>
 <title>Shima Nagashi</title>
-<updated>2026-10-20T16:38:00.741804+00:00</updated>
+<updated>2026-10-20T17:08:06.202817+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-d547f22052.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Love Unseen Beneath the Clear Night Sky Novela Ligera en Español</title>
@@ -25,6 +25,6 @@ A diferencia de Kakeru, Koharu nunca se dio por vencida.
 Pero ella tenía un deseo, el cual era apreciar un espectáculo de fuegos artificiales.
 
 Sin darse cuenta Kakeru se enamoró de ella y ahora está dispuesto a recorrer con ella por esa "noche".</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-love-unseen-beneath-the-clear-night-sky-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Rn1IIizgJ9QuVwA_GQ1ocw" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

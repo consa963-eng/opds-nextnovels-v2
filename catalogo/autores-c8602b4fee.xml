@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:c8602b4fee</id>
 <title>Shirakawa Kouko</title>
-<updated>2026-10-20T16:38:00.743307+00:00</updated>
+<updated>2026-10-20T17:08:06.204986+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-c8602b4fee.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Koukyuu no Karasu Novela Ligera en Español</title>
@@ -18,6 +18,6 @@
 <category term="Shoujo" label="Shoujo"/>
 <category term="Supernatural" label="Supernatural"/>
 <content type="text">En lo más profundo de los muros del palacio vive la solitaria y misteriosa Consorte del Cuervo. Algunos dicen que es una anciana, mientras que otros afirman que es joven y hermosa. En lo que todas las historias coinciden es en que tiene el poder de exorcizar espíritus, lanzar maldiciones fatales y encontrar objetos perdidos—por un precio. Cuando el joven emperador llega a la puerta de la Consorte del Cuervo en busca de ayuda mágica, su petición podría sacudir el palacio… o quizá incluso el reino entero.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-koukyuu-no-karasu-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1XfGvHZAcdqQPn_FvVWGaDQ" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

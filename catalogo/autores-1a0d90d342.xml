@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:1a0d90d342</id>
 <title>Shijou Kanata</title>
-<updated>2026-10-20T16:38:00.741492+00:00</updated>
+<updated>2026-10-20T17:08:06.202307+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1a0d90d342.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Beautiful Archery Club Senpai Is Sleeping in My Room with Her Tummy Out Novela Ligera en Español</title>
@@ -28,6 +28,6 @@ Cuando Touya descubre que Rino se esfuerza demasiado cada día para cumplir con 
 ¿¡Rino ha empezado a pasar el rato en la habitación de Touya todo el tiempo!?
 
 ¡Esta es una comedia romántica de recompensa en la que la habitualmente digna y fuerte estudiante de último año se vuelve poco a poco indefensa frente a mí!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-beautiful-archery-club-senpai-is-sleeping-in-my-room-with-her-tummy-out-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F17WMKvVckvAJrFgcsdAD-wg" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

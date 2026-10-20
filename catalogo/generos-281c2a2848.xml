@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:generos:281c2a2848</id>
 <title>Deportes</title>
-<updated>2026-10-20T16:38:00.779873+00:00</updated>
+<updated>2026-10-20T17:08:06.253580+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-281c2a2848.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>God’s Games We Play Novela Ligera en Español</title>
@@ -28,7 +28,24 @@ El hombre "elegido por los dioses", Faye. En nombre de toda la humanidad, se le 
 El "Juego de los Dioses" al que está a punto de enfrentarse podría ser demasiado difícil. De hecho, no hay ningún humano en la historia capaz de triunfar. Bueno, la razón es bastante obvia. Los dioses son caprichosos, muy irracionales y, a veces, incluso "absolutamente incomprensibles".
 
 Pero, como se trata de un juego así, "¡sería un desperdicio no divertirse y jugar con todo el corazón!". ¡Y así comienza la batalla intelectual definitiva entre un chico genio, un antiguo dios (que resulta ser una chica) y sus amigos!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-gods-games-we-play-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1RRthnoZC2Q6bbIGPwkPRiA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1nwsy8nwMUc26NJ7q49ACLQ" type="application/epub+zip" title="Descargar" />
+</entry>
+<entry>
+<title>Ryuuou no Oshigoto! Novela Ligera en Español</title>
+<id>https://nextnovels.com/ryuuou-no-oshigoto-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/ryuuou-no-oshigoto-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/02/portada-9-e1644017011976.jpg" />
+<author><name>Shirou Shiratori</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Deportes" label="Deportes"/>
+<category term="Drama" label="Drama"/>
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
+<content type="text">A la temprana edad de 16 años, a Kuzuryu Yaichi se le fue otorgado el título de "Ryūō". Luego de eso, él cayó en una gran depresión. Cierto día de marzo, por algún motivo una niña de escuela primaria le pidió un favor.
+
+La estudiante de Escuela Primaria Hinatsuru Ai le pidió que la tomara como aprendiz. Debido a las ocurrencias de Ai, Yaichi estará a merced de muchos problemas....</content>
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1YQyyBO8klBm37qA45hMkQw" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Solitary Flower Novela Ligera en Español</title>
@@ -53,7 +70,7 @@ Cuando empezaron a vivir juntos, Sophia seguía actuando con frialdad hacia Kent
 “¡N-No es que me guste tu aroma ni nada…!” “¿Podrías, eh, llamarme Sophia…?” ¡Lentamente, empieza a buscar el afecto de Kento con torpeza…!
 
 ¡Esta adorable belleza británica que no puede ser honesta fácilmente es demasiado linda en esta conmovedora comedia romántica!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-solitary-flower-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1gpD4wlHrn_-CHGDgWrnQUg" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Tsurune Novela Ligera en Español</title>
@@ -68,7 +85,7 @@ Cuando empezaron a vivir juntos, Sophia seguía actuando con frialdad hacia Kent
 <content type="text">«Tsurune» cuenta la historia de Minato, un chico al que le apasionaba el kyudo (tiro con arco japonés) hasta que ocurrió algo en su última competición en la escuela secundaria, tras lo cual perdió la confianza en sí mismo y lo dejó. Al llegar al instituto, no tiene intención de apuntarse al club de kyudo, a pesar de las insistencias de sus amigos, pero cuando se topa con un arquero practicando en el bosque, decide volver a practicar kyudo.
 
 *Tsurune hace referencia al «sonido de la cuerda del arco al vibrar».</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-tsurune-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1t665Jx23bvR7cgwpw4WmyQ" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Welcome to the Tama High Social Dance Club Novela Ligera en Español</title>
@@ -83,6 +100,6 @@ Cuando empezaron a vivir juntos, Sophia seguía actuando con frialdad hacia Kent
 <content type="text">Yukiya, un estudiante de instituto cualquiera que se matriculó en el Instituto de Saitama, acaba uniéndose inesperadamente al «Club de Baile Social». Aunque Yukiya se sentía como en casa en este club tan relajado y lleno de miembros excéntricos, poco a poco se va viendo atraído por la profundidad y el disfrute del baile social. Pero justo entonces, con la supervivencia del club en juego, ¡acaban teniendo que enfrentarse al Club de Baile Competitivo!?
 
 ¡Ganador del Premio Especial en la 20.ª edición de los Sneaker Awards (Selección de Primavera)!! ¡Se levanta el telón de una historia juvenil de baile y comedia romántica!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-welcome-to-the-tama-high-social-dance-club-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F11UR9cy-KvgALa_84WIdhWQ" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

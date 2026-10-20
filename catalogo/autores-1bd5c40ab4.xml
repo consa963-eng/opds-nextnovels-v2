@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:1bd5c40ab4</id>
 <title>Kinugasa Syougo</title>
-<updated>2026-10-20T16:38:00.718942+00:00</updated>
+<updated>2026-10-20T17:08:06.167492+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1bd5c40ab4.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Half of a Life Novela Ligera en Español</title>
@@ -21,6 +21,6 @@ Buscando alojamiento bajo el sol abrasador, y encontrando todas las posadas comp
 Por casualidad, termina hospedándose brevemente en la posada de la familia de Kanae, Hisago Ryokan. Sin embargo, por alguna razón, Kanae desea una interacción más activa que la de una simple empleada y huésped. Mientras que su hermana mayor, Asahi, desconfía del comportamiento inusual de Kanae, su madre, la posadera, parece complacida con el cambio, y reina un ambiente apacible.
 
 Esta es una nueva historia moderna sobre el destino, donde el azar se divide.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-half-of-a-life-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1d63feGlyPRL8RuQpd_gV1Q" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

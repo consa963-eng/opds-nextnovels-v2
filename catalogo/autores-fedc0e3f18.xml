@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:fedc0e3f18</id>
 <title>Mine</title>
-<updated>2026-10-20T16:38:00.727037+00:00</updated>
+<updated>2026-10-20T17:08:06.179788+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-fedc0e3f18.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Kuitsume Youhei no Gensou Kitan Novela Ligera en Español</title>
@@ -17,6 +17,6 @@
 <category term="Fantasía" label="Fantasía"/>
 <category term="Seinen" label="Seinen"/>
 <content type="text">Después de que el grupo mercenario de soldados donde solía trabajar había sido completamente destruido, Loren, que sobrevivió al desastre, decidió seguir el camino del aventurero como una forma de ganarse la vida. Sin embargo, para Loren, que no tenía conocidos y nada más que un bolsillo vacío sobre él, recibir una sola misión parecía un objetivo lejano. Entonces, mientras contemplaba lo que debería hacer a continuación, otro aventurero lo llamó.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/kuitsume-youhei-no-gensou-kitan-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1TYWl4ivBq5nSRVTXFlFIvw" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

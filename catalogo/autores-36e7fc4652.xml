@@ -2,8 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:36e7fc4652</id>
 <title>Tera</title>
-<updated>2026-10-20T16:38:00.748463+00:00</updated>
+<updated>2026-10-20T17:08:06.213615+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-36e7fc4652.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>The Villain Daughter Who Married a Frontier Mob Aristocrat Turns Out to Be a Really Good Wife, Isn’t She? Novela Web en Español</title>
+<id>https://nextnovels.com/descargar-the-villain-daughter-who-married-a-frontier-mob-aristocrat-turns-out-to-be-a-really-good-wife-isnt-she-novela-web-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-villain-daughter-who-married-a-frontier-mob-aristocrat-turns-out-to-be-a-really-good-wife-isnt-she-novela-web-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/The-Villain-Daughter-Who-Married-a-Frontier-Mob-Aristocrat-Turns-Out-to-Be-a-Really-Good-Wife-Isnt-She-Portada.jpg" />
+<author><name>Tera</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Ragna ha reencarnado en el tercer hijo de una familia noble con tierras en la frontera.
+
+Ilusionado ante la perspectiva de vivir libremente en otro mundo sin la responsabilidad de heredar la mansión familiar, su entusiasmo dura poco. Tras la muerte de su padre y de sus dos hermanos en combate, Ragna se encuentra inesperadamente asumiendo el control de la familia.
+
+Poco familiarizado con la gestión de la mansión y la continuación del legado familiar, se enfrenta ahora al reto de cumplir con sus deberes nobiliarios, incluida la asistencia a una academia de élite en la capital. Por si la adaptación a estas responsabilidades no fuera suficientemente abrumadora, se le impone un matrimonio concertado con la hija de un noble de alto rango.
+
+Es entonces cuando Ragna recuerda un detalle crucial sobre su nueva realidad: este mundo refleja el de un juego otome, en el que su prometida es conocida como la antagonista del juego.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F18l8LrVhGWh2rbBcM5YAbmw" type="application/epub+zip" title="Descargar" />
+</entry>
 <entry>
 <title>The Villainess Who Came to Marry Into the Frontier Noble's Household is an Exceptionally Capable Wife, Isn't She? Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-the-villainess-who-came-to-marry-into-the-frontier-nobles-household-is-an-exceptionally-capable-wife-isnt-she-novela-ligera-en-espanol/</id>
@@ -19,6 +39,6 @@
 <content type="text">¡Solo yo puedo salvar a la villana (mi linda esposa) de la ruta de la ruina en el mundo del juego otome!
 
 Ragna, el heredero de un noble de la periferia, es un reencarnado que solía ser un japonés, y este mundo resultaba ser el de un juego otome que él conocía. Aunque deseaba vivir una vida tranquila, se veía acosado día a día por la desacostumbrada administración de su territorio. En medio de todo esto, de repente se decide el matrimonio de Ragna con una noble de rango superior. Y la esposa que llegó con el matrimonio, Alicia, resultaba ser nada menos que la "villana" del juego otome... Al darse cuenta de que la razón por la que ella era la "villana" no residía en la propia Alicia, Ragna comienza a profundizar progresivamente sus lazos con ella, pero alguien atenta contra la vida de Alicia. ¿Podrá repeler la malvada mano que se cierne sobre ellos y salvar a Alicia de su destino (guion) de ruina!?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-villainess-who-came-to-marry-into-the-frontier-nobles-household-is-an-exceptionally-capable-wife-isnt-she-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1PmXdoofAnygznVe7XCj7Hw" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:280b525b33</id>
 <title>Gengen Kusano</title>
-<updated>2026-10-20T16:38:00.705559+00:00</updated>
+<updated>2026-10-20T17:08:06.147038+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-280b525b33.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Last and First Idol Novela Ligera en Español</title>
@@ -28,6 +28,6 @@ La Primera y Última Idol es una galardonada reflexión oscura sobre esto últim
 16.º Premio Sentido de Género (Premio Idol del Futuro)
 
 ¡La Primera y Última Idol obtuvo el primer premio especial en la historia del Concurso de Ciencia Ficción Hayakawa, y fue la primera obra debut en ganar el Premio Seiun en 42 años!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-last-and-first-idol-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1EeaXIuPKwdkg_vS5u9MAdQ" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

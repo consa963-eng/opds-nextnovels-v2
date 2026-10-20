@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:fd5075518f</id>
 <title>Yuji Yuji</title>
-<updated>2026-10-20T16:38:00.754153+00:00</updated>
+<updated>2026-10-20T17:08:06.223107+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-fd5075518f.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>I Found Amari-chan Next to the Number One Girl I Wanted to Make My Girlfriend Novela Ligera en Español</title>
@@ -43,7 +43,7 @@ Pero…
 «Espera, ¿por qué te estás poniendo tan roja?».
 
 Una comedia romántica sobre una belleza oculta que solo yo conozco, que empieza desde la amistad.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-i-found-amari-chan-next-to-the-number-one-girl-i-wanted-to-make-my-girlfriend-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F100A3zfVHmw8qArQyBOhgOw" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>The Self-Proclaimed “Normal” Guy of The S-Class Academy Novela Ligera en Español</title>
@@ -73,6 +73,6 @@ Pensé que por fin podría vivir una vida normal, pero la "normalidad" no es tan
 Por alguna razón, me hice popular entre las chicas guapas de la academia de clase S, donde se reúnen los genios, uno tras otro.
 
 Esta es una historia sobre un protagonista con altas especificaciones ocultas que, después de "aislarse" de la protagonista femenina, se vuelve popular en todas partes, y le dicen: "Como se esperaba de ti", "Como debe ser", independientemente de su propia voluntad.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-self-proclaimed-normal-guy-of-the-s-class-academy-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1bkojW5XWbrSyzZXAhBWWXQ" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

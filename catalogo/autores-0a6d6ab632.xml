@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:0a6d6ab632</id>
 <title>Akiko Inoue</title>
-<updated>2026-10-20T16:38:00.698678+00:00</updated>
+<updated>2026-10-20T17:08:06.133415+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-0a6d6ab632.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>We are Pretty Cure Max Heart Novela Ligera en Español</title>
@@ -25,6 +25,6 @@ La novela se abre con una prosa tan cálida que casi puedes tocar la suavidad de
 La respiración y el esfuerzo físico se transmiten con tal intensidad que se viven en la propia piel; ahí está el verdadero gusto de leer un combate. Y de repente: «¡Dual Aurora Wave!» Una luz de siete colores las envuelve y un traje de base negra se extiende sobre Nagisa: un gran lazo rosa en el pecho y volantes del mismo tono en hombros y bajo de la falda.
 
 A partir de ahí, las Pretty Cure —esas que todo fan guarda en la memoria— se describen con tanto mimo que es imposible no verlas aterrizar frente a ti. ¡Comienza el sexto volumen de «Pretty Cure para leer»!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-we-are-pretty-cure-max-heart-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F18dvj13gA888CPOhIVlJNrQ" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

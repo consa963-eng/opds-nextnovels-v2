@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:7f8f32ef8a</id>
 <title>Ichiya Sumi</title>
-<updated>2026-10-20T16:38:00.711702+00:00</updated>
+<updated>2026-10-20T17:08:06.156182+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-7f8f32ef8a.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>My Transfer Destination Is a City of Women! Novela Ligera en Español</title>
@@ -25,6 +25,6 @@ Una doncella con el trasero completamente al descubierto, una señora feudal de 
 ¡Una ciudad entera convertida en un harén!
 
 ¡Así comienza esta fantasía de una vida amorosa y apasionada en otro mundo!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-my-transfer-destination-is-a-city-of-women-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1_0nF_XpOBDjhlV7DncblNg" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

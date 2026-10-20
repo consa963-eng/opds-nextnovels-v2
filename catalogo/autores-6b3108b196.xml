@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:6b3108b196</id>
 <title>Morry</title>
-<updated>2026-10-20T16:38:00.728984+00:00</updated>
+<updated>2026-10-20T17:08:06.183174+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-6b3108b196.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>My Slow Life with the Princess Knight and Her Devoted Handmaiden Novela Ligera en Español</title>
@@ -27,6 +27,6 @@ Pero esa misma noche, mientras lo ayuda en el baño, Falna le suplica que no pon
 La actitud honesta y sincera que Garant mantiene incluso entonces disipa por completo las sospechas de ambas, y poco a poco empiezan a mirarlo con buenos ojos.
 
 Cuando las seductoras bellezas esclavas comienzan un servicio activo y cargado de deseo, el corazón de Garant va encontrando la calma…</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-my-slow-life-with-the-princess-knight-and-her-devoted-handmaiden-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1pujuWa8Wvp7js7Kg_h_c3g" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

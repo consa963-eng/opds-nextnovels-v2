@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:3d856f2d10</id>
 <title>Shin Towada</title>
-<updated>2026-10-20T16:38:00.742237+00:00</updated>
+<updated>2026-10-20T17:08:06.203194+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-3d856f2d10.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Tokyo Ghoul: Days Novela Ligera en Español</title>
@@ -17,7 +17,7 @@
 <category term="Seinen" label="Seinen"/>
 <category term="Supernatural" label="Supernatural"/>
 <content type="text">En la cafetería Anteiku, donde se reúnen los ghouls, el peligro y la posibilidad de ser descubiertos acechan. Yoshimura, el dueño de la cafetería, tiene sospechas sobre cierta persona. ¿Qué tipo de oscuridad traerá esa persona a quienes cazan y a quienes son cazados? Este libro recoge seis historias totalmente nuevas del universo de Tokyo Ghoul.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-tokyo-ghoul-days-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1xMbcz-UevFzeDyPVy-Yhgg" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Tokyo Ghoul: Past Novela Ligera en Español</title>
@@ -32,7 +32,7 @@
 <category term="Seinen" label="Seinen"/>
 <category term="Supernatural" label="Supernatural"/>
 <content type="text">Antes del incidente de la estructura de acero en el Distrito 20, ya se habían recibido informes de que había ghouls acechando entre la multitud en Tokio, acechando cuidadosamente a sus presas. Esta novela narra los acontecimientos que tuvieron lugar antes del inicio de la serie *Tokyo Ghoul*: una época en la que Kaneki aún era humano, los Kirishima aún vivían juntos y Rize disfrutaba de sus banquetes.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-tokyo-ghoul-past-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1xHf5Lo3vohL6Wp1pFq8f0w" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Tokyo Ghoul: Void Novela Ligera en Español</title>
@@ -47,7 +47,7 @@
 <category term="Seinen" label="Seinen"/>
 <category term="Supernatural" label="Supernatural"/>
 <content type="text">Tras la incursión sin precedentes de la organización «El Árbol de Aogiri» en el centro de detención de ghouls, la Comisión Antighoul está trabajando para reforzar la seguridad en los veintitrés distritos. Sin embargo, algunos ghouls comienzan a provocar disturbios en el Distrito 8, perpetuando el ciclo de represalias entre humanos y ghouls. ¿Y qué ha sido de Kaneki desde que abandonó el Distrito 20? Esta segunda novela narra las secuelas seis meses después de la ocupación del Distrito 11.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-tokyo-ghoul-void-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Pv2mCUVuKwGjetHUZy-9AA" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Tokyo Ghoul:re: Quest Novela Ligera en Español</title>
@@ -72,6 +72,6 @@ La preparación de dulces del equipo de Suzuya y Haise. Los recuerdos de Tsukiya
 El festival de arte celebrado en la [CCG], la admiración de Ihei por la Muerte.
 
 Los que se han ido y los que aún permanecen, las huellas que cada uno ha dejado están aquí...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-tokyo-ghoulre-quest-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1vJkqqcd4tu6xhPqGg_5bxg" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

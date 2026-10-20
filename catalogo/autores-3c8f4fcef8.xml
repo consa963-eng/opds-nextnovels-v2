@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:3c8f4fcef8</id>
 <title>Sasa Tougorou</title>
-<updated>2026-10-20T16:38:00.739585+00:00</updated>
+<updated>2026-10-20T17:08:06.199217+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-3c8f4fcef8.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>I, An S-Rank Adventurer, Will Buy And Protect My Enslaved Childhood Friend I’ve Trained Together With In Swords Novela Ligera en Español</title>
@@ -25,6 +25,6 @@ Lunois Styler, un segundo santo de la espada que es un aventurero de rango S, se
 Lunois compra a Aine para salvarla, pero ella lleva un collar maldito que hace que quien lo lleva «entre en celo» una vez al día...
 
 ¡La lucha de Lunois para encontrar una forma de quitarle el collar comienza ahora!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-i-an-s-rank-adventurer-will-buy-and-protect-my-enslaved-childhood-friend-ive-trained-together-with-in-swords-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1uaKoh5GAlAq-FocnyqUtXg" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:90fa75fbc2</id>
+<title>Julián Andújar</title>
+<updated>2026-10-20T17:08:06.159741+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-90fa75fbc2.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>El Crisol del Último Dao Novela Web en Español</title>
+<id>https://nextnovels.com/descargar-el-crisol-del-ultimo-dao-novela-web-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-el-crisol-del-ultimo-dao-novela-web-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/El-Crisol-del-Ultimo-Dao-Portada.jpg" />
+<author><name>Julián Andújar</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Cultivación" label="Cultivación"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Wuxia" label="Wuxia"/>
+<content type="text">Le arrebataron su clan, su poder y hasta su nombre. Le llaman el Lisiado. Pero cuando setecientos ochenta y cuatro fracasos alquímicos dan a luz una píldora que desafía las leyes del cielo, Tang Wu descubre que su núcleo roto nunca fue una maldición: fue la primera grieta de un Dao que alguien quiso borrar para siempre. En un mundo donde los dioses cazan a quien se atreva a cultivar el camino prohibido, el último de los Tang se alzará no con un puño que parte montañas, sino con un crisol capaz de fundir el destino mismo. El dogma arderá. Las cenizas hablarán.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1K1FXN5wfWA7pKGPXBiJJsg" type="application/epub+zip" title="Descargar" />
+</entry>
+</feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:84ba5d1b72</id>
 <title>長山 久竜</title>
-<updated>2026-10-20T16:38:00.757401+00:00</updated>
+<updated>2026-10-20T17:08:06.228221+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-84ba5d1b72.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Even If the Stars Perish, You Shall Resound Novela Ligera en Español</title>
@@ -23,6 +23,6 @@ Nuestra extraña convivencia comenzó para impedir mi suicidio. Los días que po
 Pero yo no sabía nada. Ni el significado de por qué ella seguía huyendo, ni la razón por la que se detuvo, ni siquiera la única broma que se escondía en el futuro.
 
 Esta es una historia de juventud y despedida que supera el pasado y el futuro, y una historia de amor que resuena a través del tiempo eterno.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-even-if-the-stars-perish-you-shall-resound-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1emraZfyKqLT-zdZN-jH4jQ" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

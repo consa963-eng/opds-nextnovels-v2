@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:56eee927f9</id>
 <title>Sushi Thunder</title>
-<updated>2026-10-20T16:38:00.745219+00:00</updated>
+<updated>2026-10-20T17:08:06.209007+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-56eee927f9.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Umezono the Narcissist and His Little Devotee Novela Ligera en Español</title>
@@ -27,6 +27,6 @@ Seis meses después, una hermosa desconocida que dice ser su seguidora aparece f
 Umezono intenta idear formas de mantener distancia de Kirimura, quien se le ha encariñado, pero, en contra de sus propios deseos, cada vez más personas empiezan a involucrarse a su alrededor...
 
 ¡Una comedia romántica sobre un estudiante solitario que se ama demasiado a sí mismo y una chica perfecta que lo admira profundamente!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-umezono-the-narcissist-and-his-little-devotee-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1no5pmxsyRgDhGCUX2PdleA" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

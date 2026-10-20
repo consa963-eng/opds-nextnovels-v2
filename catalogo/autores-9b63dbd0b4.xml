@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:9b63dbd0b4</id>
 <title>Saeki-san</title>
-<updated>2026-10-20T16:38:00.737538+00:00</updated>
+<updated>2026-10-20T17:08:06.196471+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-9b63dbd0b4.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Angel Next Door Spoils Me Rotten Novela Ligera en Español</title>
@@ -22,6 +22,9 @@
 "No es asunto tuyo".
 
 La relación con un ángel de lengua afilada comienza con la entrega de un paraguas. Desde coger un resfriado y que alguien te cuide, hasta hacer una comida a alguien porque descuidó su salud, pasando por el trabajo conjunto (limpieza de habitaciones)...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-angel-next-door-spoils-me-rotten-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/13O7fced5V2gqzm74vl7ZAA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1MDp_OKQtF3OyQavvKg1pUg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Swczr1EYbvRPWfdhfZ-BrQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fterabox.com%2Fs%2F1NbLdS-UZRJJUrg4cMJy-wg" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

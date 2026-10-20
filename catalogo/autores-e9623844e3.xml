@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:e9623844e3</id>
 <title>Misoneta Dozaemon</title>
-<updated>2026-10-20T16:38:00.727545+00:00</updated>
+<updated>2026-10-20T17:08:06.180853+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-e9623844e3.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Koukou Jidai ni Gouman datta Joou-sama Tono Dousei Seikatsu wa Igaito Igokochi ga Warukunai Novela Ligera en Español</title>
@@ -26,6 +26,6 @@ Yamamoto descubrió la verdad: El novio de Hayashi la g0lpe4ba.
 Al enterarse, decide ayudarla para lo cual se la lleva a su departamento para esconderla.
 
 Una vez allí y justo cuando Yamamoto iba a irse a dormir, Hayashi lo abraza por la espalda y....</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/koukou-jidai-ni-gouman-datta-joou-sama-tono-dousei-seikatsu-wa-igaito-igokochi-ga-warukunai-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1eaujfgFWQssfv35FZeXW_g" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

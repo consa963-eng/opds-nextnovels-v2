@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:ce3e46d41c</id>
 <title>Kisin Oikawa</title>
-<updated>2026-10-20T16:38:00.719359+00:00</updated>
+<updated>2026-10-20T17:08:06.168027+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-ce3e46d41c.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>My Three Pure Girlfriends Who Want to Be My Number One Novela Ligera en Español</title>
@@ -25,6 +25,6 @@ Rinne, la brillante desarrolladora de aplicaciones, ha creado la última app de 
 A mí, su hermano mayor, me asignaron como concursante, y el test de compatibilidad amorosa que me hicieron dio como resultado la inesperada conclusión de que «si sales con las tres chicas guapas de tu clase, incluida Rinne, al mismo tiempo, ¡tendrás un 99 % de probabilidades de éxito!».
 
 Después de eso, el triángulo amoroso transcurrió sin problemas en apariencia. Sin embargo, a medida que la distancia entre nosotros se acortaba, la posesividad y las retorcidas intenciones de las tres chicas se intensificaban cada vez más: una comedia romántica cotidiana moralmente cuestionable tejida a partir de una relación inusual y las intensas emociones de las chicas.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-my-three-pure-girlfriends-who-want-to-be-my-number-one-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1A1mHJO1DNrkr2x_pfbAQsw" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

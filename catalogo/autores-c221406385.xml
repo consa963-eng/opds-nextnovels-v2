@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:c221406385</id>
 <title>Jougi Shiraishi</title>
-<updated>2026-10-20T16:38:00.713528+00:00</updated>
+<updated>2026-10-20T17:08:06.159412+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-c221406385.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Majo no Tabitabi Novela Ligera en Español</title>
@@ -16,6 +16,8 @@
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Tragedia" label="Tragedia"/>
 <content type="text">Había una vez una bruja llamada Elaina, que emprendió un viaje a lo largo del mundo. En su camino conocería a todo tipo de personas, desde un país lleno de brujas hasta un gigante enamorado de sus propios músculos, pero con cada encuentro, Elaina se convertiría en una pequeña parte de su historia, y su propio mundo seria un poco más grande.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/majo-no-tabitabi-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F14GgOthbaeKSf0fvpwbkx1w" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1M2bjFGRMzbkW3kIVVlVGZg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1ftxYPBeHHkXLj5jc_fSUbQ" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

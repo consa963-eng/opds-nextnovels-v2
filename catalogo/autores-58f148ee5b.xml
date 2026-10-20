@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:58f148ee5b</id>
 <title>Nagase Sarasa</title>
-<updated>2026-10-20T16:38:00.729807+00:00</updated>
+<updated>2026-10-20T17:08:06.184554+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-58f148ee5b.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>I’m the Villainess, So I’m Taming the Final Boss Novela Ligera en Español</title>
@@ -20,7 +20,8 @@
 Si es así, esquivaré el final mortal domesticando al último enemigo del juego, el rey demonio.
 
 Esta es la historia donde la villana les da su merecido a la heroína, su antiguo prometido y su amigo de la infancia; se convierte en empresaria, obtiene más subordinados (esclavos) y es mimada por el rey demonio.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-im-the-villainess-so-im-taming-the-final-boss-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1ZlwhFlYlceLiJ32UDh4U0Q" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F137HPKGp1W2vFWQiHVZWsFA" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>The Do-Over Damsel Conquers the Dragon Emperor Novela Ligera en Español</title>
@@ -38,6 +39,6 @@ Esta es la historia donde la villana les da su merecido a la heroína, su antigu
 «¡Voy a reformarme, no, voy a hacerte feliz!».
 
 ¡Es hora de rehacer esta vida con el enemigo!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-do-over-damsel-conquers-the-dragon-emperor-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1puytLcfYo9bKtxYQMOlR3w" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

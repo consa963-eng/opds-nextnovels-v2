@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:3a0fe609fa</id>
 <title>Satsuki Hiryuu</title>
-<updated>2026-10-20T16:38:00.740344+00:00</updated>
+<updated>2026-10-20T17:08:06.200542+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-3a0fe609fa.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>After helping ‘Ice Princess’ from another school, I decided to start as a friend Novela Ligera en Español</title>
@@ -26,6 +26,7 @@ Incapaz de rechazar la petición de una chica sin amistades, Souta acepta ser pr
 —Desde el principio había decidido que tú serías el primero.
 
 La “Princesa de Hielo”, fría con todos los demás, empieza a derretir el hielo de su corazón con una sola persona. ¿Podrá Souta seguir siendo solo un amigo para ella?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-after-helping-ice-princess-from-another-school-i-decided-to-start-as-a-friend-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1OgoF6cHRZXRQ2blsnJT9qA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1UJ4M4ACAyO-EUpdjz-m6XA" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

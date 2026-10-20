@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:4d0d97c79a</id>
 <title>Maruto Fumiaki</title>
-<updated>2026-10-20T16:38:00.724942+00:00</updated>
+<updated>2026-10-20T17:08:06.176361+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-4d0d97c79a.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>It’s Quite Late, but I’ve Fallen in Love With My Childhood Friend Novela Ligera en Español</title>
@@ -25,6 +25,6 @@ Ta-kun y yo somos amigos de la infancia desde hace diez años. Nuestra cercanía
 Ah, pero dijo que nadie le ha confesado su amor aún ¿Eso quiere decir que todavía tengo una oportunidad, no? ¿Que aún puedo llegar a ser la novia de Ta-kun…?
 
 Yo soy Hkari Shirasaka, 16 años… Y aunque sea tarde para admitirlo… me he enamorado de mi amigo de la infancia.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-its-quite-late-but-ive-fallen-in-love-with-my-childhood-friend-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1FCrtX24aXADfNrTuoWzHqQ" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

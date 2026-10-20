@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:4345c3ea3e</id>
 <title>Miraizin A</title>
-<updated>2026-10-20T16:38:00.727130+00:00</updated>
+<updated>2026-10-20T17:08:06.180114+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-4345c3ea3e.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Abandoned Reincarnation Sage Novela Ligera en Español</title>
@@ -26,6 +26,6 @@ Dejado a su suerte para morir, es rescatado milagrosamente por una goblin de bue
 Decidido a devolverle el favor a la goblin que lo salvó, Beramus canaliza la sabiduría de su vida pasada para ayudar a que la aldea prospere —y pronto, para unir a todas las tribus de monstruos bajo un mismo estandarte.
 
 Se alzará el reino más poderoso, no para la humanidad… sino para aquellos a quienes temen.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-abandoned-reincarnation-sage-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F16zL3NZmc7AQThJXWpuh7TQ" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:bbe9ce6bf8</id>
 <title>Yanagawa Keisho</title>
-<updated>2026-10-20T16:38:00.752755+00:00</updated>
+<updated>2026-10-20T17:08:06.220420+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-bbe9ce6bf8.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Today, I Was Confessed To by the Student Council President, Reunited with My Childhood Friend, and Had a Marriage Meeting with a Nordic Noble Lady Novela Ligera en Español</title>
@@ -37,6 +37,6 @@ Nadeshiko Elvshid, la hermosa hija del presidente de una empresa del norte de Eu
 Casualmente, la conocí hoy por primera vez en la reunión para concertar el matrimonio, y me propuso matrimonio.
 
 ¡Una comedia romántica repentina y simultánea se desarrolla en tres direcciones!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-today-i-was-confessed-to-by-the-student-council-president-reunited-with-my-childhood-friend-and-had-a-marriage-meeting-with-a-nordic-noble-lady-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1hs2DDT8Z5YZZvzJxtyuLhA" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

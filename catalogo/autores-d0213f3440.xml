@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:d0213f3440</id>
 <title>Yuu Yuuki</title>
-<updated>2026-10-20T16:38:00.755003+00:00</updated>
+<updated>2026-10-20T17:08:06.224297+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-d0213f3440.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Psychology of Harem to Establish a Kingdom Novela Ligera en Español</title>
@@ -19,6 +19,6 @@
 <category term="Maduro" label="Maduro"/>
 <category term="Romance" label="Romance"/>
 <content type="text">Un desafortunado chico de secundaria, Shinta Namba, que está loco por las mujeres pero no puede interactuar con ellas debido a una fobia femenina (y un trastorno comunicativo). Fue llevado accidentalmente a otro mundo, y cuando despertó, tenía un libro de psicología. Shinta, quien leyó cuidadosamente todo el libro, prometió sobrevivir a este mundo con solo su conocimiento psicológico, pero… ¡Esta es una historia de un chico que no tiene habilidades y, por supuesto, no tiene dinero ni estatus, y antes de que se dé cuenta, él y su psicología lo harán posible!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-psychology-of-harem-to-establish-a-kingdom-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1LBfrGOnMzOWpAk2RhRV6ZQ" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

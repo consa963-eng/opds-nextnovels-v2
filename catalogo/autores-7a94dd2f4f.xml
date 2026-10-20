@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:7a94dd2f4f</id>
 <title>Tsukishima Shuuichi</title>
-<updated>2026-10-20T16:38:00.750813+00:00</updated>
+<updated>2026-10-20T17:08:06.216768+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-7a94dd2f4f.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>I Kept Pressing the 100-Million-Year Button and Came Out on Top Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-i-kept-pressing-the-100-million-year-button-and-came-out-on-top-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-i-kept-pressing-the-100-million-year-button-and-came-out-on-top-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/05/Ichiokunen-Button-o-Rendashita-Portada.jpg" />
+<title>Ichiokunen Button o Rendashita Ore wa, Kidzuitara Saikyou ni Natteita Novela Web en Español</title>
+<id>https://nextnovels.com/ichiokunen-button-o-rendashita-ore-wa-kidzuitara-saikyou-ni-natteita-novela-web-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/ichiokunen-button-o-rendashita-ore-wa-kidzuitara-saikyou-ni-natteita-novela-web-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/09/Ichiokunen-Button-o-Rendashita-Ore-wa-Kidzuitara-Saikyou-ni-Natteita-Portada.jpeg" />
 <author><name>Tsukishima Shuuichi</name></author>
 <category term="Acción" label="Acción"/>
 <category term="Artes marciales" label="Artes marciales"/>
@@ -21,6 +21,7 @@
 <category term="Shounen" label="Shounen"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Allen se está entrenando para ser espadachín, pero no es bueno en eso. Después de aceptar un duelo con mucho en juego, está a punto de abandonar cuando un hombre misterioso le ofrece la oportunidad de obtener 100 millones de años de entrenamiento con solo presionar un botón. ¡¿Pero qué pasa cuando lo presiona una y otra vez?!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-i-kept-pressing-the-100-million-year-button-and-came-out-on-top-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1iQ5heWIs47nCWueetFO0yg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F16cYSXl5sfWJLiOQ4XPirxA" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

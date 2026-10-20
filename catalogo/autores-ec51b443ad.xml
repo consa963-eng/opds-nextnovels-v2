@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:ec51b443ad</id>
 <title>Midorimamesora</title>
-<updated>2026-10-20T16:38:00.725543+00:00</updated>
+<updated>2026-10-20T17:08:06.177350+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-ec51b443ad.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Bullet Hellion Novela Ligera en Español</title>
@@ -19,6 +19,6 @@
 <category term="Seinen" label="Seinen"/>
 <category term="Tragedia" label="Tragedia"/>
 <content type="text">El otaku militar Takayama Junya creyó que su vida había terminado después de recibir un disparo de un arma real durante un torneo de paintball en Estados Unidos. Pero de pronto se encuentra reencarnado en otro mundo como el joven noble Raúl. Ahora, con una habilidad especial que le permite invocar a voluntad las armas de fuego que tanto ama, Raúl está ansioso por comenzar una nueva vida llena de entrenamiento de combate y raciones de campaña. ‎ ‎Sin embargo, cuando una nación enemiga invade su hogar y mata a su padre, la madre de Raúl revela la sorprendente verdadera naturaleza del chico. ¡Depende de Raúl y de sus nuevos camaradas lanzar un contraataque, con todas las armas disparando!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-bullet-hellion-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1kZ5m7vIl6OJfephwDy7CcQ" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

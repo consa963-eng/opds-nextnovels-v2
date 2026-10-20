@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:b0cadd4a2d</id>
 <title>So Hajikano</title>
-<updated>2026-10-20T16:38:00.744127+00:00</updated>
+<updated>2026-10-20T17:08:06.206271+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-b0cadd4a2d.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Genjitsu de Rabukome Dekinai to Dare ga Kimeta? Novela Ligera en Español</title>
@@ -21,6 +21,6 @@
 ¿No han pensado esto todos los amantes de las romcom que disfrutan de las novelas ligeras? Estar enamorado de la heroína y llevar una vida satisfactoria en el instituto con los mejores amigos. Sin embargo, es imposible que algo tan emocionante ocurra en la realidad. No tengo una hermanastra menor, ni un amigo de la infancia, ni un compañero de clase que sea un ídolo, ni un misterioso senpai, ni siquiera un personaje masculino como mejor amigo. Siendo así, ¿qué puedo hacer? Obviamente, ¡tengo que montarlo yo mismo! ¡Para una comedia romántica, se necesita tanto el análisis de datos como la práctica constante! Así como...
 
 Nota: Ganador del 14º Premio Shogakukan de Novela Ligera a la Excelencia.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-genjitsu-de-rabukome-dekinai-to-dare-ga-kimeta-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1JaaDAlVT2lXUsf8J9Is1xA" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

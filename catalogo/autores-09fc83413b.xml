@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:09fc83413b</id>
 <title>Ishida Tomoha</title>
-<updated>2026-10-20T16:38:00.712642+00:00</updated>
+<updated>2026-10-20T17:08:06.157717+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-09fc83413b.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>6 Main Heroines Who Absolutely Want to Monopolize Me Novela Ligera en Español</title>
@@ -30,6 +30,6 @@ A Shinichi le inquieta la tarea de determinar quién debe ser eliminada de entre
 Sin embargo, todo cambia cuando surge una acusación anónima, afirmando--『¡Alguien entre nosotros nos está engañando!』.
 
 Así comienza una comedia amorosa en la que Shinichi decide la heroína perdedora, ¡un romance construido sobre la premisa del rechazo!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-6-main-heroines-who-absolutely-want-to-monopolize-me-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F13MnIhtObZNbjNH-cO8iAEw" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

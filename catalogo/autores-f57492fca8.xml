@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:f57492fca8</id>
 <title>Fumi Kazuki</title>
-<updated>2026-10-20T16:38:00.704567+00:00</updated>
+<updated>2026-10-20T17:08:06.144989+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-f57492fca8.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>I Can’t Settle for Mutual Love With My Childhood Friend Who’s an Unconscious Flirt Novela Ligera en Español</title>
@@ -25,6 +25,6 @@ No hay duda de que ambos están enamorados. Para evitar el bucle, intentan avanz
 Sin embargo, descubren que la condición para romper el bucle es crear un ‘hecho consumado’ entre los dos…
 
 ¡Una comedia romántica dulce y desesperante en la que dos enamorados intentan superar el bucle y dar un paso adelante en su relación!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-i-cant-settle-for-mutual-love-with-my-childhood-friend-whos-an-unconscious-flirt-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1J3QmfLK0Get2wFSCnhksMQ" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

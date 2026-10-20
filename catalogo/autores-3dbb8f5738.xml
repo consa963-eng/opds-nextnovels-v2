@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:3dbb8f5738</id>
 <title>3pu</title>
-<updated>2026-10-20T16:38:00.696910+00:00</updated>
+<updated>2026-10-20T17:08:06.129998+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-3dbb8f5738.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Mob Girl Tanaka-san Is Cuter Than the Main Heroine Novela Ligera en Español</title>
@@ -20,6 +20,6 @@ Este mundo está basado en un manga de comedia romántica, así que Tanaka-san d
 Es un poco torpe, a veces se golpea la cabeza con las cosas sin querer, pero la forma en que me ayuda en secreto con las cosas que no entiendo en clase y su sonrisa es angelical.
 
 Tanaka-san dice: "Soy normalita", pero yo lo diré una y otra vez: " Lo mires por donde lo mires, ¡Tanaka-san es la más linda del mundo...!"</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-mob-girl-tanaka-san-is-cuter-than-the-main-heroine-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1PtfLfEsTgyKwfeQZeCiz4g" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

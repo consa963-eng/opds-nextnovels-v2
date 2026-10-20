@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:4de211f250</id>
 <title>Jun Esaka</title>
-<updated>2026-10-20T16:38:00.713798+00:00</updated>
+<updated>2026-10-20T17:08:06.159807+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-4de211f250.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Witch Hat Atelier: Special Stories Novela Ligera en Español</title>
@@ -14,6 +14,6 @@
 <category term="Drama" label="Drama"/>
 <category term="Fantasía" label="Fantasía"/>
 <content type="text">¡En esta novela derivada oficial de «Witch Hat Atelier», sigue a los personajes de esta querida serie en tres relatos cortos independientes que no aparecen en el manga! En el primer relato, Olruggio se adentra en las montañas nevadas en busca de Qifrey tras su desaparición y se encuentra con algo que no esperaba. En la segunda historia, los aprendices del Atelier de Qifrey cuidan a un dragoncito que aparece de repente. En la historia final, los Caballeros Moralis se infiltran tras recibir un informe sobre abuso de magia. Nueva ilustración de portada de Kamome Shirahama.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-witch-hat-atelier-special-stories-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1M_bZEzH3zM-jQKq-VCI5BQ" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

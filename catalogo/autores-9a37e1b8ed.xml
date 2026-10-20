@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:9a37e1b8ed</id>
 <title>Yuzu Koshou</title>
-<updated>2026-10-20T16:38:00.755495+00:00</updated>
+<updated>2026-10-20T17:08:06.225251+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-9a37e1b8ed.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>J-Cup AV Mom Novela Ligera en Español</title>
@@ -21,6 +21,6 @@
 Un día, me encontré con su madre, Honami, y descubrí que la madre de mi novia tiene un busto de copa J y no es otra que la legendaria actriz porno "Wakamura Honami"... "Quiero tener una aventura con el novio de mi hija, lo deseo con todas mis fuerzas
 
 ". Presionado por su madre lasciva, aprecio a Hitomi y, por supuesto, rechazaría su invitación... ¡Imposible! (Este es un ebook recién publicado que incluye un relato corto que fue clasificado como el número 1 diario/semanal/mensual en un sitio web de envíos).</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-j-cup-av-mom-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1z1iP5kHyuR1JKqdwoFaFFQ" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

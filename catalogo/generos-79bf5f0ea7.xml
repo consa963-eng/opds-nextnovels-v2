@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:generos:79bf5f0ea7</id>
 <title>Artes marciales</title>
-<updated>2026-10-20T16:38:00.765726+00:00</updated>
+<updated>2026-10-20T17:08:06.237251+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-79bf5f0ea7.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Absolute Duo Novela Ligera en Español</title>
@@ -18,7 +18,22 @@
 <category term="Supernatural" label="Supernatural"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Tōru Kokonoe es un joven que decide, luego de perder a alguien valioso en un aterrador incidente, ser más fuerte. Por ende, se inscribe en una escuela especial donde las personas manifiestan sus almas como armas llamadas Blaze. Las personas con esta inusual habilidad son denominados "Exceed" y este fenómeno se da en 1 de cada 1000 personas. Tōru es capaz de producir su propio Blaze, pero por alguna razón se manifiesta como un escudo en lugar de un arma.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-absolute-duo-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1TAAMkB88kXblSB0ZuqSNBw" type="application/epub+zip" title="Descargar" />
+</entry>
+<entry>
+<title>Absolute Regression Novela Web en Español</title>
+<id>https://nextnovels.com/descargar-absolute-regression-novela-web-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-absolute-regression-novela-web-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/02/Absolute-Regression-Portada.jpg" />
+<author><name>Jang Young Hun</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Wuxia" label="Wuxia"/>
+<content type="text">[¡Del estudio que te trajo El regreso del demonio loco y del artista detrás de The Breaker!] "Por favor, envíame al pasado". Si no podía derrotar a esa persona en esta época, simplemente debía regresar en el tiempo. Con la "Técnica de la Gran Regresión", el hombre viajó a través del tiempo, volviendo al pasado que tanto anhelaba.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Q7_7DUEbOlLHWiQqwkDlKQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1gxu1VhXnKH0n6U4Zu_zHUA" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Assassins Pride Novela Ligera en Español</title>
@@ -34,13 +49,190 @@
 <category term="Seinen" label="Seinen"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">En el mundo donde solo los aristócratas tienen el poder de luchar contra el «monstruo», mana. Un joven llamado Kufa es enviado como tutor para encontrar el talento de Mareida, una niña molesta nacida en la familia de un duque. Si ella no tiene el talento necesario, deberá asesinarla. Ese, es el lado oscuro de su misión…</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-assassins-pride-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1dD1I0QK8NVlH_oxTeBr20w" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F12yZFr--ETbYyyn2hKf8TWg" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
-<title>I Kept Pressing the 100-Million-Year Button and Came Out on Top Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-i-kept-pressing-the-100-million-year-button-and-came-out-on-top-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-i-kept-pressing-the-100-million-year-button-and-came-out-on-top-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/05/Ichiokunen-Button-o-Rendashita-Portada.jpg" />
+<title>Chasing Jade Novela Web en Español</title>
+<id>https://nextnovels.com/descargar-chasing-jade-novela-web-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-chasing-jade-novela-web-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/06/Chasing-Jade-Portada-1.jpg" />
+<author><name>Tuan Zi Lai Xi</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Histórico" label="Histórico"/>
+<category term="Maduro" label="Maduro"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Romance" label="Romance"/>
+<category term="Wuxia" label="Wuxia"/>
+<content type="text">Después de que sus padres fallecieron, Fan Chang Yu enfrentó una serie de dificultades: su novio desde la infancia rompió su compromiso, parientes codiciosos querían apoderarse de su herencia y, con una hermana de cinco años a quien cuidar, decidió casarse solo de nombre.
+
+Su plan se centraba en un hombre al que salvó: herido, sin nada a su nombre más que un rostro sorprendentemente atractivo. Rápidamente llegaron a un acuerdo: ella lo acogería para que se recuperara y él fingiría casarse con ella, ayudándola a conservar los bienes de su familia.
+
+Una vez que el negocio familiar estuvo seguro, Fan Chang Yu se preparó para redactar el acuerdo de divorcio, según lo prometido. Sin embargo, estalló una guerra y se reclutaron soldados; su "esposo" fue reclutado y desapareció sin dejar rastro.
+
+La próxima vez que lo vio, estaba empapado en sangre, tendido en una tienda de soldados heridos. Su hermoso rostro estaba manchado de sangre, mientras que su sencillo uniforme de soldado estaba hecho jirones. Al ver las dificultades que había soportado, los ojos de Fan Changyu se enrojecieron de lágrimas.
+
+—Ya no seas soldado —susurró ella, con la voz entrecortada—. Vuelve. Mataré cerdos para mantenerte.
+
+Él apenas abrió los ojos, tosiendo sangre.
+
+—Tú querías el divorcio.
+
+Los ojos de ella se llenaron de lágrimas.
+
+—¡No divorcio, no divorcio!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F18OfVUXCP_6w9BVpt3fkaCg" type="application/epub+zip" title="Descargar" />
+</entry>
+<entry>
+<title>Divine Transcendence Novela Web en Español</title>
+<id>https://nextnovels.com/descargar-divine-transcendence-novela-web-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-divine-transcendence-novela-web-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/07/Divine-Transcendence-Portada.jpg" />
+<author><name>Wang Yu</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Xianxia" label="Xianxia"/>
+<category term="Xuanhuan" label="Xuanhuan"/>
+<content type="text">¿Qué es un inmortal? Son mortales que se han transformado tomando la esencia del cielo y de la tierra, despojándose de sus cuerpos mundanos y obteniendo la creación del universo.
+
+Esta es la leyenda de una bestia s*ave que está descontenta con su destino y lucha contra todos los reinos.
+
+Sabe que sólo convirtiéndose en inmortal podrá este reino recuperar por fin el aliento.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1ANLg4CLYR_aL2ssydXqodA" type="application/epub+zip" title="Descargar" />
+</entry>
+<entry>
+<title>Dukedom’s Legendary Prodigy Novela Web en Español</title>
+<id>https://nextnovels.com/descargar-dukedoms-legendary-prodigy-novela-web-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-dukedoms-legendary-prodigy-novela-web-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/Dukedoms-Legendary-Prodigy-Portada.jpg" />
+<author><name>체나</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<content type="text">Han Sung, comandante supremo de la última resistencia de la Tierra, solía cazar monstruos. Trasladado a otro mundo, fue explotado por el Imperio como su perro de caza antes de ser finalmente descartado.
+
+Después de ser traicionado y dado por muerto, abrió los ojos y se encontró renacido como Dale, hijo del Duque Oscuro, el mago noir más poderoso del Imperio.
+
+«Derribaré el Imperio con mis propias manos».
+
+Con la espada, la magia y la nigromancia, además del conocimiento y el poder que adquirió en su vida pasada, Dale resurge como el prodigioso genio de la casa ducal.
+
+Antiguo sabueso leal al Imperio, ahora apunta directamente a su corazón.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Lnm3V9Y8mIIiHkJtIT893g" type="application/epub+zip" title="Descargar" />
+</entry>
+<entry>
+<title>El Crisol del Último Dao Novela Web en Español</title>
+<id>https://nextnovels.com/descargar-el-crisol-del-ultimo-dao-novela-web-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-el-crisol-del-ultimo-dao-novela-web-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/El-Crisol-del-Ultimo-Dao-Portada.jpg" />
+<author><name>Julián Andújar</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Cultivación" label="Cultivación"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Wuxia" label="Wuxia"/>
+<content type="text">Le arrebataron su clan, su poder y hasta su nombre. Le llaman el Lisiado. Pero cuando setecientos ochenta y cuatro fracasos alquímicos dan a luz una píldora que desafía las leyes del cielo, Tang Wu descubre que su núcleo roto nunca fue una maldición: fue la primera grieta de un Dao que alguien quiso borrar para siempre. En un mundo donde los dioses cazan a quien se atreva a cultivar el camino prohibido, el último de los Tang se alzará no con un puño que parte montañas, sino con un crisol capaz de fundir el destino mismo. El dogma arderá. Las cenizas hablarán.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1K1FXN5wfWA7pKGPXBiJJsg" type="application/epub+zip" title="Descargar" />
+</entry>
+<entry>
+<title>Golden Age Legitimate Fei Novela Web en Español</title>
+<id>https://nextnovels.com/descargar-golden-age-legitimate-fei-novela-web-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-golden-age-legitimate-fei-novela-web-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/01/Golden-Age-Legitimate-Fei-Portada.jpg" />
+<author><name>Feng Qing</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Drama" label="Drama"/>
+<category term="Histórico" label="Histórico"/>
+<category term="Josei" label="Josei"/>
+<category term="Romance" label="Romance"/>
+<content type="text">Un edicto concedió el matrimonio.
+
+Una hija noble con tres defectos: sin talento, sin belleza, sin virtud.
+
+Un príncipe basura: desfigurado, discapacitado, gravemente enfermo.
+
+Todo el mundo dice: ¡La pareja perfecta!
+
+Bajo el velo nupcial, ella esbozaba una sonrisa superficial. Tranquila y serena. Habiendo experimentado la vida y la muerte, solo quería llevar una vida tranquila.
+
+Al subir al salón de bodas, él tenía una leve sonrisa en el rostro; un corazón tan frío como el hielo. Sufrió todo tipo de humillaciones, pero llegará el día en que se alzará por encima de todos bajo los cielos.
+
+—Él es mi esposo. Intimidarlo a él es intimidarme a mí. Insultarlo a él es insultarme a mí. Hacerle daño a él es hacerme daño a mí. Si alguien me hace daño, ¡tendré que quitarle la vida!
+
+—Su Señoría no cree en los seres sobrenaturales y no busca el cielo. Si ella muere, ¡Su Señoría convertirá todo este mundo en un purgatorio y sacrificará todo este país para ella!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F16ZjZQRWPeIvNoeoEiulxeA" type="application/epub+zip" title="Descargar" />
+</entry>
+<entry>
+<title>Heavenly Demon Cultivation Simulation Novela Web en Español</title>
+<id>https://nextnovels.com/heavenly-demon-cultivation-simulation-novela-web-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/heavenly-demon-cultivation-simulation-novela-web-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/09/Heavenly-Demon-Cultivation-Simulation-Portada.webp" />
+<author><name>조형근</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Wuxia" label="Wuxia"/>
+<content type="text">Que extraño.
+
+Pensé que estaba muerto, pero palabras extrañas cegaron mis ojos.
+
+[Por favor seleccione una opción]
+
+▷ Morir
+
+▷ Reiniciar desde el principio
+
+Uno de mis hombros estaba completamente entumecido, y la Lanza a través de mi estómago me inmovilizó contra el suelo.
+
+Pero, ¿qué era esto ante mis ojos? Este texto.
+
+¿Qué significaba? ¿De qué estaba hablando?
+
+▷▷▷ ¡Bien hecho! ▷▷▷
+
+[Usted eligió Reiniciar desde el principio ]
+
+Esta es la historia de Seol Hwi mientras intenta encontrar la mejor decisión en su mundo mezclado con la vida y la muerte.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fterabox.com%2Fs%2F1xvNUFaHcFIDsYZ8qO4c8Tg" type="application/epub+zip" title="Descargar" />
+</entry>
+<entry>
+<title>I Shall Be Everlasting In the World of Immortals Novela Web en Español</title>
+<id>https://nextnovels.com/descargar-i-shall-be-everlasting-in-the-world-of-immortals-novela-web-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-i-shall-be-everlasting-in-the-world-of-immortals-novela-web-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/09/I-Shall-Be-Everlasting-In-the-World-of-Immortals-Portada.jpg" />
+<author><name>Fast Food Restaurant</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Maduro" label="Maduro"/>
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Supernatural" label="Supernatural"/>
+<category term="Xianxia" label="Xianxia"/>
+<content type="text">Seré Eterno En el Mundo de los Inmortales Lan Chang'an ha pasado por dos vidas de reencarnaciones y, en la tercera, buscó la estabilidad hasta alcanzar el Reino del Alma Naciente con la esperanza de desentrañar los misterios de la Estela de los Nueve Sellos. En consecuencia, cultivó la Técnica de los Árboles Perennes, que le proporcionaba un poder modesto a cambio de una mayor longevidad.
+
+Su enfoque no consiste en librar batallas sin miedo, sino en navegar con una precisión constante y forjar vínculos significativos con los demás.
+
+A lo largo de su largo viaje de cultivo, se encontró con individuos en distintas fases de cultivo, como un jefe de facción decente, una belleza prodigiosa, un señor de los demonios gigantes, un cultivador malvado, un demonio milenario y un titiritero que movía los hilos desde detrás de la escena.
+
+Observando el flujo y reflujo del mundo, siendo testigo de sus altibajos, se convirtió sin saberlo en un fósil viviente en el reino del cultivo, semejante a un árbol perenne que se extiende por la eternidad.
+
+En el mundo de los mortales, el flujo de la vida es constante, envuelto en la ilusión de la longevidad, pero las decisiones se toman con decisión, con un claro sentido de la moralidad.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1YsttZUmr4gJcJxqYNNfYpQ" type="application/epub+zip" title="Descargar" />
+</entry>
+<entry>
+<title>Ichiokunen Button o Rendashita Ore wa, Kidzuitara Saikyou ni Natteita Novela Web en Español</title>
+<id>https://nextnovels.com/ichiokunen-button-o-rendashita-ore-wa-kidzuitara-saikyou-ni-natteita-novela-web-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/ichiokunen-button-o-rendashita-ore-wa-kidzuitara-saikyou-ni-natteita-novela-web-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/09/Ichiokunen-Button-o-Rendashita-Ore-wa-Kidzuitara-Saikyou-ni-Natteita-Portada.jpeg" />
 <author><name>Tsukishima Shuuichi</name></author>
 <category term="Acción" label="Acción"/>
 <category term="Artes marciales" label="Artes marciales"/>
@@ -53,7 +245,8 @@
 <category term="Shounen" label="Shounen"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Allen se está entrenando para ser espadachín, pero no es bueno en eso. Después de aceptar un duelo con mucho en juego, está a punto de abandonar cuando un hombre misterioso le ofrece la oportunidad de obtener 100 millones de años de entrenamiento con solo presionar un botón. ¡¿Pero qué pasa cuando lo presiona una y otra vez?!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-i-kept-pressing-the-100-million-year-button-and-came-out-on-top-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1iQ5heWIs47nCWueetFO0yg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F16cYSXl5sfWJLiOQ4XPirxA" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Jimi na Kensei wa Soredemo Saikyou desu Novela Ligera en Español</title>
@@ -74,7 +267,7 @@ Cuando llegó a una etapa en la que podía ser llamado "el más fuerte" en el es
 Su entrenamiento es sencillo, sus técnicas son sencillas, es "el más fuerte" pero parece sencillo.
 
 Con una espada de madera ordinaria en la mano, la lucha del Santo de la Espada de aspecto sencillo acaba de comenzar.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-jimi-na-kensei-wa-soredemo-saikyou-desu-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1E_Fod_2hce6vzpw14qzF0w" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Kage no Jitsuryokusha ni Naritakute! Novela Ligera en Español</title>
@@ -91,7 +284,10 @@ Con una espada de madera ordinaria en la mano, la lucha del Santo de la Espada d
 <category term="Harem" label="Harem"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Al igual que todo el mundo adoraba a los héroes en su infancia, cierto joven adoraba esos poderes ocultos en las sombras. Tras ocultar su fuerza y vivir la mediocre vida de un personaje de la mafia durante el día mientras se somete a un frenético entrenamiento por la noche, finalmente se reencarna en un mundo diferente y obtiene el poder definitivo. El joven que sólo juega a ser un poder en la sombra, sus subordinados incomprendidos, y una gigantesca organización en la sombra que es pisoteada.... Esta es la historia de un joven que ha adorado los poderes en las sombras, posiblemente reinando sobre el mundo de las sombras en otro mundo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/kage-no-jitsuryokusha-ni-naritakute-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1WIJbfMkD4GrMfwr4KKCiAA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1UT-LPdbXvOXU5OmWay44cg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F10f55OdvxM_zXi4buwQlvWQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1FPKOeepVEwRl6BnWzTl_6g" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Kyouran Reijou Nia Liston Novela Ligera en Español</title>
@@ -107,40 +303,8 @@ Con una espada de madera ordinaria en la mano, la lucha del Santo de la Espada d
 <content type="text">Una gran heroína yace invicta en su lecho de muerte, lamentando no haber encontrado nunca un enemigo que pudiera derrotarla. Nunca tuvo la intención de encontrar su destino en ningún otro lugar que no fuera el campo de batalla, y su muerte pacífica la hace desear desesperadamente que las cosas pudieran haber sido diferentes...
 
 Pero cuando de repente vuelve en sí en el cuerpo de la joven y frágil Nia Liston, tiene una lucha completamente nueva por delante. Nia es una niña enfermiza, lo que significa que le queda un largo camino por recorrer antes de estar en forma para luchar. Sin embargo, ahora que ha tenido una segunda oportunidad en la vida, está decidida a conseguir lo que quiere. ¡Esta vez vivirá y morirá para la batalla! ¡Abran paso a la Doncella Despiadada!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/kyouran-reijou-nia-liston-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
-</entry>
-<entry>
-<title>Magical★Explorer Novela Ligera en Español</title>
-<id>https://nextnovels.com/magical-explorer-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/magical-explorer-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/09/01-90.jpg" />
-<author><name>Irisu</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Artes marciales" label="Artes marciales"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Hay un legendario juego de bishoujos que se ha vuelto popular entre los hombres japoneses.
-
-Su nombre es «Explorador★Mágico», o Magiex para abreviar.
-
-El protagonista del juego tiene un poder tramposo además de 12 hermosas heroínas diferentes para coquetear, incluidas 12 heroínas adicionales de contenido extra, un harén de 24 bellezas. ¡Me he convertido en ese protagonista! … No, en cambio, me he vuelto el personaje tercera rueda que siempre se ríe como un idiota a su lado.
-
-Por supuesto que estaba desesperado al principio.
-
-Obviamente. Si soy el protagonista, podría tener a las 24 heroínas para mí junto con un tramposo poder incomparable. Sin embargo, como soy la tercera rueda, no hay heroína que me ponga los ojos encima.
-
-Pero ahora no podría importarme menos el protagonista. ¿Por qué? Porque descubrí la magia. Mientras la usaba, me interesé en ella. Quiero dominarla. Quiero ser el más fuerte. Así lo he decidido.
-
-Abandonaría mi papel como amigo del protagonista para entrenar mi magia y luego vencería a ese tramposo que puede vencer solo al rey demonio.
-
-… Estaba entrenando con ese pensamiento en mente, pero de alguna manera me sigo acercando a las heroínas y, además, no sé por qué, pero me sigo encontrando con eventos como si fuera el protagonista de un eroge.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/magical-explorer-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1qInWOuxtYmiru2oH80p4uw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Wtl0tI_lrmmx_T4qolAppg" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Mahouka Koukou No Rettousei Magian Company Novela Ligera en Español</title>
@@ -167,7 +331,7 @@ El propósito de la organización a la cual Tatsuya fue nombrado director ejecut
 Para Tatsuya, cuya influencia ha superado la de otros Magos de Clase Estratégica, el rumbo en el que ha decidido seguir naturalmente ha llamado la atención de otras personas alrededor del planeta. Un assassin de la asociación “FEHR” en la USNA, es enviado para investigar la dirección que Tatsuya ha elegido…
 
 El telón se abre sobre la nueva leyenda de Shiba Tatsuya——</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/mahouka-koukou-no-rettousei-magian-company-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1Do9nA13QiqxGpCxLYoV5UQ" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Noble Reincarnation Novela Ligera en Español</title>
@@ -190,7 +354,26 @@ A los seis años, ya debe navegar las peligrosas aguas de la corte imperial: her
 Pero la sombra de la rebelión se cierne sobre sus tierras, y los enemigos no dudarán en apuntar al niño príncipe para lograr sus fines. Noah demostrará que incluso el decimotercer príncipe —el más joven y aparentemente débil— puede convertirse en una figura clave en el destino del Imperio.
 
 Un viaje de reencarnación, política palaciega y crecimiento de poder, donde cada aliado suma… y cada decisión puede cambiarlo todo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-noble-reincarnation-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F14z8FQmu7V7eP-Rk26Nnzrg" type="application/epub+zip" title="Descargar" />
+</entry>
+<entry>
+<title>Ochite Kita Ryuu Ou to Horobiyuku Majo no Kuni Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-ochite-kita-ryuu-ou-to-horobiyuku-majo-no-kuni-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-ochite-kita-ryuu-ou-to-horobiyuku-majo-no-kuni-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/06/Ochite-Kita-Ryuu-Ou-to-Horobiyuku-Majo-no-Kuni-Portada.jpg" />
+<author><name>Maisaka Kou</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Supernatural" label="Supernatural"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">En un mundo lejano existen brujas sexis y hermosas que son perseguidas, abusadas y llevadas al borde de la extinción por los humanos. Sin embargo, cierto día un hombre llamado Naga (Rey Dragón) cayó dentro de ese mundo, enfrente de Harrigan, la “Bruja del Bosque Negro”, a quien no pudo evitar manosear sus enormes pechos. Pero en el País de las Brujas, aún cuando todo podría ser perfecto para nuestro protagonista, de pronto aparece Yuuki (la chica amarilla), quien odia en extremo a los hombres y desea matar a Naga. ¿Podrá sobrevivir Naga y evitar la destrucción de este paraíso mágico?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1bfsRFuMs0DnkZl4lrRsU4g" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Ori of the Dragon Chain Novela Ligera en Español</title>
@@ -212,7 +395,7 @@ Un viaje de reencarnación, política palaciega y crecimiento de poder, donde ca
 Sin embargo, la habilidad del chico, que hasta entonces solo existía en su imaginación, no mostraba mejoras. Fue objeto de burlas por parte de quienes lo rodeaban, no tenía amigos, se separó de su amada y sus pasos se detuvieron.
 
 No obstante, un día conoció a una anciana, y ese encuentro marcó el inicio de un cambio gradual en él. Esta es la historia de un chico que comienza a descubrir su verdadera fuerza.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-ori-of-the-dragon-chain-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1vAHGxpC_9_jO879WrVerzA" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Rakudai Kishi no Cavalry Novela Ligera en Español</title>
@@ -233,44 +416,70 @@ No obstante, un día conoció a una anciana, y ese encuentro marcó el inicio de
 La compañera de cuarto de Ikki, Stella Vermillion, resulta ser una princesa de un país extranjero. Stella es una caballero Rank A, la clase de genio en magia que sólo aparece una vez en una década. Cuando Ikki la encontró mientras ella se estaba cambiando la ropa, hubo un grn malentendido, lo que eventualmente terminó en un duelo entre los dos. El castigo para el perdedor es sometimiento eterno al ganador.
 
 Obligados a vivir en el mismo cuarto y practicar magia juntos a lo largo de sus años escolares, ¿cómo se desarrollará la relación de Stella e Ikki?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/rakudai-kishi-no-cavalry-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1y8KRgQErqr-NNWfYKARSYg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1kE0IV28zFh-gm2nXHET2TQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1lGSlCDzXrlcBv6u0e3EPuA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F18FEdv0FGr2YWFaP82TID2A" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1sUGt6CONWuaAuntDaUK6sQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1KsWAzCLaXRqUcyQ4HjIf_w" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
-<title>Seiken Gakuin no Maken Tsukai Novela Ligera en Español</title>
-<id>https://nextnovels.com/seiken-gakuin-no-maken-tsukai-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/seiken-gakuin-no-maken-tsukai-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/06/02-16.jpg" />
-<author><name>Shimizu Yuu</name></author>
+<title>Return of Mount Hua Sect Novela Web en Español</title>
+<id>https://nextnovels.com/return-of-mount-hua-sect-novela-web-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/return-of-mount-hua-sect-novela-web-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/09/Return-of-Mount-Hua-Sect-Portada-1.jpg" />
+<author><name>비가</name></author>
 <category term="Acción" label="Acción"/>
 <category term="Artes marciales" label="Artes marciales"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Aventura" label="Aventura"/>
 <category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
+<category term="Wuxia" label="Wuxia"/>
+<content type="text">Cuando Chung Myung, el Santo de la Espada de la Secta del Monte Hua despierta cien años en el futuro, lo último que recuerda es su sangrienta batalla contra el Demonio Celestial, Chun Ma.
+
+Dicha batalla estuvo cerca de acabar con las Diez Grandes Sectas del antiguo Murim.
+
+Poco después de que Chung Myung terminara la batalla y derrotara a Chun Ma, falleció debido a sus heridas fatales....
+
+Sin embargo, al despertar en su segunda vida, se conmociona al encontrar a su Secta del Monte Hua reducida a una mera sombra de lo que era...
+
+“¿Qué?”
+
+“¿La Secta del Monte Hua ha caído?”
+
+“¿Qué clase de tontería es esta?”
+
+“Hijos de p*rra, ¿cómo se atreven a caer cuando ya había comenzado a abandonar los malos hábitos de la vida mundana?”
+
+El comienzo del Maestro de la Espada de la Flor de Ciruelo, la lucha solitaria de Chung Myung para salvar a la Secta del Monte Hua, que se encuentra en total declive, ¡¡COMIENZA AHORA!!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F16UXaJfXKg1m1HO-PuXGi5Q" type="application/epub+zip" title="Descargar" />
+</entry>
+<entry>
+<title>Seirei Gensouki Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-seirei-gensouki-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-seirei-gensouki-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/02/portada-5-e1643857927939.jpg" />
+<author><name>Kitayama Yuri</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Drama" label="Drama"/>
 <category term="Fantasía" label="Fantasía"/>
 <category term="Harem" label="Harem"/>
 <category term="Romance" label="Romance"/>
 <category term="Shounen" label="Shounen"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Uno de los señores demonios más poderosos de la historia ha estado sellado durante mil años. Cuando finalmente despierta, se reencarna como… ¿un niño de 10 años? ¡Ahora bajo el cuidado de la chica que lo liberó, el Señor Demonio Leonis debe sortear los peligros de la Academia de la Espada Sagrada!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/seiken-gakuin-no-maken-tsukai-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
-</entry>
-<entry>
-<title>Spy Classroom Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-spy-classroom-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-spy-classroom-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-66.jpg" />
-<author><name>Takemachi</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Artes marciales" label="Artes marciales"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Romance" label="Romance"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">Un mundo en el que las guerras se libran con espías. Con un porcentaje de éxito en las misiones del 100%, el extraordinario, aunque bastante difícil de tratar, espía Klaus recibe el encargo de una misión casi imposible por parte de la agencia, que alberga un insano 90% de posibilidades de fracaso y muerte... ¡que por alguna razón implica a siete chicas inexpertas...!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-spy-classroom-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<content type="text">Amakawa Haruto es un hombre joven que murió antes de reunirse con su amigo de la infancia quien desapareció hace cinco años. Rio es es un chico que vive en la pobreza que quiere vengar a su madre quien fue asesinada en frente de él cuando tenía cinco años.
+
+La tierra y otro mundo. Dos personas con historias y valores completamente diferentes. Por alguna razón, las memorias y personalidad de Haruto quien debió haber muerto es resucitado dentro del cuerpo de Rio. Mientras los dos están confundidos de que sus memorias y personalidades fueran fusionadas, Rio (Haruto) decide vivir en este mundo nuevo.
+
+Junto a las memorias de Haruto, Rio despierta un "poder especial" desconocido, y parece que si lo utiliza bien, podrá vivir una vida mejor. Pero antes de eso, Rio se encuentra con un secuestro que parece involucrar dos princesas del Reino Bertram en el que vive.
+
+Luego de salvar a las princesas, a Rio se le concede una beca en la Academia Real, una escuela para los ricos y poderosos. Ser un huérfano pobre en una escuela llena de nobles resulta ser un lugar extremadamente detestable para estar.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1kvIV8wfIdBg-2yORXQ5WlA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1qF8RIwXUcCO4OgKhJE-VZA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1FY104tAZDFsttrdj_YWlDw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1RiOOyin6amXiiIU3U0Q7Gg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1S5UstXi5l7pOyhf00ajgEA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fterabox.com%2Fs%2F1svq5eSzFNI67yj0lffbM7g" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Tensei Shitara Slime Datta ken Novela Ligera en Español</title>
@@ -300,7 +509,26 @@ Con sus nuevos poderes, conocimientos, y bendiciones. Rimuru pudo ganarse la ami
 Así inicia su aventura, creciendo rápidamente en fuerza e influencia, atrayendo a varios aliados y enemigos.
 
 LA HISTORIA DE UN SLIME</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-tensei-shitara-slime-datta-ken-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1iX-kjSe4vFQN979ty7J21A" type="application/epub+zip" title="Descargar" />
+</entry>
+<entry>
+<title>The Beginning After The End Novela en Español</title>
+<id>https://nextnovels.com/descargar-the-beginning-after-the-end-novela-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-beginning-after-the-end-novela-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/The-Beginning-After-The-End-Portada.jpg" />
+<author><name>TurtleMe</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Maduro" label="Maduro"/>
+<category term="Romance" label="Romance"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">El rey Grey posee una fuerza, riqueza y prestigio sin igual en un mundo gobernado por la habilidad marcial. Sin embargo, la soledad acecha a quienes ostentan un gran poder. Bajo la glamurosa apariencia de un rey poderoso se esconde el caparazón de un hombre sin propósito ni voluntad.
+
+Reencarnado en un nuevo mundo lleno de magia y monstruos, el rey tiene una segunda oportunidad para revivir su vida. Sin embargo, corregir los errores de su pasado no será su único reto. Bajo la paz y la prosperidad del nuevo mundo se esconde una corriente subterránea que amenaza con destruir todo por lo que ha luchado, cuestionando su papel y la razón de su renacimiento.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1OdJL_-J7G234PvdTalVZig" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>The Master of the Brave Novela Ligera en Español</title>
@@ -319,7 +547,7 @@ LA HISTORIA DE UN SLIME</content>
 <content type="text">Después de perder a sus padres, anhela convertirse en un Caballero, el pobre muchacho Wynn Bard se entrenó diligentemente. Sin embargo, le fue imposible convertirse en un Caballero, porque su poder mágico era demasiado bajo, no podía pasar el examen de Caballeros, por lo que fue etiquetado con el desagradable título de 'Eterno Cadete de Caballero'.
 
 Pero un día El Valiente derrotó al Rey Demonio y salvó al mundo. El Valiente era una belleza sin igual y se ganó la atención del mundo entero. Sin embargo, declaró al mundo: "Voy a regresar al lado de mi Maestro, Wynn Byrd". Esta es la historia de un chico que de alguna manera paso de ser 'Eterno Cadete de Caballero' a 'Maestro del Valiente'.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-master-of-the-brave-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1uG6WMQICLjSxU-HDbAACmw" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>The Self-Proclaimed “Normal” Guy of The S-Class Academy Novela Ligera en Español</title>
@@ -349,51 +577,55 @@ Pensé que por fin podría vivir una vida normal, pero la "normalidad" no es tan
 Por alguna razón, me hice popular entre las chicas guapas de la academia de clase S, donde se reúnen los genios, uno tras otro.
 
 Esta es una historia sobre un protagonista con altas especificaciones ocultas que, después de "aislarse" de la protagonista femenina, se vuelve popular en todas partes, y le dicen: "Como se esperaba de ti", "Como debe ser", independientemente de su propia voluntad.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-self-proclaimed-normal-guy-of-the-s-class-academy-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1bkojW5XWbrSyzZXAhBWWXQ" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
-<title>The Strongest Failed Aristocrat’s Dark Demon Sword Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-strongest-failed-aristocrats-dark-demon-sword-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-strongest-failed-aristocrats-dark-demon-sword-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/09/The-Strongest-Failed-Aristocrats-Dark-Demon-Sword-Portada.jpg" />
-<author><name>Tamba</name></author>
+<title>Where Immortals Once Walked Novela Web en Español</title>
+<id>https://nextnovels.com/descargar-where-immortals-once-walked-novela-web-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-where-immortals-once-walked-novela-web-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/Where-Immortals-Once-Walked-Portada.jpg" />
+<author><name>Wind and Water Between Clouds</name></author>
 <category term="Acción" label="Acción"/>
 <category term="Artes marciales" label="Artes marciales"/>
 <category term="Aventura" label="Aventura"/>
+<category term="Drama" label="Drama"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Romance" label="Romance"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">¡¿La verdadera identidad del Santo de la Espada y del Gran Sabio es un estudiante fracasado de la academia?! ¡Comienza una nueva fantasía clandestina!
+<category term="Xianxia" label="Xianxia"/>
+<content type="text">A la sombra de dioses y demonios, un viajero solitario recorre el camino de los inmortales.
 
-El apático Roy Luvel, un noble menor en las afueras de un pequeño país, es conocido como un mal estudiante en la academia, ganándose el apodo de "El Noble Fracasado". Sin embargo, guarda un cierto secreto.
+Hace tres mil años, el Demonio Celestial descendió.
 
-【El Guardián de la Nación de la Espada, el Santo Blanco de la Espada, Cloud】 【El Guardián del Imperio de la Magia, el Gran Sabio Negro, Eclipse】
+Los inmortales actuaron, triunfaron y obligaron al Demonio Celestial a retirarse del reino mortal. Pero después, innumerables calamidades azotaron el mundo, el Qi espiritual menguó y los inmortales desaparecieron. En su ausencia, el Demonio Celestial emergió de nuevo, infiltrándose en el reino mortal con la identidad de un dios.
 
-¡Las verdaderas identidades de las personas más elogiadas en estas dos grandes naciones no son otras que Roy, quien finge ser un incompetente!
+Hace poco más de ciento sesenta años, un artefacto divino descendió. La fértil Meseta de Chipa se marchitó y la otrora inexpugnable Ciudad Antigua de Panlong cayó en ruinas.
 
-Para proteger a su familia, Roy oculta su identidad y lleva una triple vida: trabajando en secreto en cada país y disfrutando de la libertad en la academia. Además, atrae la atención de hermosas chicas en la academia que aspiran a convertirse en Santo de la Espada y en Gran Sabio... ¡La extraordinaria vida diaria y las batallas de Roy son intensamente feroces!
+¡Ahora he descendido a este mundo! Siguiendo las huellas dejadas por los inmortales, ¡Desafiaré el destino que me fue marcado al nacer! Desentrañaré los misterios que rodean a los inmortales y demonios...
 
-"Me encantaría dejar de ser un guardián, pero hasta que aparezca un sucesor, supongo que seguiré protegiendo el mundo."
-
-¡La nueva fantasía clandestina del noble supremo que ha dominado tanto la espada como la magia comienza aquí!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-strongest-failed-aristocrats-dark-demon-sword-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+Y todo comienza con el regreso a la Ciudad de Panlong, para presenciar y experimentar su turbulenta y trágica historia.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1pKWB9CnHDcZzmHieDjoROQ" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
-<title>Wortenia Senki Novela Ligera en Español</title>
-<id>https://nextnovels.com/wortenia-senki-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/wortenia-senki-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/09/01-10.jpg" />
-<author><name>Hori Ryouta</name></author>
-<category term="Acción" label="Acción"/>
+<title>Young Noble Be Monster Slaying Novela Web en Español</title>
+<id>https://nextnovels.com/descargar-young-noble-be-monster-slaying-novela-web-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-young-noble-be-monster-slaying-novela-web-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/01/Young-Noble-Be-Monster-Slaying-Portada.jpg" />
+<author><name>Pei Buliao</name></author>
 <category term="Artes marciales" label="Artes marciales"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Shounen" label="Shounen"/>
-<content type="text">El estudiante de secundaria Mikoshiba Ryouma fue convocado a un mundo diferente para ayudar a su invocador a librar guerras. Al percibir la malicia de quien lo invocó, reaccionó matando al invocador, una de las personas más importantes del imperio. Tras la huida, rescata a un par de hermanas gemelas de las manos de los bandidos. Las hermanas, que pueden usar la magia, juran servirle como subordinadas. De este modo, Ryouma comienza su viaje por el camino del gobernante supremo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/wortenia-senki-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<category term="Xianxia" label="Xianxia"/>
+<content type="text">En un imponente mundo mortal donde existen las sectas inmortales de los Nueve Divinos y los Diez Terrestres...
+
+El mundo es hermoso y está lleno de tentaciones, pero los cultivadores las ignoran y trabajan alegremente para convertirse en inmortales.
+
+Cuando Chu Liang abrió los ojos, descubrió que se había convertido en discípulo de la Secta del Monte Shu e incluso poseía una maravillosa pagoda atesorada... A partir de entonces, se embarcó en un camino que nunca antes había imaginado.
+
+Mientras la niebla de la mañana se eleva sobre los treinta y seis picos del Monte Shu, ¿qué está haciendo Chu Liang?
+
+¡Está matando dragones a ocho mil li de distancia! ...
+
+“¡Por favor, joven noble, mata a los monstruos!”</content>
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1_08E6_7KA0TZeXEmfSxa6g" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

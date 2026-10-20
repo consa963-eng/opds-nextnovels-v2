@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:75e3d252f9</id>
 <title>Mask Kabocha</title>
-<updated>2026-10-20T16:38:00.725143+00:00</updated>
+<updated>2026-10-20T17:08:06.176760+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-75e3d252f9.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Girl I Picked Up in the Back Alley Turned Out to Be the Heroine of a Bad Ending Otome Game Novela Ligera en Español</title>
@@ -29,6 +29,6 @@ Ella le cuenta que sus amigos, los Cuatro Caballeros de la academia, junto con E
 Al escuchar esto, Ash los reta a un duelo y logra rescatar a Fine de esa situación desesperada. Entonces, ella le pide: ‘Quisiera vivir contigo en tu mansión como administradora’.
 
 Así comienzan a compartir una vida juntos… una comedia romántica escolar sobre salvar a la heroína tras un final malo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-girl-i-picked-up-in-the-back-alley-turned-out-to-be-the-heroine-of-a-bad-ending-otome-game-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1HTh4nuatKxmXL6uOev6MMQ" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

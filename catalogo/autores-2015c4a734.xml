@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:2015c4a734</id>
 <title>Dojyomaru</title>
-<updated>2026-10-20T16:38:00.703303+00:00</updated>
+<updated>2026-10-20T17:08:06.142115+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-2015c4a734.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>How a Realist Hero Rebuilt The Kingdom Novela Ligera en Español</title>
@@ -27,6 +27,8 @@ Para volver a encaminar al país, Souma llama a los sabios, talentosos, y dotado
 ¿¡Cuales son los varios talentos y habilidades que ellos poseen...!? ¿A qué camino llevará a Souma y las personas del país su punto de vista realista?
 
 ¡Aquí comienza una historia de fantasía administrativa y revolucionaria de alguien invocado a otro mundo!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-how-a-realist-hero-rebuilt-the-kingdom-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1ZCHLWxyf97MhcLAwdKxu4g" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F11A1617RLL_kYB0JzxtxYeg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1UxC1wTe4DcLBlFDrAe4zhg" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

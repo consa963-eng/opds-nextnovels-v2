@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:ded92e0326</id>
 <title>Fudeorca</title>
-<updated>2026-10-20T16:38:00.704184+00:00</updated>
+<updated>2026-10-20T17:08:06.144202+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-ded92e0326.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Conqueror from a Dying Kingdom Novela Ligera en Español</title>
@@ -20,6 +20,6 @@
 <category term="Seinen" label="Seinen"/>
 <category term="Tragedia" label="Tragedia"/>
 <content type="text">Yuri, que se autodenomina un «no-lifer», se pasa los días holgazaneando frente a la computadora. Todo esto cambia en el momento en que su vida en Japón llega a un abrupto final y se ve renacido en el extraño y nuevo mundo del Reino de Shiyalta. Su nueva vida incluye todo lo que antes le faltaba: padres cariñosos, un hogar acogedor y un futuro prometedor criando aves en el rancho de su papá. Durante siglos, el reino que ahora considera su hogar ha disfrutado de paz y prosperidad, protegido por naciones amigas que, al igual que el propio Shiyalta, se establecieron tras el colapso de un imperio que alguna vez fue grande. La guerra es un problema lejano, relevante solo para las familias gobernantes de Shiyalta, cuyos guerreros parten periódicamente para unirse a la lucha montados en aves gigantes entrenadas por el papá de Yuri y otros. Pero esta existencia pacífica no puede durar para siempre. Algo podrido se esconde en el corazón del reino, y no hace falta tener la inteligencia excepcional de Yuri para darse cuenta de que esas batallas lejanas solo seguirán siendo irrelevantes por un tiempo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-conqueror-from-a-dying-kingdom-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1jbAh8YGwWLy1epfOTyYVuA" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

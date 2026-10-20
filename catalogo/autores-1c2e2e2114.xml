@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:1c2e2e2114</id>
 <title>佐藤真登</title>
-<updated>2026-10-20T16:38:00.756266+00:00</updated>
+<updated>2026-10-20T17:08:06.226593+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1c2e2e2114.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Drop Dead, My Beloved Mages Novela Ligera en Español</title>
@@ -26,6 +26,6 @@ Y en este lugar solo impera una ley: ¡Usa cualquier método a tu alcance para l
 Kuro Asahino, un joven con poderes irregulares que fue mantenido bajo llave en la Tierra, termina inscribiéndose en la Academia Real Tritonis. Lo que no esperaba es que esta antigua institución de élite está a punto de desaparecer. Solo quedan tres estudiantes y, para empeorar las cosas, cada una de ellas tiene una personalidad... difícil de manejar.
 
 ¡De los creadores de "The Executioner and Her Way of Life", llega esta épica aventura donde la juventud es una batalla campal!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-drop-dead-my-beloved-mages-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1XYik-Bv9lQmop2Tkv0x8hw" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

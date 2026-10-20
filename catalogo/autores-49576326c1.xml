@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:49576326c1</id>
 <title>Mikage Eiji</title>
-<updated>2026-10-20T16:38:00.725642+00:00</updated>
+<updated>2026-10-20T17:08:06.177527+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-49576326c1.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>We Don’t Open Anywhere Novela Ligera en Español</title>
@@ -25,6 +25,6 @@ La persona que me dijo esas enigmáticas palabras no era otra que la chica más 
 Mi mejor amigo, un delincuente; nuestro recto delegado de clase; por no hablar de Miki y de mí… A medida que todos empezamos a desmoronarnos, el lugar al que llegamos fue…
 
 Nota: Publicada originalmente en 2005 sin subtítulo, el autor reescribió y volvió a publicar la novela en 2016 con nuevas ilustraciones de Yoshitoshi Abe.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-we-dont-open-anywhere-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1NNugISwQR2XnJnYLVjloKw" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

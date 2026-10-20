@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:3273823193</id>
 <title>Teniwoha</title>
-<updated>2026-10-20T16:38:00.748260+00:00</updated>
+<updated>2026-10-20T17:08:06.213225+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-3273823193.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Killed Again, Mr. Detective Novela Ligera en Español</title>
@@ -19,6 +19,6 @@
 <category term="Shounen" label="Shounen"/>
 <category term="Supernatural" label="Supernatural"/>
 <content type="text">Sakuya Otsuki, un detective inmortal de instituto que, por alguna razón, resucita sin importar cuántas veces lo maten. Asesinado por un criminal debido a su innato sentido del humor, y bajo la mirada fría de su excelente ayudante Lilitea, se enfrenta a una serie de casos difíciles basándose en las pistas que ha traído consigo desde las profundidades de la muerte.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-killed-again-mr-detective-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F103oZkvuigpP6JTq9kY-PBA" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

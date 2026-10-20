@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:2cf99efc68</id>
 <title>Hitsuji Tarou</title>
-<updated>2026-10-20T16:38:00.710553+00:00</updated>
+<updated>2026-10-20T17:08:06.154482+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-2cf99efc68.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Akashic Records of the Bastard Magical Instructor Novela Ligera en Español</title>
@@ -23,7 +23,13 @@
 Nota:
 
 1. v6 continúa donde terminó el anime.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-akashic-records-of-the-bastard-magical-instructor-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1OqSiZeBu-6zzyrrjEDDe7g" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1zrELhxHD84M2C4CIfBLZ2w" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1j6d8X7l6cPkP2VGo_IF2wQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1huQ9nKlaRJRRj2NJgjecLg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1icM2Oe7lBUk1DfYMLPhr8g" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1b8pQxkm-qdFafiWNMRPjGQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1XhOSWJ7iY5sUjtzCqptchg" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Memory Records of Bastard Magic Instructor Novela Ligera en Español</title>
@@ -35,6 +41,6 @@ Nota:
 <category term="Ecchi" label="Ecchi"/>
 <category term="Fantasía" label="Fantasía"/>
 <content type="text">Las historias paralelas se publicaron originalmente en la revista Dragon Magazine de Fantasia Bunko antes de ser compiladas en volúmenes. Cada volumen presenta una historia paralela original exclusiva del volumen en el que se publica.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-memory-records-of-bastard-magic-instructor-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1e5OsFqtOZRanhq-1K1wrsA" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

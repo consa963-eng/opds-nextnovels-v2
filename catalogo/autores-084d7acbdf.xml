@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:084d7acbdf</id>
 <title>Araoshi Yuu</title>
-<updated>2026-10-20T16:38:00.700987+00:00</updated>
+<updated>2026-10-20T17:08:06.137286+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-084d7acbdf.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Young Lady Loves A! Novela Ligera en Español</title>
@@ -14,7 +14,7 @@
 <category term="Harem" label="Harem"/>
 <category term="Romance" label="Romance"/>
 <content type="text">Naoyuki, quien se deleitaba contemplando el trasero de Marika, una refinada joven de actitud algo tsundere, recibe una tarea inesperada: ¡¿convertirse en su entrenador de trasero?! Siguiendo el plan de Marika para decepcionar a su prometido y ganar su libertad, ¡termina manoseando su trasero firme en la mansión, en la escuela y por toda la ciudad!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-young-lady-loves-a-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1k1DnDa70eT_Pm6zDpPB64Q" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>Yuri Love Slave Novela Ligera en Español</title>
@@ -40,6 +40,6 @@ Que le besen ahí abajo y la acaricien con la lengua...
 ¡Mao alcanza el clímax de golpe con un placer y una excitación que nunca antes había sentido!
 
 Y, aunque pensaba que sería solo una vez, Masao decide seguir invitando a Rena a más...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-yuri-love-slave-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F19F1yA7lNj-ll3HOfFQgvxA" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

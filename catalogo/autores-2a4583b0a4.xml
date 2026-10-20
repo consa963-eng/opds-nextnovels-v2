@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:2a4583b0a4</id>
 <title>Hajime Taguchi</title>
-<updated>2026-10-20T16:38:00.706580+00:00</updated>
+<updated>2026-10-20T17:08:06.148835+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-2a4583b0a4.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The High-Spec Scion's Body Double is More Popular Than the Real Novela Ligera en Español</title>
@@ -27,6 +27,6 @@ Sin embargo, la sincera autenticidad de Kei no se puede ocultar del todo, y ante
 Incluso mientras interpreta el papel de un galán popular, como doble de cuerpo, ¡el romance está estrictamente prohibido!
 
 ¡Aquí comienza una comedia romántica de harem desencadenada por una vida de falso heredero!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-high-spec-scions-body-double-is-more-popular-than-the-real-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1QHv6fWmAC2xehYVbcbrf2w" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

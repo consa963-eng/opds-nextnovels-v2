@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:03df6cae86</id>
 <title>Sogano Shachi</title>
-<updated>2026-10-20T16:38:00.744225+00:00</updated>
+<updated>2026-10-20T17:08:06.206432+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-03df6cae86.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Isekai Meikyuu de Dorei Harem wo Novela Ligera en Español</title>
@@ -19,6 +19,6 @@
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Seinen" label="Seinen"/>
 <content type="text">Un individuo estaba a punto de suicidarse y decidió buscar una forma de morir en Internet, pero entonces encontró un extraño sitio que le hacía un montón de preguntas y tenía un sistema basado en puntos que permite crear habilidades para un personaje. Se interesó por ello, y cuando terminó de configurar su personaje, le preguntaron: "Ahora serás transportado a un mundo con la configuración que elegiste. Volver no es posible. ¿Aceptas de todas formas?". Sin pensarlo mucho, pulsó SÍ y se encontró en otro mundo con las habilidades que eligió tener.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-isekai-meikyuu-de-dorei-harem-wo-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1b_UsobIO1si3H0W1DsDKYw" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

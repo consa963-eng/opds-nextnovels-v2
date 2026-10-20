@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:5aae3d8b8a</id>
 <title>Haneda Usa</title>
-<updated>2026-10-20T16:38:00.707078+00:00</updated>
+<updated>2026-10-20T17:08:06.149679+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-5aae3d8b8a.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Story About Buying My Classmate Once A Week Novela Ligera en Español</title>
@@ -27,6 +27,8 @@ Las órdenes de Miyagi están determinadas por su estado de ánimo del día y Se
 Un día después de la escuela...
 
 Miyagi llama a Sendai a su habitación y le da una orden que normalmente no daría</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-story-about-buying-my-classmate-once-a-week-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1_ymed8y0VhK_rEaiPc_YVA" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1KCArhlcJVLlpr0FdaDfl2Q" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1V8C2wNKbqh3-0aAyfX8Enw" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

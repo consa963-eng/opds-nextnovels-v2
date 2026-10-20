@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:16b0c39e90</id>
 <title>Hochi</title>
-<updated>2026-10-20T16:38:00.710663+00:00</updated>
+<updated>2026-10-20T17:08:06.154675+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-16b0c39e90.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Huh, Transfer Failed?!… or Success? Novela Ligera en Español</title>
@@ -34,6 +34,6 @@ También fue incapaz de las habilidades que se le dieron, ya que no había ningu
 Para deshacerse de su dolor, se fue a un hotel que ofrece ‘servicios especiales’ y se divirtió un rato, y nada más dormirse, fue trasladado nuevamente al espacio en blanco, con la ‘administradora’ arrodillado ante él en disculpa por cometer otro error.
 
 Después de haber mejorado su ‘Conjunto de habilidades estándar’ como compensación por el error, además de hacer que las habilidades estuvieran disponibles, por supuesto, se despertó de regreso a Japón, y después de haber probado sus habilidades en su mundo real, Yoichi notó que una tierra desconocida llamado «Bosque de Jana» también se estableció como el punto de inicio de su [Retorno], mientras que su hogar en Japón como punto de retorno. Inmediatamente usó esta habilidad, ¡solo para darse cuenta de que podía viajar de un lado a otro entre el otro mundo y Japón!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-huh-transfer-failed-or-success-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1OQfofeYxwwTzCK24I1vX-Q" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

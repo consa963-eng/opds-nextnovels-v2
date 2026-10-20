@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:fe36fd5554</id>
 <title>Hidari Ryuu</title>
-<updated>2026-10-20T16:38:00.708136+00:00</updated>
+<updated>2026-10-20T17:08:06.151224+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-fe36fd5554.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>After I Was Confessed, the Young Lady Looked Strange Novela Ligera en Español</title>
@@ -24,7 +24,7 @@ Un día, Eito le cuenta a Hoshine que alguien de otra clase le ha confesado sus 
 Como resultado, Hoshine comienza a acercarse aún más a Eito, ¡haciendo avances más atrevidos que nunca! Se acerca a él en trenes abarrotados y le ruega que duerma a su lado... Mientras Eito intenta mantener su papel de sirviente formal, Hoshine lo persigue cada vez más con sus avances.
 
 ¡Es una adorable comedia romántica entre una señora y su sirviente, protagonizada por una joven que se esfuerza por ganarse el amor de su sirviente!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-after-i-was-confessed-the-young-lady-looked-strange-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1bVdPu85u1Mazeu2BcuiSvw" type="application/epub+zip" title="Descargar" />
 </entry>
 <entry>
 <title>After School, at a Family Restaurant at Night, With That Girl From My Class Novela Ligera en Español</title>
@@ -50,6 +50,6 @@ A partir de ese día, nos convertimos en una pareja que podía ser ella misma en
 «—Quedemos en el lugar de siempre mañana después de clase».
 
 En el restaurante familiar después de clase, comienza otro día en el que las dos buscamos razones para no ir a casa.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-after-school-at-a-family-restaurant-at-night-with-that-girl-from-my-class-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1PrcBTaoAx4XbLtTOB8s9Gg" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

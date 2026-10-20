@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:1bf19ffd40</id>
 <title>Sabu Meiji</title>
-<updated>2026-10-20T16:38:00.737340+00:00</updated>
+<updated>2026-10-20T17:08:06.195968+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1bf19ffd40.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Lilith Who Lost Her Arm Novela Ligera en Español</title>
@@ -27,6 +27,6 @@ Quien apareció fue una joven tan bella que podía confundirse con un ángel: Ri
 Kaina, que había intercambiado el poder demoníaco por una vida ligada al destino de Ririsu, se convirtió en su compañero inseparable. ¿El final de su viaje será la perdición en el purgatorio, o un camino de hegemonía que conquiste el futuro?
 
 La crónica sobrenatural de exorcistas de la era Meiji, «Ririsu, la que perdió el brazo», comienza aquí.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-lilith-who-lost-her-arm-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F19UyfzFMIROKaZ43ZxTv1Lw" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

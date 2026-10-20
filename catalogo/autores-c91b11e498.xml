@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:c91b11e498</id>
 <title>Yuki Suzuki</title>
-<updated>2026-10-20T16:38:00.754370+00:00</updated>
+<updated>2026-10-20T17:08:06.223303+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-c91b11e498.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Reincarnated Into a Game as the Hero’s Friend Novela Ligera en Español</title>
@@ -16,6 +16,6 @@
 <category term="Fantasía" label="Fantasía"/>
 <category term="Shounen" label="Shounen"/>
 <content type="text">Algún día, el héroe Mazel luchará contra el Señor de los Demonios con el destino del reino en juego. Pero hasta ese día... ¡más le vale llevar muchas pociones! Mientras el héroe está ocupado salvando el reino, depende de Lord Werner, un oficinista japonés reencarnado en el mundo de un clásico juego de rol, evitar que el resto del mundo se convierta en daño colateral. ¡No hay héroe, luminaria o guerrero de la luz que no necesite un amigo como Werner! Pero, ¿podrá realmente desafiar las llamas del destino y cambiar el agridulce final del juego?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-reincarnated-into-a-game-as-the-heros-friend-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1CG1NUVbULnaSQfKSTtdl_g" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

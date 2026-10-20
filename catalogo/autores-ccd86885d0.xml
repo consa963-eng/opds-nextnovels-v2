@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:ccd86885d0</id>
 <title>Satou Tsutomu</title>
-<updated>2026-10-20T16:38:00.740236+00:00</updated>
+<updated>2026-10-20T17:08:06.200362+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-ccd86885d0.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Mahouka Koukou No Rettousei Magian Company Novela Ligera en Español</title>
@@ -29,6 +29,6 @@ El propósito de la organización a la cual Tatsuya fue nombrado director ejecut
 Para Tatsuya, cuya influencia ha superado la de otros Magos de Clase Estratégica, el rumbo en el que ha decidido seguir naturalmente ha llamado la atención de otras personas alrededor del planeta. Un assassin de la asociación “FEHR” en la USNA, es enviado para investigar la dirección que Tatsuya ha elegido…
 
 El telón se abre sobre la nueva leyenda de Shiba Tatsuya——</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/mahouka-koukou-no-rettousei-magian-company-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1Do9nA13QiqxGpCxLYoV5UQ" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

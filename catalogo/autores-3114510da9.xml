@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:3114510da9</id>
 <title>Kaito</title>
-<updated>2026-10-20T16:38:00.714608+00:00</updated>
+<updated>2026-10-20T17:08:06.160948+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-3114510da9.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Heroic Exploration Tale Starting from Mob Novela Ligera en Español</title>
@@ -31,6 +31,6 @@ Una vez intentó cazar goblins… y apenas logró escapar con vida.
 Un día, apareció ante él un slime dorado que nunca había visto desde que se convirtió en Asesino de Slimes (Nivel 3). Al derrotarlo, dejó atrás un objeto raro: una carta de sirviente.
 
 Así comienza la historia de exploración en calabozos de un pobre personaje secundario… ¿o tal vez no?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-heroic-exploration-tale-starting-from-mob-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1dtUQHnHX7JQHMffpzjPtPg" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

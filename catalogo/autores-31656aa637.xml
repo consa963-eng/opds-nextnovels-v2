@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:31656aa637</id>
 <title>白乃友</title>
-<updated>2026-10-20T16:38:00.757114+00:00</updated>
+<updated>2026-10-20T17:08:06.227635+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-31656aa637.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Story of Feeding the Cutest Gal in Class Novela Ligera en Español</title>
@@ -25,6 +25,6 @@ En la escuela, Sakura mantiene la distancia con Houri, cuidando que nadie descub
 —¡El pescado guisado está buenísimo!
 
 Y así comienza otra dulce y acogedora cena entre los dos.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-story-of-feeding-the-cutest-gal-in-class-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F15XgpnnyVukC1qoQZcI_Pug" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:cb19d1d562</id>
 <title>Higashide Yuichiro</title>
-<updated>2026-10-20T16:38:00.708448+00:00</updated>
+<updated>2026-10-20T17:08:06.151727+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-cb19d1d562.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Fate/Apocrypha Novela Ligera en Español</title>
@@ -17,6 +17,11 @@
 <category term="Seinen" label="Seinen"/>
 <category term="Supernatural" label="Supernatural"/>
 <content type="text">La ambientación de Fate/Apocrypha se sitúa en un mundo paralelo a Fate/stay night en el que el Gran Grial fue retirado de Fuyuki tras la Tercera Guerra del Santo Grial y desapareció durante muchos años. Alrededor de la década de 2000, más o menos cuando habría ocurrido la Quinta Guerra del Santo Grial, el grupo que saqueó el Grial, Yggdmillennia, declara abiertamente su secesión de la Asociación de Magos y que está en posesión del Grial. La Asociación envía a cincuenta magos para recuperarlo, pero todos menos uno son asesinados al instante por Lancer of Black. El que único que sobrevive consigue activar el sistema de reserva del Gran Grial, lo que permite convocar a 14 servants en total.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fate-apocrypha-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1Mkjm1Kwb5K6I572HW2kXxw" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/fate-zero-novela-ligera-en-espanol/" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fate-strange-fake-novela-ligera-en-espanol/" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/fate-lost-einherjar-novela-ligera-en-espanol/" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fate-requiem-novela-ligera-en-espanol/" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fate-prototype-novela-ligera-en-espanol/" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

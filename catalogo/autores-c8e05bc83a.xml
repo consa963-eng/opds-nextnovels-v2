@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:c8e05bc83a</id>
 <title>Abatarou</title>
-<updated>2026-10-20T16:38:00.697019+00:00</updated>
+<updated>2026-10-20T17:08:06.130300+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-c8e05bc83a.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Scumless Oblige Novela Ligera en Español</title>
@@ -27,6 +27,6 @@ Tratando a las heroínas con total amabilidad (aunque por alguna razón no paran
 Mi plan era sencillamente perfecto... o eso creía, ¡¿pero por qué demonios el afecto de todos hacia mí se ha disparado por las nubes?! ¡¿Y por qué terminé ocupando una posición clave en la historia?!
 
 ¡¡Da inicio esta enredada epopeya de ascenso y malentendidos, protagonizada por la reencarnación del villano más poderoso!!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-scumless-oblige-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1CeLn0Wj6LqCSTdH4qcZNkw" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:64c8429679</id>
 <title>Akizakura Hiroro</title>
-<updated>2026-10-20T16:38:00.698778+00:00</updated>
+<updated>2026-10-20T17:08:06.133589+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-64c8429679.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Cross-Dressing Villainess Cecilia Sylvie Novela Ligera en Español</title>
@@ -17,6 +17,6 @@
 <category term="Romance" label="Romance"/>
 <category term="Shoujo" label="Shoujo"/>
 <content type="text">Tras reencarnarse como la villana de su simulador de citas favorito, Cecilia Sylvie se da cuenta de que está destinada a una muerte prematura, independientemente de cómo se desarrolle la historia del juego. Convencida de que puede engañar a la muerte asumiendo una nueva identidad, se convierte en Cecil Admina, el apuesto hijo de un barón. Por desgracia, Cecilia se adapta demasiado bien al papel y acaba sustituyendo a su hermano como uno de los caballeros que protegen a la heroína. Para colmo, el príncipe prometido de Cecilia está empezando a sentir algo por su alter ego... ¿¡¿Qué va a hacer esta villana para conseguir una vida sin preocupaciones, pero si su tapadera se descubre, será el fin del juego!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-cross-dressing-villainess-cecilia-sylvie-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1_P9Wu0J7Y_Ky1P2YvD0YYQ" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

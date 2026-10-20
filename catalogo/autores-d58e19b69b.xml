@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:d58e19b69b</id>
 <title>Nagomu Torii</title>
-<updated>2026-10-20T16:38:00.730135+00:00</updated>
+<updated>2026-10-20T17:08:06.184977+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-d58e19b69b.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>Beyond the Boundary Novela Ligera en Español</title>
@@ -18,6 +18,7 @@
 <category term="Shounen" label="Shounen"/>
 <category term="Supernatural" label="Supernatural"/>
 <content type="text">Cierto día el estudiante Kanbara Akihito conoce a una de sus compañeras, Kuriyama Mirai, a punto de saltar desde la azotea de la escuela. Después de que Akihito intento convencerla, Mirai le apuñalo con una espada hecha con su propia sangre, pero ella se sorprende al comprobar que Akihito no es sino un híbrido de humano y «yōmu», una raza de criaturas sobrenaturales. Tras saber que Mirai es una Guerrera del Mundo Espiritual y la última sobreviviente de su clan, las vidas de ambos se entrelazan para siempre.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-beyond-the-boundary-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1YnqWst_ci0dfJibh29p8gg" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1LI7ZYQqgP9lchOFF_aw-Jg" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>

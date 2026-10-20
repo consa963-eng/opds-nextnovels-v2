@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:c64e82e8fd</id>
 <title>Tenichi</title>
-<updated>2026-10-20T16:38:00.748157+00:00</updated>
+<updated>2026-10-20T17:08:06.213057+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-c64e82e8fd.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>The Most Heretical Last Boss Queen Novela Ligera en Español</title>
@@ -20,6 +20,7 @@
 <content type="text">Un día, una niña de ocho años llamada Pride Royal Ivy recupera los recuerdos de su vida pasada y descubre que ha reencarnado en el juego otome Our Ray of Light.
 
 En el juego, Pride es una niña sádica y monstruosa que crece para convertirse en una reina insensible y actúa como la "final boss", quien encuentra su final a manos de su propia hermana menor a la que tanto perjudicó. Al darse cuenta de esto, Pride decide utilizar sus habilidades y conocimientos del juego para convertirse en una gobernante compasiva y benevolente. Ella espera que, al cambiar su conducta, podrá forjar un futuro mejor para su reino y para todas las personas que la rodean.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-most-heretical-last-boss-queen-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1aWO9wtKegwIuQCsyAlZRtQ" type="application/epub+zip" title="Descargar" />
+<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2F1024terabox.com%2Fs%2F1V8uougEYpdYCreHbV960AA" type="application/epub+zip" title="Descargar" />
 </entry>
 </feed>
