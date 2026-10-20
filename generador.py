@@ -118,40 +118,55 @@ def save_state(state):
 
 
 # ============================================================
-# PRIMERA EJECUCIÓN
+# DESCUBRIMIENTO
 # ============================================================
+
+def find_categories():
+    cats = {CATEGORY}
+    try:
+        s = get(BASE + "/")
+        for a in s.select("a[href]"):
+            u = absu(a.get("href")).split("?")[0]
+            if "/category/" in u and "novela" in u.lower():
+                cats.add(u if u.endswith("/") else u + "/")
+    except Exception as e:
+        print("[WARN] No se pudieron leer las categorías:", e)
+    print("[CATEGORIAS]", sorted(cats))
+    return sorted(cats)
+
 
 def discover():
     out = []
     seen = set()
 
-    for n in range(1, MAX_PAGES + 1):
-        url = CATEGORY if n == 1 else f"{CATEGORY}page/{n}/"
+    for cat in find_categories():
+        for n in range(1, MAX_PAGES + 1):
+            url = cat if n == 1 else f"{cat}page/{n}/"
 
-        try:
-            s = get(url)
-        except Exception:
-            break
+            try:
+                s = get(url)
+            except Exception:
+                break
 
-        found = []
-        for a in s.select("h2 a,h3 a,article a,.entry-title a"):
-            u = absu(a.get("href"))
-            if article_url(u) and u not in seen:
-                found.append(u)
+            found = []
+            for a in s.select("h2 a,h3 a,article a,.entry-title a"):
+                u = absu(a.get("href"))
+                if article_url(u) and u not in seen:
+                    found.append(u)
 
-        new = 0
-        for u in found:
-            if u not in seen:
-                seen.add(u)
-                out.append(u)
-                new += 1
+            new = 0
+            for u in found:
+                if u not in seen:
+                    seen.add(u)
+                    out.append(u)
+                    new += 1
 
-        print(f"[DESCUBRIR] página {n}: +{new}")
+            print(f"[DESCUBRIR] {cat} página {n}: +{new}")
 
-        if not new:
-            break
+            if not new:
+                break
 
-        time.sleep(DELAY)
+            time.sleep(DELAY)
 
     return out
 
@@ -285,9 +300,6 @@ def get_updates(last_date):
                 page_old = True
                 continue
 
-            if "novela ligera" not in text.lower():
-                continue
-
             lower = text.lower()
             if not any(x in lower for x in (
                 "[añadido]", "[añadidos]", "[nueva novela]", "[novela nueva]"
@@ -363,10 +375,6 @@ def incremental(books):
             book = parse(url, updated=change["date"])
 
             if not book["title"]:
-                continue
-
-            if book["type"] and "ligera" not in book["type"].lower():
-                print("[IGNORADA] No es novela ligera:", book["title"])
                 continue
 
             by_url[url] = book
@@ -546,7 +554,7 @@ def scan_one(url):
     try:
         b = parse(url)
         time.sleep(DELAY)
-        if b["title"] and (not b["type"] or "ligera" in b["type"].lower()):
+        if b["title"]:
             return b
     except Exception as e:
         print("[WARN]", url, e)
@@ -559,7 +567,7 @@ def main():
     books = load_books()
 
     if len(books) < MIN_VALID:
-        print("[INFO] Primera ejecución: escaneo completo.")
+        print("[INFO] Catálogo vacío o incompleto: escaneo completo.")
 
         urls = discover()
         print(f"[INFO] {len(urls)} fichas encontradas. Descargando con {WORKERS} hilos.")
