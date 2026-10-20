@@ -14,7 +14,6 @@ function xmlEscape(value = "") {
   return String(value).replace(/&/g, "&amp;").replace(/</g, "&lt;")
     .replace(/>/g, "&gt;").replace(/\"/g, "&quot;").replace(/'/g, "&apos;");
 }
-function xmlCdata(value = "") { return String(value).replace(/\]\]>/g, "]]]]><![CDATA[>"); }
 function headers(type = "application/atom+xml; charset=UTF-8") {
   return { "Content-Type": type, "Cache-Control": "public, max-age=300", "X-Content-Type-Options": "nosniff" };
 }
@@ -43,9 +42,10 @@ function normalArticle(value) {
   return u.href.toLowerCase();
 }
 function novelDetailUrl(bookUrl, origin) { return `${origin}/novela?url=${encodeURIComponent(bookUrl)}`; }
+
 function navEntry(book, origin) {
   const title = xmlEscape(book.title || "Sin título"), id = xmlEscape(book.id || book.url || title);
-  let xml = `<entry><title>${title}</title><id>${id}</id>`;
+  let xml = `<entry><title>${title}</title><id>${id}</id><updated>${new Date().toISOString()}</updated>`;
   if (book.summary) xml += `<content type="text">${xmlEscape(String(book.summary).slice(0, 1500))}</content>`;
   if (book.author) xml += `<author><name>${xmlEscape(book.author)}</name></author>`;
   if (book.cover) xml += `<link rel="http://opds-spec.org/image" href="${xmlEscape(book.cover)}"/>`;
@@ -55,11 +55,13 @@ function navEntry(book, origin) {
   }
   return xml + "</entry>";
 }
+
 function feed(title, id, books, requestUrl, kind = "navigation") {
   const now = new Date().toISOString(), origin = new URL(requestUrl).origin;
   const entries = books.map(book => navEntry(book, origin)).join("\n");
   return `<?xml version="1.0" encoding="UTF-8"?>\n<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">\n<title>${xmlEscape(title)}</title><id>${xmlEscape(id)}</id><updated>${now}</updated><link rel="self" href="${xmlEscape(requestUrl)}" type="application/atom+xml;profile=opds-catalog;kind=${kind}"/><link rel="start" href="${xmlEscape(origin + "/")}" type="application/atom+xml;profile=opds-catalog;kind=navigation"/><link rel="search" href="${xmlEscape(origin + "/opensearch.xml")}" type="application/opensearchdescription+xml"/>\n<opensearch:totalResults>${books.length}</opensearch:totalResults>\n${entries}\n</feed>`;
 }
+
 function rootFeed(requestUrl) {
   const base = new URL(requestUrl).origin;
   const items = [
@@ -72,10 +74,12 @@ function rootFeed(requestUrl) {
   const entries = items.map(([title, path, description]) => `<entry><title>${xmlEscape(title)}</title><id>${xmlEscape(base + path)}</id><content type="text">${xmlEscape(description)}</content><link rel="subsection" href="${xmlEscape(base + path)}" type="application/atom+xml;profile=opds-catalog;kind=navigation"/></entry>`).join("\n");
   return `<?xml version="1.0" encoding="UTF-8"?>\n<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog"><title>Next Novels</title><id>${xmlEscape(base + "/")}</id><updated>${new Date().toISOString()}</updated><link rel="self" href="${xmlEscape(base + "/")}" type="application/atom+xml;profile=opds-catalog;kind=navigation"/><link rel="search" href="${xmlEscape(base + "/opensearch.xml")}" type="application/opensearchdescription+xml"/>${entries}</feed>`;
 }
+
 function openSearch(requestUrl) {
   const base = new URL(requestUrl).origin;
   return `<?xml version="1.0" encoding="UTF-8"?><OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"><ShortName>Next Novels</ShortName><Description>Buscar novelas de Next Novels</Description><InputEncoding>UTF-8</InputEncoding><Url type="application/atom+xml;profile=opds-catalog;kind=navigation" template="${xmlEscape(base)}/search?q={searchTerms}"/></OpenSearchDescription>`;
 }
+
 async function getBooks() {
   const response = await fetch(DATA_URL, { cf: { cacheTtl: 60, cacheEverything: true } });
   if (!response.ok) throw new Error(`No se pudo descargar catalogo.json: ${response.status}`);
@@ -83,12 +87,14 @@ async function getBooks() {
   if (!Array.isArray(books)) throw new Error("catalogo.json no contiene una lista de novelas.");
   return books;
 }
+
 async function jsonResponse(response, label) {
   const type = (response.headers.get("Content-Type") || "").toLowerCase();
   if (type.includes("text/html")) throw new Error(`${label}: TeraBox o el intermediario devolvió HTML en lugar de JSON.`);
   try { return await response.json(); }
   catch { throw new Error(`${label}: respuesta JSON no válida.`); }
 }
+
 function shorturlFromShare(value) {
   try {
     const u = new URL(value), params = u.searchParams;
@@ -105,6 +111,7 @@ function shorturlFromShare(value) {
   } catch {}
   return "";
 }
+
 function extractJsToken(html) {
   const patterns = [
     /window\.jsToken\s*=\s*["']([^"']+)["']/i,
@@ -115,6 +122,7 @@ function extractJsToken(html) {
   for (const pattern of patterns) { const match = html.match(pattern); if (match) return match[1]; }
   return "";
 }
+
 async function teraboxContext(shareUrl) {
   if (!isAllowedShareUrl(shareUrl)) throw new Error("El enlace compartido no pertenece a un dominio TeraBox admitido.");
   const response = await fetch(shareUrl, { headers: { "User-Agent": UA, "Accept": "text/html,application/xhtml+xml,*/*" }, redirect: "follow" });
@@ -125,6 +133,7 @@ async function teraboxContext(shareUrl) {
   const jsToken = extractJsToken(html);
   return { shorturl, jsToken, referer: `https://www.terabox.com/s/1${shorturl}` };
 }
+
 async function teraboxList(context, folderPath, page = 1) {
   const params = new URLSearchParams({ app_id: "250528", shorturl: context.shorturl, page: String(page), num: "100" });
   if (context.jsToken) params.set("jsToken", context.jsToken);
@@ -137,6 +146,7 @@ async function teraboxList(context, folderPath, page = 1) {
   if (String(data.errno ?? "0") !== "0") throw new Error(`TeraBox rechazó el listado: ${data.errmsg || data.show_msg || "error desconocido"}`);
   return Array.isArray(data.list) ? data.list : [];
 }
+
 async function listTeraboxFiles(shareUrl) {
   const context = await teraboxContext(shareUrl), files = [], visited = new Set();
   let visitedFolders = 0;
@@ -168,6 +178,7 @@ async function listTeraboxFiles(shareUrl) {
   for (const file of files) unique.set(file.fs_id, file);
   return [...unique.values()];
 }
+
 function extractShareLinks(html, pageUrl) {
   const results = new Set();
   const re = /<a\b[^>]*\bhref\s*=\s*(?:"([^"]*)"|'([^']*)'|([^\s>]+))/gi;
@@ -181,16 +192,19 @@ function extractShareLinks(html, pageUrl) {
   }
   return [...results];
 }
+
 function downloadUrl(origin, shareUrl, file) {
   const params = new URLSearchParams({ url: shareUrl, fs_id: file.fs_id, name: cleanFilename(file.name, "descarga.bin") });
   return `${origin}/descargar?${params}`;
 }
+
 function fileEntry(file, href, idSuffix = "") {
   const title = xmlEscape(file.title || file.name || "Archivo");
   const id = xmlEscape(`nextnovels:file:${file.fs_id || href}${idSuffix}`);
   const type = xmlEscape(file.type || (String(file.name || "").toLowerCase().endsWith(".pdf") ? "application/pdf" : "application/epub+zip"));
   return `<entry><title>${title}</title><id>${id}</id><updated>${new Date().toISOString()}</updated><link rel="http://opds-spec.org/acquisition" href="${xmlEscape(href)}" type="${type}" title="${title}"/></entry>`;
 }
+
 function detailFeed(book, fileEntries, requestUrl, message = "") {
   const base = new URL(requestUrl).origin, now = new Date().toISOString();
   let extra = "";
@@ -198,6 +212,7 @@ function detailFeed(book, fileEntries, requestUrl, message = "") {
   if (!fileEntries.length && !message) extra = `<entry><title>No hay archivos EPUB o PDF detectados</title><id>${xmlEscape(base + "/novela/vacio")}</id><content type="text">Esta página no mostró archivos públicos compatibles. TeraBox puede limitar el acceso o requerir una verificación.</content></entry>`;
   return `<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog"><title>${xmlEscape(book.title || "Archivos de la novela")}</title><id>${xmlEscape(base + "/novela?url=" + encodeURIComponent(book.url || ""))}</id><updated>${now}</updated><link rel="self" href="${xmlEscape(requestUrl)}" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/><link rel="start" href="${xmlEscape(base + "/")}" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>${book.cover ? `<link rel="http://opds-spec.org/image" href="${xmlEscape(book.cover)}"/>` : ""}${fileEntries.join("\n")}${extra}</feed>`;
 }
+
 async function handleNovel(requestUrl) {
   const articleParam = requestUrl.searchParams.get("url");
   if (!articleParam || !isAllowedArticleUrl(articleParam)) return textError("Falta una URL válida de una novela de NextNovels.", 400);
@@ -217,7 +232,7 @@ async function handleNovel(requestUrl) {
   } catch {}
 
   let shareLinks = Array.isArray(book.terabox_links) ? book.terabox_links.filter(isAllowedShareUrl) : [];
-  // El catálogo antiguo no guardaba terabox_links: en ese caso se lee solo la página abierta.
+  // EL CATÁLOGO AHORA ES LIGERO: siempre entrará aquí a buscar enlaces si no los tiene guardados
   let articleHtml = "";
   if (!shareLinks.length) {
     const page = await fetch(book.url, { headers: { "User-Agent": UA, "Accept": "text/html,application/xhtml+xml,*/*" }, redirect: "follow" });
@@ -228,7 +243,6 @@ async function handleNovel(requestUrl) {
   shareLinks = [...new Set(shareLinks)];
   const origin = new URL(requestUrl).origin, items = [], failures = [];
 
-  // Conserva los EPUB/PDF directos conocidos. Descarta los enlaces TeraBox antiguos.
   for (const old of (Array.isArray(book.downloads) ? book.downloads : [])) {
     if (!old?.url || old.storage_url) continue;
     try {
@@ -263,6 +277,7 @@ async function handleNovel(requestUrl) {
   if (unique.length) { try { await caches.default.put(cacheKey, response.clone()); } catch {} }
   return response;
 }
+
 async function resolverTerabox(teraboxUrl, fsId) {
   if (!isAllowedShareUrl(teraboxUrl)) throw new Error("La URL de almacenamiento no es válida o no está admitida.");
   if (!/^\d{1,30}$/.test(String(fsId || ""))) throw new Error("Falta fs_id o no tiene un formato válido.");
@@ -284,6 +299,7 @@ async function resolverTerabox(teraboxUrl, fsId) {
   if (!data.ok || !data.dlink) throw new Error("No se pudo generar el enlace para el archivo seleccionado. Puede que TeraBox no lo permita mediante enlace público.");
   return data.dlink;
 }
+
 async function handleDownload(requestUrl) {
   const teraboxUrl = requestUrl.searchParams.get("url") || requestUrl.searchParams.get("storage_url");
   const fsId = requestUrl.searchParams.get("fs_id");
@@ -329,7 +345,6 @@ export default {
         return new Response(feed(`Resultados: ${query}`, `${url.origin}/search?q=${encodeURIComponent(query)}`, results, request.url, "navigation"), { headers: headers() });
       }
       if (url.pathname.startsWith("/catalogo/")) {
-        // Solo se permiten rutas dentro de /catalogo; evita traversal en la ruta del proxy.
         if (url.pathname.includes("..") || !/^\/catalogo\/[a-zA-Z0-9._-]+$/.test(url.pathname)) return textError("Ruta de catálogo no válida.", 400);
         const response = await fetch(`${REPO}${url.pathname}`, { cf: { cacheTtl: 60, cacheEverything: true } });
         if (!response.ok) return textError("Catálogo no encontrado.", response.status);
