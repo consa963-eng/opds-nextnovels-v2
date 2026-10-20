@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+import hashlib
 import json
 import re
 import time
@@ -17,11 +18,10 @@ BASE = "https://nextnovels.com"
 CATEGORY = BASE + "/"
 UPDATES = BASE + "/actualzaciones-orientales/"
 
-# ⚠️ CAMBIA ESTO por la URL real de tu Worker de Cloudflare.
+# URL de tu Worker de Cloudflare
 WORKER_BASE = "https://opds-nextnovels-v2.consa963.workers.dev"
 
-# Dominios de Terabox que hay que proxificar para que la app
-# descargue directamente sin abrir la web.
+# Dominios de Terabox que se redirigen a través del Worker
 TERABOX_HOSTS = (
     "terabox.com",
     "terabox.app",
@@ -42,6 +42,11 @@ UA = "Mozilla/5.0 (compatible; NextNovels-OPDS/1.0)"
 MAX_PAGES = 80
 MIN_VALID = 10
 DELAY = 1.0
+
+BASE_RAW = (
+    "https://raw.githubusercontent.com/"
+    "consa963-eng/opds-nextnovels-v2/main/catalogo"
+)
 
 S = requests.Session()
 S.headers.update({"User-Agent": UA})
@@ -80,20 +85,27 @@ def article_url(u):
     return path not in ("", "/")
 
 
-def label(s, label):
+def label(s, label_text):
     m = re.search(
-        rf"{re.escape(label)}\s*:?\s*([^\n]+)",
+        rf"{re.escape(label_text)}\s*:?\s*([^\n]+)",
         s.get_text("\n", strip=True),
         re.I
     )
     return clean(m.group(1)) if m else ""
 
 
-def proxify(url):
-    """Devuelve la URL proxificada por el Worker si es de Terabox."""
-    if any(h in url.lower() for h in TERABOX_HOSTS):
-        return f"{WORKER_BASE}/descargar?url={quote(url, safe='')}"
-    return url
+def worker_url(url):
+    """Envuelve una URL de Terabox para que pase por el Worker."""
+    return f"{WORKER_BASE}/descargar?url={quote(url, safe='')}"
+
+
+def is_terabox(url):
+    low = url.lower()
+    return any(h in low for h in TERABOX_HOSTS)
+
+
+def today():
+    return datetime.now(timezone.utc).date().isoformat()
 
 
 # ============================================================
@@ -105,20 +117,14 @@ def load_books():
         return []
 
     try:
-        return json.loads(
-            DATA.read_text(encoding="utf-8")
-        )
+        return json.loads(DATA.read_text(encoding="utf-8"))
     except Exception:
         return []
 
 
 def save_books(books):
     DATA.write_text(
-        json.dumps(
-            books,
-            ensure_ascii=False,
-            indent=2
-        ),
+        json.dumps(books, ensure_ascii=False, indent=2),
         encoding="utf-8"
     )
 
@@ -128,22 +134,27 @@ def load_state():
         return {}
 
     try:
-        return json.loads(
-            STATE.read_text(encoding="utf-8")
-        )
+        return json.loads(STATE.read_text(encoding="utf-8"))
     except Exception:
         return {}
 
 
 def save_state(state):
     STATE.write_text(
-        json.dumps(
-            state,
-            ensure_ascii=False,
-            indent=2
-        ),
+        json.dumps(state, ensure_ascii=False, indent=2),
         encoding="utf-8"
     )
+
+
+def limpiar_feeds_viejos():
+    """Borra los feeds antiguos basados en índice (autores-0.xml, generos-3.xml...)."""
+    for f in OUT.glob("autores-*.xml"):
+        if not re.fullmatch(r"autores-[0-9a-f]{10}\.xml", f.name):
+            f.unlink()
+
+    for f in OUT.glob("generos-*.xml"):
+        if not re.fullmatch(r"generos-[0-9a-f]{10}\.xml", f.name):
+            f.unlink()
 
 
 # ============================================================
@@ -155,12 +166,7 @@ def discover():
     seen = set()
 
     for n in range(1, MAX_PAGES + 1):
-
-        url = (
-            CATEGORY
-            if n == 1
-            else f"{CATEGORY}page/{n}/"
-        )
+        url = CATEGORY if n == 1 else f"{CATEGORY}page/{n}/"
 
         try:
             s = get(url)
@@ -169,9 +175,7 @@ def discover():
 
         found = []
 
-        for a in s.select(
-            "h2 a,h3 a,article a,.entry-title a"
-        ):
+        for a in s.select("h2 a,h3 a,article a,.entry-title a"):
             u = absu(a.get("href"))
 
             if article_url(u) and u not in seen:
@@ -185,9 +189,7 @@ def discover():
                 out.append(u)
                 new += 1
 
-        print(
-            f"[DESCUBRIR] página {n}: +{new}"
-        )
+        print(f"[DESCUBRIR] página {n}: +{new}")
 
         if not new:
             break
@@ -202,42 +204,23 @@ def discover():
 # ============================================================
 
 def parse(url, updated=None):
-
     s = get(url)
 
-    h = s.find("h1")
+    h1 = s.find("h1")
 
-    title = (
-        clean(h.get_text(" ", strip=True))
-        if h
-        else clean(
-            s.title.get_text()
-            if s.title
-            else ""
-        )
-    )
+    if h1:
+        title = clean(h1.get_text(" ", strip=True))
+    else:
+        title = clean(s.title.get_text() if s.title else "")
 
-    title = re.sub(
-        r"\s+-\s+Next Novels\s*$",
-        "",
-        title,
-        flags=re.I
-    )
+    title = re.sub(r"\s+-\s+Next Novels\s*$", "", title, flags=re.I)
 
-    main = (
-        s.select_one(
-            "article,.entry-content,.post-content,main"
-        )
-        or s
-    )
+    main = s.select_one("article,.entry-content,.post-content,main") or s
 
     # Portada
     cover = ""
 
-    og = s.find(
-        "meta",
-        property="og:image"
-    )
+    og = s.find("meta", property="og:image")
 
     if og and og.get("content"):
         cover = absu(og["content"])
@@ -246,10 +229,7 @@ def parse(url, updated=None):
         img = main.find("img")
 
         if img:
-            cover = absu(
-                img.get("src")
-                or img.get("data-src")
-            )
+            cover = absu(img.get("src") or img.get("data-src"))
 
     author = label(main, "Autor")
     status = label(main, "Estado")
@@ -258,112 +238,80 @@ def parse(url, updated=None):
     # Géneros
     genres = []
 
-    for a in main.select(
-        "a[href*='/genero/'],"
-        "a[href*='/tag/']"
-    ):
+    for a in main.select("a[href*='/genero/'],a[href*='/tag/']"):
         t = clean(a.get_text(" ", strip=True))
 
-        if t and t.lower() not in [
-            x.lower() for x in genres
-        ]:
+        if t and t.lower() not in [x.lower() for x in genres]:
             genres.append(t)
 
     # Sinopsis
     summary = ""
 
-    for h in main.find_all(
-        ["h2", "h3", "h4"]
-    ):
+    for hd in main.find_all(["h2", "h3", "h4"]):
 
-        if "sinopsis" in clean(
-            h.get_text()
-        ).lower():
+        if "sinopsis" in clean(hd.get_text()).lower():
 
             paragraphs = []
 
-            for x in h.find_all_next():
-
-                if x.name in [
-                    "h2",
-                    "h3",
-                    "h4"
-                ]:
+            for x in hd.find_all_next():
+                if x.name in ["h2", "h3", "h4"]:
                     break
 
                 if x.name == "p":
-                    t = clean(
-                        x.get_text(
-                            " ",
-                            strip=True
-                        )
-                    )
+                    t = clean(x.get_text(" ", strip=True))
 
                     if t:
                         paragraphs.append(t)
 
-            summary = "\n\n".join(
-                paragraphs
-            )
-
+            summary = "\n\n".join(paragraphs)
             break
 
-        # Descargas
+    # Descargas
     downloads = []
+
+    file_types = [
+        (".epub", "application/epub+zip"),
+        (".pdf", "application/pdf"),
+        (".mobi", "application/x-mobipocket-ebook"),
+        (".azw3", "application/vnd.amazon.ebook"),
+        (".cbz", "application/vnd.comicbook+zip"),
+        (".cbr", "application/vnd.comicbook-rar"),
+    ]
 
     for a in main.select("a[href]"):
         u = absu(a.get("href"))
         low = u.lower()
-        text = clean(a.get_text(" ", strip=True)).lower()
+        text = clean(a.get_text(" ", strip=True))
+        text_low = text.lower()
 
-        # 1. Enlaces directos a archivos (.epub, .pdf, etc.)
-        for ext, mime in [
-            (".epub", "application/epub+zip"),
-            (".pdf", "application/pdf"),
-            (".mobi", "application/x-mobipocket-ebook"),
-            (".azw3", "application/vnd.amazon.ebook"),
-            (".cbz", "application/vnd.comicbook+zip"),
-            (".cbr", "application/vnd.comicbook-rar"),
-        ]:
+        # 1. Enlaces directos a archivos
+        matched = False
+
+        for ext, mime in file_types:
             if ext in low:
                 downloads.append({
                     "url": u,
-                    "title": clean(a.get_text(" ", strip=True)) or "Descarga",
+                    "title": text or "Descarga",
                     "type": mime
                 })
+                matched = True
                 break
-        else:
-            # 2. Botones que ponen "Descargar" (y llevan a Terabox u otro lado)
-            if "descargar" in text or "leer" in text:
-                # Si es un enlace de Terabox, lo proxificamos
-                if any(h in u.lower() for h in TERABOX_HOSTS):
-                    downloads.append({
-                        "url": f"{WORKER_BASE}/descargar?url={quote(u, safe='')}",
-                        "title": clean(a.get_text(" ", strip=True)) or "Descargar",
-                        "type": "application/epub+zip",
-                    })
-                else:
-                    # Si el botón lleva a otro sitio, también lo guardamos
-                    downloads.append({
-                        "url": u,
-                        "title": clean(a.get_text(" ", strip=True)) or "Descargar",
-                        "type": "application/epub+zip",
-                    })
 
-    # Deduplicar por URL.
+        if matched:
+            continue
+
+        # 2. Botones de descarga (solo "Descargar", no "Leer")
+        if "descargar" in text_low:
+            link = worker_url(u) if is_terabox(u) else u
+
+            downloads.append({
+                "url": link,
+                "title": text or "Descargar",
+                "type": "application/epub+zip"
+            })
+
+    # Deduplicar por URL
     downloads = list({d["url"]: d for d in downloads}.values())
-
-    # Deduplicar por URL.
-    downloads = list({d["url"]: d for d in downloads}.values())
-
-    # Reescribir enlaces de Terabox para que apunten al Worker.
-    for d in downloads:
-        d["url"] = proxify(d["url"])
-        if any(h in proxify(d["url"]).lower() for h in TERABOX_HOSTS):
-            # (no ocurrirá tras proxificar, pero por seguridad)
-            pass
-        if "/descargar?url=" in d["url"]:
-            d["title"] = d["title"] + " (directo)"
 
     return {
         "id": url,
@@ -376,12 +324,7 @@ def parse(url, updated=None):
         "genres": genres,
         "summary": summary,
         "downloads": downloads,
-        "updated": (
-            updated
-            or datetime.now(
-                timezone.utc
-            ).isoformat()
-        )
+        "updated": updated or today()
     }
 
 
@@ -406,7 +349,6 @@ MONTHS = {
 
 
 def get_date(text):
-
     m = re.search(
         r"(\d{1,2})\s+"
         r"(enero|febrero|marzo|abril|mayo|junio|"
@@ -431,26 +373,16 @@ def get_date(text):
 # ============================================================
 
 def get_updates(last_date):
-
     changes = []
     latest_date = last_date
 
     for page in range(1, 100):
-
-        url = (
-            UPDATES
-            if page == 1
-            else f"{UPDATES}page/{page}/"
-        )
+        url = UPDATES if page == 1 else f"{UPDATES}page/{page}/"
 
         try:
             s = get(url)
         except Exception as e:
-            print(
-                "[WARN] No se pudo consultar "
-                "Actualizaciones:",
-                e
-            )
+            print("[WARN] No se pudo consultar Actualizaciones:", e)
             return None, latest_date
 
         articles = s.select("article")
@@ -462,14 +394,7 @@ def get_updates(last_date):
         new_on_page = 0
 
         for article in articles:
-
-            text = clean(
-                article.get_text(
-                    " ",
-                    strip=True
-                )
-            )
-
+            text = clean(article.get_text(" ", strip=True))
             date = get_date(text)
 
             if not date:
@@ -500,9 +425,7 @@ def get_updates(last_date):
 
             link = None
 
-            for a in article.select(
-                "h2 a,h3 a,.entry-title a,a[href]"
-            ):
+            for a in article.select("h2 a,h3 a,.entry-title a,a[href]"):
                 u = absu(a.get("href"))
 
                 if article_url(u):
@@ -512,10 +435,7 @@ def get_updates(last_date):
             if not link:
                 continue
 
-            changes.append({
-                "url": link,
-                "date": date
-            })
+            changes.append({"url": link, "date": date})
             new_on_page += 1
 
         if last_date and page_old and new_on_page == 0:
@@ -539,113 +459,60 @@ def get_updates(last_date):
 # ============================================================
 
 def incremental(books):
-
     state = load_state()
     last_date = state.get("last_update", "")
 
-    print(
-        "[INFO] Última actualización:",
-        last_date or "ninguna"
-    )
+    print("[INFO] Última actualización:", last_date or "ninguna")
 
     result = get_updates(last_date)
 
     if result is None:
-        print(
-            "[WARN] Se conserva el catálogo actual."
-        )
+        print("[WARN] Se conserva el catálogo actual.")
         return books
 
     changes, latest_date = result
 
     if not last_date:
-
-        save_state({
-            "last_update": latest_date
-        })
-
-        print(
-            "[INFO] Punto de partida establecido:",
-            latest_date
-        )
-
+        save_state({"last_update": latest_date})
+        print("[INFO] Punto de partida establecido:", latest_date)
         return books
 
     if not changes:
-
-        print(
-            "[INFO] No hay novedades."
-        )
+        print("[INFO] No hay novedades.")
 
         if latest_date > last_date:
-            save_state({
-                "last_update": latest_date
-            })
+            save_state({"last_update": latest_date})
 
         return books
 
-    print(
-        f"[INFO] {len(changes)} actualización(es) encontrada(s)."
-    )
+    print(f"[INFO] {len(changes)} actualización(es) encontrada(s).")
 
-    by_url = {
-        b["url"]: b
-        for b in books
-    }
+    by_url = {b["url"]: b for b in books}
 
-    for change in sorted(
-        changes,
-        key=lambda x: x["date"]
-    ):
-
+    for change in sorted(changes, key=lambda x: x["date"]):
         url = change["url"]
 
         try:
+            print("[ACTUALIZAR]", url)
 
-            print(
-                "[ACTUALIZAR]",
-                url
-            )
-
-            book = parse(
-                url,
-                updated=change["date"]
-            )
+            book = parse(url, updated=change["date"])
 
             if not book["title"]:
                 continue
 
-            if (
-                book["type"]
-                and "ligera"
-                not in book["type"].lower()
-            ):
-                print(
-                    "[IGNORADA] No es novela ligera:",
-                    book["title"]
-                )
+            if book["type"] and "ligera" not in book["type"].lower():
+                print("[IGNORADA] No es novela ligera:", book["title"])
                 continue
 
             by_url[url] = book
-
-            print(
-                "[OK]",
-                book["title"]
-            )
+            print("[OK]", book["title"])
 
         except Exception as e:
-
-            print(
-                "[WARN]",
-                url,
-                e
-            )
+            print("[WARN]", url, e)
 
         time.sleep(DELAY)
 
-    save_state({
-        "last_update": latest_date
-    })
+    save_state({"last_update": latest_date})
 
     return list(by_url.values())
 
@@ -655,20 +522,11 @@ def incremental(books):
 # ============================================================
 
 def ent(b):
-
     x = [
         "<entry>",
-        "<title>"
-        + escape(
-            b["title"] or "Sin título"
-        )
-        + "</title>",
-        "<id>"
-        + escape(b["id"])
-        + "</id>",
-        f'<link rel="alternate" '
-        f'href={quoteattr(b["url"])} '
-        f'type="text/html"/>'
+        "<title>" + escape(b["title"] or "Sin título") + "</title>",
+        "<id>" + escape(b["id"]) + "</id>",
+        f'<link rel="alternate" href={quoteattr(b["url"])} type="text/html"/>'
     ]
 
     if b.get("cover"):
@@ -678,29 +536,19 @@ def ent(b):
         )
 
     if b.get("author"):
-        x.append(
-            "<author><name>"
-            + escape(b["author"])
-            + "</name></author>"
-        )
+        x.append("<author><name>" + escape(b["author"]) + "</name></author>")
 
     for g in b.get("genres", []):
-        x.append(
-            f'<category term={quoteattr(g)} '
-            f'label={quoteattr(g)}/>'
-        )
+        x.append(f'<category term={quoteattr(g)} label={quoteattr(g)}/>')
 
     if b.get("summary"):
         x.append(
             '<content type="text">'
-            + escape(
-                b["summary"][:5000]
-            )
+            + escape(b["summary"][:5000])
             + "</content>"
         )
 
     for d in b.get("downloads", []):
-
         x.append(
             f'<link rel="http://opds-spec.org/acquisition" '
             f'href={quoteattr(d["url"])} '
@@ -709,7 +557,6 @@ def ent(b):
         )
 
     if not b.get("downloads"):
-
         x.append(
             f'<link rel="http://opds-spec.org/acquisition" '
             f'href={quoteattr(b["url"])} '
@@ -723,25 +570,16 @@ def ent(b):
 
 
 def feed(title, fid, items, selfurl, kind="acquisition"):
-
     x = [
         '<?xml version="1.0" encoding="utf-8"?>',
-
         '<feed xmlns="http://www.w3.org/2005/Atom" '
         'xmlns:opds="http://opds-spec.org/2010/catalog" '
         'xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">',
-
         f"<id>{escape(fid)}</id>",
         f"<title>{escape(title)}</title>",
-
-        f"<updated>"
-        f"{datetime.now(timezone.utc).isoformat()}"
-        f"</updated>",
-
-        f'<link rel="self" '
-        f'href={quoteattr(selfurl)} '
-        f'type="application/atom+xml;profile=opds-catalog;'
-        f'kind={kind}"/>'
+        f"<updated>{datetime.now(timezone.utc).isoformat()}</updated>",
+        f'<link rel="self" href={quoteattr(selfurl)} '
+        f'type="application/atom+xml;profile=opds-catalog;kind={kind}"/>'
     ]
 
     x += [ent(b) for b in items]
@@ -756,25 +594,14 @@ def feed(title, fid, items, selfurl, kind="acquisition"):
 # ============================================================
 
 def generate(books):
-
-    books = list({
-        b["url"]: b
-        for b in books
-    }.values())
-
-    books.sort(
-        key=lambda b:
-        b["title"].lower()
-    )
+    books = list({b["url"]: b for b in books}.values())
+    books.sort(key=lambda b: b["title"].lower())
 
     save_books(books)
+    limpiar_feeds_viejos()
 
-    base = (
-    "https://raw.githubusercontent.com/"
-    "consa963-eng/opds-nextnovels-v2/main/catalogo"
-)
+    base = BASE_RAW
 
-    # [título, fichero, kind]
     nav = [
         ("Novedades", "novedades.xml", "acquisition"),
         ("Todas las novelas", "todos.xml", "acquisition"),
@@ -785,143 +612,86 @@ def generate(books):
 
     x = [
         '<?xml version="1.0" encoding="utf-8"?>',
-
         '<feed xmlns="http://www.w3.org/2005/Atom" '
         'xmlns:opds="http://opds-spec.org/2010/catalog">',
-
         "<id>nextnovels:root</id>",
         "<title>Next Novels</title>",
-
-        f"<updated>"
-        f"{datetime.now(timezone.utc).isoformat()}"
-        f"</updated>",
-
-        f'<link rel="self" '
-        f'href={quoteattr(base + "/index.xml")} '
-        f'type="application/atom+xml;profile=opds-catalog;'
-        f'kind=navigation"/>'
+        f"<updated>{datetime.now(timezone.utc).isoformat()}</updated>",
+        f'<link rel="self" href={quoteattr(base + "/index.xml")} '
+        f'type="application/atom+xml;profile=opds-catalog;kind=navigation"/>'
     ]
 
     for title, filename, kind in nav:
-
         x.append(
             f'<entry>'
             f'<title>{escape(title)}</title>'
             f'<id>nextnovels:{filename}</id>'
-            f'<link rel="subsection" '
-            f'href={quoteattr(base + "/" + filename)} '
-            f'type="application/atom+xml;profile=opds-catalog;'
-            f'kind={kind}"/>'
+            f'<link rel="subsection" href={quoteattr(base + "/" + filename)} '
+            f'type="application/atom+xml;profile=opds-catalog;kind={kind}"/>'
             f'</entry>'
         )
 
     x.append("</feed>")
 
-    (
-        OUT / "index.xml"
-    ).write_text(
-        "\n".join(x),
+    (OUT / "index.xml").write_text("\n".join(x), encoding="utf-8")
+
+    (OUT / "todos.xml").write_text(
+        feed("Todas las novelas", "nextnovels:all", books, base + "/todos.xml"),
         encoding="utf-8"
     )
 
-    (
-        OUT / "todos.xml"
-    ).write_text(
-        feed(
-            "Todas las novelas",
-            "nextnovels:all",
-            books,
-            base + "/todos.xml"
-        ),
-        encoding="utf-8"
-    )
-
-    (
-        OUT / "titulos.xml"
-    ).write_text(
-        feed(
-            "Títulos A-Z",
-            "nextnovels:titles",
-            books,
-            base + "/titulos.xml"
-        ),
+    (OUT / "titulos.xml").write_text(
+        feed("Títulos A-Z", "nextnovels:titles", books, base + "/titulos.xml"),
         encoding="utf-8"
     )
 
     novedades = sorted(
         books,
-        key=lambda b:
-        b.get("updated", ""),
+        key=lambda b: b.get("updated", ""),
         reverse=True
     )[:200]
 
-    (
-        OUT / "novedades.xml"
-    ).write_text(
-        feed(
-            "Novedades",
-            "nextnovels:new",
-            novedades,
-            base + "/novedades.xml"
-        ),
+    (OUT / "novedades.xml").write_text(
+        feed("Novedades", "nextnovels:new", novedades, base + "/novedades.xml"),
         encoding="utf-8"
     )
 
-    groups = {
-        "autores": {},
-        "generos": {}
-    }
+    groups = {"autores": {}, "generos": {}}
 
     for b in books:
-
         if b.get("author"):
-            groups["autores"].setdefault(
-                b["author"],
-                []
-            ).append(b)
+            groups["autores"].setdefault(b["author"], []).append(b)
 
         for g in b.get("genres", []):
-
-            groups["generos"].setdefault(
-                g,
-                []
-            ).append(b)
+            groups["generos"].setdefault(g, []).append(b)
 
     for kind, gs in groups.items():
-
         x = [
             '<?xml version="1.0" encoding="utf-8"?>',
-
             '<feed xmlns="http://www.w3.org/2005/Atom" '
             'xmlns:opds="http://opds-spec.org/2010/catalog">',
-
             f"<id>nextnovels:{kind}</id>",
             f"<title>{kind.title()}</title>"
         ]
 
-        for i, name in enumerate(
-            sorted(gs, key=str.lower)
-        ):
-
-            fn = f"{kind}-{i}.xml"
+        for name in sorted(gs, key=str.lower):
+            # Nombre de fichero estable: depende del nombre, no del orden
+            slug = hashlib.md5(name.encode("utf-8")).hexdigest()[:10]
+            fn = f"{kind}-{slug}.xml"
 
             x.append(
                 f'<entry>'
                 f'<title>{escape(name)}</title>'
                 f'<id>nextnovels:{fn}</id>'
-                f'<link rel="subsection" '
-                f'href={quoteattr(base + "/" + fn)} '
-                f'type="application/atom+xml;profile=opds-catalog;'
-                f'kind=acquisition"/>'
+                f'<link rel="subsection" href={quoteattr(base + "/" + fn)} '
+                f'type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>'
                 f'</entry>'
             )
 
-            (
-                OUT / fn
-            ).write_text(
+            (OUT / fn).write_text(
                 feed(
                     name,
-                    f"nextnovels:{kind}:{name}",
+                    f"nextnovels:{kind}:{slug}",
                     gs[name],
                     base + "/" + fn,
                     kind="acquisition"
@@ -931,16 +701,9 @@ def generate(books):
 
         x.append("</feed>")
 
-        (
-            OUT / f"{kind}.xml"
-        ).write_text(
-            "\n".join(x),
-            encoding="utf-8"
-        )
+        (OUT / f"{kind}.xml").write_text("\n".join(x), encoding="utf-8")
 
-    (
-        OUT / "opensearch.xml"
-    ).write_text(
+    (OUT / "opensearch.xml").write_text(
         f'''<?xml version="1.0" encoding="UTF-8"?>
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
 <ShortName>Next Novels</ShortName>
@@ -952,10 +715,7 @@ def generate(books):
         encoding="utf-8"
     )
 
-    print(
-        f"[OK] Catálogo generado: "
-        f"{len(books)} novelas"
-    )
+    print(f"[OK] Catálogo generado: {len(books)} novelas")
 
 
 # ============================================================
@@ -963,80 +723,45 @@ def generate(books):
 # ============================================================
 
 def main():
-
-    OUT.mkdir(
-        exist_ok=True
-    )
+    OUT.mkdir(exist_ok=True)
 
     books = load_books()
 
     if len(books) < MIN_VALID:
-
-        print(
-            "[INFO] Primera ejecución: "
-            "escaneo completo."
-        )
+        print("[INFO] Primera ejecución: escaneo completo.")
 
         urls = discover()
         new_books = []
 
-        for i, url in enumerate(
-            urls,
-            1
-        ):
-
+        for i, url in enumerate(urls, 1):
             try:
-
-                print(
-                    f"[{i}/{len(urls)}] {url}"
-                )
+                print(f"[{i}/{len(urls)}] {url}")
 
                 b = parse(url)
 
-                                if b["title"]:
+                if b["title"]:
                     new_books.append(b)
 
             except Exception as e:
-
-                print(
-                    "[WARN]",
-                    url,
-                    e
-                )
+                print("[WARN]", url, e)
 
             time.sleep(DELAY)
 
         if len(new_books) < MIN_VALID:
-
             if len(books) >= MIN_VALID:
-                print(
-                    "[WARN] Se conserva "
-                    "el catálogo anterior."
-                )
+                print("[WARN] Se conserva el catálogo anterior.")
             else:
                 raise RuntimeError(
-                    f"NextNovels devolvió "
-                    f"muy pocos resultados: "
-                    f"{len(new_books)}"
+                    f"NextNovels devolvió muy pocos resultados: {len(new_books)}"
                 )
-
         else:
             books = new_books
 
-        save_state({
-            "last_update": ""
-        })
+        save_state({"last_update": ""})
 
     else:
-
-        print(
-            f"[INFO] Catálogo existente: "
-            f"{len(books)} novelas"
-        )
-
-        books = incremental(
-            books
-        )
+        print(f"[INFO] Catálogo existente: {len(books)} novelas")
+        books = incremental(books)
 
     generate(books)
 
