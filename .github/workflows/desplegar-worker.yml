@@ -1,1 +1,27 @@
+name: Desplegar OPDS Worker
 
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "worker.js"
+      - "wrangler.toml"
+      - ".github/workflows/desplegar-worker.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Desplegar Worker
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: deploy
