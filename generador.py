@@ -993,8 +993,8 @@ def main():
 
                 b = parse(url)
 
-                if b["title"]:
-    new_books.append(b)
+                                if b["title"]:
+                    new_books.append(b)
 
             except Exception as e:
 
