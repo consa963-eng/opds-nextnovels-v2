@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:b49835cb77</id>
+<title>Natsuno Minoru</title>
+<updated>2026-10-20T16:38:00.731651+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-b49835cb77.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>Koibito Daikou wo Hajimeta Ore, Naze ka Bishoujo no Shimei Irai ga Haittekuru Novela Ligera en Español</title>
+<id>https://nextnovels.com/koibito-daikou-wo-hajimeta-ore-naze-ka-bishoujo-no-shimei-irai-ga-haittekuru-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/koibito-daikou-wo-hajimeta-ore-naze-ka-bishoujo-no-shimei-irai-ga-haittekuru-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/05/Koibito-Daikou-wo-Hajimeta-Ore-Portada.jpg" />
+<author><name>Natsuno Minoru</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Ryoma Shiba, una estudiante universitaria pobre, que busca un trabajo a medio tiempo con un alto salario por hora, y Himeno Kashiwagi, quien desea una relación mientras les dice a todos a su alrededor que no está interesada en el amor.
+
+Al mismo tiempo, descubren sobre la "Agencia de Amantes" a partir de conexiones mutuas, por lo que se registran de inmediato y terminan programando una cita.
+
+El día de la cita, los dos se encuentran por primera vez y, a pesar de su nerviosismo, pasaron un rato encantador tomados de la mano y bebiendo tapioca, como amantes.
+
+Sin embargo, cuando la amiga de Himeno descubre la verdad, las cosas se ponen raras. Ryoma le miente y le dice que están saliendo. El corazón de Himeno da un vuelco cuando Ryoma finge ser su novio real.
+
+Esta es una verdadera historia de amor que comienza con una relación de alquiler.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/koibito-daikou-wo-hajimeta-ore-naze-ka-bishoujo-no-shimei-irai-ga-haittekuru-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+</entry>
+</feed>

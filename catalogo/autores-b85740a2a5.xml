@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:b85740a2a5</id>
+<title>Hoshizora Meteo</title>
+<updated>2026-10-20T16:38:00.711222+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-b85740a2a5.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>Fate/Requiem Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-fate-requiem-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-fate-requiem-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-16.jpg" />
+<author><name>Hoshizora Meteo</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Magia" label="Magia"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Una vez, hubo una gran guerra. La guerra terminó, y el mundo se volvió pacífico. Ahora, cualquiera tiene un "Santo Grial" y convoca a un sirviente atado a su destino. Sólo hay una chica, Utsumi Erice, que no tiene uno. Esta chica se encuentra con el último Siervo convocado en el mundo, un chico. Pero no tiene ni idea de cuál será su destino.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fate-requiem-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+</entry>
+</feed>

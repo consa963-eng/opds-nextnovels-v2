@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:53b0023af7</id>
+<title>Atekichi</title>
+<updated>2026-10-20T16:38:00.701749+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-53b0023af7.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>All-Works Maid Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-all-works-maid-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-all-works-maid-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/09/All-Works-Maid-Portada.jpg" />
+<author><name>Atekichi</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Shoujo" label="Shoujo"/>
+<content type="text">"¡Voy a convertirme en la mejor sirvienta del mundo!"
+
+Con su falda en blanco y negro ondeando al viento, la joven gritó con determinación.
+
+Su nombre es Melody.
+
+Reencarnada de Japón, heredó el sueño de su vida anterior y ahora trabaja como sirvienta de oficios varios en una pobre familia de condes del Reino Teoras.
+
+Si ella prepara el té, incluso el más barato se vuelve un lujo; si ella limpia, una mansión en ruinas queda como nueva.
+
+¡Limpieza, servicio, cacería o bricolaje, déjenmelo todo a mí! —y lo resuelve todo con su poderosa magia.
+
+Porque en realidad… este mundo es el de un otome game, y la invencible Melody no es otra que la mismísima Santa.
+
+…Aunque ella no tiene la menor idea de ello.
+
+¿Romance con apuestos galanes? ¿Ataques del Rey Demonio? ¡Por favor, el trabajo es más importante!
+
+¿Qué le espera al mañana de un mundo cuyo destino es destrozado sin querer por una chica que volcó todo el poder de la Santa en sus tareas domésticas?
+
+¡Una fantasía laboral llena de malentendidos que rompe el destino sin darse cuenta!
+
+★Con contenido especial exclusivo de la edición digital★
+
+¡Confirmada la adaptación al anime para TV!
+
+¡Delicioso té! ¡Limpieza de la mansión! ¿Derrotar al Rey Demonio? ¡Dejen todo en manos de la magia y habilidades de una sirvienta! ¡La heroína de un otome game se convierte en sirvienta y causa un gran alboroto! ¡Una fantasía laboral llena de malentendidos que rompe el guión del mundo! ¡Incluye relato corto inédito!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-all-works-maid-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+</entry>
+</feed>

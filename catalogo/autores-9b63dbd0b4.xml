@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:9b63dbd0b4</id>
+<title>Saeki-san</title>
+<updated>2026-10-20T16:38:00.737538+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-9b63dbd0b4.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>The Angel Next Door Spoils Me Rotten Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-angel-next-door-spoils-me-rotten-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-angel-next-door-spoils-me-rotten-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/06/Otonari-no-tenshi-Portada.jpg" />
+<author><name>Saeki-san</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">La vecina de Amane Fujimiya, en el apartamento en el que vive, es el ángel adorable número uno de la escuela: Excelente y con un nivel de belleza que sólo puede describirse como angelical: Mahiru Shiina. Amane, un estudiante normal y corriente que no destaca, es su vecino, pero hasta ahora no se relacionaban. Después de conocer al ángel empapado en la lluvia:
+
+"Te devuelvo lo que me has prestado. Por cierto, limpia tu habitación. Está sucia".
+
+"No es asunto tuyo".
+
+La relación con un ángel de lengua afilada comienza con la entrega de un paraguas. Desde coger un resfriado y que alguien te cuide, hasta hacer una comida a alguien porque descuidó su salud, pasando por el trabajo conjunto (limpieza de habitaciones)...</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-angel-next-door-spoils-me-rotten-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+</entry>
+</feed>

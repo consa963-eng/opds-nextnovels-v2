@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:2291bb361c</id>
+<title>Shiwasu Tooru</title>
+<updated>2026-10-20T16:38:00.743501+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-2291bb361c.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>The Game War Between Me and Her Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-game-war-between-me-and-her-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-game-war-between-me-and-her-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/11/01-34.jpg" />
+<author><name>Shiwasu Tooru</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Kishimine Kengo se mudó a una preparatoria que solía ser una escuela de chicas hasta hace varios años. A pesar del típico ambiente harem donde se encontraba rodeado sólo por chicas, no era bueno socializando y su único pasatiempo era sumergirse en la lectura. Vivía una vida tranquila.
+
+Pero decidió participar en actividades de club que no había hecho hasta ahora, y así su vida de preparatoria cambió y se convirtió en algo tormentoso y lleno de drama. Se unió al club donde se jugaban videojuegos modernos – en pocas palabras, el club de juegos. Kishimine fue admitido por la hermosa líder del consejo estudiantil y por un profesor pervertido, y demostró un talento inesperado. Ahora el telón se ha levantado en la excitante vida videojugabilística de un chico ordinario.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-game-war-between-me-and-her-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+</entry>
+</feed>

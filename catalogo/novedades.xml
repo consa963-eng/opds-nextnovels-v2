@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:new</id>
 <title>Novedades</title>
-<updated>2026-10-20T16:02:35.226462+00:00</updated>
+<updated>2026-10-20T16:38:00.691369+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/novedades.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>“Leave This to Me and Go on Ahead!” Unwanted Galactic Uprising by The Man Who Secretly Longed to Die Novela Ligera en Español</title>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:35a35b7cd3</id>
+<title>Naruto Kiriyama</title>
+<updated>2026-10-20T16:38:00.731260+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-35a35b7cd3.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>Cosmic Princess Kaguya! Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-cosmic-princess-kaguya-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-cosmic-princess-kaguya-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/Cosmic-Princess-Kaguya-Portada-1.jpg" />
+<author><name>Naruto Kiriyama</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Shoujo Ai" label="Shoujo Ai"/>
+<category term="Supernatural" label="Supernatural"/>
+<category term="Yuri" label="Yuri"/>
+<content type="text">Tsukuyomi es un reino virtual donde las esperanzas y los sueños se unen. Iroha Sakayori, una estudiante de secundaria de 17 años en Tokio, lleva una vida extremadamente ajetreada tratando de equilibrar su trabajo de medio tiempo con sus estudios. Encuentra paz viendo a una popular streamer llamada Yachiyo Runami, administradora de un espacio virtual en línea llamado Tsukuyomi.
+
+Iroha frecuenta Tsukuyomi, donde las personas pueden vivir vidas diferentes y desarrollar libremente su creatividad, y pasa el tiempo apoyando a Yachiyo y jugando juegos de batalla para ganar un poco de dinero extra. Un día, de camino a casa, Iroha encuentra un poste de teléfono que brilla con tonos iridiscentes. Para su sorpresa, un adorable bebé emerge del poste. Incapaz de abandonarlo, Iroha se lleva al bebé a casa y lo ve crecer rápidamente hasta convertirse en una niña de su edad.
+
+"¿Eres la princesa Kaguya?"
+
+La Kaguya adulta desarrolla una personalidad indulgente. A petición ferviente de Kaguya, Iroha la ayuda a comenzar a transmitir en Tsukuyomi. Con Iroha como productora y compositora, y Kaguya como streamer y cantante, su amistad se fortalece cada vez más. Lo que no saben es que fuerzas siniestras acechan, ansiosas por llevarse a Kaguya de vuelta a la luna.
+
+Esta es la historia de la princesa Kaguya como nunca antes se había visto.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-cosmic-princess-kaguya-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+</entry>
+</feed>

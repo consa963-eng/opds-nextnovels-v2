@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:b10398981c</id>
+<title>紙城境介</title>
+<updated>2026-10-20T16:38:00.757208+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-b10398981c.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>Tier 1 Sisters Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-tier-1-sisters-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-tier-1-sisters-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/01/Tier-1-Sisters-Portada.jpg" />
+<author><name>紙城境介</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Harem" label="Harem"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">¡Talento y Encanto Incomparables! ¿Viviendo Bajo el Mismo Techo con Cuatro Hermanas Extraordinarias?
+
+Kiminaga Oriomi, un estudiante con dificultades económicas, es sorprendido trabajando a tiempo parcial, una violación de las normas escolares. Para evitar la expulsión, se le asigna un trabajo como encargado del hogar en la residencia de la presidenta de la escuela. Pero hay un detalle: la casa Kichijoji es el hogar de "cuatro hermanas asombrosamente talentosas y hermosas" que cautivan a todos a su alrededor.
+
+Kikuri, la mayor, es una reconocida artista e VTuber. Ranka, la segunda, es una streamer de gran popularidad. Meru, la tercera, es una jugadora profesional, y Chinana, la menor, es una seiyuu (actriz de voz) genio. Sin embargo, a pesar de sus talentos, su vida en casa es un torbellino caótico: comida a domicilio, ropa dispersa, ¡e incluso terminan metidas en la cama de Oriomi!
+
+Mientras Oriomi navega por las personalidades sin filtro de las hermanas y se gana su confianza con su destreza en el hogar, recibe un misterioso mensaje: «Esta vez, también me elegirás a mí, ¿verdad?»
+
+Bajo el mismo techo, una historia fatídica comienza a desarrollarse con las cuatro hermanas como protagonistas.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-tier-1-sisters-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+</entry>
+</feed>

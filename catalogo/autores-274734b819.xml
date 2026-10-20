@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:274734b819</id>
+<title>Kurage</title>
+<updated>2026-10-20T16:38:00.722125+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-274734b819.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>The Secret Life Of An Honor Student Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-secret-life-of-an-honor-student-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-secret-life-of-an-honor-student-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/The-Secret-Life-Of-An-Honor-Student-Portada.jpg" />
+<author><name>Kurage</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">“Si mantienes mi cuenta secreta oculta, haré algo bueno por ti, ¿de acuerdo?”
+
+“Noventa por ciento impuro, diez por ciento amor puro”: ese fue el comienzo de una relación secreta solo entre nosotros dos.
+
+“Si prometes no contarlo, me aseguraré de que lo pases bien.”
+
+Aisaka Akito descubrió por casualidad que Mamiya Yuu, la estudiante modelo y ejemplar que se sentaba a su lado, era en realidad una “chica de la cuenta secreta”. Para que guardara silencio, ella lo obligó a acompañarla como su fotógrafo para esas fotos de la cuenta oculta.
+
+“Oye… hagamos algo aún más loco.”
+
+Sus sesiones de fotos empezaron a tomar rumbos que jamás podrían contarle a nadie. Confundido pero incapaz de resistirse, Akito se encontró pasando cada vez más tiempo a solas con ella: viéndose en secreto, tomando fotos, caminando juntos a casa después de desvíos. Cada momento se acumulaba, revelando poco a poco destellos de su verdadera personalidad.
+
+Una relación que comenzó como un secreto impuro pronto se transformó en un amor tierno y dulce.
+
+El frente y la espalda. Las dos caras que albergaba. Una emocionante comedia romántica secreta con la chica que vivía en dos mundos</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-secret-life-of-an-honor-student-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+</entry>
+</feed>

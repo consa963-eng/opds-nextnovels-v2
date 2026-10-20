@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:4ded92a7d4</id>
+<title>Syuu</title>
+<updated>2026-10-20T16:38:00.745423+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-4ded92a7d4.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>Victoria of Many Faces Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-victoria-of-many-faces-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-victoria-of-many-faces-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/Victoria-of-Many-Faces-Portada.jpg" />
+<author><name>Syuu</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Josei" label="Josei"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<content type="text">Moldeada desde la infancia para ser una agente encubierta de alto nivel, Chloe pasa sus días llevando a cabo misiones secretas para el reino de Hagl. Pero cuando descubre que su jefe la ha estado manipulando, asume la identidad de una mujer llamada Victoria y huye del país, dándole la espalda a todo lo que conoce por una oportunidad en la vida normal con la que siempre soñó. Afortunadamente, la vida en el vecino reino de Ashbury resulta ser mucho más satisfactoria de lo que Victoria podría haber imaginado, gracias en gran medida a Nonna, una chica abandonada que ella acoge. Y aunque Victoria ha renunciado a ser una espía, las habilidades que cultivó durante su carrera le dan frutos de maneras sorprendentes, desde conseguirle un nuevo trabajo hasta ayudarla a hacer amistades coloridas. Sin embargo, a medida que más personas se dan cuenta de sus extraordinarios talentos, su antiguo empleador llega a la puerta, y el mundo que tanto ha trabajado para construir comienza a desmoronarse...</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-victoria-of-many-faces-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+</entry>
+</feed>

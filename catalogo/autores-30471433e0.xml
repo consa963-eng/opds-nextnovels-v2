@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:30471433e0</id>
+<title>Youko Kagura</title>
+<updated>2026-10-20T16:38:00.753687+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-30471433e0.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>Onee-san Will Examine You Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-onee-san-will-examine-you-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-onee-san-will-examine-you-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Onee-san-Will-Examine-You-Portada.jpg" />
+<author><name>Youko Kagura</name></author>
+<category term="Harem" label="Harem"/>
+<category term="Hentai" label="Hentai"/>
+<content type="text">Satoru, un chico de constitución débil, ingresa en la sala E. Allí le esperaban cuatro hermanas enfermeras vestidas con leotardos. El atrevido servicio que estas bellezas mayores prestan más allá del ámbito de los cuidados devotos hace que la mente y el cuerpo del chico caigan víctimas de la enfermedad del deseo carnal.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-onee-san-will-examine-you-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+</entry>
+</feed>

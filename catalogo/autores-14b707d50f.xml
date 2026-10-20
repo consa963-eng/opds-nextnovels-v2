@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:14b707d50f</id>
+<title>Harajun</title>
+<updated>2026-10-20T16:38:00.707169+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-14b707d50f.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>EXP Is Golden Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-exp-is-golden-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-exp-is-golden-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/EXP-Is-Golden-Portada.jpg" />
+<author><name>Harajun</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
+<content type="text">¡El tan esperado día de lanzamiento del VRMMORPG Boot Hour, Shoot Curse por fin ha llegado! Como jugadora de RV entregada, Leah crea a su personaje con entusiasmo, emocionada por dejar su huella en el gran tapiz de este mundo virtual. Un encuentro fortuito al inicio del juego lleva a Leah a un descubrimiento fatídico: una habilidad oculta llamada Retainer le permite domesticar a cualquier PNJ del juego y acumular sus puntos de experiencia junto con los suyos propios.
+
+Combinando Retainer con sus poderosos hechizos de encantamiento, Leah va formando poco a poco un ejército de sirvientes compuesto por formidables PNJ jefes únicos del juego. Con los puntos de experiencia lloviéndole, Leah se consolida como una fuerza a tener en cuenta… ¡solo para ser tachada de desastre natural viviente!
+
+Bueno, si los PNJ quieren coronarla Reina de la Destrucción, ¿quién es Leah para discutirlo? Las oportunidades de acelerar la destrucción de la humanidad no aparecen muy a menudo, y Leah no tiene intención de dejar que esta oportunidad se desperdicie.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-exp-is-golden-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels" />
+</entry>
+</feed>
