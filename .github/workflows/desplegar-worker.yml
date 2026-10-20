@@ -1,27 +1,23 @@
-name: Diagnóstico despliegue Worker
+name: Desplegar OPDS Worker
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - "worker.js"
+      - "wrangler.toml"
+      - ".github/workflows/desplegar-worker.yml"
 
 permissions:
   contents: read
 
 jobs:
-  diagnostico:
+  deploy:
     runs-on: ubuntu-latest
     env:
       CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
       CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
     steps:
       - uses: actions/checkout@v4
-
-      - name: Comprobar secretos (sin mostrar valores)
-        run: |
-          if [ -n "$CLOUDFLARE_API_TOKEN" ]; then echo "TOKEN: presente (${#CLOUDFLARE_API_TOKEN} caracteres)"; else echo "TOKEN: VACÍO"; fi
-          if [ -n "$CLOUDFLARE_ACCOUNT_ID" ]; then echo "ACCOUNT_ID: presente (${#CLOUDFLARE_ACCOUNT_ID} caracteres)"; else echo "ACCOUNT_ID: VACÍO"; fi
-
-      - name: Comprobar cuenta de Wrangler
-        run: npx wrangler@3 whoami
-
-      - name: Simular despliegue
-        run: npx wrangler@3 deploy --dry-run
+      - name: Desplegar Worker
+        run: npx wrangler@3 deploy
