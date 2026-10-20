@@ -1,10 +1,6 @@
 const REPO = "https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main";
 const DATA_URL = `${REPO}/catalogo/catalogo.json`;
 
-// --------------------------------------------------
-// UTILIDADES XML
-// --------------------------------------------------
-
 function xmlEscape(value = "") {
   return String(value).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&apos;");
 }
@@ -12,10 +8,6 @@ function xmlEscape(value = "") {
 function xmlCdata(value = "") {
   return String(value).replace(/]]>/g, "]]]]><![CDATA[>");
 }
-
-// --------------------------------------------------
-// ENTRADAS DEL CATÁLOGO
-// --------------------------------------------------
 
 function entry(book) {
   const title = xmlEscape(book.title || "Sin título");
@@ -25,7 +17,6 @@ function entry(book) {
   const author = book.author ? xmlEscape(book.author) : "";
 
   let xml = `\n<entry>\n<title>${title}</title>\n<id>${id}</id>\n<link rel="alternate" href="${url}" type="text/html"/>\n`;
-
   if (cover) xml += `\n<link rel="http://opds-spec.org/image" href="${cover}"/>\n<link rel="http://opds-spec.org/image/thumbnail" href="${cover}"/>\n`;
   if (author) xml += `<author><name>${author}</name></author>\n`;
   for (const genre of book.genres || []) xml += `<category term="${xmlEscape(genre)}" label="${xmlEscape(genre)}"/>\n`;
@@ -43,10 +34,6 @@ function entry(book) {
   xml += "</entry>";
   return xml;
 }
-
-// --------------------------------------------------
-// FEED OPDS
-// --------------------------------------------------
 
 function feed(title, id, books, requestUrl, kind = "acquisition") {
   const now = new Date().toISOString();
@@ -84,10 +71,7 @@ function headers(type = "application/atom+xml; charset=UTF-8") {
   return { "Content-Type": type, "Cache-Control": "public, max-age=300" };
 }
 
-// --------------------------------------------------
-// RESOLVER TERABOX (USANDO COOKIE)
-// --------------------------------------------------
-async function resolverTerabox(teraboxUrl, cookie) {
+async function resolverTerabox(teraboxUrl, env) {
   let surl = "";
   const urlObj = new URL(teraboxUrl);
   
@@ -100,18 +84,26 @@ async function resolverTerabox(teraboxUrl, cookie) {
 
   if (!surl) throw new Error("No se pudo extraer el código de Terabox");
 
-  const headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-    "Cookie": cookie,
-    "Referer": "https://www.terabox.com/"
-  };
+  const cookie = env.TERABOX_COOKIE ? `ndus=${env.TERABOX_COOKIE}` : "";
 
-  // 1. Pedir lista del nivel 1
   const apiUrl = `https://www.terabox.com/share/list?app_id=250528&shorturl=${surl}&root=1&web=1&clienttype=0`;
-  const resp = await fetch(apiUrl, { headers });
+  
+  const resp = await fetch(apiUrl, {
+    headers: {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "Cookie": cookie,
+      "Referer": "https://www.terabox.com/"
+    }
+  });
+
   const data = await resp.json();
   
-  if (!data.list || data.list.length === 0) throw new Error("Terabox no devolvió archivos (cookie caducada o enlace privado)");
+  if (!data.list || data.list.length === 0) {
+    throw new Error("Terabox no devolvió archivos (la cookie puede haber caducado)");
+  }
+
+  let targetFile = null;
+  let folderPath = "/";
 
   const findFile = (list) => {
     let epub = list.find(f => f.isdir === "0" && f.server_filename.toLowerCase().endsWith(".epub"));
@@ -121,52 +113,49 @@ async function resolverTerabox(teraboxUrl, cookie) {
     return null;
   };
 
-  let targetFile = findFile(data.list);
-  let folderPath = "/";
+  targetFile = findFile(data.list);
 
-  // 2. Si es una carpeta, entrar (Nivel 2)
   if (!targetFile && data.list[0].isdir === "1") {
-    const folder1 = data.list[0];
-    const folder1ApiUrl = `https://www.terabox.com/share/list?app_id=250528&shorturl=${surl}&root=1&dir=${encodeURIComponent(folder1.path)}&web=1&clienttype=0`;
-    const resp1 = await fetch(folder1ApiUrl, { headers });
-    const data1 = await resp1.json();
+    const folder = data.list[0];
+    folderPath = folder.path;
+    const folderApiUrl = `https://www.terabox.com/share/list?app_id=250528&shorturl=${surl}&root=1&dir=${encodeURIComponent(folderPath)}&web=1&clienttype=0`;
     
-    if (data1.list) {
-      targetFile = findFile(data1.list);
-      folderPath = folder1.path;
-      
-      // Si dentro de esa carpeta hay OTRA carpeta, entramos (Nivel 3)
-      if (!targetFile && data1.list[0] && data1.list[0].isdir === "1") {
-        const folder2 = data1.list[0];
-        const folder2ApiUrl = `https://www.terabox.com/share/list?app_id=250528&shorturl=${surl}&root=1&dir=${encodeURIComponent(folder2.path)}&web=1&clienttype=0`;
-        const resp2 = await fetch(folder2ApiUrl, { headers });
-        const data2 = await resp2.json();
-        if (data2.list) {
-          targetFile = findFile(data2.list);
-          folderPath = folder2.path;
-        }
+    const folderResp = await fetch(folderApiUrl, {
+      headers: {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "Cookie": cookie,
+        "Referer": "https://www.terabox.com/"
       }
-    }
+    });
+    const folderData = await folderResp.json();
+    if (folderData.list) targetFile = findFile(folderData.list);
   }
 
-  if (!targetFile) throw new Error("No se encontraron archivos EPUB o PDF en la carpeta");
+  if (!targetFile) throw new Error("No se encontraron archivos EPUB o PDF en el enlace");
 
-  // 3. Generar dlink
   const dlinkApiUrl = `https://www.terabox.com/api/download?app_id=250528&web=1&channel=chunlei&clienttype=0&sign=${data.sign}&timestamp=${data.timestamp}&fs_id=${targetFile.fs_id}&dir=${encodeURIComponent(folderPath)}`;
-  const dlinkResp = await fetch(dlinkApiUrl, { headers });
-  const dlinkData = await dlinkResp.json();
   
+  const dlinkResp = await fetch(dlinkApiUrl, {
+    headers: {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "Cookie": cookie,
+      "Referer": "https://www.terabox.com/"
+    }
+  });
+
+  const dlinkData = await dlinkResp.json();
   let directUrl = dlinkData.dlink;
+  
   if (!directUrl || dlinkData.errno !== 0) {
     directUrl = `https://www.terabox.com/download?app_id=250528&web=1&sign=${data.sign}&timestamp=${data.timestamp}&fs_id=${targetFile.fs_id}&dir=${encodeURIComponent(folderPath)}`;
   }
 
-  return { directUrl, fileName: targetFile.server_filename };
+  return {
+    directUrl: directUrl,
+    fileName: targetFile.server_filename
+  };
 }
 
-// --------------------------------------------------
-// WORKER
-// --------------------------------------------------
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
@@ -180,23 +169,21 @@ export default {
         if (!teraboxUrl) return new Response("Falta el parámetro url", { status: 400 });
 
         let parsed;
-        try { parsed = new URL(teraboxUrl); } catch { return new Response("URL inválida", { status: 400 }); }
+        try {
+          parsed = new URL(teraboxUrl);
+        } catch {
+          return new Response("URL inválida", { status: 400 });
+        }
 
         const host = parsed.hostname.toLowerCase();
-        const esTerabox =
-          host === "terabox.com" || host.endsWith(".terabox.com") ||
-          host === "terabox.app" || host.endsWith(".terabox.app") ||
-          host === "1024tera.com" || host.endsWith(".1024tera.com") ||
-          host === "teraboxapp.com" || host.endsWith(".teraboxapp.com");
+        const esTerabox = host === "terabox.com" || host.endsWith(".terabox.com") || host === "terabox.app" || host.endsWith(".terabox.app") || host === "1024tera.com" || host.endsWith(".1024tera.com") || host === "teraboxapp.com" || host.endsWith(".teraboxapp.com");
 
-        if (parsed.protocol !== "https:" || !esTerabox) return new Response("El enlace no es de Terabox", { status: 400 });
-
-        // Verificamos que tenemos la cookie guardada en Cloudflare
-        const cookie = env.TERABOX_COOKIE;
-        if (!cookie) return new Response("Falta configurar el secreto TERABOX_COOKIE en Cloudflare", { status: 500 });
+        if (parsed.protocol !== "https:" || !esTerabox) {
+          return new Response("El enlace no es de Terabox", { status: 400 });
+        }
 
         try {
-          const { directUrl, fileName } = await resolverTerabox(teraboxUrl, cookie);
+          const { directUrl, fileName } = await resolverTerabox(teraboxUrl, env);
           const fileResp = await fetch(directUrl, {
             headers: {
               "Referer": "https://www.terabox.com/",
@@ -229,4 +216,18 @@ export default {
         return new Response(feed(`Resultados: ${query}`, `${url.origin}/search?q=${encodeURIComponent(query)}`, results.slice(0, 200), request.url), { headers: headers() });
       }
 
-      if (url.pathname.st
+      if (url.pathname.startsWith("/catalogo/")) {
+        const target = `${REPO}${url.pathname}`;
+        const response = await fetch(target);
+        if (!response.ok) return new Response("Catálogo no encontrado", { status: response.status });
+        const isXml = url.pathname.endsWith(".xml") || url.pathname.endsWith(".opds");
+        const contentType = isXml ? "application/atom+xml; charset=UTF-8" : response.headers.get("Content-Type") || "application/octet-stream";
+        return new Response(response.body, { status: response.status, headers: { "Content-Type": contentType, "Cache-Control": "public, max-age=300" } });
+      }
+
+      return new Response("Not Found", { status: 404 });
+    } catch (error) {
+      return new Response(`Error: ${error.message}`, { status: 502, headers: { "Content-Type": "text/plain; charset=UTF-8" } });
+    }
+  }
+};
