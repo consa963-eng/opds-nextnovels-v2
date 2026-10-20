@@ -2,17 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:a1f258af7c</id>
 <title>Pan Tachibana</title>
-<updated>2026-10-20T20:38:42.080487+00:00</updated>
-<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-a1f258af7c.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<updated>2026-10-20T20:59:07.786351+00:00</updated>
+<link rel="self" href="https://opds-nextnovels-v2.consa963.workers.dev/catalogo/autores-a1f258af7c.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="start" href="https://opds-nextnovels-v2.consa963.workers.dev/" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
 <entry>
 <title>Nympho Sister Max Heart Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-nympho-sister-max-heart-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-nympho-sister-max-heart-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Ane-Chijo-Max-Heart-Portada.jpg" />
-<author><name>Pan Tachibana</name></author>
-<category term="Hentai" label="Hentai"/>
-<category term="Incesto" label="Incesto"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">—¡¡¡!!!!!!!!!!!!— En el instante en que dejó caer las caderas de golpe y le entregó su virginidad a su hermano pequeño, un grito de éxtasis sin voz escapó de la garganta de Sarasa. Buchi. Sintió el desgarro del himen y una punzada aguda y candente le recorrió las entrañas.
 
 Justo después, un placer aplastante —la sensación de algo golpeando la entrada de su útero— envolvió su cuerpo entero y su mente se quedó en blanco.
@@ -24,6 +19,9 @@ El miembro de su hermano se hinchó, dio un salto —bikun— dentro de ella, y 
 La ola de su clímax fue empujada aún más alto por la eyaculación de su hermano.
 
 —Es increíble... Onee-chan se va a romper...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1s9Th1iVyt-QuKn5YJhhpiw" type="text/html" title="Descargar" />
+<author><name>Pan Tachibana</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Ane-Chijo-Max-Heart-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-nympho-sister-max-heart-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-nympho-sister-max-heart-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 </feed>

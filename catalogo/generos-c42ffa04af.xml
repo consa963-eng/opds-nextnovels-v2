@@ -2,38 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:generos:c42ffa04af</id>
 <title>Smut</title>
-<updated>2026-10-20T20:38:42.240331+00:00</updated>
-<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-c42ffa04af.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<updated>2026-10-20T20:59:07.872956+00:00</updated>
+<link rel="self" href="https://opds-nextnovels-v2.consa963.workers.dev/catalogo/generos-c42ffa04af.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="start" href="https://opds-nextnovels-v2.consa963.workers.dev/" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
 <entry>
 <title>A Degenerate's Tale Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-a-degenerates-tale-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-a-degenerates-tale-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/09/01-114.jpg" />
-<author><name>TentacleEthics</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Romance" label="Romance"/>
-<category term="Smut" label="Smut"/>
 <content type="text">Earl vivió su vida al máximo. Habiendo vivido como uno de los hombres más ricos de su ciudad con un harén de cinco, murió con una sonrisa en su rostro… o no.
 
 ¡Se despierta para encontrarse en el cuerpo de un bebé en un mundo mágico! ¡Con sus encantos e ingenio, prosperará en este mundo! Una vez degenerado, siempre degenerado. ¿Elfas? ¿Demonios? ¿Princesas? ¿Reinas? ¡Está aquí para atraparlas a todas! ¡La mitad de su cerebro es su vara de carne después de todo!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1qy_39K9OE2B6AFlJ2AnGQQ" type="text/html" title="Descargar" />
+<author><name>TentacleEthics</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/09/01-114.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-a-degenerates-tale-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-a-degenerates-tale-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Arioto Novela Ligera en Español</title>
 <id>https://nextnovels.com/arioto-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/arioto-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/04/Arioto-Portada.jpg" />
-<author><name>Mikami Teren</name></author>
-<category term="Adulto" label="Adulto"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Smut" label="Smut"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<category term="Yuri" label="Yuri"/>
 <content type="text">“¿Chicas saliendo entre ellas? ¡Eso no puede ser! … ¡Es como debería ser!”.
 
 Una popular chica de secundaria, Sakakibara Marika, un día recibe una oferta de un millón de yenes de su hermosa compañera de clase, Fuwa Aya.
@@ -43,22 +28,14 @@ Una popular chica de secundaria, Sakakibara Marika, un día recibe una oferta de
 «¡¿Ha..haaa ?!».
 
 A partir de ese día, comenzaron, sus horas xxx después de la escuela.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1r1cRx__ObxDoVqB687Q1Zw" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1jDVhetzkctQeMQjnvuDC6Q" type="text/html" title="Descargar" />
+<author><name>Mikami Teren</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/04/Arioto-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/arioto-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Farioto-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>At The End Of The Hidden Greenery Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-at-the-end-of-the-hidden-greenery-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-at-the-end-of-the-hidden-greenery-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/At-The-End-Of-The-Hidden-Greenery-Portada.jpg" />
-<author><name>Calx</name></author>
-<category term="Adulto" label="Adulto"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Romance" label="Romance"/>
-<category term="Smut" label="Smut"/>
 <content type="text">Dedicó cinco años de su vida a servir como Akarna del templo mientras era la pareja del príncipe heredero.
 
 —¿No lo entiendes? Si no puedes dar a luz a un heredero, entonces no puedes convertirte en emperatriz. Es solo… Es solo un matrimonio político. Pero debes entender que solo te amo a ti.
@@ -70,18 +47,14 @@ Y, sin embargo, es como si le hubiera dado algo que quizás no sea más que una 
 Cuando el carruaje en el que viajaba se precipitó hacia un acantilado, se dejó caer impulsivamente. Y cuando abrió los ojos de nuevo, se encontró en ese lugar.
 
 El bosque donde vivían las especies más despreciadas del imperio.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1LfoJ1T7bTtxo1YjbSSzGRA" type="text/html" title="Descargar" />
+<author><name>Calx</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/At-The-End-Of-The-Hidden-Greenery-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-at-the-end-of-the-hidden-greenery-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-at-the-end-of-the-hidden-greenery-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Bell Bronze Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-bell-bronze-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-bell-bronze-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/04/Bell-Bronze-Portada.jpg" />
-<author><name>김지유</name></author>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Romance" label="Romance"/>
-<category term="Smut" label="Smut"/>
 <content type="text">Hace mucho tiempo, cuando el Reino Glyphe era el Imperio Gryphon, existía un Anillo de Juramento creado por un gran mago. Un anillo mágico legendario que tomaría la vida de cualquier contratante que rompiera su voto apareció ante los ojos de Jersian.
 
 Jersian, quien había abandonado a su clan y vagado, hizo un voto para proteger a una princesa en peligro como pago por una deuda de vida que le debía a un amigo...
@@ -93,26 +66,14 @@ Jersian, quien había abandonado a su clan y vagado, hizo un voto para proteger 
 —Júralo.
 
 —Bien, juro proteger la vida de esa maldita princesa lastimera como si fuera la mía propia.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1mn3VrxpW_OAZTnS9iwo0wg" type="text/html" title="Descargar" />
+<author><name>김지유</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/04/Bell-Bronze-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-bell-bronze-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-bell-bronze-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Chillin’ on an Uninhabited Island in Another World Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-chillin-on-an-uninhabited-island-in-another-world-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-chillin-on-an-uninhabited-island-in-another-world-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/Chillin-on-an-Uninhabited-Island-in-Another-World-Portada.jpg" />
-<author><name>Kamizu Hotami</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Adulto" label="Adulto"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Smut" label="Smut"/>
-<category term="Supernatural" label="Supernatural"/>
 <content type="text">El estudiante de spreparatoria Sōsuke Kudō tuvo un sueño peculiar.
 
 En un espacio de un blanco puro e inmaculado, había una pizarra en la que estaba escrita la pregunta: “Si pudieras llevarte solo una cosa a una isla desierta, ¿qué sería?”
@@ -132,73 +93,43 @@ Los días que se suceden, en los que se encuentra rodeado por una amiga de la in
 “Adelante, disfruta de todo el placer que tu corazón desee”.
 
 ¡Así comienza la vida tranquila en una isla desierta, compartida en íntimas escapadas con esas chicas guapas y tetonas!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1bP-BQN0BVb2ZyIDy_PT9-g" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1yYZybaieY-oISSqQqsXBBA" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-isekai-yurutto-survival-seikatsu-novela-ligera-en-espanol/" type="text/html" title="https://nextnovels.com/descargar-isekai-yurutto-survival-seikatsu-novela-ligera-en-espanol/" />
+<author><name>Kamizu Hotami</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/Chillin-on-an-Uninhabited-Island-in-Another-World-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-chillin-on-an-uninhabited-island-in-another-world-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-chillin-on-an-uninhabited-island-in-another-world-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>For Some Reason, the Internet Cafe Where I Work Part-Time Has Become a Hangout Spot for the Beautiful Girls in My Class Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-for-some-reason-the-internet-cafe-where-i-work-part-time-has-become-a-hangout-spot-for-the-beautiful-girls-in-my-class-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-for-some-reason-the-internet-cafe-where-i-work-part-time-has-become-a-hangout-spot-for-the-beautiful-girls-in-my-class-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/12/The-Internet-Cafe-Where-I-Work-Has-Become-a-Hangout-Spot-for-the-Beautiful-Girl-Portada.jpg" />
-<author><name>Kattern</name></author>
-<category term="Adulto" label="Adulto"/>
-<category term="Harem" label="Harem"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Romance" label="Romance"/>
-<category term="Smut" label="Smut"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">¿Manteniendo una relación secreta con una compañera de clase en una cabina individual, estrecha...?
 
 Todo empezó cuando salvé a la chica más linda de la escuela que se había desmayado frente al cibercafé donde trabajaba a tiempo parcial, y ella empezó a frecuentar nuestro cibercafé</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/16Chdgi0evs6uSNl4Y8MmsQ" type="text/html" title="Descargar" />
+<author><name>Kattern</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/12/The-Internet-Cafe-Where-I-Work-Has-Become-a-Hangout-Spot-for-the-Beautiful-Girl-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-for-some-reason-the-internet-cafe-where-i-work-part-time-has-become-a-hangout-spot-for-the-beautiful-girls-in-my-class-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-for-some-reason-the-internet-cafe-where-i-work-part-time-has-become-a-hangout-spot-for-the-beautiful-girls-in-my-class-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>I Became the Fiancé of a Dragon in Romance Fantasy Novela Web en Español</title>
 <id>https://nextnovels.com/i-became-the-fiance-of-a-dragon-in-romance-fantasy-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/i-became-the-fiance-of-a-dragon-in-romance-fantasy-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/06/I-Became-the-Fiance-of-a-Dragon-in-Romance-Fantasy-Portada.jpg" />
-<author><name>서후</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Smut" label="Smut"/>
 <content type="text">En un mundo donde el egoísmo era la norma, ¿unas pocas personas mostraron bondad debido a su educación? La personalidad de uno estaba determinada por el medio ambiente o... ¿eran los humanos malvados por naturaleza? Tenía esas preguntas cuando conocí a una niña que me regaló una novela que mostraba la lucha de una amable princesa dragón en un mundo implacable. Pero no encontré las respuestas a estas preguntas sin importar cuánto lo intenté, hasta que... reencarné en la novela como el prometido de una dragón y descubrí que mi matrimonio pronto se rompería.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1rPqqSs2YnsZ32SqpAhSpEQ" type="text/html" title="Descargar" />
+<author><name>서후</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/06/I-Became-the-Fiance-of-a-Dragon-in-Romance-Fantasy-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/i-became-the-fiance-of-a-dragon-in-romance-fantasy-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fi-became-the-fiance-of-a-dragon-in-romance-fantasy-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Listen to My Lady’s Story Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-listen-to-my-ladys-story-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-listen-to-my-ladys-story-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/Listen-to-My-Ladys-Story-Portada.jpg" />
-<author><name>ガルデニア</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Adulto" label="Adulto"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Romance" label="Romance"/>
-<category term="Smut" label="Smut"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Te presento a mi Ojou-sama, una persona altiva y egoísta con un orgullo insufrible. A pesar de ser mi benefactora, a menudo dirige su ira contra mí, y he sufrido innumerables palizas por su parte. Recientemente, se indignó tras perder a su prometido, un príncipe, a manos de un estudiante recién llegado. Quería vengarme, pero… ¡mi Ojou-sama resultó ser sorprendentemente fácil de manipular! Esta es la historia de cómo entrené y cumplí mis deseos con mi Ojou-sama, al tiempo que la hacía feliz.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1eFvEWBBfHnmlVQSqF9lS0Q" type="text/html" title="Descargar" />
+<author><name>ガルデニア</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/Listen-to-My-Ladys-Story-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-listen-to-my-ladys-story-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-listen-to-my-ladys-story-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Merry Psycho Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-merry-psycho-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-merry-psycho-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/04/Merry-Psycho-Portada.jpg" />
-<author><name>Geon Eomul Nye</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Adulto" label="Adulto"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Josei" label="Josei"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Romance" label="Romance"/>
-<category term="Smut" label="Smut"/>
 <content type="text">Dos años de matrimonio tan dulces y felices como un sueño. Pero un día, su marido desapareció sin dejar rastro.
 
 Han Seoryeong, una ama de casa ciega y común, deambuló buscándolo, solo para enterarse de que:
@@ -216,37 +147,27 @@ Sintiendo que su mundo se derrumbaba, Seo-ryeong desató su locura reprimida.
 ¡Incapaz de atraparlo, decide que la atrapen primero!
 
 Lo que ella no se dio cuenta fue que el marido que había estado buscando durante tanto tiempo estaba a la vuelta de la esquina.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/115s2jvp_CjkJu77Oo2Numw" type="text/html" title="Descargar" />
+<author><name>Geon Eomul Nye</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/04/Merry-Psycho-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-merry-psycho-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-merry-psycho-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>My Girlfriend’s Mother is my First Love Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-my-girlfriends-mother-is-my-first-love-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-my-girlfriends-mother-is-my-first-love-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/My-Girlfriends-Mother-is-my-First-Love-Portada.jpg" />
-<author><name>Yousuke Saeki</name></author>
-<category term="Adulto" label="Adulto"/>
-<category term="Harem" label="Harem"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Romance" label="Romance"/>
-<category term="Smut" label="Smut"/>
 <content type="text">"¡No le digas a mi hija que fuiste mi primer...!"
 
 ¡El primer amor con el que finalmente me reencontré resultó ser la madre de mi novia! Ocultándoselo a su amante, Urusuke vuelve a d3vor4r el v0luptuos0 cu3rpo de Sae, y los dos se hund3n cada vez más en una rel4ción c4rn4l proh1bid4.
 
 ¡Cuando Kao finalmente los descubre, arranca un d3pr4v4do tr1o entr3 madre e hija! ¡Quitándol3s la v1rg1n1d4d, alin3ando sus tr4s3ros y 3mb1stiéndol4s por turnos! ¡Emb4r4z4 t4nto a la madre como a la hija para forjar un nuevo futuro!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1JXayhKkL8GVBVbEWFBOU5w" type="text/html" title="Descargar" />
+<author><name>Yousuke Saeki</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/My-Girlfriends-Mother-is-my-First-Love-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-my-girlfriends-mother-is-my-first-love-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-my-girlfriends-mother-is-my-first-love-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Starry Night Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-starry-night-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-starry-night-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/04/Starry-Night-Portada.jpg" />
-<author><name>Ōba Konami</name></author>
-<category term="Adulto" label="Adulto"/>
-<category term="Drama" label="Drama"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Smut" label="Smut"/>
-<category term="Yaoi" label="Yaoi"/>
 <content type="text">Narutaki Kazumasa, un asalariado que trabaja en una compañía que organiza eventos, se queda dormido en el planetario. Shimizu Yuya, narrador en el planetario, lo despierta.
 
 Kazumasa, que se ha enamorado de Yuya, empieza a ir al planetario cada vez más. Con frecuencia cenan juntos, pero no pueden pasar mucho tiempo juntos por el trabajo nocturno de Yuya.
@@ -254,20 +175,14 @@ Kazumasa, que se ha enamorado de Yuya, empieza a ir al planetario cada vez más.
 Un día, Kazumasa visita un club de acompañantes… y se sorprende al ver la cara de Yuya en el catálogo.
 
 ADVERTENCIA : Esta novela tiene contenido sexual explícito</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1uhr8zSfigWlOu_YZhAyryQ" type="text/html" title="Descargar" />
+<author><name>Ōba Konami</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/04/Starry-Night-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-starry-night-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-starry-night-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>The Bird and the Golden Cage Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-the-bird-and-the-golden-cage-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-bird-and-the-golden-cage-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/04/The-Bird-and-the-Golden-Cage-Portada.jpg" />
-<author><name>Mr. Big Horn</name></author>
-<category term="Adulto" label="Adulto"/>
-<category term="Drama" label="Drama"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Romance" label="Romance"/>
-<category term="Smut" label="Smut"/>
-<category term="Yaoi" label="Yaoi"/>
 <content type="text">El señor Yan tenía a un jovencito obediente a su disposición. Al principio solo era por diversión, pero ahora no quiere dejarlo ir.
 
 Una ordinaria relación que se transforma de sugar daddy-baby a verdadero amor.
@@ -279,45 +194,29 @@ Por favor úsese insulina.
 Nota: Es en realidad, una historia sobre “utilizo el dinero de mi novio para comprar comprar comprar para mi ídolo”.
 
 ADVERTENCIA : Esta novela tiene contenido sexual explícito</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1BgivEPA1Yz5sdFifzL77Mw" type="text/html" title="Descargar" />
+<author><name>Mr. Big Horn</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/04/The-Bird-and-the-Golden-Cage-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-bird-and-the-golden-cage-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-the-bird-and-the-golden-cage-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>The Incubus System Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-the-incubus-system-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-incubus-system-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/The-Incubus-System-Portada.jpg" />
-<author><name>Nanakawaichan</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Adulto" label="Adulto"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Romance" label="Romance"/>
-<category term="Smut" label="Smut"/>
 <content type="text">Un estudiante universitario pobre de 18 años trató de solicitar un trabajo como tutor, pero su vida casi termina como la comida de los demonios. En su último aliento, una mujer misteriosa le otorgó un extraño poder. Cuando abrió los ojos se había convertido en un demonio con un sistema que lo convertiría en… Un pervertido.
 
 Ahora debe vivir con su identidad dual como un estudiante modelo llamado Ethan y un íncubo llamado Damian.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1zlAy-D3cY6mWUIBJtyjIpQ" type="text/html" title="Descargar" />
+<author><name>Nanakawaichan</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/The-Incubus-System-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-incubus-system-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-the-incubus-system-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>The Legendary Master’s Wife Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-the-legendary-masters-wife-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-legendary-masters-wife-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/The-Legendary-Masters-Wife-Portada.jpg" />
-<author><name>Yin Ya</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Adulto" label="Adulto"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Romance" label="Romance"/>
-<category term="Smut" label="Smut"/>
-<category term="Xuanhuan" label="Xuanhuan"/>
-<category term="Yaoi" label="Yaoi"/>
 <content type="text">Después de una explosión, You XiaoMo descubrió que sería un discípulo a prueba de la secta de TianXin. Sin embargo, era un discipulo con un potencial dudoso, así que, justo cuando empezaba a adaptarse a sus nuevas circunstancias, recibió una mala noticia. Si no podía lograr el resultado requerido después de medio año para convertirse en un discípulo oficial de la secta TianXin, sería expulsado de la misma. Mientras que You XiaoMo hacía todo lo posible para fabricar medicinas y ganar dinero, se encontró con Ling Xiao. Para su horror, luego descubre que Ling Xiao es, en realidad, alguien envuelto en piel humana.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/10gU_q4iNfLDySNePFdr4Ww" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1eoFTukPlCg9vsaJM7wKnhw" type="text/html" title="Descargar" />
+<author><name>Yin Ya</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/The-Legendary-Masters-Wife-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-legendary-masters-wife-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-the-legendary-masters-wife-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 </feed>

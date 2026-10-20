@@ -2,17 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:9f31ef602f</id>
 <title>笑佳人</title>
-<updated>2026-10-20T20:38:42.127969+00:00</updated>
-<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-9f31ef602f.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<updated>2026-10-20T20:59:07.822408+00:00</updated>
+<link rel="self" href="https://opds-nextnovels-v2.consa963.workers.dev/catalogo/autores-9f31ef602f.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="start" href="https://opds-nextnovels-v2.consa963.workers.dev/" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
 <entry>
 <title>Where the Mask Ends Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-where-the-mask-ends-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-where-the-mask-ends-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/Where-the-Mask-Ends-Portada.jpg" />
-<author><name>笑佳人</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Histórico" label="Histórico"/>
-<category term="Romance" label="Romance"/>
 <content type="text">Wei Rao, de la mansión del conde Cheng'an, es hermosa, pero carece de buena reputación. Antes de casarse con Lu Zhuo para tener buena suerte, ella propuso tres condiciones:
 
 Un regalo de compromiso de cien mil taels.
@@ -22,6 +17,9 @@ Si Lu Zhuo muere, Wei Rao no se lleva nada.
 Si Lu Zhuo vive, no habrá divorcio ni abandono de la esposa durante cinco años.
 
 Cuando Lu Zhuo despierta y se entera de esto, lo descarta con una risa. Wei Rao se comporta de manera frívola, con apariencia de seductora tentadora, poco adecuada para ser esposa. Atado por el acuerdo, no abandonará a su esposa, pero Wei Rao no debe esperar obtener ni la mitad de su sincero afecto. Todo el mundo está convencido de que a Lu Zhuo no le gustará Wei Rao. Pero más tarde, Lu Zhuo se convierte en una prueba fehaciente de la "obsesión de los hombres por la belleza". El joven maestro, antes digno y educado, desde que se casó con Wei Rao, ¡se ha vuelto cada vez menos convencional</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1GmxI_gyYCcnQncfUnQ47Lg" type="text/html" title="Descargar" />
+<author><name>笑佳人</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/Where-the-Mask-Ends-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-where-the-mask-ends-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-where-the-mask-ends-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 </feed>

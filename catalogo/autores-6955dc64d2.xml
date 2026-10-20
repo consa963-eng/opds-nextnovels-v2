@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:6955dc64d2</id>
 <title>Kawahara Reki</title>
-<updated>2026-10-20T20:38:42.044072+00:00</updated>
-<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-6955dc64d2.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<updated>2026-10-20T20:59:07.774446+00:00</updated>
+<link rel="self" href="https://opds-nextnovels-v2.consa963.workers.dev/catalogo/autores-6955dc64d2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="start" href="https://opds-nextnovels-v2.consa963.workers.dev/" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
 <entry>
 <title>Sword Art Online Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-sword-art-online-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-sword-art-online-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2021/12/1519825649-e1641220496808.jpg" />
-<author><name>Kawahara Reki</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Shounen" label="Shounen"/>
 <content type="text">Sword Art Online, el juego de realidad virtual más reciente en el mercado, Fue tan deseado en su lanzamiento, que sus reservas se agotaron casi al instante.
 
 De entre todos los jugadores que compraron este juego, destaca Kirito, un chico que incluso tuvo la suerte de ser parte del programa Beta del juego.
@@ -28,10 +19,9 @@ Luego de unos momentos TODOS los jugadores fueron teletransportados a una plaza 
 La única forma de sobrevivir y salir del juego es venciendo a los jefes finales de cada piso, en total 100.
 
 Pero hay un problema, si muere en el juego, morirá en la vida real.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/15jRvv40fNmC4QfuC3OF0ww" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1zFF7zhiKCA2L0zO65dgUZg" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1BgZ4X553fT9zcXDPsaqKUg" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1ZDy9m5lSGh63hBxqZ61otg" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1yM8GW0zpoCGAJ5Zj-7YCZg" type="text/html" title="Descargar" />
+<author><name>Kawahara Reki</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2021/12/1519825649-e1641220496808.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-sword-art-online-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-sword-art-online-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 </feed>

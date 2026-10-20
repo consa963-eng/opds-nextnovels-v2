@@ -2,16 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:generos:232ab9b1de</id>
 <title>Suspenso</title>
-<updated>2026-10-20T20:38:42.244076+00:00</updated>
-<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-232ab9b1de.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<updated>2026-10-20T20:59:07.874494+00:00</updated>
+<link rel="self" href="https://opds-nextnovels-v2.consa963.workers.dev/catalogo/generos-232ab9b1de.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="start" href="https://opds-nextnovels-v2.consa963.workers.dev/" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
 <entry>
 <title>Goodbye, My Destined One. Let’s Meet Two Days Before Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-goodbye-my-destined-one-lets-meet-two-days-before-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-goodbye-my-destined-one-lets-meet-two-days-before-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/Goodbye-My-Destined-One.-Lets-Meet-Two-Days-Before-Portada.jpg" />
-<author><name>Shijiman</name></author>
-<category term="Romance" label="Romance"/>
-<category term="Suspenso" label="Suspenso"/>
 <content type="text">Se suponía que era por ella, por la mujer que amo.
 
 Hasta que caiga en el 4bism0, esto no terminará.
@@ -31,60 +27,41 @@ Kotoka m0r1rá. De todos modos, el mundo volverá a reiniciarse. Una vez que tod
 "Sigamos con el salto temporal. Así, nadie recordará nada."
 
 Salto temporal × Romance × Suspenso. Comienzan unos ‘dos días’ dulces, provocadores y r3torc1dos.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1tkaq1UbPm3tuaQobVX8veg" type="text/html" title="Descargar" />
+<author><name>Shijiman</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/Goodbye-My-Destined-One.-Lets-Meet-Two-Days-Before-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-goodbye-my-destined-one-lets-meet-two-days-before-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-goodbye-my-destined-one-lets-meet-two-days-before-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>I Refuse to Be Your Enemy! Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-i-refuse-to-be-your-enemy-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-i-refuse-to-be-your-enemy-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/I-Refuse-to-Be-Your-Enemy-Portada.jpg" />
-<author><name>Kanata Satsuki</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Romance" label="Romance"/>
-<category term="Shoujo" label="Shoujo"/>
-<category term="Suspenso" label="Suspenso"/>
 <content type="text">Desde muy pequeña, Kiara ha tenido sueños de otro mundo, sueños en los que una chica a la que no reconoce juega a un juego de estrategia llamado «Farzia: Kingdom at War». Farzia es, de hecho, el mismo reino en el que Kiara vive actualmente. Ah, y otra cosa: hay un personaje enemigo que también se llama Kiara, aunque su nombre es Kiara Credias. Naturalmente, como cualquier otro villano de los RPG, este enemigo es asesinado por los héroes. Así que cuando su padre adoptivo, el conde Patriciél, le ordena casarse con el vizconde Credias, Kiara se da cuenta de algo espeluznante: ¡quizás esos «sueños» eran visiones de lo que está por venir! Kiara urde un plan para salir pitando de Dodge y labrarse un nuevo futuro, uno en el que siga VIVA, ¡muchas gracias!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1gBikvRGNosr_Rkf9UF_5ew" type="text/html" title="Descargar" />
+<author><name>Kanata Satsuki</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/I-Refuse-to-Be-Your-Enemy-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-i-refuse-to-be-your-enemy-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-i-refuse-to-be-your-enemy-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Shibou Yuugi de Meshi wo Kuu Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-shibou-yuugi-de-meshi-wo-kuu-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-shibou-yuugi-de-meshi-wo-kuu-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/09/Shibou-Yuugi-de-Meshi-wo-Kuu-Portada.jpg" />
-<author><name>Ukai Yuushi</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Drama" label="Drama"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Suspenso" label="Suspenso"/>
 <content type="text">Yuki se despierta y se encuentra en una mansión desconocida, con un uniforme de sirvienta y acostada en una cama lujosa. Pronto, descubre a cinco chicas más, todas vestidas igual que ella. Esta es la Casa Fantasma, y la única forma de que sobrevivan es atravesar las trampas que las acechan: juegos mortales llenos de cerbatanas, sierras circulares, habitaciones cerradas y armas. Es una situación desesperada y aterradora para todos allí... bueno, para todos excepto para Yuki. Después de todo, esa es su profesión, con solo diecisiete años se gana la vida jugando juegos mortales.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Gchi15vPsouDNy-rLkxFQA" type="text/html" title="Descargar" />
+<author><name>Ukai Yuushi</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/09/Shibou-Yuugi-de-Meshi-wo-Kuu-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-shibou-yuugi-de-meshi-wo-kuu-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-shibou-yuugi-de-meshi-wo-kuu-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Sister Mafioso Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-sister-mafioso-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-sister-mafioso-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/Sister-Mafioso-Portada.jpg" />
-<author><name>Adachi</name></author>
-<category term="Aventura" label="Aventura"/>
-<category term="Romance" label="Romance"/>
-<category term="Suspenso" label="Suspenso"/>
-<category term="Thriller" label="Thriller"/>
 <content type="text">Al amparo de la oscuridad, Dina Ferletti, la joven y rubia reina de la malvada familia Ferletti, fue arrojada a un canal cercano y dada por muerta. Al día siguiente, una pelirroja con ‘amnesia’ apareció en la orilla de un pueblo costero rural. Durante la última década, Dina ha vivido la idílica vida de una novicia, pero sus bendiciones parecen acabarse cuando Teodoro, un miembro de la familia, irrumpe en la capilla. Ha llegado con la orden de llevar a casa a la hermana menor del don, pero las verdaderas intenciones de Teo son llevar a los Ferletti ante la justicia. Como resultado, Dina se ve obligada a ayudarlo haciéndose pasar por... ¡¿ella misma?! Y si la descubren, su muerte no será fingida esta vez. ¡Así que, Dios, por favor, que esta mentira perdure!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Uq3SKIA1qYopAqcs-WN5BA" type="text/html" title="Descargar" />
+<author><name>Adachi</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/Sister-Mafioso-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-sister-mafioso-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-sister-mafioso-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>What Remains After the Goodbye Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-what-remains-after-the-goodbye-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-what-remains-after-the-goodbye-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/What-Remains-After-the-Goodbye-Portada.jpg" />
-<author><name>F.D. クロ・ノクターン</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Drama" label="Drama"/>
-<category term="Ficción" label="Ficción"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Suspenso" label="Suspenso"/>
 <content type="text">Tres obras cortas que exploran la vida cuando los sentimientos se guardan, las discusiones ocurren en silencio y los amores parecen eternos.
 
 Aun así, el destino puede obligar a decir adiós, sin importar la situación en la que uno se encuentre.
@@ -92,6 +69,9 @@ Aun así, el destino puede obligar a decir adiós, sin importar la situación en
 La vida puede ser cruel, pero también es quien nos enseña a vivir.
 
 Y si hoy no te dice nada, no pasa nada. Quizá mañana sí.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1CrVvRZcUVCSVDvIJ7OEuvw" type="text/html" title="Descargar" />
+<author><name>F.D. クロ・ノクターン</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/What-Remains-After-the-Goodbye-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-what-remains-after-the-goodbye-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-what-remains-after-the-goodbye-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 </feed>

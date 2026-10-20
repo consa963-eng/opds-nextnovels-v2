@@ -2,26 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:ce87458928</id>
 <title>Eiko Mutshuana</title>
-<updated>2026-10-20T20:38:42.017450+00:00</updated>
-<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-ce87458928.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<updated>2026-10-20T20:59:07.765219+00:00</updated>
+<link rel="self" href="https://opds-nextnovels-v2.consa963.workers.dev/catalogo/autores-ce87458928.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="start" href="https://opds-nextnovels-v2.consa963.workers.dev/" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
 <entry>
 <title>Hello, I am a Witch and my Crush Wants me to Make a Love Potion! Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Hello-I-am-a-Witch-and-my-Crush-Wants-me-to-Make-a-Love-Potion-Portada.jpg" />
-<author><name>Eiko Mutshuana</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Shoujo" label="Shoujo"/>
 <content type="text">«Quiero que hagas una poción de amor».
 
 El enamoramiento de cuatro años de la Buena Bruja del Lago terminó en desilusión con una sola petición del objeto de sus afectos. Con la intención de alargar el poco tiempo que tiene con el Caballero Real Harij, Rose lo envía a una búsqueda inútil tras los ingredientes, pero obtiene más de lo que esperaba cuando el caballero gruñón empieza a visitarla todos los días… ¿para darle de comer?
 
 Esta es la conmovedora historia de una bruja ermitaña y un caballero arrogante y estirado cuyo romance comienza a partir de una poción de amor.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1hh8UjBL4KknhTOZHYvVKdQ" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1WYfbksT8eFEujiAX0lt9Uw" type="text/html" title="Descargar" />
+<author><name>Eiko Mutshuana</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Hello-I-am-a-Witch-and-my-Crush-Wants-me-to-Make-a-Love-Potion-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 </feed>

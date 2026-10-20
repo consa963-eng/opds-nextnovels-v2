@@ -2,19 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:14a7b2390c</id>
 <title>Shika Enpitsu</title>
-<updated>2026-10-20T20:38:42.093833+00:00</updated>
-<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-14a7b2390c.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<updated>2026-10-20T20:59:07.789693+00:00</updated>
+<link rel="self" href="https://opds-nextnovels-v2.consa963.workers.dev/catalogo/autores-14a7b2390c.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="start" href="https://opds-nextnovels-v2.consa963.workers.dev/" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
 <entry>
 <title>We Who Hate Each Other After a One-Night Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-we-who-hate-each-other-after-a-one-night-mistake-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-we-who-hate-each-other-after-a-one-night-mistake-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/We-Who-Hate-Each-Other-After-a-One-Night-Mistake-Portada.jpg" />
-<author><name>Shika Enpitsu</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Shoujo Ai" label="Shoujo Ai"/>
-<category term="Yuri" label="Yuri"/>
 <content type="text">Una preciosa y hermosa historia de amor en la que dos personas que inicialmente se detestan se transforman en amantes entrañables.
 
 "Te odio más que a nadie en el mundo, senpai."
@@ -26,7 +19,9 @@ Shinomiya, estudiante de tercer año del club universitario, y Hatano, estudiant
 Hatano, aspirante a novelista y creadora, aunque en un campo diferente, empatiza con la "soledad" y la "carencia" de Shinomiya, y ya no puede dejarla sola...
 
 Esta es la historia de cómo las dos, a través de sus torpes interacciones, se sienten atraídas la una por la otra y recorren la vida juntas.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1QdQbBZtReUJTmCFaHCQA8w" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1CSPhVKjbGZBsoXZHhMhWxA" type="text/html" title="Descargar" />
+<author><name>Shika Enpitsu</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/We-Who-Hate-Each-Other-After-a-One-Night-Mistake-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-we-who-hate-each-other-after-a-one-night-mistake-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-we-who-hate-each-other-after-a-one-night-mistake-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 </feed>

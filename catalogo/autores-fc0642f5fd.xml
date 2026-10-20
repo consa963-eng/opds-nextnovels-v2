@@ -2,18 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:fc0642f5fd</id>
 <title>달비초</title>
-<updated>2026-10-20T20:38:42.129674+00:00</updated>
-<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-fc0642f5fd.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<updated>2026-10-20T20:59:07.822843+00:00</updated>
+<link rel="self" href="https://opds-nextnovels-v2.consa963.workers.dev/catalogo/autores-fc0642f5fd.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="start" href="https://opds-nextnovels-v2.consa963.workers.dev/" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
 <entry>
 <title>My Wish in This Life is World Destruction Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-my-wish-in-this-life-is-world-destruction-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-my-wish-in-this-life-is-world-destruction-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/My-Wish-in-This-Life-is-World-Destruction-Portada.jpg" />
-<author><name>달비초</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Romance" label="Romance"/>
 <content type="text">—Si es así, ¿no deberías disculparte con Anne?
 
 Eleonor soltó una risita burlona. Que una señorita tuviera que disculparse con una simple sirvienta... ¿Cómo no iba a darse cuenta de que era un truco mezquino para herir su orgullo? Si hubiera sido la Eleonor del pasado, probablemente se habría disculpado en ese mismo instante, tragándose su orgullo para mendigar un poco de afecto, pero...
@@ -54,7 +48,10 @@ Pero... ¿por qué?
 
 —Es solo que me causas curiosidad.
 
-¿Por qué este hombre no deja de rondar a mi alrededor?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1-UsRraCwoaQRk10MjRyqAA" type="text/html" title="Descargar" />
+¿Por qué este hombre no deja de rondar a mi alre</content>
+<author><name>달비초</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/My-Wish-in-This-Life-is-World-Destruction-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-my-wish-in-this-life-is-world-destruction-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-my-wish-in-this-life-is-world-destruction-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 </feed>

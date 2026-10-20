@@ -2,25 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:345053bf6f</id>
 <title>Kagyuu Kumo</title>
-<updated>2026-10-20T20:38:42.039551+00:00</updated>
-<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-345053bf6f.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<updated>2026-10-20T20:59:07.772896+00:00</updated>
+<link rel="self" href="https://opds-nextnovels-v2.consa963.workers.dev/catalogo/autores-345053bf6f.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="start" href="https://opds-nextnovels-v2.consa963.workers.dev/" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
 <entry>
 <title>Goblin Slayer Novela Ligera en Español</title>
 <id>https://nextnovels.com/goblin-slayer-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/goblin-slayer-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-31.jpg" />
-<author><name>Kagyuu Kumo</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">Una joven sacerdotisa ha formado su primer grupo de aventuras, pero casi inmediatamente se encuentran en apuros. Es el Cazador de Goblins quien viene a su rescate - un hombre que ha dedicado su vida a la exterminación de todos los Goblins, por cualquier medio necesario. Y cuando los rumores de sus hazañas comienzan a circular, no se sabe quién será el siguiente en acudir.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1d43vuQP3ff8GkMF6hXqWUQ" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1HFLVpg5GFM-JNvfNcx2BXQ" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-goblin-slayer-side-story-year-one-novela-ligera-en-espanol/" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/goblin-slayer-side-story-ii-dai-katana-novela-ligera-en-espanol/" type="text/html" title="Descargar" />
+<author><name>Kagyuu Kumo</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-31.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/goblin-slayer-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fgoblin-slayer-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 </feed>

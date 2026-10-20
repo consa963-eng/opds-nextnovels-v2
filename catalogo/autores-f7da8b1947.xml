@@ -2,23 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:f7da8b1947</id>
 <title>銀三〇（ゆだ）</title>
-<updated>2026-10-20T20:38:42.128666+00:00</updated>
-<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-f7da8b1947.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<updated>2026-10-20T20:59:07.822595+00:00</updated>
+<link rel="self" href="https://opds-nextnovels-v2.consa963.workers.dev/catalogo/autores-f7da8b1947.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="start" href="https://opds-nextnovels-v2.consa963.workers.dev/" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
 <entry>
 <title>Pure Love ✕ Insult Complex Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-pure-love-%e2%9c%95-insult-complex-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-pure-love-%e2%9c%95-insult-complex-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/Pure-Love-%E2%9C%95-Insult-Complex-Portada.jpg" />
-<author><name>銀三〇（ゆだ）</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Adulto" label="Adulto"/>
-<category term="Drama" label="Drama"/>
-<category term="Harem" label="Harem"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Cuenta la historia de un estudiante que a base de aventuras, sacrificios y mucho pero que mucho sexo consigue tener un harém con el que conquista todo Japón, desde los temidos bajos fondos ilegales hasta el mundo de la más alta nobleza, sólo ayudado por su ingenio, sus chicas y, otra vez, mucho sexo. Y es que todo es válido cuando se trata de proteger a la Familia a la que él escoge pertenecer.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1f53RA2HDEAcGzp39vnSiYw" type="text/html" title="Descargar" />
+<author><name>銀三〇（ゆだ）</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/Pure-Love-%E2%9C%95-Insult-Complex-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-pure-love-%e2%9c%95-insult-complex-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-pure-love-%25e2%259c%2595-insult-complex-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 </feed>

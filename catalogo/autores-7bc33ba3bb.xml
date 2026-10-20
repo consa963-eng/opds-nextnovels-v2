@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:7bc33ba3bb</id>
 <title>Sazane Kei</title>
-<updated>2026-10-20T20:38:42.091815+00:00</updated>
-<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-7bc33ba3bb.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<updated>2026-10-20T20:59:07.789180+00:00</updated>
+<link rel="self" href="https://opds-nextnovels-v2.consa963.workers.dev/catalogo/autores-7bc33ba3bb.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="start" href="https://opds-nextnovels-v2.consa963.workers.dev/" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
 <entry>
 <title>God’s Games We Play Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-gods-games-we-play-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-gods-games-we-play-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/05/Gods-Game-We-Play-Portada.jpg" />
-<author><name>Sazane Kei</name></author>
-<category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Deportes" label="Deportes"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Romance" label="Romance"/>
-<category term="Supernatural" label="Supernatural"/>
 <content type="text">Los juegos mentales definitivos, "El juego de los dioses", creados por su suprema gracia, los dioses, que quizá tienen demasiado tiempo libre. Un antiguo dios, Leche, que despertó de un largo letargo, declaró ante el mundo:
 
 —¡Traigan ante mí a la persona que sea la mejor en los juegos de esta era!
@@ -28,38 +19,23 @@ El hombre "elegido por los dioses", Faye. En nombre de toda la humanidad, se le 
 El "Juego de los Dioses" al que está a punto de enfrentarse podría ser demasiado difícil. De hecho, no hay ningún humano en la historia capaz de triunfar. Bueno, la razón es bastante obvia. Los dioses son caprichosos, muy irracionales y, a veces, incluso "absolutamente incomprensibles".
 
 Pero, como se trata de un juego así, "¡sería un desperdicio no divertirse y jugar con todo el corazón!". ¡Y así comienza la batalla intelectual definitiva entre un chico genio, un antiguo dios (que resulta ser una chica) y sus amigos!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1RRthnoZC2Q6bbIGPwkPRiA" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1nwsy8nwMUc26NJ7q49ACLQ" type="text/html" title="Descargar" />
+<author><name>Sazane Kei</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/05/Gods-Game-We-Play-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-gods-games-we-play-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-gods-games-we-play-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Hyouketsu Kyoukai no Eden Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-hyouketsu-kyoukai-no-eden-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-hyouketsu-kyoukai-no-eden-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/06/Hyouketsu-Kyoukai-no-Eden-Portada.jpg" />
-<author><name>Sazane Kei</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
 <content type="text">En un mundo donde la humanidad esta confinada en un continente flotante llamado Orbie Clar hay monstruos que quieren destruir a la humanidad, estos seres son llamados Yuugenshu y son contenidos gracias a la Reina y sus 5 Sacerdotisas, Sheltis es un ex-guardia que por un desafortunado incidente fue exiliado, volviéndolo un ciudadano común y sin posibilidad de volver a ver a su amiga de infancia que se vuelve una Sacerdotisa.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1zxGDCXoeo6ET2lInhd8SSg" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1gyKuqywGtdgTolTle1JdXQ" type="text/html" title="Descargar" />
+<author><name>Sazane Kei</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/06/Hyouketsu-Kyoukai-no-Eden-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-hyouketsu-kyoukai-no-eden-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-hyouketsu-kyoukai-no-eden-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Our Last Crusade or the Rise of a New World Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-our-last-crusade-or-the-rise-of-a-new-world-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-our-last-crusade-or-the-rise-of-a-new-world-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-82.jpg" />
-<author><name>Sazane Kei</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
-<category term="Supernatural" label="Supernatural"/>
 <content type="text">El Imperio dotado de un avanzado nivel de conocimiento, y la Agencia de la Casa Imperial de Nebulis temida como el "País de las Brujas". En el duradero campo de batalla entre estos dos países, un niño y una niña se conocieron.
 
 El espadachín que se convirtió en la fuerza máxima en el campo de batalla a la edad más joven de toda la historia del Imperio, Iska.
@@ -71,24 +47,9 @@ La princesa bruja de hielo alabada como la más fuerte de toda la Agencia de la 
 "Del mismo modo, si me derrotas, se convertirá en un paso en la unificación de tu mundo."
 
 Los dos archienemigos debían matarse entre sí. Sin embargo, al chico le robaron el corazón por la belleza y la nobleza de la chica. Y la chica se sintió atraída por la fuerza y la forma de vida del chico. Aunque no se permitiera caminar uno al lado del otro y el único camino ante ellos fuera derrotarse mutuamente.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1v9dYoRR64UoR4tJcVWy6MA&amp;fs_id=716814433638679&amp;name=Kimi+to+Boku+no+Saigo+no+Senjo+-+Volumen+16+%5BGladheim+T%5D.pdf" type="application/pdf" title="Kimi to Boku no Saigo no Senjo - Volumen 16 [Gladheim T].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1v9dYoRR64UoR4tJcVWy6MA&amp;fs_id=393088780110181&amp;name=Kimi+to+Boku+no+Saigo+no+Senjo+-+Volumen+15+%5BGladheim+T%5D.pdf" type="application/pdf" title="Kimi to Boku no Saigo no Senjo - Volumen 15 [Gladheim T].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1v9dYoRR64UoR4tJcVWy6MA&amp;fs_id=932935512379181&amp;name=Kimi+to+Boku+no+Saigo+no+Senjo+-+Volumen+14+%5BGladheim+T%5D.pdf" type="application/pdf" title="Kimi to Boku no Saigo no Senjo - Volumen 14 [Gladheim T].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1v9dYoRR64UoR4tJcVWy6MA&amp;fs_id=553422342937992&amp;name=Kimi+to+Boku+no+Saigo+no+Senjo+-+Volumen+13+%5BGladheim+T%5D.pdf" type="application/pdf" title="Kimi to Boku no Saigo no Senjo - Volumen 13 [Gladheim T].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1v9dYoRR64UoR4tJcVWy6MA&amp;fs_id=551895898596108&amp;name=Kimi+to+Boku+no+Saigo+no+Senjo+-+Volumen+12+%5BGladheim+T%5D.pdf" type="application/pdf" title="Kimi to Boku no Saigo no Senjo - Volumen 12 [Gladheim T].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1v9dYoRR64UoR4tJcVWy6MA&amp;fs_id=853799583597436&amp;name=Kimi+to+Boku+no+Saigo+no+Senjo+-+Volumen+11+%5BGladheim+T%5D.pdf" type="application/pdf" title="Kimi to Boku no Saigo no Senjo - Volumen 11 [Gladheim T].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1v9dYoRR64UoR4tJcVWy6MA&amp;fs_id=24626931791441&amp;name=Kimi+to+Boku+no+Saigo+no+Senjo+-+Volumen+10+%5BGladheim+T%5D.pdf" type="application/pdf" title="Kimi to Boku no Saigo no Senjo - Volumen 10 [Gladheim T].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1v9dYoRR64UoR4tJcVWy6MA&amp;fs_id=735101826272162&amp;name=Kimi+to+Boku+no+Saigo+no+Senjo+-+Volumen+09+%5BGladheim+T%5D.pdf" type="application/pdf" title="Kimi to Boku no Saigo no Senjo - Volumen 09 [Gladheim T].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1v9dYoRR64UoR4tJcVWy6MA&amp;fs_id=890462084996469&amp;name=Kimi+to+Boku+no+Saigo+no+Senjo+-+Volumen+08+%5BGladheim+T%5D.pdf" type="application/pdf" title="Kimi to Boku no Saigo no Senjo - Volumen 08 [Gladheim T].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1v9dYoRR64UoR4tJcVWy6MA&amp;fs_id=43835806104977&amp;name=Kimi+to+Boku+no+Saigo+no+Senjo+-+Volumen+07+%5BGladheim+T%5D.pdf" type="application/pdf" title="Kimi to Boku no Saigo no Senjo - Volumen 07 [Gladheim T].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1v9dYoRR64UoR4tJcVWy6MA&amp;fs_id=666418781001279&amp;name=Kimi+to+Boku+no+Saigo+no+Senjo+-+Volumen+06+%5BGladheim+T%5D.pdf" type="application/pdf" title="Kimi to Boku no Saigo no Senjo - Volumen 06 [Gladheim T].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1v9dYoRR64UoR4tJcVWy6MA&amp;fs_id=1034774741346869&amp;name=Kimi+to+Boku+no+Saigo+no+Senjo+-+Volumen+05+%5BGladheim+T%5D.pdf" type="application/pdf" title="Kimi to Boku no Saigo no Senjo - Volumen 05 [Gladheim T].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1v9dYoRR64UoR4tJcVWy6MA&amp;fs_id=975106343085497&amp;name=Kimi+to+Boku+no+Saigo+no+Senjo+-+Volumen+04+%5BGladheim+T%5D.pdf" type="application/pdf" title="Kimi to Boku no Saigo no Senjo - Volumen 04 [Gladheim T].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1v9dYoRR64UoR4tJcVWy6MA&amp;fs_id=1040900288520063&amp;name=Kimi+to+Boku+no+Saigo+no+Senjo+-+Volumen+03+%5BGladheim+T%5D.pdf" type="application/pdf" title="Kimi to Boku no Saigo no Senjo - Volumen 03 [Gladheim T].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1v9dYoRR64UoR4tJcVWy6MA&amp;fs_id=3451491431973&amp;name=Kimi+to+Boku+no+Saigo+no+Senjo+-+Volumen+02+%5BGladheim+T%5D.pdf" type="application/pdf" title="Kimi to Boku no Saigo no Senjo - Volumen 02 [Gladheim T].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1v9dYoRR64UoR4tJcVWy6MA&amp;fs_id=532852680367831&amp;name=Kimi+to+Boku+no+Saigo+no+Senjo+-+Volumen+01+%5BGladheim+T%5D.pdf" type="application/pdf" title="Kimi to Boku no Saigo no Senjo - Volumen 01 [Gladheim T].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1v9dYoRR64UoR4tJcVWy6MA&amp;fs_id=12698891003184&amp;name=Kimi+to+Boku+no+Saigo+no+Senjo+-+Secret+Files+03+%5BGladheim+T%5D.pdf" type="application/pdf" title="Kimi to Boku no Saigo no Senjo - Secret Files 03 [Gladheim T].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1v9dYoRR64UoR4tJcVWy6MA&amp;fs_id=411805846439307&amp;name=Kimi+to+Boku+no+Saigo+no+Senjo+-+Secret+Files+02+%5BGladheim+T%5D.pdf" type="application/pdf" title="Kimi to Boku no Saigo no Senjo - Secret Files 02 [Gladheim T].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1v9dYoRR64UoR4tJcVWy6MA&amp;fs_id=995148203740632&amp;name=Kimi+to+Boku+no+Saigo+no+Senjo+-+Secret+Files+01+%5BGladheim+T%5D.pdf" type="application/pdf" title="Kimi to Boku no Saigo no Senjo - Secret Files 01 [Gladheim T].pdf" />
+<author><name>Sazane Kei</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-82.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-our-last-crusade-or-the-rise-of-a-new-world-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-our-last-crusade-or-the-rise-of-a-new-world-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 </feed>

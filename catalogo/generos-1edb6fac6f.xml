@@ -2,27 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:generos:1edb6fac6f</id>
 <title>Hentai</title>
-<updated>2026-10-20T20:38:42.199734+00:00</updated>
-<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-1edb6fac6f.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<updated>2026-10-20T20:59:07.854263+00:00</updated>
+<link rel="self" href="https://opds-nextnovels-v2.consa963.workers.dev/catalogo/generos-1edb6fac6f.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="start" href="https://opds-nextnovels-v2.consa963.workers.dev/" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
 <entry>
 <title>A Lovey-Dovey Lactation Life With My Aloof Dark Elf Wife Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-a-lovey-dovey-lactation-life-with-my-aloof-dark-elf-wife-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-a-lovey-dovey-lactation-life-with-my-aloof-dark-elf-wife-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/A-Lovey-Dovey-Lactation-Life-With-My-Aloof-Dark-Elf-Wife-Portada.jpg" />
-<author><name>Kanzaki Misora</name></author>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Hentai" label="Hentai"/>
 <content type="text">En el Japón actual, donde las puertas a otros mundos se han abierto, la convivencia con seres demi-humanos se ha vuelto cotidiana. En una sociedad así, Yuuto tiene un omiai con una elfa oscura llamada Lucia. El objetivo de ella era conseguir la subvención que dan a la aldea de los elfos, pero para Yuuto, que jamás había tenido relación con una mujer, ella se convierte en la primera persona con la que establece un vínculo, y por eso le entrega un amor desinteresado incluso a pesar de que Lucia se muestra siempre fría y distante. Poco a poco, Lucia también se va sintiendo atraída por Yuuto, y aunque sigue siendo serena, empieza a demostrarle su afecto.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1GrCr-4Wir3hO9DWdWlOs6w" type="text/html" title="Descargar" />
+<author><name>Kanzaki Misora</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/A-Lovey-Dovey-Lactation-Life-With-My-Aloof-Dark-Elf-Wife-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-a-lovey-dovey-lactation-life-with-my-aloof-dark-elf-wife-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-a-lovey-dovey-lactation-life-with-my-aloof-dark-elf-wife-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Aibeya Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-aibeya-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-aibeya-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Aibeya-Portada.jpg" />
-<author><name>Kurisu</name></author>
-<category term="Hentai" label="Hentai"/>
-<category term="Romance" label="Romance"/>
 <content type="text">Kota tiene una amiga de la infancia de su misma edad llamada Aki. Viven en casas contiguas y se llevan muy bien, pero como son como familia, él aún no sabía si lo que sentía era amor.
 
 En ese momento, decidió quedarse a dormir en la casa de Aki mientras reformaban la suya.
@@ -32,18 +26,14 @@ Aunque un poco desconcertado, abrió la puerta del vestidor para darse un baño 
 Y esa noche, Aki le propuso que salieran juntos como novios de prueba…
 
 【¡Esta es una edición especial que incluye, como relato corto de regalo, una escena que se eliminó de la versión en libro de bolsillo por motivos de extensión!】</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1RSfdWPfKnv__ePt4pV5tqQ" type="text/html" title="Descargar" />
+<author><name>Kurisu</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Aibeya-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-aibeya-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-aibeya-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Anehame Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-anehame-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-anehame-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Anehame-Portada.jpg" />
-<author><name>Zange</name></author>
-<category term="Hentai" label="Hentai"/>
-<category term="Incesto" label="Incesto"/>
-<category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">"¿Tantas ganas tienes de correrte dentro de tu hermana mayor?"
 
 Mientras froto mi cuerpo con Rio-nee y mi conciencia se derrite hasta volverse espesa, me enfrento a mí mismo. Mi verdadero deseo se escapa de mi boca.
@@ -59,16 +49,14 @@ Si dejo escapar esta oportunidad, la diosa del destino no volverá a sonreírme 
 —Está bien. Aunque me dejes embarazada del bebé de Akira.
 
 Con esa sola frase, todo el torrente de mi sangre se agitó de golpe. Hermano y hermana: el dulce y derretido cumplimiento de un primer amor de ensueño.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1S41zlmfbny2DqpCY1VgPOg" type="text/html" title="Descargar" />
+<author><name>Zange</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Anehame-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-anehame-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-anehame-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Babymaking Impregnation Club! Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-babymaking-impregnation-club-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-babymaking-impregnation-club-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Babymaking-Impregnation-Club-Portada.jpg" />
-<author><name>Sen Harama</name></author>
-<category term="Hentai" label="Hentai"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">¿Qué es el Club de Concepción y Embarazo? — Un club escolar reconocido por el Estado que fomenta el embarazo entre las estudiantes y las actividades para lograr un embarazo.
 
 ¡Las dos chicas «gal» de mi clase fueron quienes me eligieron a mí, un chico sin nada especial, como su pareja!
@@ -78,17 +66,14 @@ Con esa sola frase, todo el torrente de mi sangre se agitó de golpe. Hermano y 
 Con medidas de 103-60-88, una belleza fria de pechos enormes y estilo «gyaru» madura: Aika Asagi.
 
 Frente a estos cuerpos de «gyaru» increíbles, quiero llenar sus úteros con mi semen y no puedo contener mi deseo de dejarlas embarazadas a las dos a la vez.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1JYxhJhchTkj5nCiI50GK5g" type="text/html" title="Descargar" />
+<author><name>Sen Harama</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Babymaking-Impregnation-Club-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-babymaking-impregnation-club-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-babymaking-impregnation-club-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Come on Over! Private Sex Academy Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-come-on-over-private-sex-academy-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-come-on-over-private-sex-academy-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Come-on-Over-Private-Sex-Academy-Portada.jpg" />
-<author><name>Mizuryu Kei</name></author>
-<category term="Harem" label="Harem"/>
-<category term="Hentai" label="Hentai"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">—¡Para todos los que habéis sacado buenas notas, una recompensa!
 
 ¡Se trata de un trío más tú —cuatro en total— de inseminación, aprobado por la directora Keiko Yarima!
@@ -106,17 +91,14 @@ Los dedos en uve, la lengua fuera, estas chicas salidísimas se corren sin parar
 —Ahora me toca a mí. —No, ahora es mi turno.
 
 Hasta que se peleen por ti, haz que se enganchen al placer y acapara a las tres reinas de la Academia del Polvo Salvaje.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1J78GNLgXmdkM1C_O5VGYrQ" type="text/html" title="Descargar" />
+<author><name>Mizuryu Kei</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Come-on-Over-Private-Sex-Academy-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-come-on-over-private-sex-academy-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-come-on-over-private-sex-academy-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Harem Bandit Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-harem-bandit-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-harem-bandit-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/Harem-Bandit-Portada.jpg" />
-<author><name>Ken Takeuchi</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Harem" label="Harem"/>
-<category term="Hentai" label="Hentai"/>
 <content type="text">Enfrentándose al desafío de seguir a la princesa desnuda, heredera del trono, que nació en un dojo y se encuentra ante el abismo, ¡el bandido Magnus se encuentra en una encrucijada!
 
 Con su elegante danza de ocho espadas voladoras, ella, Titania, la princesa número uno del Reino de Nausiaka, supera al legendario Magnus, un despiadado delincuente. Esta princesa indiferente al género, aún más poderosa que el más fuerte, se divierte manipulando su cuerpo y le otorga recompensas dominantes.
@@ -126,29 +108,23 @@ A su lado, Ortashia, la vicecomandante con su distintivo atuendo gótico-loli, d
 Y luego está Moon, que prepara un harem para él y busca activamente encuentros íntimos. Aunque desea que Magnus se quede en el pueblo como un héroe, dispuesta a montarlo desnuda en cualquier lugar si eso le complace.
 
 Desde el temible bandido hasta un simple soldado y la decisión de Magnus que cambió el destino del país, comienza una historia de harem impregnada de determinación y lealtad. ¡Se alza el telón!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1AaSHSVotbI9bCmDc9tDnQw" type="text/html" title="Descargar" />
+<author><name>Ken Takeuchi</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/Harem-Bandit-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-harem-bandit-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-harem-bandit-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Harem Fortune Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-harem-fortune-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-harem-fortune-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/Harem-Fortune-Portada.jpg" />
-<author><name>Ken Takeuchi</name></author>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Hentai" label="Hentai"/>
 <content type="text">Welkin, hijo de una familia noble, es adoptado por otra familia. Allí conoce a su prometida, la princesa Fortune, de la que se enamora a primera vista y a la que se acerca ferozmente, obligándola a mantener relaciones sexuales con él y provocando su total antipatía. En su desesperación, su ayudante, la bella Tanikis, y la confidente de Fortune, la mujer caballero Vida, le ofrecen su ayuda y utilizan sus amplios cuerpos para enseñarle a mantener relaciones sexuales con ella. Welkin recibe el placer de una mamada de la bella Tanikis, que parece una agente femenina consumada, y se acostumbra al cuerpo femenino practicando sexo con ella. También recibe lecciones de sexo con Vida, una bella mujer caballero, y prueba la succión de pechos y el sexo anal. ¿Podrá Welkin, ahora que domina el arte de complacer a las mujeres, conquistar el corazón de la princesa Fortune?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1x86piMf5wWxFxUIWyLAQjQ" type="text/html" title="Descargar" />
+<author><name>Ken Takeuchi</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/Harem-Fortune-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-harem-fortune-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-harem-fortune-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Hypnosis Lesson Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-hypnosis-lesson-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-hypnosis-lesson-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/Hypnosis-Lesson-Portada.jpg" />
-<author><name>Ika Natori</name></author>
-<category term="Adulto" label="Adulto"/>
-<category term="Hentai" label="Hentai"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <content type="text">La presidenta del consejo estudiantil, Tsukino Himemiya y la presidenta de la junta, Ryoka Himemiya. Madre e hija, a las que la «Máquina de Estudio del Sueño» les ha grabado conocimientos erróneos en el cerebro, buscan la semilla de Soichi Akano, como si estuvieran hipnotizadas.
 
 «¡Hyah, qué bien sienta! ¡Siento tanto, que me vuelvo tonta! ¡Que felicidad!»
@@ -158,16 +134,14 @@ Desde el temible bandido hasta un simple soldado y la decisión de Magnus que ca
 El clítoris es cogido y acariciado por la madre mientras es penetrada con fuerza. Tsukino está trabajando duro en el sexo de siembra aprobado por la madre con el desertor que tanto despreciaba con todo su corazón. Porque a las hembras se les hace «aprender» que deben unirse a un macho con el que tengan buena química física.
 
 «¡Ahora, la próxima vez, embarázame irresponsablemente! Si no quieres, ¡haré que te expulsen!»</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1SKgeZzPFCq9IbuGUJhz5ag" type="text/html" title="Descargar" />
+<author><name>Ika Natori</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/Hypnosis-Lesson-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-hypnosis-lesson-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-hypnosis-lesson-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Hypnosis Sex Guidance Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-hypnosis-sex-guidance-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-hypnosis-sex-guidance-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Hypnosis-Sex-Guidance-Portada.jpg" />
-<author><name>Tatsuki Hirohiko</name></author>
-<category term="Harem" label="Harem"/>
-<category term="Hentai" label="Hentai"/>
 <content type="text">«¡Buh! ¡A todos los que se han burlado de mí! ¡Les voy a mostrar los resultados de mi educación sexual!»
 
 ¡La sensación de conquista al penetrar una tras otra a las hermosas chicas de clase especial A de las que tanto me enorgullezco, en el escenario del gimnasio donde se ha reunido a toda la escuela!
@@ -187,18 +161,14 @@ Una vez que eyaculo profundamente dentro de Suzuka, ¡el final es un trío públ
 «¡Shiori también te va a mostrar cómo se corre con el clítoris!»
 
 (Todas van a quedar embarazadas de mi bebé ♪ ¡Las voy a dominar para siempre con mi hipnosis!)</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1fIiwdrt6KlWB9eY_f12x_w" type="text/html" title="Descargar" />
+<author><name>Tatsuki Hirohiko</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Hypnosis-Sex-Guidance-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-hypnosis-sex-guidance-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-hypnosis-sex-guidance-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>I Met the Busty Onee-san From My Childhood Again, and Now We’re Getting Married Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-i-met-the-busty-onee-san-from-my-childhood-again-and-now-were-getting-married-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-i-met-the-busty-onee-san-from-my-childhood-again-and-now-were-getting-married-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/I-Met-the-Busty-Onee-san-From-My-Childhood-Again-and-Now-Were-Getting-Married-Portada.jpg" />
-<author><name>Kanzaki Misora</name></author>
-<category term="Adulto" label="Adulto"/>
-<category term="Hentai" label="Hentai"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Tetona" label="Tetona"/>
 <content type="text">Yuuki, oficinista de primer año, vuelve a su ciudad natal durante las vacaciones y se reencuentra por casualidad con Kaori, su admirada amiga de la infancia.
 
 Ella está más guapa que entonces, y su pecho ha crecido hasta un tamaño descomunal que le deja sin aliento, pero cuando le pregunta cómo le va, la expresión de Kaori se ensombrece.
@@ -212,17 +182,14 @@ Pero nada más mudarse, Kaori se mete en el baño mientras él se lava, se pasea
 Cuando finalmente llega al límite y se abalanza sobre ella, Kaori le dice que ya contaba con que la convivencia incluyera también esa clase de relación... y acaban cruzando la raya.
 
 Así comienza una vida en común (¿amancebamiento?) en la que no son novios, pero sí comparten relaciones íntimas.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1fzvedVgRhGj3YS6BLl7VvQ" type="text/html" title="Descargar" />
+<author><name>Kanzaki Misora</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/I-Met-the-Busty-Onee-san-From-My-Childhood-Again-and-Now-Were-Getting-Married-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-i-met-the-busty-onee-san-from-my-childhood-again-and-now-were-getting-married-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-i-met-the-busty-onee-san-from-my-childhood-again-and-now-were-getting-married-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Milk Celebrity Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-milk-celebrity-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-milk-celebrity-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/Milk-Celebrity-Portada.jpg" />
-<author><name>Kanzaki Misora</name></author>
-<category term="Adulto" label="Adulto"/>
-<category term="Harem" label="Harem"/>
-<category term="Hentai" label="Hentai"/>
 <content type="text">Un pariente le recomendó que se uniera a la familia Shingu, un pariente lejano mío, cuando iba a la universidad. A Masaya Endo se le permite quedarse en la pensión. Sin embargo, la familia Shingu de la pensión es una increíble familia de celebridades!
 
 Las tres hermosas mujeres, Kasumi, Murasaki y Ayaka, y la hija de Kasumi, Anna. Masaya está emocionado de vivir con estas hermosas mujeres famosas, pero, ¡parece que Kasumi y las demás planeaban contratar a Masaya como sirviente!
@@ -233,17 +200,15 @@ De hecho, las mujeres de esta familia tienen la constitución para que les salga
 
 Exprimiendo la leche que se desborda del suave aroma de sus suaves y explosivos pechos. Los pechos púrpura de la belleza le han dado un chispazo de leche y… La aseada Ayaka le sirve en un traje de criada e incluso tiene sexo después!
 
-Sobre Masaya, que sólo puede ordeñar a una persona al día debido a sus estudios. ¡Las celebridades vienen por lo mejor del mundo! En medio de todo esto, Anna se avergüenza de que un hombre la ordeñe. ¡Su pecho se tensó por los efectos de la acumulación de leche y colapsó por el dolor de la misma!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Ta81SzcYElyHk_o8UYWfqg" type="text/html" title="Descargar" />
+Sobre Masaya, que sólo puede ordeñar a una persona al día debido a sus estudios. ¡Las celebridades vienen por lo mejor del mundo! En medio de todo esto, Anna se avergüenza de que un hombre la ordeñe. ¡Su pecho se tensó por los efectos de la acumulación de leche y colapsó por el dolor de la misma</content>
+<author><name>Kanzaki Misora</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/Milk-Celebrity-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-milk-celebrity-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-milk-celebrity-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>My Beloved Female Boss is Having Sex with an Insatiable Man in a Bed Right Next to Me on a Business Trip Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-my-beloved-female-boss-is-having-sex-with-an-insatiable-man-in-a-bed-right-next-to-me-on-a-business-trip-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-my-beloved-female-boss-is-having-sex-with-an-insatiable-man-in-a-bed-right-next-to-me-on-a-business-trip-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/NTR-Business-Trip-Portada.jpg" />
-<author><name>逢川 かえで</name></author>
-<category term="Hentai" label="Hentai"/>
-<category term="NTR" label="NTR"/>
 <content type="text">Desperté en la cama de un hotel.
 
 En la cama de al lado, Yui-senpai —la mujer que admiro— se retorcía atravesada por un tallo de carne…
@@ -251,27 +216,23 @@ En la cama de al lado, Yui-senpai —la mujer que admiro— se retorcía atraves
 Un viaje de negocios a Okinawa. Un error nos metió en la misma habitación a mí y a ella, mi jefa de 27 años, la senpai con la que compartía un amor no confesado, ese en el que ambos sentíamos lo mismo sin atrevernos a decirlo.
 
 La chica que tanto quise perdió la virginidad allí mismo, a un metro de mí, y los gemidos que soltaba mientras el semental insaciable la embestía fueron lo único que pude hacer durante toda la noche: oírlos. Fingir que dormía. Y nada más.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1FK5sYwGLojdfps7cJDOq7Q" type="text/html" title="Descargar" />
+<author><name>逢川 かえで</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/NTR-Business-Trip-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-my-beloved-female-boss-is-having-sex-with-an-insatiable-man-in-a-bed-right-next-to-me-on-a-business-trip-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-my-beloved-female-boss-is-having-sex-with-an-insatiable-man-in-a-bed-right-next-to-me-on-a-business-trip-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>My Elf Senpai Wants Me to Dominate Her Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-my-elf-senpai-wants-me-to-dominate-her-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-my-elf-senpai-wants-me-to-dominate-her-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/My-Elf-Senpai-Wants-Me-to-Dominate-Her-Portada.jpg" />
-<author><name>Yutaka Aohashi</name></author>
-<category term="Hentai" label="Hentai"/>
-<category term="Romance" label="Romance"/>
 <content type="text">La hermosa estudiante de intercambio, Rone, es en realidad una elfa. Sin embargo, es una pervertida con un fetiche masoquista. “¡Ser tumbada al suelo, que me agarren de las orejas y que me pateen el pecho…! ¡Es una humillación imposible de tolerar! ¡Una vergüenza peor que la muerte para una elfa!”. Aunque están unidos como amantes y muy enamorados, lo que ella quiere es un juego erótico y agresivo de entrenamiento.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1VGSCY1rH3krOf-26dKOOtA" type="text/html" title="Descargar" />
+<author><name>Yutaka Aohashi</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/My-Elf-Senpai-Wants-Me-to-Dominate-Her-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-my-elf-senpai-wants-me-to-dominate-her-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-my-elf-senpai-wants-me-to-dominate-her-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>My Household’s Liliana-san Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-my-households-liliana-san-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-my-households-liliana-san-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/My-Households-Liliana-san-Portada.jpg" />
-<author><name>Yamaguchi Akira</name></author>
-<category term="Hentai" label="Hentai"/>
-<category term="Romance" label="Romance"/>
 <content type="text">«¿Quieres… celebrar el primer día del año conmigo?»
 
 Vestida con un lujoso y resplandeciente kimono, y aunque un poco cohibida, Liliana lo miró directamente a los ojos y le preguntó; Tatsuya, sonrojado, asintió con firmeza.
@@ -291,19 +252,14 @@ Al deslizar los dedos por el monte de Venus que quedaba al descubierto y trazar 
 «Qué linda eres, Liliana. Disfruta con mis dedos y muéstrame tu primer clímax del año».
 
 Ya fuera en Navidad, en un viaje a las aguas termales o en Año Nuevo, hice el amor con Liliana hasta el límite. Pero, ¡quiero seguir abrazando a Liliana mucho, mucho más!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/15C5GNLGXT-_khSM1YW1q5Q" type="text/html" title="Descargar" />
+<author><name>Yamaguchi Akira</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/My-Households-Liliana-san-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-my-households-liliana-san-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-my-households-liliana-san-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>My Little Sister is a Cute Gal Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-my-little-sister-is-a-cute-gal-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-my-little-sister-is-a-cute-gal-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/My-Little-Sister-is-a-Cute-Gal-Portada.jpg" />
-<author><name>Wakatsuki Hikaru</name></author>
-<category term="Hentai" label="Hentai"/>
-<category term="Incesto" label="Incesto"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">—Que tú... nnnh... que uses mi cuerpo... y te sientas bien... ¡me hace tan feliz, en serio!
 
 Rino intenta sonreír mientras las lágrimas le resbalan por las mejillas. Se me encoge el pecho. ¿Las gals son así de intensas hasta cuando lloran? Siento un deseo salvaje: quiero vaciarme dentro de ella. El instinto se me retuerce en la cadera como lava espesa a punto de desbordarse.
@@ -315,16 +271,14 @@ El ritmo se vuelve frenético.
 Tiene la cara desencajada y los labios le tiemblan como si fuera a romperse. "Me ha dicho 'perdóname'. A mí. ¡Al puto fondo de la clase!" Rino es la gyaru más popular del instituto, la que camina por los pasillos como si flotara, la que todos quieren tocar y nadie se atreve. Y ahora está aquí abajo, sollozando y retorciéndose bajo mi peso. La excitación me revienta el cráneo.
 
 ¡Una comedia de amor y apoyo juvenil —con sexo, sudor y purpurina— traída por el tándem más explosivo!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1IvnbnyzzeSP4yXxk2cbYOA" type="text/html" title="Descargar" />
+<author><name>Wakatsuki Hikaru</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/My-Little-Sister-is-a-Cute-Gal-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-my-little-sister-is-a-cute-gal-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-my-little-sister-is-a-cute-gal-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>My Slow Life with the Princess Knight and Her Devoted Handmaiden Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-my-slow-life-with-the-princess-knight-and-her-devoted-handmaiden-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-my-slow-life-with-the-princess-knight-and-her-devoted-handmaiden-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/My-Slow-Life-with-the-Princess-Knight-and-Her-Devoted-Handmaiden-Portada.jpg" />
-<author><name>Morry</name></author>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Hentai" label="Hentai"/>
 <content type="text">Garant, un aventurero de rango medio, es engañado para participar en una misión supuestamente fácil, pero acaba sirviendo de cebo para un dragón. Sin embargo, el dragón aniquila a sus compañeros más veteranos, y Garant, aunque malherido de gravedad, logra salvar la vida de milagro.
 
 Incapaz de valerse por sí mismo en el día a día y objeto de burlas por parte de muchos tras su regreso, Garant cae en una profunda desconfianza hacia la gente y decide comprar una esclava que lo cuide.
@@ -339,19 +293,15 @@ Pero esa misma noche, mientras lo ayuda en el baño, Falna le suplica que no pon
 
 La actitud honesta y sincera que Garant mantiene incluso entonces disipa por completo las sospechas de ambas, y poco a poco empiezan a mirarlo con buenos ojos.
 
-Cuando las seductoras bellezas esclavas comienzan un servicio activo y cargado de deseo, el corazón de Garant va encontrando la calma…</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1pujuWa8Wvp7js7Kg_h_c3g" type="text/html" title="Descargar" />
+Cuando las seductoras bellezas esclava</content>
+<author><name>Morry</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/My-Slow-Life-with-the-Princess-Knight-and-Her-Devoted-Handmaiden-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-my-slow-life-with-the-princess-knight-and-her-devoted-handmaiden-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-my-slow-life-with-the-princess-knight-and-her-devoted-handmaiden-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>My Transfer Destination Is a City of Women! Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-my-transfer-destination-is-a-city-of-women-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-my-transfer-destination-is-a-city-of-women-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/My-Transfer-Destination-Is-a-City-of-Women-Portada.jpg" />
-<author><name>Ichiya Sumi</name></author>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Harem" label="Harem"/>
-<category term="Hentai" label="Hentai"/>
-<category term="Romance" label="Romance"/>
 <content type="text">Koichi, quien murió siendo virgen, fue recompensado con una reencarnación en otro mundo como el hijo de una familia noble.
 
 Sin embargo, en este momento se encuentra en plena transferencia a una ciudad provincial.
@@ -363,17 +313,14 @@ Una doncella con el trasero completamente al descubierto, una señora feudal de 
 ¡Una ciudad entera convertida en un harén!
 
 ¡Así comienza esta fantasía de una vida amorosa y apasionada en otro mundo!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1_0nF_XpOBDjhlV7DncblNg" type="text/html" title="Descargar" />
+<author><name>Ichiya Sumi</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/My-Transfer-Destination-Is-a-City-of-Women-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-my-transfer-destination-is-a-city-of-women-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-my-transfer-destination-is-a-city-of-women-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Nympho Sister Max Heart Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-nympho-sister-max-heart-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-nympho-sister-max-heart-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Ane-Chijo-Max-Heart-Portada.jpg" />
-<author><name>Pan Tachibana</name></author>
-<category term="Hentai" label="Hentai"/>
-<category term="Incesto" label="Incesto"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">—¡¡¡!!!!!!!!!!!!— En el instante en que dejó caer las caderas de golpe y le entregó su virginidad a su hermano pequeño, un grito de éxtasis sin voz escapó de la garganta de Sarasa. Buchi. Sintió el desgarro del himen y una punzada aguda y candente le recorrió las entrañas.
 
 Justo después, un placer aplastante —la sensación de algo golpeando la entrada de su útero— envolvió su cuerpo entero y su mente se quedó en blanco.
@@ -385,28 +332,23 @@ El miembro de su hermano se hinchó, dio un salto —bikun— dentro de ella, y 
 La ola de su clímax fue empujada aún más alto por la eyaculación de su hermano.
 
 —Es increíble... Onee-chan se va a romper...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1s9Th1iVyt-QuKn5YJhhpiw" type="text/html" title="Descargar" />
+<author><name>Pan Tachibana</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Ane-Chijo-Max-Heart-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-nympho-sister-max-heart-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-nympho-sister-max-heart-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Onee-san Will Examine You Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-onee-san-will-examine-you-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-onee-san-will-examine-you-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Onee-san-Will-Examine-You-Portada.jpg" />
-<author><name>Youko Kagura</name></author>
-<category term="Harem" label="Harem"/>
-<category term="Hentai" label="Hentai"/>
 <content type="text">Satoru, un chico de constitución débil, ingresa en la sala E. Allí le esperaban cuatro hermanas enfermeras vestidas con leotardos. El atrevido servicio que estas bellezas mayores prestan más allá del ámbito de los cuidados devotos hace que la mente y el cuerpo del chico caigan víctimas de la enfermedad del deseo carnal.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1_AMc0TWGt5mg6hYYzBq57w" type="text/html" title="Descargar" />
+<author><name>Youko Kagura</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Onee-san-Will-Examine-You-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-onee-san-will-examine-you-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-onee-san-will-examine-you-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Reborn Gladiator in the Procreation Colosseum Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-reborn-gladiator-in-the-procreation-colosseum-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-reborn-gladiator-in-the-procreation-colosseum-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Reborn-Gladiator-in-the-Procreation-Colosseum-Portada.jpg" />
-<author><name>Habara Tetsu</name></author>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Hentai" label="Hentai"/>
 <content type="text">“Yo estuve vivo aquí. Deseo dejar esa prueba. ¡Haré que las mejores mujeres conciban hijos!”
 
 Es el fuerte deseo de Rig, quien reencarnó en otro mundo como un bárbaro y cayó hasta convertirse en un esclavo de la espada.
@@ -428,18 +370,14 @@ La cuarta princesa, Luna, también levanta su hermoso trasero……
 ¡Incluso la esclava gladiadora elfa, Duranta, le ofrece su anhelo!
 
 Entregando su esencia en el interior de las cuatro, una por una…… ¡tras el ciclo de la reencarnación, por fin ha encontrado el harem definitivo!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1iD4I1VffDV07gJw6DUyJMw" type="text/html" title="Descargar" />
+<author><name>Habara Tetsu</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Reborn-Gladiator-in-the-Procreation-Colosseum-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-reborn-gladiator-in-the-procreation-colosseum-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-reborn-gladiator-in-the-procreation-colosseum-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Sex Slave-Sama Type Girlfriend Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-sex-slave-sama-type-girlfriend-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-sex-slave-sama-type-girlfriend-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/04/Sex-Slave-Sama-Type-Girlfriend-Portada-1.jpg" />
-<author><name>Tachibana Pan</name></author>
-<category term="Adulto" label="Adulto"/>
-<category term="BDSM" label="BDSM"/>
-<category term="Hentai" label="Hentai"/>
-<category term="Tetona" label="Tetona"/>
 <content type="text">—¡A partir de hoy soy la «esclava sexual» de Yusuke-kun!
 
 La Ley contra la Baja Natalidad, apodada «Ley de Esclavas Sexuales», acaba de ser aprobada. ¿Y la primera en recibir la licencia? Kanae Mirei, mi hermosa y perfecta senpai.
@@ -451,30 +389,23 @@ Me tira en la cama y me suelta: «De ahora en adelante, todo tu semen cae aquí 
 Las mañanas empiezan con un despertador oral, y entre juegos pervertidos y sesiones SM que me obliga a probar, yo solo me pregunto: ¿quién es el esclavo aquí?
 
 —Si te dedico cada fibra de mi ser, ¿no es obvio? La esclava soy yo y el amo eres tú, Yusuke-kun. Así que esta noche, por favor, clava tu semilla de amo en los óvulos de esclava sexual de Mirei.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1w5B1R5wEzHYMpLHvPa-Brg" type="text/html" title="Descargar" />
+<author><name>Tachibana Pan</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/04/Sex-Slave-Sama-Type-Girlfriend-Portada-1.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-sex-slave-sama-type-girlfriend-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-sex-slave-sama-type-girlfriend-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Sorcery Grand Prix Wizard Formula Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-sorcery-grand-prix-wizard-formula-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-sorcery-grand-prix-wizard-formula-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Sorcery-Grand-Prix-Wizard-Formula-Portada.jpg" />
-<author><name>Touka Takei</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Hentai" label="Hentai"/>
 <content type="text">Al ex héroe Artis le pide una chica que le salvó la vida en el pasado que conduzca en un auto mágico en el Campeonato Mundial de Fórmula Mágica en parejas. En el auto, donde el conductor y el navegante están muy cerca, Artis frota accidentalmente el pecho de su compañera Senari, ¿¡y la potencia aumenta!?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1DmMUQ7M7dmNaKcVt-zOyXA" type="text/html" title="Descargar" />
+<author><name>Touka Takei</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Sorcery-Grand-Prix-Wizard-Formula-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-sorcery-grand-prix-wizard-formula-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-sorcery-grand-prix-wizard-formula-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Succubus Stayed Life Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-succubus-stayed-life-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-succubus-stayed-life-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Succubus-Stayed-Life-Portada.jpg" />
-<author><name>Honjou Yagi</name></author>
-<category term="Hentai" label="Hentai"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">—¡Aaah, es increíble! Me estás llenando de semen mientras me empujas hasta el fondo… ¡Se siente tan bien! —¡Sakura-san! ¡Sakura-san!!
 
 Mientras responde a su deseo y le taladra el fondo de la vagina, él grita el nombre de su compañera de clase.
@@ -490,17 +421,14 @@ Mientras recibe el semen con una expresión de pura dicha, Fuyuko también alcan
 Qué hermosa es Sakura-san…
 
 Sin querer, él se queda embelesado mirando ese rostro que gime siguiendo sus instintos. Una estampa de una belleza arrebatadora.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1KcCSoiVYDlHKr2m4A3edJw" type="text/html" title="Descargar" />
+<author><name>Honjou Yagi</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Succubus-Stayed-Life-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-succubus-stayed-life-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-succubus-stayed-life-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Super Sadistic Student Council President Maina-sama Gets Controlled By The M Note Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-super-sadistic-student-council-president-maina-sama-gets-controlled-by-the-m-note-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-super-sadistic-student-council-president-maina-sama-gets-controlled-by-the-m-note-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Super-Sadistic-Student-Council-President-Maina-sama-Gets-Controlled-By-The-M-Note-Portada.jpg" />
-<author><name>Takaha Shin</name></author>
-<category term="Harem" label="Harem"/>
-<category term="Hentai" label="Hentai"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">—¡Lo declaro aquí mismo! ¡Mina McMahon Anegakouji será, de por vida, la esclava M exclusiva de Hayata-kun!
 
 Ante las alumnas, fascinadas por la recién promulgada Ley de Esclavas M, la noble presidenta del consejo estudiantil muestra la felicidad de la sumisión enfundada en un disfraz de Holstein que apenas contiene sus enormes pechos.
@@ -512,45 +440,36 @@ Mientras cabalga hacia el clímax junto a su declaración pública de esclava, H
 —Yo también lo juro: Mina será para siempre mi esclava M, ¡mi mascota masoquista, una vaca lechera solo para mí! ¡Y en el futuro te convertiré en mi esposa!
 
 —¡Kyaaauuu~! ¡Vas a arrebatarme la vida entera…! ¡Qué felicidad! ¡Córrete dentro de mí, empapa a esta mascota masoquista con tu esperma y tiñe a Mina de tu color!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/10ZxL28nn6X9QUu8t7T0T6g" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1DZDKFFYQEFYYlj6VPP22nA" type="text/html" title="Descargar" />
+<author><name>Takaha Shin</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Super-Sadistic-Student-Council-President-Maina-sama-Gets-Controlled-By-The-M-Note-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-super-sadistic-student-council-president-maina-sama-gets-controlled-by-the-m-note-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-super-sadistic-student-council-president-maina-sama-gets-controlled-by-the-m-note-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>The Daughter of My Close Friend Is Erotic Only Toward Me Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-the-daughter-of-my-close-friend-is-erotic-only-toward-me-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-daughter-of-my-close-friend-is-erotic-only-toward-me-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/04/The-Daughter-of-My-Close-Friend-Whom-Ive-Known-Since-Childhood-Is-Erotic-Only-Toward-Me.jpg" />
-<author><name>Aina Nano</name></author>
-<category term="Adulto" label="Adulto"/>
-<category term="Hentai" label="Hentai"/>
-<category term="Tetona" label="Tetona"/>
 <content type="text">Tōru ha estado cuidando con cariño a Hana, la hija de su mejor amigo, pero antes de darse cuenta ella se ha convertido en una hermosa joven en plena adolescencia, y al parecer es una estudiante ejemplar muy popular en el instituto. De repente, Hana acude a él para consultarle algo relacionado con el sexo. Nervioso, la escucha y ella le confiesa que su libido es demasiado fuerte y no puede aguantarse. Le ruega que tengan una relación solo para aliviarla, y él termina iniciándola en su primera experiencia. A partir de ahí, las exigencias de Hana se vuelven cada vez más extremas y Tōru se deja arrastrar…</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1ssJkrz6CgSsZRj-PzNRVNw" type="text/html" title="Descargar" />
+<author><name>Aina Nano</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/04/The-Daughter-of-My-Close-Friend-Whom-Ive-Known-Since-Childhood-Is-Erotic-Only-Toward-Me.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-daughter-of-my-close-friend-is-erotic-only-toward-me-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-the-daughter-of-my-close-friend-is-erotic-only-toward-me-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>The Flawless Student Council President Is a M Freak!? Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-the-flawless-student-council-president-is-a-m-freak-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-flawless-student-council-president-is-a-m-freak-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/The-Flawless-Student-Council-President-Is-a-M-Freak-Portada.jpg" />
-<author><name>Takaha Shin</name></author>
-<category term="Hentai" label="Hentai"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">—Ya soy tu onahole personal, ¿vale?
 
 La presidenta del consejo estudiantil, fría como el hielo y perfecta hasta la médula: Iori Hyoudou. Pero debajo del uniforme… ¿¡lleva un leotardo de charol super erótico!? Desde que descubrí su secreto masoquista, ¡la senpai Iori se ha convertido en mi amante!
 
 Paja con guantes negros. Un irrumatio en el tren de camino a la escuela. Su primera vez con las piernas abiertas en M. Atada como un fardo y usada como un simple agujero. ¿Y el broche final? Una declaración de amor masoquista a gritos delante de todo el instituto, subida al escenario.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1mleG_VW3VoJqOTdT2WsjDg" type="text/html" title="Descargar" />
+<author><name>Takaha Shin</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/The-Flawless-Student-Council-President-Is-a-M-Freak-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-flawless-student-council-president-is-a-m-freak-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-the-flawless-student-council-president-is-a-m-freak-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>The Princess with a Cursed Sword is Very Lewd Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-the-princess-with-a-cursed-sword-is-very-lewd-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-princess-with-a-cursed-sword-is-very-lewd-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/The-Princess-with-a-Cursed-Sword-is-Very-Lewd-Portada.jpg" />
-<author><name>Yutaka Aohashi</name></author>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Hentai" label="Hentai"/>
 <content type="text">La pérdida de la virginidad soñada con Sheila, cuyo cuerpo se ha vuelto súper cachondo por la maldición de la espada demoníaca.
 
 «¡Eri, tonto! ¡Ya basta! ¡Por tu culpa me he corrido un montón de veces desde hace un rato! ¡Ay, me voy a correr otra vez, me voy a correr, me voy a correr!»
@@ -576,45 +495,38 @@ Los sentimientos de las tres se fundieron en uno solo, y Sheila voló hacia las 
 «¡Sheila, no me aprietes tanto!»
 
 «Las dos se ven muy felices».</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1_-ekP18MfJ1Vo4gKydqLaQ" type="text/html" title="Descargar" />
+<author><name>Yutaka Aohashi</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/The-Princess-with-a-Cursed-Sword-is-Very-Lewd-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-princess-with-a-cursed-sword-is-very-lewd-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-the-princess-with-a-cursed-sword-is-very-lewd-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>The Slave Elf Liberation War Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-the-slave-elf-liberation-war-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-slave-elf-liberation-war-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/The-Slave-Elf-Liberation-War-Portada.jpg" />
-<author><name>Hiroki Uchida</name></author>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Hentai" label="Hentai"/>
 <content type="text">«¡Eyacula dentro de tu onee-san!»
 
 Para quitar el collar maldito que sella su magia, la princesa caballero elfa Iris monta al príncipe Ted en la posición de vaquera. Aunque siempre había pensado en él como un hermano menor… su vínculo se profundiza mientras luchan juntos con todas sus fuerzas en diversas posiciones: la posición misionero, sexo oral y paja, la posición de vaquera inversa con amor mutuo, y sexo anal. ¡Después de derrotar al Imperio, celebran una boda para hacer bebés! Una crónica de la resistencia de los elfos esclavos.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1nsqMUeB6PARhLu79PjYoTw" type="text/html" title="Descargar" />
+<author><name>Hiroki Uchida</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/The-Slave-Elf-Liberation-War-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-slave-elf-liberation-war-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-the-slave-elf-liberation-war-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>The Strict and Cool Teacher is Aheboteochi! Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-the-strict-and-cool-teacher-is-aheboteochi-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-strict-and-cool-teacher-is-aheboteochi-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/The-Strict-and-Cool-Teacher-is-Aheboteochi-Portada.jpg" />
-<author><name>Honjou Yagi</name></author>
-<category term="Hentai" label="Hentai"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Kimishima Sōma está enamorado de una mujer. Se trata de Kazama Rion, profesora de la academia a la que asiste. Rion es una mujer de belleza severa: un cuerpo espléndido envuelto en un traje impecable, el pelo cortado a la altura de la nuca, los ojos alargados y afilados, una presencia que impone respeto.
 
 Sōma y Rion son vecinos, y ella lo ha cuidado desde que era pequeño. Tienen una relación casi de hermanos, pero Sōma alberga un amor profundo por ella. Dispuesto a arriesgarse, aparta el miedo a destruir lo que tienen y reúne el valor para escribirle una carta de amor. Pero la respuesta de Rion llega durante la reunión matutina, delante de todos los alumnos: rompe la carta en pedazos sin mediar palabra. No revela el nombre del remitente, pero la crueldad del gesto basta para demoler a Sōma.
 
 Incapaz de arrancarse el amor por Rion del pecho, Sōma acaba desahogándose entre lamentos con la consejera del club, Mizuki Hazuki. Ella lo escucha en silencio y, al terminar, le ofrece un comprimido. Es un suplemento que ella misma ha creado: tómalo y te volverás irresistible. Sōma desconfía, pero se lo traga. Al instante, un hormigueo anómalo le recorre la entrepierna. Baja la mirada y lo que ve es algo que ni él mismo reconoce: su miembro se ha hinchado hasta un tamaño monstruoso. Convencida de que se trata de un efecto secundario del fármaco, Hazuki alarga la mano hacia el pantalón de Sōma y…</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1B24Dj7TC7vZ1fualp6ozIg" type="text/html" title="Descargar" />
+<author><name>Honjou Yagi</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/The-Strict-and-Cool-Teacher-is-Aheboteochi-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-strict-and-cool-teacher-is-aheboteochi-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-the-strict-and-cool-teacher-is-aheboteochi-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>The Two Faces of Honor Student Ayaka Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-the-two-faces-of-honor-student-ayaka-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-two-faces-of-honor-student-ayaka-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/The-Two-Faces-of-Honor-Student-Ayaka-Portada.jpg" />
-<author><name>Uehara Ryou</name></author>
-<category term="Hentai" label="Hentai"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">También te encanta la Ayaka pervertida y lujuriosa, ¿verdad?
 
 Dentro de la seria, virginal y ejemplar Ayaka ha aparecido una personalidad oculta: ¡Ura-Ayaka, adicta al sexo!
@@ -628,16 +540,14 @@ Dentro de la seria, virginal y ejemplar Ayaka ha aparecido una personalidad ocul
 (Esto es un pene de verdad…)
 
 Ayaka, con una mezcla de sorpresa fresca y curiosidad, toca un miembro masculino auténtico. Es duro, como si tuviera un alma de hierro dentro…</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1aeiGKDCjWjugJzZJ-_GOFg" type="text/html" title="Descargar" />
+<author><name>Uehara Ryou</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/The-Two-Faces-of-Honor-Student-Ayaka-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-two-faces-of-honor-student-ayaka-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-the-two-faces-of-honor-student-ayaka-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>War Princess of the Coliseum Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-war-princess-of-the-coliseum-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-war-princess-of-the-coliseum-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/War-Princess-of-the-Coliseum-Portada.jpg" />
-<author><name>Wakatsuki Hikaru</name></author>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Hentai" label="Hentai"/>
 <content type="text">Scarlet, la elegida de la diosa de la guerra, ha sido capturada por un gran imperio y degradada a esclava gladiadora. Para devolver a la miserable princesa guerrera a su patria, el mensajero Gustav se lanza a una huida desesperada a vida o muerte.
 
 La flor más inalcanzable le ofrece su virginidad. Se hace pasar por prostituta para servirlo con el pecho, los labios, el trasero… Y sin darse cuenta, la princesa de la guerra se convierte en una esclava del amor.
@@ -657,6 +567,9 @@ Una noche de ensueño donde una princesa intocable es tratada como una puta y un
 La huida desesperada de dos cautivos lo convierte todo en un volcán: Scarlet y Gustav se gritan sus sentimientos sin reservas.
 
 —¡Córrete dentro, quiero tener a tu hijo… y hacerlo rey de Bastia!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Qk88MtInpp4cyxBYuBkZAw" type="text/html" title="Descargar" />
+<author><name>Wakatsuki Hikaru</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/War-Princess-of-the-Coliseum-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-war-princess-of-the-coliseum-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-war-princess-of-the-coliseum-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 </feed>

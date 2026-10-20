@@ -2,19 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:22f6afe62f</id>
 <title>Marawu Senpuuki</title>
-<updated>2026-10-20T20:38:42.060725+00:00</updated>
-<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-22f6afe62f.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<updated>2026-10-20T20:59:07.779206+00:00</updated>
+<link rel="self" href="https://opds-nextnovels-v2.consa963.workers.dev/catalogo/autores-22f6afe62f.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="start" href="https://opds-nextnovels-v2.consa963.workers.dev/" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
 <entry>
 <title>Kissing My Student, It’s Over if We’re Caught Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-kissing-my-student-its-over-if-were-caught-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-kissing-my-student-its-over-if-were-caught-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/05/Kissing-My-Student-Its-Over-if-Were-Caught-Portada.jpg" />
-<author><name>Marawu Senpuuki</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Tengo un encuentro secreto con mi estudiante…
 
 Mi relación secreta con Kirihara es algo que no puedo contarle a nadie. Comenzó cuando me asignaron como profesor a la preparatoria Morigawara. En la escuela, Kirihara es una seria presidenta del consejo estudiantil que se ha ganado la confianza de sus profesores, pero cuando está sola, es traviesa, malcriada y celosa. Los fines de semana, preparo comidas en su casa y juego con ella, mimándola como a una amante. No puedo negarme debido a mi debilidad, pero aunque creo que no es bueno, guardo secretos poco a poco cada día…
@@ -22,7 +15,9 @@ Mi relación secreta con Kirihara es algo que no puedo contarle a nadie. Comenz�
 «Siento que lo quiero, profesor, y he crecido mucho»
 
 Kirihara, que se enfrenta honestamente a sus sentimientos, se hace más fuerte con sus sentimientos reprimidos. Si alguien se enterara de nuestra relación, sería el fin…</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1WVgkwXfMvLsFsVRWZUq50A" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1-g62CoJRwwLiH7ujuPKpNQ" type="text/html" title="Descargar" />
+<author><name>Marawu Senpuuki</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/05/Kissing-My-Student-Its-Over-if-Were-Caught-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-kissing-my-student-its-over-if-were-caught-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-kissing-my-student-its-over-if-were-caught-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 </feed>

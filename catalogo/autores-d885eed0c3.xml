@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:d885eed0c3</id>
 <title>Kitty &amp; Spice</title>
-<updated>2026-10-20T20:38:42.051914+00:00</updated>
-<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-d885eed0c3.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<updated>2026-10-20T20:59:07.776205+00:00</updated>
+<link rel="self" href="https://opds-nextnovels-v2.consa963.workers.dev/catalogo/autores-d885eed0c3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="start" href="https://opds-nextnovels-v2.consa963.workers.dev/" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
 <entry>
 <title>A Fairy Tales for the Villains Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-a-fairy-tales-for-the-villains-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-a-fairy-tales-for-the-villains-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/A-Fairy-Tales-for-the-Villains-Portada.jpg" />
-<author><name>Kitty &amp; Spice</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Josei" label="Josei"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Romance" label="Romance"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">De alguna manera, me encontré reencarnada como una extra en una novela de harén inverso sumamente angustiante. Aunque era una muchacha campesina, mi familia gozaba de una posición relativamente acomodada gracias a que mi madre trabajaba como niñera para unos nobles bondadosos.
 
 El problema es que yo soy la "Reina de las Serpientes", la jefa final de la obra, aquella que manipula a su antojo a los villanos principales con los que creció y sumerge al imperio en la ruina.
@@ -24,6 +15,9 @@ El problema es que yo soy la "Reina de las Serpientes", la jefa final de la obra
 El otoño en que mi madre falleció fue el mismo año en que el imperio cayó en el caos. Debido a problemas de herencia y asuntos de adultos, los nobles a quienes mi madre servía me encarcelaron junto con los hijos del Duque, ocultándonos en una parte secreta de la mansión.
 
 Los detalles de nuestros 700 días de encarcelamiento están ausentes en la novela, así que no tengo más remedio que sobrevivir con mi propio ingenio. Mis pequeños villanos y yo, juntos como uno solo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1KwJ2CwXerG-zZbgt7njvRg" type="text/html" title="Descargar" />
+<author><name>Kitty &amp; Spice</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/A-Fairy-Tales-for-the-Villains-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-a-fairy-tales-for-the-villains-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-a-fairy-tales-for-the-villains-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 </feed>

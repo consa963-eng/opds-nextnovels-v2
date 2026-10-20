@@ -2,19 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:33bf76efb1</id>
 <title>Pei Buliao</title>
-<updated>2026-10-20T20:38:42.080840+00:00</updated>
-<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-33bf76efb1.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<updated>2026-10-20T20:59:07.786438+00:00</updated>
+<link rel="self" href="https://opds-nextnovels-v2.consa963.workers.dev/catalogo/autores-33bf76efb1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="start" href="https://opds-nextnovels-v2.consa963.workers.dev/" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
 <entry>
 <title>Young Noble Be Monster Slaying Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-young-noble-be-monster-slaying-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-young-noble-be-monster-slaying-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/01/Young-Noble-Be-Monster-Slaying-Portada.jpg" />
-<author><name>Pei Buliao</name></author>
-<category term="Artes marciales" label="Artes marciales"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Xianxia" label="Xianxia"/>
 <content type="text">En un imponente mundo mortal donde existen las sectas inmortales de los Nueve Divinos y los Diez Terrestres...
 
 El mundo es hermoso y está lleno de tentaciones, pero los cultivadores las ignoran y trabajan alegremente para convertirse en inmortales.
@@ -26,6 +19,9 @@ Mientras la niebla de la mañana se eleva sobre los treinta y seis picos del Mon
 ¡Está matando dragones a ocho mil li de distancia! ...
 
 “¡Por favor, joven noble, mata a los monstruos!”</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1_08E6_7KA0TZeXEmfSxa6g" type="text/html" title="Descargar" />
+<author><name>Pei Buliao</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/01/Young-Noble-Be-Monster-Slaying-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-young-noble-be-monster-slaying-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-young-noble-be-monster-slaying-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 </feed>

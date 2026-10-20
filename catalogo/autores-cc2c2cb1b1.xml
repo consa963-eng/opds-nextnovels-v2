@@ -2,22 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:cc2c2cb1b1</id>
 <title>Natsu Hyuuga</title>
-<updated>2026-10-20T20:38:42.074884+00:00</updated>
-<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-cc2c2cb1b1.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<updated>2026-10-20T20:59:07.784263+00:00</updated>
+<link rel="self" href="https://opds-nextnovels-v2.consa963.workers.dev/catalogo/autores-cc2c2cb1b1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="start" href="https://opds-nextnovels-v2.consa963.workers.dev/" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
 <entry>
 <title>The Apothecary Diaries Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-the-apothecary-diaries-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-apothecary-diaries-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/09/01-112.jpg" />
-<author><name>Natsu Hyuuga</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Histórico" label="Histórico"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
 <content type="text">Maomao vive felizmente con su padre boticario, hasta que es secuestrada y vendida al servicio del palacio. Aunque parece normal, tiene un ingenio rápido, una mente aguda y un amplio conocimiento de la medicina. Ese es su secreto, hasta que se encuentra con un residente del palacio al menos tan perspicaz como ella.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Jui6KPEdeTUChmhHLiYWKA" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/14MclVbFjIhjKnEMaOFSHqQ" type="text/html" title="Descargar" />
+<author><name>Natsu Hyuuga</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/09/01-112.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-apothecary-diaries-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-the-apothecary-diaries-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 </feed>

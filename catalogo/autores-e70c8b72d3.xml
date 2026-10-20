@@ -2,17 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:e70c8b72d3</id>
 <title>Pu Yu Yu Yue Liang</title>
-<updated>2026-10-20T20:38:42.081526+00:00</updated>
-<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-e70c8b72d3.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<updated>2026-10-20T20:59:07.786629+00:00</updated>
+<link rel="self" href="https://opds-nextnovels-v2.consa963.workers.dev/catalogo/autores-e70c8b72d3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="start" href="https://opds-nextnovels-v2.consa963.workers.dev/" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
 <entry>
 <title>On My Way Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-on-my-way-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-on-my-way-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/On-My-Way-Portada.jpg" />
-<author><name>Pu Yu Yu Yue Liang</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
 <content type="text">Mi primer amor surgió en el mercado de verduras. Él era un estudiante brillante que acompañaba a su madre a comprar comestibles, mientras que yo era una chica que se ganaba la vida recogiendo chatarra. Lo perseguí durante catorce largos años. Desde un pequeño pueblo nevado del noreste de China hasta una bulliciosa metrópolis junto al mar.
 
 Desde ser una operaria en la cadena de montaje hasta usar mi salario anual para pagar el anticipo de un departamento en una ciudad de primer nivel. Finalmente, el día que conseguí lo que quería, él me dijo:
@@ -22,6 +17,9 @@ Desde ser una operaria en la cadena de montaje hasta usar mi salario anual para 
 Así que se convirtió en la inalcanzable "luz de luna" de mi corazón.
 
 —Pero, ¿qué podemos hacer? —dijo con amargura—. Te amo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1rlEiwrWDJFjP1k6I2B7b-A" type="text/html" title="Descargar" />
+<author><name>Pu Yu Yu Yue Liang</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/On-My-Way-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-on-my-way-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-on-my-way-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 </feed>

@@ -2,20 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:70e43cb3dd</id>
 <title>Bakufu Narayama</title>
-<updated>2026-10-20T20:38:42.012939+00:00</updated>
-<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-70e43cb3dd.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<updated>2026-10-20T20:59:07.739704+00:00</updated>
+<link rel="self" href="https://opds-nextnovels-v2.consa963.workers.dev/catalogo/autores-70e43cb3dd.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="start" href="https://opds-nextnovels-v2.consa963.workers.dev/" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
 <entry>
 <title>The Condemned Villainess Aims to Become the Ultimate Villain Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-the-condemned-villainess-aims-to-become-the-ultimate-villain-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-condemned-villainess-aims-to-become-the-ultimate-villain-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/The-Condemned-Villainess-Aims-to-Become-the-Ultimate-Villain-Portada.jpg" />
-<author><name>Bakufu Narayama</name></author>
-<category term="Adulto" label="Adulto"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Shoujo" label="Shoujo"/>
 <content type="text">Claudia, hija de un duque, es engañada por su malvada hermanastra y vendida a un burdel. Reacia a aceptar la derrota, Claudia aprovecha los recursos a su alcance y se convierte en una de las trabajadoras sexuales más exitosas de su nuevo hogar.
 
 ¡Es entonces cuando muere... solo para ser transportada en el tiempo hasta los catorce años!
@@ -23,6 +15,9 @@
 Atrás quedó la chica ingenua de sus días en la academia, ahora que ha adquirido astucia callejera y habilidades seductoras ganadas a pulso.
 
 ¡Es el turno de Claudia de interpretar a la malvada villana, y no hay nada que no esté dispuesta a hacer para proteger lo que es suyo!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Kxtpff1CbEQTfp2DZDZWwQ" type="text/html" title="Descargar" />
+<author><name>Bakufu Narayama</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/The-Condemned-Villainess-Aims-to-Become-the-Ultimate-Villain-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-condemned-villainess-aims-to-become-the-ultimate-villain-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-the-condemned-villainess-aims-to-become-the-ultimate-villain-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 </feed>

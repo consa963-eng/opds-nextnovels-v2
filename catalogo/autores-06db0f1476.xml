@@ -2,26 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:06db0f1476</id>
 <title>Toyozo Okamura</title>
-<updated>2026-10-20T20:38:42.110054+00:00</updated>
-<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-06db0f1476.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<updated>2026-10-20T20:59:07.806761+00:00</updated>
+<link rel="self" href="https://opds-nextnovels-v2.consa963.workers.dev/catalogo/autores-06db0f1476.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="start" href="https://opds-nextnovels-v2.consa963.workers.dev/" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
 <entry>
 <title>Love &amp; Magic Academy Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-love-magic-academy-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-love-magic-academy-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/04/Love-Magic-Academy-Portada.jpg" />
-<author><name>Toyozo Okamura</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">¡Estudiante de día, aventurera de noche!
 
 Aquí estoy, reencarnado en el mundo de Love &amp; Magic Academy, un juego otome con elementos de RPG, y soy uno de los intereses amorosos: el guay Arius con gafas. Espera, espera. Lo que significa que... ¡¿voy a ser arrastrada a las escenas románticas como en el juego?! Pero tengo cero interés en el romance. Y este mundo no se trata sólo de escenas románticas. Tiene magia y monstruos, y puedes subir tus estadísticas buceando por las mazmorras. Como no me interesan los romances, voy a empezar entrenando y aumentando mis estadísticas con la espada y la magia, y luego me adentraré en las mazmorras, aplastando a innumerables monstruos por el camino. Allá voy, ignorando las escenas románticas mientras me sumerjo en las mazmorras para hacerme más fuerte.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1sGkcOXYxXQSeZl8FxCuHzw" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1n8qK5I_R_bjU07yy9OCyXQ" type="text/html" title="Descargar" />
+<author><name>Toyozo Okamura</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/04/Love-Magic-Academy-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-love-magic-academy-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-love-magic-academy-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 </feed>

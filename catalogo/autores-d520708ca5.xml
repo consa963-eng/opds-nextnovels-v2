@@ -2,19 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:d520708ca5</id>
 <title>Brown Panda</title>
-<updated>2026-10-20T20:38:42.013433+00:00</updated>
-<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-d520708ca5.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<updated>2026-10-20T20:59:07.763752+00:00</updated>
+<link rel="self" href="https://opds-nextnovels-v2.consa963.workers.dev/catalogo/autores-d520708ca5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="start" href="https://opds-nextnovels-v2.consa963.workers.dev/" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
 <entry>
 <title>My Mom is my Constellation Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-my-mom-is-my-constellation-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-my-mom-is-my-constellation-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/My-Mom-is-my-Constellation-Portada.jpg" />
-<author><name>Brown Panda</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
 <content type="text">Tras la muerte, regresé milagrosamente al pasado, pero ahora eso no es lo importante.
 
 [¡La constelación "Seong Hyun-suk" envía un patrocinio a "Mi hijo♡"!]
@@ -24,6 +17,9 @@
 —¿Eh? ¿Mamá?
 
 Resulta que mi madre, que falleció hace mucho tiempo, es mi constelación.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1pwFf7Cn3SfjP3XIkDfsHmQ" type="text/html" title="Descargar" />
+<author><name>Brown Panda</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/My-Mom-is-my-Constellation-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-my-mom-is-my-constellation-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-my-mom-is-my-constellation-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 </feed>

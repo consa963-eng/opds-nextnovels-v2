@@ -2,24 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:b86e879319</id>
 <title>Takumi Toyoda</title>
-<updated>2026-10-20T20:38:42.104355+00:00</updated>
-<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-b86e879319.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<updated>2026-10-20T20:59:07.805430+00:00</updated>
+<link rel="self" href="https://opds-nextnovels-v2.consa963.workers.dev/catalogo/autores-b86e879319.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="start" href="https://opds-nextnovels-v2.consa963.workers.dev/" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
 <entry>
 <title>Rail Wars! Novela Ligera en Español</title>
 <id>https://nextnovels.com/rail-wars-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/rail-wars-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/04/Rail-Wars-Portada.jpg" />
-<author><name>Takumi Toyoda</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Harem" label="Harem"/>
-<category term="Romance" label="Romance"/>
 <content type="text">Tiene lugar en una versión alterna de Japón donde el sistema nacional de vías férreas nunca fue privatizado. Naoto Takayama es un estudiante de secundaria ordinario quien aspira a una vida cómoda trabajando en Japanese National Railways. Él termina trabajando como un aprendiz del Cuerpo de Seguridad Pública, donde él en contra de su voluntad tiene que lidiar con sus extraños colegas y a la vez con RJ, un grupo de extremistas que pelea por privatizar las vías férreas.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F187tTFVm_bsS8_pIvR337XA&amp;fs_id=245549169670159&amp;name=Rail+Wars%21+-+Volumen+05+%5BBtoomT%5D.pdf" type="application/pdf" title="Rail Wars! - Volumen 05 [BtoomT].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F187tTFVm_bsS8_pIvR337XA&amp;fs_id=1033463655428728&amp;name=Rail+Wars%21+-+Volumen+04+%5BBtoomT%5D.pdf" type="application/pdf" title="Rail Wars! - Volumen 04 [BtoomT].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F187tTFVm_bsS8_pIvR337XA&amp;fs_id=218741814944475&amp;name=Rail+Wars%21+-+Volumen+03+%5BBtoomT%5D.pdf" type="application/pdf" title="Rail Wars! - Volumen 03 [BtoomT].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F187tTFVm_bsS8_pIvR337XA&amp;fs_id=466827115362586&amp;name=Rail+Wars%21+-+Volumen+02+%5BBtoomT%5D.pdf" type="application/pdf" title="Rail Wars! - Volumen 02 [BtoomT].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F187tTFVm_bsS8_pIvR337XA&amp;fs_id=266251751265352&amp;name=Rail+Wars%21+-+Volumen+01+%5BBtoomT%5D.pdf" type="application/pdf" title="Rail Wars! - Volumen 01 [BtoomT].pdf" />
+<author><name>Takumi Toyoda</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/04/Rail-Wars-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/rail-wars-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Frail-wars-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 </feed>

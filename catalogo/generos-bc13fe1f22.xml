@@ -2,22 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:generos:bc13fe1f22</id>
 <title>Tragedia</title>
-<updated>2026-10-20T20:38:42.244805+00:00</updated>
-<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-bc13fe1f22.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<updated>2026-10-20T20:59:07.874795+00:00</updated>
+<link rel="self" href="https://opds-nextnovels-v2.consa963.workers.dev/catalogo/generos-bc13fe1f22.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="start" href="https://opds-nextnovels-v2.consa963.workers.dev/" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
 <entry>
 <title>86 (Eighty Six) Novela Ligera en Español</title>
 <id>https://nextnovels.com/86-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/86-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2021/12/86-e1641220488949.jpg" />
-<author><name>Asato Asato</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Drama" label="Drama"/>
-<category term="Mecha" label="Mecha"/>
-<category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">La República de San Magnolia.
 
 Durante muchos años este país estuvo bajo ataque por el Imperio, quien creó unos innovadores vehículos militares no tripulados llamados Legión. En respuesta a los ataques, La República desarrollo con éxito una tecnología parecida, ayudando a retener el ataque enemigo, y lo más importante, sin ninguna muerte. ¿Pero es eso verdad? En esta versión oficial, sí hubo víctimas.
@@ -27,24 +17,14 @@ En las afueras de los 85 sectores de la República, "El inexistente Sector 86", 
 Shin, lider del escuadrón 86. Lena, "Handler" quien dirige a distancia al escuadrón desde la retaguardia mediante tecnología de comunicación especial.
 
 ¡Comienza la bélica historia de la lucha de estos dos personajes!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1LxhEx1hZY9nOc9k-ERlzsA" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1qzVfwq7qZJ-tF_PhIe-hYw" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1lCiih0mP1-l9NxaBYyAHFQ" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1kiWQzI8LD7dEoisSIdr6oQ" type="text/html" title="Descargar" />
+<author><name>Asato Asato</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2021/12/86-e1641220488949.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/86-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2F86-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>A Fairy Tales for the Villains Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-a-fairy-tales-for-the-villains-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-a-fairy-tales-for-the-villains-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/A-Fairy-Tales-for-the-Villains-Portada.jpg" />
-<author><name>Kitty &amp; Spice</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Josei" label="Josei"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Romance" label="Romance"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">De alguna manera, me encontré reencarnada como una extra en una novela de harén inverso sumamente angustiante. Aunque era una muchacha campesina, mi familia gozaba de una posición relativamente acomodada gracias a que mi madre trabajaba como niñera para unos nobles bondadosos.
 
 El problema es que yo soy la "Reina de las Serpientes", la jefa final de la obra, aquella que manipula a su antojo a los villanos principales con los que creció y sumerge al imperio en la ruina.
@@ -52,20 +32,14 @@ El problema es que yo soy la "Reina de las Serpientes", la jefa final de la obra
 El otoño en que mi madre falleció fue el mismo año en que el imperio cayó en el caos. Debido a problemas de herencia y asuntos de adultos, los nobles a quienes mi madre servía me encarcelaron junto con los hijos del Duque, ocultándonos en una parte secreta de la mansión.
 
 Los detalles de nuestros 700 días de encarcelamiento están ausentes en la novela, así que no tengo más remedio que sobrevivir con mi propio ingenio. Mis pequeños villanos y yo, juntos como uno solo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1KwJ2CwXerG-zZbgt7njvRg" type="text/html" title="Descargar" />
+<author><name>Kitty &amp; Spice</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/A-Fairy-Tales-for-the-Villains-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-a-fairy-tales-for-the-villains-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-a-fairy-tales-for-the-villains-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>A Way To Protect You, Sweetheart Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-a-way-to-protect-you-sweetheart-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-a-way-to-protect-you-sweetheart-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/09/A-Way-To-Protect-You-Sweetheart-Portada.jpg" />
-<author><name>Drug Jelly</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Romance" label="Romance"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">Finalmente, era su primera noche.
 
 Leticia susurró, apoyando su frente contra su pecho.
@@ -83,52 +57,34 @@ Así que ella no sabía lo mucho que su rostro estaba distorsionado por sus pala
 —Solo tienes que aguantarme medio año. Entonces, me divorciaré de ti como quieras.
 
 Al oír la palabra "divorcio", él apretó los dientes.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1DKYjbQTuQFvwzfU3EQkN-A" type="text/html" title="Descargar" />
+<author><name>Drug Jelly</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/09/A-Way-To-Protect-You-Sweetheart-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-a-way-to-protect-you-sweetheart-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-a-way-to-protect-you-sweetheart-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Alliance of the 15s Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-alliance-of-the-15s-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-alliance-of-the-15s-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/Alliance-of-the-15s-Portada.jpg" />
-<author><name>Hiroshi Ishikawa</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">Ryoichi, un joven de 15 años de edad conoce a Naomi, una adolescente quien por medio de su amigo de la infancia, Tetsuya, el As del equipo de béisbol de su escuela, está luchando contra una enfermedad que amenaza su vida.
 
 Mientras Ryoichi se empieza a acercar a Naomi, ella abre sus miedos y secretos hacia él, haciendo que Ryoichi cuide también de ella. Pero un día, cuando él la visita en el hospital, ella de repente le pregunta: "¿Por qué no nos suicidamos?"</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/14jbrgADLfmgkMY4qu89UYA" type="text/html" title="Descargar" />
+<author><name>Hiroshi Ishikawa</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/Alliance-of-the-15s-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-alliance-of-the-15s-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-alliance-of-the-15s-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Ameku M.D.: Doctor Detective Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-ameku-m-d-doctor-detective-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-ameku-m-d-doctor-detective-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/04/Ameku-MD-Doctor-Detective-Portada1.jpg" />
-<author><name>Mikito Chinen</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">La Dra. Takao Ameku es la brillante pero excéntrica directora de patología investigativa del Hospital General Tenikai, encargada de diagnosticar a los pacientes que los demás departamentos del hospital no pueden. Sin embargo, debido a su pasión por resolver misterios, Takao también se ve envuelta en muertes misteriosas y asesinatos, arrastrando a su asistente Yu Takanashi a sus diversas aventuras.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1JKKcLqsgRGBWlaK15pVcAA" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1JWtsFTEl8go_nqcCJaJf8w" type="text/html" title="Descargar" />
+<author><name>Mikito Chinen</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/04/Ameku-MD-Doctor-Detective-Portada1.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-ameku-m-d-doctor-detective-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-ameku-m-d-doctor-detective-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Apocalypse Witch Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-apocalypse-witch-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-apocalypse-witch-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/06/Apocalypse-Witch-Portada.jpg" />
-<author><name>Kamachi Kazuma</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Harem" label="Harem"/>
-<category term="Tragedia" label="Tragedia"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Nueva magia y magia antigua. ¡Una fantasía escolar de batalla sobre el título del más fuerte inicia aquí! La Magia de Cristal es la tecnología mágica de última generación. Cubrir tu cuerpo entero con una armadura de flor de cristal puede producir una variedad de fenómenos sobrenaturales. Pero debido a un error, Utagai Karuta no recibió esa armadura especial y en su lugar recibió poder al invocar a la obediente chica de cristal Aine.
 
 “Sacri-sama, ¿Cuánto tiempo va a burlarse de mí? A este ritmo, voy a entrar en una fase rebelde.”
@@ -138,74 +94,45 @@ Mientras Ryoichi se empieza a acercar a Naomi, ella abre sus miedos y secretos h
 Pero en la Academia Oceánica de Magia de Cristal Grimnoah, donde Karuta y todos aprenden magia de cristal, un superior de una generación anterior ha sido llamado como invitado. Esa usuaria de Magia de Adoración de Dios es conocida como al más fuerte del mundo, y subió al podio y le habló a todo el cuerpo estudiantil. Esto inicio un enfrentamiento entre las fuerzas de la magia nueva y la magia antigua.
 
 “Todos y cada uno de ustedes es incompetente. Por lo tanto, Grimnoah será cerrada.”</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1hHbeIbA21LWFJOwKxRkBQA" type="text/html" title="Descargar" />
+<author><name>Kamachi Kazuma</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/06/Apocalypse-Witch-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-apocalypse-witch-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-apocalypse-witch-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Banana Fish Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-banana-fish-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-banana-fish-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/Banana-Fish-Portada.jpg" />
-<author><name>Miku Ogasawara</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Drama" label="Drama"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Shounen" label="Shounen"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">Banana Fish está ambientada en Estados Unidos a mediados de la década de 1980, principalmente en la ciudad de Nueva York. Ash Lynx, un líder de una banda callejera de diecisiete años, cuida de su hermano mayor, Griffin, un veterano de la guerra de Vietnam que quedó en estado vegetativo tras un traumático incidente de combate en el que disparó contra su propio escuadrón y pronunció las palabras «banana fish».</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1bCzHEpsiG8JZs_Tkhmq77Q" type="text/html" title="Descargar" />
+<author><name>Miku Ogasawara</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/Banana-Fish-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-banana-fish-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-banana-fish-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Beacon of Light in the Dark Sea Novela en Español</title>
 <id>https://nextnovels.com/descargar-beacon-of-light-in-the-dark-sea-novela-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-beacon-of-light-in-the-dark-sea-novela-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/Beacon-of-Light-in-the-Dark-Sea-Portada.jpg" />
-<author><name>Yeon Sanho/Softcoral</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Shounen" label="Shounen"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">La historia del intento de un hombre por sobrevivir bajo el mar en medio de la locura y el caos. ¡La exitosa novela coreana por fin está disponible en inglés en formato impreso!
 
 La sed de recursos de la humanidad nos ha llevado a donde nunca debimos ir: a las profundidades de una oscuridad aplastante. La Estación Submarina Internacional del Pacífico Norte es un laberinto sumergido de laboratorios, plataformas mineras y estrechos alojamientos a los que nunca llega la luz del sol.
 
 Muhyeon, dentista de profesión, se une a la estación esperando un trabajo rutinario, pero el silencio inquietante y el comportamiento cada vez más inestable de la tripulación pronto le demuestran que está equivocado. Desde lo peculiar hasta lo perturbador, cada encuentro hace que sea imposible ignorar una verdad: el peligro no está fuera de la estación, ya está aquí.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/12D2k-e0JwWUwLS1PpxpoKw" type="text/html" title="Descargar" />
+<author><name>Yeon Sanho/Softcoral</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/Beacon-of-Light-in-the-Dark-Sea-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-beacon-of-light-in-the-dark-sea-novela-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-beacon-of-light-in-the-dark-sea-novela-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Bullet Hellion Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-bullet-hellion-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-bullet-hellion-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/Bullet-Hellion-Portada.jpg" />
-<author><name>Midorimamesora</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">El otaku militar Takayama Junya creyó que su vida había terminado después de recibir un disparo de un arma real durante un torneo de paintball en Estados Unidos. Pero de pronto se encuentra reencarnado en otro mundo como el joven noble Raúl. Ahora, con una habilidad especial que le permite invocar a voluntad las armas de fuego que tanto ama, Raúl está ansioso por comenzar una nueva vida llena de entrenamiento de combate y raciones de campaña. ‎ ‎Sin embargo, cuando una nación enemiga invade su hogar y mata a su padre, la madre de Raúl revela la sorprendente verdadera naturaleza del chico. ¡Depende de Raúl y de sus nuevos camaradas lanzar un contraataque, con todas las armas disparando!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1kZ5m7vIl6OJfephwDy7CcQ" type="text/html" title="Descargar" />
+<author><name>Midorimamesora</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/Bullet-Hellion-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-bullet-hellion-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-bullet-hellion-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Confined Together with the Horror Game’s Male Lead Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-confined-together-with-the-horror-games-male-lead-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-confined-together-with-the-horror-games-male-lead-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/08/Confined-Together-with-the-Horror-Games-Male-Lead-Portada.jpg" />
-<author><name>Flangby</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Horror" label="Horror"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Romance" label="Romance"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">Me convertí en sirvienta en un juego de terror.
 
 Y aquí, en esta mansión, estaba confinada junto con el protagonista masculino, que está tratando de escapar. Mi papel aquí era guiarlo por la mansión y aplicarle penalizaciones de vez en cuando.
@@ -254,19 +181,15 @@ Mientras decía esto, la mirada en sus ojos se oscureció bruscamente.
 
 —Y tú tampoco te irás.
 
-¿Cómo diablos llegó a esto?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1zoGkrT6sEX5svJG9GhJNvw" type="text/html" title="Descargar" />
+¿Cómo diablo</content>
+<author><name>Flangby</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/08/Confined-Together-with-the-Horror-Games-Male-Lead-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-confined-together-with-the-horror-games-male-lead-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-confined-together-with-the-horror-games-male-lead-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Drowning in Summer Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-drowning-in-summer-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-drowning-in-summer-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/04/Drowning-in-Summer-Portada-1.jpg" />
-<author><name>Aoba Yori</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">Los dieciocho años, el verano en que todo terminó, y también el verano en el que tomé la decisión de matar a alguien.
 
 —Maté a mi madre. El 24 de agosto, después de finalizar las vacaciones de verano, Yonagi Rin escuchó esta impactante confesión de su excompañero de clase, Natsuno Hikaru.
@@ -275,46 +198,26 @@ El encuentro entre ambos se remontaba a un verano, un año y un mes atrás. En a
 
 Rin y Hikaru, quienes compartían intereses similares como novelas y películas, comenzaron a entablar una amistad que se fue profundizando a través de mensajes en LINE. Pronto, Rin descubrió que Hikaru sufría por la relación con sus padres. Aunque la propia Rin había decidido abandonar los estudios por sus propios conflictos interpersonales, después de medio año de ausencia, reinició sus clases en abril como estudiante de segundo año. Sin embargo, la mañana de la ceremonia de inicio de clases, después del verano, Hikaru aguardaba en el aparcamiento de bicicletas a que Rin llegara. Allí, le confesó que había matado a su madre y la arrastró consigo a un viaje de fuga.
 
-Ante la pregunta de Rin sobre qué harían después, Hikaru le propuso un juego: durante los siete días restantes de agosto, tendrían que turnarse para matar cada día a una persona que desearan eliminar...
-
-Dos almas sin rumbo, convertidas en armas. Una prosa de sensibilidad fresca que retrata el peligroso lado de la juventud.
-
-Obra galardonada con el 18º Premio de Novela Ligera de Shogakukan.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/17lA6EwYIw-w1azgiY1Lmrw" type="text/html" title="Descargar" />
+Ante la pregunta de Rin sobre qué harían después, Hikaru le propuso un juego: durante los siete días restantes</content>
+<author><name>Aoba Yori</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/04/Drowning-in-Summer-Portada-1.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-drowning-in-summer-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-drowning-in-summer-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>DUNGEON DIVE Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-dungeon-dive-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-dungeon-dive-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/DUNGEON-DIVE-Portada.jpg" />
-<author><name>Tarisa</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">Un chico normal y corriente llamado Aikawa Kanami acaba en un mundo de fantasía que funciona según las reglas de los videojuegos de rol, pero esto no es precisamente una buena noticia. Despierta en las entrañas de una gigantesca trampa mortal llamada «la Mazmorra». Tras escapar por los pelos gracias a su determinación, astucia y su nuevo arsenal de hechizos y habilidades mágicas, lo único que desea es volver a casa, a la Tierra, con su hermana discapacitada, que le necesita. ¿Su única pista? Se dice que quien consiga llegar al centésimo y último nivel verá cumplido cualquier deseo.
 
 En su desesperación, Kanami idea la forma más eficaz de superar la Mazmorra y, con una serie de mentiras, se gana una alianza de conveniencia con un aspirante a espadachín que es un desastre con la espada, pero increíblemente hábil con la magia. Sin embargo, la fría determinación de Kanami pronto se pone a prueba cuando él y su nuevo compañero se enfrentan a una batalla sorpresa contra un jefe. ¿Hasta dónde llegará para salir victorioso? ¡Descúbrelo en el primer volumen de esta querida y longeva serie!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1H4In-TRpua7rpvZjfcauRA" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1YwKfA0w3JJa4BIliPZqWwQ" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1PnRQjIL25XYRAGIX0PPDOQ" type="text/html" title="Descargar" />
+<author><name>Tarisa</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/DUNGEON-DIVE-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-dungeon-dive-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-dungeon-dive-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Even though I was kicked out of the Brave Party, I came to be invincible with the EX skill [Fixed Damage] Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-even-though-i-was-kicked-out-of-the-brave-party-i-came-to-be-invincible-with-the-ex-skill-fixed-damage-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-even-though-i-was-kicked-out-of-the-brave-party-i-came-to-be-invincible-with-the-ex-skill-fixed-damage-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/Even-though-I-was-kicked-out-of-the-Brave-Party-I-came-to-be-invincible-with-the-EX-skill-Fixed-Damage-Portada.jpg" />
-<author><name>Rokushima Asa</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">Yuno, un héroe y su mejor amigo, Irina, una sacerdotisa y su amante ...
 
 El mago Chrome creía que todos los miembros del grupo valiente eran compañeros insustituibles, pero eso fue un error.
@@ -324,21 +227,14 @@ El mago Chrome creía que todos los miembros del grupo valiente eran compañeros
 Lo que le queda a Chrome, quien ha sido traicionado por su amante, despojado de todos sus poderes mágicos y desterrado del grupo, es "oscuridad". Fue solo eso.
 
 Empecemos con la venganza.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1FAUkuANanERHzS4iRxYxuA" type="text/html" title="Descargar" />
+<author><name>Rokushima Asa</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/Even-though-I-was-kicked-out-of-the-Brave-Party-I-came-to-be-invincible-with-the-EX-skill-Fixed-Damage-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-even-though-i-was-kicked-out-of-the-brave-party-i-came-to-be-invincible-with-the-ex-skill-fixed-damage-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-even-though-i-was-kicked-out-of-the-brave-party-i-came-to-be-invincible-with-the-ex-skill-fixed-damage-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Even though I was kicked out of the Brave Party, I came to be invincible with the EX skill [Fixed Damage] Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-even-though-i-was-kicked-out-of-the-brave-party-i-came-to-be-invincible-with-the-ex-skill-fixed-damage-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-even-though-i-was-kicked-out-of-the-brave-party-i-came-to-be-invincible-with-the-ex-skill-fixed-damage-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/Even-though-I-was-kicked-out-of-the-Brave-Party-I-came-to-be-invincible-with-the-EX-skill-Fixed-Damage-Portada.jpg" />
-<author><name>Rokushima Asa</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">Yuno, un héroe y su mejor amigo, Irina, una sacerdotisa y su amante ...
 
 El mago Chrome creía que todos los miembros del grupo valiente eran compañeros insustituibles, pero eso fue un error.
@@ -348,84 +244,47 @@ El mago Chrome creía que todos los miembros del grupo valiente eran compañeros
 Lo que le queda a Chrome, quien ha sido traicionado por su amante, despojado de todos sus poderes mágicos y desterrado del grupo, es "oscuridad". Fue solo eso.
 
 Empecemos con la venganza.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/14m3NG1k_xP_HGX4oWu11HA" type="text/html" title="Descargar" />
+<author><name>Rokushima Asa</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/Even-though-I-was-kicked-out-of-the-Brave-Party-I-came-to-be-invincible-with-the-EX-skill-Fixed-Damage-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-even-though-i-was-kicked-out-of-the-brave-party-i-came-to-be-invincible-with-the-ex-skill-fixed-damage-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-even-though-i-was-kicked-out-of-the-brave-party-i-came-to-be-invincible-with-the-ex-skill-fixed-damage-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Fate/Zero Novela Ligera en Español</title>
 <id>https://nextnovels.com/fate-zero-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/fate-zero-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-19.jpg" />
-<author><name>Gen Urobuchi</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">Guerra del Santo Grial - Persiguiendo el poder del "Santo Grial" que concede un milagro, es un concurso en el que siete magos convocan a siete Espíritus Heroicos para competir por él. En esa batalla, cuya conclusión se pospuso tres veces, ahora, la cuarta guerra comenzó de nuevo.
 
 Confiando en su más querido deseo de victoria, los magos se unieron al campo de batalla llamado "Fuyuki", pero entre ellos, había un hombre que siempre estaba solo, y no podía encontrar el significado de sus luchas. Su nombre era Kotomine Kirei. Sin comprender la guía del destino, Kirei estaba perdido, y había seguido cuestionándose. Por qué alguien como él recibió los Command Seals. Sin embargo, el destino de sus peleas se cruzó en el camino de Kirei con un némesis por casualidad. Esa persona es - Emiya Kiritsugu. Un hombre que era más severo que nadie, más despiadado que nadie, y que buscaba el milagro del Santo Grial.
 
 Recitada en fragmentos en Destino/Noche de Estancia, esta es la Cuarta Guerra del Santo Grial de hace 10 años. La verdad que se reveló tras la batalla entre el padre adoptivo de Shirō, el padre de Rin, y el joven Kotomine Kirei, se revela finalmente......</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1rjXc_yKr2bg6eTkPwLXbAg" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1vZVkJmg0kYMIdz1-x7bSSw" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/lord-el-melloi-ii-case-files-novela-ligera-en-espanol/" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fate-apocrypha-novela-ligera-en-espanol/" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fate-strange-fake-novela-ligera-en-espanol/" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/fate-lost-einherjar-novela-ligera-en-espanol/" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fate-requiem-novela-ligera-en-espanol/" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fate-prototype-novela-ligera-en-espanol/" type="text/html" title="Descargar" />
+<author><name>Gen Urobuchi</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-19.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/fate-zero-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Ffate-zero-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>FullMetal Alchemist Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-fullmetal-alchemist-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-fullmetal-alchemist-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-23.jpg" />
-<author><name>Makoto Inoue</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Shounen" label="Shounen"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">Tras perder a su madre, Alphonse y Edward Elric tratan de revivirla usando la ciencia prohibida de la alquimia humana. Sin embargo, la alquimia opera bajo la teoría del cambio equivalente y romper el tabú de la alquimia humana acarrea un alto precio. Ed pierde una de sus piernas y Al su cuerpo. Ed logra sellar el alma de Al dentro de una gran armadura, a costa de su brazo. Años después, Ed (ahora con dos extremidades mecánicas) y Al (aún atrapado en la armadura) dejan su casa de la niñez, cada uno preocupado por la felicidad del otro. Ed, quien tuvo un talento y habilidad natural para la alquimia, se convierte en un alquimista con certificado nacional y pronto es conocido en todas partes como “El Alquimista de Acero”. El verdadero objetivo de ambos hermanos es buscar cualquier información sobre la legendaria Piedra Filosofal, con la esperanza de que ésta les permita recobrar sus cuerpos.
 
 Nota: Esta serie de novelas son historias alternas, así que pueden empezar desde el volumen 1.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/17MKNdtibz8VOJQDg-K_aRw" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Dz2LDhK-HddQPKsdIx9uqQ" type="text/html" title="Descargar" />
+<author><name>Makoto Inoue</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-23.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-fullmetal-alchemist-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-fullmetal-alchemist-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Goblin Slayer Novela Ligera en Español</title>
 <id>https://nextnovels.com/goblin-slayer-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/goblin-slayer-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-31.jpg" />
-<author><name>Kagyuu Kumo</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">Una joven sacerdotisa ha formado su primer grupo de aventuras, pero casi inmediatamente se encuentran en apuros. Es el Cazador de Goblins quien viene a su rescate - un hombre que ha dedicado su vida a la exterminación de todos los Goblins, por cualquier medio necesario. Y cuando los rumores de sus hazañas comienzan a circular, no se sabe quién será el siguiente en acudir.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1d43vuQP3ff8GkMF6hXqWUQ" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1HFLVpg5GFM-JNvfNcx2BXQ" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-goblin-slayer-side-story-year-one-novela-ligera-en-espanol/" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/goblin-slayer-side-story-ii-dai-katana-novela-ligera-en-espanol/" type="text/html" title="Descargar" />
+<author><name>Kagyuu Kumo</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-31.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/goblin-slayer-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fgoblin-slayer-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>History of the Kingdom of Orcsen Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-history-of-the-kingdom-of-orcsen-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-history-of-the-kingdom-of-orcsen-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/History-of-the-Kingdom-of-Orcsen-Portada.jpg" />
-<author><name>Kyoichiro Tarumi</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">Cuando sus hermanos elfos traicionaron a su pueblo, una jefa de los elfos oscuros hará lo que sea necesario para salvar a su pueblo, incluso si eso significa confiar en los orcos.
 
 En un mundo donde conviven las armas de fuego y la hechicería, dos grandes potencias se enfrentan: el Reino de Orcsen —una alianza de razas mágicas liderada por los llamados orcos «salvajes»— y Elfland, un reino aparentemente pacífico de hermosos elfos blancos.
@@ -433,22 +292,14 @@ En un mundo donde conviven las armas de fuego y la hechicería, dos grandes pote
 Pero bajo la serena fachada de Elfland se esconde una cruda realidad. Los elfos oscuros, que alguna vez formaron parte de la patria élfica, están siendo sistemáticamente exterminados. Huyendo para salvar su vida y al borde de la muerte, la líder del clan de los elfos oscuros, Dinerúth, es rescatada nada menos que por Gustav, rey de Orcsen.
 
 Su fatídico encuentro desencadena una cadena de acontecimientos que sacudirá los cimientos de ambas naciones y reescribirá la historia misma de su mundo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1XkpQ9s3YPOjTWCa4wJ1I_g" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/10ZPnEkUdzAnkwo0_lfW1mA" type="text/html" title="Descargar" />
+<author><name>Kyoichiro Tarumi</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/History-of-the-Kingdom-of-Orcsen-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-history-of-the-kingdom-of-orcsen-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-history-of-the-kingdom-of-orcsen-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Jinsei Gyakuten Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-jinsei-gyakuten-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-jinsei-gyakuten-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/11/Jinsei-Gyakuten-Portada.jpg" />
-<author><name>D</name></author>
-<category term="Adulto" label="Adulto"/>
-<category term="Drama" label="Drama"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Romance" label="Romance"/>
-<category term="Tragedia" label="Tragedia"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">A Eiji le hicieron NTR, con el as del equipo de futbol de su preparatoria.
 
 Luego de eso, Kondo (el netoreador) divulgó el falso rumor de que Eiji m4ltr4taba a Miyuki (la infiel), eso ocasionó que, tanto en la escuela como en las redes sociales, Eiji sufr13r4 un cuadro de bvll1ng constante.
@@ -458,22 +309,14 @@ Fue tanto el 4cos0 que llegaron a 4m3naz4r de destruir el negocio de su madre so
 Cuando llegó a la azotea de la escuela, se encontró con Ai, la chica mas hermosa de la preparatoria con una mirada vacía y a punto de hacer lo mismo que él.
 
 Tras ese encuentro ambos deciden avanzar para lo cual deberán de enfrentarse con diversas dificultades mientras curan sus h3rid4s mutuamente.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1SsQ_coUb5SoZCyEJfk99fg" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1dMmF9a-6wZoIc4qdxZ2QgA" type="text/html" title="Descargar" />
+<author><name>D</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/11/Jinsei-Gyakuten-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-jinsei-gyakuten-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-jinsei-gyakuten-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Jinsei Gyakuten Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-jinsei-gyakuten-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-jinsei-gyakuten-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/08/Jinsei-Gyakuten-Portada.jpg" />
-<author><name>D</name></author>
-<category term="Adulto" label="Adulto"/>
-<category term="Drama" label="Drama"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Romance" label="Romance"/>
-<category term="Tragedia" label="Tragedia"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">A Eiji le hicieron NTR, con el as del equipo de futbol de su preparatoria.
 
 Luego de eso, Kondo (el netoreador) divulgó el falso rumor de que Eiji m4ltr4taba a Miyuki (la infiel), eso ocasionó que, tanto en la escuela como en las redes sociales, Eiji sufr13r4 un cuadro de bvll1ng constante.
@@ -483,35 +326,27 @@ Fue tanto el 4cos0 que llegaron a 4m3naz4r de destruir el negocio de su madre so
 Cuando llegó a la azotea de la escuela, se encontró con Ai, la chica mas hermosa de la preparatoria con una mirada vacía y a punto de hacer lo mismo que él.
 
 Tras ese encuentro ambos deciden avanzar para lo cual deberán de enfrentarse con diversas dificultades mientras curan sus h3rid4s mutuamente.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1wsaG1x1N_5QNIOuvcwMLRg" type="text/html" title="Descargar" />
+<author><name>D</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/08/Jinsei-Gyakuten-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-jinsei-gyakuten-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-jinsei-gyakuten-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Kogoroshi Village Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-kogoroshi-village-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-kogoroshi-village-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/Kogoroshi-Village-Portada.jpg" />
-<author><name>Konohara Narise</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">En un remoto pueblo rural, un fotógrafo acude para investigar lo que, según los rumores, es un «lugar de poder». Lo que comienza como un encargo rutinario va revelando poco a poco algo mucho más inquietante bajo la superficie de la comunidad.
 
 Mezclando crítica social con tensión psicológica, la novela explora la fe, la explotación, el aislamiento y los frágiles límites entre la reverencia y el deseo.
 
 Aunque no hay representaciones BL explícitas, la historia presenta una relación delicadamente equilibrada, que no es ni romance ni afecto, y que se desarrolla en torno al fotógrafo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1R-TkTWVKwY4P51phNUkyoA" type="text/html" title="Descargar" />
+<author><name>Konohara Narise</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/Kogoroshi-Village-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-kogoroshi-village-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-kogoroshi-village-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Love Unseen Beneath the Clear Night Sky Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-love-unseen-beneath-the-clear-night-sky-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-love-unseen-beneath-the-clear-night-sky-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/09/Toumei-na-Yoru-ni-Kakeru-Kimi-to-Me-ni-Mienai-Koi-wo-Shita-Portada.jpg" />
-<author><name>Shima Nagashi</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">El reservado estudiante universitario Kakeru Sorano conoce en la fiesta de bienvenida a los nuevos ingresantes a la universidad a Koharu Fuyutsuki, una mujer muy hermosa, sonriente y que destaca entre todos.
 
 Koharu es contraria al reservado de Kakeru.
@@ -523,158 +358,83 @@ A diferencia de Kakeru, Koharu nunca se dio por vencida.
 Pero ella tenía un deseo, el cual era apreciar un espectáculo de fuegos artificiales.
 
 Sin darse cuenta Kakeru se enamoró de ella y ahora está dispuesto a recorrer con ella por esa "noche".</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Rn1IIizgJ9QuVwA_GQ1ocw" type="text/html" title="Descargar" />
+<author><name>Shima Nagashi</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/09/Toumei-na-Yoru-ni-Kakeru-Kimi-to-Me-ni-Mienai-Koi-wo-Shita-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-love-unseen-beneath-the-clear-night-sky-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-love-unseen-beneath-the-clear-night-sky-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Majo no Tabitabi Novela Ligera en Español</title>
 <id>https://nextnovels.com/majo-no-tabitabi-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/majo-no-tabitabi-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-15.jpg" />
-<author><name>Jougi Shiraishi</name></author>
-<category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">Había una vez una bruja llamada Elaina, que emprendió un viaje a lo largo del mundo. En su camino conocería a todo tipo de personas, desde un país lleno de brujas hasta un gigante enamorado de sus propios músculos, pero con cada encuentro, Elaina se convertiría en una pequeña parte de su historia, y su propio mundo seria un poco más grande.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/14GgOthbaeKSf0fvpwbkx1w" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1M2bjFGRMzbkW3kIVVlVGZg" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1ftxYPBeHHkXLj5jc_fSUbQ" type="text/html" title="Descargar" />
+<author><name>Jougi Shiraishi</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-15.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/majo-no-tabitabi-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fmajo-no-tabitabi-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Melody of the Boundary Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-melody-of-the-boundary-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-melody-of-the-boundary-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/Melody-of-the-Boundary-Portada.jpg" />
-<author><name>Toshiya Miyata</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Tragedia" label="Tragedia"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Kyousuke y Kai son dos músicos listos para conquistar el mundo. Sin embargo, el día antes de su gran debut, Kai fallece en un terrible accidente de tránsito. Tres años después, Kyousuke ha dejado la música por completo y ha caído en una profunda depresión cuando su difunto compañero se le aparece como si nada hubiera pasado. Kai ayuda a su amigo a recordar la magia de la música, animándolo a volver a tocar el piano. ¿Podrá Kyousuke superar su dolor y devolverle el color a su mundo una vez más?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1EzowBdHjqSg_s-sooS2GSQ" type="text/html" title="Descargar" />
+<author><name>Toshiya Miyata</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/Melody-of-the-Boundary-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-melody-of-the-boundary-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-melody-of-the-boundary-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Ochite Kita Ryuu Ou to Horobiyuku Majo no Kuni Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-ochite-kita-ryuu-ou-to-horobiyuku-majo-no-kuni-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-ochite-kita-ryuu-ou-to-horobiyuku-majo-no-kuni-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/06/Ochite-Kita-Ryuu-Ou-to-Horobiyuku-Majo-no-Kuni-Portada.jpg" />
-<author><name>Maisaka Kou</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Artes marciales" label="Artes marciales"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">En un mundo lejano existen brujas sexis y hermosas que son perseguidas, abusadas y llevadas al borde de la extinción por los humanos. Sin embargo, cierto día un hombre llamado Naga (Rey Dragón) cayó dentro de ese mundo, enfrente de Harrigan, la “Bruja del Bosque Negro”, a quien no pudo evitar manosear sus enormes pechos. Pero en el País de las Brujas, aún cuando todo podría ser perfecto para nuestro protagonista, de pronto aparece Yuuki (la chica amarilla), quien odia en extremo a los hombres y desea matar a Naga. ¿Podrá sobrevivir Naga y evitar la destrucción de este paraíso mágico?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1bfsRFuMs0DnkZl4lrRsU4g" type="text/html" title="Descargar" />
+<author><name>Maisaka Kou</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/06/Ochite-Kita-Ryuu-Ou-to-Horobiyuku-Majo-no-Kuni-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-ochite-kita-ryuu-ou-to-horobiyuku-majo-no-kuni-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-ochite-kita-ryuu-ou-to-horobiyuku-majo-no-kuni-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Omniscient Reader’s Viewpoint Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-omniscient-readers-viewpoint-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-omniscient-readers-viewpoint-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/12/Omniscient-Readers-Viewpoint-Portada.jpg" />
-<author><name>Sing-Shong</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Shounen" label="Shounen"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">La novela «Tres maneras de sobrevivir al Apocalipsis» (TWSA) tardó más de una década y un total de 3.149 capítulos en publicarse, y otro tanto en leerse. Cuantos más capítulos se publicaban, más lectores abandonaban. Tras el capítulo 100, sólo quedaba uno: Kim Dokja, el último lector que leyó todo de principio a fin. Tras el último capítulo, Dokja recibe un mensaje nada menos que del propio autor. Dándole las gracias, le dice a Dokja que los capítulos de TWSA pronto serían de pago. Además, envía a Dokja un archivo con todos los capítulos de la novela.
 
 Lo que Dokja no sabía en ese momento: el mundo ficticio de TWSA se haría realidad en breve. Además, Dokja recibe un poder especial: es el «lector omnisciente», el único que sabe cómo acabará esta historia. Y para salvar a Yoo Joonghyuk, el protagonista de la novela, de retroceder una y otra vez, Dokja decide ahora devolver el favor a su héroe, que le ha acompañado durante más de diez años y ha hecho que su vida merezca la pena. Quiere crear su propio y maravilloso final feliz.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1LbhVFlnh5QB2O0KRiNm6bw" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1WXAKvSd1reKezzK_0VOB7g" type="text/html" title="Descargar" />
+<author><name>Sing-Shong</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/12/Omniscient-Readers-Viewpoint-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-omniscient-readers-viewpoint-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-omniscient-readers-viewpoint-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Re Zero Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-re-zero-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-re-zero-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2021/12/Re-Zero-e1641220480303.jpg" />
-<author><name>Nagatsuki Tappei</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">De repente, un estudiante de instituto, Subaru Natsuki, ha sido invocado a otro mundo cuando volvía de la tienda. Con la mayor crisis de su vida al ser convocado a otro mundo y sin rastro del que le convocó las cosas empeoran cuando es atacado.
 
 Pero cuando es salvado por una misteriosa chica de pelo plateado con un gato hada, Subaru coopera con la chica para devolverle el favor. Cuando finalmente consiguen una pista Subaru y la chica son atacados y asesinados por alguien.
 
 Subaru entonces despierta en el lugar al que fue convocado y se da cuenta de la habilidad que obtuvo «Vuelve por la Muerte» un chico indefenso que solo tiene la habilidad de rebobinar el tiempo muriendo. ¡Y mas alla de la desesperacion puede salvar a la chica del destino de la muerte!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1wfk76jqJLkz5wtKE9c7dEw" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1lQkn5_tchX6hi2KcjCjumA" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1naIPhbSRbEtcUz3Kn1b0Fg" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1jYIg5jzvrHuMi80vcXJHZA" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1ciip3Zj3YclZ9glmngx7qg" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1y_lGcxPpcw20dJn72-kieQ" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1k6HeXdCjGu017Fj20tsFyw" type="text/html" title="Descargar" />
+<author><name>Nagatsuki Tappei</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2021/12/Re-Zero-e1641220480303.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-re-zero-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-re-zero-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Re-Friendzone Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-re-friendzone-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-re-friendzone-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/01/Re-Friendzone-Portada.jpg" />
-<author><name>Borgetti San</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Romance" label="Romance"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">La chica de la quien está enamorado se casó en una fecha muy especial, un duro golpe para nuestro protagonista, Leo, quien ha tenido una vida llena de fracasos, sin embargo, por azares del destino tendrá una nueva oportunidad para corregir aquellos errores. Sus nuevas decisiones traerían consigo nuevas dificultades. Con la posibilidad de conquistar a la chica que lo dejo en la friendzone ¿Qué le deparará el destino al fracasado en su segunda oportunidad? ¿Qué harías tú si tuvieras una segunda oportunidad de conquistar a la mujer que te dejó en la friendzone?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1TMPnBvn2KT4hCSt-1pt2-w" type="text/html" title="Descargar" />
+<author><name>Borgetti San</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/01/Re-Friendzone-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-re-friendzone-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-re-friendzone-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Redo of Healer Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-redo-of-healer-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-redo-of-healer-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/10/01-33.jpg" />
-<author><name>Tsukiyo Rui</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Adulto" label="Adulto"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">“Los Sanadores no pueden luchar solos”. Keyaru, quien fue atormentado por la lógica de que su Clase es la más indefensa e inútil, fue utilizado como una herramienta continuamente por los otros Héroes. Sin embargo, un día logro liberarse de los efectos de las drogas y se percató de la verdadera naturaleza de la magia «Curativa», así decidiendo rehacer el mundo y empezar por segunda vez, retomando su camino 4 años atrás, donde su pesadilla empezó, con una segunda oportunidad en su vida, tomará venganza de todos los que le hicieron daño—así comienza su camino de la venganza, con su primer objetivo, Flare. ¡Vamos, que comience la «Fiesta» de la Venganza!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1R0WAi1_UtZWdMtjicojwIg" type="text/html" title="Descargar" />
+<author><name>Tsukiyo Rui</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/10/01-33.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-redo-of-healer-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-redo-of-healer-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Reverend Insanity Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-reverend-insanity-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-reverend-insanity-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/07/Reverend-Insanity-Portada.jpg" />
-<author><name>Gu Zhen Ren</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Tragedia" label="Tragedia"/>
-<category term="Xianxia" label="Xianxia"/>
 <content type="text">Los humanos son inteligentes en decenas de miles de formas, Gu son las verdaderas esencias refinadas del Cielo y la Tierra.
 
 Los Tres Templos son injustos, el demonio renace.
@@ -695,24 +455,15 @@ Otra Sinopsis:
 
 La historia de un villano, Fang Yuan, que renació 500 años en el pasado con la cigarra de otoño primaveral que refinó con esmero. Con su profunda sabiduría, sus batallas y sus experiencias vitales, intenta vencer a sus enemigos con habilidad e ingenio. Despiadado y amoral, no tiene necesidad de contenerse mientras persigue su objetivo final. En un mundo de crueldad en el que se cultiva utilizando Gu -criaturas mágicas del mundo-, Fang Yuan debe alzarse por encima de todos con su propio poder.
 
-El Gu es un legendario insecto venenoso, utilizado a menudo en prácticas de magia negra. Puede adoptar la forma de varios insectos, normalmente serpientes, grillos, gusanos, etc. = la visión del mundo, los valores de valor y la filosofía de vida de cada uno.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1X52p3plXCIF4tHJcEd-Ccg" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1PDz7pxkuEzhiLsnFVq1pAg" type="text/html" title="Descargar" />
+El Gu es un legendario insecto venenoso, utilizado a menudo en prácticas de magia negra. Puede adoptar la forma de varios insectos, normalmente serpientes, grillos, gusano</content>
+<author><name>Gu Zhen Ren</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/07/Reverend-Insanity-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-reverend-insanity-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-reverend-insanity-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>ROLL OVER AND DIE Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-roll-over-and-die-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-roll-over-and-die-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2021/12/roll-over-and-die-vol-01-2-e1641220508681.jpg" />
-<author><name>kiki</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Horror" label="Horror"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Shoujo Ai" label="Shoujo Ai"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">Flum Apricot, aquella chica que tenía lo que más quería era vivir una pacífica vida en su pueblo. Desafortunadamente eso no fue posible. Luego de ser elegida por el Dios del Origen de la Creación para formar parte del grupo de Héroes que se encargaran de derrotar al Lord Demonio, lo único que conoció fue miseria.
 
 ¿Cómo se supone que alguien con unas estadísticas de cero pueda ser de alguna utilidad en el grupo de Héroes?
@@ -722,21 +473,14 @@ Además de que poseía solo una habilidad, "Reversión", y ni siquiera sabía co
 El Sabio del grupo, Jean Inteige, también estaba convencido de que ella no tenía el derecho de formar parte de los Héroes, y tenía la perfecta idea para deshacerse de ella.
 
 Al borde de la desesperación, cuando por fin las maldiciones "se reviertan" ¿Qué le esperará a Flum? ¿Y qué tipo de vida estará destinada a tener?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1cFcvL8ljDAzxkM5s6u2kbA" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1RGfZV69kyCOL1qV_F8XBkg" type="text/html" title="Descargar" />
+<author><name>kiki</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2021/12/roll-over-and-die-vol-01-2-e1641220508681.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-roll-over-and-die-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-roll-over-and-die-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Salute for Lucien Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-salute-for-lucien-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-salute-for-lucien-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Salute-for-Laurel-Portada.jpg" />
-<author><name>Woo Ji-hye</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Josei" label="Josei"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Romance" label="Romance"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">Lucien, una hermosa y humilde sirvienta.
 
 Para ella, la vida era simplemente algo que soportar, y la muerte, algo familiar e insensible como la vida cotidiana.
@@ -778,19 +522,14 @@ Pero no sabía que ese mismo momento lo enfurecería.
 —No te preocupes, Lars. Aprovecharé la suerte que me ha tocado, tal como dijiste.
 
 Las ganas de vivir a veces podían florecer con la misma intensidad que el amor.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1MiUOpzv6J7egpDSiJoOd9g" type="text/html" title="Descargar" />
+<author><name>Woo Ji-hye</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Salute-for-Laurel-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-salute-for-lucien-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-salute-for-lucien-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Schwarzes Marken Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-schwarzes-marken-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-schwarzes-marken-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/Schwarzesmarken-Portada.jpg" />
-<author><name>Uchida Hiroki</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Drama" label="Drama"/>
-<category term="Mecha" label="Mecha"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">Yo quería protegerte...
 
 Alemania del Este, bajo la invasión de la especie de origen extraterrestre BETA, continuaba librando una sangrienta guerra de desgaste. Theodor, a pesar de ser miembro del escuadrón de máquinas tácticas conocido como ShwarszenMarken, el más poderoso de todo el bloque del este, no creía en su país ni en la gente, y luchaba únicamente por su propia supervivencia.
@@ -798,98 +537,62 @@ Alemania del Este, bajo la invasión de la especie de origen extraterrestre BETA
 Sin embargo, en medio de la batalla, él rescata a una joven piloto del ejército de Alemania Occidental que había quedado aislada...
 
 18 años antes de los eventos del popular juego de PC Muv-Luv Alternative, se cuenta la historia de jóvenes pilotos inmersos en la feroz guerra europea, luchando por sus vidas en una batalla a vida o muerte.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1c-Uh3gaxvQQOnW5Jv9Ho3g" type="text/html" title="Descargar" />
+<author><name>Uchida Hiroki</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/Schwarzesmarken-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-schwarzes-marken-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-schwarzes-marken-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Semi-Coercive Imperialist Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-semi-coercive-imperialist-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-semi-coercive-imperialist-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/Semi-Coercive-Imperialist-Portada.jpg" />
-<author><name>Jee Gab Song</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">Me convertí en un imperialista semi-coercitivo… para evitar la destrucción de todos.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1JYTDtdNB0dfEWjxTNq1qfg" type="text/html" title="Descargar" />
+<author><name>Jee Gab Song</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/Semi-Coercive-Imperialist-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-semi-coercive-imperialist-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-semi-coercive-imperialist-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Shrouded Seascape Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-shrouded-seascape-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-shrouded-seascape-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/09/Shrouded-Seascape-Portada.jpg" />
-<author><name>Foxtail Quill</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Adulto" label="Adulto"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Horror" label="Horror"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Romance" label="Romance"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">En lo más profundo de la superficie terrestre, se esconde un desconcertante paisaje marino subterráneo, un archipiélago bañado en una negrura tenebrosa donde reinan el suspense y el horror. Aquí yacen extrañas islas y monstruos aún más extraños, mucho más allá de los límites de la imaginación humana. En este dominio, la humanidad está lejos de dominar; en su lugar, la locura y la muerte reinan supremas.
 
 Pedir clemencia a las desconocidas criaturas de las profundidades sólo conduce a una existencia lenta y torturada. Los supervivientes atrapados se distorsionan gradualmente, perdiendo lo que les hacía humanos, tanto física como mentalmente, en favor de la penumbra mientras permanecen atrapados en esta oscuridad eterna. ¿Su única esperanza? Una peligrosa expedición a territorios marinos inexplorados.
 
 Impulsado por su determinación, el valiente Charles se embarca en este desalentador viaje a bordo de su barco de vapor, con el objetivo de recuperar la gloria pasada de la humanidad. Junto con su tripulación, buscan una salida de este mundo marino oculto, un camino de vuelta al mundo iluminado por el sol, donde los humanos una vez se alzaron.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/16c-YwqSph6ABDFpIOdxbgQ" type="text/html" title="Descargar" />
+<author><name>Foxtail Quill</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/09/Shrouded-Seascape-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-shrouded-seascape-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-shrouded-seascape-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-shuumatsu-nani-shitemasu-ka-isogashii-desu-ka-sukutte-moratte-ii-desu-ka-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-shuumatsu-nani-shitemasu-ka-isogashii-desu-ka-sukutte-moratte-ii-desu-ka-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-62.jpg" />
-<author><name>Kareno Akira</name></author>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Romance" label="Romance"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">Han pasado quinientos años desde que los humanos se extinguieron a manos de las temibles y misteriosas "Bestias". Las razas supervivientes viven ahora en islas flotantes en el cielo, fuera del alcance de todos, excepto de las Bestias más móviles.
 
 Sólo un pequeño grupo de chicas jóvenes, las Leprechauns, pueden empuñar las antiguas armas necesarias para rechazar las invasiones de estas criaturas. En la inestable y fugaz vida de las chicas, donde una llamada a la muerte segura puede llegar en cualquier momento, entra un personaje improbable: un joven que lo perdió todo en su última batalla hace quinientos años, el último humano vivo despertado de un largo y gélido letargo.
 
 Incapaz de seguir luchando, Willem se convierte en el padre que las niñas nunca tuvieron, cuidándolas y alimentándolas incluso mientras lucha por aceptar su nueva vida, en la que siente el dolor de esperar impotente a que sus seres queridos vuelvan a casa de la batalla que su "Hija" sintió por él hace tanto tiempo. Juntos, Willem y las niñas llegan a comprender poco a poco lo que significa la familia y lo que realmente merece la pena proteger.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/19QHHM_VnGOi9BBPbuZb4pg" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/19ccFTeZtcOVf84lF5GvpJQ" type="text/html" title="Descargar" />
+<author><name>Kareno Akira</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-62.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-shuumatsu-nani-shitemasu-ka-isogashii-desu-ka-sukutte-moratte-ii-desu-ka-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-shuumatsu-nani-shitemasu-ka-isogashii-desu-ka-sukutte-moratte-ii-desu-ka-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Shuumatsu Nani Shitemasuka? Mou Ichido Dake Aemasuka? Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-shuumatsu-nani-shitemasuka-mou-ichido-dake-aemasuka-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-shuumatsu-nani-shitemasuka-mou-ichido-dake-aemasuka-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-63.jpg" />
-<author><name>Kareno Akira</name></author>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">Han pasado cinco años desde que el trágico incidente acabó con la pacífica vida en Regul Aire de una vez por todas. La Bestia ha llegado a la isla flotante y amenaza a los últimos supervivientes.
 
 Tiat, Collon, Pannibal y Lakhesh se han convertido en hadas soldados y continúan el papel de sus predecesores, luchando por la seguridad de Regul Aire. Y al igual que el resto de hadas soldado del almacén, necesitan un guardián del ejército, y así, un fatídico día, Tiat se encuentra con Feodor Jessman, un joven diablillo y militar de cuarto grado. A primera vista parece un típico estudiante de honor, sin embargo, no pasa mucho tiempo hasta que revela sus verdaderos colores.
 
 ¿Qué traerán sus ambiciones secretas para las cuatro jóvenes e incluso para el futuro de Regul Aire?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1zMTkUZVnGiASweqyLMrUcA" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1nTc8jB8wqG3TnQp6_j-Okw" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1MF4gLRRFsNEoBo1Enp-c3g" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/17UKyqz9xhMtlDOnTOdhv8Q" type="text/html" title="Descargar" />
+<author><name>Kareno Akira</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-63.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-shuumatsu-nani-shitemasuka-mou-ichido-dake-aemasuka-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-shuumatsu-nani-shitemasuka-mou-ichido-dake-aemasuka-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Silent Witch Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-silent-witch-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-silent-witch-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/04/Silent-Witch-Portada.jpg" />
-<author><name>Isora Matsuri</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Romance" label="Romance"/>
-<category term="Shoujo" label="Shoujo"/>
-<category term="Tragedia" label="Tragedia"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Moniva Everett, un mago genio, extremadamente tímida y malísima para hablar en público.
 
 Así, ella trabajó duro y dominó el arte de infinitas mágicas, las cuales podía usar sin cantico. Luego de ser escogida como una de los Siete Sabios a la temprana edad de 15 años como la "Bruja Silenciosa", vivió una vida tranquila en el bosque.
@@ -901,37 +604,23 @@ Era de secretamente protegrer al segundo príncipe en la academia sin ser detect
 Con el fin de proteger al Príncipe, Monia debe infiltrarse en una glamurosa escuela para niños de familias nobles.
 
 [No quiero hacer esto... Tengo miedo... Ugh... Mi estómago duele...]</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1iXrj4Lucl2YZzxuGhN89WA" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/19TRmS9AuZY6wrMuUqP9Wag" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1gMmTYy_qLvCSQQ92lPov0g" type="text/html" title="Descargar" />
+<author><name>Isora Matsuri</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/04/Silent-Witch-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-silent-witch-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-silent-witch-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Tearmoon Empire Story Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-tearmoon-empire-story-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-tearmoon-empire-story-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/Tearmoon-Empire-Story-Portada.jpg" />
-<author><name>Mochitsuki Nozomu</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Romance" label="Romance"/>
-<category term="Shoujo" label="Shoujo"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">Rodeada por las miradas llenas de odio de su pueblo, la egoísta princesa del caído Imperio Tearmoon, Mia, echa una última mirada al sol sangrante antes de que caiga la cuchilla de la guillotina… Sólo para volver a despertarse como una niña de doce años. Con el tiempo rebobinado y una segunda oportunidad en su regazo, se dispone a corregir los innumerables errores que asolan al debilitado Imperio. ¿Un gobierno corrupto? Sí. ¿Problemas fronterizos? También. ¿Calamidades naturales y conflictos económicos? Por supuesto. Parece que hay mucho trabajo. El trabajo duro y Mia no se llevan bien, así que busca la ayuda de otros, empezando por su leal criada, Anne, y el brillante ministro, Ludwig. Juntos, se esfuerzan día y noche por restaurar el Imperio. Poco a poco, sus incansables esfuerzos comienzan a cambiar el curso de la historia, empujando a todo el continente hacia un nuevo futuro. ¿Y por qué la egoísta princesa ha cambiado de opinión, te preguntarás? Sencillo: no lo hizo. Simplemente le aterroriza la guillotina. Morir duele mucho, y Mia odia el dolor más que el trabajo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1LshZ5AispSYn4EN1xbZSBw" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1UDhKskQPx7rBLfKiKcGkVA" type="text/html" title="Descargar" />
+<author><name>Mochitsuki Nozomu</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/Tearmoon-Empire-Story-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-tearmoon-empire-story-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-tearmoon-empire-story-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>That Summer, Fell in Love at the End of a Dream Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-that-summer-fell-in-love-at-the-end-of-a-dream-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-that-summer-fell-in-love-at-the-end-of-a-dream-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/That-Summer-Fell-in-Love-at-the-End-of-a-Dream-Portada.jpg" />
-<author><name>Fuyuno Yozora</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Tragedia" label="Tragedia"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Si la vida pudiera reiniciarse, estaría dispuesto a pagar cualquier precio para volver a enamorarme de ti…
 
 — Realmente me gustas mucho…
@@ -949,43 +638,23 @@ Apenas ingresé a la escuela, me enamoré a primera vista del senpai, quien ten�
 Con el corazón lleno de esperanzas para un futuro feliz, todo se desmoronó en un instante por un accidente de coche. Debido a las heridas, quedé parapléjico, y el senpai perdió sus manos, las cuales solían tocar música tan hermosa. Sin embargo, en ese momento oscuro, un mensaje apareció repentinamente en mi móvil: "Si pudieras cambiar las decisiones del pasado, ¿qué harías? Este es el sueño que deseas, pero también el mundo falso que tanto anhelas. A pesar de esto, ¿te sumergirías en este sueño?"
 
 En ese instante, obtuve la oportunidad de cambiar nuestro destino y volver a enamorarme de él. Pero en este sueño con límite de tiempo, él ha olvidado completamente quién soy yo y nuestro amor...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/12dxxyqSS-tfHqOeNc9sDtQ" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1OZ-FkCoUx6-rJ-4qw4ZEGA" type="text/html" title="Descargar" />
+<author><name>Fuyuno Yozora</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/That-Summer-Fell-in-Love-at-the-End-of-a-Dream-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-that-summer-fell-in-love-at-the-end-of-a-dream-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-that-summer-fell-in-love-at-the-end-of-a-dream-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>The Conqueror from a Dying Kingdom Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-the-conqueror-from-a-dying-kingdom-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-conqueror-from-a-dying-kingdom-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/The-Conqueror-from-a-Dying-Kingdom-Portada.jpg" />
-<author><name>Fudeorca</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">Yuri, que se autodenomina un «no-lifer», se pasa los días holgazaneando frente a la computadora. Todo esto cambia en el momento en que su vida en Japón llega a un abrupto final y se ve renacido en el extraño y nuevo mundo del Reino de Shiyalta. Su nueva vida incluye todo lo que antes le faltaba: padres cariñosos, un hogar acogedor y un futuro prometedor criando aves en el rancho de su papá. Durante siglos, el reino que ahora considera su hogar ha disfrutado de paz y prosperidad, protegido por naciones amigas que, al igual que el propio Shiyalta, se establecieron tras el colapso de un imperio que alguna vez fue grande. La guerra es un problema lejano, relevante solo para las familias gobernantes de Shiyalta, cuyos guerreros parten periódicamente para unirse a la lucha montados en aves gigantes entrenadas por el papá de Yuri y otros. Pero esta existencia pacífica no puede durar para siempre. Algo podrido se esconde en el corazón del reino, y no hace falta tener la inteligencia excepcional de Yuri para darse cuenta de que esas batallas lejanas solo seguirán siendo irrelevantes por un tiempo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1jbAh8YGwWLy1epfOTyYVuA" type="text/html" title="Descargar" />
+<author><name>Fudeorca</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/The-Conqueror-from-a-Dying-Kingdom-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-conqueror-from-a-dying-kingdom-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-the-conqueror-from-a-dying-kingdom-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>The Death Mage Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-the-death-mage-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-death-mage-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/11/Yondome-wa-Iya-na-Shizokusei-Majutsushi-Portada.jpg" />
-<author><name>Densuke</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">Amamiya Hiroto tuvo una vida desafortunada. Su vida consistió en sufrir una desgracia tras otra, culminando en una desafortunada muerte al intentar salvar a una chica que apenas conocía, en un incidente durante su viaje escolar en barco.
 
 Después de morir Hiroto y el centenar de pasajeros muertos, entre ellos estaba la chica que él intentó salvar pero al parecer fue en vano, se encontraron con la propuesta de un dios de la reencarnación, él los reencarnaria en otro mundo.
@@ -998,19 +667,15 @@ Sin embargo, al encontrarse con el dios por segunda vez este le informó que ten
 
 Hiroto renace una vez más como un ser mitad-Vampiro, mitad-Elfo Oscuro, un Dhampir.
 
-No queriendo morir y vivir una cuarta vida, él está decidido a vivir esta tercera con la única cosa que le quedo de su vida pasada… La Magia de Atributo Muerte y su enorme cantidad de Maná.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1S_6aYgefoCN4tSQHslyG5g" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1D6YErmAqnQieLwv6l4CxeA" type="text/html" title="Descargar" />
+No queriendo morir y vivir una cuarta vida, él es</content>
+<author><name>Densuke</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/11/Yondome-wa-Iya-na-Shizokusei-Majutsushi-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-death-mage-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-the-death-mage-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>The Glass Tower Murders Novela en Español</title>
 <id>https://nextnovels.com/descargar-the-glass-tower-murders-novela-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-glass-tower-murders-novela-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/The-Glass-Tower-Murders-Portada.jpg" />
-<author><name>Mikito Chinen</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">A todos los amantes de la novela negra.
 
 En un bosque cubierto de nieve, brilla resplandeciente una torre de cristal.
@@ -1032,36 +697,25 @@ Los encargados de desentrañar el misterio son el famoso detective Aozuki Yoru y
 Pistas esparcidas por toda la trama, un desafío para el lector, una legibilidad abrumadora y un final sorprendente.
 
 ¡La primera novela policíaca completa del autor, la gran favorita!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Cq_vScHB4cBbu6sLMgI-5A" type="text/html" title="Descargar" />
+<author><name>Mikito Chinen</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/The-Glass-Tower-Murders-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-glass-tower-murders-novela-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-the-glass-tower-murders-novela-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>The God of Nishi-Yuigahama Station Novela en Español</title>
 <id>https://nextnovels.com/descargar-the-god-of-nishi-yuigahama-station-novela-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-god-of-nishi-yuigahama-station-novela-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/The-God-of-Nishi-Yuigahama-Station-Portada.jpg" />
-<author><name>Takeshi Murase</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Sobrenatural" label="Sobrenatural"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">Tras un devastador accidente de tren en Kamakura, surge un extraño rumor: en la estación Nishi-Yuigahama existe un “dios” capaz de conceder un último encuentro con quienes ya murieron.
 
 Pero no todos regresan… y algunos están dispuestos a arriesgarlo todo por una despedida.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1MDkIPP4UjLibfozprnVrcA" type="text/html" title="Descargar" />
+<author><name>Takeshi Murase</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/The-God-of-Nishi-Yuigahama-Station-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-god-of-nishi-yuigahama-station-novela-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-the-god-of-nishi-yuigahama-station-novela-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>The Golden Light of Dawn Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-the-golden-light-of-dawn-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-golden-light-of-dawn-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/The-Golden-Light-of-Dawn-Portada.jpg" />
-<author><name>Hanseolon</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Romance" label="Romance"/>
-<category term="Shoujo" label="Shoujo"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">Rosha Lewen, una chica extremadamente ordinaria. Un día, un monstruo mitad humano, Lamia, invadió la aldea y le arrebató toda su vida.
 
 —Número 777, ¿has despertado?
@@ -1075,72 +729,47 @@ Lo que le quedó a Rosha fue un sentimiento de culpa por sobrevivir sola, la ten
 ----...Los haré pedazos hasta la muerte. A todos esos monstruos, sin excepción.
 
 No había nada más que ira.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1JWzR8HrwHjCZeWFdRD0qnw" type="text/html" title="Descargar" />
+<author><name>Hanseolon</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/The-Golden-Light-of-Dawn-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-golden-light-of-dawn-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-the-golden-light-of-dawn-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>The Main Heroines are Trying to Kill Me Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-the-main-heroines-are-trying-to-kill-me-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-main-heroines-are-trying-to-kill-me-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/05/The-Main-Heroines-are-Trying-to-Kill-Me-Portada.jpg" />
-<author><name>Kim Mamo</name></author>
-<category term="Aventura" label="Aventura"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Romance" label="Romance"/>
-<category term="Tragedia" label="Tragedia"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Para salvar el desesperanzado Mundo de Fantasía Oscura, contuve mis lágrimas y destruí el mundo, luego maté al Rey Demonio y regresé.
 
 Ahora, estoy tratando de salvar el mundo usando el «Sistema» que obtuve como el «Privilegio del Regresor»… Pero las Heroínas Principales también han despertado sus propios recuerdos de la línea de tiempo anterior.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1zbFQDZ4gWgU1hF_JXaujLw" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1l2Y3EhI5yUux-ZQS5z2P1A" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/12z6CmKnpy4H3_mt6ZEM6gg" type="text/html" title="Descargar" />
+<author><name>Kim Mamo</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/05/The-Main-Heroines-are-Trying-to-Kill-Me-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-main-heroines-are-trying-to-kill-me-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-the-main-heroines-are-trying-to-kill-me-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>The Person I Loved Asked Me to Die in My Sister’s Stead Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-the-person-i-loved-asked-me-to-die-in-my-sisters-stead-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-person-i-loved-asked-me-to-die-in-my-sisters-stead-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/The-Person-I-Loved-Asked-Me-to-Die-in-My-Sisters-Stead-Portada.jpg" />
-<author><name>Nagano Mizuki</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Romance" label="Romance"/>
-<category term="Shoujo" label="Shoujo"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">Wisteria, una ex dama noble, se convirtió en la Guardiana de un mundo extraño y venenoso en lugar de su hermana. Un día, un hombre idéntico a su primer amor aparece en el cielo. Su nombre es Lloyd. ¡Y resulta ser el hijo de aquel primer amor! Ha venido a reclamar a Surtis, la espada sagrada con voluntad y compañera de Wisteria, como prueba para pedir la mano de la princesa. Ella, que ha sobrevivido en un tiempo detenido, lo derrota con su magia única y le insta a regresar a su mundo original, pero... «¡Para derrotarla, me convertiré en su discípulo!». Sin dejarse convencer, él se queda a vivir con ella. Mientras Wisteria se ve arrastrada por un discípulo que domina la magia ante sus propios ojos, comienza una relación de maestro y discípulo impuesta de forma unilateral. ¿Logrará el tiempo de Wisteria, que permanece detenido, volver a ponerse en marcha? Una fantasía romántica de maestro y discípulo entre una ex dama solitaria y no combatiente y un noble caballero arrogante y superdotado. Incluye el relato corto «Alto, pequeño» y una galería de configuración de personajes.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1qQF_jB7IVSrYUEaUq_keUQ" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1-Kxwy8f2WGBXU6unPpd-iQ" type="text/html" title="Descargar" />
+<author><name>Nagano Mizuki</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/The-Person-I-Loved-Asked-Me-to-Die-in-My-Sisters-Stead-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-person-i-loved-asked-me-to-die-in-my-sisters-stead-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-the-person-i-loved-asked-me-to-die-in-my-sisters-stead-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>The Prince Seduces Me With His Body Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-the-prince-seduces-me-with-his-body-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-prince-seduces-me-with-his-body-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/The-Prince-Seduces-Me-With-His-Body-Portada.jpg" />
-<author><name>Yoo Yerang</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Romance" label="Romance"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">Diana Susfield, hija ilegítima del duque de Susfield, creció como una oruga en la familia. Al atraer la atención de Rebecca, la primera princesa, se convirtió en una gran espada dedicada a ella. Sin embargo, le cortaron el cuello cuando la incriminaron por intentar matarla, quien se convirtió en emperador. Para ser precisos, Diana regresó a su pasado anterior a Rebecca. Entonces intentó cambiar su futuro para no morir a manos de Rebecca como antes.
 
 —Si de verdad no quieres casarte, puedes negarte tranquilamente incluso ahora. Lo juro por mi nombre. Pero si no, intentaré hacer lo que quieras como esposo.
 
 Convirtiéndose en la esposa contratada del príncipe Kayden, la única persona que la trató como a un ser humano.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1opQgcxEpeSGwBP1rL9i_3A" type="text/html" title="Descargar" />
+<author><name>Yoo Yerang</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/The-Prince-Seduces-Me-With-His-Body-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-prince-seduces-me-with-his-body-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-the-prince-seduces-me-with-his-body-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>The Protagonist’s Childhood Friend is Coming On Strong to Me, a Mob Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-the-protagonists-childhood-friend-is-coming-on-strong-to-me-a-mob-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-protagonists-childhood-friend-is-coming-on-strong-to-me-a-mob-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/01/The-Protagonists-Childhood-Friend-is-Coming-On-Strong-to-Me-a-Mob-Portada.jpg" />
-<author><name>Rakuda</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Romance" label="Romance"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Tragedia" label="Tragedia"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Hay un chico en mi instituto que parece un héroe de comedia romántica. Es un tipo común y corriente, pero por alguna razón es popular entre las chicas mas atractivas.
 
 Su comedia romantica me mato. Por su culpa me juzgaron por un crimen que no cometi, lo perdi todo y acabe quitandome la vida.
@@ -1158,21 +787,14 @@ En esta segunda oportunidad que me fue dada milagrosamente, esta vez definitivam
 Es la "Emperatriz de Hielo" de la clase, pero por alguna razón últimamente no ha parado de acercarse a mi....
 
 ¡Espera! No soy yo, ¿verdad? ¡Tu deberías enamorarte de el!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1qggJRC7rq4WSopOnGo00Dg" type="text/html" title="Descargar" />
+<author><name>Rakuda</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/01/The-Protagonists-Childhood-Friend-is-Coming-On-Strong-to-Me-a-Mob-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-protagonists-childhood-friend-is-coming-on-strong-to-me-a-mob-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-the-protagonists-childhood-friend-is-coming-on-strong-to-me-a-mob-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>The Tutorial Is Too Hard Novela Web en Español</title>
 <id>https://nextnovels.com/the-tutorial-is-too-hard-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/the-tutorial-is-too-hard-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/10/01-23.jpg" />
-<author><name>Gandara</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">En un aburrido día normal
 
 Apareció un mensaje invitándome al Tutorial .
@@ -1184,22 +806,14 @@ Una historia sobre el escape de Lee Ho Jae del Tutorial.
 "Por esa estúpida elección aun me encuentro atrapado aquí "
 
 [La Ronda numero 81 comenzara pronto]</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1IvhD3YbM-50khhgG03G0gQ" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/134SSmJpA85v9dazQZzl_JQ" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1QeFwuja8bqegXfhJzmCWRQ" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1xL-xnEJcrkQ2s8YW2imLnQ" type="text/html" title="Descargar" />
+<author><name>Gandara</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/10/01-23.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/the-tutorial-is-too-hard-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fthe-tutorial-is-too-hard-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>The Tyrant Wants To Live Honestly Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-the-tyrant-wants-to-live-honestly-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-tyrant-wants-to-live-honestly-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/07/The-Tyrant-Wants-To-Live-Honestly-Portada.jpg" />
-<author><name>Ramgeul</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Romance" label="Romance"/>
-<category term="Shoujo" label="Shoujo"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">Dorothea, una mujer que sufrió discriminación y desprecio.
 
 Fue llevada al punto de asesinar a su hermano mayor, y luego ascendió al poder como emperador... pero sin el amor de todos, ni siquiera de su amado, finalmente fue denunciada como una tirana y sentenciada a ejecución.
@@ -1209,61 +823,38 @@ Pero luego abrió los ojos para encontrarse en sus días de infancia.
 —No puede terminar así otra vez.
 
 «No cometeré los mismos arrepentimientos. Voy a vivir honestamente. Esta vez, en esta vida, ese es mi objetivo.»</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/17OmUW8lv0s-dABoQhOof1A" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1n61DtQRrdqry4W3G5l9rkg" type="text/html" title="Descargar" />
+<author><name>Ramgeul</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/07/The-Tyrant-Wants-To-Live-Honestly-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-tyrant-wants-to-live-honestly-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-the-tyrant-wants-to-live-honestly-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>The Villain’s Love Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-the-villains-love-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-villains-love-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/The-Villains-Love-Portada.jpg" />
-<author><name>Niko</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Josei" label="Josei"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Romance" label="Romance"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">«Por favor, no me dejes».
 
 Tras el asesinato de su familia y la ruina de su país, Luciano, el príncipe de una nación afligida, se convierte en un demonio de la venganza. Tras todas las maldades que comete, finalmente se enfrenta a la reina del país enemigo, Alana. En lugar de suplicar por su vida, al contrario, ella implora su propia muerte. Luciano, que ha sido despojado de su placer, abraza a Alana a la fuerza e intenta hacerla sufrir. Sin embargo, a medida que pasan más tiempo juntos, su odio se convierte en obsesión y empieza a desear un futuro con ella… decidiendo mantenerla con vida para vengarse. Con esa excusa, Luciano se entrega a Alana, pero ella sigue deseando un final…
 
 El príncipe de la venganza y la reina que desea la muerte, ¿cuál es el futuro de estos dos atrapados en su aterrador pasado?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/12EpyOVpKq-_sLs9-vm1Mtw" type="text/html" title="Descargar" />
+<author><name>Niko</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/The-Villains-Love-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-villains-love-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-the-villains-love-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Three Days of Happiness Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-three-days-of-happiness-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-three-days-of-happiness-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/Three-Days-of-Happiness-Portada.jpg" />
-<author><name>Sugaru Miaki (Fafoo)</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">¡LLEGA LA EMOTIVA HISTORIA DE TRES DÍAS DE FELICIDAD, LA NOVELA INÉDITA DE SUGARU MIAKI!
 
 Kusonoki apenas puede llegar a fin de mes, y la situación es tan extrema que al final decide vender todas sus posesiones… incluso su esperanza de vida. Al final cede ante la desesperación, pero tan solo lo valoran en 300 000 yenes, una cantidad ínfima comparada con la media del resto de vidas. Pero, sumido en la miseria, decide dar el paso, y solo cuenta con tres meses para poder disfrutar de ese dinero...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/12adY9bPvzTin5_2rxUI1rQ" type="text/html" title="Descargar" />
+<author><name>Sugaru Miaki (Fafoo)</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/Three-Days-of-Happiness-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-three-days-of-happiness-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-three-days-of-happiness-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>TS Eiseihei-san no Senjou Nikki Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-ts-eiseihei-san-no-senjou-nikki-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-ts-eiseihei-san-no-senjou-nikki-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/05/TS-Medics-Battlefield-Diary-Portada.jpg" />
-<author><name>Masaki Tama</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Gender Bender" label="Gender Bender"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">Un ex jugador profesional de FPS (♂) se reencarna en un mundo de fantasía lleno de magia... ¡Sólo para descubrir que lo que le recibía no era una escena de sus sueños, sino un campo de batalla embarrado lleno de balas volando de un lado a otro! Es más, ¡¿ahora es una niña huérfana llamada Touri Noel?!
 
 Tras descubrirse su aptitud para la magia curativa, decidió alistarse voluntaria en el ejército como médico de segunda clase, todo para recaudar dinero para el orfanato donde había nacido y crecido. Sin embargo, sin recibir siquiera formación mágica, es destinada a un escuadrón de asalto, luchando repetidamente en los campos de batalla más crueles del Frente Occidental.
@@ -1271,23 +862,14 @@ Tras descubrirse su aptitud para la magia curativa, decidió alistarse voluntari
 La misión que se le encomienda es convertirse en la médico personal del as del frente, Garback, y no dejarle morir a cualquier precio. Pero resultó ser el peor de los comandantes, que intentará obtener resultados cueste lo que cueste, ¡incluso si eso significa la muerte de sus subordinados!
 
 En el frente, sumido en órdenes irracionales y violencia, comienza la feroz batalla de Touri por la supervivencia...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1H0xlGv_U-ngVJyIpuYMw0w" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1JcQftPYXY-LvvxknV1WI5A" type="text/html" title="Descargar" />
+<author><name>Masaki Tama</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/05/TS-Medics-Battlefield-Diary-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-ts-eiseihei-san-no-senjou-nikki-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-ts-eiseihei-san-no-senjou-nikki-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>TS Reincarnation Beautiful Girl Netora Reiko Wants to Be Cuckolded Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-ts-reincarnation-beautiful-girl-netora-reiko-wants-to-be-cuckolded-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-ts-reincarnation-beautiful-girl-netora-reiko-wants-to-be-cuckolded-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/TS-Reincarnation-Beautiful-Girl-Netora-Reiko-Wants-to-Be-Cuckolded-Portada.jpg" />
-<author><name>Nihonme Ebitenman</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Gender Bender" label="Gender Bender"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Tragedia" label="Tragedia"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">“¡Sobre todo, quiero convertirme en una heroína de NTR!”
 
 En su vida pasada, fue un vil villano que destr0z0 a innumerables parejas.
@@ -1301,51 +883,40 @@ Como una deslumbrante doncella que también comprende la mente masculina, Reiko 
 Con un encanto calculado, atrapa a su amigo de la infancia y a su mejor amigo, uno tras otro.
 
 Esta belleza TS, obsesionada con la emoción de ser r0b4d4, engaña a todos a su alrededor para destrozar el corazón de su amigo de la infancia en esta escandalosa pero irresistible comedia romántica (?)</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1bwnreVKAXB35IGkI1iP5HA" type="text/html" title="Descargar" />
+<author><name>Nihonme Ebitenman</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/TS-Reincarnation-Beautiful-Girl-Netora-Reiko-Wants-to-Be-Cuckolded-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-ts-reincarnation-beautiful-girl-netora-reiko-wants-to-be-cuckolded-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-ts-reincarnation-beautiful-girl-netora-reiko-wants-to-be-cuckolded-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Who Is the Prey? Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-who-is-the-prey-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-who-is-the-prey-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Who-Is-the-Prey-Portada.jpg" />
-<author><name>贝昕</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Romance" label="Romance"/>
-<category term="Thriller" label="Thriller"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">Hace cuatro años, He Yan envió a un hombre despiadado a prisión creyendo haber escapado de él para siempre. Pero cuando regresa bajo una nueva identidad, convierte su vida en una cruel venganza cuidadosamente planeada.
 
 Atrapada entre el miedo, la manipulación y una obsesión enfermiza, He Yan deberá luchar por conservarse a sí misma mientras ambos quedan envueltos en un peligroso juego.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1CW6Gft6lKXer2zJWzp-EWQ" type="text/html" title="Descargar" />
+<author><name>贝昕</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Who-Is-the-Prey-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-who-is-the-prey-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-who-is-the-prey-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Who Killed the Hero? Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-who-killed-the-hero-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-who-killed-the-hero-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/07/Who-Killed-the-Hero-Portada-1.jpg" />
-<author><name>Daken</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Tragedia" label="Tragedia"/>
 <content type="text">Han pasado cuatro años desde la derrota del Señor de los Demonio. El reino, ahora en paz, ha asumido la tarea de recopilar las numerosas hazañas del Héroe caído, comenzando por entrevistar a los miembros de su antiguo grupo: Leon, el Santo de la Espada, Maria, la Santa Doncella y Solon, el Sabio. Solo queda una pregunta: ¿cómo murió el Héroe? Leer entre líneas estos relatos épicos sobre el pasado del Héroe y las aventuras del grupo juntos revelará poco a poco la verdad. ¿Quién mató al Héroe? ¿Fue el Señor de los Demonio... o un camarada?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1fvHcG_dqZsOS6ZASLQ8TzQ" type="text/html" title="Descargar" />
+<author><name>Daken</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/07/Who-Killed-the-Hero-Portada-1.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-who-killed-the-hero-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-who-killed-the-hero-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>You Shine in the Moonlit Night Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-you-shine-in-the-moonlit-night-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-you-shine-in-the-moonlit-night-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/12/You-Shine-in-the-Moonlit-Night-Portada.jpg" />
-<author><name>Tetsuya Sano</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Romance" label="Romance"/>
-<category term="Tragedia" label="Tragedia"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">EMOTIVA Y EMOCIONANTE NOVELA GANADORA DE LA 23.º EDICIÓN DE LOS PREMIOS DENGEKI
 
 Tras perder a alguien muy importante, Takuya Okada vive de forma temeraria sin importarle mucho qué será de él. No obstante, todo cambia cuando se entera de que una chica de su clase, Mamizu Watarase, padece la llamada “enfermedad de luminiscencia”. Esta enfermedad terminal hace que, al exponerse a los rayos de la luna, su cuerpo brille cada vez más a medida que se acerca el momento de su muerte. Por ello Takuya decide ayudarla a cumplir sus últimos deseos y entablan una bonita amistad...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1akQCsLA_HyZpngMSq-q0sQ" type="text/html" title="Descargar" />
+<author><name>Tetsuya Sano</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/12/You-Shine-in-the-Moonlit-Night-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-you-shine-in-the-moonlit-night-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-you-shine-in-the-moonlit-night-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 </feed>

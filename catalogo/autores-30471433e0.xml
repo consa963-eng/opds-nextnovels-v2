@@ -2,17 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:30471433e0</id>
 <title>Youko Kagura</title>
-<updated>2026-10-20T20:38:42.120432+00:00</updated>
-<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-30471433e0.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<updated>2026-10-20T20:59:07.820370+00:00</updated>
+<link rel="self" href="https://opds-nextnovels-v2.consa963.workers.dev/catalogo/autores-30471433e0.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="start" href="https://opds-nextnovels-v2.consa963.workers.dev/" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
 <entry>
 <title>Onee-san Will Examine You Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-onee-san-will-examine-you-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-onee-san-will-examine-you-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Onee-san-Will-Examine-You-Portada.jpg" />
-<author><name>Youko Kagura</name></author>
-<category term="Harem" label="Harem"/>
-<category term="Hentai" label="Hentai"/>
 <content type="text">Satoru, un chico de constitución débil, ingresa en la sala E. Allí le esperaban cuatro hermanas enfermeras vestidas con leotardos. El atrevido servicio que estas bellezas mayores prestan más allá del ámbito de los cuidados devotos hace que la mente y el cuerpo del chico caigan víctimas de la enfermedad del deseo carnal.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1_AMc0TWGt5mg6hYYzBq57w" type="text/html" title="Descargar" />
+<author><name>Youko Kagura</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Onee-san-Will-Examine-You-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-onee-san-will-examine-you-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-onee-san-will-examine-you-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 </feed>

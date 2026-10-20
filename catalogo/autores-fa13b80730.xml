@@ -2,18 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:fa13b80730</id>
 <title>見鯨落</title>
-<updated>2026-10-20T20:38:42.128139+00:00</updated>
-<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-fa13b80730.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<updated>2026-10-20T20:59:07.822449+00:00</updated>
+<link rel="self" href="https://opds-nextnovels-v2.consa963.workers.dev/catalogo/autores-fa13b80730.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="start" href="https://opds-nextnovels-v2.consa963.workers.dev/" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
 <entry>
 <title>Taking the Mission to Save the Female Supporting Characters Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-taking-the-mission-to-save-the-female-supporting-characters-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-taking-the-mission-to-save-the-female-supporting-characters-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/Taking-the-Mission-to-Save-the-Female-Supporting-Characters-Portada.jpg" />
-<author><name>見鯨落</name></author>
-<category term="Adulto" label="Adulto"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Romance" label="Romance"/>
-<category term="Yuri" label="Yuri"/>
 <content type="text">Song Lingshu se une de repente a un sistema, y su misión es mantener el orden en incontables mundos pequeños llenos del resentimiento de los personajes femeninos secundarios. Para regresar a su propio mundo, debe resolver sus problemas y aliviar su sufrimiento.
 
 ***
@@ -42,19 +36,10 @@ Song Lingshu se convierte en una emperatriz promiscua con un harén de tres mil 
 
 ***
 
-Mundo 4: La chica de campo de los 90
-
-Song Lingshu se despierta en una casa rural pobre de los 90, con un tartamudeo severo. Su nueva vecina es una "falsa" heredera que fue intercambiada al nacer y ahora está deprimida después de una caída en desgracia. Su misión es animar a la chica. Intenta decir "Me gustas, seamos felices juntas", pero le sale: "M-M-Me... gustas, s-s-seamos tontas juntas", lo que confunde y encanta a la otra chica.
-
-***
-
-Mundo 5: La maestra inmortal y la discípula
-
-Song Lingshu se convierte en una maestra despreocupada y amnésica de una discípula de corazón oscuro que está enfocada en ascender a la divinidad. La discípula se esfuerza mucho por obtener su método de cultivación secreto, solo para descubrir que está lleno de los 24 valores socialistas fundamentales de China. Ella le dice:
-
-----Debes recordar estas 24 palabras. ¡Ascender no será un problema!
-
-La discípula, aunque confundida, decide ponerlos en práctica.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1NFwO2g-kZgYQSOyuoEmupg" type="text/html" title="Descargar" />
+Mundo 4: La chica de campo de</content>
+<author><name>見鯨落</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/Taking-the-Mission-to-Save-the-Female-Supporting-Characters-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-taking-the-mission-to-save-the-female-supporting-characters-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-taking-the-mission-to-save-the-female-supporting-characters-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 </feed>

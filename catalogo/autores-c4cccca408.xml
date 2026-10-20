@@ -2,26 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:c4cccca408</id>
 <title>Aizawa Daisuke</title>
-<updated>2026-10-20T20:38:42.003804+00:00</updated>
-<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-c4cccca408.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<updated>2026-10-20T20:59:07.737413+00:00</updated>
+<link rel="self" href="https://opds-nextnovels-v2.consa963.workers.dev/catalogo/autores-c4cccca408.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="start" href="https://opds-nextnovels-v2.consa963.workers.dev/" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
 <entry>
 <title>Kage no Jitsuryokusha ni Naritakute! Novela Ligera en Español</title>
 <id>https://nextnovels.com/kage-no-jitsuryokusha-ni-naritakute-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/kage-no-jitsuryokusha-ni-naritakute-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-90.jpg" />
-<author><name>Aizawa Daisuke</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Artes marciales" label="Artes marciales"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Al igual que todo el mundo adoraba a los héroes en su infancia, cierto joven adoraba esos poderes ocultos en las sombras. Tras ocultar su fuerza y vivir la mediocre vida de un personaje de la mafia durante el día mientras se somete a un frenético entrenamiento por la noche, finalmente se reencarna en un mundo diferente y obtiene el poder definitivo. El joven que sólo juega a ser un poder en la sombra, sus subordinados incomprendidos, y una gigantesca organización en la sombra que es pisoteada.... Esta es la historia de un joven que ha adorado los poderes en las sombras, posiblemente reinando sobre el mundo de las sombras en otro mundo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1WIJbfMkD4GrMfwr4KKCiAA" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1UT-LPdbXvOXU5OmWay44cg" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/10f55OdvxM_zXi4buwQlvWQ" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1FPKOeepVEwRl6BnWzTl_6g" type="text/html" title="Descargar" />
+<author><name>Aizawa Daisuke</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-90.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/kage-no-jitsuryokusha-ni-naritakute-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fkage-no-jitsuryokusha-ni-naritakute-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 </feed>

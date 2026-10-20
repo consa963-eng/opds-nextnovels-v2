@@ -2,25 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:c319c635ea</id>
 <title>Takayama Seiichi</title>
-<updated>2026-10-20T20:38:42.103219+00:00</updated>
-<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-c319c635ea.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<updated>2026-10-20T20:59:07.805139+00:00</updated>
+<link rel="self" href="https://opds-nextnovels-v2.consa963.workers.dev/catalogo/autores-c319c635ea.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="start" href="https://opds-nextnovels-v2.consa963.workers.dev/" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
 <entry>
 <title>Hyakuren no Haou to Seiyaku no Valkyria Novela Ligera en Español</title>
 <id>https://nextnovels.com/hyakuren-no-haou-to-seiyaku-no-valkyria-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/hyakuren-no-haou-to-seiyaku-no-valkyria-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-50.jpg" />
-<author><name>Takayama Seiichi</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
 <content type="text">Un moderno estudiante de secundaria llamado Suou Yuuto, acaba en otro mundo llamado "Yggdrasil", justo en medio de la guerra. En un mundo regido por la supervivencia del más fuerte, en el que los numerosos clanes luchan por la hegemonía, Yuuto se alza como patriarca del clan "Lobo" con tan solo 16 años, liderando a miles de soldados utilizando sus conocimientos del mundo moderno como arma.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Ui_xDnah3Ijb5Xcutvrqlw" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1xGcYVggmRRlmHkyo6vxbzg" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1aF27l1xjjg5v-PbSfEpn4w" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1BxrFhriivY_C6_khk2G0xg" type="text/html" title="Descargar" />
+<author><name>Takayama Seiichi</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-50.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/hyakuren-no-haou-to-seiyaku-no-valkyria-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fhyakuren-no-haou-to-seiyaku-no-valkyria-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 </feed>

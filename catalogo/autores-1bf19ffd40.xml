@@ -2,18 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:1bf19ffd40</id>
 <title>Sabu Meiji</title>
-<updated>2026-10-20T20:38:42.086199+00:00</updated>
-<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1bf19ffd40.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<updated>2026-10-20T20:59:07.787824+00:00</updated>
+<link rel="self" href="https://opds-nextnovels-v2.consa963.workers.dev/catalogo/autores-1bf19ffd40.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="start" href="https://opds-nextnovels-v2.consa963.workers.dev/" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
 <entry>
 <title>Lilith Who Lost Her Arm Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-lilith-who-lost-her-arm-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-lilith-who-lost-her-arm-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/Lilith-Who-Lost-Her-Arm-Portada.jpg" />
-<author><name>Sabu Meiji</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Romance" label="Romance"/>
-<category term="Supernatural" label="Supernatural"/>
 <content type="text">Premio Sneaker «Medalla de Oro». La historia de un chico exorcista y una chica demonio, y el final de su encuentro...
 
 ◇ 1 de noviembre del año 36 de la era Meiji / Asentamiento extranjero de Kobe
@@ -27,6 +21,9 @@ Quien apareció fue una joven tan bella que podía confundirse con un ángel: Ri
 Kaina, que había intercambiado el poder demoníaco por una vida ligada al destino de Ririsu, se convirtió en su compañero inseparable. ¿El final de su viaje será la perdición en el purgatorio, o un camino de hegemonía que conquiste el futuro?
 
 La crónica sobrenatural de exorcistas de la era Meiji, «Ririsu, la que perdió el brazo», comienza aquí.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/19UyfzFMIROKaZ43ZxTv1Lw" type="text/html" title="Descargar" />
+<author><name>Sabu Meiji</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/Lilith-Who-Lost-Her-Arm-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-lilith-who-lost-her-arm-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-lilith-who-lost-her-arm-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 </feed>

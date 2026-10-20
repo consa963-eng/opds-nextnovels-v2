@@ -2,19 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:128ee68594</id>
 <title>조형근</title>
-<updated>2026-10-20T20:38:42.131077+00:00</updated>
-<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-128ee68594.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<updated>2026-10-20T20:59:07.823185+00:00</updated>
+<link rel="self" href="https://opds-nextnovels-v2.consa963.workers.dev/catalogo/autores-128ee68594.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="start" href="https://opds-nextnovels-v2.consa963.workers.dev/" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
 <entry>
 <title>Heavenly Demon Cultivation Simulation Novela Web en Español</title>
 <id>https://nextnovels.com/heavenly-demon-cultivation-simulation-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/heavenly-demon-cultivation-simulation-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/09/Heavenly-Demon-Cultivation-Simulation-Portada.webp" />
-<author><name>조형근</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Artes marciales" label="Artes marciales"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Wuxia" label="Wuxia"/>
 <content type="text">Que extraño.
 
 Pensé que estaba muerto, pero palabras extrañas cegaron mis ojos.
@@ -36,14 +29,9 @@ Pero, ¿qué era esto ante mis ojos? Este texto.
 [Usted eligió Reiniciar desde el principio ]
 
 Esta es la historia de Seol Hwi mientras intenta encontrar la mejor decisión en su mundo mezclado con la vida y la muerte.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fterabox.com%2Fs%2F1xvNUFaHcFIDsYZ8qO4c8Tg&amp;fs_id=580485728647399&amp;name=Heavenly+Demon+Cultivation+Simulation+-+C401-450+%5BNovelas+MTL%5D.pdf" type="application/pdf" title="Heavenly Demon Cultivation Simulation - C401-450 [Novelas MTL].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fterabox.com%2Fs%2F1xvNUFaHcFIDsYZ8qO4c8Tg&amp;fs_id=502712661278626&amp;name=Heavenly+Demon+Cultivation+Simulation+-+C351-400+%5BAnimeshoy12%5D.pdf" type="application/pdf" title="Heavenly Demon Cultivation Simulation - C351-400 [Animeshoy12].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fterabox.com%2Fs%2F1xvNUFaHcFIDsYZ8qO4c8Tg&amp;fs_id=1081339115504577&amp;name=Heavenly+Demon+Cultivation+Simulation+-+C301-350+%5BAnimeshoy12%5D.pdf" type="application/pdf" title="Heavenly Demon Cultivation Simulation - C301-350 [Animeshoy12].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fterabox.com%2Fs%2F1xvNUFaHcFIDsYZ8qO4c8Tg&amp;fs_id=565095576844825&amp;name=Heavenly+Demon+Cultivation+Simulation+-+C251-300+%5BAnimeshoy12%5D.pdf" type="application/pdf" title="Heavenly Demon Cultivation Simulation - C251-300 [Animeshoy12].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fterabox.com%2Fs%2F1xvNUFaHcFIDsYZ8qO4c8Tg&amp;fs_id=207237440031728&amp;name=Heavenly+Demon+Cultivation+Simulation+-+C201-250+%5BAnimeshoy12%5D.pdf" type="application/pdf" title="Heavenly Demon Cultivation Simulation - C201-250 [Animeshoy12].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fterabox.com%2Fs%2F1xvNUFaHcFIDsYZ8qO4c8Tg&amp;fs_id=905504554341576&amp;name=Heavenly+Demon+Cultivation+Simulation+-+C151-200+%5BAnimeshoy12%5D.pdf" type="application/pdf" title="Heavenly Demon Cultivation Simulation - C151-200 [Animeshoy12].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fterabox.com%2Fs%2F1xvNUFaHcFIDsYZ8qO4c8Tg&amp;fs_id=677061060859689&amp;name=Heavenly+Demon+Cultivation+Simulation+-+C101-150+%5BAnimeshoy12%5D.pdf" type="application/pdf" title="Heavenly Demon Cultivation Simulation - C101-150 [Animeshoy12].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fterabox.com%2Fs%2F1xvNUFaHcFIDsYZ8qO4c8Tg&amp;fs_id=647095230660353&amp;name=Heavenly+Demon+Cultivation+Simulation+-+C051-100+%5BAnimeshoy12%5D.pdf" type="application/pdf" title="Heavenly Demon Cultivation Simulation - C051-100 [Animeshoy12].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fterabox.com%2Fs%2F1xvNUFaHcFIDsYZ8qO4c8Tg&amp;fs_id=105266490478268&amp;name=Heavenly+Demon+Cultivation+Simulation+-+C001-050+%5BAnimeshoy12%5D.pdf" type="application/pdf" title="Heavenly Demon Cultivation Simulation - C001-050 [Animeshoy12].pdf" />
+<author><name>조형근</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/09/Heavenly-Demon-Cultivation-Simulation-Portada.webp"/>
+<link rel="alternate" href="https://nextnovels.com/heavenly-demon-cultivation-simulation-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fheavenly-demon-cultivation-simulation-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 </feed>

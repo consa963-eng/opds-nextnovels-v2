@@ -2,20 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:9e2cb54b46</id>
 <title>Troy Denning</title>
-<updated>2026-10-20T20:38:42.110244+00:00</updated>
-<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-9e2cb54b46.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<updated>2026-10-20T20:59:07.806802+00:00</updated>
+<link rel="self" href="https://opds-nextnovels-v2.consa963.workers.dev/catalogo/autores-9e2cb54b46.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="start" href="https://opds-nextnovels-v2.consa963.workers.dev/" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
 <entry>
 <title>Halo: Outcast Novela en Español</title>
 <id>https://nextnovels.com/descargar-halo-outcast-novela-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-halo-outcast-novela-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/Halo-Outcast-Portada.jpg" />
-<author><name>Troy Denning</name></author>
-<category term="Aventura" label="Aventura"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Fantasía" label="Fantasía"/>
 <content type="text">2559. El Inquisidor Thel 'Vadam, que en su día fue uno de los guerreros más grandes y temibles del Covenant, ahora está aliado con sus antiguos enemigos humanos, al tiempo que se encuentra profundamente comprometido con llevar al pueblo Sangheili a una nueva era de unificación. Pero sus aspiraciones se ven constantemente amenazadas, ya sea por las peligrosas facciones beligerantes de las fortalezas rivales Sangheili o por la implacable sombra de opresión que proyecta la inteligencia artificial renegada Cortana.
 
 De repente, se presenta una oportunidad para romper las cadenas de Cortana gracias a los rumores sobre la existencia de un antiguo artefacto ubicado en el hostil mundo de Netherop. La Spartan Olympia Vale, entrenada con las habilidades necesarias para vivir y prosperar entre los sangheili, también reconoce este tesoro alienígena como un medio esencial para ayudar a la humanidad a alcanzar el mismo objetivo de libertad. Pero, entre bastidores, tanto 'Vadam como Vale están siendo manipulados por una misteriosa figura con sus propios intereses. Y para empeorar las cosas, todos los involucrados se están poniendo, sin saberlo, en una situación peligrosa frente a fuerzas que escapan a su comprensión.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1QTG9LE7q2af7sHa7MM4xBw" type="text/html" title="Descargar" />
+<author><name>Troy Denning</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/Halo-Outcast-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-halo-outcast-novela-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-halo-outcast-novela-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 </feed>

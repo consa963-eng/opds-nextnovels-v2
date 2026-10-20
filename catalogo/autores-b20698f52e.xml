@@ -2,20 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:b20698f52e</id>
 <title>Kelly Gay</title>
-<updated>2026-10-20T20:38:42.045847+00:00</updated>
-<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-b20698f52e.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<updated>2026-10-20T20:59:07.775075+00:00</updated>
+<link rel="self" href="https://opds-nextnovels-v2.consa963.workers.dev/catalogo/autores-b20698f52e.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="start" href="https://opds-nextnovels-v2.consa963.workers.dev/" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
 <entry>
 <title>Halo: Edge of Dawn Novela en Español</title>
 <id>https://nextnovels.com/descargar-halo-edge-of-dawn-novela-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-halo-edge-of-dawn-novela-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/Halo-Edge-of-Dawn-Portada.jpg" />
-<author><name>Kelly Gay</name></author>
-<category term="Aventura" label="Aventura"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Fantasía" label="Fantasía"/>
 <content type="text">"2560. Tras eliminar al Jefe de guerra Escharum y sumir en el caos a los líderes de los Desterrados, el Jefe Maestro continúa la lucha en Zeta Halo, acompañado por su nueva compañera IA y su leal piloto, Fernando Esparza.
 
 Mientras el Spartan-117 busca a las fuerzas aliadas dispersas, un joven médico de combate—torturado y encarcelado durante meses por los Desterrados y el enigmático Heraldo—podría tener la clave para desentrañar misterios más profundos dentro de este antiguo mundo anillo. Pero cada paso hacia las respuestas está acechado por el siniestro y escurridizo maestro espadachín Jega ‘Rdomnai, quien está empeñado en vengarse..."</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1W3ng4F-IAtvnaXWxVbkoXw" type="text/html" title="Descargar" />
+<author><name>Kelly Gay</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/Halo-Edge-of-Dawn-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-halo-edge-of-dawn-novela-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-halo-edge-of-dawn-novela-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 </feed>

@@ -2,22 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:2fe814369d</id>
 <title>You Si Jie</title>
-<updated>2026-10-20T20:38:42.119882+00:00</updated>
-<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-2fe814369d.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<updated>2026-10-20T20:59:07.820212+00:00</updated>
+<link rel="self" href="https://opds-nextnovels-v2.consa963.workers.dev/catalogo/autores-2fe814369d.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="start" href="https://opds-nextnovels-v2.consa963.workers.dev/" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
 <entry>
 <title>A Cup Of Love Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-a-cup-of-love-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-a-cup-of-love-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/01/A-Cup-Of-Love-Portada-1.jpg" />
-<author><name>You Si Jie</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Histórico" label="Histórico"/>
-<category term="Romance" label="Romance"/>
 <content type="text">El mundo entero la ha decepcionado, excepto Shen Run. Él nunca la traicionaría. Este hombre experimentado, que había resistido innumerables tormentas y había visto las luces más brillantes y las ciudades más deslumbrantes, había puesto sus ojos en ella. Una vez que lo hizo, su corazón se volvió tan firme como una roca, dispuesto a no detenerse ante nada para protegerla.
 
 La delicada joven era como una flor frágil, que requería una cuidadosa crianza para asegurarse de que no fuera aplastada. Una vez, la mantuvieron en el jarrón de otra persona; incluso solo para admirarla, tuvo que devanarse los sesos buscando excusas para visitarla.
 
 Ahora, ella ha sido trasplantada a su jardín, donde él le proporciona tierra rica y lluvia suave, lo que le permite crecer tan libremente como ella desee. Todo lo que pide a cambio es la oportunidad de verla, una y otra vez.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/10nFJgTcZIkFdlAb0AeqTGA" type="text/html" title="Descargar" />
+<author><name>You Si Jie</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/01/A-Cup-Of-Love-Portada-1.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-a-cup-of-love-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-a-cup-of-love-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 </feed>

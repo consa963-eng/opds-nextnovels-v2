@@ -2,21 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:127e07fa26</id>
 <title>Okayu Masaki</title>
-<updated>2026-10-20T20:38:42.078834+00:00</updated>
-<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-127e07fa26.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<updated>2026-10-20T20:59:07.785868+00:00</updated>
+<link rel="self" href="https://opds-nextnovels-v2.consa963.workers.dev/catalogo/autores-127e07fa26.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="start" href="https://opds-nextnovels-v2.consa963.workers.dev/" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
 <entry>
 <title>Bludgeoning Angel Dokuro-chan Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-bludgeoning-angel-dokuro-chan-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-bludgeoning-angel-dokuro-chan-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/04/Bludgeoning-Angel-Dokuro-chan-Portada.jpg" />
-<author><name>Okayu Masaki</name></author>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Pi piru piru piru pi piru pi～♪
 
 Junto con una misteriosa onomatopeya, un ángel aparece de repente en la casa de Sakura Sakura-kun (estudiante de segundo de secundaria).
@@ -24,6 +15,9 @@ Junto con una misteriosa onomatopeya, un ángel aparece de repente en la casa de
 ¿¡El nombre de esa chica es Dokuro-chan, el Ángel Apaleador!?
 
 Sin que él se dé cuenta, Dokuro-chan se instala de gorra en casa de Sakura y empieza a seducirlo (en todos los sentidos)… ¡¡!!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1j4LafT-I3SwC2hjlET76pg" type="text/html" title="Descargar" />
+<author><name>Okayu Masaki</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/04/Bludgeoning-Angel-Dokuro-chan-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-bludgeoning-angel-dokuro-chan-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-bludgeoning-angel-dokuro-chan-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 </feed>

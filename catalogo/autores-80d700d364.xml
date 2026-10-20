@@ -2,72 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:autores:80d700d364</id>
 <title>Fuminori Teshima</title>
-<updated>2026-10-20T20:38:42.020318+00:00</updated>
-<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-80d700d364.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<updated>2026-10-20T20:59:07.766181+00:00</updated>
+<link rel="self" href="https://opds-nextnovels-v2.consa963.workers.dev/catalogo/autores-80d700d364.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="start" href="https://opds-nextnovels-v2.consa963.workers.dev/" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
 <entry>
 <title>An Archdemon's Dilemma Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-an-archdemons-dilemma-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-an-archdemons-dilemma-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/07/An-Archdemons-Dilemma-Portada.jpg" />
-<author><name>Fuminori Teshima</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Supernatural" label="Supernatural"/>
 <content type="text">Zagan es temido por las masas como un hechicero malvado. Socialmente torpe y mal hablado, pasa sus días estudiando hechicería mientras derrota a los intrusos dentro de su dominio. Un día es invitado a una subasta oscura, y lo que encuentra allí es una esclava elfa de incomparable belleza, Nephy. Habiéndose enamorado a primera vista, Zagan gasta toda su fortuna para comprarla, pero como es un pobre conversador, no tiene idea de cómo interactuar adecuadamente con ella. Así comienza la incómoda convivencia de un hechicero que no tiene idea de cómo transmitir su amor y su esclava que anhela a su amo pero no tiene idea de cómo apelar a él.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1GfblmZq-3YaDuBV6Iiv1eQ&amp;fs_id=1042851851793533&amp;name=An+Archdemons+Dilemma+-+Volumen+04+%5BEHJR%5D.pdf" type="application/pdf" title="An Archdemons Dilemma - Volumen 04 [EHJR].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1GfblmZq-3YaDuBV6Iiv1eQ&amp;fs_id=306013192421231&amp;name=An+Archdemons+Dilemma+-+Volumen+03+%5BEHJR%5D.pdf" type="application/pdf" title="An Archdemons Dilemma - Volumen 03 [EHJR].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1GfblmZq-3YaDuBV6Iiv1eQ&amp;fs_id=353279797855713&amp;name=An+Archdemons+Dilemma+-+Volumen+02+%5BEHJR%5D.pdf" type="application/pdf" title="An Archdemons Dilemma - Volumen 02 [EHJR].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1GfblmZq-3YaDuBV6Iiv1eQ&amp;fs_id=493680494374629&amp;name=An+Archdemons+Dilemma+-+Volumen+01+%5BEHJR%5D.pdf" type="application/pdf" title="An Archdemons Dilemma - Volumen 01 [EHJR].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1pYpt_f3CQ_7VPd3Z-Zz2kw&amp;fs_id=1032833271348083&amp;name=An+Archdemons+Dilemma+-+Volumen+11+%5BFerindrad%5D.pdf" type="application/pdf" title="An Archdemons Dilemma - Volumen 11 [Ferindrad].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1pYpt_f3CQ_7VPd3Z-Zz2kw&amp;fs_id=932298290352362&amp;name=An+Archdemons+Dilemma+-+Volumen+11+%5BFerindrad%5D.epub" type="application/epub+zip" title="An Archdemons Dilemma - Volumen 11 [Ferindrad].epub" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1pYpt_f3CQ_7VPd3Z-Zz2kw&amp;fs_id=190707718861221&amp;name=An+Archdemons+Dilemma+-+Volumen+10+%5BFerindrad%5D.pdf" type="application/pdf" title="An Archdemons Dilemma - Volumen 10 [Ferindrad].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1pYpt_f3CQ_7VPd3Z-Zz2kw&amp;fs_id=63829579476339&amp;name=An+Archdemons+Dilemma+-+Volumen+10+%5BFerindrad%5D.epub" type="application/epub+zip" title="An Archdemons Dilemma - Volumen 10 [Ferindrad].epub" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1pYpt_f3CQ_7VPd3Z-Zz2kw&amp;fs_id=398514960959744&amp;name=An+Archdemons+Dilemma+-+Volumen+08+%5BFerindrad%5D.pdf" type="application/pdf" title="An Archdemons Dilemma - Volumen 08 [Ferindrad].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1pYpt_f3CQ_7VPd3Z-Zz2kw&amp;fs_id=1028135368584373&amp;name=An+Archdemons+Dilemma+-+Volumen+08+%5BFerindrad%5D.epub" type="application/epub+zip" title="An Archdemons Dilemma - Volumen 08 [Ferindrad].epub" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1pYpt_f3CQ_7VPd3Z-Zz2kw&amp;fs_id=971541394824863&amp;name=An+Archdemons+Dilemma+-+Volumen+07+%5BFerindrad%5D.pdf" type="application/pdf" title="An Archdemons Dilemma - Volumen 07 [Ferindrad].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1pYpt_f3CQ_7VPd3Z-Zz2kw&amp;fs_id=362383040226030&amp;name=An+Archdemons+Dilemma+-+Volumen+07+%5BFerindrad%5D.epub" type="application/epub+zip" title="An Archdemons Dilemma - Volumen 07 [Ferindrad].epub" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1pYpt_f3CQ_7VPd3Z-Zz2kw&amp;fs_id=1060166493715666&amp;name=An+Archdemons+Dilemma+-+Volumen+06+%5BFerindrad%5D.pdf" type="application/pdf" title="An Archdemons Dilemma - Volumen 06 [Ferindrad].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1pYpt_f3CQ_7VPd3Z-Zz2kw&amp;fs_id=438632152223044&amp;name=An+Archdemons+Dilemma+-+Volumen+06+%5BFerindrad%5D.epub" type="application/epub+zip" title="An Archdemons Dilemma - Volumen 06 [Ferindrad].epub" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1pYpt_f3CQ_7VPd3Z-Zz2kw&amp;fs_id=704112826642430&amp;name=An+Archdemons+Dilemma+-+Volumen+05+%5BFerindrad%5D.pdf" type="application/pdf" title="An Archdemons Dilemma - Volumen 05 [Ferindrad].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1pYpt_f3CQ_7VPd3Z-Zz2kw&amp;fs_id=119640411706847&amp;name=An+Archdemons+Dilemma+-+Volumen+05+%5BFerindrad%5D.epub" type="application/epub+zip" title="An Archdemons Dilemma - Volumen 05 [Ferindrad].epub" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1uVNdeUP2MZQuvD1Vsc4xNA&amp;fs_id=889793381507950&amp;name=An+Archdemons+Dilemma+-+Volumen+21+%5BWP%5D.pdf" type="application/pdf" title="An Archdemons Dilemma - Volumen 21 [WP].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1uVNdeUP2MZQuvD1Vsc4xNA&amp;fs_id=496462477865418&amp;name=An+Archdemons+Dilemma+-+Volumen+20+%5BWP%5D.pdf" type="application/pdf" title="An Archdemons Dilemma - Volumen 20 [WP].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1uVNdeUP2MZQuvD1Vsc4xNA&amp;fs_id=44846916981474&amp;name=An+Archdemons+Dilemma+-+Volumen+19+%5BWP%5D.pdf" type="application/pdf" title="An Archdemons Dilemma - Volumen 19 [WP].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1uVNdeUP2MZQuvD1Vsc4xNA&amp;fs_id=251959056483363&amp;name=An+Archdemons+Dilemma+-+Volumen+18+%5BWP%5D.pdf" type="application/pdf" title="An Archdemons Dilemma - Volumen 18 [WP].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1uVNdeUP2MZQuvD1Vsc4xNA&amp;fs_id=1010134339947821&amp;name=An+Archdemons+Dilemma+-+Volumen+17+%5BWP%5D.pdf" type="application/pdf" title="An Archdemons Dilemma - Volumen 17 [WP].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1uVNdeUP2MZQuvD1Vsc4xNA&amp;fs_id=72674716038040&amp;name=An+Archdemons+Dilemma+-+Volumen+16+%5BWP%5D.pdf" type="application/pdf" title="An Archdemons Dilemma - Volumen 16 [WP].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1uVNdeUP2MZQuvD1Vsc4xNA&amp;fs_id=765127625702129&amp;name=An+Archdemons+Dilemma+-+Volumen+15+%5BWP%5D.pdf" type="application/pdf" title="An Archdemons Dilemma - Volumen 15 [WP].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1uVNdeUP2MZQuvD1Vsc4xNA&amp;fs_id=472333777829575&amp;name=An+Archdemons+Dilemma+-+Volumen+14+%5BWP%5D.pdf" type="application/pdf" title="An Archdemons Dilemma - Volumen 14 [WP].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1uVNdeUP2MZQuvD1Vsc4xNA&amp;fs_id=842120238748408&amp;name=An+Archdemons+Dilemma+-+Volumen+13+%5BWP%5D.pdf" type="application/pdf" title="An Archdemons Dilemma - Volumen 13 [WP].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1uVNdeUP2MZQuvD1Vsc4xNA&amp;fs_id=321905831777237&amp;name=An+Archdemons+Dilemma+-+Volumen+12+%5BWP%5D.pdf" type="application/pdf" title="An Archdemons Dilemma - Volumen 12 [WP].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1uVNdeUP2MZQuvD1Vsc4xNA&amp;fs_id=294146748185151&amp;name=An+Archdemons+Dilemma+-+Volumen+11+%5BWP%5D.pdf" type="application/pdf" title="An Archdemons Dilemma - Volumen 11 [WP].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1uVNdeUP2MZQuvD1Vsc4xNA&amp;fs_id=605378040786384&amp;name=An+Archdemons+Dilemma+-+Volumen+10+%5BWP%5D.pdf" type="application/pdf" title="An Archdemons Dilemma - Volumen 10 [WP].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1uVNdeUP2MZQuvD1Vsc4xNA&amp;fs_id=1022209210793638&amp;name=An+Archdemons+Dilemma+-+Volumen+09+%5BWP%5D.pdf" type="application/pdf" title="An Archdemons Dilemma - Volumen 09 [WP].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1uVNdeUP2MZQuvD1Vsc4xNA&amp;fs_id=198377286911420&amp;name=An+Archdemons+Dilemma+-+Volumen+08+%5BWP%5D.pdf" type="application/pdf" title="An Archdemons Dilemma - Volumen 08 [WP].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1uVNdeUP2MZQuvD1Vsc4xNA&amp;fs_id=693657512062248&amp;name=An+Archdemons+Dilemma+-+Volumen+07+%5BWP%5D.pdf" type="application/pdf" title="An Archdemons Dilemma - Volumen 07 [WP].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1uVNdeUP2MZQuvD1Vsc4xNA&amp;fs_id=635282956961073&amp;name=An+Archdemons+Dilemma+-+Volumen+06+%5BWP%5D.pdf" type="application/pdf" title="An Archdemons Dilemma - Volumen 06 [WP].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1uVNdeUP2MZQuvD1Vsc4xNA&amp;fs_id=503527968407457&amp;name=An+Archdemons+Dilemma+-+Volumen+05+%5BWP%5D.pdf" type="application/pdf" title="An Archdemons Dilemma - Volumen 05 [WP].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1uVNdeUP2MZQuvD1Vsc4xNA&amp;fs_id=772842103487631&amp;name=An+Archdemons+Dilemma+-+Volumen+04+%5BWP%5D.pdf" type="application/pdf" title="An Archdemons Dilemma - Volumen 04 [WP].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1uVNdeUP2MZQuvD1Vsc4xNA&amp;fs_id=913396534229944&amp;name=An+Archdemons+Dilemma+-+Volumen+03+%5BWP%5D.pdf" type="application/pdf" title="An Archdemons Dilemma - Volumen 03 [WP].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1uVNdeUP2MZQuvD1Vsc4xNA&amp;fs_id=217412797760176&amp;name=An+Archdemons+Dilemma+-+Volumen+02+%5BWP%5D.pdf" type="application/pdf" title="An Archdemons Dilemma - Volumen 02 [WP].pdf" />
-<link rel="http://opds-spec.org/acquisition" href="https://opds-nextnovels-v2.consa963.workers.dev/descargar?url=https%3A%2F%2Fteraboxapp.com%2Fs%2F1uVNdeUP2MZQuvD1Vsc4xNA&amp;fs_id=745656624352300&amp;name=An+Archdemons+Dilemma+-+Volumen+01+%5BWP%5D.pdf" type="application/pdf" title="An Archdemons Dilemma - Volumen 01 [WP].pdf" />
+<author><name>Fuminori Teshima</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/07/An-Archdemons-Dilemma-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-an-archdemons-dilemma-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-an-archdemons-dilemma-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Wounded Butterfly and Orca of the Sky Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-wounded-butterfly-and-orca-of-the-sky-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-wounded-butterfly-and-orca-of-the-sky-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/Wounded-Butterfly-and-Orca-of-the-Sky-Portada.jpg" />
-<author><name>Fuminori Teshima</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Militar" label="Militar"/>
-<category term="Romance" label="Romance"/>
 <content type="text">«Es una promesa. Volemos juntos… ¡hasta el fin del cielo!»
 
 Un mundo donde las islas flotan sobre un mar de niebla.
@@ -79,6 +28,9 @@ Will carece de destreza de pilotaje y le cuesta predecir las corrientes de vient
 Aun así, el anhelo por el firmamento los impulsa a desafiar una niebla colmada de peligros… todo por explorar «el fondo del cielo».
 
 ¡Sube a bordo de una nave alada biplaza y disfruta de una emocionante fantasía de aventuras a toda velocidad sobre las nubes!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/15u2TGzZXK_OmXJDu_kFv9w" type="text/html" title="Descargar" />
+<author><name>Fuminori Teshima</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/Wounded-Butterfly-and-Orca-of-the-Sky-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-wounded-butterfly-and-orca-of-the-sky-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-wounded-butterfly-and-orca-of-the-sky-novela-ligera-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 </feed>

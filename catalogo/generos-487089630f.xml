@@ -2,95 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:generos:487089630f</id>
 <title>Xuanhuan</title>
-<updated>2026-10-20T20:38:42.253906+00:00</updated>
-<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-487089630f.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<updated>2026-10-20T20:59:07.879004+00:00</updated>
+<link rel="self" href="https://opds-nextnovels-v2.consa963.workers.dev/catalogo/generos-487089630f.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="start" href="https://opds-nextnovels-v2.consa963.workers.dev/" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
 <entry>
 <title>Absolute Resonance Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-absolute-resonance-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-absolute-resonance-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/08/Absolute-Resonance-Portada.jpg" />
-<author><name>Heavenly Silkworm Potato</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<category term="Xuanhuan" label="Xuanhuan"/>
 <content type="text">En la tierra del Reino Xia, todos los seres humanos nacen con lo que se conoce como una "resonancia", ya sea a un elemento específico o a una poderosa bestia mítica. Por desgracia, Li Luo nació con una condición increíblemente rara conocida como resonancia en blanco: como su nombre indica, ¡no tiene ninguna! En condiciones normales, esto sería totalmente incapacitante, pero al menos tiene la ventaja de ser el joven maestro de la poderosa Casa Loulan, una de las cinco Grandes Casas de Xia. Por desgracia, sus padres, los poderosos señores de la Casa Loulan, han desaparecido durante muchos años, y las otras Grandes Casas están empezando a mirar sus posesiones con bastante avidez. Además, muchos de ellos también tienen en el punto de mira a su bella y talentosa amiga de la infancia y prometida Jiang Qing'e, que ha liderado la Casa Loulan en lugar de sus padres. Li Luo prefiere pasar desapercibido y quiere cancelar el compromiso, pero Jiang Qing'e se ha negado rotundamente. ¿Qué puede hacer un "joven maestro inútil"?
 
 ¿Hay alguna forma de librarse de este compromiso? ¿Podrá encontrar la manera de proteger su Casa de los chacales que la rodean? Y... ¿es realmente inútil una resonancia en blanco?
 
 ¡Ven a descubrirlo!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1QvKDipEB-mgtmyrqxUbzZA" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1u17A8oxKvA9yMZGz0iRvrQ" type="text/html" title="Descargar" />
+<author><name>Heavenly Silkworm Potato</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/08/Absolute-Resonance-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-absolute-resonance-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-absolute-resonance-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Divine Transcendence Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-divine-transcendence-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-divine-transcendence-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/07/Divine-Transcendence-Portada.jpg" />
-<author><name>Wang Yu</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Artes marciales" label="Artes marciales"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Xianxia" label="Xianxia"/>
-<category term="Xuanhuan" label="Xuanhuan"/>
 <content type="text">¿Qué es un inmortal? Son mortales que se han transformado tomando la esencia del cielo y de la tierra, despojándose de sus cuerpos mundanos y obteniendo la creación del universo.
 
 Esta es la leyenda de una bestia s*ave que está descontenta con su destino y lucha contra todos los reinos.
 
 Sabe que sólo convirtiéndose en inmortal podrá este reino recuperar por fin el aliento.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1ANLg4CLYR_aL2ssydXqodA" type="text/html" title="Descargar" />
+<author><name>Wang Yu</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/07/Divine-Transcendence-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-divine-transcendence-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-divine-transcendence-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Lord of the Mysteries 2: Circle of Inevitability Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-lord-of-the-mysteries-2-circle-of-inevitability-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-lord-of-the-mysteries-2-circle-of-inevitability-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/06/Circle-of-Inevitability-Portada.jpg" />
-<author><name>Cuttlefish That Loves Diving</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Horror" label="Horror"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Xuanhuan" label="Xuanhuan"/>
 <content type="text">El Señor de los Misterios, segunda parte.
 
 En 1368, a finales de julio. Un escarlata sangriento descenderá del cielo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1dKEfNmPbfJForxE1qRtH9w" type="text/html" title="Descargar" />
+<author><name>Cuttlefish That Loves Diving</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/06/Circle-of-Inevitability-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-lord-of-the-mysteries-2-circle-of-inevitability-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-lord-of-the-mysteries-2-circle-of-inevitability-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Martial World Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-martial-world-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-martial-world-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/08/Martial-World-Portada.jpg" />
-<author><name>Cocooned Cow</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Xuanhuan" label="Xuanhuan"/>
 <content type="text">En el reino de los dioses, un sinfín de leyendas luchaban por un cubo misterioso. Sin embargo, después de la batalla que desapareció en el vacío. Lin Ming se topa con este misterioso cubo y comienza su viaje para convertirse en el héroe de la tierra.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1tPtqb274pIlM6SR55DJ8sQ" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1TfytjDgB3tfRK7yZVLKtzg" type="text/html" title="Descargar" />
+<author><name>Cocooned Cow</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/08/Martial-World-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-martial-world-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-martial-world-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Radiant Blade of the Wilderness Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-radiant-blade-of-the-wilderness-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-radiant-blade-of-the-wilderness-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/Radiant-Blade-of-the-Wilderness-Portada-1.jpg" />
-<author><name>Cuttlefish That Loves Diving</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Wuxia" label="Wuxia"/>
-<category term="Xuanhuan" label="Xuanhuan"/>
 <content type="text">Zhulong, el Dragón Antorcha: al consumirlo, abre el caos primordial, ilumina las nueve tinieblas, gobierna el día y la noche, alterna las cuatro estaciones y convoca el viento y la lluvia.
 
 Xiangliu, la Serpiente de Nueve Cabezas: al consumirla, la tierra se corroe, las montañas son devoradas por completo, el veneno perdura durante cien generaciones y sus nueve cabezas se mueven cada una según su propia voluntad.
@@ -106,44 +69,31 @@ Yuchong, la Tortuga de Tres Patas: al consumirla, el sigilo se convierte en una 
 Perdido en sus pensamientos, Ding Songyan volvió la cabeza hacia la persona que estaba a su lado y preguntó:
 
 ”¿Quieres decir que estas criaturas se extinguieron hace mucho tiempo? ¿Y que solo quedaron las artes marciales creadas por quienes las consumieron primero, basadas en las transformaciones que sufrieron sus cuerpos? ¿Y que esas artes… todavía pueden cultivarse?”</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1ngfLC3660BEC0ueQ6TMMzQ" type="text/html" title="Descargar" />
+<author><name>Cuttlefish That Loves Diving</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/Radiant-Blade-of-the-Wilderness-Portada-1.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-radiant-blade-of-the-wilderness-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-radiant-blade-of-the-wilderness-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>Stargate Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-stargate-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-stargate-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/Stargate-Portada.jpg" />
-<author><name>Eagle Eats Chick</name></author>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Romance" label="Romance"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Xuanhuan" label="Xuanhuan"/>
 <content type="text">El cultivo marcial tradicional y una sociedad en ciernes de habilidades arcanas chocan en la moderna Ciudad de Plata. ¿Son mejores los caminos probados y verdaderos, o son las artes llamativas de un poder abrumador el nuevo orden mundial?
 
 Li Hao es arrastrado fuera de la normalidad por una canción y la muerte de su amigo de la infancia. Enzarzado en una guerra entre lo viejo y lo nuevo, debe decidir qué camino seguir. Lo que los demás no saben es que el joven con una sonrisa fácil es la definición de libro de texto de jugar a ser un cerdo para comerse al tigre. No se trata de encontrar a los que le hacen daño, sino de cuánto les hará pagar.
 
 ¿Qué será, qi o magia? Pero, ¿Por qué las decisiones siempre tienen que ser en blanco y negro? ¿No puede mezclar su propio tono de gris?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/10SzOUgmMSih0ZQwXourmYw" type="text/html" title="Descargar" />
+<author><name>Eagle Eats Chick</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/Stargate-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-stargate-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-stargate-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 <entry>
 <title>The Legendary Master’s Wife Novela Web en Español</title>
 <id>https://nextnovels.com/descargar-the-legendary-masters-wife-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-legendary-masters-wife-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/The-Legendary-Masters-Wife-Portada.jpg" />
-<author><name>Yin Ya</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Adulto" label="Adulto"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Romance" label="Romance"/>
-<category term="Smut" label="Smut"/>
-<category term="Xuanhuan" label="Xuanhuan"/>
-<category term="Yaoi" label="Yaoi"/>
 <content type="text">Después de una explosión, You XiaoMo descubrió que sería un discípulo a prueba de la secta de TianXin. Sin embargo, era un discipulo con un potencial dudoso, así que, justo cuando empezaba a adaptarse a sus nuevas circunstancias, recibió una mala noticia. Si no podía lograr el resultado requerido después de medio año para convertirse en un discípulo oficial de la secta TianXin, sería expulsado de la misma. Mientras que You XiaoMo hacía todo lo posible para fabricar medicinas y ganar dinero, se encontró con Ling Xiao. Para su horror, luego descubre que Ling Xiao es, en realidad, alguien envuelto en piel humana.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/10gU_q4iNfLDySNePFdr4Ww" type="text/html" title="Descargar" />
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1eoFTukPlCg9vsaJM7wKnhw" type="text/html" title="Descargar" />
+<author><name>Yin Ya</name></author>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/The-Legendary-Masters-Wife-Portada.jpg"/>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-legendary-masters-wife-novela-web-en-espanol/" type="text/html"/>
+<link rel="subsection" href="https://opds-nextnovels-v2.consa963.workers.dev/novela?url=https%3A%2F%2Fnextnovels.com%2Fdescargar-the-legendary-masters-wife-novela-web-en-espanol%2F" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Ver EPUB y PDF"/>
 </entry>
 </feed>
