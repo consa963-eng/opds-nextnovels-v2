@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 
 import json
-import os
 import re
 import time
 from concurrent.futures import ThreadPoolExecutor
@@ -28,12 +27,15 @@ RAW_BASE = (
     "consa963-eng/opds-nextnovels-v2/main/catalogo"
 )
 
-UA = "Mozilla/5.0 (compatible; NextNovels-OPDS/1.0)"
+UA = "Mozilla/5.0 (compatible; NextNovels-OPDS/1.1)"
 
-MAX_PAGES = 80
+MAX_PAGES = 1000   # límite de seguridad; el corte real es la página vacía
 MIN_VALID = 10
-DELAY = 0.5
-WORKERS = 3
+DELAY = 1.0        # segundos entre peticiones (cortesía con la web)
+WORKERS = 2        # hilos para fichas (pocos, para no saturar el sitio)
+TIMEOUT = 25
+RETRIES = 4
+BATCH = 100        # guarda y regenera cada N fichas descargadas
 
 S = requests.Session()
 S.headers.update({"User-Agent": UA})
@@ -48,9 +50,22 @@ def absu(x):
 
 
 def get(url):
-    r = S.get(url, timeout=25)
-    r.raise_for_status()
-    return BeautifulSoup(r.text, "html.parser")
+    """Descarga una página. Devuelve None si no existe (404)."""
+    for intento in range(RETRIES):
+        try:
+            r = S.get(url, timeout=TIMEOUT)
+            if r.status_code == 404:
+                return None
+            if r.status_code in (429, 500, 502, 503, 504):
+                raise requests.HTTPError(f"HTTP {r.status_code}")
+            r.raise_for_status()
+            return BeautifulSoup(r.text, "html.parser")
+        except requests.RequestException:
+            if intento == RETRIES - 1:
+                raise
+            espera = 5 * (2 ** intento)
+            print(f"[REINTENTO] {url} en {espera}s")
+            time.sleep(espera)
 
 
 def article_url(u):
@@ -85,6 +100,10 @@ def label(s, text):
 # ============================================================
 # DATOS
 # ============================================================
+
+def dedupe(books):
+    return list({b["url"]: b for b in books}.values())
+
 
 def load_books():
     if not DATA.exists():
@@ -126,10 +145,11 @@ def find_categories():
     cats = {CATEGORY}
     try:
         s = get(BASE + "/")
-        for a in s.select("a[href]"):
-            u = absu(a.get("href")).split("?")[0]
-            if "/category/" in u and "novela" in u.lower():
-                cats.add(u if u.endswith("/") else u + "/")
+        if s:
+            for a in s.select("a[href]"):
+                u = absu(a.get("href")).split("?")[0]
+                if "/category/" in u and "novela" in u.lower():
+                    cats.add(u if u.endswith("/") else u + "/")
     except Exception as e:
         print("[WARN] No se pudieron leer las categorías:", e)
     print("[CATEGORIAS]", sorted(cats))
@@ -137,6 +157,7 @@ def find_categories():
 
 
 def discover():
+    """Recorre los listados y devuelve todas las URLs de novelas."""
     out = []
     seen = set()
 
@@ -146,29 +167,33 @@ def discover():
 
             try:
                 s = get(url)
-            except Exception:
+            except Exception as e:
+                print("[WARN] Listado", url, e)
                 break
 
-            found = []
-            for a in s.select("h2 a,h3 a,article a,.entry-title a"):
-                u = absu(a.get("href"))
-                if article_url(u) and u not in seen:
-                    found.append(u)
+            if s is None:
+                break
+
+            links = [
+                absu(a.get("href"))
+                for a in s.select("h2 a,h3 a,article a,.entry-title a")
+            ]
+            links = [u for u in links if article_url(u)]
+
+            if not links:
+                break
 
             new = 0
-            for u in found:
+            for u in links:
                 if u not in seen:
                     seen.add(u)
                     out.append(u)
                     new += 1
 
-            print(f"[DESCUBRIR] {cat} página {n}: +{new}")
-
-            if not new:
-                break
-
+            print(f"[DESCUBRIR] {cat} página {n}: {len(links)} enlaces, +{new} nuevos")
             time.sleep(DELAY)
 
+    print(f"[INFO] Novelas encontradas en los listados: {len(out)}")
     return out
 
 
@@ -178,6 +203,8 @@ def discover():
 
 def parse(url, updated=None):
     s = get(url)
+    if s is None:
+        return None
 
     h = s.find("h1")
     if h:
@@ -235,6 +262,17 @@ def parse(url, updated=None):
     }
 
 
+def scan_one(url, updated=None):
+    try:
+        b = parse(url, updated)
+        time.sleep(DELAY)
+        if b and b["title"]:
+            return b
+    except Exception as e:
+        print("[WARN]", url, e)
+    return None
+
+
 # ============================================================
 # FECHA DE ACTUALIZACIÓN
 # ============================================================
@@ -264,11 +302,8 @@ def get_date(text):
     return f"{year:04d}-{month:02d}-{day:02d}"
 
 
-# ============================================================
-# ACTUALIZACIONES
-# ============================================================
-
 def get_updates(last_date):
+    """Devuelve (cambios, última_fecha). cambios es None si falla la consulta."""
     changes = []
     latest_date = last_date
 
@@ -279,7 +314,10 @@ def get_updates(last_date):
             s = get(url)
         except Exception as e:
             print("[WARN] No se pudo consultar Actualizaciones:", e)
-            return None, latest_date
+            return None, last_date
+
+        if s is None:
+            break
 
         articles = s.select("article")
         if not articles:
@@ -301,94 +339,19 @@ def get_updates(last_date):
                 page_old = True
                 continue
 
-            lower = text.lower()
-            if not any(x in lower for x in (
-                "[añadido]", "[añadidos]", "[nueva novela]", "[novela nueva]"
-            )):
-                continue
-
-            found_link = None
-            for a in article.select("h2 a,h3 a,.entry-title a,a[href]"):
+            for a in article.select("a[href]"):
                 u = absu(a.get("href"))
                 if article_url(u):
-                    found_link = u
+                    changes.append({"url": u, "date": date})
                     break
 
-            if not found_link:
-                continue
-
-            changes.append({"url": found_link, "date": date})
-
-        if last_date and page_old:
-            break
-
-        if not last_date:
+        if page_old:
             break
 
         time.sleep(DELAY)
 
-    unique = {}
-    for item in changes:
-        unique[item["url"]] = item
-
+    unique = {item["url"]: item for item in changes}
     return list(unique.values()), latest_date
-
-
-# ============================================================
-# ACTUALIZACIÓN INCREMENTAL
-# ============================================================
-
-def incremental(books):
-    state = load_state()
-    last_date = state.get("last_update", "")
-
-    print("[INFO] Última actualización:", last_date or "ninguna")
-
-    result = get_updates(last_date)
-
-    if result is None:
-        print("[WARN] Se conserva el catálogo actual.")
-        return books
-
-    changes, latest_date = result
-
-    if not last_date:
-        save_state({"last_update": latest_date})
-        print("[INFO] Punto de partida establecido:", latest_date)
-        return books
-
-    if not changes:
-        print("[INFO] No hay novedades.")
-        if latest_date > last_date:
-            save_state({"last_update": latest_date})
-        return books
-
-    print(f"[INFO] {len(changes)} actualización(es) encontrada(s).")
-
-    by_url = {b["url"]: b for b in books}
-
-    for change in sorted(changes, key=lambda x: x["date"]):
-        url = change["url"]
-
-        try:
-            print("[ACTUALIZAR]", url)
-
-            book = parse(url, updated=change["date"])
-
-            if not book["title"]:
-                continue
-
-            by_url[url] = book
-            print("[OK]", book["title"])
-
-        except Exception as e:
-            print("[WARN]", url, e)
-
-        time.sleep(DELAY)
-
-    save_state({"last_update": latest_date})
-
-    return list(by_url.values())
 
 
 # ============================================================
@@ -451,7 +414,7 @@ def feed(title, fid, items, selfurl):
 # ============================================================
 
 def generate(books):
-    books = list({b["url"]: b for b in books}.values())
+    books = dedupe(books)
     books.sort(key=lambda b: b["title"].lower())
 
     save_books(books)
@@ -548,74 +511,83 @@ def generate(books):
 
 
 # ============================================================
-# MAIN
+# SINCRONIZACIÓN
 # ============================================================
 
-def scan_one(url):
-    try:
-        b = parse(url)
-        time.sleep(DELAY)
-        if b["title"]:
-            return b
-    except Exception as e:
-        print("[WARN]", url, e)
-    return None
+def sync():
+    OUT.mkdir(exist_ok=True)
 
+    books = dedupe(load_books())
+    known = {b["url"]: b for b in books}
+    state = load_state()
+    last_date = state.get("last_update", "")
 
-def full_scan(books):
-    known = {b["url"] for b in books}
-    urls = [u for u in discover() if u not in known]
-    print(f"[INFO] Fichas nuevas por revisar: {len(urls)}")
+    print(f"[INFO] Catálogo actual: {len(books)} novelas")
 
-    new_books = []
-    with ThreadPoolExecutor(max_workers=WORKERS) as pool:
-        for i, b in enumerate(pool.map(scan_one, urls), 1):
+    # 1) Fichas que aparecen en los listados y aún no tenemos
+    listados = discover()
+    nuevas = [u for u in listados if u not in known]
+    print(f"[INFO] Fichas nuevas en los listados: {len(nuevas)}")
+
+    # 2) Fichas modificadas según la página de Actualizaciones
+    cambios, ultima_fecha = get_updates(last_date)
+    if cambios is None:
+        print("[WARN] Actualizaciones no disponibles; se omite esta parte.")
+        cambios, ultima_fecha = [], last_date
+    elif not last_date:
+        # Primera vez: la línea base se fija aquí y las fichas
+        # se descargan completas más abajo.
+        cambios = []
+
+    fechas = {c["url"]: c["date"] for c in cambios}
+
+    pendientes = {}
+    for u in nuevas:
+        pendientes[u] = fechas.get(u)
+    for c in cambios:
+        pendientes[c["url"]] = c["date"]
+
+    tareas = list(pendientes.items())
+    print(f"[INFO] Fichas por descargar: {len(tareas)}")
+
+    if not books and not tareas:
+        raise RuntimeError("NextNovels no devolvió ninguna novela.")
+
+    # 3) Descargar por lotes, guardando y regenerando tras cada lote
+    descargadas = 0
+    for i in range(0, len(tareas), BATCH):
+        lote = tareas[i:i + BATCH]
+
+        with ThreadPoolExecutor(max_workers=WORKERS) as pool:
+            resultados = list(pool.map(lambda t: scan_one(*t), lote))
+
+        for b in resultados:
             if b:
-                new_books.append(b)
-            if i % 50 == 0:
-                print(f"[PROGRESO] {i}/{len(urls)}")
+                known[b["url"]] = b
+                descargadas += 1
 
-    print(f"[INFO] Novelas nuevas añadidas: {len(new_books)}")
-    return books + new_books
+        books = list(known.values())
+        generate(books)
+        print(f"[PROGRESO] {min(i + BATCH, len(tareas))}/{len(tareas)}")
+
+    # 4) Guardar el punto de partida de la próxima ejecución
+    if cambios is not None and ultima_fecha:
+        save_state({"last_update": ultima_fecha})
+
+    if len(books) < MIN_VALID:
+        raise RuntimeError(f"Catálogo demasiado pequeño: {len(books)} novelas")
+
+    if tareas:
+        print(f"[OK] Descargadas o actualizadas: {descargadas} de {len(tareas)}")
+    else:
+        print("[INFO] No hay novedades. Catálogo sin cambios.")
+        # Regenera igualmente por si faltan archivos XML
+        if not (OUT / "todos.xml").exists():
+            generate(books)
 
 
 def main():
-    OUT.mkdir(exist_ok=True)
-
-    books = load_books()
-    full = os.environ.get("FULL_SCAN", "false").lower() == "true"
-
-    if full and len(books) >= MIN_VALID:
-        print(f"[INFO] Escaneo completo sobre {len(books)} novelas existentes.")
-        books = full_scan(books)
-
-    elif len(books) < MIN_VALID:
-        print("[INFO] Catálogo vacío o incompleto: escaneo completo.")
-
-        urls = discover()
-        print(f"[INFO] {len(urls)} fichas encontradas. Descargando con {WORKERS} hilos.")
-
-        new_books = []
-        with ThreadPoolExecutor(max_workers=WORKERS) as pool:
-            for i, b in enumerate(pool.map(scan_one, urls), 1):
-                if b:
-                    new_books.append(b)
-                if i % 50 == 0:
-                    print(f"[PROGRESO] {i}/{len(urls)}")
-
-        if len(new_books) < MIN_VALID:
-            raise RuntimeError(
-                f"NextNovels devolvió muy pocos resultados: {len(new_books)}"
-            )
-
-        books = new_books
-        save_state({"last_update": ""})
-
-    else:
-        print(f"[INFO] Catálogo existente: {len(books)} novelas")
-        books = incremental(books)
-
-    generate(books)
+    sync()
 
 
 if __name__ == "__main__":
