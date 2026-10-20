@@ -760,9 +760,9 @@ def generate(books):
     save_books(books)
 
     base = (
-        "https://raw.githubusercontent.com/"
-        "Deiviz25/opds-nextnovels/main/catalogo"
-    )
+    "https://raw.githubusercontent.com/"
+    "consa963-eng/opds-nextnovels-v2/main/catalogo"
+)
 
     # [título, fichero, kind]
     nav = [
