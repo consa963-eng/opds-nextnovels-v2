@@ -3,4 +3,4 @@ main = "worker.js"
 compatibility_date = "2025-01-01"
 
 [vars]
-TERABOX_COOKIE = "TSID=oS49W3Uio1n5dwpzm2YqTDc5Ny48qrnf; lang=es; ndus=YSn0AeMteHuihNyJDSX2bz7rYlDwHRmtF5uA0k8q; browserid=eHAcR2nRiXLVSpsJ07WZIxUvnSvvbtI-yUH02aJaVt-4RL3jqncCgRhKNzg=; csrfToken=UMh7afcYV1l18uMWAmatJ7e-; ndut_fmt=866562C1D813AA6227B20AF05BFFEAC96402E7A8D7EA0512A8C07BA1BDDB852A; g_state={\"i_l\":0,\"i_ll\":1792521360068,\"i_e\":{\"enable_itp_optimization\":24},\"i_et\":1792521360068,\"i_b\":\"ypdRsLo/xv7tLk7cYJkpb9NawP/AZK/2+QAa+URIRlo\"}; ndut_fmv=a01c7a0c9a9f9dd2e1bcb97851ab42ddd9dcdbb1875fdc4715476616e627257cdbb0c33a7462497111541f1f46fcb562928891b6212b9e206d7794260743bfaf3bb86087827b3231bc4b7ee4d20087b8aa361b3a9111ff300fb2503a7955994813481d39c6151a4e46ceac1d9bb84691"
+TERABOX_COOKIE = ""
