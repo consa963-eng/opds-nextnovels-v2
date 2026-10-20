@@ -67,6 +67,8 @@ def main():
     # Ordenar por fecha (los más nuevos primero)
     final_books.sort(key=lambda x: x.get("updated", ""), reverse=True)
     
+    for b in final_books:
+        b.pop("downloads", None)
     DATA.write_text(json.dumps(final_books, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"¡Terminado! Total de novelas en el catálogo: {len(final_books)}")
 
