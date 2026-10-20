@@ -28,7 +28,7 @@ MIN_VALID = 10
 DELAY = 0.5
 TERABOX_HOSTS = (
     "terabox.com", "terabox.app", "teraboxlink.com", "freeterabox.com",
-    "1024tera.com", "4funbox.com", "mirrobox.com", "nephobox.com",
+    "1024terabox.com", "1024tera.com", "4funbox.com", "mirrobox.com", "nephobox.com",
     "teraboxshare.com", "terabox.fun", "teraboxapp.com",
 )
 FILE_TYPES = {".epub": "application/epub+zip", ".pdf": "application/pdf"}
@@ -280,6 +280,11 @@ def detail_url(book):
     return WORKER_BASE + "/novela?url=" + quote(book.get("url", ""), safe="")
 
 
+def image_type(url):
+    ext = Path(urlparse(url).path).suffix.lower()
+    return {".png": "image/png", ".webp": "image/webp", ".gif": "image/gif"}.get(ext, "image/jpeg")
+
+
 def ent(book):
     """Una novela es navegación; los volúmenes se enumeran al entrar en su ficha."""
     title = escape(book.get("title") or "Sin título")
@@ -290,7 +295,9 @@ def ent(book):
     if book.get("author"):
         parts.append(f"<author><name>{escape(book['author'])}</name></author>")
     if book.get("cover"):
-        parts.append(f"<link rel=\"http://opds-spec.org/image\" href={quoteattr(book['cover'])}/>")
+        mime = image_type(book["cover"])
+        parts.append(f"<link rel=\"http://opds-spec.org/image\" href={quoteattr(book['cover'])} type={quoteattr(mime)}/>")
+        parts.append(f"<link rel=\"http://opds-spec.org/image/thumbnail\" href={quoteattr(book['cover'])} type={quoteattr(mime)}/>")
     if book_url:
         parts.append(f"<link rel=\"alternate\" href={quoteattr(book_url)} type=\"text/html\"/>")
         parts.append(f"<link rel=\"subsection\" href={quoteattr(detail_url(book))} type=\"application/atom+xml;profile=opds-catalog;kind=acquisition\" title=\"Ver EPUB y PDF\"/>")
