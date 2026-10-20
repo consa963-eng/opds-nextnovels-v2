@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import json
+import os
 import re
 import time
 from concurrent.futures import ThreadPoolExecutor
@@ -561,12 +562,34 @@ def scan_one(url):
     return None
 
 
+def full_scan(books):
+    known = {b["url"] for b in books}
+    urls = [u for u in discover() if u not in known]
+    print(f"[INFO] Fichas nuevas por revisar: {len(urls)}")
+
+    new_books = []
+    with ThreadPoolExecutor(max_workers=WORKERS) as pool:
+        for i, b in enumerate(pool.map(scan_one, urls), 1):
+            if b:
+                new_books.append(b)
+            if i % 50 == 0:
+                print(f"[PROGRESO] {i}/{len(urls)}")
+
+    print(f"[INFO] Novelas nuevas añadidas: {len(new_books)}")
+    return books + new_books
+
+
 def main():
     OUT.mkdir(exist_ok=True)
 
     books = load_books()
+    full = os.environ.get("FULL_SCAN", "false").lower() == "true"
 
-    if len(books) < MIN_VALID:
+    if full and len(books) >= MIN_VALID:
+        print(f"[INFO] Escaneo completo sobre {len(books)} novelas existentes.")
+        books = full_scan(books)
+
+    elif len(books) < MIN_VALID:
         print("[INFO] Catálogo vacío o incompleto: escaneo completo.")
 
         urls = discover()
@@ -581,15 +604,11 @@ def main():
                     print(f"[PROGRESO] {i}/{len(urls)}")
 
         if len(new_books) < MIN_VALID:
-            if len(books) >= MIN_VALID:
-                print("[WARN] Se conserva el catálogo anterior.")
-            else:
-                raise RuntimeError(
-                    f"NextNovels devolvió muy pocos resultados: {len(new_books)}"
-                )
-        else:
-            books = new_books
+            raise RuntimeError(
+                f"NextNovels devolvió muy pocos resultados: {len(new_books)}"
+            )
 
+        books = new_books
         save_state({"last_update": ""})
 
     else:
