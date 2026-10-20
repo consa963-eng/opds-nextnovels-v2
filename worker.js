@@ -99,7 +99,7 @@ function feed(title, id, books, requestUrl, kind = "acquisition") {
   const entries = books.map(entry).join("\n");
 
   return `<?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2002005/Atom"
+<feed xmlns="http://www.w3.org/2005/Atom"
  xmlns:opds="http://opds-spec.org/2010/catalog"
  xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 
@@ -320,14 +320,21 @@ export default {
           });
         }
 
-        if (
-          parsed.protocol !== "https:" ||
-          !/(^|\.)terabox\.com$|(^|\.)1024tera\.com$/.test(parsed.hostname)
-        ) {
-          return new Response("El enlace no es de Terabox", {
-            status: 400
-          });
-        }
+        const host = parsed.hostname.toLowerCase();
+
+const esTerabox =
+  host === "terabox.com" ||
+  host.endsWith(".terabox.com") ||
+  host === "terabox.app" ||
+  host.endsWith(".terabox.app") ||
+  host === "1024tera.com" ||
+  host.endsWith(".1024tera.com");
+
+if (parsed.protocol !== "https:" || !esTerabox) {
+  return new Response("El enlace no es de Terabox", {
+    status: 400
+  });
+}
 
         try {
           const { directUrl, fileName } =
