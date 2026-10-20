@@ -1,1 +1,35 @@
+name: Actualizar catálogo OPDS
 
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * 0"
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependencias
+        run: pip install requests beautifulsoup4
+
+      - name: Generar catálogo
+        run: python generador.py
+
+      - name: Guardar catálogo
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: 'Actualizar catálogo OPDS'
+          file_pattern: 'catalogo/**'
