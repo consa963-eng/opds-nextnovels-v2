@@ -3,6 +3,7 @@
 
 import json
 import re
+import sys
 import time
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
@@ -32,10 +33,12 @@ UA = "Mozilla/5.0 (compatible; NextNovels-OPDS/1.1)"
 MAX_PAGES = 1000   # límite de seguridad; el corte real es la página vacía
 MIN_VALID = 10
 DELAY = 1.0        # segundos entre peticiones (cortesía con la web)
-WORKERS = 2        # hilos para fichas (pocos, para no saturar el sitio)
+WORKERS = 2        # hilos para fichas
 TIMEOUT = 25
 RETRIES = 4
 BATCH = 100        # guarda y regenera cada N fichas descargadas
+
+PETICIONES = 0     # contador de peticiones HTTP realizadas
 
 S = requests.Session()
 S.headers.update({"User-Agent": UA})
@@ -51,8 +54,11 @@ def absu(x):
 
 def get(url):
     """Descarga una página. Devuelve None si no existe (404)."""
+    global PETICIONES
+
     for intento in range(RETRIES):
         try:
+            PETICIONES += 1
             r = S.get(url, timeout=TIMEOUT)
             if r.status_code == 404:
                 return None
@@ -198,6 +204,43 @@ def discover():
 
 
 # ============================================================
+# VERSIONES
+# ============================================================
+
+def parse_versiones(s, url):
+    """Devuelve las versiones de la ficha: cada botón 'Descargar' del
+    contenido principal, con el nombre del bloque que lo contiene."""
+    versiones = []
+    vistos = set()
+
+    zona = s.select_one("article") or s  # evita la barra lateral
+
+    for a in zona.select("a[href]"):
+        texto = clean(a.get_text(" ", strip=True)).lower()
+        href = absu(a.get("href"))
+
+        if texto not in ("descargar", "download"):
+            continue
+        if not href or href in vistos or href == url:
+            continue
+
+        bloque = a.find_parent(class_=re.compile(r"et_pb_column"))
+        titulo = None
+        if bloque:
+            titulo = bloque.find(["h2", "h3", "h4"])
+        if not titulo:
+            titulo = a.find_previous(["h2", "h3", "h4"])
+
+        nombre = clean(titulo.get_text(" ", strip=True)) if titulo else ""
+        nombre = re.sub(r"(?i)^versi[oó]n de\s+", "", nombre).strip()
+
+        vistos.add(href)
+        versiones.append({"nombre": nombre or "Versión", "url": href})
+
+    return versiones
+
+
+# ============================================================
 # FICHA
 # ============================================================
 
@@ -258,6 +301,7 @@ def parse(url, updated=None):
         "type": typ,
         "genres": genres,
         "summary": summary,
+        "versiones": parse_versiones(s, url),
         "updated": updated or datetime.now(timezone.utc).date().isoformat(),
     }
 
@@ -383,10 +427,18 @@ def ent(b):
     if b.get("summary"):
         x.append('<content type="text">' + escape(b["summary"][:5000]) + "</content>")
 
-    x.append(
-        f'<link rel="http://opds-spec.org/acquisition" href={quoteattr(b["url"])} '
-        f'type="text/html" title="Abrir en Next Novels"/>'
-    )
+    if b.get("versiones"):
+        for v in b["versiones"]:
+            x.append(
+                f'<link rel="http://opds-spec.org/acquisition" '
+                f'href={quoteattr(v["url"])} type="text/html" '
+                f'title={quoteattr(v["nombre"])}/>'
+            )
+    else:
+        x.append(
+            f'<link rel="http://opds-spec.org/acquisition" href={quoteattr(b["url"])} '
+            f'type="text/html" title="Abrir en Next Novels"/>'
+        )
 
     x.append("</entry>")
     return "\n".join(x)
@@ -547,13 +599,18 @@ def sync():
     for c in cambios:
         pendientes[c["url"]] = c["date"]
 
+    # 3) Fichas antiguas sin versiones: se completan una vez
+    for u, b in known.items():
+        if "versiones" not in b and u not in pendientes:
+            pendientes[u] = b.get("updated")
+
     tareas = list(pendientes.items())
     print(f"[INFO] Fichas por descargar: {len(tareas)}")
 
     if not books and not tareas:
         raise RuntimeError("NextNovels no devolvió ninguna novela.")
 
-    # 3) Descargar por lotes, guardando y regenerando tras cada lote
+    # 4) Descargar por lotes, guardando y regenerando tras cada lote
     descargadas = 0
     for i in range(0, len(tareas), BATCH):
         lote = tareas[i:i + BATCH]
@@ -570,8 +627,8 @@ def sync():
         generate(books)
         print(f"[PROGRESO] {min(i + BATCH, len(tareas))}/{len(tareas)}")
 
-    # 4) Guardar el punto de partida de la próxima ejecución
-    if cambios is not None and ultima_fecha:
+    # 5) Guardar el punto de partida de la próxima ejecución
+    if ultima_fecha:
         save_state({"last_update": ultima_fecha})
 
     if len(books) < MIN_VALID:
@@ -581,14 +638,19 @@ def sync():
         print(f"[OK] Descargadas o actualizadas: {descargadas} de {len(tareas)}")
     else:
         print("[INFO] No hay novedades. Catálogo sin cambios.")
-        # Regenera igualmente por si faltan archivos XML
         if not (OUT / "todos.xml").exists():
             generate(books)
 
 
 def main():
     sync()
+    print(f"[STATS] Peticiones totales: {PETICIONES}")
 
 
 if __name__ == "__main__":
-    main()
+    if len(sys.argv) > 2 and sys.argv[1] == "--debug":
+        s = get(sys.argv[2])
+        for v in parse_versiones(s, sys.argv[2]):
+            print(v["nombre"], "->", v["url"])
+    else:
+        main()
