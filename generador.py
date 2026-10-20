@@ -14,7 +14,7 @@ from bs4 import BeautifulSoup
 
 
 BASE = "https://nextnovels.com"
-CATEGORY = BASE + "/category/novela-ligera/"
+CATEGORY = BASE + "/"
 UPDATES = BASE + "/actualzaciones-orientales/"
 
 # ⚠️ CAMBIA ESTO por la URL real de tu Worker de Cloudflare.
@@ -308,14 +308,15 @@ def parse(url, updated=None):
 
             break
 
-    # Descargas
+        # Descargas
     downloads = []
 
     for a in main.select("a[href]"):
-
         u = absu(a.get("href"))
         low = u.lower()
+        text = clean(a.get_text(" ", strip=True)).lower()
 
+        # 1. Enlaces directos a archivos (.epub, .pdf, etc.)
         for ext, mime in [
             (".epub", "application/epub+zip"),
             (".pdf", "application/pdf"),
@@ -324,24 +325,33 @@ def parse(url, updated=None):
             (".cbz", "application/vnd.comicbook+zip"),
             (".cbr", "application/vnd.comicbook-rar"),
         ]:
-
             if ext in low:
-
                 downloads.append({
                     "url": u,
-                    "title": (
-                        clean(
-                            a.get_text(
-                                " ",
-                                strip=True
-                            )
-                        )
-                        or "Descarga"
-                    ),
+                    "title": clean(a.get_text(" ", strip=True)) or "Descarga",
                     "type": mime
                 })
-
                 break
+        else:
+            # 2. Botones que ponen "Descargar" (y llevan a Terabox u otro lado)
+            if "descargar" in text or "leer" in text:
+                # Si es un enlace de Terabox, lo proxificamos
+                if any(h in u.lower() for h in TERABOX_HOSTS):
+                    downloads.append({
+                        "url": f"{WORKER_BASE}/descargar?url={quote(u, safe='')}",
+                        "title": clean(a.get_text(" ", strip=True)) or "Descargar",
+                        "type": "application/epub+zip",
+                    })
+                else:
+                    # Si el botón lleva a otro sitio, también lo guardamos
+                    downloads.append({
+                        "url": u,
+                        "title": clean(a.get_text(" ", strip=True)) or "Descargar",
+                        "type": "application/epub+zip",
+                    })
+
+    # Deduplicar por URL.
+    downloads = list({d["url"]: d for d in downloads}.values())
 
     # Deduplicar por URL.
     downloads = list({d["url"]: d for d in downloads}.values())
@@ -983,15 +993,8 @@ def main():
 
                 b = parse(url)
 
-                if (
-                    b["title"]
-                    and (
-                        not b["type"]
-                        or "ligera"
-                        in b["type"].lower()
-                    )
-                ):
-                    new_books.append(b)
+                if b["title"]:
+    new_books.append(b)
 
             except Exception as e:
 
