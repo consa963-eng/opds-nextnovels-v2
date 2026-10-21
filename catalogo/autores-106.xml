@@ -1,33 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Haneda Usa</id>
-<title>Haneda Usa</title>
-<updated>2026-10-20T22:58:27.551193+00:00</updated>
+<id>nextnovels:autores:Baba Okina</id>
+<title>Baba Okina</title>
+<updated>2026-10-21T00:13:50.587804+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-106.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Story About Buying My Classmate Once A Week Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-story-about-buying-my-classmate-once-a-week-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-story-about-buying-my-classmate-once-a-week-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/01/Shuu-ni-Ichido-Kurasumeito-wo-Kau-Hanashi-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/01/Shuu-ni-Ichido-Kurasumeito-wo-Kau-Hanashi-Portada.jpg"/>
-<author><name>Haneda Usa</name></author>
+<title>Kumo Desu ga, Nani ka? Ex Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-kumo-desu-ga-nani-ka-ex-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-kumo-desu-ga-nani-ka-ex-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/Kumo-desu-ga-Nani-ka-EX-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/07/Kumo-desu-ga-Nani-ka-EX-Portada.jpg"/>
+<author><name>Baba Okina</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
 <category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<category term="Yuri" label="Yuri"/>
-<content type="text">Una vez a la semana, Miyagi le paga 5.000 yenes a su compañera de clase Sendai.
+<category term="Fantasía" label="Fantasía"/>
+<content type="text">Una vez que la misión mundial de D llega a su fin y el sistema queda destruido, Sophia y Wrath visitan a la Señora de los Demonios Ariel, quien vive lo poco que le queda de vida.
 
-Los 5.000 yenes sirven para comprar tres horas del tiempo de Sendai, lo que le da a Miyagi el derecho de darle órdenes.
+¿Qué les contará Ariel sobre su pasado y qué tipo de personas eran los primeros gobernantes?
 
-Miyagi está en la parte inferior de la casta escolar, mientras que Sendai está en la cima. Las dos, que nunca se cruzaron en la escuela, pasan tiempo juntos después de la escuela bajo ese contrato.
+Además de una historia e ilustraciones completamente nuevas, este volumen contiene información de fondo sobre los otros niños del orfanato de Sariel, así como varias historias secundarias que antes solo estaban disponibles como promociones.
 
-Las órdenes de Miyagi están determinadas por su estado de ánimo del día y Sendai no puede desobedecer.
+¡Una lectura imprescindible para los fans de la serie!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/15EN5_lhsRdqjzGh3Ui_plA" type="text/html" title="Bell Traducciones"/>
+</entry>
+<entry>
+<title>Kumo Desu ga, Nani ka? Novela Ligera en Español</title>
+<id>https://nextnovels.com/kumo-desu-ga-nani-ka-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/kumo-desu-ga-nani-ka-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2021/12/arana-01-e1641220457721.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2021/12/arana-01-e1641220457721.jpg"/>
+<author><name>Baba Okina</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Josei" label="Josei"/>
+<content type="text">En cierto mundo de fantasía, en medio de la batalla entre el Héroe y el Señor de los demonios, mientras varios hechizos se repetían sin cesar, un enorme hechizo espacio-temporal falló y eso causó que en cierta clase de una escuela secundaria de Japón, murieran todas las personas que estaban dentro de ella.
 
-Un día después de la escuela...
+Pero sucedió un milagro, todos los estudiantes fueron reencarnados en un mundo de fantasía.
 
-Miyagi llama a Sendai a su habitación y le da una orden que normalmente no daría</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-story-about-buying-my-classmate-once-a-week-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Algunos tuvieron la suerte de reencarnar como miembros de la realeza, nombre u otro tipo de posición influyente, pero una chica no tuvo tanta suerte.
+
+Por desgracia, alguien renació como un monstruo araña, siendo el tipo de monstruo más débil de una mazmorra, se ve obligada a experimentar dificultades extremas.
+
+Pero, armada con el conocimiento humano de su vida anterior y su magnifica positividad, sigue adelante, sobreviviendo y poco a poco fortaleciéndose mientras pelea contra criaturas más fuertes que ella...
+
+¡Inicia una nueva aventura fuera de lo común! Pero sin duda una de las más interesantes fantasías que leerás.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/18OTNExxi9mRVx4F6pCevYQ" type="text/html" title="NOVA"/>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1stvQXQ0MK9qHYeKEwSBKhA" type="text/html" title="Traducciones Fajardo"/>
 </entry>
 </feed>

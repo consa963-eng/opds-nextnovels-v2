@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Motoo Nakanishi</id>
-<title>Motoo Nakanishi</title>
-<updated>2026-10-20T22:58:27.596728+00:00</updated>
+<id>nextnovels:autores:Jiou</id>
+<title>Jiou</title>
+<updated>2026-10-21T00:13:50.624143+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-328.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Sword of the Demon Hunter Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-sword-of-the-demon-hunter-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-sword-of-the-demon-hunter-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Sword-of-the-Demon-Hunter-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/08/Sword-of-the-Demon-Hunter-Portada.jpg"/>
-<author><name>Motoo Nakanishi</name></author>
+<title>Black na Kishidan no Dorei ga White na Boukensha Guild ni Hikinukarete S Rank ni Narimashita Novela Ligera en Español</title>
+<id>https://nextnovels.com/black-na-kishidan-no-dorei-ga-white-na-boukensha-guild-ni-hikinukarete-s-rank-ni-narimashita-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/black-na-kishidan-no-dorei-ga-white-na-boukensha-guild-ni-hikinukarete-s-rank-ni-narimashita-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/05/Black-na-Kishidan-no-Dorei-ga-White-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/05/Black-na-Kishidan-no-Dorei-ga-White-Portada.jpg"/>
+<author><name>Jiou</name></author>
 <category term="Acción" label="Acción"/>
 <category term="Aventura" label="Aventura"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Histórico" label="Histórico"/>
-<category term="Seinen" label="Seinen"/>
-<content type="text">En esta épica fantástica de humanos y demonios que atraviesa el tiempo, un guerrero del Japón feudal debe cazar a un demonio a través de las eras.
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
+<content type="text">Trabajé como un esclavo en la orden de caballería, donde todos los resultados fueron explotados por mi superior, pero fui descubierto por una niña bonita que se hacía llamar maestra del gremio.
 
-Durante generaciones, un santuario se ha alzado en la aldea montañesa de Kadono, y en cada generación el santuario ha tenido a su Itsukihime—su doncella del santuario—y la doncella ha tenido a su guardián. Durante el período Edo, un joven llamado Jinta protege la aldea y a la Itsukihime. Cuando se enfrenta a un extraño demonio en el bosque cercano, este le dice que en un futuro lejano un Dios Demonio amenazará a todas las personas, en todas partes, y afirma que el ascenso al poder del Dios Demonio surge de este mismo tiempo y lugar, en la aldea de Kadono. Así comienza el viaje de siglos de un hombre manchado por los demonios, cazando a través del tiempo para buscar justicia por lo que ha perdido y para encontrar una razón para seguir luchando.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-sword-of-the-demon-hunter-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Inicialmente lo acepto medio en broma, pero después de que me mostraron una gran suma de pago por adelantado, decido dejar la orden de caballería. Cuando fui al gremio, incluso el título de rango S estaba preparado.
+
+—Esta es la historia de éxito de un hombre que nunca ha tenido nada bueno desde que nació.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1BrdsTPixO2ueoFCdJqUhQQ" type="text/html" title="World Project"/>
 </entry>
 </feed>

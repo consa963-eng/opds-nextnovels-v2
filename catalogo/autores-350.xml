@@ -1,30 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Naruto Kiriyama</id>
-<title>Naruto Kiriyama</title>
-<updated>2026-10-20T22:58:27.601178+00:00</updated>
+<id>nextnovels:autores:Kaidou Sakon</id>
+<title>Kaidou Sakon</title>
+<updated>2026-10-21T00:13:50.627891+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-350.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Cosmic Princess Kaguya! Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-cosmic-princess-kaguya-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-cosmic-princess-kaguya-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/Cosmic-Princess-Kaguya-Portada-1.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/05/Cosmic-Princess-Kaguya-Portada-1.jpg"/>
-<author><name>Naruto Kiriyama</name></author>
+<title>Infinite Dendrogram Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-infinite-dendrogram-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-infinite-dendrogram-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-63.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-63.jpg"/>
+<author><name>Kaidou Sakon</name></author>
 <category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
 <category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Shoujo Ai" label="Shoujo Ai"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Yuri" label="Yuri"/>
-<content type="text">Tsukuyomi es un reino virtual donde las esperanzas y los sueños se unen. Iroha Sakayori, una estudiante de secundaria de 17 años en Tokio, lleva una vida extremadamente ajetreada tratando de equilibrar su trabajo de medio tiempo con sus estudios. Encuentra paz viendo a una popular streamer llamada Yachiyo Runami, administradora de un espacio virtual en línea llamado Tsukuyomi.
+<category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">En el año 2043, salió a la venta Infinite Dendrogram, el primer VRMMO de inmersión completa exitosa del mundo. Además de su capacidad para simular a la perfección los cinco sentidos, junto con sus muchas otras increíbles características, el juego prometía ofrecer a los jugadores un mundo lleno de infinitas posibilidades. Casi dos años más tarde, Reiji Mukudori, un estudiante de primer año de universidad, pudo por fin comprar una copia del juego y empezar a jugar. Con la ayuda de su experimentado hermano mayor, Shu, y su compañero Embryo, Reiji se embarca en una aventura en el mundo de Infinite Dendrogram. ¿Qué descubrirá y encontrará en este mundo de juego conocido por su increíble realismo e infinitas posibilidades?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/13bJTea9D5OoQa__-94NBPw" type="text/html" title="Nakama Novels Res"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1UK1e-LnOATqL0fEfrY79eg" type="text/html" title="World Project"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1kDuIOdH_ssYfxrzDBjFlMA" type="text/html" title="Ferindrad"/>
+</entry>
+<entry>
+<title>My Instant Death Ability is So Overpowered No One in This Other World Stands a Chance Against Me! Novela Ligera en Español</title>
+<id>https://nextnovels.com/my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-64.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-64.jpg"/>
+<author><name>Kaidou Sakon</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Maduro" label="Maduro"/>
+<category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">¿Trucos de crecimiento? ¿Poder mágico infinito? La capacidad de utilizar todos los arquetipos? ¿Cuál es el punto si la muerte instantánea termina todo con un solo ataque?
 
-Iroha frecuenta Tsukuyomi, donde las personas pueden vivir vidas diferentes y desarrollar libremente su creatividad, y pasa el tiempo apoyando a Yachiyo y jugando juegos de batalla para ganar un poco de dinero extra. Un día, de camino a casa, Iroha encuentra un poste de teléfono que brilla con tonos iridiscentes. Para su sorpresa, un adorable bebé emerge del poste. Incapaz de abandonarlo, Iroha se lleva al bebé a casa y lo ve crecer rápidamente hasta convertirse en una niña de su edad.
+El estudiante de último año de secundaria, Yogiri Takatou, estaba en una excursión escolar cuando se despertó con un dragón atacando su autobús turístico, y los únicos que aún estaban en el autobús eran él y su compañera de clase, Tomochika Dannoura, presa del pánico. Aparentemente, el resto de sus compañeros de clase habían recibido poderes especiales de Sion, una mujer que se presentó como Sabio y escaparon del dragón, dejando a los que no habían recibido ningún poder especial como cebo.
 
-"¿Eres la princesa Kaguya?"
-
-La Kaguya adulta desarrolla una personalidad indulgente. A petición ferviente de Kaguya, Iroha la ayuda a comenzar a transmitir en Tsukuyomi. Con Iroha como productora y compositora, y Kaguya como streamer y cantante, su amistad se fortalece cada vez más. Lo que no saben es que fuerzas siniestras acechan, ansiosas por llevarse a Kaguya de vuelta a la luna.
-
-Esta es la historia de la princesa Kaguya como nunca antes se había visto.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-cosmic-princess-kaguya-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Y entonces Yogiri fue arrojado a un universo paralelo lleno de peligro, sin idea de lo que acaba de pasar. Del mismo modo, Sion no tenía manera de saber qué clase de ser había convocado para su mundo.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1rNbJH9dBydNfwRC4pqreBg" type="text/html" title="Legends no Fansub y Eon Translations"/>
 </entry>
 </feed>

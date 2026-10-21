@@ -1,27 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Eiko Mutshuana</id>
-<title>Eiko Mutshuana</title>
-<updated>2026-10-20T22:58:27.544301+00:00</updated>
+<id>nextnovels:autores:Anzai Rika</id>
+<title>Anzai Rika</title>
+<updated>2026-10-21T00:13:50.582029+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-71.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Hello, I am a Witch and my Crush Wants me to Make a Love Potion! Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Hello-I-am-a-Witch-and-my-Crush-Wants-me-to-Make-a-Love-Potion-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/08/Hello-I-am-a-Witch-and-my-Crush-Wants-me-to-Make-a-Love-Potion-Portada.jpg"/>
-<author><name>Eiko Mutshuana</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
+<title>The Man Beside Me Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-man-beside-me-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-man-beside-me-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/04/The-Man-Beside-Me-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/04/The-Man-Beside-Me-Portada.jpg"/>
+<author><name>Anzai Rika</name></author>
+<category term="Adulto" label="Adulto"/>
+<category term="Maduro" label="Maduro"/>
+<category term="Romance" label="Romance"/>
+<category term="Smut" label="Smut"/>
+<category term="Yaoi" label="Yaoi"/>
+<content type="text">Isaki acaba de romper con el hombre de sus sueños, al que había estado persiguiendo sin descanso durante más de diez años. Un día, cuando decide que no quiere enamorarse por un tiempo, se hace amigo de Yasuhara, que vive en el barrio, después de compartir mesa con él en un izakaya. Yasuhara tiene una personalidad tranquila y amable, y aparte de que es mayor, está muy lejos del tipo ideal de Isaki. Disfrutan de una amistad cómoda, pero...
+
+Spin-off de Kiraina Otoko.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1c8oZ_LgGrZ0-s4TewB2LHw" type="text/html" title="Next Novels (MTL)"/>
+</entry>
+<entry>
+<title>The Man that I Hate Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-man-that-i-hate-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-man-that-i-hate-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/04/The-Man-that-I-Hate-Portada.webp"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/04/The-Man-that-I-Hate-Portada.webp"/>
+<author><name>Anzai Rika</name></author>
+<category term="Adulto" label="Adulto"/>
+<category term="Maduro" label="Maduro"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Shoujo" label="Shoujo"/>
-<content type="text">«Quiero que hagas una poción de amor».
+<category term="Yaoi" label="Yaoi"/>
+<content type="text">Un nuevo empleado es contratado en el departamento de Chihiro. Mukai, un chico simpático y educado, tiene la misma edad que Chihiro. Sus excelentes talentos son suficientes para obtener el visto bueno incluso de RR. HH. Aunque siente una ligera hostilidad hacia el talentoso Mukai, Chihiro evita competir con él directamente, sin embargo, un día nota una pasión oculta en la mirada de Mukai.
 
-El enamoramiento de cuatro años de la Buena Bruja del Lago terminó en desilusión con una sola petición del objeto de sus afectos. Con la intención de alargar el poco tiempo que tiene con el Caballero Real Harij, Rose lo envía a una búsqueda inútil tras los ingredientes, pero obtiene más de lo que esperaba cuando el caballero gruñón empieza a visitarla todos los días… ¿para darle de comer?
+A Mukai le gusta.
 
-Esta es la conmovedora historia de una bruja ermitaña y un caballero arrogante y estirado cuyo romance comienza a partir de una poción de amor.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Mukai, que estaba en una liga completamente diferente a la de Chihiro, solo estaba siendo dulce con Chihiro. Justo cuando se sentía bien con eso...
+
+Dulce y doloroso, el romance de un adulto.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1-dXm7zj-q70ktwMgZlCvoQ" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 </feed>

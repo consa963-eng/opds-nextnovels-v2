@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Sakai Takuma</id>
+<title>Sakai Takuma</title>
+<updated>2026-10-21T00:13:50.698835+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-784.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>Buta no Liver wa Kanetsu Shiro Novela Ligera en Español</title>
+<id>https://nextnovels.com/buta-no-liver-wa-kanetsu-shiro-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/buta-no-liver-wa-kanetsu-shiro-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/03/Buta-no-Liver-wa-Kanetsu-Shiro-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/03/Buta-no-Liver-wa-Kanetsu-Shiro-Portada.jpg"/>
+<author><name>Sakai Takuma</name></author>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<content type="text">Un otaku poco atractivo despierta en el cuerpo de un cerdo después de desmayarse mientras come hígado de cerdo crudo. El cerdo se encuentra en compañía de Jess, una chica inocente que puede leer la mente de las personas, y ella lo acepta a pesar de sus pensamientos pervertidos… aunque planea comérselo. Cuando Jess está en peligro de sucumbir a un oscuro destino, ¿podrá el cerdo salvarla usando solo su rápido ingenio, su sabiduría y su refinado sentido del olfato?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1sKrduuNJw6ptfoaBzbncAA" type="text/html" title="Dinasty &amp; Svartalheimer"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/17FRDDq4N5S9GU2NRnQMwJw" type="text/html" title="World Project"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1TH2S1qMDk-J2iwCJYa94ew" type="text/html" title="Max Power Fansub"/>
+</entry>
+</feed>

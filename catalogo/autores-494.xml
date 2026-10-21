@@ -1,33 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Takahashi Bisui</id>
-<title>Takahashi Bisui</title>
-<updated>2026-10-20T22:58:27.633604+00:00</updated>
+<id>nextnovels:autores:Kurage</id>
+<title>Kurage</title>
+<updated>2026-10-21T00:13:50.651742+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-494.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>How to Seduce a Fickle Angel Obsessed with Games Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-how-to-seduce-a-fickle-angel-obsessed-with-games-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-how-to-seduce-a-fickle-angel-obsessed-with-games-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/04/How-to-Seduce-a-Fickle-Angel-Obsessed-with-Games-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/04/How-to-Seduce-a-Fickle-Angel-Obsessed-with-Games-Portada.jpg"/>
-<author><name>Takahashi Bisui</name></author>
-<category term="Drama" label="Drama"/>
+<title>The Secret Life Of An Honor Student Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-secret-life-of-an-honor-student-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-secret-life-of-an-honor-student-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/The-Secret-Life-Of-An-Honor-Student-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/07/The-Secret-Life-Of-An-Honor-Student-Portada.jpg"/>
+<author><name>Kurage</name></author>
+<category term="Comedia" label="Comedia"/>
 <category term="Ecchi" label="Ecchi"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">Para garantizar la supervivencia de la humanidad, debes ganarle en un juego a un Ángel… ¡¿y hacerla caer, en cuerpo y alma?!
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">“Si mantienes mi cuenta secreta oculta, haré algo bueno por ti, ¿de acuerdo?”
 
-—Oye, hagamos una apuesta. Si me vences, haré lo que tú quieras.
+“Noventa por ciento impuro, diez por ciento amor puro”: ese fue el comienzo de una relación secreta solo entre nosotros dos.
 
-La angelical Luxuria se presentó como una enemiga de la humanidad. Desafió a los humanos a un juego donde se ponía en juego su territorio, poseyendo un poder abrumador que le permitía usar cualquier trampa o jugada sucia que deseara… siempre que no la descubrieran. Sin embargo, Shuto Tsuda , un estudiante de preparatoria común y corriente presente en el encuentro, se convirtió en el primer humano de la historia en derrotar a un Ángel.
+“Si prometes no contarlo, me aseguraré de que lo pases bien.”
 
-—Como perdí contra ti, me he convertido en un Ángel Caído. A partir de ahora, me dedicaré por completo a ti… así que, ¿quieres hacerme tu esposa?
+Aisaka Akito descubrió por casualidad que Mamiya Yuu, la estudiante modelo y ejemplar que se sentaba a su lado, era en realidad una “chica de la cuenta secreta”. Para que guardara silencio, ella lo obligó a acompañarla como su fotógrafo para esas fotos de la cuenta oculta.
 
-Tras saborear la derrota, Luxuria se transforma en un Ángel Caído y comienza a perseguir a Shuto de forma agresiva, suplicándole que se case con ella… ¡¿Acaso este es el premio por haber ganado?!
+“Oye… hagamos algo aún más loco.”
 
-¡Se alza el telón de una batalla de ingenio de altas apuestas mezclada con una comedia romántica escolar, en las primeras líneas de la Academia Valhalla!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-how-to-seduce-a-fickle-angel-obsessed-with-games-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Sus sesiones de fotos empezaron a tomar rumbos que jamás podrían contarle a nadie. Confundido pero incapaz de resistirse, Akito se encontró pasando cada vez más tiempo a solas con ella: viéndose en secreto, tomando fotos, caminando juntos a casa después de desvíos. Cada momento se acumulaba, revelando poco a poco destellos de su verdadera personalidad.
+
+Una relación que comenzó como un secreto impuro pronto se transformó en un amor tierno y dulce.
+
+El frente y la espalda. Las dos caras que albergaba. Una emocionante comedia romántica secreta con la chica que vivía en dos mundos</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1OEI-oPy0GF2THfY1eP2zEA" type="text/html" title="Underword Liella Novels"/>
 </entry>
 </feed>

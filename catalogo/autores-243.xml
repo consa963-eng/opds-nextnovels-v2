@@ -1,22 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kota Nozomi</id>
-<title>Kota Nozomi</title>
-<updated>2026-10-20T22:58:27.579524+00:00</updated>
+<id>nextnovels:autores:Hikari Sugii</id>
+<title>Hikari Sugii</title>
+<updated>2026-10-21T00:13:50.610536+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-243.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>The Dangers in My Heart Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-dangers-in-my-heart-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-dangers-in-my-heart-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/The-Dangers-in-My-Heart-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/06/The-Dangers-in-My-Heart-Portada.jpg"/>
-<author><name>Kota Nozomi</name></author>
+<title>Kami-sama no Memochou Novela Ligera en Español</title>
+<id>https://nextnovels.com/kami-sama-no-memochou-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/kami-sama-no-memochou-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-80.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-80.jpg"/>
+<author><name>Hikari Sugii</name></author>
 <category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Misterio" label="Misterio"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<content type="text">¡Inspirada en el exitoso manga y anime, llega la tan esperada adaptación en novela ligera de este peculiar romance entre dos personas totalmente opuestas!
+<category term="Shounen" label="Shounen"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">"No soy un detective corriente, sino un detective NEET. Buscando en todo el mundo para localizar las palabras de los muertos".
 
-Descubre el mundo más allá de la mirada del narrador habitual de la historia, Ichikawa Kyotaro, un adolescente hosco perdidamente enamorado de Yamada Anna, la chica más linda de la clase. Por primera vez, los fans podrán ver los acontecimientos a través de los ojos de queridos personajes secundarios como la traviesa Moeko, un nervioso Kanzaki e incluso la mamá de Yamada. Además, incluye una historia exclusiva sobre los inicios de la relación entre Ichikawa y Yamada durante las vacaciones de verano, contada desde una perspectiva completamente nueva. ¡Estas historias cortas y entrañables seguro que satisfarán tanto a los fans de siempre como a los recién llegados!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-dangers-in-my-heart-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+El detective NEET dirigiendo a los NEETs que se reunían en el oscuro callejón - dijo Alice.
+
+El desconcertante incidente en el que Ayaka y yo nos vimos envueltos durante el invierno de mi primer año en el instituto, y también la maliciosa droga 'Angel Fix' que corroía la ciudad, el misterio fue desvelado por la chica detective Alice que no da ni un paso fuera de su habitación.
+
+"Conocer la verdad podría destruir la tranquila vida de tu pasado, ¿quieres saberlo aún así?"
+
+¡Debido a mi respuesta, los NEETs que normalmente no hacen nada fueron movilizados para resolver el caso!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1UtALkdVq7imTxwA_3VWAKQ" type="text/html" title="Akat Novels"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1-u6vH-2s3h_WuOk_CaIkbg" type="text/html" title="Mi Castillo de Arena"/>
 </entry>
 </feed>

@@ -1,45 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Nagase Sarasa</id>
-<title>Nagase Sarasa</title>
-<updated>2026-10-20T22:58:27.598224+00:00</updated>
+<id>nextnovels:autores:Jun Esaka</id>
+<title>Jun Esaka</title>
+<updated>2026-10-21T00:13:50.625258+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-335.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>I’m the Villainess, So I’m Taming the Final Boss Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-im-the-villainess-so-im-taming-the-final-boss-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-im-the-villainess-so-im-taming-the-final-boss-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/Im-the-Villainess-So-Im-Taming-the-Final-Boss-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/02/Im-the-Villainess-So-Im-Taming-the-Final-Boss-Portada.jpg"/>
-<author><name>Nagase Sarasa</name></author>
+<title>Naruto: Kakashi Retsuden Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-naruto-kakashi-retsuden-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-naruto-kakashi-retsuden-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/11/Naruto-Kakashi-Retsuden-Portada.webp"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/11/Naruto-Kakashi-Retsuden-Portada.webp"/>
+<author><name>Jun Esaka</name></author>
+<category term="Acción" label="Acción"/>
 <category term="Drama" label="Drama"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Romance" label="Romance"/>
-<category term="Shoujo" label="Shoujo"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Estoy en el mundo de un juego de romance que jugué en mi vida pasada, ¿verdad? Siendo ese el caso, como la villana, me veré enredada en la guerra entre la heroína y el rey demonio, pero sólo yo moriré… ¡¡Deben estar de broma!!
-
-Si es así, esquivaré el final mortal domesticando al último enemigo del juego, el rey demonio.
-
-Esta es la historia donde la villana les da su merecido a la heroína, su antiguo prometido y su amigo de la infancia; se convierte en empresaria, obtiene más subordinados (esclavos) y es mimada por el rey demonio.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-im-the-villainess-so-im-taming-the-final-boss-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">En el reino de Redaku... Lejos de casa, Kakashi se convierte en el tutor de un joven fugitivo. Deberá educarlo y convertirlo en un líder. Si el sexto hokage fracasa en la tarea, el Reino de Redaku declarará la guerra al País del Fuego...</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1vuk-f6_oo5PqxuhYmcb0lw" type="text/html" title="Mi Castillo de Arena"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1uXAksshCD4-C7VJC-c5fnw" type="text/html" title="ReloadVE"/>
 </entry>
 <entry>
-<title>The Do-Over Damsel Conquers the Dragon Emperor Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-do-over-damsel-conquers-the-dragon-emperor-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-do-over-damsel-conquers-the-dragon-emperor-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/08/The-Do-Over-Damsel-Conquers-the-Dragon-Emperor-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/08/The-Do-Over-Damsel-Conquers-the-Dragon-Emperor-Portada.jpg"/>
-<author><name>Nagase Sarasa</name></author>
+<title>Naruto: Naruto Retsuden Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-naruto-naruto-retsuden-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-naruto-naruto-retsuden-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/11/Naruto-Naruto-Retsuden-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/11/Naruto-Naruto-Retsuden-Portada.jpg"/>
+<author><name>Jun Esaka</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Romance" label="Romance"/>
-<category term="Shoujo" label="Shoujo"/>
-<content type="text">Jill es condenada a muerte por el príncipe heredero, su prometido. Pero justo antes de morir, es enviada seis años atrás en el tiempo, a la fiesta en la que se decidió su compromiso. Para evitar este destino ruinoso, Jill le propone matrimonio inmediatamente a la persona que está detrás de ella... ¡pero es el hombre que era su mayor enemigo, el emperador Hadis! Jill sabe todo sobre su futuro descenso al mal. Rápidamente se retracta de la propuesta, pero Hadis, encantado, la lleva de vuelta a su castillo y le prepara una comida. Completamente conquistada por la comida, Jill toma una decisión que le cambiará la vida...
+<category term="Shounen" label="Shounen"/>
+<content type="text">Naruto ya no puede usar su chakra. Para ayudarle a curarse, los ninjas de la Aldea de la Hoja formarán equipo con Orochimaru y un joven científico. Un torbellino de acontecimientos en el que se verán envueltos todos los héroes de la zona, que tendrán que mostrarse intrépidos e indomables por su hokage.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1ascbtWZCOmvVagV5MdO3Jg" type="text/html" title="ガラクタ通り"/>
+</entry>
+<entry>
+<title>Naruto: Sasuke Retsuden Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-naruto-sasuke-retsuden-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-naruto-sasuke-retsuden-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/11/Naruto-Sasuke-Retsuden-Portada.webp"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/11/Naruto-Sasuke-Retsuden-Portada.webp"/>
+<author><name>Jun Esaka</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">Sasuke se encuentra en una misión en el Instituto de Investigación Astronómica del Reino de Redaku, un lugar muy alejado de la Tierra del Fuego. Junto a Sakura inicia una investigación encubierta en busca de una cura para Naruto, que padece una enfermedad desconocida.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1RsQGcI6AaikoUTvyWyA3Iw" type="text/html" title="Mi Castillo de Arena"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1BuCotgjvpovZONdxRTFDrw" type="text/html" title="Sandysakura1"/>
+</entry>
+<entry>
+<title>Naruto: Sasuke Shinden Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-naruto-sasuke-shinden-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-naruto-sasuke-shinden-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/11/Naruto-Sasuke-Shinden-Portada.webp"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/11/Naruto-Sasuke-Shinden-Portada.webp"/>
+<author><name>Jun Esaka</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">Uchiha Sasuke se enfrenta a una Explosión Inesperada de Truenos.
 
-«¡Voy a reformarme, no, voy a hacerte feliz!».
+Mientras tanto, Boruto y su Equipo en espera de una Misión que Consiste en Escoltar en Secreto al ídolo Popular de la Tierra del Fuego.
 
-¡Es hora de rehacer esta vida con el enemigo!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-do-over-damsel-conquers-the-dragon-emperor-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+¿Pero Detrás de Ellos, Alguien comenzará a Cumplir su Plan Ferozmente Audaz?
+
+Sasuke Tiene la Intención de Mejorar La Habilidad del Equipo.
+
+¡Una Nueva Batalla de Ninjutsu, Contará sobre Los Lazos, Los Secretos del Maestro y el Alumno, en el Contexto de Eventos Tristes en Konoha!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1bInVxaOJzPb0FLoGFhZGeg" type="text/html" title="Mi Castillo de Arena"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1qiNrufsofva0CzoC5eT54w" type="text/html" title="JenyRivera9"/>
+</entry>
+<entry>
+<title>Witch Hat Atelier: Special Stories Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-witch-hat-atelier-special-stories-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-witch-hat-atelier-special-stories-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/Witch-Hat-Atelier-Special-Stories-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/06/Witch-Hat-Atelier-Special-Stories-Portada.jpg"/>
+<author><name>Jun Esaka</name></author>
+<category term="Aventura" label="Aventura"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<content type="text">¡En esta novela derivada oficial de «Witch Hat Atelier», sigue a los personajes de esta querida serie en tres relatos cortos independientes que no aparecen en el manga! En el primer relato, Olruggio se adentra en las montañas nevadas en busca de Qifrey tras su desaparición y se encuentra con algo que no esperaba. En la segunda historia, los aprendices del Atelier de Qifrey cuidan a un dragoncito que aparece de repente. En la historia final, los Caballeros Moralis se infiltran tras recibir un informe sobre abuso de magia. Nueva ilustración de portada de Kamome Shirahama.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1M_bZEzH3zM-jQKq-VCI5BQ" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 </feed>

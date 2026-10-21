@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Seo Tsukasa</id>
+<title>Seo Tsukasa</title>
+<updated>2026-10-21T00:13:50.706070+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-827.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>Sky World Novela Ligera en Español</title>
+<id>https://nextnovels.com/sky-world-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/sky-world-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/07/Sky-World-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/07/Sky-World-Portada.jpg"/>
+<author><name>Seo Tsukasa</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">Sky World tiene lugar en el mundo del mismo nombre del MMORPG, Sky World. Un día, miles de jugadores despiertan para encontrarse en dicho mundo.
+
+Junichiro Mikimori es uno de esos jugadores que ahora empezó a vivir en el mundo de Sky World. La historia comienza con Junichiro en Altaria Island. Allí, se encuentra con un gremio con puras integrantes femeninas y se hace amigo de dos de sus miembros. Juntos, deciden abandonar Altaria Island y viajar hacia el punto más alto del mundo: Aion Island, con la esperanza de ser capaces de encontrar una manera de volver al mundo real.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1OYXgHp3wIBTVxwJ5NyvhkQ" type="text/html" title="Kikuslirus Project"/>
+</entry>
+</feed>

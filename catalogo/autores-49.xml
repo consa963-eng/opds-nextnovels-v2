@@ -1,49 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Asato Asato</id>
-<title>Asato Asato</title>
-<updated>2026-10-20T22:58:27.540041+00:00</updated>
+<id>nextnovels:autores:Amagishi Hisaya</id>
+<title>Amagishi Hisaya</title>
+<updated>2026-10-21T00:13:50.578136+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-49.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>86 (Eighty Six) Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-86-eighty-six-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-86-eighty-six-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2021/12/86-e1641220488949.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2021/12/86-e1641220488949.jpg"/>
-<author><name>Asato Asato</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
+<title>Dahlia in Bloom Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-dahlia-in-bloom-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-dahlia-in-bloom-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/08/Dahlia-in-Bloom-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/08/Dahlia-in-Bloom-Portada.jpg"/>
+<author><name>Amagishi Hisaya</name></author>
+<category term="Comedia" label="Comedia"/>
 <category term="Drama" label="Drama"/>
-<category term="Mecha" label="Mecha"/>
-<category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Tragedia" label="Tragedia"/>
-<content type="text">La República de San Magnolia.
-
-Durante muchos años este país estuvo bajo ataque por el Imperio, quien creó unos innovadores vehículos militares no tripulados llamados Legión. En respuesta a los ataques, La República desarrollo con éxito una tecnología parecida, ayudando a retener el ataque enemigo, y lo más importante, sin ninguna muerte. ¿Pero es eso verdad? En esta versión oficial, sí hubo víctimas.
-
-En las afueras de los 85 sectores de la República, "El inexistente Sector 86", el lugar donde se producía las batallas contra la Legión. Donde los jóvenes del destacamento luchaban en sus vehículos contra la Legión.
-
-Shin, lider del escuadrón 86. Lena, "Handler" quien dirige a distancia al escuadrón desde la retaguardia mediante tecnología de comunicación especial.
-
-¡Comienza la bélica historia de la lucha de estos dos personajes!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-86-eighty-six-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
-</entry>
-<entry>
-<title>The Yaebuki Agency Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-yaebuki-agency-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-yaebuki-agency-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/The-Yaebuki-Agency-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/10/The-Yaebuki-Agency-Portada.jpg"/>
-<author><name>Asato Asato</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
 <category term="Fantasía" label="Fantasía"/>
-<content type="text">Comienza la conmovedora y desgarradora historia de amor entre un chico y una chica, del autor de "86".
+<category term="Romance" label="Romance"/>
+<category term="Shoujo" label="Shoujo"/>
+<content type="text">—Ya no quiero seguir bajando la cabeza.
 
-El gran ritual para salvar al mundo de su destino de destrucción: la conquista de la Torre de Diez Millones de jō. El grupo de trabajo especial de la Familia Real, Yaeyamabuki, conocido comúnmente como la agencia Yaebuki, se enfrenta al desafío de conquistar esta colosal torre, tejida con magia espiritual y engranajes que se manifiestan cada noche. Los hechiceros gemelos, Akane y Aohi, se unen a Matsurika, un guardia de élite de la Capital Imperial, para prevenir un ataque terrorista de una secta. Se oponen a ellos un malvado dragón y sus seguidores, que obstaculizan la conquista de la Torre de Diez Millones de jō; los súbditos que resienten la sociedad controlada; y la Princesa de la Destrucción, quien mueve los hilos de la destrucción. El vínculo entre chicos y chicas que florece en medio de una batalla brutal acaba convirtiéndose en una espada que los hiere: «En un mundo que se desvanece, las flores que resisten y se marchitan son las más bellas». ¡Disfruta de esta nueva historia de Asato, autor de relatos de batallas y juventud, que fusiona el periodo Heian con el espiritualismo y el cyberpunk!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-yaebuki-agency-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Dahlia Rossetti, una fabricante de herramientas mágicas que reencarnó en otro mundo, decide vivir a su manera después de que su prometido rompe cruelmente su compromiso con ella.
+
+Viajar a donde quiera, comer lo que le apetezca, y sobre todo, crear libremente las herramientas mágicas que tanto le apasionan. Al hacerlo, poco a poco, todo a su alrededor comienza a llenarse de alegría.
+
+—¿Esto también es otro de tus inventos?
+
+—¿Y si aprovechamos para fundar una compañía comercial?
+
+A medida que los ingeniosos artefactos de Dahlia traen felicidad a las personas de este otro mundo, también aumentan sin parar las cosas que puede y quiere crear.
+
+¡Así comienza la historia de Dahlia, la fabricante de herramientas mágicas, y su vida de creación libre y sin ataduras!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1PswCtRWto4ZAt_R5XACX4Q" type="text/html" title="Kasnia Project"/>
 </entry>
 </feed>

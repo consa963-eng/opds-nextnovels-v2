@@ -1,37 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Saeki Nagi</id>
-<title>Saeki Nagi</title>
-<updated>2026-10-20T22:58:27.614165+00:00</updated>
+<id>nextnovels:autores:Keikaku Itou</id>
+<title>Keikaku Itou</title>
+<updated>2026-10-21T00:13:50.638321+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-411.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>An Extremely Wholesome Level-Up of a Beautiful Girl Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-an-extremely-wholesome-level-up-of-a-beautiful-girl-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-an-extremely-wholesome-level-up-of-a-beautiful-girl-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/An-Extremely-Wholesome-Level-Up-of-a-Beautiful-Girl-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/05/An-Extremely-Wholesome-Level-Up-of-a-Beautiful-Girl-Portada.jpg"/>
-<author><name>Saeki Nagi</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Harem" label="Harem"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<title>Genocidal Organ Novela Ligera en Español</title>
+<id>https://nextnovels.com/genocidal-organ-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/genocidal-organ-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/02/Genocidial-Organ-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/02/Genocidial-Organ-Portada.jpg"/>
+<author><name>Keikaku Itou</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Drama" label="Drama"/>
+<category term="Psicológico" label="Psicológico"/>
 <category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">¡EXP Gigantesca, Harem al Máximo! Una comedia romántica sana de solo un ligero toque
-
-En un mundo moderno donde han aparecido las mazmorras, las mujeres poseen "Niveles" mientras que los hombres manifiestan "EXP". Al ser tocadas por un hombre, las mujeres reciben puntos de experiencia junto con un flujo de placer intenso. Yo, Tatsuya, un estudiante de preparatoria, poseo una cantidad masiva de EXP; tan masiva, de hecho, que un simple toque hace que las chicas se desmayen de éxtasis. Debido a esto, me había rendido con la idea de tener novia... o eso pensaba.
-
-"¡Por supuesto que vamos a hacerlo!"
-
-"¡Por favor!"
-
-"Patético perdedor ♡"
-
-Una gyaru, una enfermera escolar y una streamer insolente. ¡Estas hermosas chicas que quieren subir de nivel han notado mi "tamaño"! Entre una convivencia dulce y coqueta, sesiones nocturnas en la enfermería y transmisiones en vivo de "resistencia al éxtasis", ¡me persiguen tan implacablemente que mis propios impulsos están llegando al límite! Si cruzo la línea, las romperé, y aun así...
-
-"¡Dame más... EXP!"
-
-¡Una comedia romántica de harem sana que comienza con solo un pequeño toque!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-an-extremely-wholesome-level-up-of-a-beautiful-girl-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<content type="text">La historia, ambientada en un mundo futuro forjado en el miedo y la violencia, sigue los pasos del agente de la inteligencia estadounidense Clavis Shepard en su búsqueda de pistas contra el cerebro terrorista John Paul.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com#Volumenes" type="text/html" title="Astral Novel Translations"/>
 </entry>
 </feed>

@@ -1,32 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Sawatari Kazami</id>
-<title>Sawatari Kazami</title>
-<updated>2026-10-20T22:58:27.620022+00:00</updated>
+<id>nextnovels:autores:Kishine Kouka</id>
+<title>Kishine Kouka</title>
+<updated>2026-10-21T00:13:50.643011+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-440.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Aren’t You Too Sweet Salt-God Sato-San? Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-arent-you-too-sweet-salt-god-sato-san-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-arent-you-too-sweet-salt-god-sato-san-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/09/Arent-You-Too-Sweet-Salt-God-Sato-San-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/09/Arent-You-Too-Sweet-Salt-God-Sato-San-Portada.jpg"/>
-<author><name>Sawatari Kazami</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<title>Senka no Maihime Novela Ligera en Español</title>
+<id>https://nextnovels.com/senka-no-maihime-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/senka-no-maihime-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/07/Senka-no-Maihime-Portada-1.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/07/Senka-no-Maihime-Portada-1.jpg"/>
+<author><name>Kishine Kouka</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
 <category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">¡Indigestión de dulzura asegurada! ¡Una comedia romántica azucarada de dos chicos con un amor no correspondido mutuo!
-
-“Sato-san es una flor en lo alto de la montaña, trata con frialdad a cualquiera. Pero solo yo sé que en realidad es muy descuidada. Es mala tomando fotos, y aun así suele poner cara de satisfacción. Y esa carita suya cuando sonríe tímidamente es increíblemente adorable”.
-
-“Oshio-kun es amable con todo el mundo. Pero solo yo sé que, inesperadamente, también tiene un lado tr4vi3so. Es bueno usando las redes sociales. Trabaja como camarero en un café con estilo. Y cuando sonríe con aire de picardía, hace que mi corazón lata con fuerza”.
-
-...Esto es un secreto, pero a mí me gusta esa chica (ese chico).
-
-La historia de un primer amor fresco y desesperantemente torpe entre dos personas.
-
-¡Ternura y dulzura al 120%! ¡Una comedia romántica juvenil cargada de amor mutuo no correspondido!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-arent-you-too-sweet-salt-god-sato-san-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<content type="text">Érase una vez, nuestro mundo fue bendecido por la Valkiria, una diosa de la guerra cuya fugaz belleza brilló resplandecientemente en el campo de batalla. Su campaña contra el miserable Rey Demonio resultó victoriosa, con el mal siendo sellado por la bella guerrera. Muchos años más tarde, el joven rey Alnoa acaba de regresar a casa después de evitar otra invasión a su tierra natal. Antes de que pueda cambiar su atuendo de batalla, su hermana Cecilia viene a él con noticias sorprendentes: Sharon y Lesfina, ambas princesas y Divas bendecidas con el poder de la Valkiria, buscan su mano en matrimonio. A Alnoa no le gusta la idea, pero sus sentimientos significan poco frente a la política. Arregla encontrarse con ellas con un mes de diferencia y escogerá a una para que sea su novia, inaugurando una nueva era para su reino. Es hora de que nuestro joven rey conozca a la primera candidata. La espera en las puertas del castillo… Pero espera! ¿Ambas candidatas aparecieron al mismo tiempo!?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1mlU2L99cG36PAkyr0Ccttg" type="text/html" title="Shadow Moon's Translations, Burst Lolis Translations"/>
 </entry>
 </feed>

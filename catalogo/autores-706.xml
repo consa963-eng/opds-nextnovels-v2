@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Ohba Tsugumi</id>
+<title>Ohba Tsugumi</title>
+<updated>2026-10-21T00:13:50.686309+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-706.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>Death Note: L Change the World Novela Ligera en Español</title>
+<id>https://nextnovels.com/death-note-l-change-the-world-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/death-note-l-change-the-world-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-1.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-1.jpg"/>
+<author><name>Ohba Tsugumi</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Drama" label="Drama"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Supernatural" label="Supernatural"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">Basado en la tercera película Live Action de Death Note. Con sólo 23 días de vida, debo salvar al mundo de una horrible epidemia.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1HKEUib6C7sBAa23O7gOtsA" type="text/html" title="Santos Fansub"/>
+<link rel="http://opds-spec.org/acquisition" href="https://lectortmo.com/library/manga/9313/death-note" type="text/html" title="Disponible en TuMangaOnline"/>
+</entry>
+</feed>

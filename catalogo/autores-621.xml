@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:mothy</id>
+<title>mothy</title>
+<updated>2026-10-21T00:13:50.672065+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-621.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>Aku no Monogatari Novela Ligera en Español</title>
+<id>https://nextnovels.com/aku-no-monogatari-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/aku-no-monogatari-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/12/Aku-no-Monogatari-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/12/Aku-no-Monogatari-Portada.jpg"/>
+<author><name>mothy</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Misterio" label="Misterio"/>
+<content type="text">Lo que apareció del papel no era un lindo animal, ¡sino un demonio!
+
+Soy Itsuki, un alumno de quinto curso. Voy a pasar las vacaciones de verano en un piso que regenta mi tío. ...... Un día, abro una puerta secreta en el fondo de la biblioteca de mi tío. En el archivo, cuidadosamente guardado, había un montón de papeles de distintas épocas y caligrafías. Mientras leía las misteriosas historias, los animales de las ilustraciones empezaron a moverse. ......</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1TvvzHsOawmQf7TxKxOQjbw" type="text/html" title="Novelas Evillious en Español"/>
+</entry>
+<entry>
+<title>Aku no Musume Novela Ligera en Español</title>
+<id>https://nextnovels.com/aku-no-musume-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/aku-no-musume-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/12/Aku-no-Musume-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/12/Aku-no-Musume-Portada.jpg"/>
+<author><name>mothy</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Romance" label="Romance"/>
+<content type="text">La historia sigue a la princesa Riliane Lucifen d'Autriche, del reino de Lucifenia, y las consecuencias que tienen sus actos: por culpa de la tiranía y caprichos de la princesa, el "País Amarillo" ha caído en la pobreza y hambruna. El pueblo ha comenzado a estar disconforme con esta situación. ¿Qué será lo que suceda?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1B7OC_gY47c77XXgmWO_2LQ" type="text/html" title="Novelas Evillious en Español"/>
+</entry>
+<entry>
+<title>Aku no Taizai Novela Ligera en Español</title>
+<id>https://nextnovels.com/aku-no-taizai-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/aku-no-taizai-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/12/Aku-no-Taizai-Venomania-kou-no-Kyouki-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/12/Aku-no-Taizai-Venomania-kou-no-Kyouki-Portada.jpg"/>
+<author><name>mothy</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<content type="text">El duque Sateriasis Venomania, que en su infancia había sido objeto de burlas y mofas por parte de los demás. En la edad adulta, hizo un pacto con el diablo para tener un carisma irresistible para las mujeres. Como resultado, las mujeres empezaron a acudir en masa al sótano de su mansión para crear un harén para él. Una de estas mujeres resultó ser la que "le tomó por tonto". Esta chica, ahora una mujer joven, era su amiga de la infancia, Gumina Glassred.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/14Yq5sEZGZZhWAB46701B1w" type="text/html" title="Novelas Evillious en Español"/>
+</entry>
+<entry>
+<title>Genzai Monogatari Novela Ligera en Español</title>
+<id>https://nextnovels.com/genzai-monogatari-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/genzai-monogatari-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/12/Genzai-Monogatari-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/12/Genzai-Monogatari-Portada.jpg"/>
+<author><name>mothy</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Romance" label="Romance"/>
+<content type="text">Esta es la versión novelada de la serie de CD doujin 'Original Sin Story' publicada entre 2012 y 2015, y la historia de origen de la serie 'La Hija del Mal' y 'Pecados Capitales del Mal'.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1iuTVjKpMNWecBRNzifQwZw" type="text/html" title="Novelas Evillious en Español"/>
+</entry>
+<entry>
+<title>Goumontou wa Nemuranai Novela Ligera en Español</title>
+<id>https://nextnovels.com/goumontou-wa-nemuranai-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/goumontou-wa-nemuranai-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/12/Goumontou-wa-Nemuranai-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/12/Goumontou-wa-Nemuranai-Portada.jpg"/>
+<author><name>mothy</name></author>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Maduro" label="Maduro"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Sir Hank fue un héroe, pero también un torturador. Sus tres hermanas, que dicen ser sus hijas, se han instalado en la torre donde vivió y torturó antes de morir. Givet, Lack y Maiden. Su llegada coincide con un aumento del número de personas desaparecidas. Las tres hermanas amadas por el Señor Torturador comienzan ahora su espantoso y frenético festín...</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/179ZtD7LNbAcRK2TvQ8gcSA" type="text/html" title="Novelas Evillious en Español"/>
+</entry>
+<entry>
+<title>Nanatsu no Tsumi to Batsu Novela Ligera en Español</title>
+<id>https://nextnovels.com/nanatsu-no-tsumi-to-batsu-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/nanatsu-no-tsumi-to-batsu-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/12/Nanatsu-no-Tsumi-to-Batsu-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/12/Nanatsu-no-Tsumi-to-Batsu-Portada.jpg"/>
+<author><name>mothy</name></author>
+<category term="Aventura" label="Aventura"/>
+<category term="Fantasía" label="Fantasía"/>
+<content type="text">Sigue a Allen Avadonia tras la aniquilación del Bosque de Árboles Milenarios por "Castigo", enviado en un viaje para encontrarse con las almas de los individuos implicados con los recipientes del pecado por Hoz.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1HdiGr2ExLYIUZ1av6FDUdg" type="text/html" title="Novelas Evillious en Español"/>
+</entry>
+<entry>
+<title>Outlaw ＆ Lychgate Novela Ligera en Español</title>
+<id>https://nextnovels.com/outlaw-lychgate-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/outlaw-lychgate-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/12/Outlaw-%EF%BC%86-Lychgate-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/12/Outlaw-%EF%BC%86-Lychgate-Portada.jpg"/>
+<author><name>mothy</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Drama" label="Drama"/>
+<content type="text">Secuela de 'Pecados Capitales del Mal: Master of the Heavenly Yard'. Tras la desaparición de Allen, una enorme "puerta" aparece de repente en el bosque del Árbol Milenario. Mientras tanto, Rich, seguidor de Banika, convocado por el rey Ars de Lucifennia, recibe la orden de investigar a un misterioso grupo de soldados muertos, los Forajidos, que han aparecido en el sur. ......</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1tcM9SCgQOH1kGOn6frwJ4Q" type="text/html" title="Novelas Evillious en Español"/>
+</entry>
+<entry>
+<title>Unlock City Novela Ligera en Español</title>
+<id>https://nextnovels.com/unlock-city-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/unlock-city-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/12/Unlock-City-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/12/Unlock-City-Portada.jpg"/>
+<author><name>mothy</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Terror" label="Terror"/>
+<content type="text">Durante una semana, a partir del 7 de julio, día de su aniversario, se "dará la vuelta" a un único "concepto"".
+
+Kodai Takahagi, que trabaja para una empresa de seguridad, recibe un extraño correo electrónico de un remitente desconocido. A partir de ese día, comienzan a producirse extraños fenómenos en la ciudad de Tsuruhiang, donde viven Kodai y su hermana Otoha.
+
+Un "muro transparente" cubre toda la ciudad, sin permitir el paso a nadie.
+
+La seguridad electrónica, las cerraduras analógicas y todo tipo de "llaves" han sido desactivadas en la ciudad.
+
+Y una locura salvaje se cierne sobre el mundo aislado.
+
+Koudai persigue el misterio del fenómeno, utilizando un único correo electrónico como pista.
+
+Otoha está atrapada en una escuela sin salida.
+
+¿Podrá abrir la llave de la desesperación?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1rCcVBDJgJsYiUy2MwrleDg" type="text/html" title="Novelas Evillious en Español"/>
+</entry>
+</feed>

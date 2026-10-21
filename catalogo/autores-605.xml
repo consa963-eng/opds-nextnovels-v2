@@ -1,38 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:雨音 恵</id>
-<title>雨音 恵</title>
-<updated>2026-10-20T22:58:27.652960+00:00</updated>
+<id>nextnovels:autores:Mizuki Nomura</id>
+<title>Mizuki Nomura</title>
+<updated>2026-10-21T00:13:50.669510+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-605.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>If I Become the Lifesaver of the Single Most Adorable Kouhai in the Academy, She Becomes a Commuting Wife and Comes Pressing for a Relationship Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-if-i-become-the-lifesaver-of-the-single-most-adorable-kouhai-in-the-academy-she-becomes-a-commuting-wife-and-comes-pressing-for-a-relationship-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-if-i-become-the-lifesaver-of-the-single-most-adorable-kouhai-in-the-academy-she-becomes-a-commuting-wife-and-comes-pressing-for-a-relationship-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/01/If-I-Become-the-Lifesaver-of-the-Single-Most-Adorable-Kouhai-in-the-Academy-She-Becomes-a-Commuting-Wife-and-Comes-Pressing-for-a-Relationship-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/01/If-I-Become-the-Lifesaver-of-the-Single-Most-Adorable-Kouhai-in-the-Academy-She-Becomes-a-Commuting-Wife-and-Comes-Pressing-for-a-Relationship-Portada.jpg"/>
-<author><name>雨音 恵</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
+<title>Book Girl Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-book-girl-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-book-girl-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/11/01-36.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/11/01-36.jpg"/>
+<author><name>Mizuki Nomura</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Para Tohko Amano, una estudiante de tercer curso de secundaria que se autodenomina «chica de los libros», ser la presidenta del club de literatura es mucho más que una simple actividad extraescolar con pequeñas ventajas. Es su pan de cada día... ¡literalmente! Tohko es, en realidad, un demonio devorador de literatura y, en lugar de la opción menos apetecible del pan empapado, prefiere devorar páginas arrancadas de todo tipo de historias. Pero para Tohko, las verdaderas delicias son las historias escritas a mano. Y para satisfacer sus gustos gourmet, ha contratado (o mejor dicho, intimidado) a Konoha Inoue, un estudiante de curso inferior que ha dejado de escribir novelas tras sus experiencias con la publicación a una edad temprana. Así que, día tras día, Konoha garabatea sin parar para satisfacer el apetito de Tohko. Pero cuando, un día, otro estudiante llama a la puerta del club literario en busca de consejos para escribir cartas de amor, ¿descubrirá Tohko un nuevo tipo de manjar con el que saciar su voraz apetito?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1I5bdIuGEVf6PnP8N8uR5WA" type="text/html" title="Lanove"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1eE1LeBvCvzFZRs9kZpmnmQ" type="text/html" title="Next Novels (MTL)"/>
+</entry>
+<entry>
+<title>Hikaru ga Chikyuu ni Itakoro…… Novela Ligera en Español</title>
+<id>https://nextnovels.com/hikaru-ga-chikyuu-ni-itakoro-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/hikaru-ga-chikyuu-ni-itakoro-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/07/Hikaru-ga-Chikyuu-ni-Itakoro.-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/07/Hikaru-ga-Chikyuu-ni-Itakoro.-Portada.jpg"/>
+<author><name>Mizuki Nomura</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Harem" label="Harem"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Supernatural" label="Supernatural"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">La historia comienza con la muerte de Hikaru Mikado, el "Rey del Harén" de la Academia Heian. Después de su muerte, se convierte en un fantasma, un alma en pena que sólo Koremitsu Akagi puede ver. Koremitsu, por su parte, es completamente opuesto a Hikaru. Su cabello rojizo y su mirada amenazante le hacen ver como un delincuente, a pesar de que es una persona amable en el fondo. Hikaru le hace una petición: quiere cumplir una promesa que no pudo cumplir en vida. La promesa consiste en darle 7 regalos a Aoi Saotome, su novia y prometida, en su cumpleaños número 17. Koremitsu acepta, y debe esforzarse en cumplir ésa y todas las promesas que Hikaru hizo a las numerosas chicas que conoció cuando seguía sobre la tierra.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1JUIYLahghSVcmjvtBzojTA" type="text/html" title="Odisea Internáutica, Traducciones T-34"/>
+</entry>
+<entry>
+<title>Shitayomi Danshi to Toukou Joshi Novela Ligera en Español</title>
+<id>https://nextnovels.com/shitayomi-danshi-to-toukou-joshi-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/shitayomi-danshi-to-toukou-joshi-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-19.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-19.jpg"/>
+<author><name>Mizuki Nomura</name></author>
+<category term="Drama" label="Drama"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">“Solo hago algo así por Senpai...”.
+<content type="text">"Sólo por una vez, quiero pasar la primera etapa de la proyección..."
 
-¡¿La kouhai más guapa de la academia se convierte en su prometida y esposa que se desplaza diariamente al trabajo?! ¡Una comedia romántica de amor puro y semicohabitación!
+"Por favor, enséñame a escribir una novela."
 
-Midou Tomoya, que ha pasado a segundo de instituto, acaba salvando a la nueva estudiante de primer año, Shirazu Yuuka, de la que se rumorea en toda la escuela que es una de las chicas más guapas, de un accidente de tráfico.
+El ordinario chico de instituto Ao, es en realidad un seleccionador de manuscritos para un concurso de novelas ligeras para recién llegados. Un día, encontró el trabajo de su compañera de clase, Hiyuki Hinomiya entre las presentaciones enviadas para su selección.
 
-Él cree que su relación con ella termina ahí mismo, o eso cree, hasta que su padre, que se encuentra fuera en un largo viaje de negocios, le informa de que Yuuka se ha convertido en su prometida.
+La chica conocida como la "Doncella de Hielo" escribió una novela ligera con fuentes de diferentes tamaños y palabras onomatopéyicas para un concurso. La sorprendida Ao comenzó a aconsejar su trabajo tras este inesperado suceso.
 
-“¡Hasta que la lesión de Senpai se cure, yo misma me encargaré de todos los asuntos de tu vida diaria!”
+Guió con delicadeza a Hiyuki, que se sintió dolida por las críticas de la criba. El trasfondo del mundo, la configuración de los personajes, la estructura de la historia y otras cuestiones estaban avanzando sin problemas, pero...
 
-Al ver a Tomoya, que se lesionó el brazo dominante al rescatarla, Yuuka declara audazmente que superará incluso el papel de prometida y se convertirá en su esposa pendular, llegando a hacer esta proclamación sin dudarlo.
-
-“El cuerpo de Senpai... ¡Lo lavaré a fondo por ti, de acuerdo!”
-
-Esta esposa pendular pura y completamente inocente se desespera en sus esfuerzos por dedicarse por completo, hasta el punto de que su sentido de la distancia personal y los límites acaba totalmente distorsionado y desequilibrado...
-
-¡Una comedia romántica de amor puro y semicohabitación compartida con una audaz esposa pendular kouhai, criada en las refinadas tradiciones de una educación ojousama!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-if-i-become-the-lifesaver-of-the-single-most-adorable-kouhai-in-the-academy-she-becomes-a-commuting-wife-and-comes-pressing-for-a-relationship-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+¡Comienza una brillante historia de creación de contenidos juveniles!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/18-yIxFQ4zcy-XGCjvnwQ0A" type="text/html" title="Traducciones Daeldaus"/>
 </entry>
 </feed>

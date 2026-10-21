@@ -1,22 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Ono Fuyumi</id>
-<title>Ono Fuyumi</title>
-<updated>2026-10-20T22:58:27.607716+00:00</updated>
+<id>nextnovels:autores:Karui Hiroshi</id>
+<title>Karui Hiroshi</title>
+<updated>2026-10-21T00:13:50.633761+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-383.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>The Twelve Kingdoms Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-twelve-kingdoms-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-twelve-kingdoms-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/08/The-Twelve-Kingdoms-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/08/The-Twelve-Kingdoms-Portada.jpg"/>
-<author><name>Ono Fuyumi</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
+<title>Cool na Megami-sama to Issho ni Sundara, Amayakashisugite Ponkotsu ni Shite Shimatta Ken ni Tsuite Novela Ligera en Español</title>
+<id>https://nextnovels.com/cool-na-megami-sama-to-issho-ni-sundara-amayakashisugite-ponkotsu-ni-shite-shimatta-ken-ni-tsuite-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/cool-na-megami-sama-to-issho-ni-sundara-amayakashisugite-ponkotsu-ni-shite-shimatta-ken-ni-tsuite-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/08/Cool-na-Megami-sama-to-Issho-ni-Sundara-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/08/Cool-na-Megami-sama-to-Issho-ni-Sundara-Portada.jpg"/>
+<author><name>Karui Hiroshi</name></author>
+<category term="Comedia" label="Comedia"/>
 <category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Psicológico" label="Psicológico"/>
-<content type="text">Youko es una chica de Japón algo extraña, su color de pelo rojizo, considerado raro en una japonesa, le trae algunos problemas en el instituto y además todas las noches se ve atormentada por una extraña pesadilla sobre unos extraños monstruos. Acompaña a Youko en la lucha contra sus demonios internos en un mundo irreal ambientado en el Japón feudal muy logrado, en el que la fantasía, la magia y los extraños monstruos proporcionaran montones de aventuras.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-twelve-kingdoms-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">En la clase de Akihara Haruto, un estudiante de secundaria que es bueno en las tareas del hogar, también había una chica llamada Mikoto Rei.
+
+Es la niña más hermosa de la escuela, pero también es conocida por un apodo peculiar, la "Diosa del Hielo". Rei es lo que uno podría llamar un superhumano perfecto. Evita socializar con los demás, y Haruto apenas había interactuado con ella.
+
+Un día de invierno, Haruto regresa a su departamento, donde vive solo, y encuentra a Mikoto Rei allí. Rei parece ser un pariente lejano de Haruto y ha venido a vivir en la misma casa que él.
+
+En un momento, Rei había rechazado a Haruto diciendo: "No tengo intención de llevarme bien contigo".
+
+Sin embargo, como resultado de ayudar a Rei mientras sufría de un resfriado, Haruto eventualmente se volvió más cercano a Rei.
+
+Haruto se dio cuenta de que Rei, aunque parecía ser genial, en realidad era una persona muy solitaria. En el transcurso de sus vidas juntos, Haruto malcría a Rei una y otra vez, ya que Rei se vuelve demasiado malcriada y dependiente de él.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1KPaIhNU4VprbXIzSviBWMA" type="text/html" title="Ilusion Shuri Novels"/>
 </entry>
 </feed>

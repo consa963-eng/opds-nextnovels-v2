@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Takekuni Kitayama</id>
+<title>Takekuni Kitayama</title>
+<updated>2026-10-21T00:13:50.723163+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-930.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>Danganronpa: Kirigiri Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-danganronpa-kirigiri-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-danganronpa-kirigiri-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/11/Danganronpa-Kirigiri-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/11/Danganronpa-Kirigiri-Portada.jpg"/>
+<author><name>Takekuni Kitayama</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Drama" label="Drama"/>
+<category term="Horror" label="Horror"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Supernatural" label="Supernatural"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">Danganronpa Kirigiri trata sobre la misteriosa chica Kyouko Kirigiri y su misterioso pasado, que desempeña un papel fundamental en el universo Danganronpa.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1csD-IHN0qfw8j6jtYN7ilA" type="text/html" title="DanganUniverse Translation Group"/>
+</entry>
+</feed>

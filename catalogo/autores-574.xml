@@ -1,22 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Yuki Suzuki</id>
-<title>Yuki Suzuki</title>
-<updated>2026-10-20T22:58:27.648867+00:00</updated>
+<id>nextnovels:autores:Mikumo Gakuto</id>
+<title>Mikumo Gakuto</title>
+<updated>2026-10-21T00:13:50.664482+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-574.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Reincarnated Into a Game as the Hero’s Friend Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-reincarnated-into-a-game-as-the-heros-friend-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-reincarnated-into-a-game-as-the-heros-friend-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/11/Reincarnated-Into-a-Game-as-the-Heros-Friend-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/11/Reincarnated-Into-a-Game-as-the-Heros-Friend-Portada.jpg"/>
-<author><name>Yuki Suzuki</name></author>
+<title>Strike the Blood Novela Ligera en Español</title>
+<id>https://nextnovels.com/strike-the-blood-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/strike-the-blood-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-67.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-67.jpg"/>
+<author><name>Mikumo Gakuto</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Comedia" label="Comedia"/>
 <category term="Drama" label="Drama"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Romance" label="Romance"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">"El cuarto primogénito" - Es el vampiro más fuerte del mundo que sólo debería existir en las leyendas. Acompañado incluso por doce Kenjuu y propagando la calamidad, este vampiro fantasma apareció en Japón.
+
+Para la observación y aniquilación de este "cuarto primogénito", el gobierno y el Rey León decidieron enviar a un mago de ataque denominado "chamán de las espadas". Sin embargo, por alguna razón, la elegida para la observación fue una aprendiz de "chamán de las espadas", Himeragi Yukina.
+
+Empuñando la más fuerte lanza espiritual anti-primogenitor, Yukina llegó al Santuario de los Demonios, "Ciudad Itogami". ¿Cuál era la verdadera identidad del "cuarto primigenio", Akatsuki Kojou, que encontró allí?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1I3q5ffa5sWMLBv7Lr8Qj7g" type="text/html" title="Kaleid Word Translations: CanisLycaon"/>
+</entry>
+<entry>
+<title>The Mystic Archives of Dantalian Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-mystic-archives-of-dantalian-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-mystic-archives-of-dantalian-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/The-Mystic-Archives-of-Dantalian-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/05/The-Mystic-Archives-of-Dantalian-Portada.jpg"/>
+<author><name>Mikumo Gakuto</name></author>
+<category term="Acción" label="Acción"/>
 <category term="Fantasía" label="Fantasía"/>
+<category term="Horror" label="Horror"/>
+<category term="Misterio" label="Misterio"/>
 <category term="Shounen" label="Shounen"/>
-<content type="text">Algún día, el héroe Mazel luchará contra el Señor de los Demonios con el destino del reino en juego. Pero hasta ese día... ¡más le vale llevar muchas pociones! Mientras el héroe está ocupado salvando el reino, depende de Lord Werner, un oficinista japonés reencarnado en el mundo de un clásico juego de rol, evitar que el resto del mundo se convierta en daño colateral. ¡No hay héroe, luminaria o guerrero de la luz que no necesite un amigo como Werner! Pero, ¿podrá realmente desafiar las llamas del destino y cambiar el agridulce final del juego?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-reincarnated-into-a-game-as-the-heros-friend-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">El joven Huey se hizo cargo de la antigua mansión de su difunto abuelo, un apasionado de los libros, así como de la colección de libros que allí se guardaba. Pero había una condición: también tenía que heredar la «Bibliotheca».
+
+Al inspeccionar la mansión, Huey descubre un sótano lleno de libros apilados. En medio de ellos se encuentra con una chica vestida de negro que lee en silencio un libro. Se llama Dalian y lleva un gran candado colgado delante. Ella misma es la entrada a la «Bibliotheca de Dantalian», que contiene los prohibidos «Libros Fantasma».</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1gXPJBYOW_myatl41BTnaQw" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 </feed>

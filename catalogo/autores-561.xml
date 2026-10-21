@@ -1,26 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Yoneori</id>
-<title>Yoneori</title>
-<updated>2026-10-20T22:58:27.646445+00:00</updated>
+<id>nextnovels:autores:Mihara Mitsuki</id>
+<title>Mihara Mitsuki</title>
+<updated>2026-10-21T00:13:50.662152+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-561.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>The Forsaken Saintess and her Foodie Roadtrip in Another World Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-forsaken-saintess-and-her-foodie-roadtrip-in-another-world-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-forsaken-saintess-and-her-foodie-roadtrip-in-another-world-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/The-Forsaken-Saintess-and-her-Foodie-Roadtrip-in-Another-World-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/07/The-Forsaken-Saintess-and-her-Foodie-Roadtrip-in-Another-World-Portada.jpg"/>
-<author><name>Yoneori</name></author>
+<title>Magika no Kenshi to Shoukan Maou Novela Ligera en Español</title>
+<id>https://nextnovels.com/magika-no-kenshi-to-shoukan-maou-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/magika-no-kenshi-to-shoukan-maou-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-10.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-10.jpg"/>
+<author><name>Mihara Mitsuki</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Adulto" label="Adulto"/>
 <category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Harem" label="Harem"/>
 <category term="Romance" label="Romance"/>
-<category term="Shoujo" label="Shoujo"/>
-<content type="text">Rin Takanashi, una cuidadora de mediana edad, quedó atrapada en una «Convocación de Santos» en la que la arrojaron como si fuera basura.
+<category term="Supernatural" label="Supernatural"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Hace 15 años, el mundo descubrió la magia y los seres míticos (básicamente seres de diversas leyendas) en otra dimensión. La humanidad aprendió a invocar a estos peligrosos seres míticos y a utilizar su poder con gran efecto. Siete países firmaron contratos con estos "seres míticos" y obtuvieron su lealtad. Los seres míticos eligen a sus invocadores cuando cumplen 14 años y les otorgan un estigma. Se han creado escuelas para formar a los invocadores y a los espadachines mágicos (básicamente guardaespaldas que dan tiempo a los invocadores para lanzar su hechizo) como resultado.
 
-Pero con la ayuda de 【Supervivencia】 y otra habilidad especial, esta mujer a la que le encanta acampar, junto con los compañeros de viaje que recogió por casualidad, ¡se embarcará en un viaje sin prisas para disfrutar de la gastronomía de diferentes mundos! ¡Esta es una historia llena de sudor, lágrimas y hambre!
+15 años más tarde, tras el descubrimiento de la magia, Kazuki Hayashizaki es elegido como invocador y recibe un estigma que lo indica. Esto es sorprendente ya que los hombres no son elegidos como invocadores debido a su baja cantidad de mana en comparación con las mujeres. Al ser el primer varón en ser invocador, Kazuki está bajo el escrutinio de casi todo el mundo.
 
-O al menos eso se suponía, pero de alguna manera su viaje ha dado un giro inesperado…?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-forsaken-saintess-and-her-foodie-roadtrip-in-another-world-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Para complicar las cosas, su hermana (que es una espadachina mágica) se opone a que vaya a la escuela de invocadores para formarse como tal. Porque los invocadores y los espadachines mágicos tienen una relación de gato y ratón en la que los invocadores ven a los espadachines mágicos como inferiores, así que su hermana naturalmente está en contra de que vaya allí. Ella lo detendrá incluso si eso significa ir a la guerra.
+
+Sin embargo, Kazuki está decidido a prosperar en la escuela de invocadores y ya ha decidido darlo todo. Aunque sea el estudiante de menor rango (rango E) y sus compañeros pretendan degradarlo, demostrará que es el invocador más fuerte.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1A-YrVYLkmNlp0Vmby1TikA" type="text/html" title="Akat Novels"/>
 </entry>
 </feed>

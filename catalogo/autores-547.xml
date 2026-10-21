@@ -1,37 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Usagi Tsuchiya</id>
-<title>Usagi Tsuchiya</title>
-<updated>2026-10-20T22:58:27.643752+00:00</updated>
+<id>nextnovels:autores:Mashiroya Hideaki</id>
+<title>Mashiroya Hideaki</title>
+<updated>2026-10-21T00:13:50.659892+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-547.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>The Mysterious Scent Comes from the Bakery Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-mysterious-scent-comes-from-the-bakery-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-mysterious-scent-comes-from-the-bakery-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/The-Mysterious-Scent-Comes-from-the-Bakery-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/07/The-Mysterious-Scent-Comes-from-the-Bakery-Portada.jpg"/>
-<author><name>Usagi Tsuchiya</name></author>
-<category term="Misterio" label="Misterio"/>
+<title>Tomodachi no Ushiro de Kimi to Kossori Te wo Tsunagu. Dare ni mo Ienai Koi wo Suru Novela Ligera en Español</title>
+<id>https://nextnovels.com/tomodachi-no-ushiro-de-kimi-to-kossori-te-wo-tsunagu-dare-ni-mo-ienai-koi-wo-suru-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/tomodachi-no-ushiro-de-kimi-to-kossori-te-wo-tsunagu-dare-ni-mo-ienai-koi-wo-suru-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/03/Tomodachi-no-Ushiro-de-Kimi-to-Kossori-Te-wo-Tsunagu.-Dare-ni-mo-Ienai-Koi-wo-Suru-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/03/Tomodachi-no-Ushiro-de-Kimi-to-Kossori-Te-wo-Tsunagu.-Dare-ni-mo-Ienai-Koi-wo-Suru-Portada.jpg"/>
+<author><name>Mashiroya Hideaki</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Psicológico" label="Psicológico"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<content type="text">Croissants, baguettes, rollos de canela, panes de chocolate, pan de curry…
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Junya, un estudiante de primer año de preparatoria, tras una amarga experiencia vivida en su época en la escuela secundaria, establece que las amistad es más importante que el amor dentro de un grupo de amigos.
 
-¡Un misterio de lo cotidiano donde se despliega el aroma del pan recién horneado!
+Junto a Seiran y Shintarou, forman la ‘Alianza sin Novia’, pero poco tiempo después a su grupo se integran la tímida Yoru y la alegre Honoko.
 
-Aclamado por el jurado:
+Al principio todo iba bien pero de repente las cosas empiezan a tomar un rumbo distinto debido a la postura de cada uno de los cinco.
 
-"La atmósfera que envuelve todo el conjunto es fascinante." — Ōmori Nozomi (traductor y crítico literario)
+Especialmente Yoru, quien tiene una historia detrás que nadie hubiese imaginado...
 
-"El atractivo del delicioso pan te envuelve en la lectura." — Kōyama Fumisaburō (columnista)
-
-"Sabe bien cómo agasajar a los lectores." — Takii Asayo (escritora)
-
-"El factor decisivo es la agradable sensación de este sabor." — Yoshino Hitoshi (crítico literario)
-
-Sinopsis
-
-Ichikura Koharu, estudiante de primer año de universidad, aspira a convertirse en dibujante de manga mientras trabaja a medio tiempo en Nostimo, una panadería ubicada en la ciudad de Toyonaka, en la prefectura de Osaka. Cierto día, su mejor amiga Yukiko, que trabaja en la misma panadería, le cancela a último momento la transmisión en vivo de una obra de teatro que habían quedado en ir a ver juntas. Pero ¿por qué, si fue ella quien la invitó?
-
-Intrigada, Koharu rememora el comportamiento de su amiga y llega a una verdad inesperada… ¡Una serie de misterios de lo cotidiano ambientados en una panadería!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-mysterious-scent-comes-from-the-bakery-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Esta es la historia de cinco chicos que poco a poco crecerán para ser adultos pero de una manera distorsionada.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1nNkAByEvyKqyFrWkLUkRZA" type="text/html" title="Tamashi's Project"/>
 </entry>
 </feed>

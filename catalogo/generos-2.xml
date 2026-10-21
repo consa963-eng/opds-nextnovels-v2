@@ -2,8 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:generos:Artes marciales</id>
 <title>Artes marciales</title>
-<updated>2026-10-20T22:58:27.662318+00:00</updated>
+<updated>2026-10-21T00:13:50.778180+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-2.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>A Misterious Job Called Oda Nobunaga Novela Ligera en Español</title>
+<id>https://nextnovels.com/a-misterious-job-called-oda-nobunaga-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/a-misterious-job-called-oda-nobunaga-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/05/A-Misterious-Job-Called-Oda-Nobunaga.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/05/A-Misterious-Job-Called-Oda-Nobunaga.jpg"/>
+<author><name>Morita Kisetsu</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
+<content type="text">En este mundo, el día en que alcanzan la edad adulta, todos visitan el templo para recibir el llamado de su vida. Muchos se convertirán en guerreros o usuarios de magia.
+
+Pero cuando el frágil hermano menor de un señor feudal menor llamado Arsrod entra y su profesión, sale con ... ¿Oda Nobunaga? No solo nunca se ha oído hablar de esa profesión, sino que ni una sola persona puede darse cuenta de lo que se supone que significa.
+
+Pero cuando este joven herede la experiencia, las tácticas y la destreza en la guerra del gran estratega de Sengoku Nobunaga, ¡su destino mismo cambiará!​</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1s8D6iAj70sW_9emaTSoYyA" type="text/html" title="World Project"/>
+</entry>
 <entry>
 <title>Absolute Duo Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-absolute-duo-novela-ligera-en-espanol/</id>
@@ -19,7 +39,50 @@
 <category term="Supernatural" label="Supernatural"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Tōru Kokonoe es un joven que decide, luego de perder a alguien valioso en un aterrador incidente, ser más fuerte. Por ende, se inscribe en una escuela especial donde las personas manifiestan sus almas como armas llamadas Blaze. Las personas con esta inusual habilidad son denominados "Exceed" y este fenómeno se da en 1 de cada 1000 personas. Tōru es capaz de producir su propio Blaze, pero por alguna razón se manifiesta como un escudo en lugar de un arma.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-absolute-duo-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1TAAMkB88kXblSB0ZuqSNBw" type="text/html" title="Jke Translation’s, Infinit-TradPro, Next Novels (MTL)"/>
+</entry>
+<entry>
+<title>Altina the Sword Princess Novela Ligera en Español</title>
+<id>https://nextnovels.com/altina-the-sword-princess-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/altina-the-sword-princess-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/05/01-7.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/05/01-7.jpg"/>
+<author><name>Yukiya Murasaki</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">Regis, un soldado incapaz, que es malo tanto en la espada como en el tiro con arco y que sólo lee libros. Conoce a una chica en la remota región a la que ha sido trasladado. La princesa Altina, de pelo rojo y ojos carmesí, que empuña la espada del gobernante supremo.
+
+Fue nombrada comandante del ejército de la región remota a pesar de tener catorce años, simplemente por ser la hija ilegítima del Emperador. Sin embargo, se aferra a su gran sueño sin deprimirse en el entorno en el que se encuentra.
+
+"Confío en ti".
+
+Regis, a quien se le buscó como estratega, se enfrenta a los obstáculos junto a ella. La fantasía militar entrelazada por el niño bibliófago y la princesa con la espada del gobernante supremo.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1G7NtqR3HiTJaNV7OSPLV3A" type="text/html" title="Akat Novels"/>
+</entry>
+<entry>
+<title>Ark Novela Ligera en Español</title>
+<id>https://nextnovels.com/ark-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/ark-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/08/Ark-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/08/Ark-Portada.jpg"/>
+<author><name>Yoo Seong</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">Kim siempre ha vivido una vida cómoda gracias a sus padres, pero un día recibe una llamada telefónica donde le informan de un accidente que involucra a sus padres:.su padre muerte y su madre se encuentra en el hospital en estado critico. Ahora su vida que perfecta se derrumba por completo. Al cabo de unos años Kim pasaba horas cuidando a su madre y trabajando para pagar las cuentas medicas. Un día, uno de los profesores le recomendó una compañía llamada Global Exos, quien anunció hacer historia con la mas nueva tecnología de videojuegos en realidad virtual.
+
+Su trabajo ahora sera ser uno de los escogidos entre los 2000 participantes y demostrar su habilidad en los juegos RPG.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1gY9ZZLnDw30LZGgf14FNeg" type="text/html" title="BoostNoGroup, Gokoto Project"/>
 </entry>
 <entry>
 <title>Assassins Pride Novela Ligera en Español</title>
@@ -36,7 +99,132 @@
 <category term="Seinen" label="Seinen"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">En el mundo donde solo los aristócratas tienen el poder de luchar contra el «monstruo», mana. Un joven llamado Kufa es enviado como tutor para encontrar el talento de Mareida, una niña molesta nacida en la familia de un duque. Si ella no tiene el talento necesario, deberá asesinarla. Ese, es el lado oscuro de su misión…</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-assassins-pride-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1dD1I0QK8NVlH_oxTeBr20w" type="text/html" title="Kasnia Project"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/12yZFr--ETbYyyn2hKf8TWg" type="text/html" title="Kurosaki-Vizard Translation"/>
+</entry>
+<entry>
+<title>Boruto: Naruto the Movie Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-boruto-naruto-the-movie-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-boruto-naruto-the-movie-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/11/Boruto-Naruto-the-Movie-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/11/Boruto-Naruto-the-Movie-Portada.jpg"/>
+<author><name>Kodachi Ukyou</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">La historia sigue a Boruto, el hijo del séptimo Hokage Naruto, quien rechaza por completo a su padre. Mas allá del sentimiento, tiende a querer superar a Naruto, que es respetado como un héroe. Luego termina conociendo al amigo de su padre, Sasuke, y le pedirá ayuda para ser como el.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1rC2CwZ2E-DXX35Mf1oMilw" type="text/html" title="Mi Castillo de Arena"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1MKekr3SpL8YOsXBqGfwh5g" type="text/html" title="Midorima"/>
+</entry>
+<entry>
+<title>Bushinden: Ikenie ni Sasagerareta Ore wa, Kami ni Hirowarebu wo Kiwameru Novela Ligera en Español</title>
+<id>https://nextnovels.com/bushinden-ikenie-ni-sasagerareta-ore-wa-kami-ni-hirowarebu-wo-kiwameru-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/bushinden-ikenie-ni-sasagerareta-ore-wa-kami-ni-hirowarebu-wo-kiwameru-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/05/Bushinden-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/05/Bushinden-Portada.jpg"/>
+<author><name>Miku</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">Desde su infancia, Toma Godo ha sido incapaz de usar magia, como resultado, fue despreciado y tratado como un incompetente por su propio padre.
+
+Esto provocó que fuese sacrificado en la isla de los Demonios. Donde vagan feroces bestias demoniacas. Sin embargo, allí conoce a un semidiós que lo ayudará a dominar el arte del combate hasta volverse un ser invencible.
+
+Un día en la peligrosa isla aparece una chica que se hace llamar Lise, Toma jura protegerla, y ambos escapan de la isla mientras que ocultan su secreto de ser el hombre más poderoso del mundo con el fin de no afectar su misma supervivencia en el mundo y de la raza humana.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/19yX-1c45CqRhFWPpogjHPg" type="text/html" title="Gashadokai"/>
+</entry>
+<entry>
+<title>Chronicle Legion Novela Ligera en Español</title>
+<id>https://nextnovels.com/chronicle-legion-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/chronicle-legion-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/06/01-33.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/06/01-33.jpg"/>
+<author><name>Takedzuki Jou</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Mecha" label="Mecha"/>
+<category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">¡Un encuentro entre una princesa y un joven, decidido a desafiar el destino...!
+
+A finales del siglo XX, debido a la invasión liderada por el antiguo héroe romano resucitado, César, el Japón Imperial ha caído bajo el vecino Imperio Romano de Oriente en todo menos en el nombre!
+
+Lo que permitió a César convertirse en el último conquistador fue el poder conocido como la "Legión".
+
+Estos misteriosos cuerpos se han convertido en el arma principal de las fuerzas militares de las principales potencias mundiales: ejércitos de soldados gigantes alados.
+
+Con la ambición de convertirse en la soberana de Japón, la princesa Fujinomiya Shiori del Japón imperial finalmente entra en acción.
+
+La princesa elige a Tachibana Masatsugu como su general de confianza, un estudiante de secundaria común y corriente.
+
+Sin embargo, en realidad es un guerrero renacido del pasado antiguo, otro legado legionario resucitado cuya grandeza no es menor que la del poderoso héroe César!
+
+Se levanta el telón: ¡¡Una épica historia de guerra fantástica que gira en torno a héroes resucitados y hermosas doncellas!!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/13RgSPRXuiAq5XleWCaTM6A" type="text/html" title="HiroLsn y J-Light Novel Club"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1guNzobVTUcQm2-ST9rLkzA" type="text/html" title="Max Power Fansub"/>
+</entry>
+<entry>
+<title>Densetsu no Yuusha no Densetsu Novela Ligera en Español</title>
+<id>https://nextnovels.com/densetsu-no-yuusha-no-densetsu-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/densetsu-no-yuusha-no-densetsu-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/06/01-39.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/06/01-39.jpg"/>
+<author><name>Takaya Kagami</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Supernatural" label="Supernatural"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">Un mundo lleno de leyendas.
+
+En el sur del continente, los ciudadanos del Imperio de Roland sufren bajo el dominio de una administración tiránica y una nobleza corrupta.
+
+Por orden del rey Sion, Ryner y Ferris emprenden una búsqueda. Pero nuestro protagonista Ryner lleva el letargo a una nueva dimensión. Lo único que quiere es crear el Reino de la Siesta, un lugar que abraza un estilo de vida despreocupado e indolente.
+
+Al poco tiempo, Ryner y los demás se ven arrastrados sin sospechar nada a la vorágine de la guerra, que enredará los hilos de los destinos de tres personas diferentes en un complicado e irrompible enredo.
+
+¿Qué futuro reflejan los "ojos" de Ryner?
+
+Levantamos el telón de un nuevo y emocionante género, ¡la Fantasía Antiheroica!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1cIuuw4xYfQACN6RwDf5P1Q" type="text/html" title="Akat Novels"/>
+<link rel="http://opds-spec.org/acquisition" href="https://www.funimation.com/shows/the-legend-of-the-legendary-heroes/" type="text/html" title="Disponible en Funimation"/>
+</entry>
+<entry>
+<title>Heartcatch Pretty Cure! Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-heartcatch-pretty-cure-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-heartcatch-pretty-cure-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/08/Heartcatch-Pretty-Cure-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/08/Heartcatch-Pretty-Cure-Portada.jpg"/>
+<author><name>Yamada Takashi</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Magical Girl" label="Magical Girl"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Shoujo" label="Shoujo"/>
+<content type="text">Cure Blossom, Cure Marine y Cure Sunshine luchan contra los Apóstoles del Desierto, quienes están desertificando y conquistando el mundo. Y Dark Pretty Cure es su próximo enemigo. La novela explica la historia y las dificultades de Cure Moonlight. ¿Podrá Tsukikage Yuri, quien perdió su habilidad de transformación, volver a ser Cure Moonlight?
+
+-
+
+Después del encuentro con Chypre, Coffret y Potpourri, Tsubomi Hanasaki, Erika Kurumi e Itsuki Myoudouin se convierten en Cure Blossom, Cure Marine y Cure Sunshine para pelear contra los Apóstoles del Desierto que intentan apoderarse del mundo y convertirlo en un desierto. Derrotada por Dark Pretty Cure, Yuri Tsukikage pierde su capacidad de transformación, pero con la ayuda de las Pretty Cure novatas, puede volver a convertirse en Cure Moonlight y enfrentarse a los Apóstoles del Desierto liderados por el Profesor Sabaaku. Sin embargo...</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/11qFWOqkHxUQjageOAKz7dw" type="text/html" title="Aleyn De Vries"/>
 </entry>
 <entry>
 <title>I Kept Pressing the 100-Million-Year Button and Came Out on Top Novela Ligera en Español</title>
@@ -56,7 +244,7 @@
 <category term="Shounen" label="Shounen"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Allen se está entrenando para ser espadachín, pero no es bueno en eso. Después de aceptar un duelo con mucho en juego, está a punto de abandonar cuando un hombre misterioso le ofrece la oportunidad de obtener 100 millones de años de entrenamiento con solo presionar un botón. ¡¿Pero qué pasa cuando lo presiona una y otra vez?!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-i-kept-pressing-the-100-million-year-button-and-came-out-on-top-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1UZk3GZBjgkdfMvxwoKY3_A" type="text/html" title="World Project"/>
 </entry>
 <entry>
 <title>Jimi na Kensei wa Soredemo Saikyou desu Novela Ligera en Español</title>
@@ -78,7 +266,26 @@ Cuando llegó a una etapa en la que podía ser llamado "el más fuerte" en el es
 Su entrenamiento es sencillo, sus técnicas son sencillas, es "el más fuerte" pero parece sencillo.
 
 Con una espada de madera ordinaria en la mano, la lucha del Santo de la Espada de aspecto sencillo acaba de comenzar.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-jimi-na-kensei-wa-soredemo-saikyou-desu-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1E_Fod_2hce6vzpw14qzF0w" type="text/html" title="World Project"/>
+</entry>
+<entry>
+<title>Jorge Joestar Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-jorge-joestar-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-jorge-joestar-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/11/Jorge-Joestar-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/11/Jorge-Joestar-Portada.jpg"/>
+<author><name>Outarou Maijou</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Supernatural" label="Supernatural"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">Después de la muerte de Jonathan Joestar, su hijo, George Joestar II (Jorge Joestar) viaja con Erina Pendleton a las Islas Canarias de España en la isla de La Palma. Allí, promete su amor a Lisa Lisa y eventualmente crece hasta convertirse en un piloto de aire de la Primera Guerra Mundial.
+
+En otra historia, el joven detective Jorge Joestar inicia una extraña búsqueda para arreglar el continuo espacio-tiempo después de que Made in Heaven haya reiniciado el mundo 36 veces.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1xTe2bN7NXmQWylEYibWbwA" type="text/html" title="Jojotard"/>
 </entry>
 <entry>
 <title>Kage no Jitsuryokusha ni Naritakute! Novela Ligera en Español</title>
@@ -96,7 +303,47 @@ Con una espada de madera ordinaria en la mano, la lucha del Santo de la Espada d
 <category term="Harem" label="Harem"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Al igual que todo el mundo adoraba a los héroes en su infancia, cierto joven adoraba esos poderes ocultos en las sombras. Tras ocultar su fuerza y vivir la mediocre vida de un personaje de la mafia durante el día mientras se somete a un frenético entrenamiento por la noche, finalmente se reencarna en un mundo diferente y obtiene el poder definitivo. El joven que sólo juega a ser un poder en la sombra, sus subordinados incomprendidos, y una gigantesca organización en la sombra que es pisoteada.... Esta es la historia de un joven que ha adorado los poderes en las sombras, posiblemente reinando sobre el mundo de las sombras en otro mundo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/kage-no-jitsuryokusha-ni-naritakute-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1WIJbfMkD4GrMfwr4KKCiAA" type="text/html" title="Ferindrad"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1UT-LPdbXvOXU5OmWay44cg" type="text/html" title="Kaleid Word Translations: CanisLycaon y Taikutsu Translations"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/10f55OdvxM_zXi4buwQlvWQ" type="text/html" title="World Project"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1FPKOeepVEwRl6BnWzTl_6g" type="text/html" title="Untitled Translations"/>
+</entry>
+<entry>
+<title>Kara no Kyoukai Novela Ligera en Español</title>
+<id>https://nextnovels.com/kara-no-kyoukai-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/kara-no-kyoukai-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-81.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-81.jpg"/>
+<author><name>Nasu Kinoko</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Romance" label="Romance"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Kara no Kyoukai es una serie de historias escritas por Kinoko Nasu con ilustraciones de Takashi Takeuchi.
+
+Los primeros cinco capítulos se publicaron en línea en el sitio web dojin "Takebouki" de Nasu y Takeuchi a partir de octubre de 1998, y los dos últimos capítulos se publicaron en el Comiket 56 en 1999. En 2001, parte de la historia se incluyó en "Tsukihime PLUS-DISK", creado por TYPE-MOON, el círculo doujin al que se unieron Nasu y Takeuchi. La historia ganó una enorme popularidad, y la edición doujinshi de las historias fue lanzada el 30 de diciembre de 2001 en el Comiket 61.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1cR5y1XcPZ7tX7gwV_vxYdA" type="text/html" title="SoltiLeheleni Fansub, Bar Ahnennerbe"/>
+</entry>
+<entry>
+<title>Kuroki Eiyuu no Ichigeki Musou Novela Ligera en Español</title>
+<id>https://nextnovels.com/kuroki-eiyuu-no-ichigeki-musou-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/kuroki-eiyuu-no-ichigeki-musou-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/07/Kuroki-Eiyuu-no-Ichigeki-Musou-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/07/Kuroki-Eiyuu-no-Ichigeki-Musou-Portada.jpg"/>
+<author><name>Nozomi Kota</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">La historia nos cuenta que existen dos mundos, el mundo humano y el mundo demoníaco, un lugar con seres tales como brujas, dragones, vampiros etc. Iuli Asagami y su hermana, quienes tras ser abandonados por su maestro son enviados a la academia privada Seishun. Una academia que se dedica a entrenar magos para combatir a las criaturas del mundo demoníaco que cruzan al mundo humano. En su primer dia, Iuli salva de un dragón a una chica llamada Kudoin Yukiha, quien resulta ser la maga mas fuerte de la academia asi como un mago Rango A. Yukiha asombrándose por la fuerza de Iuli decide investigarlo, pero para su sorpresa resulta que Iuli es solo un mago de Rango D aparte de ser malo en la magia…… o eso es lo que creen.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1qqbHrOiMzAjKKhpw_qmIkQ" type="text/html" title="Up-Subs"/>
 </entry>
 <entry>
 <title>Kyouran Reijou Nia Liston Novela Ligera en Español</title>
@@ -113,7 +360,27 @@ Con una espada de madera ordinaria en la mano, la lucha del Santo de la Espada d
 <content type="text">Una gran heroína yace invicta en su lecho de muerte, lamentando no haber encontrado nunca un enemigo que pudiera derrotarla. Nunca tuvo la intención de encontrar su destino en ningún otro lugar que no fuera el campo de batalla, y su muerte pacífica la hace desear desesperadamente que las cosas pudieran haber sido diferentes...
 
 Pero cuando de repente vuelve en sí en el cuerpo de la joven y frágil Nia Liston, tiene una lucha completamente nueva por delante. Nia es una niña enfermiza, lo que significa que le queda un largo camino por recorrer antes de estar en forma para luchar. Sin embargo, ahora que ha tenido una segunda oportunidad en la vida, está decidida a conseguir lo que quiere. ¡Esta vez vivirá y morirá para la batalla! ¡Abran paso a la Doncella Despiadada!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/kyouran-reijou-nia-liston-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1qInWOuxtYmiru2oH80p4uw" type="text/html" title="Kyūden Translation"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Wtl0tI_lrmmx_T4qolAppg" type="text/html" title="Ferindrad"/>
+</entry>
+<entry>
+<title>Last Embryo Novela Ligera en Español</title>
+<id>https://nextnovels.com/last-embryo-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/last-embryo-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-3.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-3.jpg"/>
+<author><name>Tatsunoko Tarou</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Romance" label="Romance"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">¡Último trabajo de la superpopular "Serie Mondaiji"!
+
+Saigou Homura - un joven con una "pequeña" habilidad única recibió un solo correo. ¡En el momento en que abrió ese correo, Homura fue convocado a otro mundo! Era un mundo gobernado por los juegos de Dioses y Demonios llamados Juegos de Regalo. Homura, que conoció a un encantador usamimi loli Kuro Usagi, ha terminado inesperadamente participando en un Juego de Regalo a gran escala!? Él, junto con Ayazato Suzuka y Kudou Ayato, que fueron convocados junto con él e Izayoi Sakamaki, con quien se reunió después de 5 años, desafiará el Juego de los Dioses y Budas Luchadores que incluso enrolló el mundo real en él!!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1wGToe1c0tgpJh05u9MgydQ" type="text/html" title="KumagawaTranslation, LNProyects"/>
 </entry>
 <entry>
 <title>Magical★Explorer Novela Ligera en Español</title>
@@ -147,7 +414,7 @@ Pero ahora no podría importarme menos el protagonista. ¿Por qué? Porque descu
 Abandonaría mi papel como amigo del protagonista para entrenar mi magia y luego vencería a ese tramposo que puede vencer solo al rey demonio.
 
 … Estaba entrenando con ese pensamiento en mente, pero de alguna manera me sigo acercando a las heroínas y, además, no sé por qué, pero me sigo encontrando con eventos como si fuera el protagonista de un eroge.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/magical-explorer-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1qvrKB6NkrUu89_4HA4aSRQ" type="text/html" title="World Project"/>
 </entry>
 <entry>
 <title>Mahouka Koukou No Rettousei Magian Company Novela Ligera en Español</title>
@@ -175,7 +442,152 @@ El propósito de la organización a la cual Tatsuya fue nombrado director ejecut
 Para Tatsuya, cuya influencia ha superado la de otros Magos de Clase Estratégica, el rumbo en el que ha decidido seguir naturalmente ha llamado la atención de otras personas alrededor del planeta. Un assassin de la asociación “FEHR” en la USNA, es enviado para investigar la dirección que Tatsuya ha elegido…
 
 El telón se abre sobre la nueva leyenda de Shiba Tatsuya——</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/mahouka-koukou-no-rettousei-magian-company-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1Do9nA13QiqxGpCxLYoV5UQ" type="text/html" title="Anime y traducciones: Vlady"/>
+</entry>
+<entry>
+<title>Mahouka Koukou no Rettousei Novela Ligera en Español</title>
+<id>https://nextnovels.com/mahouka-koukou-no-rettousei-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/mahouka-koukou-no-rettousei-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/02/portada-8.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/02/portada-8.jpg"/>
+<author><name>Satou Tsutomu</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Romance" label="Romance"/>
+<category term="Supernatural" label="Supernatural"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">La historia sigue a Tatsuya Shiba, un joven con habilidades mágicas sobresalientes, quien es despreciado por sus compañeros de clase debido a su falta de habilidades en la magia tradicional. Sin embargo, Tatsuya demuestra ser un experto en técnicas de combate mágico y es reclutado para unirse a un grupo secreto dentro de la escuela. A medida que se enfrenta a desafíos y peligros, Tatsuya lucha por proteger a su hermana y a su escuela mientras descubre más sobre su propio pasado y su verdadero potencial.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1SZ-ncAlrojWZaVFFUIuCsA" type="text/html" title="Light Novels, Manga and more..., Mahouka Koukou no Rettousei Novela en Español, Kaleid Word Translations y Akat Novels"/>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1RWr660LaLR0plaZb5J0B-w" type="text/html" title="Anime y traducciones"/>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/mahouka-koukou-no-rettousei-magian-company-novela-ligera-en-espanol/" type="text/html" title="Mahouka Koukou no Rettousei: Magian Company"/>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/mahouka-koukou-no-rettousei-cygnus-maidens-novela-ligera-en-espanol/" type="text/html" title="Shin Mahouka Koukou No Rettousei: Cygnus Maidens"/>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/mahouka-koukou-no-rettousei-if-novela-ligera-en-espanol/" type="text/html" title="Mahouka IF volumen 19.5"/>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/mahouka-koukou-no-rettousei-ss-novela-ligera-en-espanol/" type="text/html" title="Mahouka SS"/>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/mahouka-koukou-no-rettousei-x-sword-art-online-novela-ligera-en-espanol/" type="text/html" title="SAO vs Mahouka"/>
+</entry>
+<entry>
+<title>Mahouka Koukou no Rettousei SS Novela Ligera en Español</title>
+<id>https://nextnovels.com/mahouka-koukou-no-rettousei-ss-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/mahouka-koukou-no-rettousei-ss-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-12.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-12.jpg"/>
+<author><name>Satou Tsutomu</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Supernatural" label="Supernatural"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Una colección de historias secundarias sobre varios personajes de Mahouka Koukou no Rettousei. Durante el evento de la Competición de Nueve Escuelas en Segundo Año, Tatsuya está luchando contra un arma humanoide. Mientras tanto, en el otro lado, los estudiantes están luchando y peleando para obtener la puntuación más alta en las competiciones.
+
+Incluye las siguientes historias cortas:
+
+- Una historia de Mikihiko, Dragon God Prisoner
+
+- Una historia de Eimi, Shotgun
+
+- Una historia de Kanon y Shizuku, Puedo hacerlo solo
+
+- Una historia de los gemelos Kuroba, Misión de llamar la atención
+
+- Una historia de Erika y Saijou, Tentación de Rosa</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com#Volumenes" type="text/html" title="Anime y traducciones"/>
+</entry>
+<entry>
+<title>Mayo Chiki! Novela Ligera en Español</title>
+<id>https://nextnovels.com/mayo-chiki-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/mayo-chiki-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/06/Mayo-Chiki-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/06/Mayo-Chiki-Portada.jpg"/>
+<author><name>Asano Hajime</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">La historia gira en Kinjirou Sakamachi, un estudiante de preparatoria de 17 años que sufre de ginofobia. La enfermedad conocida como ginofobia hace que su nariz sangre cada vez que tiene contaco con una chica. Mientras usa el baño, él accidentalmente descubre que el mayordomo popular y apuesto, Subaru Konoe, es en realidad, una chica. Ahora que Kinjirou sabe el secreto de Subaru, él debe trabajar junto a Subaru y su sadica ama, Kanade, para proteger el secreto de Subaru de ser descubierto.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1wmMQpUErj7E5buKTAYOWBg" type="text/html" title="Gustang Translations"/>
+</entry>
+<entry>
+<title>Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo? Novela Ligera en Español</title>
+<id>https://nextnovels.com/mondaiji-tachi-ga-isekai-kara-kuru-sou-desu-yo-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/mondaiji-tachi-ga-isekai-kara-kuru-sou-desu-yo-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-22.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-22.jpg"/>
+<author><name>Tatsunoko Tarou</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Sakamaki Izayoi, Kudou Asuka y Kasukabe Yō tienen tremendos poderes y están aburridos del mundo normal.
+
+Llega un sobre para cada persona, y cuando cada uno abre su sobre, se quedan atónitos al ver que el escenario que les rodea cambia a un mundo que nunca antes habían encontrado. Han sido convocados por el Conejo Negro para ayudar a la comunidad "Sin Nombre" a derrocar a los Señores Demonios.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1eleEJrxjHOQkZovQH-I8lg" type="text/html" title="LNProyects"/>
+</entry>
+<entry>
+<title>My Older Sister is a Sword Saint and My Younger Sister is a Sage Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-my-older-sister-is-a-sword-saint-and-my-younger-sister-is-a-sage-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-my-older-sister-is-a-sword-saint-and-my-younger-sister-is-a-sage-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/06/My-Older-Sister-is-a-Sword-Saint-and-My-Younger-Sister-is-a-Sage-Portada-1.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/06/My-Older-Sister-is-a-Sword-Saint-and-My-Younger-Sister-is-a-Sage-Portada-1.jpg"/>
+<author><name>Senki Anten</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">¡Una coqueta y aventurera vida con fuertes y sexis onee-san’s!
+
+L’Arc es una nación super meritocrática donde el poder lo decide todo. Rahzel a pesar de ser el hijo del rey, sus habilidades tanto en la espada como en la magia son ordinarias, siendo comparado con la santa de la espada su hermana mayor y la sabia su hermana menor; termina siendo exiliado del país por falta de habilidad. Él con su positividad natural, apunta a un país diferente donde tratar de vivir libremente como aventurero, pero una onee-san que es su amiga de la infancia y la cual lo adora, lo sigue. Además, su hermana mayor quien es la santa de la espada y su hermana menor quien es la sabia, también lo siguen, comenzando unas exiliadas, pero coquetas aventuras.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1cbHXZIzTAL_IRjRrfdCSnw" type="text/html" title="UkuTranslations"/>
+</entry>
+<entry>
+<title>Naruto: Sasuke Shinden Sunrise Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-naruto-sasuke-shinden-sunrise-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-naruto-sasuke-shinden-sunrise-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/11/Naruto-Sasuke-Shinden-Sunrise-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/11/Naruto-Sasuke-Shinden-Sunrise-Portada.jpg"/>
+<author><name>Shin Towada</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">Sasuke parte de nuevo, también en busca de expiación. Mientras tanto, una amenaza se cierne sobre la Hoja, la Niebla y la Nube, liderada por unos malvados ojos rojos como la sangre... ¿Qué futuro le espera a Sasuke?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1eJZD8NCvxt9a6mh6y0mcnw" type="text/html" title="Mi Castillo de Arena"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1gqsxcfrKuZIJzW8aT9NF_A" type="text/html" title="Atashi"/>
+</entry>
+<entry>
+<title>Naze Boku no Sekai wo Dare mo Oboeteinai no ka? Novela Ligera en Español</title>
+<id>https://nextnovels.com/naze-boku-no-sekai-wo-dare-mo-oboeteinai-no-ka-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/naze-boku-no-sekai-wo-dare-mo-oboeteinai-no-ka-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/04/Naze-Boku-no-Sekai-wo-Dare-mo-Oboeteinai-no-ka-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/04/Naze-Boku-no-Sekai-wo-Dare-mo-Oboeteinai-no-ka-Portada.jpg"/>
+<author><name>Sazane Kei</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">"¡¿Por qué nadie recuerda el mundo verdadero...?!". La era en que las cinco grandes razas competían por el dominio del planeta terminó, con victoria para la humanidad dirigida por el héroe Sid. Sin embargo, ese mundo fue repentinamente "sobrescrito" frente a un chico, llamado Kai. En el mundo reescrito, Kai vio la escena en la que los humanos perdieron las cinco guerras tribales debido a la ausencia del héroe Sid: aquí los dragones y los demonios dominan la tierra, y Kai es una existencia olvidada para todos los seres humanos. Sin embargo, después de encontrarse con una misteriosa chica llamada Rinne, Kai decide romper este destino reescrito. En un mundo sin héroes, hereda la espada del héroe y su arte marcial y desafía a las poderosas razas enemigas que reinan.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1tyvA9Zo83HGpx0Kxj83WqA" type="text/html" title="Nesuto, Traducciones Katame, Kai Sakura VENTO"/>
 </entry>
 <entry>
 <title>Noble Reincarnation Novela Ligera en Español</title>
@@ -199,7 +611,7 @@ A los seis años, ya debe navegar las peligrosas aguas de la corte imperial: her
 Pero la sombra de la rebelión se cierne sobre sus tierras, y los enemigos no dudarán en apuntar al niño príncipe para lograr sus fines. Noah demostrará que incluso el decimotercer príncipe —el más joven y aparentemente débil— puede convertirse en una figura clave en el destino del Imperio.
 
 Un viaje de reencarnación, política palaciega y crecimiento de poder, donde cada aliado suma… y cada decisión puede cambiarlo todo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-noble-reincarnation-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/14z8FQmu7V7eP-Rk26Nnzrg" type="text/html" title="Bell traducciones"/>
 </entry>
 <entry>
 <title>Ochite Kita Ryuu Ou to Horobiyuku Majo no Kuni Novela Ligera en Español</title>
@@ -219,7 +631,7 @@ Un viaje de reencarnación, política palaciega y crecimiento de poder, donde ca
 <category term="Supernatural" label="Supernatural"/>
 <category term="Tragedia" label="Tragedia"/>
 <content type="text">En un mundo lejano existen brujas sexis y hermosas que son perseguidas, abusadas y llevadas al borde de la extinción por los humanos. Sin embargo, cierto día un hombre llamado Naga (Rey Dragón) cayó dentro de ese mundo, enfrente de Harrigan, la “Bruja del Bosque Negro”, a quien no pudo evitar manosear sus enormes pechos. Pero en el País de las Brujas, aún cuando todo podría ser perfecto para nuestro protagonista, de pronto aparece Yuuki (la chica amarilla), quien odia en extremo a los hombres y desea matar a Naga. ¿Podrá sobrevivir Naga y evitar la destrucción de este paraíso mágico?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-ochite-kita-ryuu-ou-to-horobiyuku-majo-no-kuni-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1bfsRFuMs0DnkZl4lrRsU4g" type="text/html" title="Trihexa y Defous123"/>
 </entry>
 <entry>
 <title>Ori of the Dragon Chain Novela Ligera en Español</title>
@@ -242,7 +654,7 @@ Un viaje de reencarnación, política palaciega y crecimiento de poder, donde ca
 Sin embargo, la habilidad del chico, que hasta entonces solo existía en su imaginación, no mostraba mejoras. Fue objeto de burlas por parte de quienes lo rodeaban, no tenía amigos, se separó de su amada y sus pasos se detuvieron.
 
 No obstante, un día conoció a una anciana, y ese encuentro marcó el inicio de un cambio gradual en él. Esta es la historia de un chico que comienza a descubrir su verdadera fuerza.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-ori-of-the-dragon-chain-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1vAHGxpC_9_jO879WrVerzA" type="text/html" title="Kasnia Project"/>
 </entry>
 <entry>
 <title>Rakudai Kishi no Cavalry Novela Ligera en Español</title>
@@ -264,7 +676,31 @@ No obstante, un día conoció a una anciana, y ese encuentro marcó el inicio de
 La compañera de cuarto de Ikki, Stella Vermillion, resulta ser una princesa de un país extranjero. Stella es una caballero Rank A, la clase de genio en magia que sólo aparece una vez en una década. Cuando Ikki la encontró mientras ella se estaba cambiando la ropa, hubo un grn malentendido, lo que eventualmente terminó en un duelo entre los dos. El castigo para el perdedor es sometimiento eterno al ganador.
 
 Obligados a vivir en el mismo cuarto y practicar magia juntos a lo largo de sus años escolares, ¿cómo se desarrollará la relación de Stella e Ikki?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/rakudai-kishi-no-cavalry-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1y8KRgQErqr-NNWfYKARSYg" type="text/html" title="Shinsengumi Translations"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1kE0IV28zFh-gm2nXHET2TQ" type="text/html" title="Nahucirujano, HiroLsn"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1lGSlCDzXrlcBv6u0e3EPuA" type="text/html" title="World Project"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/18FEdv0FGr2YWFaP82TID2A" type="text/html" title="Versión Einherjar Project"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1sUGt6CONWuaAuntDaUK6sQ" type="text/html" title="Anime y Traducciones"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1KsWAzCLaXRqUcyQ4HjIf_w" type="text/html" title="Dark Guild Fansub"/>
+</entry>
+<entry>
+<title>Rokka no Yuusha Novela Ligera en Español</title>
+<id>https://nextnovels.com/rokka-no-yuusha-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/rokka-no-yuusha-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/03/Rokka-No-Yuusha-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/03/Rokka-No-Yuusha-Portada.jpg"/>
+<author><name>Ishio Yamagata</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Romance" label="Romance"/>
+<category term="Supernatural" label="Supernatural"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">Cada 100 años el dios demonio despierta de su letargo y amenaza la existencia de la humanidad sin embargo cada vez que esto pasa 6 heroes elegidos por la diosa del destino obtienen su poder y luchan por salvar a la humanidad. esta historia se sentra en una nueva generacion de heroes que enfrentaran problemas nunca vistos por otras generaciones empezando con un heroe impostor que busca asesinarlos.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1sG94bf2ryASGYX-NwUWQ7Q" type="text/html" title="Akat Novels"/>
 </entry>
 <entry>
 <title>Seiken Gakuin no Maken Tsukai Novela Ligera en Español</title>
@@ -284,7 +720,37 @@ Obligados a vivir en el mismo cuarto y practicar magia juntos a lo largo de sus 
 <category term="Shounen" label="Shounen"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
 <content type="text">Uno de los señores demonios más poderosos de la historia ha estado sellado durante mil años. Cuando finalmente despierta, se reencarna como… ¿un niño de 10 años? ¡Ahora bajo el cuidado de la chica que lo liberó, el Señor Demonio Leonis debe sortear los peligros de la Academia de la Espada Sagrada!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/seiken-gakuin-no-maken-tsukai-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/10iQgtIRhlT9JZJpOUbt4RQ" type="text/html" title="Domen Translations"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1vu2M5XIBu_zuE2ZxCcihRg" type="text/html" title="Restia Novels"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1uliMcc0okSlB9HHA5Ti1VQ" type="text/html" title="World Project"/>
+</entry>
+<entry>
+<title>Seinaru Kishi no Ankoku Michi Novela Ligera en Español</title>
+<id>https://nextnovels.com/seinaru-kishi-no-ankoku-michi-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/seinaru-kishi-no-ankoku-michi-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-59.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-59.jpg"/>
+<author><name>Yusaku Sakaishi</name></author>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">El joven Sain Forth lo ha conseguido. Como afamado Caballero Sagrado, disfruta del amor de su pueblo, del respeto de su gobernante y de las bendiciones de una verdadera Diosa. O, al menos, debería disfrutar de ellas, pero las aspiraciones de Sain están en otra parte. Con su ayudante, Melia, a su lado, zarpa hacia la academia de un reino extranjero, sólo para ser tratado como un rebelde por sus compañeros. La culpa es suya: su obstinada insistencia en llevar un uniforme negro personalizado le hace destacar como un pulgar dolorido.
+
+Pero no es el único marginado en la academia. Su compañera de clase, Alicia, nacida en el Clan de la Luz pero incapaz de usar nada más que la magia de fuego, se enfrenta a una lucha similar, por lo que ambos se convierten rápidamente en aliados.
+
+Sin embargo, cuando ella le propone ir en busca de una espada sagrada escondida en las profundidades de la mazmorra de la academia, él duda: las mazmorras son lugares peligrosos y plagados de monstruos, después de todo. Finalmente, lo reconsidera, pero con una condición: "Quiero una espada maldita. No una espada sagrada, ¿vale? Una espada de la perdición".
+
+Y así, con sus amigos a cuestas, Sain se adentra en lo peligroso y desconocido, impulsado por su único y verdadero deseo: Convertirse en la existencia más guay, más atrevida y más asombrosa que se pueda imaginar, el Caballero Oscuro.
+
+Sólo hay un problema: no puede usar la magia oscura.
+
+En absoluto.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/10L05vcNGqyIIABnUWNgb2A" type="text/html" title="World Project"/>
 </entry>
 <entry>
 <title>Seirei Gensouki Novela Ligera en Español</title>
@@ -308,7 +774,56 @@ La tierra y otro mundo. Dos personas con historias y valores completamente difer
 Junto a las memorias de Haruto, Rio despierta un "poder especial" desconocido, y parece que si lo utiliza bien, podrá vivir una vida mejor. Pero antes de eso, Rio se encuentra con un secuestro que parece involucrar dos princesas del Reino Bertram en el que vive.
 
 Luego de salvar a las princesas, a Rio se le concede una beca en la Academia Real, una escuela para los ricos y poderosos. Ser un huérfano pobre en una escuela llena de nobles resulta ser un lugar extremadamente detestable para estar.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-seirei-gensouki-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1kvIV8wfIdBg-2yORXQ5WlA" type="text/html" title="Every Translations"/>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1qF8RIwXUcCO4OgKhJE-VZA" type="text/html" title="KuroSubs"/>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1FY104tAZDFsttrdj_YWlDw" type="text/html" title="True Flames Project"/>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1RiOOyin6amXiiIU3U0Q7Gg" type="text/html" title="KuroShiro Scan"/>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1S5UstXi5l7pOyhf00ajgEA" type="text/html" title="World Project"/>
+<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1svq5eSzFNI67yj0lffbM7g" type="text/html" title="Kasnia Project"/>
+</entry>
+<entry>
+<title>Sevens Novela Ligera en Español</title>
+<id>https://nextnovels.com/sevens-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/sevens-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/03/Sevens-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/03/Sevens-Portada.jpg"/>
+<author><name>Mishima Yomu, Wai</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<content type="text">Lyle Walt es un joven noble y heredero que espera el día en que pueda heredar el territorio de su familia. Sin embargo, a los 10 años, sus padres empezaron a descuidarlo cada vez más en favor de su hermana pequeña, Celes.
+
+En su decimoquinto cumpleaños, su hermana le reta a un duelo para ver quién hereda la casa y pierde terriblemente, siendo expulsado de su familia. Después, es tratado por los guardianes de la familia y recibe de ellos la Gema heredada de la familia que el abuelo de Lyle le había confiado. A partir de ahí, comienza un viaje sin rumbo con su amiga de la infancia y antigua prometida, Novem, y la Gema convertida en joya que alberga los recuerdos, las personalidades y las habilidades de siete de sus antepasados.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1x-UWIwKpLKHvIzkydlcJnw" type="text/html" title="Ferindrad"/>
+</entry>
+<entry>
+<title>Shinigami ni Sodaterareta Novela Ligera en Español</title>
+<id>https://nextnovels.com/shinigami-ni-sodaterareta-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/shinigami-ni-sodaterareta-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/02/Shinigami-ni-Sodaterareta-Portada-e1644651360979.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/02/Shinigami-ni-Sodaterareta-Portada-e1644651360979.jpg"/>
+<author><name>Maito Saimine</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">-Es una chica con una brillante sonrisa en el campo de batalla.
+
+Con su pelo plateado revoloteando en el aire y sus ojos oscuros, la chica corre por el campo de batalla. Su nombre es Olivia, cuyas manos están manchadas con la sangre de sus enemigos mientras muestra una sonrisa inocente.
+
+Los profundos conocimientos y las técnicas de combate de la entidad que se autodenomina Dios de la Muerte han quedado marcados en su cuerpo. Cuando Olivia cumplió 15 años, el Dios de la Muerte desapareció de repente. Olivia se alistó en el Ejército Real y comenzó a luchar en la guerra mientras buscaba pistas.
+
+Año calendario lunar 998. El Reino ha sufrido pérdidas consecutivas ante el Imperio que pretende conquistar todo el continente. La inocente chica que carecía de sentido común entrará en el campo de batalla como la "Pieza de Ajedrez más Fuerte" del Reino, y seguirá el camino de un héroe.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1CaJC3cjCXtgx6kPRWi6kSA" type="text/html" title="JmCrap Translations"/>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1Oqc9tJu0l-fv_C6iH30sIg" type="text/html" title="God's Earth Translations"/>
 </entry>
 <entry>
 <title>Spy Classroom Novela Ligera en Español</title>
@@ -327,7 +842,47 @@ Luego de salvar a las princesas, a Rio se le concede una beca en la Academia Rea
 <category term="Romance" label="Romance"/>
 <category term="Supernatural" label="Supernatural"/>
 <content type="text">Un mundo en el que las guerras se libran con espías. Con un porcentaje de éxito en las misiones del 100%, el extraordinario, aunque bastante difícil de tratar, espía Klaus recibe el encargo de una misión casi imposible por parte de la agencia, que alberga un insano 90% de posibilidades de fracaso y muerte... ¡que por alguna razón implica a siete chicas inexpertas...!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-spy-classroom-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1eJeeU4hjNcxPRvdL9AYHdg" type="text/html" title="Saitou Translations"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1KwjDhhvM2VREscVGxhUyyQ" type="text/html" title="Shinsengumi Translations"/>
+</entry>
+<entry>
+<title>Strike the Blood Novela Ligera en Español</title>
+<id>https://nextnovels.com/strike-the-blood-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/strike-the-blood-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-67.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-67.jpg"/>
+<author><name>Mikumo Gakuto</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Romance" label="Romance"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">"El cuarto primogénito" - Es el vampiro más fuerte del mundo que sólo debería existir en las leyendas. Acompañado incluso por doce Kenjuu y propagando la calamidad, este vampiro fantasma apareció en Japón.
+
+Para la observación y aniquilación de este "cuarto primogénito", el gobierno y el Rey León decidieron enviar a un mago de ataque denominado "chamán de las espadas". Sin embargo, por alguna razón, la elegida para la observación fue una aprendiz de "chamán de las espadas", Himeragi Yukina.
+
+Empuñando la más fuerte lanza espiritual anti-primogenitor, Yukina llegó al Santuario de los Demonios, "Ciudad Itogami". ¿Cuál era la verdadera identidad del "cuarto primigenio", Akatsuki Kojou, que encontró allí?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1I3q5ffa5sWMLBv7Lr8Qj7g" type="text/html" title="Kaleid Word Translations: CanisLycaon"/>
+</entry>
+<entry>
+<title>Tensei Kizoku, Kantei Skill de Nariagaru Novela Ligera en Español</title>
+<id>https://nextnovels.com/tensei-kizoku-kantei-skill-de-nariagaru-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/tensei-kizoku-kantei-skill-de-nariagaru-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/07/Tensei-Kizoku-Kantei-Skill-de-Nariagaru-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/07/Tensei-Kizoku-Kantei-Skill-de-Nariagaru-Portada.jpg"/>
+<author><name>Miraijin A</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">Tras treinta y cinco años de vida perfectamente ordinaria, un hombre de negocios cualquiera cae muerto de repente... ¡para renacer en otro mundo! Ahora debe vivir como Ars Louvent, descendiente de una familia noble menor y poseedor de una habilidad fabulosa: Valoración, el poder de percibir los puntos fuertes y las habilidades de los demás de un vistazo. Y la necesitará, porque hay muchos problemas que resolver en el territorio de la familia Louvent. Ars sólo tiene una opción: reclutar a los individuos con más talento que su habilidad pueda encontrar, ¡y ascender a nuevas alturas en su flamante nuevo mundo!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1PB-nN50YnL30WqpeIiQOrg" type="text/html" title="Ilusion Shuri Novels"/>
 </entry>
 <entry>
 <title>Tensei Shitara Slime Datta ken Novela Ligera en Español</title>
@@ -358,7 +913,33 @@ Con sus nuevos poderes, conocimientos, y bendiciones. Rimuru pudo ganarse la ami
 Así inicia su aventura, creciendo rápidamente en fuerza e influencia, atrayendo a varios aliados y enemigos.
 
 LA HISTORIA DE UN SLIME</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-tensei-shitara-slime-datta-ken-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1iX-kjSe4vFQN979ty7J21A" type="text/html" title="CanisLycaon"/>
+</entry>
+<entry>
+<title>The Great Cleric Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-great-cleric-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-great-cleric-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/04/Seija-Musou-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/04/Seija-Musou-Portada.jpg"/>
+<author><name>Broccoli Lion</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">Cierto día, el Dios del Destino de la Tierra y el Dios Supremo de Galdardia hicieron una apuesta.
+
+El Dios del Destino perdió, y eligió diez almas mediocres a las cuales entregó como premio.
+
+A esas diez almas, el Dios Principal de Galdardia les entregó nuevos contenedores.
+
+Y entre esas almas mediocres había un asalariado que luchó contra su propio destino mortal.
+
+¿Cuál será el futuro de este hombre?.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1b7t-JPEHQFY_J015uQqxGg" type="text/html" title="Pantano del Tarasque"/>
 </entry>
 <entry>
 <title>The Master of the Brave Novela Ligera en Español</title>
@@ -378,7 +959,35 @@ LA HISTORIA DE UN SLIME</content>
 <content type="text">Después de perder a sus padres, anhela convertirse en un Caballero, el pobre muchacho Wynn Bard se entrenó diligentemente. Sin embargo, le fue imposible convertirse en un Caballero, porque su poder mágico era demasiado bajo, no podía pasar el examen de Caballeros, por lo que fue etiquetado con el desagradable título de 'Eterno Cadete de Caballero'.
 
 Pero un día El Valiente derrotó al Rey Demonio y salvó al mundo. El Valiente era una belleza sin igual y se ganó la atención del mundo entero. Sin embargo, declaró al mundo: "Voy a regresar al lado de mi Maestro, Wynn Byrd". Esta es la historia de un chico que de alguna manera paso de ser 'Eterno Cadete de Caballero' a 'Maestro del Valiente'.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-master-of-the-brave-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1uG6WMQICLjSxU-HDbAACmw" type="text/html" title="Turret Translations"/>
+</entry>
+<entry>
+<title>The Revenge of the Soul Eater Novela Ligera en Español</title>
+<id>https://nextnovels.com/the-revenge-of-the-soul-eater-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/the-revenge-of-the-soul-eater-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/01/01-5.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/01/01-5.jpg"/>
+<author><name>Gyokuto</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Supernatural" label="Supernatural"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">La familia Mitsurugi a quien se les encomendó el papel de proteger la puerta demoníaca del emperador. Nacido como el hijo mayor, Mitsurugi Sora, a la edad de 13 años, estaba por realizar la ceremonia de prueba.
+
+Una prueba que debe superar a como dé lugar para aprender el estilo de espada ilusoria que se ha transmitido de generación en generación. Sin embargo, falló en la prueba y fue expulsado de su tierra natal.
+
+Cuando iba a reconstruir su vida siendo un aventurero, fue traicionado por sus compañeros de grupo haciéndolo presa viva de un poderoso monstruo.
+
+Fue llevado a su nido, y en ese momento, cuando estaba a punto de morir……
+
+Escuchó una voz que cambiaría su vida……</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1cAH2606Y55pDlqFYretn6w" type="text/html" title="GBtraducciones"/>
 </entry>
 <entry>
 <title>The Self-Proclaimed “Normal” Guy of The S-Class Academy Novela Ligera en Español</title>
@@ -409,7 +1018,7 @@ Pensé que por fin podría vivir una vida normal, pero la "normalidad" no es tan
 Por alguna razón, me hice popular entre las chicas guapas de la academia de clase S, donde se reúnen los genios, uno tras otro.
 
 Esta es una historia sobre un protagonista con altas especificaciones ocultas que, después de "aislarse" de la protagonista femenina, se vuelve popular en todas partes, y le dicen: "Como se esperaba de ti", "Como debe ser", independientemente de su propia voluntad.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-self-proclaimed-normal-guy-of-the-s-class-academy-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1bkojW5XWbrSyzZXAhBWWXQ" type="text/html" title="Ichijou Translations"/>
 </entry>
 <entry>
 <title>The Strongest Failed Aristocrat’s Dark Demon Sword Novela Ligera en Español</title>
@@ -441,7 +1050,7 @@ Para proteger a su familia, Roy oculta su identidad y lleva una triple vida: tra
 "Me encantaría dejar de ser un guardián, pero hasta que aparezca un sucesor, supongo que seguiré protegiendo el mundo."
 
 ¡La nueva fantasía clandestina del noble supremo que ha dominado tanto la espada como la magia comienza aquí!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-strongest-failed-aristocrats-dark-demon-sword-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/136ZJtBg84RY4IV8NT6nHuQ" type="text/html" title="World Project"/>
 </entry>
 <entry>
 <title>Thousand Autumns Novela en Español</title>
@@ -477,6 +1086,8 @@ El poderoso «Señor Demonio» Yan Wushi, el arrogante y caprichoso líder de la
 <category term="Harem" label="Harem"/>
 <category term="Shounen" label="Shounen"/>
 <content type="text">El estudiante de secundaria Mikoshiba Ryouma fue convocado a un mundo diferente para ayudar a su invocador a librar guerras. Al percibir la malicia de quien lo invocó, reaccionó matando al invocador, una de las personas más importantes del imperio. Tras la huida, rescata a un par de hermanas gemelas de las manos de los bandidos. Las hermanas, que pueden usar la magia, juran servirle como subordinadas. De este modo, Ryouma comienza su viaje por el camino del gobernante supremo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/wortenia-senki-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1N5om1TXxDO-vMXggMOxXTA" type="text/html" title="Ferindrad"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1QCdlfiFII5v8cxGA6QEAbQ" type="text/html" title="Slayer 1987"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1LZ7-WwSLZAn9bHH4xZKjIg" type="text/html" title="World Project"/>
 </entry>
 </feed>

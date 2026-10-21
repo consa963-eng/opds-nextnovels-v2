@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Shima Namigashi</id>
+<title>Shima Namigashi</title>
+<updated>2026-10-21T00:13:50.708171+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-840.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>When the Night Ends, the Sun Rises Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-when-the-night-ends-the-sun-rises-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-when-the-night-ends-the-sun-rises-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/03/When-the-Night-Ends-the-Sun-Rises-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/03/When-the-Night-Ends-the-Sun-Rises-Portada.jpg"/>
+<author><name>Shima Namigashi</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<content type="text">"Si yo hubiera sido confundida con mi ídolo"
+
+Esta es una historia sobre cómo una familia vuelve a ser familia.
+
+El estrecho de Kanmon separa Honshu de Kyushu. En el lado de Kyushu, en la ciudad de Moji, Fukuoka, vive una estudiante de preparatoria llamada Asa, que vive con su mamá.
+
+Asa tiene como idol a la cantante popular YORU. Aunque es desafinada, sueña con algún día poder cantar bien, por lo que pasa sus días aprendiendo a cantar de su mamá, quien trabaja en un bar.
+
+Un día, su idol anuncia de repente que suspende sus actividades, y además, se revela un impactante hecho.
+
+"Mi mamá no es mi verdadera madre".
+
+Parece que, al nacer, hubo un accidente en el que fueron intercambiadas.
+
+Asa, desconcertada por la noticia, decide ir a ver a su verdadera madre, que vive en la otra orilla del estrecho, en Shimonoseki. Sin embargo, descubre que la otra persona con la que fue intercambiada es, en realidad, YORU...
+
+Esta es una historia sobre cómo una familia vuelve a ser familia.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Y9WB-7Wc4Slbg_3iBy5P2Q" type="text/html" title="Tamashi Project"/>
+</entry>
+</feed>

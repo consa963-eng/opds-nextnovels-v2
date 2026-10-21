@@ -1,32 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Itsuki Tomohito</id>
-<title>Itsuki Tomohito</title>
-<updated>2026-10-20T22:58:27.563556+00:00</updated>
+<id>nextnovels:autores:Fuse</id>
+<title>Fuse</title>
+<updated>2026-10-21T00:13:50.598245+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-169.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>The Reason a Penniless High Schooler Became Desired by a Wealthy Young Lady Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-reason-a-penniless-high-schooler-became-desired-by-a-wealthy-young-lady-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-reason-a-penniless-high-schooler-became-desired-by-a-wealthy-young-lady-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/The-Reason-a-Penniless-High-Schooler-Became-Desired-by-a-Wealthy-Young-Lady-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/09/The-Reason-a-Penniless-High-Schooler-Became-Desired-by-a-Wealthy-Young-Lady-Portada.jpg"/>
-<author><name>Itsuki Tomohito</name></author>
+<title>Tensei Shitara Slime Datta ken Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-tensei-shitara-slime-datta-ken-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-tensei-shitara-slime-datta-ken-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2021/12/Another-vol-01-4-e1641220463278.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2021/12/Another-vol-01-4-e1641220463278.jpg"/>
+<author><name>Fuse</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Aventura" label="Aventura"/>
 <category term="Comedia" label="Comedia"/>
-<category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">La señorita adora la pobreza: ¿¡cuál es la razón por la que lo desea...!?
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">Saturou Mikai de 37 años, un ordinario trabajador de una corporación que vive en Tokio. Aunque no tiene novia, está casi satisfecho con su vida actual.
 
-El estudiante de preparatoria Tenma Seitaro, que lleva una vida en la pobreza, conoce a una hermosa detective escolar y chica rica. Por cosas del destino, Seitaro se convierte en asistente de la bella joven y termina viviendo en su mansión.
+Durante una salida con un compañero de trabajo, un asaltante termina apuñalándolo. Mientras sufría por su herida, una voz misteriosa se reprodujo en su mente y pudo escuchar varias oraciones, como si estuviera recitando un hechizo. Y se desmayó.
 
-Bajo el mismo techo que la señorita, uno pensaría que su relación se acerca rápidamente, pero... lo que ella busca es el poder oculto en su pobreza.
+Al recobrar la conciencia, descubre que ha reencarnado, como un Slime, en un mundo totalmente desconocido.
 
-Sin embargo, mientras persiguen casos juntos, la señorita empieza a desear al propio Seitaro...
+Por suerte obtiene una habilidad llamada "Predator", que le permite devorar cualquier cosa y al mismo tiempo poder imitar las apariencias y habilidades de dicho objeto, persona o monstruo.
 
-«¡Con toda tu pobreza incluida, me gustas, Seitaro!»
+En su aventura se encuentra con Veldora Tempest, un "Dragon de la Tormenta" el cual resulta que ha sido sellado de sus poderes durante 300 años. Al saber esto, Satoru siente pena por el y se hace su amigo, y prometiéndole que hallará una forma de poder liberarlo de su condena. A cambio, aquel dragón le brindó un nombre, Rimuru Tempest, el cual le concedía protección divina.
 
-¡Un estudiante de preparatoria sin un centavo es amado sin parar por la hija de una familia adinerada!
+Con sus nuevos poderes, conocimientos, y bendiciones. Rimuru pudo ganarse la amistad y lealtad de varios monstruos que habitaban en el Gran Bosque de Jura. Y al aceptarlo como su líder, juntos pudieron formar la nación de Tempest.
 
-¡Una comedia romántica de diferencia de clases de nuevo tipo que convierte la pobreza en felicidad!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-reason-a-penniless-high-schooler-became-desired-by-a-wealthy-young-lady-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Así inicia su aventura, creciendo rápidamente en fuerza e influencia, atrayendo a varios aliados y enemigos.
+
+LA HISTORIA DE UN SLIME</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1iX-kjSe4vFQN979ty7J21A" type="text/html" title="CanisLycaon"/>
 </entry>
 </feed>

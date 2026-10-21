@@ -1,24 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kagyuu Kumo</id>
-<title>Kagyuu Kumo</title>
-<updated>2026-10-20T22:58:27.566554+00:00</updated>
+<id>nextnovels:autores:Gangudou</id>
+<title>Gangudou</title>
+<updated>2026-10-21T00:13:50.600129+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-180.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Goblin Slayer Novela Ligera en Español</title>
-<id>https://nextnovels.com/goblin-slayer-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/goblin-slayer-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-31.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-31.jpg"/>
-<author><name>Kagyuu Kumo</name></author>
+<title>CtG - Zero kara Sodateru Dennou Shoujo Novela Ligera en Español</title>
+<id>https://nextnovels.com/ctg-zero-kara-sodateru-dennou-shoujo-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/ctg-zero-kara-sodateru-dennou-shoujo-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/11/01-43.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/11/01-43.jpg"/>
+<author><name>Gangudou</name></author>
 <category term="Acción" label="Acción"/>
 <category term="Aventura" label="Aventura"/>
-<category term="Fantasía" label="Fantasía"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Comedia" label="Comedia"/>
 <category term="Harem" label="Harem"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Tragedia" label="Tragedia"/>
-<content type="text">Una joven sacerdotisa ha formado su primer grupo de aventuras, pero casi inmediatamente se encuentran en apuros. Es el Cazador de Goblins quien viene a su rescate - un hombre que ha dedicado su vida a la exterminación de todos los Goblins, por cualquier medio necesario. Y cuando los rumores de sus hazañas comienzan a circular, no se sabe quién será el siguiente en acudir.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/goblin-slayer-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">En el juego VRMMO -CtG (Cradle to the Glaive), Yuu Kasugai se ha “casado” con Mifa, una chica que acaba de conocer. Despues de eso, ¿¡su hija Haruna nació y creció!? Más aun…..
+
+– ¡Llegué, papá!
+
+– ¡Ku, Kugimiya!
+
+!En el mundo real, la verdadera Haruha, junto con la verdadera Mifa – Kugimiya Miharu – aparecieron repentinamente! La verdad es que, ¡Haruha es una “nueva humana” creada en secreto!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1RQZ1xd1476flq8w7WB8tPA" type="text/html" title="Gustang Translations, Strange Translations, Next Novels (MTL)"/>
 </entry>
 </feed>

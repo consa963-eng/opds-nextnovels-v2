@@ -1,42 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Ryo Shirakome</id>
-<title>Ryo Shirakome</title>
-<updated>2026-10-20T22:58:27.611814+00:00</updated>
+<id>nextnovels:autores:Kazuki Miya</id>
+<title>Kazuki Miya</title>
+<updated>2026-10-21T00:13:50.637056+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-403.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Arifureta Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-arifureta-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-arifureta-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2021/12/arifureta-01-e1641220451841.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2021/12/arifureta-01-e1641220451841.jpg"/>
-<author><name>Ryo Shirakome</name></author>
-<category term="Acción" label="Acción"/>
+<title>Ascendance of a Bookworm Novela Web en Español</title>
+<id>https://nextnovels.com/descargar-ascendance-of-a-bookworm-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-ascendance-of-a-bookworm-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/Ascendance-of-a-Bookworm-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/05/Ascendance-of-a-Bookworm-Portada.jpg"/>
+<author><name>Kazuki Miya</name></author>
 <category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
 <category term="Drama" label="Drama"/>
-<category term="Ecchi" label="Ecchi"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Mecha" label="Mecha"/>
-<category term="Misterio" label="Misterio"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Shoujo" label="Shoujo"/>
 <category term="Supernatural" label="Supernatural"/>
-<content type="text">Hajime Nagumo, estudiante de secundaria, es víctima del acoso de sus compañeros por su relación con la idol de la clase, Kaori. Cierto día, toda su clase fue transportada a un nuevo y desconocido mundo de fantasía, cuando tomaron conciencia, todos sus compañeros habían obtenido poderosas habilidades mágicas, mientras que Hajime lo único que obtiene es la magia de alquimia básica, la cual sirve para transmutar materiales sólidos, una habilidad común y corriente que mayormente la suelen usar los artesanos y herreros. Durante una incursión en una mazmorra, Hajime es traicionado por uno de sus compañeros en medio de una feroz batalla y por desgracia cae al fondo de la mazmorra. Milagrosamente sobrevive a la caída, y ante la desesperación, el peligro que lo rodea, y la falta de habilidad de supervivencia, crea armas para sobrevivir y escapar de la mazmorra y hacerse más fuerte para vivir sin molestias. En su viaje, se encuentra con varios personajes que lo acompañarán en su aventura, con el vampiro encarcelado Yue, la conejita de orejas largas Shea, el dragón pervertido Tio, y muchos otros más.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-arifureta-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<content type="text">Una estudiante universitaria despierta en un mundo donde casi nadie sabe leer y los libros son un lujo raro. Reencarnada como la hija de un soldado, su pasión por la lectura se enfrenta a una cruda realidad: no hay libros. Pero si no existen… ¡los hará ella misma! Decidida a vivir rodeada de libros, su sueño es convertirse en bibliotecaria. Así comienza su aventura, creando libros desde cero en un mundo que los desconoce.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-ascendance-of-a-bookworm-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 <entry>
-<title>Arifureta Zero Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-arifureta-zero-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-arifureta-zero-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/06/01-13.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/06/01-13.jpg"/>
-<author><name>Ryo Shirakome</name></author>
-<category term="Acción" label="Acción"/>
+<title>Ascendance of a Bookworm: Hannelore’s Fifth Year at the Royal Academy Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-ascendance-of-a-bookworm-hannelores-fifth-year-at-the-royal-academy-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-ascendance-of-a-bookworm-hannelores-fifth-year-at-the-royal-academy-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/08/Honzuki-no-Gekokujou-Hannelores-Fifth-Year-at-the-Royal-Academy-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/08/Honzuki-no-Gekokujou-Hannelores-Fifth-Year-at-the-Royal-Academy-Portada.jpg"/>
+<author><name>Kazuki Miya</name></author>
 <category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Shounen" label="Shounen"/>
-<content type="text">Esta es la historia de lo que ocurrió mucho antes de que Hajime fuera convocado a Tortus. Oscar Orcus es considerado un sinergista de tercera categoría por la mayoría de la gente. Pasa sus días tranquilamente, trabajando para poder enviar dinero a un orfanato. Todo eso cambia cuando el torbellino que es Miledi Reisen irrumpe en su vida. Miledi ve el potencial oculto en Óscar, y le invita a su viaje para derrotar a los dioses. Óscar no quiere participar en ningún viaje y se niega. Pero Miledi es persistente, y la situación cambia drásticamente cuando el orfanato que quiere proteger es atacado. Al final, ¿qué decidirá nuestro improbable héroe?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-arifureta-zero-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Shoujo" label="Shoujo"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">El spin off de Honzuki no gekokujou, continuando la historia principal con el quinto año de la academia real desde el punto de vista de Hannelore. Ella se ve en una ecrusijada al recibir la orden de su padre, Aub Dunkelfelger: por su fama en la guerra contra Lanzenave y su cercania a la encarnación de la diosa, debe comprometerse al terminar el año. Para ello Aub ha designado a dos candidatos a prometidos del séquito de su hermano, Kentrips y Lazantark, el primero un erudito y el segundo un caballero aficionado al ditter ¡ambos enamorados de Hannelore en secreto!. Pero Hannelore quiere ante todo irse de Dunkelfelger y guarda sentimientos por Wilfried. Sin embargo, ¡todo cambiara por el deseo de Hannelore y la intervención divina!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1iRy3t1rOxuLrIh8aU7PK-Q" type="text/html" title="El Taller de Ordanel"/>
+</entry>
+<entry>
+<title>Ascendance of a Bookworm: Short Story Collection Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-ascendance-of-a-bookworm-short-story-collection-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-ascendance-of-a-bookworm-short-story-collection-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/08/Ascendance-of-a-Bookworm-Short-Story-Collection-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/08/Ascendance-of-a-Bookworm-Short-Story-Collection-Portada.jpg"/>
+<author><name>Kazuki Miya</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
+<content type="text">Han pasado seis años desde que Urano comenzó su nueva vida como Myne, y han sucedido muchas cosas. Pasó de ser una simple plebeya a una aprendiz de sacerdotisa, y luego se vio inmersa en el mundo de los nobles como Rozemyne, la hija adoptiva de un archiduque. «¡Pero no soy la única persona a la que le han pasado muchas cosas! ¡Se puede decir lo mismo de todos los demás! Aunque, eh... Supongo que eso se debe principalmente a mí».
+
+eL primer volumen de la nueva colección de relatos cortos de Bookworm está repleto de capítulos inéditos que abarcan las partes 1 a 4.
+
+Descubre la ciudad baja, el orfanato, el templo, la Academia Real y muchos otros lugares familiares con una nueva perspectiva en veintiún historias contadas desde una gran variedad de puntos de vista únicos.
+
+¿Qué piensan los que forman parte del círculo de Myne (o Rozemyne) sobre sus acciones y qué sucede en los lugares que ella no puede ver?
+
+Incluye notas entre bastidores de la autora Miya Kazuki y más manga de cuatro viñetas de You Shiina.
+
+NOTA: En el mismo link podrán encontrar las historias extras que fueron publicadas en Syotsetu (Se actualizará en caso de nuevos capítulos).</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1fjw9PTnhvt1l5qkdH6MGEA" type="text/html" title="El Taller de Ordanel"/>
 </entry>
 </feed>

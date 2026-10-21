@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Toaza Sei</id>
+<title>Toaza Sei</title>
+<updated>2026-10-21T00:13:50.729113+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-965.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>Tosho Meikyuu Novela Ligera en Español</title>
+<id>https://nextnovels.com/tosho-meikyuu-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/tosho-meikyuu-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/08/Tosho-Meikyuu-Portada.jpeg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/08/Tosho-Meikyuu-Portada.jpeg"/>
+<author><name>Toaza Sei</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Recuerda. Tienes que encontrar a los enemigos que perpetraron las traumáticas heridas de tu padre y reclamar su honor y su magia despojados. Te acompaña Arteria, la chica Caminante del Alto Día. Para ello, tienes que visitar la ciudad biblioteca y entrar en el laberinto, donde existen varios tipos de libros.
+
+Tienes un gran obstáculo. Tu memoria sólo dura ocho horas. Pero hay una manera. Seguro que la hay.
+
+Por favor, lucha, para seguir siendo humano. Que recuperarás todos los recuerdos.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1I6nNOgvAKAZt6RQSfjoABQ" type="text/html" title="Astral Novel Translations"/>
+</entry>
+</feed>

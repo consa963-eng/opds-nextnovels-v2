@@ -1,80 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Yuji Yuji</id>
-<title>Yuji Yuji</title>
-<updated>2026-10-20T22:58:27.648465+00:00</updated>
+<id>nextnovels:autores:Miku</id>
+<title>Miku</title>
+<updated>2026-10-21T00:13:50.664169+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-572.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>I Found Amari-chan Next to the Number One Girl I Wanted to Make My Girlfriend Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-i-found-amari-chan-next-to-the-number-one-girl-i-wanted-to-make-my-girlfriend-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-i-found-amari-chan-next-to-the-number-one-girl-i-wanted-to-make-my-girlfriend-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/I-Found-Amari-chan-Next-to-the-Number-One-Girl-I-Wanted-to-Make-My-Girlfriend-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/05/I-Found-Amari-chan-Next-to-the-Number-One-Girl-I-Wanted-to-Make-My-Girlfriend-Portada.jpg"/>
-<author><name>Yuji Yuji</name></author>
-<category term="Comedia" label="Comedia"/>
+<title>Bushinden: Ikenie ni Sasagerareta Ore wa, Kami ni Hirowarebu wo Kiwameru Novela Ligera en Español</title>
+<id>https://nextnovels.com/bushinden-ikenie-ni-sasagerareta-ore-wa-kami-ni-hirowarebu-wo-kiwameru-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/bushinden-ikenie-ni-sasagerareta-ore-wa-kami-ni-hirowarebu-wo-kiwameru-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/05/Bushinden-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/05/Bushinden-Portada.jpg"/>
+<author><name>Miku</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Aventura" label="Aventura"/>
 <category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
 <category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Con mirada ansiosa, preguntas: «¿Estás seguro… de que soy yo?».
+<category term="Shounen" label="Shounen"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">Desde su infancia, Toma Godo ha sido incapaz de usar magia, como resultado, fue despreciado y tratado como un incompetente por su propio padre.
 
-Y precisamente por eso quiero quedarme a tu lado.
+Esto provocó que fuese sacrificado en la isla de los Demonios. Donde vagan feroces bestias demoniacas. Sin embargo, allí conoce a un semidiós que lo ayudará a dominar el arte del combate hasta volverse un ser invencible.
 
-Fukusuke, un buen chico pero demasiado normal para su propio bien, se enamora a primera vista de la chica más guapa de la clase: Yua.
-
-Pero el rumor no lo empareja a él con Yua, sino a su mejor amigo, Yūsei, el as del equipo de baloncesto.
-
-Fukusuke suspira, sabiendo que sus sentimientos no tienen remedio.
-
-Entonces, un día, repara en ella: la chica oculta en la sombra de Yua, invisible para casi todos.
-
-Una muchacha monísima y, sin embargo, completamente ignorada: Amari Usuba.
-
-«E-esto… ¿querrías… ser mi amigo?».
-
-Tímida y reservada, se lo pide con vacilación.
-
-Y así, los dos empiezan a practicar juntos cómo ser «normales».
-
-Pero…
-
-«Amari-chan… la persona que te gusta es Yūsei, ¿verdad?».
-
-«……».
-
-«Espera, ¿por qué te estás poniendo tan roja?».
-
-Una comedia romántica sobre una belleza oculta que solo yo conozco, que empieza desde la amistad.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-i-found-amari-chan-next-to-the-number-one-girl-i-wanted-to-make-my-girlfriend-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Un día en la peligrosa isla aparece una chica que se hace llamar Lise, Toma jura protegerla, y ambos escapan de la isla mientras que ocultan su secreto de ser el hombre más poderoso del mundo con el fin de no afectar su misma supervivencia en el mundo y de la raza humana.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/19yX-1c45CqRhFWPpogjHPg" type="text/html" title="Gashadokai"/>
 </entry>
 <entry>
-<title>The Self-Proclaimed “Normal” Guy of The S-Class Academy Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-self-proclaimed-normal-guy-of-the-s-class-academy-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-self-proclaimed-normal-guy-of-the-s-class-academy-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/The-Self-Proclaimed-Normal-Guy-of-The-S-Class-Academy-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/02/The-Self-Proclaimed-Normal-Guy-of-The-S-Class-Academy-Portada.jpg"/>
-<author><name>Yuji Yuji</name></author>
-<category term="Artes marciales" label="Artes marciales"/>
+<title>Isekai de Cheat Skill Novela Ligera en Español</title>
+<id>https://nextnovels.com/isekai-de-cheat-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/isekai-de-cheat-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/03/Isekai-de-Cheat-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/03/Isekai-de-Cheat-Portada.jpg"/>
+<author><name>Miku</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
 <category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
 <category term="Harem" label="Harem"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
+<category term="Supernatural" label="Supernatural"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Rua es la nieta de un hombre poderoso y un ídolo de doblaje muy popular, y yo he estado viviendo en la misma posición como sirvienta.
+<content type="text">Tenjou Yuuya ha sido un niño acosado desde el pasado.
 
-"¡Deberías sentirte honrada de ser mi amiga de la infancia! ¡Shashasha!"
+Vive en la casa de su querido abuelo mientras va a la escuela. Como es habitual, recibe un duro acoso, y se toma una larga ausencia de la escuela para tener algo de tiempo para curar sus heridas.
 
-Pero, pero...
+Durante este largo tiempo de ausencia, aprovecha para limpiar la casa de su abuelo y va a una habitación a la que nunca había ido, donde su abuelo guarda muchos objetos diferentes que recogió de sus viajes por el mundo. Mientras ordenaba los objetos, encuentra una puerta que no está en una pared entre los objetos.
 
-Una cosa que hizo me hizo perder los estribos.
-
-Ya terminé contigo, adiós cerdita.
-
-Todo este tiempo he estado en la sombra, un atractivo para ese Cerdo.
-
-Pensé que por fin podría vivir una vida normal, pero la "normalidad" no es tan fácil.
-
-Por alguna razón, me hice popular entre las chicas guapas de la academia de clase S, donde se reúnen los genios, uno tras otro.
-
-Esta es una historia sobre un protagonista con altas especificaciones ocultas que, después de "aislarse" de la protagonista femenina, se vuelve popular en todas partes, y le dicen: "Como se esperaba de ti", "Como debe ser", independientemente de su propia voluntad.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-self-proclaimed-normal-guy-of-the-s-class-academy-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Por curiosidad abre esta puerta, lo que encontró al otro lado fue...</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1abxeYQHRhU8P0_FBpPmxBQ" type="text/html" title="Lolipoi - Kinako Pan"/>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1ecIEm5Ps2BsO0IORqDwSgA" type="text/html" title="Akat Novels"/>
 </entry>
 </feed>

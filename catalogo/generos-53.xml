@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:generos:Venganza</id>
+<title>Venganza</title>
+<updated>2026-10-21T00:13:50.885169+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-53.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>Doushi Shoujo Yo, Teki Wo Ute Novela Ligera en Español</title>
+<id>https://nextnovels.com/doushi-shoujo-yo-teki-wo-ute-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/doushi-shoujo-yo-teki-wo-ute-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/01/Doushi-Shoujo-Yo-Teki-Wo-Ute-Portada-scaled.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/01/Doushi-Shoujo-Yo-Teki-Wo-Ute-Portada-scaled.jpg"/>
+<author><name>Aisaka Touma</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Bélico" label="Bélico"/>
+<category term="Guerra" label="Guerra"/>
+<category term="Maduro" label="Maduro"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Tragedia" label="Tragedia"/>
+<category term="Venganza" label="Venganza"/>
+<content type="text">En 1942, durante la guerra entre Alemania y la Unión Soviética, la vida cotidiana de Serafina, una joven que vive en un pueblo agrícola cerca de Moscú, le fue arrebatada repentinamente. Su madre, y otros aldeanos fueron masacrados por las tropas alemanas que se abalanzaron sobre ellos. Serafina estaba a punto de recibir un disparo cuando Irina la salvó, una mujer soldado en el Ejército Rojo. Más tarde, le preguntó si quería pelear o morir en el acto, por lo que decidió convertirse en una francotiradora de primera clase en la escuela de entrenamiento donde Irina se desempeñaba como instructora. Mientras abraza los sentimientos de venganza contra el francotirador alemán que le disparó a su madre e Irina que quemó el cuerpo de su madre, Serafina entrena con otras francotiradoras que también lloraron a sus familias y eligieron luchar, y finalmente se encuentra en el frente de batalla en Stalingrado, un punto de inflexión decisivo en la guerra entre Alemania y la Unión Soviética. Después de muchas muertes, descubre al “verdadero enemigo”.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1EU6TR4jazKhBO68F8KggDw" type="text/html" title="MiraiK"/>
+</entry>
+<entry>
+<title>Nidome No Yuusha Novela Ligera en Español</title>
+<id>https://nextnovels.com/nidome-no-yuusha-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/nidome-no-yuusha-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/07/Nidome-No-Yuusha-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/07/Nidome-No-Yuusha-Portada.jpg"/>
+<author><name>Kizuka Nero</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harén" label="Harén"/>
+<category term="Maduro" label="Maduro"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Supernatural" label="Supernatural"/>
+<category term="Tragedia" label="Tragedia"/>
+<category term="Venganza" label="Venganza"/>
+<content type="text">Ukei Kaito libró una lucha desesperada para cumplir su papel como héroe invocado. Derrotó al ser conocido como Señor de los Demonios y salvó al mundo, solo para encontrarse con un final lleno de traición. Los compañeros en los que había confiado a lo largo de su viaje lo traicionaron y lo asesinaron clavándole una espada en el pecho.
+
+Fue entonces cuando se juró algo a sí mismo.
+
+Juró que, si se le daba otra oportunidad, ya no se aferraría tan ingenuamente al concepto de “fe”.
+
+Juró que, si le daban otra oportunidad, se dedicaría a realizar los actos de venganza más atroces posibles.
+
+Juró que, si le daban otra oportunidad, haría las cosas bien.
+
+“Mataré a todos y cada uno de ustedes… lo juro…”.
+
+Y así, murió, dejando atrás solo una serie de últimas palabras amenazantes, pero su historia aún no había terminado. Una voz resonó en su cabeza y le informó que había más en su destino que lo que yacía más allá de la tumba.
+
+[Mensaje del sistema: Modo tutorial completado].</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1Pi2rBCnBp8XNeho5S3ajRg" type="text/html" title="MiraiK y Legends no Fansub"/>
+</entry>
+</feed>

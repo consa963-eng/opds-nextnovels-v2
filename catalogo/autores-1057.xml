@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Yamazaki Hibiki</id>
+<title>Yamazaki Hibiki</title>
+<updated>2026-10-21T00:13:50.747687+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1057.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>Slow Prison Life Novela Ligera en Español</title>
+<id>https://nextnovels.com/slow-prison-life-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/slow-prison-life-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/10/cover-1.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/10/cover-1.jpg"/>
+<author><name>Yamazaki Hibiki</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Josei" label="Josei"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<content type="text">¡Prepárate para una comedia carcelaria llena de energía!
+
+El príncipe Eliot está comprometido con Rachel, la hija de un duque, pero tiene los ojos puestos en otra persona. Decide romper su compromiso acusando a Rachel de un crimen que no cometió y arrojándola en prisión. Poco sabe él, Rachel ya se a enterado de sus planes… ¡y esta encantada! Para ella, la prisión suena como unas vacaciones divertidas sin lecciones y sin sirvientes molestos. ¡Está más que lista para holgazanear y vivir la vida tranquila!
+
+Rodeada de todas las comodidades que podría desear, Rachel disfruta completamente de todo lo que el calabozo tiene para ofrecer mientras atormenta al príncipe como le plazca. ¡Su vida y alegre en prisión apenas comienza!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1-ywDfAER0_GpH0_265Eceg" type="text/html" title="Legends Translations"/>
+<link rel="http://opds-spec.org/acquisition" href="https://lectortmo.com/library/manga/45361/konyaku-haki-kara-hajimaru-akuyaku-reijou-no-kangoku-surou-raifu-irasuto" type="text/html" title="Disponible en TuMangaOnline"/>
+</entry>
+</feed>

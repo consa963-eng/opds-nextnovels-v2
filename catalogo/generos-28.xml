@@ -1,131 +1,172 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:generos:NTR</id>
-<title>NTR</title>
-<updated>2026-10-20T22:58:27.710864+00:00</updated>
+<id>nextnovels:generos:Magia</id>
+<title>Magia</title>
+<updated>2026-10-21T00:13:50.840530+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-28.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>I Can See “Erotic Status” Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-i-can-see-erotic-status-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-i-can-see-erotic-status-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/Now-That-I-Can-See-Ero-Statuses-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/06/Now-That-I-Can-See-Ero-Statuses-Portada.jpg"/>
-<author><name>Amuamu</name></author>
-<category term="Ecchi" label="Ecchi"/>
+<title>Ano Shinpu wa, Yappari Kuzu Datta Novela Ligera en Español</title>
+<id>https://nextnovels.com/ano-shinpu-wa-yappari-kuzu-datta-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/ano-shinpu-wa-yappari-kuzu-datta-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/05/01-17.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/05/01-17.jpg"/>
+<author><name>Kosuke Kidou</name></author>
+<category term="Acción" label="Acción"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="NTR" label="NTR"/>
-<content type="text">El protagonista es un aventurero ordinario que formaba parte del aclamado grupo del "Héroe". Sin embargo, tras ser catalogado como un estorbo inútil y débil, es humillado y cruelmente desterrado de la facción por el propio líder, quien además se jacta de quedarse con la atención de todas las hermosas guerreras del equipo. Lleno de resentimiento, el destino del protagonista cambia cuando despierta una habilidad analítica única que le permite ver las debilidades y los parámetros ocultos de los demás miembros. Gracias a este poder, es capaz de identificar vulnerabilidades psicológicas y estratégicas que otros ignoran por completo.
+<category term="Magia" label="Magia"/>
+<content type="text">Ralph es un sacerdote que es culpado de acoso sexual cuando trataba de revivir a una heroína en la iglesia. Aunque su magia es un desperdicio, el está por encima del Señor Demonio. Una inquisidora llamada Sharon aparece y está decidida a comprobar que Ralph es una persona débil. Por hacer esto, Sharon es considerada una hereje, por lo que hace equipo con Ralph para poder escapar.
 
-En lugar de buscar un enfrentamiento físico directo, decide utilizar este conocimiento para ejecutar un plan de represalia calculado. El protagonista se propone infiltrarse en la dinámica del grupo del Héroe, ganándose la confianza de sus antiguas compañeras y demostrando las carencias del líder que lo expulsó. Al exponer la hipocresía del Héroe y ofrecer a las integrantes del equipo el apoyo y la comprensión que les faltaba, logra desmantelar la lealtad de la facción desde adentro, recuperando su honor mientras observa el colapso del grupo que lo traicionó.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-i-can-see-erotic-status-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Ellos dos tienen algo en común ¿Es amor? Que el gran escape inicie.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com#Volumenes" type="text/html" title="Astral Novel Translations"/>
 </entry>
 <entry>
-<title>I Was Reincarnated Into an NTR Eroge, and the Girl Who Saved Me Was the Strongest Background Character A Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-i-was-reincarnated-into-an-ntr-eroge-and-the-girl-who-saved-me-was-the-strongest-background-character-a-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-i-was-reincarnated-into-an-ntr-eroge-and-the-girl-who-saved-me-was-the-strongest-background-character-a-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/I-Was-Reincarnated-Into-an-NTR-Eroge-and-the-Girl-Who-Saved-Me-Was-the-Strongest-Background-Character-A-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/08/I-Was-Reincarnated-Into-an-NTR-Eroge-and-the-Girl-Who-Saved-Me-Was-the-Strongest-Background-Character-A-Portada.jpg"/>
-<author><name>Sanbon</name></author>
-<category term="Adulto" label="Adulto"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
+<title>Around 40 Eigyou-man, Isekai ni Tatsu! Novela Ligera en Español</title>
+<id>https://nextnovels.com/around-40-eigyou-man-isekai-ni-tatsu-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/around-40-eigyou-man-isekai-ni-tatsu-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/09/01-61.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/09/01-61.jpg"/>
+<author><name>Sai Sumimori</name></author>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="NTR" label="NTR"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">«¡¿Quién diablos es el infeliz que me robó a mi prometida?! ¡¡Maldición!!»
-
-Nicholas ha reencarnado en el mundo de un eroge doujin de género NTR que solía jugar en su vida pasada.
-
-Peor aún, renació como el prometido al que le ponen los cuernos: el hombre cuya prometida y amiga de la infancia, una hija de conde llamada Lea, es robada por otro sujeto.
-
-Si deja las cosas como están, esta situación sin duda lo llevará a un "Final NTR" que destruirá su salud mental.
-
-En medio de todo esto, Nicholas obtiene la habilidad [Status Open], la cual en realidad no existía en el juego original. Sorprendentemente, ¡resulta ser una habilidad de nivel dios que incluso puede mostrar el número de exparejas (la cantidad de personas con las que se ha tenido relaciones) y hasta el nivel de desarrollo físico!
-
-Cuando Nicholas revisa de inmediato el estado de Lea, dice [Número de Exparejas: 1 persona], lo que indica que Lea, efectivamente, ya fue corrompida...
-
-Justo cuando Nicholas se siente destrozado, Ema —una hermosa chica que antes no era más que un personaje de relleno, la "Compañera A"— se le acerca y le ofrece ayuda:
-
-—Yo te ayudaré a vengarte de ese tipo…</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-i-was-reincarnated-into-an-ntr-eroge-and-the-girl-who-saved-me-was-the-strongest-background-character-a-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
-</entry>
-<entry>
-<title>My Beloved Female Boss is Having Sex with an Insatiable Man in a Bed Right Next to Me on a Business Trip Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-my-beloved-female-boss-is-having-sex-with-an-insatiable-man-in-a-bed-right-next-to-me-on-a-business-trip-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-my-beloved-female-boss-is-having-sex-with-an-insatiable-man-in-a-bed-right-next-to-me-on-a-business-trip-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/NTR-Business-Trip-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/08/NTR-Business-Trip-Portada.jpg"/>
-<author><name>逢川 かえで</name></author>
-<category term="Hentai" label="Hentai"/>
-<category term="NTR" label="NTR"/>
-<content type="text">Desperté en la cama de un hotel.
-
-En la cama de al lado, Yui-senpai —la mujer que admiro— se retorcía atravesada por un tallo de carne…
-
-Un viaje de negocios a Okinawa. Un error nos metió en la misma habitación a mí y a ella, mi jefa de 27 años, la senpai con la que compartía un amor no confesado, ese en el que ambos sentíamos lo mismo sin atrevernos a decirlo.
-
-La chica que tanto quise perdió la virginidad allí mismo, a un metro de mí, y los gemidos que soltaba mientras el semental insaciable la embestía fueron lo único que pude hacer durante toda la noche: oírlos. Fingir que dormía. Y nada más.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-my-beloved-female-boss-is-having-sex-with-an-insatiable-man-in-a-bed-right-next-to-me-on-a-business-trip-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
-</entry>
-<entry>
-<title>My Guilty First Love with Another Girl’s Girlfriend Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-my-guilty-first-love-with-another-girls-girlfriend-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-my-guilty-first-love-with-another-girls-girlfriend-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/09/My-Guilty-First-Love-with-Another-Girls-Girlfriend-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/09/My-Guilty-First-Love-with-Another-Girls-Girlfriend-Portada.jpg"/>
-<author><name>Akeo</name></author>
-<category term="Drama" label="Drama"/>
-<category term="NTR" label="NTR"/>
+<category term="Magia" label="Magia"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<category term="Yuri" label="Yuri"/>
-<content type="text">Déjame quedarme en tu casa hasta las vacaciones de verano, y a cambio recibirás toda mi ayuda con tus estudios.
-
-Me vi obligada a aceptar la propuesta de Aomi Tsukasa-san, si llegaba a reprobar de nuevo, mi vida, mi única oportunidad de seguir viviendo sola se desmoronaría,
-
-Tsukasa no solo es la chica mas guapa de la preparatoria también era la mas inteligente.
-
-Pero antes de que esto pasara la vi, descubri a Aomi Tsukasa-san besándose con otra chica en medio del parque.
-
-Tsukasa tenia Novia, pero eso no le impidio invadir activamente mi espacio personal, jugar conmigo de varias maneras problematicas.
-
-Aunque ambas semamos chicas, y no existan sentimientos romamnticos de por medio, incluso mi mejor amiga Yumi, se opuso a nuestra convivencia.
-
-Supongo que muchos podrian ver nuestra relacion como un engaño una infidelidad hacia Sayama-san la novia de Tsukasa, pero ella no lo vio de esa manera. Y mientras mis calificaciones mejoraban, poco a poco emepze a disfrutar mi nueva vida junto a Tsukasa.
-
-Se que a simple vitsa podra parecer una infidelidad, pero mientras no sienta nada por ella no habrá problema, ¿verdad?
-
-Siempre que me olvide del amor o acortar nuestra relación, todas podremos ser felices, ¿no?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-my-guilty-first-love-with-another-girls-girlfriend-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<content type="text">Onigawara Shouzou pasa sus días trabajando en un trabajo pesado en una empresa de TI, pero su vida cambia cuando, en una noche lluviosa, conoce a una diosa llamada Silvia, y eso no es una exageración, ¡es una verdadera diosa! Esa noche, ella se queda en el apartamento de Shouzou, y su creciente atracción mutua se hace más evidente a medida que avanza la noche ... Los siguientes 13 años de la vida de Shouzou pasan en un instante, y él no podría estar más feliz con su nuevo trabajo, bella esposa Silvia, tres hijas, y casa nueva. ¡Pero debido a algunas circunstancias desafortunadas, su casa y todos en ella son transportados a otro mundo lleno de magia y monstruos! Después de descubrir que no pueden regresar a su mundo durante al menos un año, Shouzou decide que debe apoyar a su familia de la única manera que sabe: ¡uniéndose al departamento de ventas de un gremio local!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1wonV8B2Koef_ykjfUT-VlA" type="text/html" title="Novel Project"/>
 </entry>
 <entry>
-<title>Senpai, Will You Cheat With Me? Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-senpai-will-you-cheat-with-me-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-senpai-will-you-cheat-with-me-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/04/Senpai-Will-You-Cheat-With-Me-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/04/Senpai-Will-You-Cheat-With-Me-Portada.jpg"/>
-<author><name>Asahi Chihaya</name></author>
+<title>Black Summoner‎‎ Novela Ligera en Español</title>
+<id>https://nextnovels.com/black-summoner-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/black-summoner-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/06/01-22.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/06/01-22.jpg"/>
+<author><name>Mayoi Doufu</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
 <category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="NTR" label="NTR"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Magia" label="Magia"/>
 <category term="Romance" label="Romance"/>
-<category term="Yandere" label="Yandere"/>
-<content type="text">Un día, el estudiante de secundaria Toshiya Naegi presencia accidentalmente la salida de su novia, Airi Tsukimiya, y su compañero de clase y mejor amigo, Shintaro Nakajo, de un hotel del amor.
-
-Toshiya queda devastado por la infidelidad. Justo entonces, Rinka, la hermana menor de Shintaro y estudiante de segundo año, aparece ante él.
-
-«Senpai, ¿por qué no tienes una aventura conmigo?».*
-
-Le propone un plan de venganza para hacerle sufrir el mismo dolor.
-
-Al principio, Toshiya se niega, pero ya no puede resistirse a los insistentes avances de Rinka, y terminan en una relación demasiado profunda como para dar marcha atrás...
-
-¡La comedia romántica de «venganza» prohibida entre «yo», a quien le robaron a su novia, y una estudiante de segundo año yandere comienza aquí!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-senpai-will-you-cheat-with-me-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<category term="Seinen" label="Seinen"/>
+<content type="text">Al despertarse en un nuevo y extraño lugar sin recordar su vida pasada, Kelvin se entera de que ha intercambiado esos mismos recuerdos a cambio de nuevas y poderosas habilidades durante su reciente transmigración. Se adentra en un mundo completamente nuevo como Invocador, y su primer seguidor es la misma diosa que lo trajo. - Kelvin comienza su nueva vida como aventurero, y no tarda en descubrir su disposición oculta como adicto a la batalla. Desde el Caballero Negro del Antiguo Castillo de los Espíritus Malignos hasta el demonio de la Cueva Oculta del Sabio, se deleita en la lucha contra un enemigo formidable tras otro. Únete a este aventurero poderoso en una saga estimulante y épica mientras él y sus aliados se abren camino en los registros de la historia.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1Wlt6o1KpNae0ODqUuiW57g" type="text/html" title="JmCrap Translations y Legends no Fansub"/>
+</entry>
+<entry>
+<title>Brave Chronicle The Ruinmaker Novela Ligera en Español</title>
+<id>https://nextnovels.com/brave-chronicle-the-ruinmaker-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/brave-chronicle-the-ruinmaker-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/06/01-27.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/06/01-27.jpg"/>
+<author><name>Kenya Atsui</name></author>
+<category term="Aventura" label="Aventura"/>
+<category term="Batalla" label="Batalla"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Magia" label="Magia"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Conoce a Kurono Kokuya, un estudiante del rango más bajo de la Academia de la Puerta Estelar, el centro de entrenamiento de vanguardia para hechiceros estelares, los seres que utilizan la hechicería estelar para proteger la Tierra de las invasiones de otros mundos. Su amigo de la infancia, Yukihime Yukigane, resulta ser el hechicero estelar más fuerte del mundo, y ella nunca le deja olvidar ese hecho. Un día, sus días de paz se ven interrumpidos por una poderosa amenaza de otro mundo. Kokuya y Yukihime están en primera línea, arriesgando sus vidas para proteger a sus seres queridos, pero ¿serán capaces de derrotar al Señor Rojo Oscuro y a sus crueles secuaces?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com#Volumenes" type="text/html" title="HiroLsn"/>
+</entry>
+<entry>
+<title>Fate/Labyrinth Novela Ligera en Español</title>
+<id>https://nextnovels.com/fate-labyrinth-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/fate-labyrinth-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/09/Fate-Labyrinth-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/09/Fate-Labyrinth-Portada.jpg"/>
+<author><name>Hikaru Sakurai</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Magia" label="Magia"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Manaka Sajyou, una existencia conectada a Akasha, es incapaz de experimentar fenómenos como el cambio y la sorpresa, por lo que desea intentar "soñar". Ella envía su conciencia a través de la parte trasera del Mundo, más allá del fin del mundo, y a un tiempo y espacio diferentes. Acaba en un laberinto, que alberga una variante de la Guerra del Santo Grial, en la que cuatro Sirvientes y Maestros intentan llegar al fondo. Manaka posee el cuerpo de un Maestro que había invocado a un Rey Arturo femenino. Saber interactúa con Manaka, mientras que Manaka y el Maestro original se ven al mirarse en un espejo.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1oUb9ZlZWikCGFBZ6-tXTdw" type="text/html" title="Bar Ahnenerbe"/>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/fate-lost-einherjar-novela-ligera-en-espanol/" type="text/html" title="Fate/Lost Einherjar"/>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/fate-zero-novela-ligera-en-espanol/" type="text/html" title="Fate/Zero"/>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fate-strange-fake-novela-ligera-en-espanol/" type="text/html" title="Fate/Strange Fake"/>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fate-apocrypha-novela-ligera-en-espanol/" type="text/html" title="Fate/Apocrypha"/>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fate-prototype-novela-ligera-en-espanol/" type="text/html" title="Fate/Prototype"/>
+</entry>
+<entry>
+<title>Fate/Requiem Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-fate-requiem-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-fate-requiem-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-16.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-16.jpg"/>
+<author><name>Hoshizora Meteo</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Magia" label="Magia"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Una vez, hubo una gran guerra. La guerra terminó, y el mundo se volvió pacífico. Ahora, cualquiera tiene un "Santo Grial" y convoca a un sirviente atado a su destino. Sólo hay una chica, Utsumi Erice, que no tiene uno. Esta chica se encuentra con el último Siervo convocado en el mundo, un chico. Pero no tiene ni idea de cuál será su destino.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1_r-VZ_McoNcE1oaRzJf_Jw" type="text/html" title="Bar Ahnenerbe"/>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/fate-zero-novela-ligera-en-espanol/" type="text/html" title="Fate/Zero"/>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fate-strange-fake-novela-ligera-en-espanol/" type="text/html" title="Fate/Strange Fake"/>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fate-apocrypha-novela-ligera-en-espanol/" type="text/html" title="Fate/Apocrypha"/>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fate-prototype-novela-ligera-en-espanol/" type="text/html" title="Fate/Prototype"/>
+</entry>
+<entry>
+<title>Kenja no Deshi wo Nanoru Kenja Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-kenja-no-deshi-wo-nanoru-kenja-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-kenja-no-deshi-wo-nanoru-kenja-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/11/01-28.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/11/01-28.jpg"/>
+<author><name>Ryuusen Hirotsugu</name></author>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Gender Bender" label="Gender Bender"/>
+<category term="Magia" label="Magia"/>
+<category term="Romance" label="Romance"/>
+<content type="text">En un VRMMORPG de origen misterioso, Sakimori Kagami con su digno personaje, ostentaba el titulo de ser uno de los Nueve Sabios, lo que lo colocaba en el pináculo de los magos. Un día para no dejar que se desperdiciara su saldo del juego, compro el articulo más barato, el cual permitía modificar la apariencia del personaje, y se le ocurrió la idea de crear el personaje femenino ideal, debido a que ya había creado el masculino, al final de esto, una repentina somnolencia lo atacó, al despertar se encontraba en un mundo más realista que el del juego y se había transformado en una linda jovencita. Por lo que ahora tiene que adaptarse a este mundo con su nueva identidad y genero.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1_UBp-V40WfKAMa4dxyzA4g" type="text/html" title="Ferindrad"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1ZnAqQiMP-MmTdJHplLDLJg" type="text/html" title="LNBytes"/>
+</entry>
+<entry>
+<title>Mahou Tsukai no Yome Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-mahou-tsukai-no-yome-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-mahou-tsukai-no-yome-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/09/Mahou-Tsukai-no-Yome-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/09/Mahou-Tsukai-no-Yome-Portada.jpg"/>
+<author><name>Kore Yamazaki</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Magia" label="Magia"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">El mundo de The Ancient Magus' Bride es más grande que el de Elías y Chise, y muchos son los personajes y espíritus que se cruzan en el camino de sus vidas. Sus historias se enroscan en un tapiz, palabras como hilo de oro, un tejido de recuerdos y secretos. En estas páginas se incluyen nuevas historias de la fantástica Gran Bretaña de Kore Yamazaki, escritas por la propia autora y por un grupo de estrellas de la literatura japonesa. Desde un vampiro celta enamorado de un humano, hasta un caballero de las piedras preciosas, e incluso un vistazo a lo que Silky hace en su tiempo libre, deja que esta colección encantada te lleve a los rincones ocultos de un amado mundo de fantasía.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/11ZelZe2OTdlA-eeBkvAb4A" type="text/html" title="True Flames Project y Next Novels (MTL)"/>
+</entry>
+<entry>
+<title>Majutsu no Hate wo Motomeru Dai Majutsushi Novela Ligera en Español</title>
+<id>https://nextnovels.com/majutsu-no-hate-wo-motomeru-dai-majutsushi-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/majutsu-no-hate-wo-motomeru-dai-majutsushi-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/03/Majutsu-no-Hate-wo-Motomeru-Dai-Majutsushi-Portada.jpeg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/03/Majutsu-no-Hate-wo-Motomeru-Dai-Majutsushi-Portada.jpeg"/>
+<author><name>Matsue Fukuyama</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Fantasía Oscura" label="Fantasía Oscura"/>
+<category term="Harem" label="Harem"/>
+<category term="Magia" label="Magia"/>
+<content type="text">Tras un reinado cruel y calculado, Kai Lekius, el Rey Sanguinario, trajo la estabilidad y la paz a su antaño fragmentada tierra. Así comenzó su letargo mortal mientras esperaba el surgimiento de la magia, dejando el resto en las capaces manos de su hermano. Trescientos años después, despierta como un Sangre Verdadera, un vampiro inmortal de inmenso poder. Sin embargo, incluso después de todo ese tiempo, ¡la magia no ha progresado en absoluto! Un sistema de nobleza, que él no recuerda haber establecido, tiraniza a los débiles y cansados del nuevo mundo. Aunque le disgusta enormemente, Kai debe posponer una vez más sus estudios y ¡salvar a su pueblo de una vez por todas!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/19SG1VDNceONrGNSYSNq3KQ" type="text/html" title="Ilusion Shuri Novels"/>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1UYQaK6A86-unJuO-LM88Aw" type="text/html" title="World Project"/>
+</entry>
+<entry>
+<title>Strongest Survival by Otome Game’s Heroine Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-strongest-survival-by-otome-games-heroine-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-strongest-survival-by-otome-games-heroine-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/09/Otome-Game-no-Heroine-de-Saikyou-Survival-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/09/Otome-Game-no-Heroine-de-Saikyou-Survival-Portada.jpg"/>
+<author><name>Harunohi Biyori</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Magia" label="Magia"/>
+<category term="Yuri" label="Yuri"/>
+<content type="text">Una chica llamada Alicia vivió como huérfana en un mundo de espada y magia, Ciel. Un día, se enteró de que era «la heroína de un juego otome». Incluso la muerte de sus padres fue simplemente parte del escenario. Alicia juzgó el escenario de la heroína como «absurdo» y lo descartó decisivamente. Se presentó como aventurera «Aria», gradualmente dominó múltiples armas y magia, ¡y creció hasta convertirse en la «¡Princesa de la Masacre coronada por cenizas!» Pero, al aceptar una solicitud para proteger a la «villana», antes de que ella se diera cuenta, fue arrastrada al escenario donde los nobles se peleaban contra todos los demás —？-Yo soy… «yo»… ¡Yo no soy un personaje del juego! ¡Crea armas! ¡Entrena el cuerpo!¡Sobrevive a la lucha contra enemigos poderosos y aplasta el juego otome!¡Una fantasía de batalla sublime y estimulante de otro mundo con una encantadora heroína de luchando!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1vUj38j_ro7-CDEivLDnXoQ" type="text/html" title="Hitoribocchi translation y Kyūden Translation"/>
 </entry>
 </feed>

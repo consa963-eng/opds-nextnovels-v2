@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Sorano Kazuki</id>
+<title>Sorano Kazuki</title>
+<updated>2026-10-21T00:13:50.715502+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-885.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>Isekai Quest wa Houkago ni! Novela Ligera en Español</title>
+<id>https://nextnovels.com/isekai-quest-wa-houkago-ni-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/isekai-quest-wa-houkago-ni-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/12/Isekai-Quest-wa-Houkago-ni-Portada.jpeg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/12/Isekai-Quest-wa-Houkago-ni-Portada.jpeg"/>
+<author><name>Sorano Kazuki</name></author>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">¡Tsugami Kazaya es un experimentado espadachín que a diario viaja a otro mundo mientras asiste a la escuela! Luego de cierto incidente, terminó entrenando a una estudiante de último año de su escuela, la bella Mikoto Chihiro, sobre los principios básicos de la aventura. Tras eso, Chihiro, que por lo general era tranquila e indiferente, ¿¡comenzó a mostrar su autentica y brillante personalidad solo a Kazaya!? “¡Lo hice! ¡Lo hice, Tsugami-kun! ¡Pude matarlo!” “S-Senpai, ¿no crees que tu personalidad ha cambiado demasiado?” ¡La Tierra y el otro mundo, una comedia romántica y una historia de aventuras, los dos viajan constantemente entre ambos! ¡Es el comienzo de una nueva historia de fantasía después de la escuela!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1r8E5mlTHrMR3gLK81HyUog" type="text/html" title="Novel Project"/>
+</entry>
+</feed>

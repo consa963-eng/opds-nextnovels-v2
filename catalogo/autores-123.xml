@@ -1,27 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Hikaru Sugii</id>
-<title>Hikaru Sugii</title>
-<updated>2026-10-20T22:58:27.554434+00:00</updated>
+<id>nextnovels:autores:Cobkubo Shinji</id>
+<title>Cobkubo Shinji</title>
+<updated>2026-10-21T00:13:50.590567+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-123.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Paradise Noise Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-paradise-noise-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-paradise-noise-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/01/Paradise-Noise-Portada.jpeg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/01/Paradise-Noise-Portada.jpeg"/>
-<author><name>Hikaru Sugii</name></author>
+<title>Sabikui Bisco Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-sabikui-bisco-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-sabikui-bisco-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/11/Sabikui-Bisco-Portada.webp"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/11/Sabikui-Bisco-Portada.webp"/>
+<author><name>Cobkubo Shinji</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
 <category term="Comedia" label="Comedia"/>
 <category term="Drama" label="Drama"/>
-<category term="Harem" label="Harem"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Aún puedo sentir el sonido de la música que se tocó en ese lugar, en ese día.
+<category term="Fantasía" label="Fantasía"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">Tokio quedó arrasada tras una catástrofe, y lo único que queda de ella es un paisaje desértico. Desde esta catástrofe, se ha extendido una nueva enfermedad en la que la gente empieza a oxidarse cada vez más. Se responsabiliza de ello a las esporas de los hongos. Como «guardián de los hongos», Bisco Akaboshi los propaga, por lo que la gente lo considera un criminal e incluso han puesto una recompensa por su cabeza. Va armado con un arco y una flecha, pero no los utiliza para matar, porque las setas crecen allí donde impactan sus flechas. En realidad, los hongos no propagan el nuevo tipo de enfermedad, sino que enriquecen la tierra devastada y la ayudan a recuperar su esplendor original.
 
-Por capricho, subí un video musical donde llevaba ropa de mujer, pero inesperadamente me hice famoso como una misteriosa músico net de secundaria (a pesar de ser un chico). No pensé que me descubrirían ya que mi rostro no se mostraba, pero mi profesora de música de secundaria – Hanazono Misao – descubrió mi secreto y utilizó esa información para chantajearme.
-
-Y luego, gracias a las tres chicas que conocí a través de Hanazono-sensei – la pianista genio loca Rinko, la baterista princesa de arreglos florales Shizuki, y la vocalista Zashiki-Warashi Akane – mi vida de secundaria gris, apagada y tranquila se llenó de ruido colorido y problemas.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-paradise-noise-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+El doctor Milo Nekoyanagi intenta por todos los medios encontrar una cura para la enfermedad y salvar así a su hermana Pawoo. Cualquier ingrediente le sirve, incluso las odiadas setas, que en realidad se comercializan en el mercado negro. Y así los caminos de Bisco y Milo pronto se cruzan..</content>
+<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1jrJn2ntV0FcApDx03PLBcw" type="text/html" title="El Colombiano Neet"/>
 </entry>
 </feed>

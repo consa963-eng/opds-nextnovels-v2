@@ -1,40 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Ariyama Ryou</id>
-<title>Ariyama Ryou</title>
-<updated>2026-10-20T22:58:27.539065+00:00</updated>
+<id>nextnovels:autores:Akizuki Asuka</id>
+<title>Akizuki Asuka</title>
+<updated>2026-10-21T00:13:50.577368+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-44.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>A History of the Romelia Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-a-history-of-the-romelia-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-a-history-of-the-romelia-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/A-History-of-the-Romelia-Portada-1.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/09/A-History-of-the-Romelia-Portada-1.jpg"/>
-<author><name>Ariyama Ryou</name></author>
-<category term="Acción" label="Acción"/>
+<title>Light Beyond Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-light-beyond-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-light-beyond-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/04/Light-Beyond-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/04/Light-Beyond-Portada.jpg"/>
+<author><name>Akizuki Asuka</name></author>
 <category term="Aventura" label="Aventura"/>
-<category term="Drama" label="Drama"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Seinen" label="Seinen"/>
-<content type="text">¡Resurgiendo de las cenizas, una noble caída se alza para salvar a la humanidad!
+<category term="Romance" label="Romance"/>
+<category term="Shoujo" label="Shoujo"/>
+<content type="text">«¿Qué clase de farsa es esta? ¿Es alguna nueva forma de tormento?».
 
-"Condesa Romelia. Rompo nuestro compromiso", declaró el príncipe Henri, justo después de derrotar al Rey Demonio. Junto al príncipe estaban La santa de la Iglesia Elizabeth, la sabia del Bosque sin retorno Ekaterina, y la espadachina oriental Ryoki, quienes la acusaban de ser "inútil".
+Yuna, una sencilla chica de pueblo, perdió repentinamente su vida cotidiana. Tras recibir una petición de una misteriosa luz en un mundo blanco y brillante, Yuna se encuentra en el cuerpo de una hermosa santa.
 
-Pero el príncipe y sus compañeros ignoraban algo. Desconocían que Romelia poseía un poder milagroso llamado "Gracia", que otorgaba buena fortuna.
+Sin embargo, lo que la esperaba allí era la mirada despectiva del prometido de la santa, el Primer Caballero Sagrado Asyut; la fría indiferencia de sus sirvientes; y la tensa atmósfera de todo el palacio.
 
-Tras perder a su prometido y ser abandonada por sus amigos, Romelia no se rindió. Su tierra natal seguía infestada por las fuerzas del Rey Demonio, y muchos eran prisioneros de la raza demoníaca. Para rescatarlos, Romelia emprendió una misión, encontrando numerosas dificultades en el camino.
-
-Para empezar, no tenía ejército. No había curanderos para atender las heridas y carecía de fondos. Pero Romelia estaba decidida a resolver cada problema con determinación.
-
-"¿Sin ejército? Intimidemos a los señores locales y tomemos sus fortalezas".
-
-"¿Sin curanderos? Negociemos con la iglesia para obtener su ayuda".
-
-"¿Sin dinero? Negociemos con los mercaderes para conseguir fondos".
-
-"¿Los soldados recién reclutados son inexpertos? Que adquieran experiencia cazando monstruos".
-
-Y así, Romelia, junto con sus fieles seguidores, ¡marchó hacia la batalla!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-a-history-of-the-romelia-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Yuna, sola en su confusión paralizante, sigue intentando cumplir con su deber como sustituta de la santa, hasta que una noche descubre los pecados de la santa más allá de la escalera de caracol...</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1gTelpRdGJObbC1ikGu1wNQ" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 </feed>

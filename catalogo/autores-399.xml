@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Riku Nanano</id>
-<title>Riku Nanano</title>
-<updated>2026-10-20T22:58:27.611036+00:00</updated>
+<id>nextnovels:autores:Kazanami Shinogi</id>
+<title>Kazanami Shinogi</title>
+<updated>2026-10-21T00:13:50.636431+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-399.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Sousei no Tenken Tsukai Novela Ligera en Español</title>
-<id>https://nextnovels.com/sousei-no-tenken-tsukai-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/sousei-no-tenken-tsukai-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/03/Sousei-no-Tenken-Tsukai-Portada-1.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/03/Sousei-no-Tenken-Tsukai-Portada-1.jpg"/>
-<author><name>Riku Nanano</name></author>
+<title>The New Gate Novela Ligera en Español</title>
+<id>https://nextnovels.com/the-new-gate-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/the-new-gate-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/07/The-New-Gate-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/07/The-New-Gate-Portada.jpg"/>
+<author><name>Kazanami Shinogi</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Drama" label="Drama"/>
+<category term="Aventura" label="Aventura"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Romance" label="Romance"/>
-<content type="text">En su vida pasada, Chou Sekiei fue el invicto héroe de guerra Kou Eihou. Sin presiones, ¿verdad? Ahora, mil años después, lo único que quiere es conseguir un buen y cómodo trabajo como funcionario civil y tener una vida tranquila. Lástima que aún tenga una destreza en la lucha que no puede explicar. Lástima que de niño fuera acogido por un renombrado general y entrenado junto a Chou Hakurei, famosa por su talento y belleza. Sekiei estaba deseando disfrutar un poco de paz y tranquilidad para poder relajarse y leer, pero cuando la nación extranjera de Gen lanza una invasión que desencadena la guerra, se ve obligado a dejar los libros. Con el poder de unas habilidades que esperaba no volver a utilizar, Sekiei tendrá que hacerse un nombre una vez más en el campo de batalla… ¿Bastarán él y sus amigos para salvar su patria?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/sousei-no-tenken-tsukai-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<category term="Harem" label="Harem"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">«The New gate», un juego online que se había convertido en un juego de la muerte, ahora estaba liberando a las decenas de miles de jugadores que habían sido arrastrados, gracias a los esfuerzos de Shin, uno de los jugadores más antiguos. Pero después de haber derrotado al último jefe y liberado a todos, fue tragado por una luz extraña y se encontró dentro del mundo del juego 500 años en el futuro.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1QrGB8J6772vEyh3GtkLSIQ" type="text/html" title="MouseTail"/>
 </entry>
 </feed>

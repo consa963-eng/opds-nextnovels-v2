@@ -1,25 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Fuyutsuki Koki</id>
-<title>Fuyutsuki Koki</title>
-<updated>2026-10-20T22:58:27.547386+00:00</updated>
+<id>nextnovels:autores:Aruku Sakana</id>
+<title>Aruku Sakana</title>
+<updated>2026-10-21T00:13:50.584566+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-87.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>I Abandoned My Engagement Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-i-abandoned-my-engagement-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-i-abandoned-my-engagement-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/I-Abandoned-My-Engagement-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/06/I-Abandoned-My-Engagement-Portada.jpg"/>
-<author><name>Fuyutsuki Koki</name></author>
+<title>Itsumo Baka ni Shitekuru Bishoujo-tachi to Zetsuen Shitara, Jitsuha Ore no Koto ga Daisuki datta You da Novela Ligera en Español</title>
+<id>https://nextnovels.com/itsumo-baka-ni-shitekuru-bishoujo-tachi-to-zetsuen-shitara-jitsuha-ore-no-koto-ga-daisuki-datta-you-da-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/itsumo-baka-ni-shitekuru-bishoujo-tachi-to-zetsuen-shitara-jitsuha-ore-no-koto-ga-daisuki-datta-you-da-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/05/Itsumo-Baka-ni-Shitekuru-Bishoujo-tachi-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/05/Itsumo-Baka-ni-Shitekuru-Bishoujo-tachi-Portada.jpg"/>
+<author><name>Aruku Sakana</name></author>
 <category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
 <category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">¡La novela ligera que inspiró el manga!
+<content type="text">“Quiero que terminemos”
 
-Una santa bajo escrutinio se ve obligada a vivir bajo la atenta mirada de un príncipe obsesionado con la justicia en este romance de fantasía.
+En el invierno del primer año de preparatoria, Yuta Miyamoto, que trató de ser amable con las personas terminó con su novia Yumi Asakawa.
 
-La vida de Leia da un vuelco cuando su hermana menor afirma que es una villana cruel. Su prometido rompe su compromiso, dejándola sin otra opción que entregarse a sus deberes de santa. Pero al ser confrontada por el recto príncipe heredero Erik, se encuentra bajo su escrutinio. Él está decidido a descubrir su verdadera naturaleza, pero ¿por qué implica vivir en el palacio con él?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-i-abandoned-my-engagement-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Ella trabajaba como modelo y eligió salir con un actor en lugar de continuar su relación con su amigo de la infancia Yuta.
+
+Y ahora, si bien las heridas de su corazón hecho mil pedazos todavía no han sanado, Akane Kurosaki, su kouhai, con quien debería haber formado una buena relación le dijo:
+
+“Es por esas cosas que no puedes tener una novia”
+
+Sí, ella siempre se burlaba de Yuta.
+
+Por otro lado, su maid favorita, lo insultaba cada vez que él iba al maid-café con las intenciones de pasar un agradable momento tras la ruptura de su novia.
+
+Lo lastiman y se burlan de él por solo ser siempre amable.
+
+Pero cansado de todo eso y fastidiado consigo mismo, decide alejarse de su exnovia, su kouhai y su maid favorita, sin embargo, la respuesta de las chicas que se burlaban de él fue muy diferente a lo que él esperaba. ¡Esta es una historia que comienza con “el perdón”!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1kIrbqUOJwssDx6FGzp_fcg" type="text/html" title="Tamashi’s Project"/>
 </entry>
 </feed>

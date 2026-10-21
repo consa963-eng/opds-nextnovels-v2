@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Tatsuya Hamasaki</id>
+<title>Tatsuya Hamasaki</title>
+<updated>2026-10-21T00:13:50.727418+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-954.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>Saint Seiya: Gigantomachia Novela Ligera en Español</title>
+<id>https://nextnovels.com/saint-seiya-gigantomachia-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/saint-seiya-gigantomachia-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-55.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-55.jpg"/>
+<author><name>Tatsuya Hamasaki</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">En los primeros tiempos de la mitología, la diosa Athena con el apoyo de los Caballeros (También llamados Santos), libraron incontables guerras para proteger el amor y la justicia del mundo, y en una de estas batallas se enfrentaron contra adversarios temibles conocidos como Gigas, quienes seguían al dios Tifón. Al final de esa terrible guerra, Tifón y los Gigas fueron finalmente derrotados y sellados bajo el Monte Etna en Sicilia.
+
+En el siglo XX el Santuario de Athena vive finalmente días de paz después de las terribles batallas, el tiempo ha pasado desde la rebelión de Saga, los Caballeros de Bronce y Plata aún vivos aprovechan de un reposo bien merecido hasta que una noche un nuevo incidente se produce.
+
+Los Gigas han vuelto con un solo objetivo, extender la sangre y la muerte, haciéndoselo saber a su enemigo ancestral: Athena; están vestidos con sus sólidas armaduras llamadas Adamas (que suelen ser tan sólidas y duras como el mismísimo diamante) y para lograr sus planes necesitan primero resucitar a su dios Tifón...</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com#Volumenes" type="text/html" title="Imagenes Kaiju"/>
+</entry>
+</feed>

@@ -1,37 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Shijiman</id>
-<title>Shijiman</title>
-<updated>2026-10-20T22:58:27.621610+00:00</updated>
+<id>nextnovels:autores:Ko Hiratori</id>
+<title>Ko Hiratori</title>
+<updated>2026-10-21T00:13:50.644250+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-448.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Goodbye, My Destined One. Let’s Meet Two Days Before Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-goodbye-my-destined-one-lets-meet-two-days-before-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-goodbye-my-destined-one-lets-meet-two-days-before-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/Goodbye-My-Destined-One.-Lets-Meet-Two-Days-Before-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/02/Goodbye-My-Destined-One.-Lets-Meet-Two-Days-Before-Portada.jpg"/>
-<author><name>Shijiman</name></author>
-<category term="Romance" label="Romance"/>
-<category term="Suspenso" label="Suspenso"/>
-<content type="text">Se suponía que era por ella, por la mujer que amo.
+<title>JK Haru wa Isekai de Shōfu ni Natta Novela Ligera en Español</title>
+<id>https://nextnovels.com/jk-haru-wa-isekai-de-shofu-ni-natta-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/jk-haru-wa-isekai-de-shofu-ni-natta-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-75.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-75.jpg"/>
+<author><name>Ko Hiratori</name></author>
+<category term="Adulto" label="Adulto"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Fantasía" label="Fantasía"/>
+<content type="text">La estudiante de secundaria Haru Koyama y su compañero de clase Seiji Chiba mueren en un accidente de tráfico y son teletransportados juntos a otro mundo. Mientras Chiba se convierte en un aventurero y sale a matar monstruos, Haru descubre que las mujeres no pueden tener poderes especiales en el nuevo mundo, por lo que decide ganarse la vida como trabajadora sexual.
 
-Hasta que caiga en el 4bism0, esto no terminará.
-
-Se abre el telón de unos "dos días" cíclicos que erosionan la cordura.
-
-Shuujun Kurata es un joven que posee el poder de ‘regresar de la mu3rt3’. Para salvar a su novia, Kotoka Sumi, repite los mismos dos días una y otra vez junto a Yato Tsugahara, otra chica que también es consciente del salto temporal.
-
-Sin embargo, no importa cuántas veces lo intente, Kotoka mu3re. Mientras Shuujun se desespera ante un destino de mu3rt3 inevitable, el v3nen0 de Yato comienza a acecharlo:
-
-"Disfrutemos cada día juntos. Vamos a divertirnos hasta que vacíes tu mente".
-
-"Yo haré que te olvides de esa tal Sumi-san."
-
-Kotoka m0r1rá. De todos modos, el mundo volverá a reiniciarse. Una vez que todo vuelva a empezar, ellos dos serán los únicos que lo recuerden. Si es así entonces...
-
-"Sigamos con el salto temporal. Así, nadie recordará nada."
-
-Salto temporal × Romance × Suspenso. Comienzan unos ‘dos días’ dulces, provocadores y r3torc1dos.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-goodbye-my-destined-one-lets-meet-two-days-before-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+El volumen "Summer" es la secuela del primer volumen, formado por una colección de historias cortas, narrando lo que le pasó a Haru luego de la historia principal.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com#Volumenes" type="text/html" title="Ferindrad"/>
 </entry>
 </feed>

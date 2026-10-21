@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:toshizou</id>
-<title>toshizou</title>
-<updated>2026-10-20T22:58:27.640592+00:00</updated>
+<id>nextnovels:autores:Mamoru Hosoda</id>
+<title>Mamoru Hosoda</title>
+<updated>2026-10-21T00:13:50.657418+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-531.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Yuri Tama Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-yuri-tama-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-yuri-tama-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/06/Yuri-Tama-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/06/Yuri-Tama-Portada.jpg"/>
-<author><name>toshizou</name></author>
-<category term="Comedia" label="Comedia"/>
+<title>Wolf Children Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-wolf-children-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-wolf-children-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/03/Ookami-Kodomo-no-Ame-to-Yuki-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/03/Ookami-Kodomo-no-Ame-to-Yuki-Portada.jpg"/>
+<author><name>Mamoru Hosoda</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<category term="Yuri" label="Yuri"/>
-<content type="text">Yuna Momose y Rinka Aiba están hechas la una para la otra, y todo el instituto lo sabe. Entre la elegancia principesca de Yuna y el encanto principesco de Rinka, todos sus compañeros las ven como la pareja ideal. Yotsuba Hazama no es una excepción, pero es excepcional en otro aspecto: ¡Se las ha arreglado para hacerse amiga de las dos! Sin embargo, tener a la pareja favorita de toda la escuela como sus dos mejores amigas no es precisamente fácil. No sólo hace que todo el mundo trate a Yotsuba como la odiosa tercera en discordia, sino que ella también se siente como tal. O al menos así es, hasta que un día, Yuna la invita a salir. Y entonces Rinka también la invita a salir.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-yuri-tama-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<content type="text">Cuando Hana se enamora de un joven intruso que encuentra en su clase universitaria, lo último que espera descubrir es que él es parte lobo. En lugar de rechazar a su amante al conocer su secreto, lo acepta con los brazos abiertos. Pronto, la pareja espera a su primer hijo, y se despliega una cálida imagen de la vida familiar. Pero después de lo que parece un momento de dicha para Hana, el padre de sus hijos es trágicamente arrebatado. La vida como madre soltera es difícil en cualquier situación, pero cuando tus hijos caminan por la delgada línea entre el hombre y la bestia, las reglas de la crianza casi se desvanecen. Sin nadie a quien recurrir, ¿cómo sobrevivirá Hana?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1io5F5rxIuiHYmFMy3ycgAw" type="text/html" title="MangaProject Español"/>
 </entry>
 </feed>

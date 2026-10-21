@@ -1,37 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Asakura Neru</id>
-<title>Asakura Neru</title>
-<updated>2026-10-20T22:58:27.539632+00:00</updated>
+<id>nextnovels:autores:Alto</id>
+<title>Alto</title>
+<updated>2026-10-21T00:13:50.577813+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-47.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>I Am Better than Him, Right? Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-i-am-better-than-him-right-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-i-am-better-than-him-right-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/01/I-Am-Better-than-Him-Right-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/01/I-Am-Better-than-Him-Right-Portada.jpg"/>
-<author><name>Asakura Neru</name></author>
-<category term="Ecchi" label="Ecchi"/>
+<title>Zensei wa Ken Mikado. Konjou Kuzu Ouji Novela Ligera en Español</title>
+<id>https://nextnovels.com/zensei-wa-ken-mikado-konjou-kuzu-ouji-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/zensei-wa-ken-mikado-konjou-kuzu-ouji-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/11/Zensei-wa-Ken-Mikado.-Konjou-Kuzu-Ouji-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/11/Zensei-wa-Ken-Mikado.-Konjou-Kuzu-Ouji-Portada.jpg"/>
+<author><name>Alto</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Psicológico" label="Psicológico"/>
 <category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<category term="Yuri" label="Yuri"/>
-<content type="text">Esa chica… ha encontrado a un chico que le gusta. ¡Antes de que se le confiese, tengo que hacerla mía!
+<category term="Shounen" label="Shounen"/>
+<content type="text">Había una vez un espadachín que empuñaba la espada, vivía por la espada y moría por la espada.
 
-「Creo que... me he enamorado de alguien…」
+Después de días y meses de batalla, el espadachín eligió la muerte por su propia voluntad, pero renació como Fay Hanse Diestburg, el tercer príncipe del reino de Diestburg.
 
-¿Eh? Al escuchar esas palabras, el alma de Mizusawa Kano casi salió disparada.
+Queriendo distanciarse de su vida pasada donde vivía como poseído por la espada, Fay decidió llevar una vida de derrochador, ganándose el apodo de: «Príncipe Basura.»
 
-Su amiga de la infancia, la chica Horimiya Nene. Con su encantador y suave cabello ondulado hasta los hombros, buena en todo excepto en deportes, excelente en los estudios, hogareña y atenta… y ahora decía que le gustaba un chico.
+Sin embargo, un día, debido a un pacto con la casa real de Afillis del reino vecino, Fay es enviado a la guerra, liderando tropas de refuerzo. En el campo de batalla, Fay es testigo de una escena de desesperación, ya que el «Héroe», una existencia con un poder que rivaliza con decenas de miles, arrasó el campo de batalla.
 
-Kano estaba enamorada de Nene.
-
-A pesar de ser dos chicas, Nene se había convertido sin que se diera cuenta en alguien más que una simple amiga. Y aun así… ¿qué debería hacer? ¿Cómo podría dejar que Nene se fuera? Tras darle vueltas y más vueltas, los pensamientos de Kano tomaron un giro realmente extraño.
-
-Eso fue:
-
-"¡Si no puedo tener su corazón… entonces su cuerpo si…!
-
-Así comenzó la un poco extrema y atrevida “Operación Conquista de Nene” de Kano..</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-i-am-better-than-him-right-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Fay consideró regresar al reino, pero la muerte de cierto caballero logró sacudir su corazón, por lo que decidió empuñar la espada una vez más — ¡empieza la leyenda del príncipe perezoso más fuerte!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1OTtfEpw5yGO7sjIr9Z59Pg" type="text/html" title="Hasu Translations, Next Novels (MTL)"/>
 </entry>
 </feed>

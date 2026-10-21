@@ -1,30 +1,121 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Hinoura Takumi</id>
-<title>Hinoura Takumi</title>
-<updated>2026-10-20T22:58:27.555363+00:00</updated>
+<id>nextnovels:autores:Daisuke Suzuki</id>
+<title>Daisuke Suzuki</title>
+<updated>2026-10-21T00:13:50.591525+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-128.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>I Got a New Skill Every Time I Was Exiled, and After 100 Different Worlds, I Was Unmatched Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-i-got-a-new-skill-every-time-i-was-exiled-and-after-100-different-worlds-i-was-unmatched-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-i-got-a-new-skill-every-time-i-was-exiled-and-after-100-different-worlds-i-was-unmatched-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/01/Tsuihou-Sareru-Tabi-ni-Skill-wo-Te-ni-Ireta-Ore-ga-100-no-Isekai-de-2-shuume-Musou-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/01/Tsuihou-Sareru-Tabi-ni-Skill-wo-Te-ni-Ireta-Ore-ga-100-no-Isekai-de-2-shuume-Musou-Portada.jpg"/>
-<author><name>Hinoura Takumi</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
+<title>Miyamoto Sakura ga Kawaii Dake no Shousetsu Novela Ligera en Español</title>
+<id>https://nextnovels.com/miyamoto-sakura-ga-kawaii-dake-no-shousetsu-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/miyamoto-sakura-ga-kawaii-dake-no-shousetsu-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/06/Miyamoto-Sakura-ga-Kawaii-Dake-no-Shousetsu-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/06/Miyamoto-Sakura-ga-Kawaii-Dake-no-Shousetsu-Portada.jpg"/>
+<author><name>Daisuke Suzuki</name></author>
 <category term="Comedia" label="Comedia"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Misterio" label="Misterio"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Harem" label="Harem"/>
 <category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
-<content type="text">Ed, un mercenario expulsado de 100 mundos diferentes y de 100 grupos de héroes, adquiere una poderosa "habilidad de expulsión" cada vez que es rechazado, y con el tiempo se convierte en el ser más fuerte.
+<category term="Supernatural" label="Supernatural"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Miyamoto Sakura es hermosa, no preguntes.
 
-Sin embargo, se entera de que el mundo al que fue expulsado ha tenido un trágico final.
+1) Ella se ve linda.
 
-Para salvar a Tia, una chica elfa que fue su compañera, Ed, ahora el más fuerte, decide reiniciar todo y volver a conquistar los 100 mundos.
+2) La forma en que sus expresiones cambian constantemente la hacen ver linda.
 
-¡Con su segunda oportunidad, hará uso completo de sus habilidades y su poder para arrasar nuevamente en estos 100 mundos, en una emocionante aventura de fantasía en un nuevo juego!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-i-got-a-new-skill-every-time-i-was-exiled-and-after-100-different-worlds-i-was-unmatched-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+3) Se excita fácilmente y eso es adorable.
+
+4) Todavía puede recordar la propuesta de cuando éramos pequeños.
+
+5) Sus tetas son sorprendentemente grandes… Y así, esta novela existe para admirarla, la novela más pura del mundo.
+
+Por cierto, mi nombre es Oogami Hikaru, soy el amigo de la infancia de Sakura y aparentemente la reencarnación de la Deidad nórdica Odín.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1iZ_Xwgi6J7pEIg6ZyW-vTw" type="text/html" title="Kurayami Scan"/>
+</entry>
+<entry>
+<title>Naannimo Dekinai Gal ga Yuiitsu Dekiru Koto Novela Ligera en Español</title>
+<id>https://nextnovels.com/naannimo-dekinai-gal-ga-yuiitsu-dekiru-koto-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/naannimo-dekinai-gal-ga-yuiitsu-dekiru-koto-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/06/Naannimo-Dekinai-Gal-ga-Yuiitsu-Dekiru-Koto-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/06/Naannimo-Dekinai-Gal-ga-Yuiitsu-Dekiru-Koto-Portada.jpg"/>
+<author><name>Daisuke Suzuki</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">"Permíteme hablar sobre el 'gran premio' que gané en la lotería.
+
+Primero, una gyaru se trasladó y se sentó a mi lado en la escuela.
+
+Segundo, mi padre se volvió a casar, convirtiendo a esa gyaru en mi hermanastra.
+
+Tercero, resulta que mi hermanastra es una artista divina, a quien idolatro.
+
+Es verdaderamente un golpe de suerte de un nivel casi trampa, pero la vida no es tan fácil.
+
+¡Ella no puede hacer nada más que dibujar! ¡Así que me toca a mí encargarme de todo, desde ayudarla a vestirse hasta acompañarla en el baño! ¿¡Pero a cambio, me dibuja ilustraciones según mis solicitudes!?!
+
+¡La convivencia con mi hermanastra, una gal divina, es el inicio del comedia romántica más envidiable del mundo!"</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1E2CEnTCTNMAjNr-ouBJWRQ" type="text/html" title="Bokugen Boys"/>
+</entry>
+<entry>
+<title>Never Ending Story Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-never-ending-story-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-never-ending-story-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/04/Monku-no-Tsukeyou-ga-Nai-Rabukome-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/04/Monku-no-Tsukeyou-ga-Nai-Rabukome-Portada.jpg"/>
+<author><name>Daisuke Suzuki</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Kanaruzawa Sekai, “el dios que vivió mil años”, es una hermosa chica de cabello plateado y ojos rojizos. Era pomposa, y no le prestaba mucha atención a sus alrededores. Y pese a su apariencia infantil, ella podía tolerar el alcohol y el tabaco, y pasaba los días leyendo libros en su mansión.
+
+Ofrecido como un “sacrificio vivo”, el estudiante de secundaria Kirishima Yuuki llegó a ella. Cuando se le dijo que ella le debía dar algo a cambio de ser el sacrificio, Kirishima dijo—: Kanaruzawa Sekai-san, cásate conmigo.
+
+Y así, empezaron a vivir juntos. Sin embargo, sus días sin paz ni amor fueron perturbados cuando el mundo entró en discordia debido a un terrible secreto que afectaba al mundo entero.
+
+¡Una comedia de amor puro, y una historia sin fin comienza ahora!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1r-l3bMwIOcF38NW_0QWDsw" type="text/html" title="Dark translation, Illusion Shuri Novels, Defous123"/>
+</entry>
+<entry>
+<title>Sodachi Zakari no Oshiego ga Yakeni Emoi Novela Ligera en Español</title>
+<id>https://nextnovels.com/sodachi-zakari-no-oshiego-ga-yakeni-emoi-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/sodachi-zakari-no-oshiego-ga-yakeni-emoi-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/04/Alternativo.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/04/Alternativo.jpg"/>
+<author><name>Daisuke Suzuki</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Ella es Tsubakiya Hinata, de 14 años.
+
+En cuanto a mí, Onodera Tatsuya, soy un profesor que acaba de asumir el cargo. Hinata es una estudiante y una antigua vecina mía.
+
+Debido a su rápido desarrollo, se ha vuelto más madura que sus compañeros, y por ello, Hinata se convierte rápidamente en el centro de falsos rumores.
+
+Pero en realidad, Hinata seguía siendo mucho más infantil de lo que parecía.
+
+«¡Oye onichan, cárgame, cárgame!»
+
+«No, no, no. ¿Qué sentido tiene envejecer y pedir que te carguen?»
+
+«¡¡No lo soporto!! ¿No me llevabas siempre en brazos? Vamos, cárgame!»
+
+En la etapa intermedia entre los adultos y los niños, sólo existe un destello fugaz en este momento.
+
+Para los que no tardaron en madurar, la luminosidad era tan tenue que apenas se notaba.
+
+«Por cierto, onii-san sigue siendo virgen, ¿Verdad?»
+
+«Cállate, ¿Por qué una niña se interesaría por esas cosas?»
+
+Luego, en algún momento, batirá sus alas y volará hacia nuevos horizontes. Así que al menos por ahora, quiero seguir cada paso del camino mientras pueda.
+
+Hoy, seguiré enfrentándome a Tsubakiya Hinata.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://miraik.nextnovels.com/novela-ligera/sodachi-zakari-no-oshiego-ga-yakeni-emoi-novela-ligera-en-espanol/" type="text/html" title="MiraiK"/>
 </entry>
 </feed>

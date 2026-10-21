@@ -1,34 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Yuuki Hiro</id>
-<title>Yuuki Hiro</title>
-<updated>2026-10-20T22:58:27.650576+00:00</updated>
+<id>nextnovels:autores:Mirai Miyamoto</id>
+<title>Mirai Miyamoto</title>
+<updated>2026-10-21T00:13:50.665941+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-583.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Sparks of Tomorrow Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-sparks-of-tomorrow-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-sparks-of-tomorrow-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/Sparks-of-Tomorrow-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/07/Sparks-of-Tomorrow-Portada.jpg"/>
-<author><name>Yuuki Hiro</name></author>
+<title>Naruto: Naruto Shinden Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-naruto-naruto-shinden-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-naruto-naruto-shinden-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/11/Naruto-Naruto-Shinden-Portada.jpeg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/11/Naruto-Naruto-Shinden-Portada.jpeg"/>
+<author><name>Mirai Miyamoto</name></author>
+<category term="Acción" label="Acción"/>
 <category term="Aventura" label="Aventura"/>
-<category term="Drama" label="Drama"/>
-<category term="Histórico" label="Histórico"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<content type="text">Quisiera que lo recordaras.
-
-La luz existe porque alguien la encendió.
-
-«¿Morirías conmigo y me llevarías al Paraíso de la Tierra Pura?».
-
-Año 40 de la era Meiji (1907). Verano. Inari Momokawa, que vive en Fushimi, Kioto, no consigue hacer nada bien y todos los días recibe las reprimendas de su padre. Su único consuelo es orar y creer en los dioses y en Buda. Cierto día, mientras junta las manos en el Santuario Fushimi Inari como de costumbre, conoce a un muchacho libre y despreocupado, Kihachi Sakamoto, quien escupe con desdén: «Yo no creo en lo que no se ve». Él niega a los dioses y a Buda, y proclama con orgullo que de ahora en adelante será la era de la electricidad.
-
-En esas circunstancias, a Inari le comunican de repente que han arreglado su matrimonio. Aunque es una decisión unilateral de su padre, ella se resigna pensando que ese es su escaso valor. Kihachi extrae de ella el verdadero deseo de escapar que oculta y la saca de la casa donde estaba encerrada.
-
-La única forma de impedir la boda es encontrar el extraño libro Denki Mokuroku. Se trata de un cuaderno de predicciones sobre la electricidad que Kihachi escribió de niño y que su hermano mayor, Seitarō, se llevó consigo tiempo atrás, quedando desde entonces en paradero desconocido. Kihachi e Inari buscarán el Denki Mokuroku mientras huyen por las tierras de Kioto y Shiga.
-
-El Denki Mokuroku desaparecido. El secreto que esconde es...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-sparks-of-tomorrow-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">En la Aldea de la Hoja se ha instaurado una nueva festividad: el Día de Padres e Hijos. Naruto, para complacer a su hija, se pasea de arriba abajo por toda la Aldea. Lo mismo le ocurre a Hinata, que viaja para complacer a Boruto. Y Sasuke también se desvive por complacer a Sarada y Sakura....</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1HCqDGBBJqmLb3jLmFdp2dw" type="text/html" title="Mi Castillo de Arena"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1mWmXDGjBU7JvyiGO56A8ow" type="text/html" title="ReloadVE"/>
 </entry>
 </feed>

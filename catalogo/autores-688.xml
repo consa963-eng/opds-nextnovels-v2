@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Nora Kohigashi</id>
+<title>Nora Kohigashi</title>
+<updated>2026-10-21T00:13:50.683458+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-688.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>I Could Never Be a Succubus! Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-i-could-never-be-a-succubus-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-i-could-never-be-a-succubus-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/01/Watashi-wa-Succubus-Jaarimasen-Portada-1.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/01/Watashi-wa-Succubus-Jaarimasen-Portada-1.jpg"/>
+<author><name>Nora Kohigashi</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Liz, una joven noble, es la alumna estrella de su academia: talentosa, refinada, generosa y la niña de los ojos de todos. Pero el día que un héroe legendario llega a la academia para convalecer, Liz, a su pesar, hace lo impensable... ¡Pide los calzoncillos del héroe!
+
+Resulta que Liz tiene un secreto. Era miembro del grupo del héroe hasta que le robaron todos sus recuerdos durante una batalla culminante, ¡incluido el hecho de que es un demonio del deseo conocido como súcubo! Apenas puede creerlo cuando vuelve a despertar con sus poderes completamente fuera de lo común, pero por desgracia para Liz, está a punto de descubrir que no es tan fácil desafiar tu verdadera naturaleza...</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Odg6HKKV-UJ54p9lpPyNfw" type="text/html" title="Kyūden Translation"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1XabhUGVhRM2uz3anjaIfCQ" type="text/html" title="World Project"/>
+</entry>
+</feed>

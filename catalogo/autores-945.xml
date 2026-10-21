@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Tanigawa Nagaru</id>
+<title>Tanigawa Nagaru</title>
+<updated>2026-10-21T00:13:50.725918+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-945.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>Haruhi Suzumiya Novela Ligera en Español</title>
+<id>https://nextnovels.com/haruhi-suzumiya-novela-ligera-en-espanol-2/</id>
+<link rel="alternate" href="https://nextnovels.com/haruhi-suzumiya-novela-ligera-en-espanol-2/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/02/portada-7-e1643864586430.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/02/portada-7-e1643864586430.jpg"/>
+<author><name>Tanigawa Nagaru</name></author>
+<category term="Aventura" label="Aventura"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Supernatural" label="Supernatural"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">La historia sigue al personaje del título, Haruhi Suzumiya, una estudiante de preparatoria que inconscientemente puede cambiar la realidad y sus extrañas travesuras con su club de la escuela, la «Brigada SOS», que ella fundó para investigar sucesos misteriosos.
+
+Haruhi obliga a su compañero de clase Kyon, que narra la serie, a unirse a sus proyectos y de manera similar recluta tres miembros adicionales en su club: la silenciosa bibliófila Yuki Nagato, la tímida y asustadiza Mikuru Asahina, y el amistoso «estudiante de intercambio misterioso» Itsuki Koizumi.
+
+Estos miembros de pronto se revelan a Kyon como los personajes extraordinarios que Haruhi está buscando, enviados por sus respectivas organizaciones para observarla.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/15EISLUsBnDU7gJ657GAhRA" type="text/html" title="Anime y traducciones"/>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1GIbgp1fhAlJapxCv-PjLaQ" type="text/html" title="Menudo no Fansub"/>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1sWgrPZuTBws5yhNxDCHX7w" type="text/html" title="Baka-Tsuki"/>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1rmj1dJyvFK8215GFruWd3Q" type="text/html" title="Ferindrad"/>
+</entry>
+</feed>

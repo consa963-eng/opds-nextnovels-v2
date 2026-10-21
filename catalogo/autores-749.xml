@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Rikako Akiyoshi</id>
+<title>Rikako Akiyoshi</title>
+<updated>2026-10-21T00:13:50.693210+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-749.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>Ankoku Joshi Novela Ligera en Español</title>
+<id>https://nextnovels.com/ankoku-joshi-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/ankoku-joshi-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/10/01-9.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/10/01-9.jpg"/>
+<author><name>Rikako Akiyoshi</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">En esta historia de misterio al estilo de Rashomon, cada miembro de un club de literatura de bachillerato presenta su propia versión de la muerte de la líder del grupo.
+
+En un prestigioso colegio femenino, una alumna ha muerto. Itsumi era la chica más hermosa, carismática y popular de la Academia St. Mary para Chicas. También era la presidenta del exclusivo y unido Club de Literatura. Una semana después de su muerte, las miembros de su querido club se reúnen en su memoria. Pero a medida que cada una de ellas testifica lo sucedido en los días previos al trágico suceso, sus acusaciones se vuelven impactantes.
+
+¿Por qué y cómo murió realmente Itsumi?
+
+En este brillante y apasionante misterio de asesinato, cada una tiene sus propias motivaciones y versión de la verdad. En su descripción de las alianzas, las traiciones y las tensiones invisibles entre amigas y enemigos, Las Doncellas Oscuras mantiene a los lectores en vilo y muestra que lo que es dulce puede ser fácilmente venenoso.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/12RHl78wGBkUAHkNLahRv6Q" type="text/html" title="Traducciones Roberth"/>
+</entry>
+</feed>

@@ -1,27 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Eda</id>
-<title>Eda</title>
-<updated>2026-10-20T22:58:27.543956+00:00</updated>
+<id>nextnovels:autores:Anikki Burazza</id>
+<title>Anikki Burazza</title>
+<updated>2026-10-21T00:13:50.581671+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-69.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Isekai Ryouridou Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-isekai-ryouridou-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-isekai-ryouridou-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/06/01-36.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/06/01-36.jpg"/>
-<author><name>Eda</name></author>
-<category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
+<title>The Failed Hero Becomes to the Great Evil King Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-failed-hero-becomes-to-the-great-evil-king-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-failed-hero-becomes-to-the-great-evil-king-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/The-Failed-Hero-Becomes-to-the-Great-Evil-King-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/07/The-Failed-Hero-Becomes-to-the-Great-Evil-King-Portada.jpg"/>
+<author><name>Anikki Burazza</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Adulto" label="Adulto"/>
 <category term="Drama" label="Drama"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Seinen" label="Seinen"/>
-<content type="text">El protagonista principal es Tsurumi Asuta. 17 años, estudiante de 2º de bachillerato.
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
+<content type="text">¡Me vengaré de todos esos tipos que me desterraron robándoles a sus novias!
 
-Trabajaba como aprendiz de cocinero en la [Tsurumi-ya], dirigida por su padre.
+«Tú, que no lograste convertirte en un héroe, ya no tienes ningún valor. Estás desterrado.»
 
-Un día se produjo un incendio en la [Tsurumi-ya], y por el bien del preciado cuchillo de su padre [Santoku Houchou - del tipo japonés] corrió al interior para recuperarlo y así encontró su fin. Antes de darse cuenta, se despertó en un entorno desconocido. Entonces fue atacado por una bestia parecida a un jabalí, pero una chica llamada 'Ai Fa' del [Pueblo de Morihen] le salvó. Fue entonces cuando se dio cuenta de que realmente estaba en un mundo diferente...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-isekai-ryouridou-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Daimon, que pasó de ser el próximo héroe a un plebeyo por el error de la santa, lo ha perdido todo y está sumido en la desesperación; ¡su cordura se ha consumido! «No más bondad desinteresada. Si quieres ayuda, ¡déjame tenerte!»
+
+Con su libido desatado y el poder de un aspirante a héroe, Daimon seduce a todos los que lo traicionaron, desde la novia de su amigo traidor hasta su familia, recibiendo su merecido.
+
+«Qué varonil... mis instintos femeninos me atormentan y no puedo resistir...»
+
+«Debería odiar esto, pero mi cuerpo me está siendo honesto... ¡No, basta, no más!»
+
+Una fantasía de seducción, venganza y poder sin igual comienza aquí, mientras él lleva a hermosas chicas a un placer irresistible y asciende a la cima.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1movmn_cI-JeWHEANcymchQ" type="text/html" title="Ichijou Translations"/>
 </entry>
 </feed>

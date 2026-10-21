@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Yuuji Yuuji</id>
-<title>Yuuji Yuuji</title>
-<updated>2026-10-20T22:58:27.650392+00:00</updated>
+<id>nextnovels:autores:Minkansukii</id>
+<title>Minkansukii</title>
+<updated>2026-10-21T00:13:50.665761+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-582.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Ore no Kanojo to Osananajimi ga Shuraba Sugiru Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-ore-no-kanojo-to-osananajimi-ga-shuraba-sugiru-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-ore-no-kanojo-to-osananajimi-ga-shuraba-sugiru-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/04/OreShura-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/04/OreShura-Portada.jpg"/>
-<author><name>Yuuji Yuuji</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
+<title>Sex and Dungeon! Novela Ligera en Español</title>
+<id>https://nextnovels.com/sex-and-dungeon-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/sex-and-dungeon-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/06/Sex-and-Dungeon-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/06/Sex-and-Dungeon-Portada.jpg"/>
+<author><name>Minkansukii</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Adulto" label="Adulto"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Fantasía" label="Fantasía"/>
 <category term="Harem" label="Harem"/>
+<category term="Maduro" label="Maduro"/>
+<category term="Misterio" label="Misterio"/>
 <category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Eita Kidō entra en el instituto con el objetivo de graduarse con unas notas lo suficientemente altas como para poder conseguir una beca para estudiar medicina. Con este objetivo en mente y el hecho de que sus padres se divorciaron, encontraron otras amantes y lo dejaron al cuidado de un familiar, rehúye todo lo que tenga que ver con el romance o el amor. Un día, la belleza de la escuela, Masuzu Natsukawa, le invita a caminar con ella a casa, pero él se niega. Después de varios días, cede y vuelve a casa con ella. Resulta que Masuzu está cansada de ser el centro de atención y de recibir confesiones casi a diario, así que sugiere que ella y Eita se conviertan en una falsa pareja. Aunque Eita intenta negarse, Masuzu le chantajea para que se convierta en su novio sólo de nombre. La noticia de la nueva pareja se extiende rápidamente por toda la escuela y la amiga de la infancia de Eita, Chiwa Harusaki, a quien le gusta, empieza a competir con Masuzu por el afecto de Eita.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-ore-no-kanojo-to-osananajimi-ga-shuraba-sugiru-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Mi nombre es Souhei Saino, mi historia comienza cuando repentinamente aparece un laberinto en el sótano de mi casa.
+
+Aparentemente todo se basa en un "Lv". Para los monstruos Lv es "Level", pero para los humanos es... ¿'Love'? Y la única forma de incrementar ese Lv es... ¿¡teniendo rel*ciones s*xuales!?
+
+¡Esta es la historia de un chico conquistando un laberinto a través de la exploración y el s*xo!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1k37Q6ZppZ_TaqKFKidIB2A" type="text/html" title="Trihexa"/>
 </entry>
 </feed>

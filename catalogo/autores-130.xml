@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Hiro Arikawa</id>
-<title>Hiro Arikawa</title>
-<updated>2026-10-20T22:58:27.555755+00:00</updated>
+<id>nextnovels:autores:Dengeki Game Books</id>
+<title>Dengeki Game Books</title>
+<updated>2026-10-21T00:13:50.591918+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-130.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>City of Salt Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-city-of-salt-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-city-of-salt-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/City-of-Salt-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/09/City-of-Salt-Portada.jpg"/>
-<author><name>Hiro Arikawa</name></author>
-<category term="Acción" label="Acción"/>
+<title>Grimoire NieR Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-grimoire-nier-novela-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-grimoire-nier-novela-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/08/Grimoire-NieR-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/08/Grimoire-NieR-Portada.jpg"/>
+<author><name>Dengeki Game Books</name></author>
 <category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Drama" label="Drama"/>
-<category term="Romance" label="Romance"/>
-<content type="text">En la era del desastre de la sal, la sal cubre el mundo por completo. La sal devora las ciudades sin tregua y está a punto de hacer colapsar la sociedad. Un hombre y una joven viven en el Tokio al borde de ese derrumbe. El nombre del hombre es Akinaba; el de la joven, Mana. Ante ellos, que viven en calma, pasan diversas personas: a veces con serenidad, a veces con violencia, a veces con bajeza. Mientras las ven partir, algo comienza a cambiar dentro de ambos...
-
-Ganadora del Gran Premio del 10.º Premio Dengeki y obra debut de Arikawa Hiro.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-city-of-salt-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<category term="Fantasía" label="Fantasía"/>
+<content type="text">Grimoire – Guía de Replicantes ver.1.22474487139… es un libro muy especial, ya que no solo sirve como una guía detallada del juego… sino que también es una ventana profunda al corazón de su historia y mitología. Este libro trata la narrativa de Nier Replicant, un juego que explora temas de sacrificio, humanidad y la búsqueda de la identidad en un mundo postapocalíptico. La guía no solo te ayudará a superar los desafíos del juego, sino que también te sumergirá en el complejo y emotivo mundo de Nier.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1_aiPWH2A7oCez4jdySWFSg" type="text/html" title="Mi Castillo de Arena"/>
 </entry>
 </feed>

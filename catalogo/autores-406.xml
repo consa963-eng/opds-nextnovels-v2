@@ -1,41 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Ryu Hidari</id>
-<title>Ryu Hidari</title>
-<updated>2026-10-20T22:58:27.612940+00:00</updated>
+<id>nextnovels:autores:Kazuno Fehu</id>
+<title>Kazuno Fehu</title>
+<updated>2026-10-21T00:13:50.637536+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-406.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Restarting my Youth with Villain Moves! Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-restarting-my-youth-with-villain-moves-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-restarting-my-youth-with-villain-moves-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/Restarting-my-Youth-with-Villain-Moves-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/09/Restarting-my-Youth-with-Villain-Moves-Portada.jpg"/>
-<author><name>Ryu Hidari</name></author>
+<title>Isekai Apocalypse Mynoghra Novela Ligera en Español</title>
+<id>https://nextnovels.com/isekai-apocalypse-mynoghra-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/isekai-apocalypse-mynoghra-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/05/Isekai-Apocalypse-Mynoghra-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/05/Isekai-Apocalypse-Mynoghra-Portada.jpg"/>
+<author><name>Kazuno Fehu</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
 <category term="Comedia" label="Comedia"/>
 <category term="Drama" label="Drama"/>
-<category term="Romance" label="Romance"/>
+<category term="Fantasía" label="Fantasía"/>
 <category term="Shounen" label="Shounen"/>
-<content type="text">¡En mi segunda vida seré el villano que te protegera!
+<content type="text">Takuto Ira sucumbió a una enfermedad a una edad temprana y acabó reencarnándose en un mundo que se parece al juego de estrategia por turnos de fantasía Eternal Nations. No sólo se reencarnó en su juego favorito, sino en el dios que comanda la malvada civilización Mynoghra. Con la hermosa unidad de héroe de Mynoghra, la Bruja del Fango Atou, a su lado, ¡ni siquiera los rasgos legendarios de la raza se interpondrán en el camino para reiniciar su civilización!
 
-Esta mii segunda oportunidad... ¡esta vez te protegeré actuando como un villano!
-
-Yo, Kujou Hiichi, viví mi etapa de preparatoria como un tirano, aprovechándome del dinero y el poder de mis padres para pisotear a los demás. Sin embargo, todo cambió cuando apareció el "hijo verdadero" de la familia; fui expulsado sin piedad de casa. Un día, mientras trabajaba a tiempo parcial, morí en un accidente intentando proteger a una desconocida... o eso creía.
-
-Al despertar, ¡estaba de vuelta en el año 2014, en mi primer día de preparatoria! En la puerta de la escuela, vi a mi compañera de clase, Kanau Hairi, siendo acosada por un profesor.
-
-El arrepentimiento y la promesa
-
-Ella no tenía una familia feliz ni amigos, pero en mi vida anterior, fue la única persona que siempre me apoyó... y yo terminé rechazándola y pisoteandola con mis propias manos.
-
-¡Si es así, en esta vida lo cambiaré todo! Hairi, te juro que te haré feliz.
-
-¡Y para lograr ese objetivo, no dudaré en usar cualquier método!
-
-"La próxima vez que te atrevas a pronunciar su nombre a la ligera, haré que te expulsen de esta escuela".
-
-Bajo el paraguas de "villano", crearé un mundo entero para ti.
-
-¡Una leyenda escolar de acción y poder desenfrenado comienza oficialmente!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-restarting-my-youth-with-villain-moves-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+"Señor Takuto... ¿no quieres empezar de nuevo conmigo?"</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/10WJfCLhSIoLVPIuR5nQbXw" type="text/html" title="World Project"/>
 </entry>
 </feed>

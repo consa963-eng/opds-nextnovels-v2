@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Sugihara Tomonori</id>
+<title>Sugihara Tomonori</title>
+<updated>2026-10-21T00:13:50.716792+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-893.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>Emblem of the Branded Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-emblem-of-the-branded-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-emblem-of-the-branded-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/10/Emblem-of-the-Branded-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/10/Emblem-of-the-Branded-Portada.jpg"/>
+<author><name>Sugihara Tomonori</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<content type="text">Los países de Mephius y Garbera han estado librando una guerra durante diez años y actualmente se encuentran tratando de poner fin a esta larga lucha a través de un matrimonio político entre las dos familias reales.
+
+Orba, quien fue expulsado de su casa debido a la guerra y se vio obligado a convertirse en gladiador, se ve exactamente como el príncipe heredero de Mephius, y se ha decidido que lo sustituirá durante la ceremonia nupcial.
+
+Por otro lado, Vileena, la princesa de Garbera, secretamente ha decidido emboscar al príncipe heredero por los intereses de su país.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1agV4G9yFK8tA70Ukh5cZhw" type="text/html" title="Gladheim Translations"/>
+</entry>
+<entry>
+<title>Leo Attiel Den Novela Ligera en Español</title>
+<id>https://nextnovels.com/leo-attiel-den-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/leo-attiel-den-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/11/01-17.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/11/01-17.jpg"/>
+<author><name>Sugihara Tomonori</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Seinen" label="Seinen"/>
+<content type="text">El Principado de Atall se encuentra entre dos grandes potencias: el Reino de Allion al oeste y la Santa Alianza Dytiana al este. Leo Attiel, el segundo príncipe, fue enviado a Allion como poco más que un rehén, donde estudió y se entrenó en las artes militares con un general de la frontera. Y ahora, los tiempos han llegado a un punto de inflexión.
+
+Las relaciones entre Allion y el Templo de Conscon, una tierra neutral adyacente a Atall, han empeorado. Percy, enviado de Atall como refuerzo; Camus, un monje guerrero; y Kuon, un mercenario de una región remota, unen sus fuerzas para resistir la amenaza inminente del ejército de Allion.
+
+En el centro de la lucha, los tres y Leo están a punto de tener su encuentro fatídico.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1b5I61wXik6HTfkR1LxiceQ" type="text/html" title="Turret Translations"/>
+</entry>
+</feed>

@@ -1,65 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kareno Akira</id>
-<title>Kareno Akira</title>
-<updated>2026-10-20T22:58:27.570876+00:00</updated>
+<id>nextnovels:autores:Hakari Ennki</id>
+<title>Hakari Ennki</title>
+<updated>2026-10-21T00:13:50.603657+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-201.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Shuumatsu Nani Shitemasu ka? Iden: Lillia Asplay Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-shuumatsu-nani-shitemasu-ka-iden-lillia-asplay-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-shuumatsu-nani-shitemasu-ka-iden-lillia-asplay-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/Shuumatsu-Nani-Shitemasu-ka-Iden-Lillia-Asplay.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/06/Shuumatsu-Nani-Shitemasu-ka-Iden-Lillia-Asplay.jpg"/>
-<author><name>Kareno Akira</name></author>
+<title>Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu Novela Web en Español</title>
+<id>https://nextnovels.com/gaikotsu-kishi-sama-tadaima-isekai-e-odekake-chuu-novela-web-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/gaikotsu-kishi-sama-tadaima-isekai-e-odekake-chuu-novela-web-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/05/Gaikotsu-Kishi-sama-Tadaima-Isekai-e-Odekake-chuu-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/05/Gaikotsu-Kishi-sama-Tadaima-Isekai-e-Odekake-chuu-Portada.jpg"/>
+<author><name>Hakari Ennki</name></author>
 <category term="Acción" label="Acción"/>
 <category term="Aventura" label="Aventura"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Drama" label="Drama"/>
+<category term="Comedia" label="Comedia"/>
 <category term="Fantasía" label="Fantasía"/>
-<content type="text">Lyllia Asplay, 13 años: una princesa de un reino desaparecido y, al mismo tiempo, una chica heroína que protege a la humanidad.
+<category term="Harem" label="Harem"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">El protagonista se quedo dormido mientras jugaba un juego online. Sin embargo cuando despertó descubrió que se encontraba en un mundo extraño con el aspecto del personaje del juego.En un estado de shock se dio cuenta que se encontraba equipado con nada mas que su mejor arma y armadura.
 
-Esta es la intensa y a la vez encantadora vida cotidiana de esa chica.
-
-Una nueva historia hilada a partir de la serie "Shuumatsu Nani Shitemasu ka?", que incluso llegó a ser adaptada a anime.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-shuumatsu-nani-shitemasu-ka-iden-lillia-asplay-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Para hacer las cosas peor ,la apariencia de nuestro héroe fue cambiada por el avatar especial [Esqueleto] cuando ingreso a este nuevo mundo.El protagonista quería vivir sin llamar la atención,pero entro en contacto con la elfo oscuro Ariane y recibió su solicitud.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1m2GQsihYRbfMUcKrNJ3lPg" type="text/html" title="CarlecBen, Choque Translations"/>
 </entry>
 <entry>
-<title>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-shuumatsu-nani-shitemasu-ka-isogashii-desu-ka-sukutte-moratte-ii-desu-ka-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-shuumatsu-nani-shitemasu-ka-isogashii-desu-ka-sukutte-moratte-ii-desu-ka-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-62.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-62.jpg"/>
-<author><name>Kareno Akira</name></author>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Drama" label="Drama"/>
+<title>Skeleton Knight in Another World Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-skeleton-knight-in-another-world-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-skeleton-knight-in-another-world-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/05/Gaikotsu-Kishi-sama-Tadaima-Isekai-e-Odekake-chuu-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/05/Gaikotsu-Kishi-sama-Tadaima-Isekai-e-Odekake-chuu-Portada.jpg"/>
+<author><name>Hakari Ennki</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Romance" label="Romance"/>
-<category term="Tragedia" label="Tragedia"/>
-<content type="text">Han pasado quinientos años desde que los humanos se extinguieron a manos de las temibles y misteriosas "Bestias". Las razas supervivientes viven ahora en islas flotantes en el cielo, fuera del alcance de todos, excepto de las Bestias más móviles.
-
-Sólo un pequeño grupo de chicas jóvenes, las Leprechauns, pueden empuñar las antiguas armas necesarias para rechazar las invasiones de estas criaturas. En la inestable y fugaz vida de las chicas, donde una llamada a la muerte segura puede llegar en cualquier momento, entra un personaje improbable: un joven que lo perdió todo en su última batalla hace quinientos años, el último humano vivo despertado de un largo y gélido letargo.
-
-Incapaz de seguir luchando, Willem se convierte en el padre que las niñas nunca tuvieron, cuidándolas y alimentándolas incluso mientras lucha por aceptar su nueva vida, en la que siente el dolor de esperar impotente a que sus seres queridos vuelvan a casa de la batalla que su "Hija" sintió por él hace tanto tiempo. Juntos, Willem y las niñas llegan a comprender poco a poco lo que significa la familia y lo que realmente merece la pena proteger.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-shuumatsu-nani-shitemasu-ka-isogashii-desu-ka-sukutte-moratte-ii-desu-ka-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
-</entry>
-<entry>
-<title>Shuumatsu Nani Shitemasuka? Mou Ichido Dake Aemasuka? Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-shuumatsu-nani-shitemasuka-mou-ichido-dake-aemasuka-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-shuumatsu-nani-shitemasuka-mou-ichido-dake-aemasuka-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-63.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-63.jpg"/>
-<author><name>Kareno Akira</name></author>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Tragedia" label="Tragedia"/>
-<content type="text">Han pasado cinco años desde que el trágico incidente acabó con la pacífica vida en Regul Aire de una vez por todas. La Bestia ha llegado a la isla flotante y amenaza a los últimos supervivientes.
-
-Tiat, Collon, Pannibal y Lakhesh se han convertido en hadas soldados y continúan el papel de sus predecesores, luchando por la seguridad de Regul Aire. Y al igual que el resto de hadas soldado del almacén, necesitan un guardián del ejército, y así, un fatídico día, Tiat se encuentra con Feodor Jessman, un joven diablillo y militar de cuarto grado. A primera vista parece un típico estudiante de honor, sin embargo, no pasa mucho tiempo hasta que revela sus verdaderos colores.
-
-¿Qué traerán sus ambiciones secretas para las cuatro jóvenes e incluso para el futuro de Regul Aire?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-shuumatsu-nani-shitemasuka-mou-ichido-dake-aemasuka-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<category term="Harem" label="Harem"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Un día, un jugador jugó videojuegos hasta que se quedó dormido … y cuando se despertó, se encontró en el mundo del juego en el que estaba jugando y ¡como un esqueleto! Equipado con las poderosas armas y la armadura de su avatar, pero atascado con su aterradora apariencia esquelética, Arc tiene que encontrar un lugar para sí mismo en esta nueva y fantástica tierra. Todas sus esperanzas de una vida tranquila se desvanecen cuando se cruza con una hermosa guerrera elfa, lo que lo pone en un viaje lleno de conflictos y aventuras.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1h3xJGaBm-WqDSz_1lsT36g" type="text/html" title="World Project"/>
 </entry>
 </feed>

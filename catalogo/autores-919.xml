@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Takaoka Chikara</id>
+<title>Takaoka Chikara</title>
+<updated>2026-10-21T00:13:50.720952+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-919.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>Erogenous Beauty Salon by Succubus Girls Novela Ligera en Español</title>
+<id>https://nextnovels.com/erogenous-beauty-salon-by-succubus-girls-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/erogenous-beauty-salon-by-succubus-girls-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/09/01-62.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/09/01-62.jpg"/>
+<author><name>Takaoka Chikara</name></author>
+<category term="Adulto" label="Adulto"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Harem" label="Harem"/>
+<category term="Maduro" label="Maduro"/>
+<content type="text">El protagonista se encuentra en un salón de belleza que actúa como fachada para que unos súcubos recojan el semen como alimento para enviar de vuelta a su mundo y resulta que el alto libido y el semen especial del protagonista podrían salvar al mundo súcubo del declive.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1G6fYCwIhQ-WodaqmvWkO9A" type="text/html" title="Turret Translations"/>
+</entry>
+<entry>
+<title>Hina to Mama no Love Hame Aesthetic Novela Ligera en Español</title>
+<id>https://nextnovels.com/hina-to-mama-no-love-hame-aesthetic-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/hina-to-mama-no-love-hame-aesthetic-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/01/01-1.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/01/01-1.jpg"/>
+<author><name>Takaoka Chikara</name></author>
+<category term="Adulto" label="Adulto"/>
+<category term="Harem" label="Harem"/>
+<category term="Maduro" label="Maduro"/>
+<category term="Seinen" label="Seinen"/>
+<content type="text">Trata de un estudiante universitario, su amiga de la infancia y la madre de su amiga de la infancia, que es dueña de un salón de belleza y decide «agradecerle» por haber sido siempre tutor de su hija. Como probablemente se pueden imaginar, esta es una historia de oy*kodon.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/15tZIN_FEln-2SL9TILWsDg" type="text/html" title="Domen Translations"/>
+</entry>
+</feed>

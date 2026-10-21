@@ -1,40 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Nuko Nekomata</id>
-<title>Nuko Nekomata</title>
-<updated>2026-10-20T22:58:27.605349+00:00</updated>
+<id>nextnovels:autores:Kanzaki Kurone</id>
+<title>Kanzaki Kurone</title>
+<updated>2026-10-21T00:13:50.631690+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-371.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>My Love Comedy with the Unfallable Beautiful Girl Classmate Is Way Too Easy Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-my-love-comedy-with-the-unfallable-beautiful-girl-classmate-is-way-too-easy-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-my-love-comedy-with-the-unfallable-beautiful-girl-classmate-is-way-too-easy-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/My-Love-Comedy-with-the-Unfallable-Beautiful-Girl-Classmate-Is-Way-Too-Easy-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/06/My-Love-Comedy-with-the-Unfallable-Beautiful-Girl-Classmate-Is-Way-Too-Easy-Portada.jpg"/>
-<author><name>Nuko Nekomata</name></author>
+<title>Demon Lord, Retry! Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-demon-lord-retry-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-demon-lord-retry-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/01/Demon-Lord-Retry-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/01/Demon-Lord-Retry-Portada.jpg"/>
+<author><name>Kanzaki Kurone</name></author>
+<category term="Acción" label="Acción"/>
 <category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
 <category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Cuatro años y medio después de haber regresado a mi ciudad natal, descubrí una impactante verdad en la preparatoria a la que me transferí.
+<content type="text">Oono Akira, un adulto trabajador que se puede encontrar en cualquier lugar, fue transportado a un mundo diferente mientras se conectaba a un personaje conocido como el "Señor de los Demonios", un juego que él maneja. Allí conoce a un niño con una pierna discapacitada y comienzan a viajar juntos, pero no hay forma de que otros dejen solo a un "Señor de los Demonios" con una fuerza tan abrumadora.
 
-Resulta que, por alguna razón, estaba en una relación a distancia con mi amiga de la infancia y compañera de clase, Nanami Kosaka, quien se había convertido en una hermosa chica.
+Mientras son el blanco de países y santos que tratan de someter al señor de los demonios, causan disturbios dondequiera que vayan.
 
-No tengo ni idea de cómo pasó eso ¿¡Qué demonios está ocurriendo, Nanami!?
-
-¿...Eh?
-
-¿Qué estabas harta de que se te declararan todos los días y, para mantener alejados a los chicos, inventaste que tenías una relación a distancia conmigo?
-
-¿Y que ahora me pides que finja ser tu novio?
-
-Bueno, no hay remedio. Fingiré ser tu novio mientras estemos en la escuela...
-
-Pero espera ¿¡Nuestros padres también creen que estamos saliendo a distancia!?
-
-Ya no hay vuelta atrás...
-
-¡Todos los rivales amorosos ya se han rendido y ambas familias están completamente encantadas con la relación!
-
-¡Comienza una divertidísima comedia romántica de amor fingido en la que el terreno ya está completamente preparado desde el principio!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-my-love-comedy-with-the-unfallable-beautiful-girl-classmate-is-way-too-easy-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Señor de los demonios por fuera, persona normal por dentro, una fantasía mal entendida.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1x2EzK_Jv_V31PCMtxpfGig" type="text/html" title="Domen Translations"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1fnh2ArfSVond14kYMBTw_w" type="text/html" title="World Project"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1j-1F8ESon-aXn6TgmClHdw" type="text/html" title="Max Power Fansub"/>
 </entry>
 </feed>

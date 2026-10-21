@@ -1,22 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Aka Akasaka, Hajime Tanaka</id>
-<title>Aka Akasaka, Hajime Tanaka</title>
-<updated>2026-10-20T22:58:27.532257+00:00</updated>
+<id>nextnovels:autores:Agitogi Akumi</id>
+<title>Agitogi Akumi</title>
+<updated>2026-10-21T00:13:50.571633+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-10.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Oshi no Ko: Etude for Two Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-oshi-no-ko-etude-for-two-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-oshi-no-ko-etude-for-two-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/Oshi-no-Ko-Etude-for-Two-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/02/Oshi-no-Ko-Etude-for-Two-Portada.jpg"/>
-<author><name>Aka Akasaka, Hajime Tanaka</name></author>
+<title>My Happy Marriage Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-my-happy-marriage-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-my-happy-marriage-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/08/Watashi-no-Shiawase-na-Kekkon-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/08/Watashi-no-Shiawase-na-Kekkon-Portada.jpg"/>
+<author><name>Agitogi Akumi</name></author>
 <category term="Drama" label="Drama"/>
-<category term="Psicológico" label="Psicológico"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<content type="text">«Lleváis así mucho tiempo. Sinceramente, siempre estáis peleándoos».
+<category term="Romance" label="Romance"/>
+<category term="Shoujo" label="Shoujo"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">¿ESTE MATRIMONIO ES UNA BENDICIÓN? ¿O UNA MALDICIÓN?
 
-Kana Arima y Akane Kurokawa, que protagonizarán una obra de teatro el mes que viene, deciden ensayar con escenas improvisadas. Ha pasado mucho tiempo desde la película «15 años de mentiras» y ambas son consideradas jóvenes actrices con talento, pero siguen sin llevarse bien. Como resultado, lo que debería haber sido un ensayo se convierte en una discusión. Mientras se preocupan por el futuro de la obra, recuerdan una audición para una obra a la que ambas se habían presentado en el pasado. ¿Podría ser esta la causa de que su relación haya acabado así? La segunda novela de Oshi no Ko describe el pasado y el futuro de Kana Arima y Akane Kurokawa.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-oshi-no-ko-etude-for-two-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Nacida sin talento en el seno de una familia noble famosa por sus habilidades sobrenaturales, Miyo Saimori es obligada a una existencia de servidumbre por su abusiva madrastra. Cuando Miyo alcanza la edad de casarse, sus esperanzas de ser llevada a una vida mejor se desmoronan al descubrir la identidad de su prometido: Kiyoka Kudou, un comandante aparentemente tan frío y cruel que todas sus anteriores pretendientes huyeron a los tres días de contraer matrimonio. Sin un hogar al que regresar, Miyo se resigna a su destino y pronto descubre que su pálido y hermoso futuro marido es todo menos el monstruo que esperaba. A medida que se abren lentamente sus corazones, ambos se dan cuenta de que el otro puede ser su oportunidad de encontrar el verdadero amor y la felicidad.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1zMr22e1TaXLz6lx0Lh2E5Q" type="text/html" title="Katame"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1RfsAPwjpQJ-HLv_GK0TfZQ" type="text/html" title="Mi Castillo de Arena"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1akXEJ5qz9MxJwjmWRCtSbQ" type="text/html" title="Ferindrad"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1y8Uk-5f5AjqTMxTYDOZkSw" type="text/html" title="Akira Light Novels"/>
 </entry>
 </feed>

@@ -1,27 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Xing Bao Er</id>
-<title>Xing Bao Er</title>
-<updated>2026-10-20T22:58:27.644770+00:00</updated>
+<id>nextnovels:autores:Mayu Ukiha</id>
+<title>Mayu Ukiha</title>
+<updated>2026-10-21T00:13:50.660704+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-552.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Flower Flower Dragon Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-flower-flower-dragon-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-flower-flower-dragon-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/10/Flower-Flower-Dragon-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/10/Flower-Flower-Dragon-Portada.jpg"/>
-<author><name>Xing Bao Er</name></author>
-<category term="Adulto" label="Adulto"/>
+<title>The Quarter-Beauty of the Class Became My Stepsister Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-quarter-beauty-of-the-class-became-my-stepsister-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-quarter-beauty-of-the-class-became-my-stepsister-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/01/The-Quarter-Beauty-of-the-Class-Became-My-Stepsister-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/01/The-Quarter-Beauty-of-the-Class-Became-My-Stepsister-Portada.jpg"/>
+<author><name>Mayu Ukiha</name></author>
+<category term="Comedia" label="Comedia"/>
 <category term="Drama" label="Drama"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Smut" label="Smut"/>
-<category term="Yaoi" label="Yaoi"/>
-<content type="text">Para ayudar a su jefe a encontrar una esposa, los bandidos secuestraron a una mujer del pie de la montaña para ofrecérsela.
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Nanase Chloe es una chica guapa, mitad japonesa, que está fuera de mi alcance.
 
-¡El jefe de la fortaleza de la montaña, Lu Cang, se enamora a primera vista de la belleza absolutamente impresionante!
+Nunca quisimos ser cercanos, pero nuestros padres se volvieron a casar y ¡de repente nos convertimos en hermanos!
 
-Sin embargo, en la noche de la consumación...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-flower-flower-dragon-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+De repente empezamos a vivir juntos. Venimos de una familia tranquila, así que me llevo bien con ella, pero se avergüenza extrañamente de cada palabra que digo.
+
+La felicito por su cocina, le digo que quiere comer mi comida todos los días , que no tiene que apresurarse para acercarse y que siempre estaremos juntos, que no pasa nada...
+
+Solo dije que deberíamos vivir felices como una familia.
+
+"¡Decirme que sea feliz contigo es como una propuesta de matrimonio!". ¿ La estaba cortejando sin darme cuenta?
+
+"No sirvo para nada, pero por favor, por favor".
+
+¡Una comedia romántica sobre la conquista inconsciente comienza bajo el mismo techo!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1iNmHA1sNa9VzCLqbO9Hgug" type="text/html" title="Ichijou Translations"/>
 </entry>
 </feed>

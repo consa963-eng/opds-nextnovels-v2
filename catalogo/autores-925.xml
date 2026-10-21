@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Takaya Kagami</id>
+<title>Takaya Kagami</title>
+<updated>2026-10-21T00:13:50.722207+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-925.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>Dai Densetsu no Yuusha no Densetsu Novela Ligera en Español</title>
+<id>https://nextnovels.com/dai-densetsu-no-yuusha-no-densetsu-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/dai-densetsu-no-yuusha-no-densetsu-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/06/01-40.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/06/01-40.jpg"/>
+<author><name>Takaya Kagami</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Supernatural" label="Supernatural"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">Dai Densetsu no Yūsha no Densetsu es la secuela de Densetsu no Yūsha no Densetsu y la retoma desde donde la dejó el volumen 11 de Densetsu no Yūsha no Densetsu.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/17VZoBSsumeFfwjCGqmpUiQ" type="text/html" title="Mi Castillo de Arena"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1NoCtFP2lnczrufiZ4LGn8w" type="text/html" title="Akat Novels"/>
+</entry>
+<entry>
+<title>Densetsu no Yuusha no Densetsu Novela Ligera en Español</title>
+<id>https://nextnovels.com/densetsu-no-yuusha-no-densetsu-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/densetsu-no-yuusha-no-densetsu-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/06/01-39.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/06/01-39.jpg"/>
+<author><name>Takaya Kagami</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Supernatural" label="Supernatural"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">Un mundo lleno de leyendas.
+
+En el sur del continente, los ciudadanos del Imperio de Roland sufren bajo el dominio de una administración tiránica y una nobleza corrupta.
+
+Por orden del rey Sion, Ryner y Ferris emprenden una búsqueda. Pero nuestro protagonista Ryner lleva el letargo a una nueva dimensión. Lo único que quiere es crear el Reino de la Siesta, un lugar que abraza un estilo de vida despreocupado e indolente.
+
+Al poco tiempo, Ryner y los demás se ven arrastrados sin sospechar nada a la vorágine de la guerra, que enredará los hilos de los destinos de tres personas diferentes en un complicado e irrompible enredo.
+
+¿Qué futuro reflejan los "ojos" de Ryner?
+
+Levantamos el telón de un nuevo y emocionante género, ¡la Fantasía Antiheroica!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1cIuuw4xYfQACN6RwDf5P1Q" type="text/html" title="Akat Novels"/>
+<link rel="http://opds-spec.org/acquisition" href="https://www.funimation.com/shows/the-legend-of-the-legendary-heroes/" type="text/html" title="Disponible en Funimation"/>
+</entry>
+<entry>
+<title>Mokushiroku Alice Novela Ligera en Español</title>
+<id>https://nextnovels.com/mokushiroku-alice-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/mokushiroku-alice-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-21.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-21.jpg"/>
+<author><name>Takaya Kagami</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Supernatural" label="Supernatural"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">... Ahora, ¡vamos a matar a la chica y salvar al mundo!
+
+El mundo ha sido destrozado. Como resultado de la más terrible de las enfermedades que aflige sólo a las niñas... la "Enfermedad del Laberinto'. Por eso los estudiantes están tomando lecciones. Lecciones con el propósito de matar a la chica. Aprenden magia, se figuran el mapa del laberinto, forman equipos y estudian la debilidad de la chica... El tiempo límite son 6 horas. Si la chica no es matada en ese tiempo... entonces el mundo será destruido.
+
+"No tengo interés en el mundo, así que por favor, perdonadme. Francamente, es realmente sofocante". Junto con quien dijo esas palabras, el más horrible protagonista en esta historia, entra en un mundo de magia y juventud.
+
+Un instituto de fantasía en un asalto a un laberinto... ¡Aquí empieza!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1RvnArSWO4ofJf9ReImKS3Q" type="text/html" title="Mi Castillo de Arena"/>
+</entry>
+</feed>

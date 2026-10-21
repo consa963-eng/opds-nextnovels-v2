@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kazuno Fehu</id>
-<title>Kazuno Fehu</title>
-<updated>2026-10-20T22:58:27.573393+00:00</updated>
+<id>nextnovels:autores:Harajun</id>
+<title>Harajun</title>
+<updated>2026-10-21T00:13:50.605749+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-213.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Isekai Apocalypse Mynoghra Novela Ligera en Español</title>
-<id>https://nextnovels.com/isekai-apocalypse-mynoghra-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/isekai-apocalypse-mynoghra-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/05/Isekai-Apocalypse-Mynoghra-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/05/Isekai-Apocalypse-Mynoghra-Portada.jpg"/>
-<author><name>Kazuno Fehu</name></author>
+<title>EXP Is Golden Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-exp-is-golden-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-exp-is-golden-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/EXP-Is-Golden-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/05/EXP-Is-Golden-Portada.jpg"/>
+<author><name>Harajun</name></author>
 <category term="Acción" label="Acción"/>
 <category term="Aventura" label="Aventura"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
 <category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Shounen" label="Shounen"/>
-<content type="text">Takuto Ira sucumbió a una enfermedad a una edad temprana y acabó reencarnándose en un mundo que se parece al juego de estrategia por turnos de fantasía Eternal Nations. No sólo se reencarnó en su juego favorito, sino en el dios que comanda la malvada civilización Mynoghra. Con la hermosa unidad de héroe de Mynoghra, la Bruja del Fango Atou, a su lado, ¡ni siquiera los rasgos legendarios de la raza se interpondrán en el camino para reiniciar su civilización!
+<content type="text">¡El tan esperado día de lanzamiento del VRMMORPG Boot Hour, Shoot Curse por fin ha llegado! Como jugadora de RV entregada, Leah crea a su personaje con entusiasmo, emocionada por dejar su huella en el gran tapiz de este mundo virtual. Un encuentro fortuito al inicio del juego lleva a Leah a un descubrimiento fatídico: una habilidad oculta llamada Retainer le permite domesticar a cualquier PNJ del juego y acumular sus puntos de experiencia junto con los suyos propios.
 
-"Señor Takuto... ¿no quieres empezar de nuevo conmigo?"</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/isekai-apocalypse-mynoghra-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Combinando Retainer con sus poderosos hechizos de encantamiento, Leah va formando poco a poco un ejército de sirvientes compuesto por formidables PNJ jefes únicos del juego. Con los puntos de experiencia lloviéndole, Leah se consolida como una fuerza a tener en cuenta… ¡solo para ser tachada de desastre natural viviente!
+
+Bueno, si los PNJ quieren coronarla Reina de la Destrucción, ¿quién es Leah para discutirlo? Las oportunidades de acelerar la destrucción de la humanidad no aparecen muy a menudo, y Leah no tiene intención de dejar que esta oportunidad se desperdicie.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1AKXul2rLBSowLhJU4mC8Ig" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 </feed>

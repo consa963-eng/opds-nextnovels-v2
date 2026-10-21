@@ -1,33 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Sabu Meiji</id>
-<title>Sabu Meiji</title>
-<updated>2026-10-20T22:58:27.613977+00:00</updated>
+<id>nextnovels:autores:Kei Sasuga</id>
+<title>Kei Sasuga</title>
+<updated>2026-10-21T00:13:50.638171+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-410.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Lilith Who Lost Her Arm Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-lilith-who-lost-her-arm-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-lilith-who-lost-her-arm-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/Lilith-Who-Lost-Her-Arm-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/09/Lilith-Who-Lost-Her-Arm-Portada.jpg"/>
-<author><name>Sabu Meiji</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Fantasía" label="Fantasía"/>
+<title>Domestic na Sensual Novela Ligera en Español</title>
+<id>https://nextnovels.com/domestic-na-sensual-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/domestic-na-sensual-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/09/domestic-na-sensual-Portada-1.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/09/domestic-na-sensual-Portada-1.jpg"/>
+<author><name>Kei Sasuga</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Harem" label="Harem"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">Premio Sneaker «Medalla de Oro». La historia de un chico exorcista y una chica demonio, y el final de su encuentro...
-
-◇ 1 de noviembre del año 36 de la era Meiji / Asentamiento extranjero de Kobe
-
-Kaina, el niño prodigio exorcista, recibió una herida mortal cuando le atravesaron el corazón durante una misión militar. Mientras moría, una voz agradable resonó desde algún lugar.
-
-«Hijo del hombre, te daré un segundo corazón. A cambio... vendrás conmigo al camino de la hegemonía, más allá del purgatorio».
-
-Quien apareció fue una joven tan bella que podía confundirse con un ángel: Ririsu. Una demonio que figuraba entre los «Siete Pecados Capitales»... y que no tenía brazos.
-
-Kaina, que había intercambiado el poder demoníaco por una vida ligada al destino de Ririsu, se convirtió en su compañero inseparable. ¿El final de su viaje será la perdición en el purgatorio, o un camino de hegemonía que conquiste el futuro?
-
-La crónica sobrenatural de exorcistas de la era Meiji, «Ririsu, la que perdió el brazo», comienza aquí.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-lilith-who-lost-her-arm-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1TjYw2mvgiW7zgMOnKTjr_Q" type="text/html" title="Plot Twist no Fansub"/>
 </entry>
 </feed>

@@ -1,23 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kore Yamazaki</id>
-<title>Kore Yamazaki</title>
-<updated>2026-10-20T22:58:27.579144+00:00</updated>
+<id>nextnovels:autores:Hiiro Nagawa</id>
+<title>Hiiro Nagawa</title>
+<updated>2026-10-21T00:13:50.610218+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-241.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Mahou Tsukai no Yome Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-mahou-tsukai-no-yome-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-mahou-tsukai-no-yome-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/09/Mahou-Tsukai-no-Yome-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/09/Mahou-Tsukai-no-Yome-Portada.jpg"/>
-<author><name>Kore Yamazaki</name></author>
+<title>Exiled to the Graveyard of Past Heroes Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-exiled-to-the-graveyard-of-past-heroes-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-exiled-to-the-graveyard-of-past-heroes-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Exiled-to-the-Graveyard-of-Past-Heroes-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/08/Exiled-to-the-Graveyard-of-Past-Heroes-Portada.jpg"/>
+<author><name>Hiiro Nagawa</name></author>
+<category term="Acción" label="Acción"/>
 <category term="Drama" label="Drama"/>
+<category term="Ecchi" label="Ecchi"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Magia" label="Magia"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Harem" label="Harem"/>
 <category term="Shounen" label="Shounen"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">El mundo de The Ancient Magus' Bride es más grande que el de Elías y Chise, y muchos son los personajes y espíritus que se cruzan en el camino de sus vidas. Sus historias se enroscan en un tapiz, palabras como hilo de oro, un tejido de recuerdos y secretos. En estas páginas se incluyen nuevas historias de la fantástica Gran Bretaña de Kore Yamazaki, escritas por la propia autora y por un grupo de estrellas de la literatura japonesa. Desde un vampiro celta enamorado de un humano, hasta un caballero de las piedras preciosas, e incluso un vistazo a lo que Silky hace en su tiempo libre, deja que esta colección encantada te lleve a los rincones ocultos de un amado mundo de fantasía.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-mahou-tsukai-no-yome-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<content type="text">Tras derrotar al Rey Demonio, el héroe Eliott es acusado falsamente y desterrado al Abismo, un lugar que se dice es la entrada al infierno, por ser ya inútil.
+
+Traicionado por sus fieles compañeros y su amada, Elott queda devastado. Sin embargo, este lugar es la tumba de incontables héroes de inmenso poder que, como él, fueron traicionados y desterrados por su país hace mucho tiempo.
+
+Para vengar a su patria traicionada, Eliott usa su singular habilidad de resurrección para despertar a los antiguos héroes que duermen en el fondo del Abismo. Su ejército, al que se unen hermosas heroínas y princesas celestiales curtidas en la batalla, se convierte finalmente en la nación más poderosa, superando con creces incluso el poderío militar de su patria.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/106dBZGQK2fXnucxa4vci7w" type="text/html" title="Shadow Translations"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1JR1X3_shXDlOD_-MN2WRwA" type="text/html" title="Saitou Translations"/>
 </entry>
 </feed>

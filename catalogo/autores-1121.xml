@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Yuumikan</id>
+<title>Yuumikan</title>
+<updated>2026-10-21T00:13:50.758225+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1121.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>Bofuri Novela Ligera en Español</title>
+<id>https://nextnovels.com/bofuri-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/bofuri-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/01/01.webp"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/01/01.webp"/>
+<author><name>Yuumikan</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">La historia se centra en Kaede Honjou, quien es invitada por su amiga Risa Shiramine para jugar un juego MMO de realidad virtual con ella. Si bien a Kaede no le gustan los juegos, lo que realmente le disgusta es tener dolor. Ella crea un personaje llamado Maple, y decide poner todos sus puntos en VIT para minimizar el dolor. Como resultado, se mueve lentamente, no puede usar magia, e incluso un conejo puede sacar lo mejor de ella. Pero resulta que ella adquiere una habilidad desconocida llamada «Defensa total» como resultado de poner todos sus puntos en VIT, así como una «Habilidad de contraataque» que funciona contra movimientos especiales. Ahora, con su gran habilidad para anular todo daño existente, se embarcara en el inicio de sus aventuras.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1APXF9tmVQFHkxhV-hO9WAw" type="text/html" title="Edgno traducciones"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1XmDXH3WfdtJ0Ex2lZ9v1bQ" type="text/html" title="Shinsengumi Translations"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1YH5hA-Pe6bGKBRaxg3g4yQ" type="text/html" title="Ferindrad"/>
+</entry>
+</feed>

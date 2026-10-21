@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Mao Nishiura</id>
-<title>Mao Nishiura</title>
-<updated>2026-10-20T22:58:27.586941+00:00</updated>
+<id>nextnovels:autores:Honjo Kentaro</id>
+<title>Honjo Kentaro</title>
+<updated>2026-10-21T00:13:50.616119+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-279.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Pens Down, Swords Up Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-pens-down-swords-up-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-pens-down-swords-up-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/Pens-Down-Swords-Up-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/10/Pens-Down-Swords-Up-Portada.jpg"/>
-<author><name>Mao Nishiura</name></author>
-<category term="Acción" label="Acción"/>
+<title>Love Thy Dark Lord Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-love-thy-dark-lord-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-love-thy-dark-lord-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/Love-Thy-Dark-Lord-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/10/Love-Thy-Dark-Lord-Portada.jpg"/>
+<author><name>Honjo Kentaro</name></author>
 <category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">¿Un excatedrático problemático del pasado irrumpe en una escuela de élite?
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
+<content type="text">He de vivir como rey. En este lujoso infierno. Cansado de una vida como un director ejecutivo decorativo, “yo (boku)” quien puso fin a sus propios días y renació en la mente de un joven rey de otro mundo. Sin embargo, su reino sufre una enorme deuda fiscal y la constante interferencia de las potencias extranjeras, e incluso dentro del país ya comienzan a surgir indicios de revolución.
 
-Allen, el tercer hijo de una familia noble rural nacida en una sociedad aristocrática donde el destino de tu vida lo decide la escuela a la que asististe, era un «niño común» que, a pesar de tener un talento extraordinario, no mantenía la constancia ni en los estudios ni en el entrenamiento mágico.
+Rodeado de las jóvenes candidatas a reinas (cuyo peso político no puede ignorarse) y de unos consejeros claramente más capaces que él, son pocas las cosas que puede hacer este hombre sin poder de otro mundo. Pero, si no encuentra la manera de hacerlo bien, no sobrevivirá
 
-Sin embargo, sus recuerdos de la vida anterior resucitan de repente: ¡un trabajador matado de los estudios que se la pasaba inmerso en exámenes de admisión y certificaciones! Aprovechando los conocimientos de su vida pasada, entrenó al máximo tanto sus aptitudes académicas como sus habilidades marciales para desafiar a la escuela de élite más difícil de todas. Su vertiginoso crecimiento llegó al punto de hacer dudar a todos sobre un posible fraude, convirtiéndose en el centro de atención tanto de aspirantes como de profesores.
+―Mi nombre quedará registrado como el de uno de los monarcas incompetentes. Para siempre.
 
-Durante la entrevista de aventurero revive los recuerdos de la búsqueda de empleo, y frente al aterrador examinador los de su castrante jefe anterior, ¡¿lo que lo llevará a armar aún más alboroto por toda la academia?!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-pens-down-swords-up-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Aun así, él sigue en el trono. Para cumplir, esta vez, con ese papel que en su día “arrojó”.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1rBdBNs0yJDIW1V-Obd-D8g" type="text/html" title="Miv Traducciones"/>
 </entry>
 </feed>

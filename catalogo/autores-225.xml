@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kionachi</id>
-<title>Kionachi</title>
-<updated>2026-10-20T22:58:27.575895+00:00</updated>
+<id>nextnovels:autores:Hazuki Aya</id>
+<title>Hazuki Aya</title>
+<updated>2026-10-21T00:13:50.607757+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-225.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Bokutachi no Remake Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-bokutachi-no-remake-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-bokutachi-no-remake-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/09/01-28.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/09/01-28.jpg"/>
-<author><name>Kionachi</name></author>
-<category term="Comedia" label="Comedia"/>
+<title>Hello Hello and Hello Novela Ligera en Español</title>
+<id>https://nextnovels.com/hello-hello-and-hello-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/hello-hello-and-hello-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/09/01-93.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/09/01-93.jpg"/>
+<author><name>Hazuki Aya</name></author>
 <category term="Drama" label="Drama"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Hashiba Kyouya es un desarrollador de 28 años. Con su empresa quebrada y él, en consecuencia, perdiendo su empleo, regresa a su ciudad natal. Al observar el éxito de los creadores de su época, se arrepiente de las decisiones de su vida mientras yacía angustiado en su cama. Sin embargo, cuando Kyouya se despierta al día siguiente, descubre que ha viajado diez años hacia el pasado, antes de ingresar a la universidad. ¿Podrá finalmente hacer las cosas bien? Esta es una historia sobre una persona que fracasó en sus sueños, pero que ha conseguido una segunda oportunidad.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-bokutachi-no-remake-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">“Oye, Yoshi-kun. Tu me--"
+
+Escuchar esa voz por primera vez me detuvo en seco. Corrí de camino a casa de la escuela, fui al campo de juego de nuestra secundaria, a la librería frente a la estación, y al lote vacío donde descansaba el gato blanco. Shiina Yuki, la chica extraña que de alguna manera sabía todo sobre mí, siempre se acercaba a mí de esta manera. Reímos, lloramos, nos enojamos, nos tomamos de las manos. Una y otra vez, repetimos esos recuerdos desaparecidos y promesas efímeras. Por eso nunca lo supe. Nunca supe el valor de las sonrisas de Yuki o el significado de sus lágrimas. Ni siquiera el sentimiento singular detrás de sus muchos "Encantada de conocerte". Esta es una historia cautivadora y desgarradora de reuniones y despedidas.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/14POZD5iXZpGVyhilFPHB9g" type="text/html" title="CAJM-Translations"/>
 </entry>
 </feed>

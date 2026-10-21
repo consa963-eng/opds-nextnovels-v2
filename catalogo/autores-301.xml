@@ -1,25 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Mikumo Gakuto</id>
-<title>Mikumo Gakuto</title>
-<updated>2026-10-20T22:58:27.591319+00:00</updated>
+<id>nextnovels:autores:Inori</id>
+<title>Inori</title>
+<updated>2026-10-21T00:13:50.619693+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-301.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>The Mystic Archives of Dantalian Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-mystic-archives-of-dantalian-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-mystic-archives-of-dantalian-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/The-Mystic-Archives-of-Dantalian-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/05/The-Mystic-Archives-of-Dantalian-Portada.jpg"/>
-<author><name>Mikumo Gakuto</name></author>
-<category term="Acción" label="Acción"/>
+<title>Homunculus Tears Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-homunculus-tears-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-homunculus-tears-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/07/Homunculus-Tears-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/07/Homunculus-Tears-Portada.jpg"/>
+<author><name>Inori</name></author>
+<category term="Aventura" label="Aventura"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Horror" label="Horror"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Shounen" label="Shounen"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">El joven Huey se hizo cargo de la antigua mansión de su difunto abuelo, un apasionado de los libros, así como de la colección de libros que allí se guardaba. Pero había una condición: también tenía que heredar la «Bibliotheca».
+<category term="Yuri" label="Yuri"/>
+<content type="text">En medio de un conflicto eterno entre humanos y demonios, Maha, una alquimista marcada por la guerra, ha aprendido a sobrevivir sin detenerse a mirar atrás. La lucha constante es su única certeza… hasta que, en medio del caos, aparece una creación inesperada: un homúnculo nacido de su propia sangre. Portador de un poder capaz de alterar el curso de la guerra, esa presencia no solo desafía al mundo, sino también a la razón misma por la que Maha sigue en pie.
 
-Al inspeccionar la mansión, Huey descubre un sótano lleno de libros apilados. En medio de ellos se encuentra con una chica vestida de negro que lee en silencio un libro. Se llama Dalian y lleva un gran candado colgado delante. Ella misma es la entrada a la «Bibliotheca de Dantalian», que contiene los prohibidos «Libros Fantasma».</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-mystic-archives-of-dantalian-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Esta es una historia que confronta el dolor de existir, y reescribe el significado de una frase que muchos alguna vez pensaron:
+
+«Ojalá nunca hubiera nacido».</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-homunculus-tears-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+<entry>
+<title>I’m in Love with the Villainess Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-im-in-love-with-the-villainess-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-im-in-love-with-the-villainess-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/07/I-Favor-the-Villainess-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/07/I-Favor-the-Villainess-Portada.jpg"/>
+<author><name>Inori</name></author>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Romance" label="Romance"/>
+<category term="Shoujo Ai" label="Shoujo Ai"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">— Aunque sea la heroína de este juego Otome... ¿De verdad es malo que me guste la villana? ¿Qué consecuencias me traerá?
+
+Oohashi Rei, una oficinista y esclava del trabajo, de repente se reencarnó en un nuevo mundo y despertó en el cuerpo de la protagonista de su juego Otome favorito: Revolution. Para su suerte, con la primera persona que se encuentra al despertarse es Claire François, ¡La villana de esta historia! y que también, es uno de los personajes favoritos de Rei.
+
+Sin pensarlo demasiado, Rei decide enamorar a Claire en lugar de a los demás protagonistas masculinos que existen dentro del juego... Pero, ¿Cómo reaccionará la villana? ¿Tendrá una reacción positiva a las pretensiones de Rei? ¿O solo le esperará un destino de rechazos?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/100W_9MyRyQbKEYMQsyhQHQ" type="text/html" title="World Project, MangaProject y Recuerdos de Beako"/>
+</entry>
+<entry>
+<title>I’m in Love with the Villainess: She’s So Cheeky for a Commoner Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-im-in-love-with-the-villainess-shes-so-cheeky-for-a-commoner-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-im-in-love-with-the-villainess-shes-so-cheeky-for-a-commoner-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/07/Im-in-Love-with-the-Villainess-Shes-so-Cheeky-for-a-Commoner-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/07/Im-in-Love-with-the-Villainess-Shes-so-Cheeky-for-a-Commoner-Portada.jpg"/>
+<author><name>Inori</name></author>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<category term="Yuri" label="Yuri"/>
+<content type="text">¡Ahora, son los villanos quienes cuentan la historia!
+
+Claire François lo tiene todo: belleza, inteligencia y sangre noble. Como hija de un destacado aristócrata, asume su estatus y las responsabilidades que conlleva con la mayor seriedad, incluso cuando el rey amenaza con desestabilizar el reino con sus absurdas ideas de «meritocracia». Claire está dispuesta a adaptarse a este cambio social, hasta que una nueva estudiante plebeya en su exclusiva academia, Rei Taylor, pone su mundo patas arriba. Todo en Rei desconcierta a Claire: desde su comportamiento y su inteligencia hasta su extraña fifijación con ella. Lo que Claire no imagina es cuánto cambiará Rei su vida... y cuánto cambiará ella la de Rei.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1YxENTO6yvjEk8ErNtU1E1Q" type="text/html" title="MangaProject"/>
 </entry>
 </feed>

@@ -1,46 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Yu Hyemin</id>
-<title>Yu Hyemin</title>
-<updated>2026-10-20T22:58:27.648101+00:00</updated>
+<id>nextnovels:autores:Mikito Chinen</id>
+<title>Mikito Chinen</title>
+<updated>2026-10-21T00:13:50.663864+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-570.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Miss Pendleton Novela Web en Español</title>
-<id>https://nextnovels.com/descargar-miss-pendleton-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-miss-pendleton-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/09/Miss-Pendleton-Portada-1.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/09/Miss-Pendleton-Portada-1.jpg"/>
-<author><name>Yu Hyemin</name></author>
+<title>Ameku M.D.: Doctor Detective Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-ameku-m-d-doctor-detective-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-ameku-m-d-doctor-detective-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/04/Ameku-MD-Doctor-Detective-Portada1.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/04/Ameku-MD-Doctor-Detective-Portada1.jpg"/>
+<author><name>Mikito Chinen</name></author>
 <category term="Acción" label="Acción"/>
 <category term="Aventura" label="Aventura"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Histórico" label="Histórico"/>
-<category term="Josei" label="Josei"/>
-<category term="Romance" label="Romance"/>
-<content type="text">Laura Pendleton, la famosa casamentera de la alta sociedad.
-
-Creía que esta última petición, encontrar pareja para Ian Dalton, un soltero de primera y rico terrateniente, sería pan comido.
-
-Al menos, hasta que conoció al hombre envuelto en nada más que obstinación.
-
-«Ya te habrás enterado. Cuántos problemas le ha costado a mi hermana traerme aquí».
-
-Una nariz recta y unos ojos que irradiaban una elegancia refinada. La señorita Pendleton pensó:
-
-Con un rostro como ese, podría llevarse a cualquier dama en carruaje a su finca.
-
-Y muy pronto se dio cuenta de lo acertada que era su valoración.
-
-—¿Me está diciendo que me case con otra persona ahora mismo?
-
-Su hermoso rostro se torció ligeramente antes de volver a hablar.
-
-—Cásese conmigo, señorita Pendleton.
-
-Un anillo de diamantes de corte fino brillaba a la luz.
-
-Se lo tendió a Laura Pendleton, una solterona de veintinueve años.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-miss-pendleton-novela-web-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Maduro" label="Maduro"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">La Dra. Takao Ameku es la brillante pero excéntrica directora de patología investigativa del Hospital General Tenikai, encargada de diagnosticar a los pacientes que los demás departamentos del hospital no pueden. Sin embargo, debido a su pasión por resolver misterios, Takao también se ve envuelta en muertes misteriosas y asesinatos, arrastrando a su asistente Yu Takanashi a sus diversas aventuras.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1JKKcLqsgRGBWlaK15pVcAA" type="text/html" title="Next Novels (MTL)"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1JWtsFTEl8go_nqcCJaJf8w" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 </feed>

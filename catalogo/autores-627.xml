@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Murakami Rin</id>
+<title>Murakami Rin</title>
+<updated>2026-10-21T00:13:50.673079+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-627.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>Omae o Otaku ni Shiteyaru kara, Ore o Riajuu ni Shitekure! Novela Ligera en Español</title>
+<id>https://nextnovels.com/omae-o-otaku-ni-shiteyaru-kara-ore-o-riajuu-ni-shitekure-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/omae-o-otaku-ni-shiteyaru-kara-ore-o-riajuu-ni-shitekure-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/06/Omae-o-Otaku-ni-Shiteyaru-kara-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/06/Omae-o-Otaku-ni-Shiteyaru-kara-Portada.jpg"/>
+<author><name>Murakami Rin</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Kashiwada Naoki estaba decidido a llevar su vida de preparatoria sin que nadie sepa que él es un Otaku. Sin embargo, su bella compañera de clase, Koigasaki Momo, que se rumorea es una ramera, lo descubre. Ante el desesperado Kashiwada, ella dijo algo sin dudas sorprendente.
+
+“¿Acaso no eres un Otaku? ¡Entonces, conviérteme en una Otaku!”
+
+¡¡La historia de amor de dos individuos unidos por un acuerdo de Otaku y Riajuu comienza!!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1pwOt4SEFPvacee9bZi3QTQ" type="text/html" title="Anime in My Life"/>
+</entry>
+</feed>

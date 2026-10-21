@@ -1,26 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Yousuke Saeki</id>
-<title>Yousuke Saeki</title>
-<updated>2026-10-20T22:58:27.647723+00:00</updated>
+<id>nextnovels:autores:Mikazuki Kougetsu</id>
+<title>Mikazuki Kougetsu</title>
+<updated>2026-10-21T00:13:50.663439+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-568.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>My Girlfriend’s Mother is my First Love Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-my-girlfriends-mother-is-my-first-love-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-my-girlfriends-mother-is-my-first-love-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/My-Girlfriends-Mother-is-my-First-Love-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/09/My-Girlfriends-Mother-is-my-First-Love-Portada.jpg"/>
-<author><name>Yousuke Saeki</name></author>
-<category term="Adulto" label="Adulto"/>
+<title>Omamori Himari Novela Ligera en Español</title>
+<id>https://nextnovels.com/omamori-himari-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/omamori-himari-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/03/Omamori-Himari-Portada.jpeg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/03/Omamori-Himari-Portada.jpeg"/>
+<author><name>Mikazuki Kougetsu</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
 <category term="Harem" label="Harem"/>
-<category term="Maduro" label="Maduro"/>
 <category term="Romance" label="Romance"/>
-<category term="Smut" label="Smut"/>
-<content type="text">"¡No le digas a mi hija que fuiste mi primer...!"
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">¡La novelización de una popular serie animada! ¿¡Solo en esta novela, se encontrarán con una Himari más atrevida!?
 
-¡El primer amor con el que finalmente me reencontré resultó ser la madre de mi novia! Ocultándoselo a su amante, Urusuke vuelve a d3vor4r el v0luptuos0 cu3rpo de Sae, y los dos se hund3n cada vez más en una rel4ción c4rn4l proh1bid4.
+Amakawa Yuuto, es un estudiante común de secundaria superior el cual pese a ser alérgico a los gatos, es protegido por un ayakashi gato. La gata ayakashi Himari, la Ayakashi serpiente Shizuku y Kuzaki Rinko la vecina, pelean por Yuuto, ¡incluso a día de hoy, la casa Amakawa es bulliciosa! Himari y los demás reciben la orden del profesor a cargo de hacer una tarea con la que tendrán una bonificación especial. Cuando estaban en ello, Yuuto se encuentra con una mujer que tiene el rostro de su madre…… ¡El popular manga es novelizado con una historia completamente original! ¡Presentamos una nostálgica comedia romántica!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1CrT9dMOvc987vPwiew4n_g" type="text/html" title="Uku Tanslations"/>
+</entry>
+<entry>
+<title>Saikin, Imouto no Yousu ga Chotto Okashiinda ga Novela Ligera en Español</title>
+<id>https://nextnovels.com/saikin-imouto-no-yousu-ga-chotto-okashiinda-ga-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/saikin-imouto-no-yousu-ga-chotto-okashiinda-ga-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-53.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-53.jpg"/>
+<author><name>Mikazuki Kougetsu</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Kanzaki Mitsuki, una chica de instituto, acaba de recibir un nuevo hermano mayor cuando su madre se vuelve a casar con un compañero divorciado con un hijo. Poco después, su nuevo padrastro es trasladado al extranjero y su madre le sigue, dejando a Mitsuki sola con su nuevo hermanastro, Yuuya. Sintiéndose abandonada por su madre, se mantiene distante de Yuuya, sin llevarse nunca muy bien con él ni siquiera mantener una conversación con él.
 
-¡Cuando Kao finalmente los descubre, arranca un d3pr4v4do tr1o entr3 madre e hija! ¡Quitándol3s la v1rg1n1d4d, alin3ando sus tr4s3ros y 3mb1stiéndol4s por turnos! ¡Emb4r4z4 t4nto a la madre como a la hija para forjar un nuevo futuro!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-my-girlfriends-mother-is-my-first-love-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Sin embargo, un día, Mitsuki recibe la visita de un ángel/fantasma llamado Hiyori que se apodera de su cuerpo e intenta hacer avances sexuales hacia Yuuya. Hiyori es el espíritu perdido de una chica que murió pero que no puede alcanzar las puertas del cielo y llegar a la paz eterna. Para alcanzar el cielo, Hiyori le pone a Mitsuki un cinturón llamado TST que se llena cada vez que Mitsuki siente sentimientos sexuales por parte de Yuuya, ya sea por salir en una cita, por besarse o incluso por tener sexo. Por cada vez que se llena, Hiyori gana un paso en un puente que conecta su situación actual y las puertas literales del cielo. Si quiere deshacerse de la molesta Hiyori, Mitsuki tiene que hacer algunos movimientos atrevidos y sensuales contra su propio hermano, aunque sólo sea un hermanastro.
+
+Esta historia paralela muestra los acontecimientos que ocurren durante un determinado festival escolar.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com#Volumenes" type="text/html" title="Relicta Novels"/>
 </entry>
 </feed>

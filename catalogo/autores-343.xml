@@ -1,47 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Nanana</id>
-<title>Nanana</title>
-<updated>2026-10-20T22:58:27.599767+00:00</updated>
+<id>nextnovels:autores:Kaeruda Ameko</id>
+<title>Kaeruda Ameko</title>
+<updated>2026-10-21T00:13:50.626581+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-343.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Chanto Suki tte Ieru Ko Musou Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-chanto-suki-tte-ieru-ko-musou-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-chanto-suki-tte-ieru-ko-musou-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/02/Chanto-Suki-tte-Ieru-Ko-Musou-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/02/Chanto-Suki-tte-Ieru-Ko-Musou-Portada.jpg"/>
-<author><name>Nanana</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Harem" label="Harem"/>
+<title>A Lily Blooms in Another World Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-a-lily-blooms-in-another-world-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-a-lily-blooms-in-another-world-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/03/A-Lily-Blooms-in-Another-World-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/03/A-Lily-Blooms-in-Another-World-Portada.jpg"/>
+<author><name>Kaeruda Ameko</name></author>
+<category term="Fantasía" label="Fantasía"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">El método infalible para ganar en una comedia romántica siempre es el mismo:
+<category term="Shoujo Ai" label="Shoujo Ai"/>
+<category term="Yuri" label="Yuri"/>
+<content type="text">"Rompo mi compromiso contigo".
 
-¡Solo hay que decir "Me gustas"!
+Ella, que debería estar despierta como una verdadera heroína en un mundo parecido a un juego shoujo estaba sonriendo cuando escuchó ese veredicto. ¡Lo hice, justo como lo planeé! Y...
 
-Las chicas que sienten algo por el estudiante de preparatoria Izumi han pasado sus días sin atreverse a dar el primer paso.
+Habiendo roto su compromiso, a quien fue a ver inmediatamente fue a su antigua rival.
 
-• La idol admirada por la escuela es, solo cuando está a solas con él, una persona dedicada que no sabe pedir ayuda: Amane Amasaki.
+"¡Ven, liberémonos de esta mansión! ¡Vivamos felices juntos!"
 
-• A pesar de haber sido desheredado, por alguna razón su ex prometida no lo deja en paz: Hakua Shiragiku.
+¡A quien ama la heroína es a la villana!
 
-• La pequeña demonio, que está al lado de la pequeña ángel de la preparatoria... resulta ser sorprendentemente fácil de tratar: Haru Kasuga.
-
-Sin embargo, la que aparece de repente es Nanao Nanase, una chica que, aunque parece común, posee un talento innato de heroina principal.
-
-Nanao lanza una ofensiva directa y descarada hacia Izumi:
-
-“Izumi-kun, me gustas. Sal conmigo”.
-
-“Sí, di ‘Ah~n♪’”
-
-“Izumi-kun, tú me hiciste convertirme en esta clase de chica ¿Sabes?”
-
-“““¿¡E-Esta chica… lo hizo de verdad!?”””
-
-¡¡Al ver esto, Amane y las demás entran en acción…!!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-chanto-suki-tte-ieru-ko-musou-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Allá vamos. ¡Una vida feliz en un mundo diferente de dos mujeres comienza aquí! ...¿eh? Era una vida libre de preocupaciones mundanas con comida de alta calidad a domicilio, villa con baño personal al aire libre y contrato con clase de tesoro nacional y espíritu de alto rango (mofu neko)?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/12Mm64PK7cn7iRv8pKKybtA" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 </feed>

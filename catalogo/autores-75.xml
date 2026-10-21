@@ -1,29 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:F.D. クロ・ノクターン</id>
-<title>F.D. クロ・ノクターン</title>
-<updated>2026-10-20T22:58:27.545093+00:00</updated>
+<id>nextnovels:autores:Aoi Maru</id>
+<title>Aoi Maru</title>
+<updated>2026-10-21T00:13:50.582658+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-75.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>What Remains After the Goodbye Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-what-remains-after-the-goodbye-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-what-remains-after-the-goodbye-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/What-Remains-After-the-Goodbye-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/09/What-Remains-After-the-Goodbye-Portada.jpg"/>
-<author><name>F.D. クロ・ノクターン</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Drama" label="Drama"/>
-<category term="Ficción" label="Ficción"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<title>The Gluttonous Gyaru Was Getting Cheated On, So I’ll Capture Her Stomach and Steal Her Away Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-gluttonous-gyaru-was-getting-cheated-on-so-ill-capture-her-stomach-and-steal-her-away-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-gluttonous-gyaru-was-getting-cheated-on-so-ill-capture-her-stomach-and-steal-her-away-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/The-Gluttonous-Gyaru-Was-Getting-Cheated-On-So-Ill-Capture-Her-Stomach-and-Steal-Her-Away-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/08/The-Gluttonous-Gyaru-Was-Getting-Cheated-On-So-Ill-Capture-Her-Stomach-and-Steal-Her-Away-Portada.jpg"/>
+<author><name>Aoi Maru</name></author>
 <category term="Romance" label="Romance"/>
-<category term="Suspenso" label="Suspenso"/>
-<content type="text">Tres obras cortas que exploran la vida cuando los sentimientos se guardan, las discusiones ocurren en silencio y los amores parecen eternos.
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Gakuto Suou, un chico, termina presenciando por pura casualidad el momento en que Shizuku Kushina, la gyaru más linda de su clase, descubre que su novio le fue infiel.
 
-Aun así, el destino puede obligar a decir adiós, sin importar la situación en la que uno se encuentre.
+Su exnovio rechazaba el enorme apetito de Shizuku, pero Gakuto la acepta tal como es. Por su parte, Shizuku disfruta feliz cada plato que él prepara. Sin darse cuenta, entre ambos comienza a brotar un sentimiento especial.
 
-La vida puede ser cruel, pero también es quien nos enseña a vivir.
-
-Y si hoy no te dice nada, no pasa nada. Quizá mañana sí.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-what-remains-after-the-goodbye-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Esta es la historia de un chico que ama cocinar para los demás y de una gyaru siempre hambrienta que solo quiere comer hasta quedar satisfecha; una historia en la que, mientras él cocina una y otra vez y ella disfruta cada bocado, ambos se van enamorando poco a poco</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1j-8WdO2rErMxA74uPhWUcg" type="text/html" title="Tamashi's Project"/>
 </entry>
 </feed>

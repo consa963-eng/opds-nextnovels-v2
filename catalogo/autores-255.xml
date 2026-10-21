@@ -1,25 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kuou Haruki</id>
-<title>Kuou Haruki</title>
-<updated>2026-10-20T22:58:27.582143+00:00</updated>
+<id>nextnovels:autores:Hirano Danshaku y Atelier Kaguya</id>
+<title>Hirano Danshaku y Atelier Kaguya</title>
+<updated>2026-10-21T00:13:50.612418+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-255.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Liar Liar Novela Ligera en Español</title>
-<id>https://nextnovels.com/liar-liar-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/liar-liar-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/06/Liar-Liar-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/06/Liar-Liar-Portada.jpg"/>
-<author><name>Kuou Haruki</name></author>
-<category term="Comedia" label="Comedia"/>
+<title>Mama × Holic Novela Ligera en Español</title>
+<id>https://nextnovels.com/mama-holic-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/mama-holic-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/08/Mama-%C3%97-Holic-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/08/Mama-%C3%97-Holic-Portada.jpg"/>
+<author><name>Hirano Danshaku y Atelier Kaguya</name></author>
+<category term="Adulto" label="Adulto"/>
+<category term="Fantasía" label="Fantasía"/>
 <category term="Harem" label="Harem"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Una isla escolar (academia) donde los estudiantes se baten en duelo (juego) para determinar sus rangos. Yo, Hiroto Shinohara, logré el mejor resultado de todos los tiempos en el examen de traslado de la isla academia más difícil de Japón, derroté al campeón absoluto del año anterior, Sarasa Saionji, en mi primer día en la academia, y me convertí en el «Siete Estrellas» que más rápido ha reinado en la historia de la isla academia. … Ah, por supuesto, todo eso es mentira.
+<category term="Hentai" label="Hentai"/>
+<category term="Maduro" label="Maduro"/>
+<content type="text">Una sociedad en la que conviven humanos y subhumanos.
 
-Tengo un gran problema, y para cumplir mi propósito en la isla escolar, tengo que seguir reinando en la cima, aunque sea una mentira. Para ello, utilizaré cualquier cosa, incluso el engaño de Himeji, la hermosa doncella que me asiste como su maestro, y mi complicidad con Saionji, que en realidad era una joven falsa. Entonces empecemos la mentira que ganará el mundo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/liar-liar-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Taichi, que ama tanto a los subhumanos que se convirtió en alumno de la Academia Ajinzuka, a la que acuden muchas chicas subhumanas, adquirió accidentalmente una constitución peculiar que despierta y atrae a los subhumanos.
+
+La maestra y maga de la escuela, Avril, que planeaba hacer suyo a Taichi, provocó un accidente mientras preparaba una poción de amor en el aula experimental de la escuela, y sus ingredientes pusieron en coma a los subhumanos de sus alumnos.
+
+La única manera de despertarlos es crear una poción especial hecha con la leche materna producida por los subhumanos, la «Leche Sagrada Universal».
+
+Y para ello es necesario llevar los fl*idos corporales del Taichi peculiarmente constituido, el s*men más efectivo de todos, al cuerpo de los subhumanos que producen la leche materna.
+
+Así es como Taichi terminó teniendo s*xo con las chicas subhumanas que tenían una alta aptitud para producir «leche sagrada universal»…</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1Ov106bccMcgWLnfOJVPBog" type="text/html" title="Defous123"/>
 </entry>
 </feed>

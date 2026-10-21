@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Naoki Morishita</id>
+<title>Naoki Morishita</title>
+<updated>2026-10-21T00:13:50.678421+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-659.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>The Tale of Cudlestate Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-tale-of-cudlestate-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-tale-of-cudlestate-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/07/The-Tale-of-Cudlestate-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/07/The-Tale-of-Cudlestate-Portada.jpg"/>
+<author><name>Naoki Morishita</name></author>
+<category term="Aventura" label="Aventura"/>
+<category term="Fantasía" label="Fantasía"/>
+<content type="text">Cada invierno, dos jóvenes llamados Dane y Carta abandonan su aldea, situada en el corazón de las montañas, para dirigirse a la gran ciudad en busca de algún dinero que llevar de vuelta a casa. Sin embargo, este año, debido a la inminente guerra, todas las oportunidades de empleo decentes han desaparecido con rapidez. Tan solo quedan numerosos reclutadores en busca de mercenarios dispuestos a unirse a ellos. Es así que, al toparse con un anuncio que busca nuevos reclutas para una banda de ladrones con tintes "caballerescos", los dos no pueden evitar pensar que, a pesar de todo, puedan aprovechar el invierno.
+
+Al unirse a esta banda peculiar, reciben un entrenamiento especial diseñado para prepararlos ante la inminente guerra. Mientras tanto, en medio de una trama de confabulaciones y conspiraciones, estalla la largamente esperada guerra entre el Imperio y la Unión.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-tale-of-cudlestate-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+</feed>

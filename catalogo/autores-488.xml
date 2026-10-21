@@ -1,33 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Sushi Thunder</id>
-<title>Sushi Thunder</title>
-<updated>2026-10-20T22:58:27.632385+00:00</updated>
+<id>nextnovels:autores:Kujou Ren</id>
+<title>Kujou Ren</title>
+<updated>2026-10-21T00:13:50.650796+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-488.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Umezono the Narcissist and His Little Devotee Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-umezono-the-narcissist-and-his-little-devotee-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-umezono-the-narcissist-and-his-little-devotee-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/Umezono-the-Narcissist-and-His-Little-Devotee-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/03/Umezono-the-Narcissist-and-His-Little-Devotee-Portada.jpg"/>
-<author><name>Sushi Thunder</name></author>
-<category term="Comedia" label="Comedia"/>
+<title>Today, the Honor Student Died Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-today-the-honor-student-died-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-today-the-honor-student-died-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/Today-the-Honor-Student-Died-Portada.jpeg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/03/Today-the-Honor-Student-Died-Portada.jpeg"/>
+<author><name>Kujou Ren</name></author>
 <category term="Drama" label="Drama"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
+<category term="Shoujo" label="Shoujo"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">"Si vas a llorar, me ayudaría que te movieras de lugar. Me distrae cuando estoy tratando de tomar fotos."
+<content type="text">Miharu Tonose siempre se esforzaba por caer bien a todo el mundo: seguía el juego a sus amigos y profesores, y desempeñaba el papel de la estudiante modelo perfecta. Pero justo cuando empieza su segundo año de instituto, se convierte en víctima de acoso escolar. Atónita e indefensa en un parque con sus libros de texto destrozados, tiene un encuentro inesperado con Aoto Mikami, un compañero de clase del que se rumorea que es un delincuente juvenil.
 
-Kazuki Umezono, un estudiante de preparatoria narcisista, un día se encuentra con Erina Kirimura, una chica víctima de bully1ng, detrás del edificio de la escuela cuando había ido allí para tomarse una selfie.
+A partir de ese momento, mientras su aislamiento en el instituto se agrava, su vínculo con Aoto comienza a crecer. A medida que Miharu se adentra en un mundo nuevo y experimenta sentimientos que nunca había conocido —el amor, la dependencia—, poco a poco empieza a redescubrirse a sí misma.
 
-Con la intención de demostrar lo grande que es el amor que siente por sí mismo, Umezono interviene en el bully1ng; y para su sorpresa, termina resolviendo la situación, por lo que Kirimura le queda profundamente agradecida.
+¿Qué respuesta encuentra Miharu tras perder de vista quién es realmente?
 
-Seis meses después, una hermosa desconocida que dice ser su seguidora aparece frente a Umezono.
-
-¡Esa chica era precisamente Kirimura, la muchacha a la que Umezono había ayudado (aunque fuera de manera indirecta)!
-
-Umezono intenta idear formas de mantener distancia de Kirimura, quien se le ha encariñado, pero, en contra de sus propios deseos, cada vez más personas empiezan a involucrarse a su alrededor...
-
-¡Una comedia romántica sobre un estudiante solitario que se ama demasiado a sí mismo y una chica perfecta que lo admira profundamente!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-umezono-the-narcissist-and-his-little-devotee-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Una conmovedora y emotiva historia de amor y madurez que te conmoverá hasta las lágrimas.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1_aHfK5gRm9TTVyHeBGvPDQ" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 </feed>

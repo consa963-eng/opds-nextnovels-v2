@@ -1,238 +1,359 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:generos:Histórico</id>
-<title>Histórico</title>
-<updated>2026-10-20T22:58:27.704535+00:00</updated>
+<id>nextnovels:generos:Gender Bender</id>
+<title>Gender Bender</title>
+<updated>2026-10-21T00:13:50.827109+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-17.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Arslan Senki Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-arslan-senki-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-arslan-senki-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/02/Arslan-Senki-1-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/02/Arslan-Senki-1-Portada.jpg"/>
-<author><name>Yoshiki Tanaka</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Histórico" label="Histórico"/>
-<category term="Seinen" label="Seinen"/>
-<content type="text">Después de una pérdida inesperada y devastadora en la Batalla de Atropátene, el Príncipe Heredero de Pars debe recuperar nuevas fuerzas y hacer nuevos aliados para recuperar su reino perdido. Arslan, de 14 años, ha estado protegido durante la mayor parte de su vida, pero ahora debe enfrentar los desafíos de la guerra, la traición, la política y algo aún más siniestro que se avecina en el horizonte.
-
-Con la ayuda de unos pocos seguidores leales, Arslan aprende rápidamente que nada es lo que parece en la superficie. Su propia historia familiar, la identidad del extraño enmascarado que intenta matarlo y la causa de los eventos sobrenaturales cada vez más extraños son todos misterios por resolver.
-
-Ambientada en una representación ficticia de la antigua Persia, esta historia clásica del autor japonés Yoshiki Tanaka combina intriga política, tácticas militares y fantasía.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-arslan-senki-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
-</entry>
-<entry>
-<title>Bowing to Love Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-bowing-to-love-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-bowing-to-love-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/04/Bowing-to-Love-Portada.jpeg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/04/Bowing-to-Love-Portada.jpeg"/>
-<author><name>Saki Aida</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Histórico" label="Histórico"/>
-<category term="Romance" label="Romance"/>
-<category term="Yaoi" label="Yaoi"/>
-<content type="text">Luciano es un noble que cree que el amor no es más que una pérdida de tiempo y energía. Es decir, hasta el día en que sea salvado por el guapo y poderoso gladiador, Dominatus.
-
-De repente, perder el tiempo no parece una mala idea, con la compañía adecuada. Incapaz de confesar los abrumadores sentimientos que tiene por su salvador, Luciano paga por una noche de placer con Dominatus, lo que desencadena una serie de encuentros sexuales entre ellos.
-
-Luciano anhela al otro hombre, pero teme que, si se descubre su relación, el gran abismo entre sus posiciones sociales podría causar problemas.
-
-Pero cuando Dominatus se enfrenta a un gladiador favorecido por el emperador, salta a la batalla sin dudarlo, sabiendo que la pelea podría costarle la vida. ¿Saldrá Dominatus victorioso o se perderá el amor en las arenas de la Arena antes de que Luciano pueda desnudar su corazón?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-bowing-to-love-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
-</entry>
-<entry>
-<title>I am Blue, in Pain, and Fragile Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-i-am-blue-in-pain-and-fragile-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-i-am-blue-in-pain-and-fragile-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/I-am-Blue-in-Pain-and-Fragile-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/08/I-am-Blue-in-Pain-and-Fragile-Portada.jpg"/>
-<author><name>Yoru Sumino</name></author>
-<category term="Histórico" label="Histórico"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<content type="text">¿Qué pasa cuando las personas que prometen cambiar el mundo terminan destruyéndose entre ellas?...
-
-“La Fragilidad del Azul” es una historia intensa y dolorosamente humana sobre ideales, amistad y las heridas que dejamos crecer. Entre secretos, traiciones y sueños rotos, dos jóvenes descubrirán que aferrarse al pasado puede ser mucho más peligroso que dejarlo ir.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-i-am-blue-in-pain-and-fragile-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
-</entry>
-<entry>
-<title>I Wish I Could Meet You Again on the Hill Where That Flower Blooms Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-i-wish-i-could-meet-you-again-on-the-hill-where-that-flower-blooms-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-i-wish-i-could-meet-you-again-on-the-hill-where-that-flower-blooms-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/I-Wish-I-Could-Meet-You-Again-on-the-Hill-Where-That-Flower-Blooms-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/06/I-Wish-I-Could-Meet-You-Again-on-the-Hill-Where-That-Flower-Blooms-Portada.jpg"/>
-<author><name>Natsue Shiomi</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Histórico" label="Histórico"/>
-<category term="Romance" label="Romance"/>
-<content type="text">Yuri Kano está harta de su vida asfixiante y sin rumbo. Tras una amarga pelea con su madre, se escapa, en busca de consuelo o tal vez solo de una salida. Cuando pasa la noche refugiada en un búnker antiaéreo abandonado, nunca imagina que despertará… en el Japón de la guerra.
-
-Atrapada en un pasado que no comprende, Yuri conoce a un joven piloto kamikaze que se prepara para su última misión. Él es amable, valiente y está condenado a un destino desgarrador. A medida que su vínculo se fortalece, Yuri se encuentra dividida entre el mundo del que proviene y el chico que la hace querer quedarse.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-i-wish-i-could-meet-you-again-on-the-hill-where-that-flower-blooms-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
-</entry>
-<entry>
-<title>Koukyuu no Karasu Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-koukyuu-no-karasu-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-koukyuu-no-karasu-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/04/Koukyuu-no-Karasu-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/04/Koukyuu-no-Karasu-Portada.jpg"/>
-<author><name>Shirakawa Kouko</name></author>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Histórico" label="Histórico"/>
-<category term="Horror" label="Horror"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Romance" label="Romance"/>
-<category term="Shoujo" label="Shoujo"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">En lo más profundo de los muros del palacio vive la solitaria y misteriosa Consorte del Cuervo. Algunos dicen que es una anciana, mientras que otros afirman que es joven y hermosa. En lo que todas las historias coinciden es en que tiene el poder de exorcizar espíritus, lanzar maldiciones fatales y encontrar objetos perdidos—por un precio. Cuando el joven emperador llega a la puerta de la Consorte del Cuervo en busca de ayuda mágica, su petición podría sacudir el palacio… o quizá incluso el reino entero.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-koukyuu-no-karasu-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
-</entry>
-<entry>
-<title>Miss Pendleton Novela Web en Español</title>
-<id>https://nextnovels.com/descargar-miss-pendleton-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-miss-pendleton-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/09/Miss-Pendleton-Portada-1.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/09/Miss-Pendleton-Portada-1.jpg"/>
-<author><name>Yu Hyemin</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Histórico" label="Histórico"/>
-<category term="Josei" label="Josei"/>
-<category term="Romance" label="Romance"/>
-<content type="text">Laura Pendleton, la famosa casamentera de la alta sociedad.
-
-Creía que esta última petición, encontrar pareja para Ian Dalton, un soltero de primera y rico terrateniente, sería pan comido.
-
-Al menos, hasta que conoció al hombre envuelto en nada más que obstinación.
-
-«Ya te habrás enterado. Cuántos problemas le ha costado a mi hermana traerme aquí».
-
-Una nariz recta y unos ojos que irradiaban una elegancia refinada. La señorita Pendleton pensó:
-
-Con un rostro como ese, podría llevarse a cualquier dama en carruaje a su finca.
-
-Y muy pronto se dio cuenta de lo acertada que era su valoración.
-
-—¿Me está diciendo que me case con otra persona ahora mismo?
-
-Su hermoso rostro se torció ligeramente antes de volver a hablar.
-
-—Cásese conmigo, señorita Pendleton.
-
-Un anillo de diamantes de corte fino brillaba a la luz.
-
-Se lo tendió a Laura Pendleton, una solterona de veintinueve años.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-miss-pendleton-novela-web-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
-</entry>
-<entry>
-<title>Sparks of Tomorrow Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-sparks-of-tomorrow-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-sparks-of-tomorrow-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/Sparks-of-Tomorrow-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/07/Sparks-of-Tomorrow-Portada.jpg"/>
-<author><name>Yuuki Hiro</name></author>
-<category term="Aventura" label="Aventura"/>
-<category term="Drama" label="Drama"/>
-<category term="Histórico" label="Histórico"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<content type="text">Quisiera que lo recordaras.
-
-La luz existe porque alguien la encendió.
-
-«¿Morirías conmigo y me llevarías al Paraíso de la Tierra Pura?».
-
-Año 40 de la era Meiji (1907). Verano. Inari Momokawa, que vive en Fushimi, Kioto, no consigue hacer nada bien y todos los días recibe las reprimendas de su padre. Su único consuelo es orar y creer en los dioses y en Buda. Cierto día, mientras junta las manos en el Santuario Fushimi Inari como de costumbre, conoce a un muchacho libre y despreocupado, Kihachi Sakamoto, quien escupe con desdén: «Yo no creo en lo que no se ve». Él niega a los dioses y a Buda, y proclama con orgullo que de ahora en adelante será la era de la electricidad.
-
-En esas circunstancias, a Inari le comunican de repente que han arreglado su matrimonio. Aunque es una decisión unilateral de su padre, ella se resigna pensando que ese es su escaso valor. Kihachi extrae de ella el verdadero deseo de escapar que oculta y la saca de la casa donde estaba encerrada.
-
-La única forma de impedir la boda es encontrar el extraño libro Denki Mokuroku. Se trata de un cuaderno de predicciones sobre la electricidad que Kihachi escribió de niño y que su hermano mayor, Seitarō, se llevó consigo tiempo atrás, quedando desde entonces en paradero desconocido. Kihachi e Inari buscarán el Denki Mokuroku mientras huyen por las tierras de Kioto y Shiga.
-
-El Denki Mokuroku desaparecido. El secreto que esconde es...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-sparks-of-tomorrow-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
-</entry>
-<entry>
-<title>Sword of the Demon Hunter Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-sword-of-the-demon-hunter-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-sword-of-the-demon-hunter-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Sword-of-the-Demon-Hunter-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/08/Sword-of-the-Demon-Hunter-Portada.jpg"/>
-<author><name>Motoo Nakanishi</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Histórico" label="Histórico"/>
-<category term="Seinen" label="Seinen"/>
-<content type="text">En esta épica fantástica de humanos y demonios que atraviesa el tiempo, un guerrero del Japón feudal debe cazar a un demonio a través de las eras.
-
-Durante generaciones, un santuario se ha alzado en la aldea montañesa de Kadono, y en cada generación el santuario ha tenido a su Itsukihime—su doncella del santuario—y la doncella ha tenido a su guardián. Durante el período Edo, un joven llamado Jinta protege la aldea y a la Itsukihime. Cuando se enfrenta a un extraño demonio en el bosque cercano, este le dice que en un futuro lejano un Dios Demonio amenazará a todas las personas, en todas partes, y afirma que el ascenso al poder del Dios Demonio surge de este mismo tiempo y lugar, en la aldea de Kadono. Así comienza el viaje de siglos de un hombre manchado por los demonios, cazando a través del tiempo para buscar justicia por lo que ha perdido y para encontrar una razón para seguir luchando.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-sword-of-the-demon-hunter-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
-</entry>
-<entry>
-<title>The Ambition of Oda Nobuna Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-ambition-of-oda-nobuna-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-ambition-of-oda-nobuna-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/07/Oda-Nobuna-no-Yabou-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/07/Oda-Nobuna-no-Yabou-Portada.jpg"/>
-<author><name>Kasuga Mikage</name></author>
+<title>A Wild Last Boss Appeared! Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-a-wild-last-boss-appeared-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-a-wild-last-boss-appeared-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/A-Wild-Last-Boss-Appeared-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/10/A-Wild-Last-Boss-Appeared-Portada.jpg"/>
+<author><name>Fire Head</name></author>
 <category term="Acción" label="Acción"/>
 <category term="Aventura" label="Aventura"/>
 <category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Histórico" label="Histórico"/>
-<category term="Shounen" label="Shounen"/>
-<content type="text">Repentinamente encontrándose en la era Sengoku, Sagara Yoshiharu, un estudiante normal de bachillerato esta a punto de ser asesinado en el campo de batalla.
-
-Fue salvado por nada más que el hombre que más tarde se convertiría en el infame Toyotomi Hideyoshi pero al costo de su propia vida.
-
-Con la historia completamente cambiada debido a las acciones de Yoshiharu, él intenta hacer las cosas bien otra vez, pero parece que la historia esta tomando un curso diferente de la que él aprendió en la escuela.
-
-Oda Nobunaga es ahora una brillante pero joven señorita llamada Oda Nobuna. Yoshiharu empieza trabajando bajo su mandato para traer la historia de regreso a su curso original y encontrar su camino de regreso a casa al mundo actual.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-ambition-of-oda-nobuna-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<category term="Gender Bender" label="Gender Bender"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">El año es 2800 y Lufas Maphaahl —la Tirana Alada Negra, gran conquistadora y líder de las Doce Estrellas Celestiales— ha regresado. Un hombre despierta en el cuerpo de su personaje de MMO 200 años después de que ella fuera derrotada durante un evento creado por jugadores en el juego Exgate Online. Ahora está atrapado en su cuerpo. Pero esto no es un juego: es real. Con su reinado ya muy atrás y un legado marcado por el miedo, Lufas debe recorrer el mundo de Exgate en busca de respuestas, posibles aliados y todos los monstruos que su «muerte» desató sobre el mundo...</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1HiStJngan1GfbUCpwuMocg" type="text/html" title="Edgno traducciones"/>
 </entry>
 <entry>
-<title>The Apothecary Diaries Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-apothecary-diaries-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-apothecary-diaries-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/09/01-112.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/09/01-112.jpg"/>
-<author><name>Natsu Hyuuga</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Histórico" label="Histórico"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<content type="text">Maomao vive felizmente con su padre boticario, hasta que es secuestrada y vendida al servicio del palacio. Aunque parece normal, tiene un ingenio rápido, una mente aguda y un amplio conocimiento de la medicina. Ese es su secreto, hasta que se encuentra con un residente del palacio al menos tan perspicaz como ella.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-apothecary-diaries-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
-</entry>
-<entry>
-<title>Thousand Autumns Novela en Español</title>
-<id>https://nextnovels.com/descargar-thousand-autumns-novela-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-thousand-autumns-novela-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/Thousand-Autumns-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/02/Thousand-Autumns-Portada.jpg"/>
-<author><name>Meng Xi Shi</name></author>
+<title>Adolescent Adam Novela Ligera en Español</title>
+<id>https://nextnovels.com/adolescent-adam-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/adolescent-adam-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/09/01-21.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/09/01-21.jpg"/>
+<author><name>Namekojirushi</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Artes marciales" label="Artes marciales"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Drama" label="Drama"/>
-<category term="Histórico" label="Histórico"/>
+<category term="Adulto" label="Adulto"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Gender Bender" label="Gender Bender"/>
+<category term="Harem" label="Harem"/>
 <category term="Maduro" label="Maduro"/>
 <category term="Romance" label="Romance"/>
-<category term="Shounen Ai" label="Shounen Ai"/>
-<category term="Wuxia" label="Wuxia"/>
-<content type="text">En el complejo círculo de las artes marciales, lo más importante son la fuerza y el poder. Las distintas sectas buscan imponerse mientras se suceden las peleas por ser el luchador más fuerte. Shen Qiao, el líder de la prestigiosa secta taoísta de la Montaña Xuandu, sufre un accidente en medio de una pelea que hace que pierda todo su poder y su posición como líder. Ciego y sin recuerdos, Shen Qiao tendrá que descubrir la verdad sobre su accidente y sobre sí mismo mientras aprende a vivir con las consecuencias de su accidente.
+<category term="Seinen" label="Seinen"/>
+<category term="Supernatural" label="Supernatural"/>
+<category term="Tragedia" label="Tragedia"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Una pequeña y ruidosa familia, un alegre grupo de compañeros de clase, y un niño, nacido en el primer año del calendario lunar que vive una vida sin cambios. Entonces, un día se fija en una chica de su clase envuelta en un misterio. Se llama Makina. Sin embargo, el chico no se atreve a hablar con Makina. Entonces, un día, antes del primer mes del calendario lunar, aparece otra belleza misteriosa. Se llama Rushia, y mientras se inclina como si fuera a besarle, le habla de un misterioso poder oculto en su interior llamado "Ojos de serpiente".</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1sRTpXZLc7yQWIAiaRPJa4g" type="text/html" title="Akat Novels"/>
+</entry>
+<entry>
+<title>Ashen Moon Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-ashen-moon-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-ashen-moon-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/04/Ashen-Moon-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/04/Ashen-Moon-Portada.jpg"/>
+<author><name>Konohara Narise</name></author>
+<category term="Adulto" label="Adulto"/>
+<category term="Gender Bender" label="Gender Bender"/>
+<category term="Maduro" label="Maduro"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Smut" label="Smut"/>
+<category term="Tragedia" label="Tragedia"/>
+<category term="Yaoi" label="Yaoi"/>
+<content type="text">Una historia paralela en dos volúmenes protagonizada por Soichi, el hijo del director del Grupo Motohashi, que no ha podido estar solo ni un solo instante debido al trauma de haber sido atacado por un enemigo hace cinco años. Al mismo tiempo, sus fetiches reprimidos también salieron a la luz. Satisfacía sus impulsos sexuales delante de su silencioso guardaespaldas, Kato, pero un día, en lugar de usar juguetes, le suplicó a Kato que lo hiciera. Kato obedeció la orden y abrazó a Soichi. Cuando Soichi sintió un placer intenso que nunca había experimentado antes y suplicó por más, Kato se negó, diciendo: «Si tengo que abrazar a alguien, prefiero que sea una mujer». Incluye extras adicionales de Yamada y Michihiko de «Smiling at the Moon».</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1SGgESTSAEM6FwIF3Ihb05A" type="text/html" title="Next Novels (MTL)"/>
+</entry>
+<entry>
+<title>Gonna be the Twin-Tail!! Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-gonna-be-the-twin-tail-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-gonna-be-the-twin-tail-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/11/Ore-Twintail-ni-Narimasu-Portada.jpeg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/11/Ore-Twintail-ni-Narimasu-Portada.jpeg"/>
+<author><name>Yume Mizusawa</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Gender Bender" label="Gender Bender"/>
+<category term="Harem" label="Harem"/>
+<category term="Mecha" label="Mecha"/>
+<category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">¡Para proteger la Tierra, me convierto en «Twin Tail»!
 
-El poderoso «Señor Demonio» Yan Wushi, el arrogante y caprichoso líder de la Secta Huanyue, una de las tres grandes sectas demoníacas, regresa de su retiro de diez años después de ser derrotado por Cui Youwang. Yan Wushi rescata a Shen Qiao con el objetivo de corromperlo y que se una a él, pero pronto descubrirá que Shen Qiao no es fácil como pensaba de ideales y personalidades totalmente distintas, los dos se embarcarán en una aventura en un territorio dividido y marcado por las intrigas donde, contra todo pronóstico, se convertirán en compañeros de viaje.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-thousand-autumns-novela-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+Soji Mitsuka es un estudiante de secundaria normal que ama las colegas gemelas (peinado con dos coletas gemelas) de forma anormal.
+
+Un día, una misteriosa chica hermosa llamada Twoearle aparece ante él, diciendo que viene de otro mundo. Al mismo tiempo, ¡monstruos aparecen en la ciudad donde vive Soji!
+
+"¡Huahahahaha! ¡Todas las coletas gemelas de este mundo serán nuestras!"
+
+Eran gente de otro mundo que vivía de la energía mental de la gente, el "Poder de Atributo". Soji, a quien Twoearle le confió una armadura imaginaria "Tail Gear" que se activa con un poderoso atributo "Twin Tail", ¡se transforma en la pequeña guerrera "Twin Tail", TailRed!
+
+¡Desde ese día, comenzó la batalla fuera de lo común entre TailRed y los pervertidos!!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1gemjUs7aOLBOwtKHMDxw5g" type="text/html" title="Carac Translations"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1r3Wc0cG1LvNKNn1kRdLa0Q" type="text/html" title="Defous123"/>
+</entry>
+<entry>
+<title>I Thought I Had Reincarnated in a Musou Game, But It Turns Out This Is a Hardcore Grimdark Game Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-i-thought-i-had-reincarnated-in-a-musou-game-but-it-turns-out-this-is-a-hardcore-grimdark-game-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-i-thought-i-had-reincarnated-in-a-musou-game-but-it-turns-out-this-is-a-hardcore-grimdark-game-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/I-Thought-I-Had-Reincarnated-in-a-Musou-Game-But-It-Turns-Out-This-Is-a-Hardcore-Grimdark-Game-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/03/I-Thought-I-Had-Reincarnated-in-a-Musou-Game-But-It-Turns-Out-This-Is-a-Hardcore-Grimdark-Game-Portada.jpg"/>
+<author><name>久路途緑</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Gender Bender" label="Gender Bender"/>
+<content type="text">¡¡Una joven adorable devasta el mundo con el poder de la espada sagrada y una locura implacable!!
+
+----¡Ju, ja, ja, ja, ja! ¡No dejaré que elijas cómo vas a morir, pero te dejaré elegir el orden en el que lo harán!
+
+Sharon Berna es una encantadora niña de siete años que ha reencarnado trayendo consigo la violencia extrema y la falta de piedad absoluta hacia el "mal" que poseía en su vida anterior. ¡Con sus habilidades de nivel máximo, hoy también se divierte masacrando a las huestes demoníacas!
+
+En medio de su carnicería, se encuentra con Monica, otra persona que ha reencarnado en este mundo. Al parecer, este es el mundo de un crudo y deprimente videojuego llamado “Para quienes abrazan la espada sagrada”, y las acciones de Sharon ya parecen estar provocando el peor escenario posible: una ruta de genocidio total...
+
+¡¿En serio?!
+
+Sin embargo, a Sharon nada de eso le importa. ¡Con un poder de combate abrumador y una locura que no tiene misericordia con nadie, se dispone a arrasarlo todo a su paso!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/11exWVC3dZIuB0uaGbyHOAA" type="text/html" title="Ichijou Translations"/>
+</entry>
+<entry>
+<title>Kenja no Deshi wo Nanoru Kenja Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-kenja-no-deshi-wo-nanoru-kenja-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-kenja-no-deshi-wo-nanoru-kenja-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/11/01-28.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/11/01-28.jpg"/>
+<author><name>Ryuusen Hirotsugu</name></author>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Gender Bender" label="Gender Bender"/>
+<category term="Magia" label="Magia"/>
+<category term="Romance" label="Romance"/>
+<content type="text">En un VRMMORPG de origen misterioso, Sakimori Kagami con su digno personaje, ostentaba el titulo de ser uno de los Nueve Sabios, lo que lo colocaba en el pináculo de los magos. Un día para no dejar que se desperdiciara su saldo del juego, compro el articulo más barato, el cual permitía modificar la apariencia del personaje, y se le ocurrió la idea de crear el personaje femenino ideal, debido a que ya había creado el masculino, al final de esto, una repentina somnolencia lo atacó, al despertar se encontraba en un mundo más realista que el del juego y se había transformado en una linda jovencita. Por lo que ahora tiene que adaptarse a este mundo con su nueva identidad y genero.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1_UBp-V40WfKAMa4dxyzA4g" type="text/html" title="Ferindrad"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1ZnAqQiMP-MmTdJHplLDLJg" type="text/html" title="LNBytes"/>
+</entry>
+<entry>
+<title>Kämpfer Novela Ligera en Español</title>
+<id>https://nextnovels.com/kampfer-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/kampfer-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/06/Kampfer-Portada-1.jpeg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/06/Kampfer-Portada-1.jpeg"/>
+<author><name>Tsukiji Toshihiko</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Gender Bender" label="Gender Bender"/>
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Natsumi Senou era un estudiante de secundaria común y corriente, o eso pensaba, pero una mañana se despertó ¡convertida en una chica! Y no solo eso, ¡se había convertido en una belleza bastante impresionante! Una figura misteriosa empezó a hablarle a esta nueva Natsumi. Resultó ser un osito de peluche un poco extraño que había recibido de Kaede Sakura, una compañera de clase a la que admiraba. Según ese osito de peluche, parece que Natsumi ha sido elegida como una guerrera llamada «Kämpfer». Al parecer, ahora tiene que pelear contra otros humanos que también se han convertido en «Kämpfer». ¡Una comedia romántica escolar llena de acción presentada por Toshihiko Tsukiji!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/14f3NHgQFkFO3VzHd5KpM6g" type="text/html" title="Defous123"/>
+</entry>
+<entry>
+<title>Moto Hakushaku Reijou wa Otome Game ni Sansen Shimashita Novela Ligera en Español</title>
+<id>https://nextnovels.com/moto-hakushaku-reijou-wa-otome-game-ni-sansen-shimashita-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/moto-hakushaku-reijou-wa-otome-game-ni-sansen-shimashita-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/04/Moto-Hakushaku-Reijou-wa-Otome-Game-ni-Sansen-Shimashita-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/04/Moto-Hakushaku-Reijou-wa-Otome-Game-ni-Sansen-Shimashita-Portada.jpg"/>
+<author><name>Sorahoshi</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Gender Bender" label="Gender Bender"/>
+<category term="Harem" label="Harem"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Shoujo" label="Shoujo"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">¡Dios mío, parece que me reencarné en un juego otome moderno de un mundo de fantasía!
+
+Todo lo que siempre quise fue librarme de mis responsabilidades como doncella y finalmente cumplí mi deseo cuando renací como plebeya en el Japón moderno. Todo iba perfecto, excepto que resulta que este es el mundo de un juego otome y una chica loca que se llama a sí misma la "heroína" está molesta conmigo por robar todos sus "eventos" con los "intereses amorosos" ... Ahora ella quiere que me una a ella contra la "villana". Supuestamente soy un NPC al azar, ¡¿por qué me arrastran a esto ?!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1EevbFYnb1zyPwuqxPu-zig" type="text/html" title="Traducciones FAJARDO"/>
+</entry>
+<entry>
+<title>Neta Chara Tensei Toka Anmari da! Novela Ligera en Español</title>
+<id>https://nextnovels.com/neta-chara-tensei-toka-anmari-da-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/neta-chara-tensei-toka-anmari-da-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/11/01-19.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/11/01-19.jpg"/>
+<author><name>Otonashi Kanade</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Gender Bender" label="Gender Bender"/>
+<category term="Shoujo Ai" label="Shoujo Ai"/>
+<category term="Yuri" label="Yuri"/>
+<content type="text">Toru Aikawa es un estudiante universitario que pasa sus días asistiendo a clases y trabajando en una tienda local. El único momento en el que se siente realmente vivo es cuando juega al VR Real World Online. Un día, tiene un golpe de suerte: es atropellado por un autobús fuera de control y se reencarna en su personaje del juego. Pero algo ha salido mal… En lugar del guerrero invencible que es su personaje principal, se encuentra en el cuerpo de Nacht Schatten, la seductora princesa dragón que creó como una broma. El cuerpo de Nacht está todo menos optimizado: ¡nunca sobreviviría en el despiadado mundo de una historia isekai! Y lo que es más, ¡es una chica! Pero quizás las cosas no sean tan malas como aparentan serlo. Quizá Nacht Schatten sea más capaz de lo que parece.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1PEG14g8ZSCF9-FbXXD0uwQ" type="text/html" title="Ferindrad"/>
+</entry>
+<entry>
+<title>Of Beauty Novela Web en Español</title>
+<id>https://nextnovels.com/descargar-of-beauty-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-of-beauty-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Of-Beauty-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/08/Of-Beauty-Portada.jpg"/>
+<author><name>Konohara Narise</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Gender Bender" label="Gender Bender"/>
+<category term="Romance" label="Romance"/>
+<category term="Yaoi" label="Yaoi"/>
+<content type="text">Matsuoka está enganchado a usar la ropa de su ex novia y salir a caminar por la noche por la ciudad, sintiendo el placer de ser mirado por hombres dondequiera que vaya. Una noche, después de ser asaltado por un hombre durante un encuentro único, es salvado por Hirosue, un trabajador superior anodino de su empresa. Atraído por el amor inocente y puro de Hirosue, Matsuoka continúa reuniéndose con Hirosue vestido de mujer, hasta que Hirosue finalmente se confiesa con él. El pináculo de los logros de Narise Konohara retrata el dolor y la belleza del amor no correspondido, y también ha sido adaptado a una obra de teatro.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1jCekjTZmomAA0Y7Dlcw8qg" type="text/html" title="Shizu Fansub"/>
+</entry>
+<entry>
+<title>Only Sense Online Novela Ligera en Español</title>
+<id>https://nextnovels.com/only-sense-online-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/only-sense-online-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/07/Only-Sense-Online-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/07/Only-Sense-Online-Portada.jpg"/>
+<author><name>Aloha Zachou</name></author>
+<category term="Aventura" label="Aventura"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Gender Bender" label="Gender Bender"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">Utilizando un sistema llamado «Senses» (sentidos), cada jugador tiene como objetivo crear un personaje único en el VRMMOROG «Only Sense Online». Uniéndose a ellos esta Yun, un absoluto principiante en el mundo de los videojuegos, equipado con una de las peores selecciones de sentidos posible. Mientras que sus 2 hermanas, ambas veteranas en este mundo, critican su elección de sentidos y equipo, el continua profundizando en las habilidades que ha adquirido. En el camino, conoce el arte de la &lt;&lt;producción&gt;&gt; y personas que han dominado este arte. Ve como un principiante total crea una revolución en el mundo del videojuego y crea la clase de soporte mas fuerte.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1TeFn_GnL7I-A943jZmfl_Q" type="text/html" title="Trece666, NovelWorld"/>
+</entry>
+<entry>
+<title>Ou-sama no Proposal Novela Ligera en Español</title>
+<id>https://nextnovels.com/ou-sama-no-proposal-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/ou-sama-no-proposal-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/08/Ou-sama-no-Proposal-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/08/Ou-sama-no-Proposal-Portada.jpg"/>
+<author><name>Tachibana Koushi</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Gender Bender" label="Gender Bender"/>
+<category term="Romance" label="Romance"/>
+<category term="Supernatural" label="Supernatural"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Kuozaki Saika. La bruja que continuó salvando el mundo enfrentando eventos apocalípticos una vez cada 300 horas, y la directora de una academia a la que asisten los magos.
+
+"--- A ti, te confío este mundo---"
+
+Y -- la primera chica del amor, que pasó su cuerpo y poder a Kuga Mushiki y murió. Para no ser expuesto por nadie como Saika, el sirviente de Saika, Karasuma Kuroe, le indicó a Mushiki que asistiera a la academia, pero... hermano proviene de una hermana menor reunida.
+
+"Cállate. Tu brazo perderá el control. Más bien, tu boca lo hará, debería decir"
+
+Además, si es descuidado, para volver a ser un hombre, ¿¡es absolutamente necesario un beso de una mujer!?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1e0JSQKv9P0zKmOi2oYHcHw" type="text/html" title="La Maid Hibiki"/>
+</entry>
+<entry>
+<title>Predator Witches Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-predator-witches-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-predator-witches-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/Predator-Witches-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/02/Predator-Witches-Portada.jpg"/>
+<author><name>Bashoka Bashozoku</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Gender Bender" label="Gender Bender"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Supernatural" label="Supernatural"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">La humanidad se encuentra al borde de la extinción debido a la aparición de los Incubi, monstruos de otro mundo que capturan a los humanos para utilizarlos como material de reproducción. Y las únicas que pueden hacer frente a estos enemigos son las Brujas, chicas mágicas a las que seres sobrenaturales han otorgado poderes.
+
+La estudiante de instituto Renka Azuma es una de ellas; su alter ego es Silver Lotus, una chica mágica que controla innumerables insectos para luchar contra los Incubi día tras día.
+
+Un día, Silver Lotus rescata a una compañera bruja, una novata llamada Azure Nova, de un ataque de los Incubi. Este encuentro con su autoproclamada admiradora supone un cambio en la solitaria vida cotidiana de Silver Lotus.
+
+¡Así comienza una oscura fantasía sobre una chica mágica poco ortodoxa que controla insectos para devorar monstruos!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1J4v3m_8JBJKRO5JsBWU44A" type="text/html" title="Next Novels (MTL)"/>
+</entry>
+<entry>
+<title>Reborn to Master the Blade Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-reborn-to-master-the-blade-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-reborn-to-master-the-blade-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/01/01-4.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/01/01-4.jpg"/>
+<author><name>Hayaken</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Gender Bender" label="Gender Bender"/>
+<content type="text">Desde su lecho de muerte, Inglis, el Rey Héroe, caballero divino y maestro de todo lo que contempla, observa el imperio que construyó con su poderosa mano. Habiendo dedicado su vida al gobierno y al bienestar de sus súbditos, su único deseo no cumplido es vivir de nuevo, esta vez para sí mismo: la vida de un guerrero a la que se había entregado antes de ascender al poder. Su diosa patrona, Alistia, escucha su ruego y, sonriendo, envía su alma al lejano futuro. Las diosas actúan de maneras misteriosas: no solo Inglis ahora es la hija de una familia noble menor, sino que, en su primera ceremonia de mayoría de edad, a los 6 años, ¡se le declara inelegible para comenzar su entrenamiento como caballero! Sin embargo, para una dama con la ambición de Inglis, esto no es un revés, sino el desafío para el que (re)nació.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1oR5N3FKrr1IgdduO8v-Ilw" type="text/html" title="GambaTrans"/>
+</entry>
+<entry>
+<title>Risou no Seijo? Zannen, Nise Seijo deshita! Novela Ligera en Español</title>
+<id>https://nextnovels.com/risou-no-seijo-zannen-nise-seijo-deshita-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/risou-no-seijo-zannen-nise-seijo-deshita-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/09/Risou-no-Seijo-Zannen-Nise-Seijo-deshita-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/09/Risou-no-Seijo-Zannen-Nise-Seijo-deshita-Portada.jpg"/>
+<author><name>Kabedondaikou</name></author>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Gender Bender" label="Gender Bender"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Tragedia" label="Tragedia"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Fudou Niito que tiene una personalidad podrida despierta en el cuerpo de la odiada santa falsa Elrise del juego "The Eternal Scattering Flowers" [un juego inadecuado para ser considerado como un galge, ya que la heroína principal, independientemente de la ruta elegida, se encontraría con su desaparición.]. Sin ningún conocimiento de qué demonios estaba pasando, la falsa santa Elrise fue adorada por quienes la rodeaban como la gran santa.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1SRyGEc1raPXeXbmh4uR4EA" type="text/html" title="Slime 07"/>
+</entry>
+<entry>
+<title>The Ending Chronicle Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-ending-chronicle-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-ending-chronicle-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/01/Owari-no-Chronicle-Portada.jpeg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/01/Owari-no-Chronicle-Portada.jpeg"/>
+<author><name>Kawakami Minoru</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Gender Bender" label="Gender Bender"/>
+<category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">El mundo estuvo una vez en guerra con 10 mundos alternativos (Engranajes). Esto se conoció como la Guerra Conceptual y nuestro mundo ganó hace 60 años. Todo esto se ocultó, por lo que ninguna persona normal es consciente de este hecho en la época actual.
+
+Tras la muerte de su abuelo, el estudiante de instituto Sayama Mikoto es convocado de repente por la gigantesca corporación IAI. Se entera de que este mundo se dirige a la destrucción debido a la aceleración de los Núcleos Conceptuales. Para evitarlo, hay que entablar negociaciones con los supervivientes de los otros mundos paralelos para que sus 10 conceptos puedan ser activados.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/13GI1dKJiiSOmQoe_aF-WhA" type="text/html" title="MiraiK, Next Novels (MTL)"/>
+</entry>
+<entry>
+<title>TS Reincarnation Beautiful Girl Netora Reiko Wants to Be Cuckolded Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-ts-reincarnation-beautiful-girl-netora-reiko-wants-to-be-cuckolded-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-ts-reincarnation-beautiful-girl-netora-reiko-wants-to-be-cuckolded-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/TS-Reincarnation-Beautiful-Girl-Netora-Reiko-Wants-to-Be-Cuckolded-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/02/TS-Reincarnation-Beautiful-Girl-Netora-Reiko-Wants-to-Be-Cuckolded-Portada.jpg"/>
+<author><name>Nihonme Ebitenman</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Gender Bender" label="Gender Bender"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Tragedia" label="Tragedia"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">“¡Sobre todo, quiero convertirme en una heroína de NTR!”
+
+En su vida pasada, fue un vil villano que destr0z0 a innumerables parejas.
+
+Ahora, reencarnado en la angelical belleza Reiko Netora.
+
+¡Su único deseo es experimentar el NTR definitivo!
+
+Como una deslumbrante doncella que también comprende la mente masculina, Reiko crea meticulosamente el escenario perfecto para que sea r0b4d4.
+
+Con un encanto calculado, atrapa a su amigo de la infancia y a su mejor amigo, uno tras otro.
+
+Esta belleza TS, obsesionada con la emoción de ser r0b4d4, engaña a todos a su alrededor para destrozar el corazón de su amigo de la infancia en esta escandalosa pero irresistible comedia romántica (?)</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1bwnreVKAXB35IGkI1iP5HA" type="text/html" title="Tamashi's Project"/>
+</entry>
+<entry>
+<title>Tsurugi Seijo Adel no Yarinaoshi Novela Ligera en Español</title>
+<id>https://nextnovels.com/tsurugi-seijo-adel-no-yarinaoshi-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/tsurugi-seijo-adel-no-yarinaoshi-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/04/Tsurugi-Seijo-Adel-no-Yarinaoshi-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/04/Tsurugi-Seijo-Adel-no-Yarinaoshi-Portada.jpg"/>
+<author><name>Hayaken</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Gender Bender" label="Gender Bender"/>
+<content type="text">El maestro de la espada ciego Adel puso fin personalmente a la Gran Guerra que sumió al continente en el caos. Aunque lo utiliza para hacer el bien, su fuerza proviene de su horrible pasado: los horribles experimentos que se realizaron con él y las innumerables batallas a muerte para demostrar su valía. Fue la amable compasión de la princesa Euphinia lo que lo salvó, y Adel lo dijo en serio cuando juró estar a su lado para siempre. Así que ahora, incluso con la guerra ganada, lamenta amargamente no haberla protegido cuando más importaba. Adel daría cualquier cosa por una segunda oportunidad de hacer las cosas bien, y está de suerte. Un ser misterioso está a punto de ofrecerle un deseo, y él sabe exactamente qué pedir. Al instante se ve transportado al pasado... ¡Como una hermosa mujer! Preparado para hacer uso de sus antiguas habilidades como maestro de la espada y de su nuevo poder como Santo, Adel se lanza a la acción para cambiar el curso de la historia y salvar a su amada princesa Euphinia.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1_DL-2d_8dYV7cahghfIESw" type="text/html" title="Domen Translations"/>
 </entry>
 </feed>

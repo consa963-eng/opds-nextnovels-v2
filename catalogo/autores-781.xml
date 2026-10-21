@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<id>nextnovels:autores:Saitou Kanae</id>
+<title>Saitou Kanae</title>
+<updated>2026-10-21T00:13:50.698323+00:00</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-781.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<entry>
+<title>For a Happy End to the Saint Has a Death Wish Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-for-a-happy-end-to-the-saint-has-a-death-wish-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-for-a-happy-end-to-the-saint-has-a-death-wish-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/10/Shinitagari-no-Seijou-ni-Shiawase-na-Shumatsu-wo-Portada.jpeg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/10/Shinitagari-no-Seijou-ni-Shiawase-na-Shumatsu-wo-Portada.jpeg"/>
+<author><name>Saitou Kanae</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">La vida cotidiana progresaba gradualmente hasta arruinarse...
+
+Una guerra entre el Mancomunado y el Bloque Imperial. Para salir del atolladero de la guerra, el lado del Mancomunado decidió romper un tabú.
+
+El nombre de lo creado es "santas". Una forma de vida artificial tipo niñas que posee poderosos poderes sobrenaturales a cambio de una corta vida útil.
+
+Sin embargo, cuando el fin de la guerra comenzó a aparecer, el despliegue de estas chicas se pospuso y, al final, toda la instalación de entrenamiento secreta llamada Jardín en Miniatura fue aniquilada y estuvo a punto de ser enterrada en la oscuridad.
+
+Un documento que describe los últimos días de las niñas desde la perspectiva de "yo", un Vigilante, un médico cuyo propósito es controlar la condición física de las santas.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1HGVKoqvsSpYD3jtxPgnREQ" type="text/html" title="Kai Sakura VENTO"/>
+</entry>
+<entry>
+<title>Someday, For You Who lived here / Forever, For You Who Stay There Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-someday-for-you-who-lived-here-forever-for-you-who-stay-there-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-someday-for-you-who-lived-here-forever-for-you-who-stay-there-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/09/Itsuka-Koko-ni-Ita-Anata-no-Tameni-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/09/Itsuka-Koko-ni-Ita-Anata-no-Tameni-Portada.jpg"/>
+<author><name>Saitou Kanae</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Drama" label="Drama"/>
+<category term="Romance" label="Romance"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">Esta es una historia del “fin”.
+
+Una historia trágica de dos personas que se preocupaban mutuamente.
+
+El joven soldado Lenka vio un milagro aquel día—.
+
+Nevaba en primavera y la nieve caía sobre las sangrientas líneas del frente, congelando a todos los enemigos.
+
+La chica que hizo este milagro fue llamada la "Santa del Ataúd de Hielo".
+
+Lenka y la chica se conocieron por casualidad, las circunstancias cambiantes de la guerra y los días de paz intermedias hicieron que poco a poco se hicieran más cercanos.
+
+Sin embargo, lo olvidaron—.
+
+Que el joven era “sólo un soldado”.
+
+Y que la chica era un “arma absoluta”.
+
+Esta es la historia del encuentro y la separación de un joven tonto y una chica no tan feliz.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1J7cSr-zZh5SF39IAE_zwiw" type="text/html" title="Kai Sakura VENTO"/>
+</entry>
+</feed>
