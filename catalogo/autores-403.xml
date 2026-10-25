@@ -1,63 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kazuki Miya</id>
-<title>Kazuki Miya</title>
-<updated>2026-10-21T00:13:50.637056+00:00</updated>
+<id>nextnovels:autores:Kazuki</id>
+<title>Kazuki</title>
+<updated>2026-10-25T03:42:53.654384+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-403.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Ascendance of a Bookworm Novela Web en Español</title>
-<id>https://nextnovels.com/descargar-ascendance-of-a-bookworm-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-ascendance-of-a-bookworm-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/Ascendance-of-a-Bookworm-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/05/Ascendance-of-a-Bookworm-Portada.jpg"/>
-<author><name>Kazuki Miya</name></author>
-<category term="Aventura" label="Aventura"/>
+<title>What If the Exile of an Overly Honest Boy Led Him to the Strongest Unit of Beautiful Girls Who Hate Men? Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-what-if-the-exile-of-an-overly-honest-boy-led-him-to-the-strongest-unit-of-beautiful-girls-who-hate-men-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-what-if-the-exile-of-an-overly-honest-boy-led-him-to-the-strongest-unit-of-beautiful-girls-who-hate-men-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/01/What-If-the-Exile-of-an-Overly-Honest-Boy-Led-Him-to-the-Strongest-Unit-of-Beautiful-Girls-Who-Hate-Men-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/01/What-If-the-Exile-of-an-Overly-Honest-Boy-Led-Him-to-the-Strongest-Unit-of-Beautiful-Girls-Who-Hate-Men-Portada.jpg"/>
+<author><name>Kazuki</name></author>
 <category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Shoujo" label="Shoujo"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">Una estudiante universitaria despierta en un mundo donde casi nadie sabe leer y los libros son un lujo raro. Reencarnada como la hija de un soldado, su pasión por la lectura se enfrenta a una cruda realidad: no hay libros. Pero si no existen… ¡los hará ella misma! Decidida a vivir rodeada de libros, su sueño es convertirse en bibliotecaria. Así comienza su aventura, creando libros desde cero en un mundo que los desconoce.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-ascendance-of-a-bookworm-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
-</entry>
-<entry>
-<title>Ascendance of a Bookworm: Hannelore’s Fifth Year at the Royal Academy Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-ascendance-of-a-bookworm-hannelores-fifth-year-at-the-royal-academy-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-ascendance-of-a-bookworm-hannelores-fifth-year-at-the-royal-academy-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/08/Honzuki-no-Gekokujou-Hannelores-Fifth-Year-at-the-Royal-Academy-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/08/Honzuki-no-Gekokujou-Hannelores-Fifth-Year-at-the-Royal-Academy-Portada.jpg"/>
-<author><name>Kazuki Miya</name></author>
-<category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Shoujo" label="Shoujo"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">El spin off de Honzuki no gekokujou, continuando la historia principal con el quinto año de la academia real desde el punto de vista de Hannelore. Ella se ve en una ecrusijada al recibir la orden de su padre, Aub Dunkelfelger: por su fama en la guerra contra Lanzenave y su cercania a la encarnación de la diosa, debe comprometerse al terminar el año. Para ello Aub ha designado a dos candidatos a prometidos del séquito de su hermano, Kentrips y Lazantark, el primero un erudito y el segundo un caballero aficionado al ditter ¡ambos enamorados de Hannelore en secreto!. Pero Hannelore quiere ante todo irse de Dunkelfelger y guarda sentimientos por Wilfried. Sin embargo, ¡todo cambiara por el deseo de Hannelore y la intervención divina!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1iRy3t1rOxuLrIh8aU7PK-Q" type="text/html" title="El Taller de Ordanel"/>
-</entry>
-<entry>
-<title>Ascendance of a Bookworm: Short Story Collection Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-ascendance-of-a-bookworm-short-story-collection-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-ascendance-of-a-bookworm-short-story-collection-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/08/Ascendance-of-a-Bookworm-Short-Story-Collection-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/08/Ascendance-of-a-Bookworm-Short-Story-Collection-Portada.jpg"/>
-<author><name>Kazuki Miya</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Fantasía" label="Fantasía"/>
-<content type="text">Han pasado seis años desde que Urano comenzó su nueva vida como Myne, y han sucedido muchas cosas. Pasó de ser una simple plebeya a una aprendiz de sacerdotisa, y luego se vio inmersa en el mundo de los nobles como Rozemyne, la hija adoptiva de un archiduque. «¡Pero no soy la única persona a la que le han pasado muchas cosas! ¡Se puede decir lo mismo de todos los demás! Aunque, eh... Supongo que eso se debe principalmente a mí».
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
+<content type="text">Me desterraron a la unidad más fuerte que odia a los hombres, ¡pero por alguna razón les agrado!
 
-eL primer volumen de la nueva colección de relatos cortos de Bookworm está repleto de capítulos inéditos que abarcan las partes 1 a 4.
+Finn Teraward es un excelente aprendiz del Ejército Imperial. Sin embargo, por ser un plebeyo, su noble superior lo rechaza y lo destierra a una unidad de primera línea llena de chicas hermosas que odian a los hombres.
 
-Descubre la ciudad baja, el orfanato, el templo, la Academia Real y muchos otros lugares familiares con una nueva perspectiva en veintiún historias contadas desde una gran variedad de puntos de vista únicos.
+"¡Debes sentirte fuera de lugar ahora mismo!", ríe el noble superior, pero... "
 
-¿Qué piensan los que forman parte del círculo de Myne (o Rozemyne) sobre sus acciones y qué sucede en los lugares que ella no puede ver?
+Me quedaré a tu lado en la cama hasta que te duermas, Finn".
 
-Incluye notas entre bastidores de la autora Miya Kazuki y más manga de cuatro viñetas de You Shiina.
+"Creo que estás cansado hoy, así que vamos a darnos un baño juntos". "
 
-NOTA: En el mismo link podrán encontrar las historias extras que fueron publicadas en Syotsetu (Se actualizará en caso de nuevos capítulos).</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1fjw9PTnhvt1l5qkdH6MGEA" type="text/html" title="El Taller de Ordanel"/>
+¿Por qué no hablamos a solas en mi habitación, solos?"
+
+Qué extraño. En un lugar que debería ser mortal, ¿Finn es el único popular?
+
+Con su personalidad excesivamente honesta y su rostro adorable, ¿está a punto de comenzar la vida de penurias de Finn?
+
+Este es el comienzo de una comedia romántica de harén sobre cómo el jefe recibe su merecido.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1VPNlH3JEEcyoTsOarwjvfA" type="text/html" title="Ichijou Translations"/>
 </entry>
 </feed>

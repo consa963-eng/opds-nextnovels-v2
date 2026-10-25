@@ -1,23 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Mitsune Hoshi</id>
-<title>Mitsune Hoshi</title>
-<updated>2026-10-21T00:13:50.667963+00:00</updated>
+<id>nextnovels:autores:Misoneta Dozaemon</id>
+<title>Misoneta Dozaemon</title>
+<updated>2026-10-25T03:42:53.775611+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-595.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>The Time I Woke Up in Bed with My Childhood Friend Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-time-i-woke-up-in-bed-with-my-childhood-friend-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-time-i-woke-up-in-bed-with-my-childhood-friend-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/The-Time-I-Woke-Up-in-Bed-with-My-Childhood-Friend-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/09/The-Time-I-Woke-Up-in-Bed-with-My-Childhood-Friend-Portada.jpg"/>
-<author><name>Mitsune Hoshi</name></author>
+<title>Koukou Jidai ni Gouman datta Joou-sama Tono Dousei Seikatsu wa Igaito Igokochi ga Warukunai Novela Ligera en Español</title>
+<id>https://nextnovels.com/koukou-jidai-ni-gouman-datta-joou-sama-tono-dousei-seikatsu-wa-igaito-igokochi-ga-warukunai-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/koukou-jidai-ni-gouman-datta-joou-sama-tono-dousei-seikatsu-wa-igaito-igokochi-ga-warukunai-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/02/Koukou-Jidai-ni-Gouman-datta-Joou-sama-Tono-Dousei-Seikatsu-wa-Igaito-Igokochi-ga-Warukunai-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/02/Koukou-Jidai-ni-Gouman-datta-Joou-sama-Tono-Dousei-Seikatsu-wa-Igaito-Igokochi-ga-Warukunai-Portada.jpg"/>
+<author><name>Misoneta Dozaemon</name></author>
+<category term="Comedia" label="Comedia"/>
 <category term="Drama" label="Drama"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Psicológico" label="Psicológico"/>
 <category term="Romance" label="Romance"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">El lado más vulnerable de la flor inalcanzable.
+<content type="text">En una noche Yamamoto, un estudiante universitario que trabaja a medio tiempo en una tienda de conveniencia se encuentra con Megumi Hayashi, una ex compañera de la Preparatoria y en su momento la más hermosa de su clase, pero debido a la forma de actuar despiadada y deseo de vencer a los demás fue apodada como "La Reina despiadada".
 
-Yukimura Mizuki es la chica más admirada y envidiada de toda la escuela: hermosa, distante y aparentemente perfecta. Para Amano Iori, su amigo de la infancia, ella siempre ha sido alguien fuera de su alcance. Sin embargo, todo cambia el día en que otra joven se le declara a Iori; a partir de ese momento, Mizuki empieza a acortar las distancias entre ambos de forma repentina. Ahora, antes de que él pueda siquiera procesarlo, se topa con una realidad inexplicable: ¿por qué está durmiendo justo a su lado luciendo tan desprotegida?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1CdvIU_COElsPt2H3hWde_w" type="text/html" title="Kai Sakura VENTO"/>
+A pesar de que apenas se conocían aún así conversaron pero Yamamoto descubrió que una de las muñecas de Hayashi tenía hematomas.
+
+Yamamoto descubrió la verdad: El novio de Hayashi la g0lpe4ba.
+
+Al enterarse, decide ayudarla para lo cual se la lleva a su departamento para esconderla.
+
+Una vez allí y justo cuando Yamamoto iba a irse a dormir, Hayashi lo abraza por la espalda y....</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1eaujfgFWQssfv35FZeXW_g" type="text/html" title="Tamashi's Project"/>
 </entry>
 </feed>

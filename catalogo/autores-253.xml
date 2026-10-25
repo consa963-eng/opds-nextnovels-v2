@@ -1,34 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Hinohara</id>
-<title>Hinohara</title>
-<updated>2026-10-21T00:13:50.612114+00:00</updated>
+<id>nextnovels:autores:Hino Akari</id>
+<title>Hino Akari</title>
+<updated>2026-10-25T03:42:53.588219+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-253.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Nekonoyama Neneko Becomes a Cat Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-nekonoyama-neneko-becomes-a-cat-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-nekonoyama-neneko-becomes-a-cat-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/Nekonoyama-Neneko-Becomes-a-Cat-Portada.jpeg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/03/Nekonoyama-Neneko-Becomes-a-Cat-Portada.jpeg"/>
-<author><name>Hinohara</name></author>
-<category term="Ecchi" label="Ecchi"/>
+<title>Elf Seidorei to Kizuku Dungeon Harem Novela Ligera en Español</title>
+<id>https://nextnovels.com/elf-seidorei-to-kizuku-dungeon-harem-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/elf-seidorei-to-kizuku-dungeon-harem-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/05/Elf-Seidorei-to-Kizuku-Dungeon-Harem-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/05/Elf-Seidorei-to-Kizuku-Dungeon-Harem-Portada.jpg"/>
+<author><name>Hino Akari</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Adulto" label="Adulto"/>
+<category term="Aventura" label="Aventura"/>
 <category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
 <category term="Maduro" label="Maduro"/>
 <category term="Romance" label="Romance"/>
-<category term="Yuri" label="Yuri"/>
-<content type="text">«¿Está mal que una chica quiera convertirse en príncipe?»
+<category term="Seinen" label="Seinen"/>
+<content type="text">Un joven reencarnado llamado Mars quiere conquistar mazmorras junto con su esclava elfa, Lilia. Sin embargo, apenas hizo ningún progreso debido a que hacía el amor con ella todos los días.
 
-Nekonoyama Neneko es una semihumana que cursa el instituto y puede transformarse en gata.
+Luego, un día después de que lo hicieran, le dijeron a Mars: "Normalmente, los hombres humanos solo tienen p*nes que son tan grandes como el dedo de un niño, ¿no?" palabras tan impactantes de Lilia después de estar satisfecha.
 
-Aunque oculta su verdadera identidad al mundo, se muestra tímida con todo el mundo, excepto con su familia.
+Mars sabía que su bestia estaba en el lado grande, pero no pensó que estaría al mismo nivel que un tramposo. Con la sugerencia de Lilia, decidió robar algunas chicas de otras partes para aumentar su número de acompañantes.
 
-La única persona a la que deja entrar en su corazón es Mashiro, la amiga de su hermana mayor.
+Está robando chicas, pero no consigue que les roben a sus chicas.
 
-Neneko vive admirando a la guay y misteriosa Mashiro.
+Es una historia brutal, no conmovedora.
 
-Un día, Neneko descubre que Mashiro es una vampiresa y le propone vivir juntas como su donante de sangre (pareja).
+¡Va por ahí obligando a los demás a sí mismo!
 
-Esta es una historia de amor entre chicas torpes en el amor.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1HGXY5h94jf-7DuB6wB6fNw" type="text/html" title="Next Novels (MTL)"/>
+¿Alguna vez archivará su objetivo de conquistar las mazmorras?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/13vhEf_5cl3ogEC7LuW2VWQ" type="text/html" title="World Project"/>
 </entry>
 </feed>

@@ -1,27 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Uiri</id>
-<title>Uiri</title>
-<updated>2026-10-21T00:13:50.737648+00:00</updated>
+<id>nextnovels:autores:UEKAWA Kei</id>
+<title>UEKAWA Kei</title>
+<updated>2026-10-25T03:42:53.870198+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1018.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>When I Ran Into my Childhood Friend, Who was Older than Me, the Two Sisters Started Fighting Over Me. ~ Want to see Which One is Better? Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-when-i-ran-into-my-childhood-friend-who-was-older-than-me-the-two-sisters-started-fighting-over-me-want-to-see-which-one-is-better-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-when-i-ran-into-my-childhood-friend-who-was-older-than-me-the-two-sisters-started-fighting-over-me-want-to-see-which-one-is-better-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/When-I-Ran-Into-my-Childhood-Friend-Who-was-Older-than-Me-the-Two-Sisters-Started-Fighting-Over-Me-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/02/When-I-Ran-Into-my-Childhood-Friend-Who-was-Older-than-Me-the-Two-Sisters-Started-Fighting-Over-Me-Portada.jpg"/>
-<author><name>Uiri</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Harem" label="Harem"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Tengo dos amigas de la infancia que son hermanas. La hermana mayor Momo, y Miu y yo tenemos la misma edad. Desde que nos reencontramos, me ha abrazado en traje de baño y me ha invitado a un baño termal, y nos hemos vuelto extrañamente cercanos...
-
-Una comedia romántica de harem agridulce de X con más de 550.000 seguidores.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1PT8FuYgbZu7E_jSB2KAckA" type="text/html" title="Shadow Translations"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/11--H003zcFIa38KJDFv88g" type="text/html" title="Ichijou Translations"/>
+<title>Uchinukareta Senjou wa, soko de Kiete iro Novela Ligera en Español</title>
+<id>https://nextnovels.com/uchinukareta-senjou-wa-soko-de-kiete-iro-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/uchinukareta-senjou-wa-soko-de-kiete-iro-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/09/01-4.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/09/01-4.jpg"/>
+<author><name>UEKAWA Kei</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Fantasía" label="Fantasía"/>
+<content type="text">Durante cien años, Oriente y Occidente han librado una feroz guerra con todo tipo de armas, desde tanques hasta brujería. En este salvaje campo de batalla, un joven soldado del Este se entera de la bala del demonio y de que cualquiera que sea alcanzado por ella desaparecerá del mundo como si nunca hubiera existido...</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1ehdtlpSll6KI0EaerKIjmw" type="text/html" title="Historia Translations"/>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1ptO0aN16bfHbrKUkm6DisQ" type="text/html" title="World Project"/>
 </entry>
 </feed>

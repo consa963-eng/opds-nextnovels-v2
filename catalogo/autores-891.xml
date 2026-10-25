@@ -1,55 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Sugaru Miaki</id>
-<title>Sugaru Miaki</title>
-<updated>2026-10-21T00:13:50.716415+00:00</updated>
+<id>nextnovels:autores:Sousuke Kurinohara</id>
+<title>Sousuke Kurinohara</title>
+<updated>2026-10-25T03:42:53.841069+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-891.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Parasite in Love Novela Ligera en Español</title>
-<id>https://nextnovels.com/parasite-in-love-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/parasite-in-love-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/07/Parasite-in-Love-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/07/Parasite-in-Love-Portada.jpg"/>
-<author><name>Sugaru Miaki</name></author>
+<title>Love Comedy on the Premise of Marriage Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-love-comedy-on-the-premise-of-marriage-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-love-comedy-on-the-premise-of-marriage-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/04/Kekkon-ga-Zentei-no-Love-Comedy-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/04/Kekkon-ga-Zentei-no-Love-Comedy-Portada.jpg"/>
+<author><name>Sousuke Kurinohara</name></author>
+<category term="Comedia" label="Comedia"/>
 <category term="Drama" label="Drama"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Romance" label="Romance"/>
-<content type="text">Esta historia trata sobre un hombre cuyas tendencias compulsivas le hacen imposible mantener un trabajo y sobre una joven chica que se salta la escuela y ama los insectos. Ambos se conocen, llegan a apoyarse uno al otro para reintegrar la sociedad, y se enamoran. Sin embargo, hay un problema: los parásitos dentro de sus cabezas.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1YKrQ88bZkLUQ2v9fqI_u4Q" type="text/html" title="Blue Phoenix Translations"/>
-</entry>
-<entry>
-<title>Starting Over Novela Ligera en Español</title>
-<id>https://nextnovels.com/starting-over-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/starting-over-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-68.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-68.jpg"/>
-<author><name>Sugaru Miaki</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Psicológico" label="Psicológico"/>
+<category term="Ecchi" label="Ecchi"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Tragedia" label="Tragedia"/>
-<content type="text">Starting Over se originó como una historia en 2ch por Fafoo, que más tarde adoptó el seudónimo Sugaru Miaki. Luego lo reescribió como novela.
+<content type="text">Yui Minadzuki (26 ♀), está en proceso de casarse.
 
-"Ha pasado tanto desde que nos tomamos el tiempo,
+Shiraki Entarou, el «casamentero que ayuda a la gente que no puede casarse», lucha apoyando a las mujeres en su búsqueda de matrimonio hoy en dia.
 
-no hay nadie a quien culpar.
+Botan, una artista de manga erótico cuyas palabras y acciones son un verdadero dolor de cabeza. (26 ♀)
 
-Sé que el tiempo vuela tan rápido,
+Karen, la antigua hija de un hombre que ha estado tras la fortuna de una mujer. (Edad no revelada)
 
-pero cuando te veo, querida,
+Mahiru, maestra de una guardería hoi polloi. (30 ♀)
 
-es como si los dos nos estuviéramos enamorando de nuevo,
+Y algún tipo de riquejo loco… Yui. (26 ♀)
 
-será como empezar de nuevo, empezar de nuevo."
+Una segunda mayoría de edad pasada con chicas que no están listas para casarse.
 
-- (Just Like) Starting Over
-
-John Lennon
-
-Esta es la historia de cómo al llegar a mi vigésimo cumpleaños, fui enviado de vuelta a la edad de diez años, y viví para tener veinte años una vez más.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1g4nbH00V_KphIG3wdIkSCQ" type="text/html" title="Traducciones Daeldaus"/>
+Una comedia romántica sobre un grupo de chicas que quieren casarse, ¡aquí viene la fiesta!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1KyWZ6lMmwHuVP-L3WqVKyg" type="text/html" title="Btoom Translations: Defous123"/>
 </entry>
 </feed>

@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Nozomi Kouta</id>
-<title>Nozomi Kouta</title>
-<updated>2026-10-21T00:13:50.684158+00:00</updated>
+<id>nextnovels:autores:Nora Kohigashi</id>
+<title>Nora Kohigashi</title>
+<updated>2026-10-25T03:42:53.797216+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-692.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Genius Hero and Maid Sister Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-genius-hero-and-maid-sister-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-genius-hero-and-maid-sister-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/04/Shindou-Yuusha-to-Maid-Onee-san-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/04/Shindou-Yuusha-to-Maid-Onee-san-Portada.jpg"/>
-<author><name>Nozomi Kouta</name></author>
+<title>I Could Never Be a Succubus! Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-i-could-never-be-a-succubus-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-i-could-never-be-a-succubus-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/01/Watashi-wa-Succubus-Jaarimasen-Portada-1.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/01/Watashi-wa-Succubus-Jaarimasen-Portada-1.jpg"/>
+<author><name>Nora Kohigashi</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
 <category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
 <category term="Ecchi" label="Ecchi"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<content type="text">Shion el Valiente, una vez proclamado niño prodigio, derrotó al Rey Demonio y salvó al mundo, pero debido a la «Maldición del Rey Demonio», fue expulsado de la Capital Real y obligado a vivir recluido en una zona remota. Un chico que salva el mundo, pero es odiado por el mundo viene a vivir con cuatro criadas. Shion es invencible en la batalla, pero las criadas mayores se burlan constantemente de él. «¿Por qué duermes en mi cama?», «No sé por qué lo preguntas, pero estaba de servicio para acostarme contigo.», «¡Moo, Shi-sama es tan mono!», «… Chicas, dejad de jugar conmigo.», así vive un héroe prodigio perseguido por ser demasiado fuerte, y las criadas un poco extrañas. ¡El chico más fuerte que vive pacíficamente en la frontera y la cariñosa convivencia de las doncellas!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1k_wFjPvhLCBNiBu4XpV_fA" type="text/html" title="Btoom Translations"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Liz, una joven noble, es la alumna estrella de su academia: talentosa, refinada, generosa y la niña de los ojos de todos. Pero el día que un héroe legendario llega a la academia para convalecer, Liz, a su pesar, hace lo impensable... ¡Pide los calzoncillos del héroe!
+
+Resulta que Liz tiene un secreto. Era miembro del grupo del héroe hasta que le robaron todos sus recuerdos durante una batalla culminante, ¡incluido el hecho de que es un demonio del deseo conocido como súcubo! Apenas puede creerlo cuando vuelve a despertar con sus poderes completamente fuera de lo común, pero por desgracia para Liz, está a punto de descubrir que no es tan fácil desafiar tu verdadera naturaleza...</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Odg6HKKV-UJ54p9lpPyNfw" type="text/html" title="Kyūden Translation"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1XabhUGVhRM2uz3anjaIfCQ" type="text/html" title="World Project"/>
 </entry>
 </feed>

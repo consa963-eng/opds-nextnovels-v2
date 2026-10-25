@@ -1,24 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Karino Kei</id>
-<title>Karino Kei</title>
-<updated>2026-10-21T00:13:50.633429+00:00</updated>
+<id>nextnovels:autores:Karasuma Ei</id>
+<title>Karasuma Ei</title>
+<updated>2026-10-25T03:42:53.649434+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-381.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Flirting Sex Train Novela Ligera en Español</title>
-<id>https://nextnovels.com/flirting-sex-train-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/flirting-sex-train-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/05/01-22.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/05/01-22.jpg"/>
-<author><name>Karino Kei</name></author>
-<category term="Adulto" label="Adulto"/>
+<title>Taking the Adorably Small yet Big Nanase-san from Her Misguided Ex and Making Her Happy Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-taking-the-adorably-small-yet-big-nanase-san-from-her-misguided-ex-and-making-her-happy-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-taking-the-adorably-small-yet-big-nanase-san-from-her-misguided-ex-and-making-her-happy-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/05/Taking-the-Adorably-Small-yet-Big-Nanase-san-from-Her-Misguided-Ex-and-Making-Her-Happy-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/05/Taking-the-Adorably-Small-yet-Big-Nanase-san-from-Her-Misguided-Ex-and-Making-Her-Happy-Portada.jpg"/>
+<author><name>Karasuma Ei</name></author>
+<category term="Comedia" label="Comedia"/>
 <category term="Ecchi" label="Ecchi"/>
-<category term="Harem" label="Harem"/>
-<category term="Maduro" label="Maduro"/>
+<category term="Romance" label="Romance"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">¡El vagón en el que entró por error era exclusivo para mujeres!, pensó que sería denunciado por acoso sexual, ¿¡Pero en ese vagón exclusivo para mujeres estaba permitido tener relaciones s*xuales con las pasajeras!?
+<content type="text">No te preocupes. Me aseguraré de que Nanase-san sea feliz... pase lo que pase.
 
-¡Sigue las reglas y diviértete teniendo relaciones s*xuales!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1Tv0hocT0iXwIjyrwl-SIkA" type="text/html" title="MiraiK"/>
+Soy Yusuke Ogami, un estudiante de preparatoria común y corriente que presenció una ruptura dramática entre compañeros de clase.
+
+No pude ignorar a Nanase Hiyori-san, herida por su patán de novio que le ocultaba una infidelidad, así que decidí intervenir.
+
+“Tal vez debí haberme acostado con él…”
+
+Al verla hundirse tanto, la animé. Y a cambio, ella me regaló una sonrisa… como si se le hubiera quitado un gran peso de encima.
+
+Ese momento marcó el comienzo de algo entre nosotros.
+
+“…Está bien. Quiero ser feliz... contigo, Yusuke-kun.”
+
+—Cenar juntos en casa, salir en citas tranquilas, incluso pasar la noche…
+
+Esta peculiar pareja con más de 30 cm de diferencia de altura empieza a acortar la distancia entre sus corazones, a su propio ritmo.
+
+¡Una nueva comedia romántica que combina amor puro con una satisfactoria dosis de karma comienza ahora!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1l8LjqM5xYP5nRX6Cu9eJ8Q" type="text/html" title="Ganbarimasu Translations"/>
 </entry>
 </feed>

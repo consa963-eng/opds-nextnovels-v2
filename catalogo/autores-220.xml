@@ -1,28 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Hatogami Kei</id>
-<title>Hatogami Kei</title>
-<updated>2026-10-21T00:13:50.606942+00:00</updated>
+<id>nextnovels:autores:Harunohi Biyori</id>
+<title>Harunohi Biyori</title>
+<updated>2026-10-25T03:42:53.581225+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-220.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>My Part-Time Job Became a Hangout Spot for Losing Heroines Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-my-part-time-job-became-a-hangout-spot-for-losing-heroines-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-my-part-time-job-became-a-hangout-spot-for-losing-heroines-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/My-Part-Time-Job-Became-a-Hangout-Spot-for-Losing-Heroines-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/09/My-Part-Time-Job-Became-a-Hangout-Spot-for-Losing-Heroines-Portada.jpg"/>
-<author><name>Hatogami Kei</name></author>
+<title>Strongest Survival by Otome Game’s Heroine Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-strongest-survival-by-otome-games-heroine-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-strongest-survival-by-otome-games-heroine-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/09/Otome-Game-no-Heroine-de-Saikyou-Survival-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/09/Otome-Game-no-Heroine-de-Saikyou-Survival-Portada.jpg"/>
+<author><name>Harunohi Biyori</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Magia" label="Magia"/>
+<category term="Yuri" label="Yuri"/>
+<content type="text">Una chica llamada Alicia vivió como huérfana en un mundo de espada y magia, Ciel. Un día, se enteró de que era «la heroína de un juego otome». Incluso la muerte de sus padres fue simplemente parte del escenario. Alicia juzgó el escenario de la heroína como «absurdo» y lo descartó decisivamente. Se presentó como aventurera «Aria», gradualmente dominó múltiples armas y magia, ¡y creció hasta convertirse en la «¡Princesa de la Masacre coronada por cenizas!» Pero, al aceptar una solicitud para proteger a la «villana», antes de que ella se diera cuenta, fue arrastrada al escenario donde los nobles se peleaban contra todos los demás —？-Yo soy… «yo»… ¡Yo no soy un personaje del juego! ¡Crea armas! ¡Entrena el cuerpo!¡Sobrevive a la lucha contra enemigos poderosos y aplasta el juego otome!¡Una fantasía de batalla sublime y estimulante de otro mundo con una encantadora heroína de luchando!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1vUj38j_ro7-CDEivLDnXoQ" type="text/html" title="Hitoribocchi translation y Kyūden Translation"/>
+</entry>
+<entry>
+<title>The Devil Princess Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-devil-princess-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-devil-princess-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/11/The-Devil-Princess-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/11/The-Devil-Princess-Portada.jpg"/>
+<author><name>Harunohi Biyori</name></author>
+<category term="Aventura" label="Aventura"/>
 <category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Josei" label="Josei"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Psicológico" label="Psicológico"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">"Me gustas."
+<content type="text">Tuvo un sueño: el mundo rebosaba de luz. Familia. Escuela. Amigos. Trenes. Autobuses. Películas. Libros. En ese mundo de luz, creció hasta la edad adulta… y al final, en una habitación blanca, cayó en la oscuridad. Despertó del sueño y descubrió que se había convertido en un demonio. En el mundo demoníaco, vivió una vida despreocupada hasta que se topó con un ser poderoso.
 
-¡Comienza una comedia romántica, torpe pero directa, sobre la juventud con heroínas peculiares!
+Tras vivir mucho tiempo como un demonio, sin darse cuenta, un anhelo por ese mundo de luz se extendió por su corazón. Se sumergió en un círculo mágico de invocación que había aparecido. Entonces… al abrir los ojos de nuevo, se había convertido en un bebé humano.
 
-Yuu Anekura, un estudiante de secundaria que trabaja a tiempo parcial en una tranquila cafetería, conoce a tres chicas: Youka Kengamine, Yoyo Naze y Miyako Furumi, todas famosas en la escuela, con aspecto desanimado. Parece que todas se enamoraron del mismo chico y fueron rechazadas.
-
-En otras palabras, son unas perdedoras. Yuu, un hombre que prefiere evitar problemas, pretende mantenerse alejado, pero... "Eres interesante", dice la segura Youka, quien se siente atraída por él. Esto provoca que la astuta y adorable Yoyo y la aficionada a los videojuegos Miyako lo aborden constantemente... ¡Una comedia romántica, torpe pero directa, sobre la juventud con heroínas peculiares está a punto de comenzar!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1dMKVa5wJaF3bS66XnPksNg" type="text/html" title="Saitou Translations, Underword Liella Novels"/>
+Se encontraba en el Reino Sagrado. Sentía miedo: aunque era un demonio, solo tenía la fuerza de un bebé. Si la descubrían, sería terrible. ¿Era humana o demonio? ¿Sería capaz de sobrevivir a partir de ese momento?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1jDWn73AoeF4cKKdmA_JARw" type="text/html" title="Kyūden Translation"/>
 </entry>
 </feed>

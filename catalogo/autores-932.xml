@@ -1,82 +1,129 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Takemiya Yuyuko</id>
-<title>Takemiya Yuyuko</title>
-<updated>2026-10-21T00:13:50.723512+00:00</updated>
+<id>nextnovels:autores:Takedzuki Jou</id>
+<title>Takedzuki Jou</title>
+<updated>2026-10-25T03:42:53.851105+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-932.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Golden Time Biographies: AFRICA Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-golden-time-biographies-africa-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-golden-time-biographies-africa-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/Golden-Time-Biographies-AFRICA-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/03/Golden-Time-Biographies-AFRICA-Portada.jpg"/>
-<author><name>Takemiya Yuyuko</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<content type="text">¿¡Kyoko y Chinami asisten a una reunión para ligar por sorpresa!? A pesar de ser un dúo de guapa y mona, no dan ninguna señal en ese sentido. "AFRICA", la historia que da título al volumen, describe el tumulto que provocan ellas, alborotadas por ciertas circunstancias. El peligroso y sospechoso trabajo nocturno de Yanagisawa y su inesperadamente dedicado? corazón amoroso, además de un episodio pasado con Kyoko que también se revela en "Your Eyes Only". Una experiencia de terror que asalta a Kyoko, que finalmente se ha infiltrado en la habitación vacía de Mari, que se ha ido a casa de sus padres — "La intrusa momentánea". ¡Se incluyen tres divertidas historias cortas que harán reír a todos!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1e3H1Uq7r56yNoTIK0sJH9w" type="text/html" title="Next Novels (MTL)"/>
+<title>Campione! Novela Ligera en Español</title>
+<id>https://nextnovels.com/campione-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/campione-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/06/01-29.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/06/01-29.jpg"/>
+<author><name>Takedzuki Jou</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Un Campione-un Asesino de Dios-es un gobernante supremo.
+
+Ya que puede matar a un ser celestial, puede por lo tanto invocar los sacrosantos poderes divinos que ejercen los dioses.
+
+Un Campione-un Asesino de Dios-es un lord.
+
+Como el poder de matar a una deidad está en sus manos, se cierne sobre todos los mortales de la Tierra.
+
+Un campione-un asesino de dioses-es un demonio.
+
+Ya que para todos los mortales que viven en el mundo, ninguno puede asumir un poder igual al suyo.
+
+Kusanagi Godou es un chico de 16 años que jugó de receptor y cuarto bateador en la liga senior de béisbol hasta que una lesión le puso fin en la secundaria.
+
+En las vacaciones de primavera de su tercer y último año de secundaria, se involucró en una aventura y terminó matando a uno de los dioses herejes, Verethragna. Por lo tanto, se convirtió en el más joven y séptimo Campione.
+
+Ahora que es un Campione, un asesino de dioses, el joven Godou debe derrotar a los dioses problemáticos con la ayuda de sus seguidores.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1JeVVcuzNM2qKXgEZEBsJ8w" type="text/html" title="KikuslirusProject, Akat Novels"/>
 </entry>
 <entry>
-<title>Golden Time Extra: We're Still Smiling in the Summer 100 Years Later Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-golden-time-extra-were-still-smiling-in-the-summer-100-years-later-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-golden-time-extra-were-still-smiling-in-the-summer-100-years-later-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/Golden-Time-Extra-Were-Still-Smiling-in-the-Summer-100-Years-Later.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/03/Golden-Time-Extra-Were-Still-Smiling-in-the-Summer-100-Years-Later.jpg"/>
-<author><name>Takemiya Yuyuko</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<content type="text">Mitsuo Yanagisawa, el mejor amigo de Mari. Guapo, fresco y, como persona, un tipo estupendo. Sin embargo, su morada es... un desordenado cuarto inmundo. ¿¡Cuál es el misterio de la medicina para hemorroides colocada en medio de ese caos!? — "La habitación de Mitsuo". ¿¡A punto de ir a la playa, Kyoko y Chinami hacen una prueba de bañadores!? "Incluso en el verano de dentro de cien años, nosotras seguiremos riendo", que describe el frenesí de Kyoko al confundir con una chica al amigo de Mari, apodado Shishō, y sus sentimientos ocultos, el detonante de todo esto. Su canción de debut es "Quemando a mi hermano"... "Summer Night Tour", las vivencias de Mari en una noche de pleno verano junto a la maravillosa senpai NANA. Todos son divertidos y harán reír, y además permiten conocer más a fondo a los personajes de Golden Time. ¡Un libro de lectura obligada para los fans de la serie!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1L09oddXWfEJ4WiqsrOh9tg" type="text/html" title="Next Novels (MTL)"/>
-</entry>
-<entry>
-<title>Golden Time Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-golden-time-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-golden-time-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/06/Golden-Time-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/06/Golden-Time-Portada.jpg"/>
-<author><name>Takemiya Yuyuko</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<content type="text">Tada Banri, un estudiante nuevo de una escuela privada de abogados en Tokyo, se encontró perdido después de la ceremonia de bienvenida. En ese momento, se encontró con otro estudiante nuevo, Mitsuo Yanagisawa, también perdido. Entonces apareció delante de ellos una chica hermosa con un ramo de rosas, la cual golpea a Mitsuo en la cara con el ramo. La mujer perfecta, bien vestida y elegante que le había pegado a Mitsuo, era su amiga de niñez, Kouko Kaga. Como niños se habían prometido casarse algún día. Para escapar de ella, Mitsuo tomó el examen para entrar en esta universidad privada de forma secreta, pero inesperadamente ella apareció allí…</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1ezG7dvSXfCeYZzr1zvc_Ng" type="text/html" title="Twins Dragons, Next Novels (MTL)"/>
-</entry>
-<entry>
-<title>Golden Time Spin-off: 2D-kun Special Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-golden-time-spin-off-2d-kun-special-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-golden-time-spin-off-2d-kun-special-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/Golden-Time-Spin-off-2D-kun-Special-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/03/Golden-Time-Spin-off-2D-kun-Special-Portada.jpg"/>
-<author><name>Takemiya Yuyuko</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<content type="text">Un hombre desesperado por el mundo tridimensional — su nombre es Niji-kun. Su nombre real es Satou. Estudiante universitario de primer año. En la universidad, ignora por completo a las mujeres tridimensionales y pasa sus días entre diálogos con su esposa imaginaria (su nombre es VJ. Una chica de 14 años que lucha con un uniforme escolar y una espada japonesa. Su comida favorita son los Choice) y escribiendo sus propias novelas. Ante él aparece una asesina del mundo tridimensional. Una kōhai de la secundaria — Akī, la mujer fatal. Una hermosa chica de ambiente que se le acerca con una distancia ambigua y sugerente. Una compañera de universidad — Aika, la guerrera del doujinshi. Se acerca a Niji-kun armada con la empatía de quienes viven en el mundo bidimensional. Además, incluso su amigo natural y ligón, Ebetsu, intenta sacudirlo con un arma: un café mix de harén. ¿Podrá Niji-kun mantener su amor por el mundo bidimensional? Una magnífica epopeya bidimensional que describe vívidamente el vagabundeo de un corazón.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1ACBd9u2CLfAh9069em_SJw" type="text/html" title="Next Novels (MTL)"/>
-</entry>
-<entry>
-<title>Toradora Novela Ligera en Español</title>
-<id>https://nextnovels.com/toradora-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/toradora-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/02/Toradora-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/02/Toradora-Portada.jpg"/>
-<author><name>Takemiya Yuyuko</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
+<title>Chronicle Legion Novela Ligera en Español</title>
+<id>https://nextnovels.com/chronicle-legion-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/chronicle-legion-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/06/01-33.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/06/01-33.jpg"/>
+<author><name>Takedzuki Jou</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Mecha" label="Mecha"/>
 <category term="Romance" label="Romance"/>
 <category term="Shounen" label="Shounen"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Takasu Ryuuji puede parecer un matón, pero en realidad es un buen tipo.
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">¡Un encuentro entre una princesa y un joven, decidido a desafiar el destino...!
 
-Hacer amigos cuando tienes una cara involuntariamente aterradora es difícil... y ni hablar de tener novia.
+A finales del siglo XX, debido a la invasión liderada por el antiguo héroe romano resucitado, César, el Japón Imperial ha caído bajo el vecino Imperio Romano de Oriente en todo menos en el nombre!
 
-Pero con su amor secreto en la misma clase, el comienzo de su segundo año de instituto progresa bien... hasta que se cruza con Aisaka Taiga. Hermosa, aterradora y de no más de un metro y medio de altura, la chica conocida como el Tigre de la Palmera es la única persona de la escuela que da más miedo que el propio Ryuuji, y él acaba de cometer el error de hacerla enfadar mucho, demasiado.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1TR-mdIA6IGMBiQ29zPy6sg" type="text/html" title="Toradora no Fansub y Traducciones Yare-Yare"/>
+Lo que permitió a César convertirse en el último conquistador fue el poder conocido como la "Legión".
+
+Estos misteriosos cuerpos se han convertido en el arma principal de las fuerzas militares de las principales potencias mundiales: ejércitos de soldados gigantes alados.
+
+Con la ambición de convertirse en la soberana de Japón, la princesa Fujinomiya Shiori del Japón imperial finalmente entra en acción.
+
+La princesa elige a Tachibana Masatsugu como su general de confianza, un estudiante de secundaria común y corriente.
+
+Sin embargo, en realidad es un guerrero renacido del pasado antiguo, otro legado legionario resucitado cuya grandeza no es menor que la del poderoso héroe César!
+
+Se levanta el telón: ¡¡Una épica historia de guerra fantástica que gira en torno a héroes resucitados y hermosas doncellas!!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/13RgSPRXuiAq5XleWCaTM6A" type="text/html" title="HiroLsn y J-Light Novel Club"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1guNzobVTUcQm2-ST9rLkzA" type="text/html" title="Max Power Fansub"/>
+</entry>
+<entry>
+<title>Meiyaku no Leviathan Novela Ligera en Español</title>
+<id>https://nextnovels.com/meiyaku-no-leviathan-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/meiyaku-no-leviathan-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-6.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-6.jpg"/>
+<author><name>Takedzuki Jou</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
+<content type="text">Te convertirás en rey...
+
+Gobernando sobre todas las "serpientes" del mundo...
+
+Conviértete en el hombre que lleva el peso del miedo y el odio de la humanidad del dragón.
+
+Una era moderna en la que la humanidad está amenazada por los ataques de dragones gigantes que vuelan desde más allá del cielo.
+
+Controlando a los "leviatanes", seres espirituales serpentinos creados a través de la magia, la humanidad está encerrada en una prolongada guerra de resistencia contra los dragones.
+
+Afortunadamente, existen brujas conocidas como "magos", doncellas de salvación que formaron alianzas con "serpientes" para combatir a los dragones.
+
+Apodado Hal, el joven llamado Haruga Haruomi se gana la vida facilitando los pactos de estas chicas.
+
+A petición (parcialmente coercitiva) de su amiga de la infancia Asya, una de las principales brujas de Europa, Hal regresa a la Ciudad Nueva de Tokio después de una ausencia de tres años.
+
+Acompañado por la bella Asya, cuya apariencia rivalizaba con la de un hada, Hal corre por todas partes para asegurar su base de operaciones y ocuparse de los asuntos relacionados con el traslado escolar cuando el dragón de élite Soth ataca de repente-?
+
+Se ha dado vida a un nuevo mito entre los dragones y los cazadores de dragones.
+
+¡Una gran apertura para el "nacimiento" de una épica batalla de primera clase!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1pdVpD1lGvzPJ8sm10akjOg" type="text/html" title="HiroLsn"/>
+</entry>
+<entry>
+<title>Shiniki no Campiones Novela Ligera en Español</title>
+<id>https://nextnovels.com/shiniki-no-campiones-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/shiniki-no-campiones-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/11/Shiniki-no-Campiones-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/11/Shiniki-no-Campiones-Portada.jpg"/>
+<author><name>Takedzuki Jou</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<content type="text">«El mundo está lleno de Dioses» «Santuario» otro mundo que conecta el reino mortal con el de los dioses mediante distorsiones dimensionales han estado apareciendo alrededor del mundo en los últimos años causando estragos. En la ciudad de Kobe en japón, se encuentra Toba Riona, la Onmyouji más fuerte de japón y la que se dice es la persona más cercana a dios, ella junto con el protagonista, Rokuhara Ren que fue enviado de la prestigiosa organización de magos, Campiones, tendrán que llevar a cabo la misión de cerrar la distorsión que está causando estragos y que conecta nada más y nada menos que con el Santuario de Troya, de la Mitología Griega. Sin embargo, Ren es sólo un chico común y corriente… o eso parece. Aún así Ren tiene la orden de completar su misión a toda costa… incluso si tiene que matar a un dios para lograrlo.
+
+¡Así empieza la historia de las batallas de los santuarios en mundos plagados por dioses y héroes!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1EZrtWwp9TeeKeS6S69XNZA" type="text/html" title="Taikutsu Translations"/>
 </entry>
 </feed>

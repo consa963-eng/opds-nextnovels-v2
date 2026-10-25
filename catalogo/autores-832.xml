@@ -1,35 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Shien BIS</id>
-<title>Shien BIS</title>
-<updated>2026-10-21T00:13:50.706886+00:00</updated>
+<id>nextnovels:autores:Seto Meguru</id>
+<title>Seto Meguru</title>
+<updated>2026-10-25T03:42:53.828341+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-832.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>King of the Labyrinth Novela Ligera en Español</title>
-<id>https://nextnovels.com/king-of-the-labyrinth-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/king-of-the-labyrinth-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/01/01-4-e1641970459454.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/01/01-4-e1641970459454.jpg"/>
-<author><name>Shien BIS</name></author>
+<title>The Hidden Dungeon Only I Can Enter Novela Ligera en Español</title>
+<id>https://nextnovels.com/the-hidden-dungeon-only-i-can-enter-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/the-hidden-dungeon-only-i-can-enter-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2021/12/The-hidden-dungeon-1-e1641220503607.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2021/12/The-hidden-dungeon-1-e1641220503607.jpg"/>
+<author><name>Seto Meguru</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Drama" label="Drama"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Seinen" label="Seinen"/>
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
 <category term="Supernatural" label="Supernatural"/>
-<content type="text">Un misterioso laberinto. Ubicado en el décimo piso, un minotauro está a la espera de valientes aventureros, muchos lo han desafiado, todos han fracasado.
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Noir, el tercer hijo de un "noble de poca monta", de forma inesperada termina perdiendo su trabajo, pero la fortuna le sonrió cuando se convirtió en un aventurero.
 
-— ¡Más!
+Mazmorras ocultas en las que nadie sabe cómo entrar. Lugares Legendarios infestados de Monstruos mágicos extremadamente peligrosos, herramientas fuera de lo normal con poderes mágicos increíblemente altos y objetos que serían una de reliquia en cualquier parte del mundo.
 
-Exige el poderoso monstruo.
+Una de esas mazmorras se abrió ante Noir.
 
-— ¡Enviadme a sus guerreros más poderosos!
+"Sin decirle a nadie sobre este lugar, en secreto me convertiré en el más fuerte"
 
-Una criatura que busca la fuerza sin importar el precio que cueste.
+Un mundo complicado para los que perteneces a la nobleza. Sin autoridad ni honor, sin posibilidad de poder adquirir poder...
 
-Es tan fuerte, que rompe las propias reglas establecidas por el propio laberinto.
-
-¿Existirá algún guerrero capaz de hacerle frente? ¿Existirá alguien que pueda derrotar a esta temible bestia?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1ZkcIl7AfC_9JrLXjuhJxFw" type="text/html" title="MiraiK - Novelas Ligeras y más"/>
+¿Qué le esperará a Noir en su aventura? ¿Qué beneficios y desgracias le causará esta mazmorra secreta?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/15l4P-pbL7AZDo-mnU7MCgA" type="text/html" title="God's Earth Translations"/>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1GAxhjDwVhzdWKEgHw2__0Q" type="text/html" title="World Project"/>
 </entry>
 </feed>

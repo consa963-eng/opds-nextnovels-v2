@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kurisu</id>
-<title>Kurisu</title>
-<updated>2026-10-21T00:13:50.652687+00:00</updated>
+<id>nextnovels:autores:Kurasumi Sunayama</id>
+<title>Kurasumi Sunayama</title>
+<updated>2026-10-25T03:42:53.755335+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-500.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Aibeya Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-aibeya-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-aibeya-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Aibeya-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/08/Aibeya-Portada.jpg"/>
-<author><name>Kurisu</name></author>
-<category term="Hentai" label="Hentai"/>
-<category term="Romance" label="Romance"/>
-<content type="text">Kota tiene una amiga de la infancia de su misma edad llamada Aki. Viven en casas contiguas y se llevan muy bien, pero como son como familia, él aún no sabía si lo que sentía era amor.
+<title>Tengen Toppa Gurren Lagann Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-tengen-toppa-gurren-lagann-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-tengen-toppa-gurren-lagann-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/Tengen-Toppa-Gurren-Lagann-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/05/Tengen-Toppa-Gurren-Lagann-Portada.jpg"/>
+<author><name>Kurasumi Sunayama</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Mecha" label="Mecha"/>
+<content type="text">¡Atraviesa el cielo con tu taladro!
 
-En ese momento, decidió quedarse a dormir en la casa de Aki mientras reformaban la suya.
+«¡Atraviesa el cielo con tu taladro!» — En la aldea subterránea de Jiha, el joven Simon excava agujeros para expandir el pueblo. Un día, al avanzar, encuentra por casualidad un pequeño taladro que brilla con una luz misteriosa. Ese fue el principio de todo… En un futuro lejano, la humanidad ha sido expulsada de la superficie. Y esta es la historia de un hombre que aún no ha descubierto su destino.
 
-Aunque un poco desconcertado, abrió la puerta del vestidor para darse un baño y se topó con Aki, quien se estaba cambiando.
+La mitología robótica de combinación completamente nueva que GAINAX levantó con todo su esfuerzo, Tengen Toppa Gurren Lagann, ¡es novelizada por su propio equipo de guionistas! Incluye también historias originales nunca emitidas en televisión.
 
-Y esa noche, Aki le propuso que salieran juntos como novios de prueba…
+El osado combinado Gurren Lagann, con el indoblegable líder del Gurren-dan, Kamina, y Simon. Y así aparece majestuosa la primera parte, que narra la despedida llena de lágrimas de los hombres.
 
-【¡Esta es una edición especial que incluye, como relato corto de regalo, una escena que se eliminó de la versión en libro de bolsillo por motivos de extensión!】</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1RSfdWPfKnv__ePt4pV5tqQ" type="text/html" title="Next Novels (MTL)"/>
+※ Esta obra contiene ilustraciones a color y en blanco y negro de la misma calidad que el original.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1KF-PQ9z4w3mlxKUb2oEH4Q" type="text/html" title="Next Novels (MTL)"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1BP_rIF8XsxpSwGg9jOD40A" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 </feed>

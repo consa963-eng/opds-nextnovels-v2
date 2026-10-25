@@ -1,27 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Covering The Sky</id>
-<title>Covering The Sky</title>
-<updated>2026-10-21T00:13:50.590752+00:00</updated>
+<id>nextnovels:autores:Chohokiteki Kaeru</id>
+<title>Chohokiteki Kaeru</title>
+<updated>2026-10-25T03:42:53.560229+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-124.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Lucia Novela Ligera en Español</title>
-<id>https://nextnovels.com/lucia-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/lucia-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/09/Lucia-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/09/Lucia-Portada.jpg"/>
-<author><name>Covering The Sky</name></author>
-<category term="Adulto" label="Adulto"/>
+<title>Witch and Mercenary Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-witch-and-mercenary-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-witch-and-mercenary-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/02/Witch-and-Mercenary-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/02/Witch-and-Mercenary-Portada.jpg"/>
+<author><name>Chohokiteki Kaeru</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
 <category term="Drama" label="Drama"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Josei" label="Josei"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Smut" label="Smut"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">Lucía creció sin saber que era una princesa. Pero cuando su madre murió, entró al palacio y tuvo la oportunidad de ver todo su futuro en un sueño. En su sueño, cuando cumplió 19 años, fue subastada al postor que ofreció la dote más alta. Su vida se volvió miserable a partir de entonces.
+<content type="text">No hay nada en este mundo más peligroso que una bruja. Son la personificación del miedo y el terror, y pueden convocar inundaciones a su antojo, conjurar bolas de fuego en el aire o incluso destruir países enteros de la noche a la mañana. Si provocan su ira, nadie está a salvo.
 
-Cuando despertó de su sueño, estaba decidida a remodelar su futuro, dándose cuenta de que tenía mucho tiempo antes del crucial punto de inflexión. Por lo tanto, comienza su viaje para cambiar su oscuro futuro.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1IR_A0Lh-sRIR7mNXlb1CdA" type="text/html" title="Asianovelas"/>
+Al menos, eso es lo que todos piensan, y es la razón por la que todos quieren a Siasha muerta. Tras otra violenta batalla por su vida, se une a Zig, un mercenario, y parten hacia tierras desconocidas para encontrar un lugar donde pueda vivir en paz. Pero, ¿podrá la pareja enfrentarse a la magia perdida y a las monstruosidades despiadadas que les aguardan?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1C0fUN6qVyU38FMVqgcNN1g" type="text/html" title="Legends no Fansub"/>
 </entry>
 </feed>

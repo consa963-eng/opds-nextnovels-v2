@@ -1,40 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Habara Tetsu</id>
-<title>Habara Tetsu</title>
-<updated>2026-10-21T00:13:50.602158+00:00</updated>
+<id>nextnovels:autores:Gyokuto</id>
+<title>Gyokuto</title>
+<updated>2026-10-25T03:42:53.575078+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-192.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Reborn Gladiator in the Procreation Colosseum Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-reborn-gladiator-in-the-procreation-colosseum-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-reborn-gladiator-in-the-procreation-colosseum-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Reborn-Gladiator-in-the-Procreation-Colosseum-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/08/Reborn-Gladiator-in-the-Procreation-Colosseum-Portada.jpg"/>
-<author><name>Habara Tetsu</name></author>
+<title>The Revenge of the Soul Eater Novela Ligera en Español</title>
+<id>https://nextnovels.com/the-revenge-of-the-soul-eater-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/the-revenge-of-the-soul-eater-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/01/01-5.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/01/01-5.jpg"/>
+<author><name>Gyokuto</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Ecchi" label="Ecchi"/>
 <category term="Fantasía" label="Fantasía"/>
 <category term="Harem" label="Harem"/>
-<category term="Hentai" label="Hentai"/>
-<content type="text">“Yo estuve vivo aquí. Deseo dejar esa prueba. ¡Haré que las mejores mujeres conciban hijos!”
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Supernatural" label="Supernatural"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">La familia Mitsurugi a quien se les encomendó el papel de proteger la puerta demoníaca del emperador. Nacido como el hijo mayor, Mitsurugi Sora, a la edad de 13 años, estaba por realizar la ceremonia de prueba.
 
-Es el fuerte deseo de Rig, quien reencarnó en otro mundo como un bárbaro y cayó hasta convertirse en un esclavo de la espada.
+Una prueba que debe superar a como dé lugar para aprender el estilo de espada ilusoria que se ha transmitido de generación en generación. Sin embargo, falló en la prueba y fue expulsado de su tierra natal.
 
-—Eres un tonto lujurioso sin remedio, mira, es tu agujero muy apretado favorito.
+Cuando iba a reconstruir su vida siendo un aventurero, fue traicionado por sus compañeros de grupo haciéndolo presa viva de un poderoso monstruo.
 
-La capitana Lightius, una semi-humana loli mayor, lo deja mimarse……
+Fue llevado a su nido, y en ese momento, cuando estaba a punto de morir……
 
-—Conviérteme en la princesa que llevará a tus hijos, Onii-chan.
-
-La tercera princesa, Marsh, realiza una seducción regresiva……
-
-—Por favor, deme un castigo de eyaculación interna también a mí.
-
-La cuarta princesa, Luna, también levanta su hermoso trasero……
-
-—Sensei, por favor, déjeme dar a luz a su bebé.
-
-¡Incluso la esclava gladiadora elfa, Duranta, le ofrece su anhelo!
-
-Entregando su esencia en el interior de las cuatro, una por una…… ¡tras el ciclo de la reencarnación, por fin ha encontrado el harem definitivo!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1iD4I1VffDV07gJw6DUyJMw" type="text/html" title="Twintail Translations"/>
+Escuchó una voz que cambiaría su vida……</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1cAH2606Y55pDlqFYretn6w" type="text/html" title="GBtraducciones"/>
 </entry>
 </feed>

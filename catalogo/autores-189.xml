@@ -1,35 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Gurashi</id>
-<title>Gurashi</title>
-<updated>2026-10-21T00:13:50.601654+00:00</updated>
+<id>nextnovels:autores:Gotou Yuujin</id>
+<title>Gotou Yuujin</title>
+<updated>2026-10-25T03:42:53.574419+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-189.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Valhalla Otintin Brotel Novela Ligera en Español</title>
-<id>https://nextnovels.com/valhalla-otintin-brotel-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/valhalla-otintin-brotel-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/04/Valhalla-Otintin-Brotel-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/04/Valhalla-Otintin-Brotel-Portada.jpg"/>
-<author><name>Gurashi</name></author>
-<category term="Adulto" label="Adulto"/>
-<category term="Fantasía" label="Fantasía"/>
+<title>Tsuki Tsuki! Novela Ligera en Español</title>
+<id>https://nextnovels.com/tsuki-tsuki-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/tsuki-tsuki-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/07/Tsuki-Tsuki-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/07/Tsuki-Tsuki-Portada.jpg"/>
+<author><name>Gotou Yuujin</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
 <category term="Harem" label="Harem"/>
-<category term="Hentai" label="Hentai"/>
-<category term="Maduro" label="Maduro"/>
 <category term="Romance" label="Romance"/>
-<content type="text">Este es el paraíso de las mujeres, el infierno de los hombres…
-
-¡Bienvenido al burdel Otintin Brothel!
-
-Shota Iijima es un chico que ama a las mujeres mayores, y en su 1000ª masturbación, «rocía» su precioso libro erótico que tomó en su infancia, y antes de que se dé cuenta, ha sido trasladado a otro mundo.
-
-El destino es un mundo diferente en el que el poder de las mujeres es fuerte y los derechos de los hombres son ignorados.
-
-Shota es vendido al burdel masculino Valhalla Otintin como esclavo s*xual, donde es aprovechado por el excesivo deseo s*xual de las mujeres.
-
-Mientras los chicos en la misma situación se desesperan al ser violados por las horribles mujeres, Shota, que sufre de un severo fetiche por las mujeres extranjeras… ¡está sobreexcitado de alegría!
-
-¡Una historia de un prostituto oneshota de alta tensión que hace felices a sus mujeres con su único erotismo!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1RZZC8-EMh1BwpETwxiWjDA" type="text/html" title="Btoom Translations: Defous123"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Un día, Shinobu se despierta sólo para encontrar una chica rubia desnuda durmiendo a su lado. No tiene memoria alguna de ella ¿Quién es ella? ¿Por qué está en su cama? ¿Por qué está desnuda? Para empeorar las cosas su hermana llega y los ve. ¿Qué pasará ahora?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1hAce7mJl1KdL8-VYFGlYJA" type="text/html" title="ersión de Kikuslirus"/>
 </entry>
 </feed>

@@ -1,28 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Yasuaki Mikami</id>
-<title>Yasuaki Mikami</title>
-<updated>2026-10-21T00:13:50.748936+00:00</updated>
+<id>nextnovels:autores:Yanagimi Touki</id>
+<title>Yanagimi Touki</title>
+<updated>2026-10-25T03:42:53.880518+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1065.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Sacchi Sarenai Saikyou Shoku Rule Breaker Novela Ligera en Español</title>
-<id>https://nextnovels.com/sacchi-sarenai-saikyou-shoku-rule-breaker-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/sacchi-sarenai-saikyou-shoku-rule-breaker-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/09/Satchi-Sarenai-Saikyou-Shoku-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/09/Satchi-Sarenai-Saikyou-Shoku-Portada.jpg"/>
-<author><name>Yasuaki Mikami</name></author>
+<title>Taimadou Gakuen 35 Shiken Shoutai Novela Ligera en Español</title>
+<id>https://nextnovels.com/taimadou-gakuen-35-shiken-shoutai-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/taimadou-gakuen-35-shiken-shoutai-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/07/Taimadou-Gakuen-35-Shiken-Shoutai-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/07/Taimadou-Gakuen-35-Shiken-Shoutai-Portada.jpg"/>
+<author><name>Yanagimi Touki</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
+<category term="Ecchi" label="Ecchi"/>
 <category term="Fantasía" label="Fantasía"/>
 <category term="Harem" label="Harem"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Romance" label="Romance"/>
 <category term="Shounen" label="Shounen"/>
-<content type="text">La historia sigue a Hikaru, un joven que muere en un accidente de tráfico. Mientras hace fila en el reino de los espíritus, esperando que su alma sea juzgada, recibe una oferta de un joven aristócrata llamado Roland para transferir su alma a otro mundo, uno lleno de magia, mazmorras y dragones.
-
-Al llegar, descubre su habilidad única llamada Soul Board, que le permite ver las estadísticas de las personas (y las suyas propias) e incluso editarlas.
-
-Cuando Roland le dice que mate a alguien a cambio de su cuerpo, Hikaru decide poner todos sus puntos disponibles en el árbol de habilidades de sigilo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1DlKIQJNc96HvLFbiPjr40g" type="text/html" title="Kyūden Translation"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">En un mundo en el que los humanos que usan la magia están cerca de ser aniquilados, los combates se libran con armas de fuego, relegando el uso de espadas al pasado. El protagonista de la historia, Kusanagi Takeru, es un estudiante de la Academia Antimagia, una institucion en el que se forman los Inquisidores que cazarán a las brujas malvadas en el futuro. Takeru es incapaz de usar un arma de fuego y solo es capaz de luchar con una espada, por lo que es relegado al 35º Pelotón de Prueba, también llamado “Peloton Small Fry” por la debilidad de sus miembros. Sin embargo, Ootori Ouka, una pistolera de élite que pertenecia a los Dullahan (Cazadores de Brujas), es enlistada en ese pelotón.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1d7OUj_Iz04LdMBPIT6Q5nA" type="text/html" title="Kurosaki-vizard &amp; HaremSubs"/>
 </entry>
 </feed>

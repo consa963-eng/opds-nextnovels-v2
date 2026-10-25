@@ -1,39 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Hachimoku Mei</id>
-<title>Hachimoku Mei</title>
-<updated>2026-10-21T00:13:50.602312+00:00</updated>
+<id>nextnovels:autores:Ha'nyuu</id>
+<title>Ha'nyuu</title>
+<updated>2026-10-25T03:42:53.575286+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-193.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Natsu e no Tonneru, Sayonara no Deguchi Novela Ligera en Español</title>
-<id>https://nextnovels.com/natsu-e-no-tonneru-sayonara-no-deguchi-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/natsu-e-no-tonneru-sayonara-no-deguchi-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/10/01-10.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/10/01-10.jpg"/>
-<author><name>Hachimoku Mei</name></author>
-<category term="Drama" label="Drama"/>
+<title>Hazure Skill “Kinomi Master” Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-hazure-skill-kinomi-master-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-hazure-skill-kinomi-master-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/09/Hazure-Skill-Kinomi-Master-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/09/Hazure-Skill-Kinomi-Master-Portada.jpg"/>
+<author><name>Ha'nyuu</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">Touno Kaoru es un chico de preparatoria que vive en un pueblo rural costeño llamado Kouzaki. Una mañana mientras se dirige a la escuela, escucha una leyenda urbana llamada: “El Túnel de Urashima”, que habla de un túnel mágico capaz de conceder cualquier deseo a la persona que entre en él. Más tarde ese mismo día, Kaoru descubre por casualidad un túnel que tiene mucha similitud con el de la leyenda lo cual desencadena un pensamiento: “Sí entro al túnel de Urashima, talvez sea capaz de recuperar a Karen”. Después de la escuela, Kaoru comienza investigar el túnel por su cuenta, pero no contaba con que alguien lo seguiría en secreto. Una callada estudiante transferida de su clase llamada Hanashiro Anzu, que ha sido una marginada desde que llegó. Pero, por alguna razón, siente interés en Kaoru. Ambos, terminarán trabajando juntos para conseguir aquello que desean. Esta historia narra el verano de un chico y una chica que desafían a un túnel que atraviesa el tiempo y el espacio.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com#Volumenes" type="text/html" title="Owari"/>
-</entry>
-<entry>
-<title>The Mimosa Confessions Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-mimosa-confessions-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-mimosa-confessions-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/06/The-Mimosa-Confessions-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/06/The-Mimosa-Confessions-Portada.jpg"/>
-<author><name>Hachimoku Mei</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<category term="Yaoi" label="Yaoi"/>
-<content type="text">Creciendo en una lúgubre zona rural, Sakuma Kamiki tenía poco que alegrara sus monótonos días, aparte de su mejor amigo. El brillante y talentoso Ushio parecía tener todo lo que a Sakuma le faltaba, y su buena apariencia, desempeño académico y destreza atlética lo hacían popular entre las chicas de la escuela. Traumas pasados —y un complejo de inferioridad— los fueron separando lentamente, y para cuando entraron a la preparatoria, apenas se hablaban. Así, Sakuma se encuentra solo. Contra todo pronóstico, Sakuma finalmente consigue una amiga en Natsuki, la chica más dulce de la clase. Los dos congenian al hablar con entusiasmo sobre sus novelas favoritas, y él se enamora perdidamente de ella. Pero esa misma noche, se topa con una escena inesperada mientras camina por un parque conocido: su viejo amigo Ushio, vestido con un uniforme escolar de chica completo y sollozando incontrolablemente.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1yA3Yy68fMAPZ-ObJNTKdhg" type="text/html" title="Onigiri Novels"/>
+<category term="Harem" label="Harem"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">En un mundo en el que las Frutas de Habilidad otorgan poderes, el aspirante a aventurero Light está condenado a tener la inservible habilidad "Maestro de las Frutas". Comer otra fruta es mortal, así que no hay segundas oportunidades. Mientras tanto, su amiga de la infancia Lena asciende rápidamente al Rango S. Sin embargo, cuando Light come por accidente una segunda Fruta de Habilidad, sobrevive y descubre su verdadero poder: ¡puede comer todas las Frutas de Habilidad que quiera y obtener sus habilidades!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1G-7ZQFAkyOe55fjFjphwhg" type="text/html" title="Dark Guild Fansub"/>
 </entry>
 </feed>

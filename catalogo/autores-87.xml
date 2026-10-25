@@ -1,38 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Aruku Sakana</id>
-<title>Aruku Sakana</title>
-<updated>2026-10-21T00:13:50.584566+00:00</updated>
+<id>nextnovels:autores:Ariyama Ryou</id>
+<title>Ariyama Ryou</title>
+<updated>2026-10-25T03:42:53.551948+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-87.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Itsumo Baka ni Shitekuru Bishoujo-tachi to Zetsuen Shitara, Jitsuha Ore no Koto ga Daisuki datta You da Novela Ligera en Español</title>
-<id>https://nextnovels.com/itsumo-baka-ni-shitekuru-bishoujo-tachi-to-zetsuen-shitara-jitsuha-ore-no-koto-ga-daisuki-datta-you-da-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/itsumo-baka-ni-shitekuru-bishoujo-tachi-to-zetsuen-shitara-jitsuha-ore-no-koto-ga-daisuki-datta-you-da-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/05/Itsumo-Baka-ni-Shitekuru-Bishoujo-tachi-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/05/Itsumo-Baka-ni-Shitekuru-Bishoujo-tachi-Portada.jpg"/>
-<author><name>Aruku Sakana</name></author>
+<title>A History of the Romelia Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-a-history-of-the-romelia-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-a-history-of-the-romelia-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/A-History-of-the-Romelia-Portada-1.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/09/A-History-of-the-Romelia-Portada-1.jpg"/>
+<author><name>Ariyama Ryou</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
 <category term="Drama" label="Drama"/>
-<category term="Harem" label="Harem"/>
-<category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">“Quiero que terminemos”
+<category term="Fantasía" label="Fantasía"/>
+<category term="Seinen" label="Seinen"/>
+<content type="text">¡Resurgiendo de las cenizas, una noble caída se alza para salvar a la humanidad!
 
-En el invierno del primer año de preparatoria, Yuta Miyamoto, que trató de ser amable con las personas terminó con su novia Yumi Asakawa.
+"Condesa Romelia. Rompo nuestro compromiso", declaró el príncipe Henri, justo después de derrotar al Rey Demonio. Junto al príncipe estaban La santa de la Iglesia Elizabeth, la sabia del Bosque sin retorno Ekaterina, y la espadachina oriental Ryoki, quienes la acusaban de ser "inútil".
 
-Ella trabajaba como modelo y eligió salir con un actor en lugar de continuar su relación con su amigo de la infancia Yuta.
+Pero el príncipe y sus compañeros ignoraban algo. Desconocían que Romelia poseía un poder milagroso llamado "Gracia", que otorgaba buena fortuna.
 
-Y ahora, si bien las heridas de su corazón hecho mil pedazos todavía no han sanado, Akane Kurosaki, su kouhai, con quien debería haber formado una buena relación le dijo:
+Tras perder a su prometido y ser abandonada por sus amigos, Romelia no se rindió. Su tierra natal seguía infestada por las fuerzas del Rey Demonio, y muchos eran prisioneros de la raza demoníaca. Para rescatarlos, Romelia emprendió una misión, encontrando numerosas dificultades en el camino.
 
-“Es por esas cosas que no puedes tener una novia”
+Para empezar, no tenía ejército. No había curanderos para atender las heridas y carecía de fondos. Pero Romelia estaba decidida a resolver cada problema con determinación.
 
-Sí, ella siempre se burlaba de Yuta.
+"¿Sin ejército? Intimidemos a los señores locales y tomemos sus fortalezas".
 
-Por otro lado, su maid favorita, lo insultaba cada vez que él iba al maid-café con las intenciones de pasar un agradable momento tras la ruptura de su novia.
+"¿Sin curanderos? Negociemos con la iglesia para obtener su ayuda".
 
-Lo lastiman y se burlan de él por solo ser siempre amable.
+"¿Sin dinero? Negociemos con los mercaderes para conseguir fondos".
 
-Pero cansado de todo eso y fastidiado consigo mismo, decide alejarse de su exnovia, su kouhai y su maid favorita, sin embargo, la respuesta de las chicas que se burlaban de él fue muy diferente a lo que él esperaba. ¡Esta es una historia que comienza con “el perdón”!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1kIrbqUOJwssDx6FGzp_fcg" type="text/html" title="Tamashi’s Project"/>
+"¿Los soldados recién reclutados son inexpertos? Que adquieran experiencia cazando monstruos".
+
+Y así, Romelia, junto con sus fieles seguidores, ¡marchó hacia la batalla!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/11jrE4IAYAJvI4rjssWh2Gg" type="text/html" title="Saitou Translations"/>
 </entry>
 </feed>

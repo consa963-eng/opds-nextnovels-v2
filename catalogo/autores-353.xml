@@ -1,34 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kaitou Reiji</id>
-<title>Kaitou Reiji</title>
-<updated>2026-10-21T00:13:50.628378+00:00</updated>
+<id>nextnovels:autores:Kaidou Sakon</id>
+<title>Kaidou Sakon</title>
+<updated>2026-10-25T03:42:53.642887+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-353.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Unbreakable Machine Doll Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-unbreakable-machine-doll-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-unbreakable-machine-doll-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/02/Kikou-Shoujo-wa-Kizutsukanai-Portada-e1644804173546.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/02/Kikou-Shoujo-wa-Kizutsukanai-Portada-e1644804173546.jpg"/>
-<author><name>Kaitou Reiji</name></author>
+<title>Infinite Dendrogram Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-infinite-dendrogram-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-infinite-dendrogram-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-63.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-63.jpg"/>
+<author><name>Kaidou Sakon</name></author>
 <category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
 <category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">En el año 2043, salió a la venta Infinite Dendrogram, el primer VRMMO de inmersión completa exitosa del mundo. Además de su capacidad para simular a la perfección los cinco sentidos, junto con sus muchas otras increíbles características, el juego prometía ofrecer a los jugadores un mundo lleno de infinitas posibilidades. Casi dos años más tarde, Reiji Mukudori, un estudiante de primer año de universidad, pudo por fin comprar una copia del juego y empezar a jugar. Con la ayuda de su experimentado hermano mayor, Shu, y su compañero Embryo, Reiji se embarca en una aventura en el mundo de Infinite Dendrogram. ¿Qué descubrirá y encontrará en este mundo de juego conocido por su increíble realismo e infinitas posibilidades?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/13bJTea9D5OoQa__-94NBPw" type="text/html" title="Nakama Novels Res"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1UK1e-LnOATqL0fEfrY79eg" type="text/html" title="World Project"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1kDuIOdH_ssYfxrzDBjFlMA" type="text/html" title="Ferindrad"/>
+</entry>
+<entry>
+<title>My Instant Death Ability is So Overpowered No One in This Other World Stands a Chance Against Me! Novela Ligera en Español</title>
+<id>https://nextnovels.com/my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-64.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-64.jpg"/>
+<author><name>Kaidou Sakon</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Maduro" label="Maduro"/>
 <category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Durante el siglo 20, junto con los avances tecnológicos, los científicos fueron capaces de desarrollar magia sofisticada.
+<category term="Shounen" label="Shounen"/>
+<content type="text">¿Trucos de crecimiento? ¿Poder mágico infinito? La capacidad de utilizar todos los arquetipos? ¿Cuál es el punto si la muerte instantánea termina todo con un solo ataque?
 
-La combinación entre la ciencia y la hechicería dan como resultado el Machinart, circuitos elaborados a partir de hechizos que se colocan en objetos para darles vida e incluso personalidad. Fue desarrollado como un arma militar y ahora se ha extendido por todo el mundo.
+El estudiante de último año de secundaria, Yogiri Takatou, estaba en una excursión escolar cuando se despertó con un dragón atacando su autobús turístico, y los únicos que aún estaban en el autobús eran él y su compañera de clase, Tomochika Dannoura, presa del pánico. Aparentemente, el resto de sus compañeros de clase habían recibido poderes especiales de Sion, una mujer que se presentó como Sabio y escaparon del dragón, dejando a los que no habían recibido ningún poder especial como cebo.
 
-Raishin Akabane es el protagonista de esta historia, un joven titiritero japones que viaja hacia la Real Academia de Machinart de Inglaterra, Walpurgis, para estudiar en ella.
-
-Acompañado por la bella adolescente Yaya, quien es en realidad una autómata especializada en el combate cuerpo a cuerpo, planea alzarse como el mejor estudiante de su clase.
-
-En la Academia, hay un torneo de combate exclusivo a los mejores 100 estudiantes y sus autómatas, para decidir a quién se le otorga el título de Wisheman, el más grande titiritero.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1m8GKGcEe5V5MyaKedG5TFA" type="text/html" title="Twin Dragons, Kikulirus Project, Kancore Translations y Anime y traducciones"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1bpEjFIMg_2KcZzjYEcKiCQ" type="text/html" title="Next Novels (MTL)"/>
+Y entonces Yogiri fue arrojado a un universo paralelo lleno de peligro, sin idea de lo que acaba de pasar. Del mismo modo, Sion no tenía manera de saber qué clase de ser había convocado para su mundo.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1rNbJH9dBydNfwRC4pqreBg" type="text/html" title="Legends no Fansub y Eon Translations"/>
 </entry>
 </feed>

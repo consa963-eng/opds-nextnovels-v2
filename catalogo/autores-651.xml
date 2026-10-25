@@ -1,49 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Nanasawa Matari</id>
-<title>Nanasawa Matari</title>
-<updated>2026-10-21T00:13:50.677127+00:00</updated>
+<id>nextnovels:autores:Nanana</id>
+<title>Nanana</title>
+<updated>2026-10-25T03:42:53.787561+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-651.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Mitsuba’s Stories Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-mitsubas-stories-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-mitsubas-stories-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/09/Mitsubas-Stories-Portada-1.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/09/Mitsubas-Stories-Portada-1.jpg"/>
-<author><name>Nanasawa Matari</name></author>
-<category term="Acción" label="Acción"/>
+<title>Chanto Suki tte Ieru Ko Musou Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-chanto-suki-tte-ieru-ko-musou-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-chanto-suki-tte-ieru-ko-musou-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/02/Chanto-Suki-tte-Ieru-Ko-Musou-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/02/Chanto-Suki-tte-Ieru-Ko-Musou-Portada.jpg"/>
+<author><name>Nanana</name></author>
+<category term="Comedia" label="Comedia"/>
 <category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<content type="text">«Baila con la locura».
+<category term="Harem" label="Harem"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">El método infalible para ganar en una comedia romántica siempre es el mismo:
 
-«Este mundo gira a mi alrededor...».
+¡Solo hay que decir "Me gustas"!
 
-Al despertar de un largo letargo con una misteriosa sensación de omnipotencia, Mitsuba se da cuenta de que su madrastra no la quiere. Gracias a las intrigas de esta, Mitsuba no solo pierde su título nobiliario, sino que también se ve obligada a ingresar en una academia militar.
+Las chicas que sienten algo por el estudiante de preparatoria Izumi han pasado sus días sin atreverse a dar el primer paso.
 
-Sin embargo, Mitsuba se aferra a los vagos recuerdos de otro mundo y, sin saberlo, ejerce el poder de una maldición. Esta es la historia de una chica que, temida por quienes la rodean, se abre camino con habilidades extraordinarias: una narrativa única de conquista en un mundo diferente.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1XC_FMkeBj8b6u6S8w0zz-w" type="text/html" title="Kyūden Translation"/>
+• La idol admirada por la escuela es, solo cuando está a solas con él, una persona dedicada que no sabe pedir ayuda: Amane Amasaki.
+
+• A pesar de haber sido desheredado, por alguna razón su ex prometida no lo deja en paz: Hakua Shiragiku.
+
+• La pequeña demonio, que está al lado de la pequeña ángel de la preparatoria... resulta ser sorprendentemente fácil de tratar: Haru Kasuga.
+
+Sin embargo, la que aparece de repente es Nanao Nanase, una chica que, aunque parece común, posee un talento innato de heroina principal.
+
+Nanao lanza una ofensiva directa y descarada hacia Izumi:
+
+“Izumi-kun, me gustas. Sal conmigo”.
+
+“Sí, di ‘Ah~n♪’”
+
+“Izumi-kun, tú me hiciste convertirme en esta clase de chica ¿Sabes?”
+
+“““¿¡E-Esta chica… lo hizo de verdad!?”””
+
+¡¡Al ver esto, Amane y las demás entran en acción…!!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Ib_vA6nH7tjxf1oE2MrhJw" type="text/html" title="Tamashi's Project"/>
 </entry>
 <entry>
-<title>The Maiden Called Hero or Monster Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-maiden-called-hero-or-monster-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-maiden-called-hero-or-monster-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/The-Maiden-Called-Hero-or-Monster-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/03/The-Maiden-Called-Hero-or-Monster-Portada.jpg"/>
-<author><name>Nanasawa Matari</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
+<title>Sorry Darling, but You Won’t Kill Me Again! Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-sorry-darling-but-you-wont-kill-me-again-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-sorry-darling-but-you-wont-kill-me-again-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/Sorry-Darling-but-You-Wont-Kill-Me-Again-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/10/Sorry-Darling-but-You-Wont-Kill-Me-Again-Portada.jpg"/>
+<author><name>Nanana</name></author>
+<category term="Drama" label="Drama"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Seinen" label="Seinen"/>
-<content type="text">Esa chica a la que una vez llamaron «Héroe»,
-
-era considerada la salvadora de la humanidad y la destructora definitiva de los demonios que asolaban el mundo. Su magia rompía las reglas, sus poderes curativos eran todopoderosos, su dominio de las armas era incomparable y su voluntad era de acero.
-
-Y entonces, la llamaron «monstruo», y su tremendo poder y abnegación fueron temidos. Traicionada por sus propios compañeros, continuó sola con su misión. No se detendrá hasta que todos los demonios sean erradicados. Matando, matando, matándolos a todos. Porque ese es el deber de una heroína.
-
-Perder su pasado y ganar nuevos compañeros no alterará su camino. Solo hay una razón que guía sus acciones.
-
-«Porque soy una heroína».</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1WO90qsnI-ornFUwm2y9Xbw" type="text/html" title="Next Novels (MTL)"/>
+<category term="Histórico" label="Histórico"/>
+<content type="text">La joven reina Etoile lo pierde todo cuando su amado esposo, Isar, la traiciona en medio de una invasión enemiga. Pero, en lugar de morir, despierta cinco años en el pasado, con una segunda oportunidad para cambiar su destino, recuperar lo que le arrebataron y vengarse de quienes la traicionarán. Sin embargo, fuerzas oscuras conspiran contra ella, y pronto descubre que no es la única que recuerda su vida anterior. ¿Podrá Etoile reescribir su futuro y alcanzar la felicidad, o volverá a caer en la tragedia que una vez la consumió?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1biu6y6r4S2KiHtsnYnFETw" type="text/html" title="Akira Light Novels"/>
 </entry>
 </feed>

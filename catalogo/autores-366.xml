@@ -1,29 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kanata Nakata</id>
-<title>Kanata Nakata</title>
-<updated>2026-10-21T00:13:50.630832+00:00</updated>
+<id>nextnovels:autores:Kana Akatsuki</id>
+<title>Kana Akatsuki</title>
+<updated>2026-10-25T03:42:53.646177+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-366.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>I Got Involved in a Life-or-Death Game, So I Decided to Kill All the People I Hate with Great Enthusiasm Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-i-got-involved-in-a-life-or-death-game-so-i-decided-to-kill-all-the-people-i-hate-with-great-enthusiasm-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-i-got-involved-in-a-life-or-death-game-so-i-decided-to-kill-all-the-people-i-hate-with-great-enthusiasm-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/07/I-Got-Involved-in-a-Life-or-Death-Game-So-I-Decided-to-Kill-All-the-People-I-Hate-with-Great-Enthusiasm-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/07/I-Got-Involved-in-a-Life-or-Death-Game-So-I-Decided-to-Kill-All-the-People-I-Hate-with-Great-Enthusiasm-Portada.jpg"/>
-<author><name>Kanata Nakata</name></author>
-<category term="Acción" label="Acción"/>
+<title>Agents of the Four Seasons Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-agents-of-the-four-seasons-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-agents-of-the-four-seasons-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/04/Agents-of-the-Four-Seasons-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/04/Agents-of-the-Four-Seasons-Portada.jpg"/>
+<author><name>Kana Akatsuki</name></author>
 <category term="Drama" label="Drama"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Suspenso" label="Suspenso"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Al despertar, Arai Tomo se encuentra en un lugar completamente desconocido.
-
-Una figura enigmática conocida solo como “Nanashi” le informa que debe participar, junto a todos sus compañeros y profesores, en un juego donde lo que está en juego es la propia supervivencia.
-
-Para Tomo, sin embargo, este escenario de vida o muerte no es una pesadilla, sino un deleite. Ansía ver correr la sangre de todos aquellos que le resultan despreciables. Y junto a la actriz de nivel súperélite Tetsuyama Yuiko, une fuerzas para enfrentar este juego mortal…
-
-Usando como arma su mente afilada y despiadada.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1sNE11MdZ_g-cFoNlyxuhww" type="text/html" title="Kai Sakura VENTO"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Romance" label="Romance"/>
+<content type="text">Érase una vez el Invierno. El Invierno fue en su día la única estación del mundo, pero una existencia así resultaba demasiado solitaria de soportar, por lo que creó a la Primavera para amarla. Al poco tiempo, la tierra deseó disponer de más tiempo para descansar en el ciclo, y así nacieron el Verano y el Otoño. A quienes llevan el ciclo se les llama los Agentes de las Cuatro Estaciones. Hinagiku, la Agente de la Primavera, desapareció de esta tierra hace diez años, llevándose consigo la estación de la primavera. Ahora, tras increíbles penurias, ha regresado para restaurar el ciclo a su estado natural y, tal y como reza el mito transmitido desde los albores de los tiempos, envía su amor al Invierno.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1W5EVGR4xbgNpBlPtJXr_2g" type="text/html" title="Kasnia Project"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/19jSIa0VIR53kMhNoPbh2NQ" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 </feed>

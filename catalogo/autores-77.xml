@@ -1,21 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Aoi Muramasa</id>
-<title>Aoi Muramasa</title>
-<updated>2026-10-21T00:13:50.582961+00:00</updated>
+<id>nextnovels:autores:Aoi Miyamae</id>
+<title>Aoi Miyamae</title>
+<updated>2026-10-25T03:42:53.549839+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-77.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Curse Eater Novela Ligera en Español</title>
-<id>https://nextnovels.com/curse-eater-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/curse-eater-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/09/01-22.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/09/01-22.jpg"/>
-<author><name>Aoi Muramasa</name></author>
-<category term="Adulto" label="Adulto"/>
+<title>Assassin Empress Bellreuge Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-assassin-empress-bellreuge-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-assassin-empress-bellreuge-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/Assassin-Empress-Bellreuge-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/10/Assassin-Empress-Bellreuge-Portada.jpg"/>
+<author><name>Aoi Miyamae</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Drama" label="Drama"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">La serie sigue a un tipo especial de doncella de santuario que se especializa en exorcizar a los dioses del s*xo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1W_tXpW3sL-6GM0eQfdCo-A" type="text/html" title="Infinit-TradPro"/>
+<category term="Romance" label="Romance"/>
+<category term="Shoujo" label="Shoujo"/>
+<content type="text">¡La princesa oprimida llega al poder!
+
+Bellreuge es solo una doncella al servicio de la primera princesa del Imperio… hasta que, de repente, recibe una propuesta de matrimonio del (infame) hijo del marques Asturm, también conocido como el Lobo Sangriento. La primera princesa, quien además es la media hermana mayor de Bellreuge, obliga a Bellreuge y a Asturm a huir de la capital imperial con soldados pisándoles los talones. Por suerte, Bellreuge sabe pelear… porque ha vivido bajo la amenaza constante de ser asesinada desde que nació. Ahora, exiliada al desconocido marquesado Beiermen, tendrá que encontrar la manera de sacar lo mejor de su situación. Lo que no sabe es que los acontecimientos se han acelerado más de lo que jamás hubiera podido anticipar y que, junto con Asturm, podría terminar decidiendo el destino del propio Imperio.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1v27nDFWC3EHTJzMdnG3DcA" type="text/html" title="Akira Light Novels"/>
 </entry>
 </feed>

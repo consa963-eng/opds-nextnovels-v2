@@ -1,34 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:arukuhito</id>
-<title>arukuhito</title>
-<updated>2026-10-21T00:13:50.584730+00:00</updated>
+<id>nextnovels:autores:Aruku Sakana</id>
+<title>Aruku Sakana</title>
+<updated>2026-10-25T03:42:53.552161+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-88.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Isekai Walking Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-isekai-walking-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-isekai-walking-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/Isekai-Walking-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/09/Isekai-Walking-Portada.jpg"/>
-<author><name>arukuhito</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Fantasía" label="Fantasía"/>
+<title>Itsumo Baka ni Shitekuru Bishoujo-tachi to Zetsuen Shitara, Jitsuha Ore no Koto ga Daisuki datta You da Novela Ligera en Español</title>
+<id>https://nextnovels.com/itsumo-baka-ni-shitekuru-bishoujo-tachi-to-zetsuen-shitara-jitsuha-ore-no-koto-ga-daisuki-datta-you-da-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/itsumo-baka-ni-shitekuru-bishoujo-tachi-to-zetsuen-shitara-jitsuha-ore-no-koto-ga-daisuki-datta-you-da-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/05/Itsumo-Baka-ni-Shitekuru-Bishoujo-tachi-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/05/Itsumo-Baka-ni-Shitekuru-Bishoujo-tachi-Portada.jpg"/>
+<author><name>Aruku Sakana</name></author>
+<category term="Drama" label="Drama"/>
 <category term="Harem" label="Harem"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
 <category term="Shounen" label="Shounen"/>
-<content type="text">¡Una habilidad "inútil" que se convierte en el poder más versátil!
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">“Quiero que terminemos”
 
-Sora Fujimiya es un estudiante común y corriente que, de repente, es invocado a un mundo de fantasía para convertirse en uno de los "Héroes" que derrotarán al Rey Demonio. Sin embargo, la habilidad única que recibe es considerada un fracaso por el rey: 『Walking』 (Caminata), que simplemente le permite no cansarse al caminar.
+En el invierno del primer año de preparatoria, Yuta Miyamoto, que trató de ser amable con las personas terminó con su novia Yumi Asakawa.
 
-Despreciado y desterrado del castillo, Sora se encuentra solo en una ciudad desconocida, sin dinero, sin equipo y sin un futuro claro. Pero pronto descubre el verdadero poder de su habilidad: cada paso que da le otorga experiencia, aumentando sus estadísticas y otorgándole puntos de habilidad para aprender nuevas destrezas.
+Ella trabajaba como modelo y eligió salir con un actor en lugar de continuar su relación con su amigo de la infancia Yuta.
 
-Guiado por su astucia, un espíritu esponjoso y misterioso que solo él puede ver, y el apoyo de dos aventureras experimentadas, Sora comenzará su viaje como un aventurero de rango más bajo, demostrando que lo que parece un don inútil puede convertirse en la llave para sobrevivir y prosperar en este nuevo mundo. Pero mientras se abre camino, las sombras del conflicto entre naciones y la amenaza del Rey Demonio se ciernen, y una figura del castillo del rey observa sus pasos con interés.
+Y ahora, si bien las heridas de su corazón hecho mil pedazos todavía no han sanado, Akane Kurosaki, su kouhai, con quien debería haber formado una buena relación le dijo:
 
-"¿Una habilidad basura? Tal vez. Pero mientras pueda caminar, siempre tendré una oportunidad."</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/12HXTByTciRYd67Gs-R1ClA" type="text/html" title="Bell Traducciones"/>
+“Es por esas cosas que no puedes tener una novia”
+
+Sí, ella siempre se burlaba de Yuta.
+
+Por otro lado, su maid favorita, lo insultaba cada vez que él iba al maid-café con las intenciones de pasar un agradable momento tras la ruptura de su novia.
+
+Lo lastiman y se burlan de él por solo ser siempre amable.
+
+Pero cansado de todo eso y fastidiado consigo mismo, decide alejarse de su exnovia, su kouhai y su maid favorita, sin embargo, la respuesta de las chicas que se burlaban de él fue muy diferente a lo que él esperaba. ¡Esta es una historia que comienza con “el perdón”!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1kIrbqUOJwssDx6FGzp_fcg" type="text/html" title="Tamashi’s Project"/>
 </entry>
 </feed>

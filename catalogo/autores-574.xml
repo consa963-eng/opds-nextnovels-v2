@@ -1,48 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Mikumo Gakuto</id>
-<title>Mikumo Gakuto</title>
-<updated>2026-10-21T00:13:50.664482+00:00</updated>
+<id>nextnovels:autores:Mikito Chinen</id>
+<title>Mikito Chinen</title>
+<updated>2026-10-25T03:42:53.771137+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-574.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Strike the Blood Novela Ligera en Español</title>
-<id>https://nextnovels.com/strike-the-blood-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/strike-the-blood-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-67.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-67.jpg"/>
-<author><name>Mikumo Gakuto</name></author>
+<title>Ameku M.D.: Doctor Detective Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-ameku-m-d-doctor-detective-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-ameku-m-d-doctor-detective-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/04/Ameku-MD-Doctor-Detective-Portada1.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/04/Ameku-MD-Doctor-Detective-Portada1.jpg"/>
+<author><name>Mikito Chinen</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Artes marciales" label="Artes marciales"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Aventura" label="Aventura"/>
 <category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
+<category term="Maduro" label="Maduro"/>
 <category term="Misterio" label="Misterio"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Romance" label="Romance"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">"El cuarto primogénito" - Es el vampiro más fuerte del mundo que sólo debería existir en las leyendas. Acompañado incluso por doce Kenjuu y propagando la calamidad, este vampiro fantasma apareció en Japón.
-
-Para la observación y aniquilación de este "cuarto primogénito", el gobierno y el Rey León decidieron enviar a un mago de ataque denominado "chamán de las espadas". Sin embargo, por alguna razón, la elegida para la observación fue una aprendiz de "chamán de las espadas", Himeragi Yukina.
-
-Empuñando la más fuerte lanza espiritual anti-primogenitor, Yukina llegó al Santuario de los Demonios, "Ciudad Itogami". ¿Cuál era la verdadera identidad del "cuarto primigenio", Akatsuki Kojou, que encontró allí?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1I3q5ffa5sWMLBv7Lr8Qj7g" type="text/html" title="Kaleid Word Translations: CanisLycaon"/>
-</entry>
-<entry>
-<title>The Mystic Archives of Dantalian Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-mystic-archives-of-dantalian-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-mystic-archives-of-dantalian-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/The-Mystic-Archives-of-Dantalian-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/05/The-Mystic-Archives-of-Dantalian-Portada.jpg"/>
-<author><name>Mikumo Gakuto</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Horror" label="Horror"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Shounen" label="Shounen"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">El joven Huey se hizo cargo de la antigua mansión de su difunto abuelo, un apasionado de los libros, así como de la colección de libros que allí se guardaba. Pero había una condición: también tenía que heredar la «Bibliotheca».
-
-Al inspeccionar la mansión, Huey descubre un sótano lleno de libros apilados. En medio de ellos se encuentra con una chica vestida de negro que lee en silencio un libro. Se llama Dalian y lleva un gran candado colgado delante. Ella misma es la entrada a la «Bibliotheca de Dantalian», que contiene los prohibidos «Libros Fantasma».</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1gXPJBYOW_myatl41BTnaQw" type="text/html" title="Next Novels (MTL)"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">La Dra. Takao Ameku es la brillante pero excéntrica directora de patología investigativa del Hospital General Tenikai, encargada de diagnosticar a los pacientes que los demás departamentos del hospital no pueden. Sin embargo, debido a su pasión por resolver misterios, Takao también se ve envuelta en muertes misteriosas y asesinatos, arrastrando a su asistente Yu Takanashi a sus diversas aventuras.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1JKKcLqsgRGBWlaK15pVcAA" type="text/html" title="Next Novels (MTL)"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1JWtsFTEl8go_nqcCJaJf8w" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 </feed>

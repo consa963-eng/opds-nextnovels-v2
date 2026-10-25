@@ -1,29 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:長山 久竜</id>
-<title>長山 久竜</title>
-<updated>2026-10-21T00:13:50.761956+00:00</updated>
+<id>nextnovels:autores:真樹真也</id>
+<title>真樹真也</title>
+<updated>2026-10-25T03:42:53.899447+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1152.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Even If the Stars Perish, You Shall Resound Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-even-if-the-stars-perish-you-shall-resound-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-even-if-the-stars-perish-you-shall-resound-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/Even-If-the-Stars-Perish-You-Shall-Resound-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/03/Even-If-the-Stars-Perish-You-Shall-Resound-Portada.jpg"/>
-<author><name>長山 久竜</name></author>
-<category term="Misterio" label="Misterio"/>
+<title>Dream of a Beast Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-dream-of-a-beast-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-dream-of-a-beast-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/Dream-of-a-Beast-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/10/Dream-of-a-Beast-Portada.jpg"/>
+<author><name>真樹真也</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
 <category term="Psicológico" label="Psicológico"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">«Te ayudaré a encontrarlo. La forma de tocar la melodía correcta».
+<content type="text">Un chico que carga con el karma de una vida pasada y una chica que blande una espada solitaria.
 
-Justo cuando estaba a punto de acabar con mi vida, consumido por el ruido que se aferraba a las sombras de los demás, «ella» apareció de repente. Hoshimiya Miyuki, una antigua ídolo nacional. Bajo su imagen pública, es una mujer de carácter fuerte, que a veces finge inocencia... y puede ver el futuro.
+Ambos albergan en su interior una bestia hambrienta de corazón. Al encontrarse, la rueda del destino comienza a girar.
 
-Nuestra extraña convivencia comenzó para impedir mi suicidio. Los días que poco a poco iban borrando las heridas del pasado empezaron a resonar con una melodía agradable...
+Un hombre que mató a su padre, a quien odiaba desde lo más profundo de su ser, y puso fin a su vida sumido en la desesperación, renace en un mundo diferente como un niño llamado Abel.
 
-Pero yo no sabía nada. Ni el significado de por qué ella seguía huyendo, ni la razón por la que se detuvo, ni siquiera la única broma que se escondía en el futuro.
+Aunque Abel vivía su segunda vida rodeado del amor incondicional de sus nuevos padres, en lo más profundo de su corazón ardía sin cesar una llama oscura: el pecado de su vida anterior.
 
-Esta es una historia de juventud y despedida que supera el pasado y el futuro, y una historia de amor que resuena a través del tiempo eterno.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1emraZfyKqLT-zdZN-jH4jQ" type="text/html" title="Next Novels (MTL)"/>
+En el otoño de sus seis años, tras acompañar a sus padres a una expedición para acabar con una bestia mágica, Abel se encuentra con Ys, una joven caballero que parte en dos a un monstruo con una gran espada casi tan alta como ella.
+
+Con su hermoso cabello negro, símbolo de su linaje demoníaco, y su piel blanca como la nieve manchada de sangre ajena, Ys mira a Abel y le dice:
+
+—Tienes unos ojos extraños. ¿De verdad eres un niño?
+
+—Yo... yo... No soy nadie...
+
+—Qué respuesta tan interesante. Te pareces a mí.
+
+Ambos aun no lo saben. Que al final del camino de aquellos que llevan en su corazón un "anhelo" como una bestia hambrienta, les aguarda un destino cruel...</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1zPm2-8yQZyOcdFJ12Phmug" type="text/html" title="Miv Traducciones"/>
 </entry>
 </feed>

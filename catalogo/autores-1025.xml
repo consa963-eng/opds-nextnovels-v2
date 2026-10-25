@@ -1,27 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Ureshino Akihiko</id>
-<title>Ureshino Akihiko</title>
-<updated>2026-10-21T00:13:50.742569+00:00</updated>
+<id>nextnovels:autores:Umetane</id>
+<title>Umetane</title>
+<updated>2026-10-25T03:42:53.871698+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1025.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Kuro no Hiera Glaphicos Novela Ligera en Español</title>
-<id>https://nextnovels.com/kuro-no-hiera-glaphicos-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/kuro-no-hiera-glaphicos-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-1.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-1.jpg"/>
-<author><name>Ureshino Akihiko</name></author>
+<title>Inside the Cave of Obscenity Novela Ligera en Español</title>
+<id>https://nextnovels.com/inside-the-cave-of-obscenity-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/inside-the-cave-of-obscenity-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/09/01-99.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/09/01-99.jpg"/>
+<author><name>Umetane</name></author>
 <category term="Acción" label="Acción"/>
+<category term="Adulto" label="Adulto"/>
 <category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
-<content type="text">Valeria Costacurta, una niña de 16 años de una antigua familia noble de prestigio, sueña con poder algún día reconstruir el estatus noble de su casa con sus propias fuerzas. Un día, ella es elegida para convertirse en Dominas, aquellas que poseen la cresta tatuada que le da a uno la capacidad de ejercer la magia. Valeria acepta que las probabilidades de que alguien tenga tal escudo son solo de una en diez, y el primer paso para lograr su sueño ahora está allanado ante ella.
+<category term="Harem" label="Harem"/>
+<category term="Maduro" label="Maduro"/>
+<category term="Seinen" label="Seinen"/>
+<content type="text">Un mundo donde el [Rey Demonio] fue derrotado por un [Héroe] que vino de otro mundo. La gente se olvidó descuidadamente de su miedo al [Rey Demonio] y a los monstruos, viviendo en paz.
 
-Al ser doncellas, las Dominas se emparejan tradicionalmente con otras hembras (llamadas Hiera Glaphicos) para proteger su pureza. Pero para Valeria, su Hiera Glaphicos es un joven conocido como Dimitar Richternach. La tía de Dimitar, Orvieto Richternach, le asegura a Valeria que él nunca pondrá una mano sobre ella, porque Dimitar solo tiene ojos para mujeres mayores. Para Valeria es mal hablado, descarado y falto de tacto. Dimitar la ve como altiva, autoritaria y completamente ingenua.
+En una cueva olvidada y ruinosa en las montañas, nació un nuevo monstruo que no debería haber nacido.
 
-Sus aventuras comienzan con su primera misión, una misión secreta para investigar un supuesto levantamiento en una ciudad cercana. Sin embargo, no todo sale según lo planeado, y la misión de exploración que se suponía que era simple al principio se vuelve rápidamente amarga.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/13zRRTHnR7n51WZDvVWq1Cw" type="text/html" title="WishaSubs"/>
+El nombre del monstruo era [Black Ooze]. No era nada excepcional más que su color negro, un limo ordinario.
+
+Sin embargo, este limo tenía la característica especial de poder tomar las habilidades de los seres vivos que se tragaba. Se alimentaba de un insecto que tenía veneno paralítico, así como de otros animales. Después de eso, atacó a un humano, obteniendo su conocimiento y [Deseo].
+
+En poco tiempo, el monstruo estableció su objetivo como la maga que vino a explorar la cueva.
+
+Este mundo todavía no estaba al tanto.
+
+[Nació un monstruo] ...</content>
+<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1Ba9VHNs8egTFbBOFBCQ-Aw" type="text/html" title="Traducciones Fajardo"/>
 </entry>
 </feed>

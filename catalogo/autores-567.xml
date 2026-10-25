@@ -1,46 +1,102 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Mikawa Ghost</id>
-<title>Mikawa Ghost</title>
-<updated>2026-10-21T00:13:50.663254+00:00</updated>
+<id>nextnovels:autores:Mikage Eiji</id>
+<title>Mikage Eiji</title>
+<updated>2026-10-25T03:42:53.769421+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-567.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Gimai Seikatsu Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-gimai-seikatsu-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-gimai-seikatsu-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/04/Gimai-Seikatsu-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/04/Gimai-Seikatsu-Portada.jpg"/>
-<author><name>Mikawa Ghost</name></author>
-<category term="Comedia" label="Comedia"/>
+<title>F-Rank no Boukun Novela Ligera en Español</title>
+<id>https://nextnovels.com/f-rank-no-boukun-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/f-rank-no-boukun-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-13.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-13.jpg"/>
+<author><name>Mikage Eiji</name></author>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
 <category term="Psicológico" label="Psicológico"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">De compañeros de clase a hermanos, viviendo bajo el mismo techo.
+<content type="text">Los estudiantes matriculados aquí no sólo tienen las notas más altas, sino que también se sitúan en la cúspide de la clasificación nacional de clubes. La Academia Privada Nanohoshi se asemeja a una estrella brillante que resplandece en el cielo nocturno, pero su esencia consiste en una estricta estructura de clasificación, además de un sistema que controla a los estudiantes cuantificando todo, incluso su apariencia. También se la conoce como la "Academia de la Supervivencia del Más Fuerte".
 
-Tras el nuevo matrimonio de su padre, Asamura Yuuta acaba consiguiendo una nueva hermanastra, casualmente la belleza número uno del curso, Ayase Saki. Habiendo aprendido importantes valores en lo que respecta a las relaciones hombre-mujer a través de las anteriores de sus padres, se prometen mutuamente no estar demasiado cerca, no ser demasiado opuestos y limitarse a mantener una vaga y cómoda distancia.
+Está controlada por los más fuertes: Erika Kagurazaka, que encabeza la facción del "León Urbano".
 
-Por un lado, Saki, que ha trabajado en soledad por el bien de su familia, no sabe cómo confiar adecuadamente en los demás, mientras que Yuta no está seguro de cómo tratarla realmente. Al estar en un terreno bastante igualitario, estos dos aprenden poco a poco la cómoda sensación de vivir juntos.
+Derrótala, sitúate en la cima de la "cumbre" y reina como "tirano"──. Albergando esta peligrosa ambición, el "Genio Caído" Kanna Fujishiro comienza su historia en un aula de rango F...
 
-Su relación evoluciona lentamente, dejando de ser extraños cuanto más pasan los días. Por lo que sabemos, esto podría acabar en una historia de amor.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1cR0SPP1AZScIQhby7ignPA" type="text/html" title="Onigiri"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/12SjUEWJUIaoieMhnHpbGyg" type="text/html" title="World Project"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1pDg3Zx6H7SGS8gfBfsuw3g" type="text/html" title="Underword Liella Novels, Saitou Translations y Saekano Translations"/>
+¡Comienza esta historia de lo bajo conquistando lo alto, donde el intelecto y la inteligencia chocan!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com#Volumenes" type="text/html" title="Traducción Sao Alicization"/>
 </entry>
 <entry>
-<title>Looks Are All You Need Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-looks-are-all-you-need-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-looks-are-all-you-need-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/09/Kao-sae-Yokereba-Ii-Kyoushitsu-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/09/Kao-sae-Yokereba-Ii-Kyoushitsu-Portada.jpg"/>
-<author><name>Mikawa Ghost</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<title>Kamisu Reina wa Koko ni Chiru Novela Ligera en Español</title>
+<id>https://nextnovels.com/kamisu-reina-wa-koko-ni-chiru-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/kamisu-reina-wa-koko-ni-chiru-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/06/Kamisu-Reina-wa-Koko-ni-Chiru-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/06/Kamisu-Reina-wa-Koko-ni-Chiru-Portada.jpg"/>
+<author><name>Mikage Eiji</name></author>
+<category term="Josei" label="Josei"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Supernatural" label="Supernatural"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">Reina Kamisu es una amiga de los solitarios, una asesina de familias, la salvadora del mundo y la causa de muerte de varios amantes… Ella es absolutamente hermosa…
+
+¿Quien es ella? ¿Cuales son sus intenciones?
+
+Una historia llena de engaños, desesperación y belleza destructiva.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1Y3COkSQ1-UJOMrE3S1Nxzg" type="text/html" title="Traducción TSA"/>
+</entry>
+<entry>
+<title>Utsuro no Hako to Zero no Maria Novela Ligera en Español</title>
+<id>https://nextnovels.com/utsuro-no-hako-to-zero-no-maria-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/utsuro-no-hako-to-zero-no-maria-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/02/portada-12-e1644077613992.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/02/portada-12-e1644077613992.jpg"/>
+<author><name>Mikage Eiji</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Drama" label="Drama"/>
+<category term="Horror" label="Horror"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Supernatural" label="Supernatural"/>
+<category term="Tragedia" label="Tragedia"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">La historia gira en torno a Hoshino Kazuki quien conoce a Otonashi Maria, una misteriosa estudiante transferida en un mundo de iteraciones sin fin.
+
+La trama es algo complicada de explicar sin dar spoilers, así que sólo pondré un pequeño extracto:
+
+«-¿Tienes un deseo?
+
+Él parece existir en todos lados, pero no existe en ninguno. Luce parecido a todos, pero no se parece a ninguno. Alguien que no puedo reconocer si es hombre o mujer me habla.
+
+¿Un deseo? Claro que tengo uno.
+
+– Esta es una “caja” que concede cualquier deseo.
+
+La acepto con mis manos ensangrentadas.»</content>
+<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1KvHHjPPDNHxvqLotl2SPPQ" type="text/html" title="Twin Dragons"/>
+</entry>
+<entry>
+<title>We Don’t Open Anywhere Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-we-dont-open-anywhere-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-we-dont-open-anywhere-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/We-Dont-Open-Anywhere-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/03/We-Dont-Open-Anywhere-Portada.jpg"/>
+<author><name>Mikage Eiji</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Psicológico" label="Psicológico"/>
 <category term="Romance" label="Romance"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Música, baile, moda... Ryōran Private High School, una academia de artes escénicas donde se reúnen genios de todos los ámbitos. Sin embargo, la realidad es que es un lugar donde todo, empezando por el "rostro" y la apariencia general, determina todas las evaluaciones. Mi hermana, Ikebukuro Shika, es una reclusa, y tal vez porque es una persona que no puede vivir sin el cuidado de su hermano, su sentido de la transmisión y su calidad de estrella son desastrosamente pobres.
+<content type="text">«Te protegeré con mi magia».
 
-Ella era considerada la más débil de esta escuela. Pero yo sé la verdad. Detrás de su máscara, la sensación de Internet VSINGER no es otra que mi hermana Shika. Su voz es única, pero ¿será suficiente para superar todo el orden social de la secundaria Ryouran</content>
-<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1xbT-r_mF82G--cRHytnLvQ" type="text/html" title="Kyūden Translation"/>
+La persona que me dijo esas enigmáticas palabras no era otra que la chica más guapa del instituto, Miki Kouzuki. Cuando empecé a salir con ella, el mundo que me rodeaba de repente empezó a cambiar.
+
+«Ahh… Me dan ganas de matar a alguien».
+
+«¿Cadenas? No veo ninguna cadena que valga la pena mencionar…»
+
+Mi mejor amigo, un delincuente; nuestro recto delegado de clase; por no hablar de Miki y de mí… A medida que todos empezamos a desmoronarnos, el lugar al que llegamos fue…
+
+Nota: Publicada originalmente en 2005 sin subtítulo, el autor reescribió y volvió a publicar la novela en 2016 con nuevas ilustraciones de Yoshitoshi Abe.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1NNugISwQR2XnJnYLVjloKw" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 </feed>

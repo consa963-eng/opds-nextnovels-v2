@@ -1,24 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Aoikou</id>
-<title>Aoikou</title>
-<updated>2026-10-21T00:13:50.583276+00:00</updated>
+<id>nextnovels:autores:AOI Sekina</id>
+<title>AOI Sekina</title>
+<updated>2026-10-25T03:42:53.550231+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-79.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>The Hero-Killing Bride Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-hero-killing-bride-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-hero-killing-bride-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/12/The-Hero-Killing-Bride-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/12/The-Hero-Killing-Bride-Portada.jpg"/>
-<author><name>Aoikou</name></author>
-<category term="Acción" label="Acción"/>
+<title>Gamers! Novela Ligera en Español</title>
+<id>https://nextnovels.com/gamers-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/gamers-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/02/portada-10.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/02/portada-10.jpg"/>
+<author><name>AOI Sekina</name></author>
+<category term="Comedia" label="Comedia"/>
 <category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Yuri" label="Yuri"/>
-<content type="text">A la luz del día, la hermana Alicia Snowell es una fiel y devota novia de los dioses, dedicada a servir a la Santa Iglesia y a sus seguidores. En las sombras, es una de las principales inquisidoras de la Iglesia, encargada de cazar y eliminar a los herejes por cualquier medio necesario
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">“¿Me seguirías y te unirías al club de videojuegos?”
 
-La última misión de Alicia: asesinar al héroe Elcyon, exterminador del poderoso Señor Demonio, cuya creciente fama amenaza con eclipsar el poder político de la Iglesia. Para matar al héroe, divinamente protegido y supuestamente inmortal, Alicia primero necesita ganarse el corazón de Elcyon. Solo hay un problema: ¡Elcyon resulta ser una chica llamada Cion! Alicia no sabe qué hacer, pero mientras intenta seducir a una chica, se avecinan más problemas. Con los restos del ejército demoníaco aún sueltos, Alicia y Cion se enfrentan a una mortal batalla sobrenatural tras otra. ¿Adónde las llevarán los caminos entrelazados de las dos chicas?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1XguE28ZQWXwU7HemN55nSA" type="text/html" title="Onigiri Novels"/>
+Sin tener ninguna característica que lo haga resaltar del montón, a parte de que le encantan los videojuegos, el solitario gamer Keita Amano es de repente invitado a unirse al club de videojuegos.
+
+La hermosa presidenta del club de videojuegos se llama Karen Tendou y es con ella con quien Keita comenzará a pasar sus días en el club de videojuegos, y es así como esta comedia romántica comienza… ¿o es lo que él cree?
+
+Chiaki Hoshimori es una gamer solitaria. También está Tasuku Uehara quien es el líder de su clase y tiene una novia, pero secretamente ama los videojuegos y está satisfech con su vie real.
+
+Aguri es la novia de Tasuku quien no tiene ningún conocimiento sobre los videojuegos, pero ella también es arrastrada en este club lleno de malentendidos y de gamer con baja autoestima.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/14OPF5OipgZiKpU_F3j28QA" type="text/html" title="Gladheim Translations"/>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1TsblRx1bhMcuOQmef7ik7A" type="text/html" title="Astral Novel Translations"/>
+</entry>
+<entry>
+<title>The Relationship of Play Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-relationship-of-play-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-relationship-of-play-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/11/The-Relationship-of-Play-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/11/The-Relationship-of-Play-Portada.jpg"/>
+<author><name>AOI Sekina</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<content type="text">¡Una comedia romántica donde todos esconden secretos y mantienen relaciones por “diversión”, comienza!
+
+Kotarou Tokiwa, un fanático empedernido de los juegos de mesa que dejó la preparatoria y ahora trabaja como encargado sustituto en el café de juegos de mesa “Kurumaza”, estaba enamorado de Mifuru Takanashi, una gyaru estudiante de preparatoria que trabaja de medio tiempo ahí y que, además, es como su enemiga natural, pues no tiene ni una pizca de amor por los juegos de mesa. Aunque ella misma, sin darse cuenta de sus sentimientos, lo incita a dar un paso adelante...
+
+"Primero tienes que lanzar los dados, si quieres que el amor comience."
+
+Pero una confesión es imposible. Porque... ¡Mifuru ya tiene un novio guapísimo de quien está súper enamorada!
+
+Y para ocultar sus sentimientos, Kotarou le dice a Mifuru una mentira sobre a quién le gusta: La jugadora profesional de shogi Tsukino Utakata... ¡Quien en realidad se la pasa en secreto en “Kurumaza” como clienta habitual!
+
+Una comedia romántica en la que todos esconden secretos y continúan con sus relaciones por “diversión”, da inicio.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1F25t7s9MLk7BBulw_7771Q" type="text/html" title="Tamashi Project"/>
 </entry>
 </feed>

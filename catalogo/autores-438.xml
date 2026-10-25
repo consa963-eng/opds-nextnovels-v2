@@ -1,35 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kishima Kiraku</id>
-<title>Kishima Kiraku</title>
-<updated>2026-10-21T00:13:50.642648+00:00</updated>
+<id>nextnovels:autores:Kiraku Kishima</id>
+<title>Kiraku Kishima</title>
+<updated>2026-10-25T03:42:53.661610+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-438.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>What Happens If You Saved A High School Girl Who Was About To Jump Off? Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-what-happens-if-you-saved-a-high-school-girl-who-was-about-to-jump-off-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-what-happens-if-you-saved-a-high-school-girl-who-was-about-to-jump-off-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/05/What-Happens-If-You-Saved-A-High-School-Girl-Who-Was-About-To-Jump-Off-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/05/What-Happens-If-You-Saved-A-High-School-Girl-Who-Was-About-To-Jump-Off-Portada.jpg"/>
-<author><name>Kishima Kiraku</name></author>
+<title>Kasshoku Musume no Latina-san ni Ore no Karada ga Nerawarete iru Novela Ligera en Español</title>
+<id>https://nextnovels.com/kasshoku-musume-no-latina-san-ni-ore-no-karada-ga-nerawarete-iru-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/kasshoku-musume-no-latina-san-ni-ore-no-karada-ga-nerawarete-iru-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/08/Kasshoku-Musume-no-Latina-san-ni-Ore-no-Karada-ga-Nerawarete-iru-Portada.jpeg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/08/Kasshoku-Musume-no-Latina-san-ni-Ore-no-Karada-ga-Nerawarete-iru-Portada.jpeg"/>
+<author><name>Kiraku Kishima</name></author>
 <category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
+<category term="Ecchi" label="Ecchi"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">El comienzo de una vida feliz junto con una chica de preparatoria que ha caído en el fondo de la desesperación---
-
-Un día, Yuuki Yuusuke, que pasó su vida en la preparatoria solo estudiando y trabajando a medio tiempo para mantener su beca, se encontró deseando tener una novia. De camino a casa, sintiéndose solo por tal pensamiento, casualmente miró hacia el cielo y vio a una chica que estaba a punto de arrojarse desde la azotea de un edificio abandonado.
-
-"¿Por qué diablos estás haciendo algo como esto?"
-
-"Porque yo ... no tengo ninguna ... razón para vivir ..."
-
-"Espera. Sería una lástima que una chica linda muriera... En lugar de morir, sé mi novia."
-
-"¿Eeh?"
-
-Así, comienza una nueva historia de amor y la vida cotidiana con una chica misteriosa, Hatsushiro Kotori, que partió de un extraño encuentro.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/17Ww3cce6epweQtkogaTU_Q" type="text/html" title="World Project"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1IszD2bSFh21YWOc4fPc8cg" type="text/html" title="OX-MR Traducciones"/>
+<content type="text">La historia sigue a Makoto Ito, un estudiante cuya vida cambia radicalmente con la llegada de Latina, una estudiante de intercambio con piel bronceada. Desde el primer encuentro, Latina propone audazmente matrimonio a Makoto y sugiere tener ocho hijos juntos. Aunque su propuesta es sorprendente, Makoto queda cautivado por su honestidad y energía. Sin embargo, un fracaso en su pasado hace que abrir su corazón sea un reto.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1cu4IiwnIpSeiJP4FkRGYuw" type="text/html" title="Cafuné Translation"/>
 </entry>
 </feed>

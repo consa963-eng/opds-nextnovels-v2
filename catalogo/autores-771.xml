@@ -1,29 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Ryuyu</id>
-<title>Ryuyu</title>
-<updated>2026-10-21T00:13:50.696753+00:00</updated>
+<id>nextnovels:autores:Ryukishi07</id>
+<title>Ryukishi07</title>
+<updated>2026-10-25T03:42:53.814574+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-771.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Maou ni Natta node, Dungeon Tsukutte Jingai Musume to Honobono Suru Novela Ligera en Español</title>
-<id>https://nextnovels.com/maou-ni-natta-node-dungeon-tsukutte-jingai-musume-to-honobono-suru-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/maou-ni-natta-node-dungeon-tsukutte-jingai-musume-to-honobono-suru-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/07/Maou-ni-Natta-no-de-Dungeon-Tsukutte-Jingai-Musume-to-Honobono-Suru-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/07/Maou-ni-Natta-no-de-Dungeon-Tsukutte-Jingai-Musume-to-Honobono-Suru-Portada.jpg"/>
-<author><name>Ryuyu</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
-<content type="text">Yuki se encuentra reencarnado como un señor demonio en otro mundo, ¡y además se le ha puesto a cargo de una mazmorra! Una vez que Yuki acepta que su destino depende de la supervivencia de la mazmorra en un mundo donde poderosos monstruos deambulan libremente y el peligro acecha en cada esquina, comienza a reunir aliados y reforzar sus defensas. En unos pocos días, se enfrenta a un dragón legendario, una adorable mascota slime y una chica vampiro, pero a pesar de todas sus precauciones, la vida como un señor demonio en una mazmorra constantemente amenazada... ¿es sorprendentemente tranquila?
+<title>Bakemono-tachi ga Usobuku Koro ni Novela Ligera en Español</title>
+<id>https://nextnovels.com/bakemono-tachi-ga-usobuku-koro-ni-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/bakemono-tachi-ga-usobuku-koro-ni-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/03/cover-e.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/03/cover-e.jpg"/>
+<author><name>Ryukishi07</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Horror" label="Horror"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">“Reiichi, aquí tienes un favor de mi parte y una muestra de afecto para ti y un compañero monstruo. Cómelas”. Cone sas palabras, ella lo puso ante mí: intestinos humanos del color de la piel, crudos y brillantes.
 
-Por supuesto, con un elenco de personajes tan colorido (y posiblemente más en camino), Yuki seguramente terminará en problemas. ¿Será capaz de llevar a cabo una misión de rescate imprudente? ¿Y cómo sobrevivirán él y sus chicas monstruo a una invasión de un reino humano hostil? ¡
+Año 1950. A finales del verano, el joven Reiichi Shiozawa visita el pueblo de Mishirushi, en donde aún permanecen las supersticiones y el folklore. El propósito de su visita es encontrar a Marika Mishirushi, la hija de una prominente familia del pueblo.
 
-Únete a él mientras hace malabarismos con la vida diaria, las responsabilidades como un nuevo señor demonio y su creciente familia de chicas monstruo y mascotas!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxlink.com/s/13bxbPcW3CvrRyDjepwDL1g" type="text/html" title="Kyūden Translation"/>
+Sin embargo, Marika no es un humano ordinario; ella es un monstruo que se alimenta de carne humana. ¿Por qué esta hermosa y elegante chica se ha convertido en un monstruo? ¿Es debido a una enfermedad, o a una maldición? Luego de su llegada, ocho chicas han desaparecido de repente. ¡Reiichi Shiozawa resolverá todos estos misterios!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/18ZoVAviJdJSXnI_7GEJdKw" type="text/html" title="MiraiK"/>
 </entry>
 </feed>

@@ -1,28 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Watari Wataru &amp; Sagara Sou</id>
-<title>Watari Wataru &amp; Sagara Sou</title>
-<updated>2026-10-21T00:13:50.744964+00:00</updated>
+<id>nextnovels:autores:Wanta</id>
+<title>Wanta</title>
+<updated>2026-10-25T03:42:53.874982+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1040.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Kuzu to Kinka no Qualidea Novela Ligera en Español</title>
-<id>https://nextnovels.com/kuzu-to-kinka-no-qualidea-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/kuzu-to-kinka-no-qualidea-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/06/Kuzu-to-Kinka-no-Qualidea-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/06/Kuzu-to-Kinka-no-Qualidea-Portada.jpg"/>
-<author><name>Watari Wataru &amp; Sagara Sou</name></author>
-<category term="Comedia" label="Comedia"/>
+<title>Akutoku Kizoku no Seizon Senryaku Novela Ligera en Español</title>
+<id>https://nextnovels.com/akutoku-kizoku-no-seizon-senryaku-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/akutoku-kizoku-no-seizon-senryaku-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/05/Akutoku-Kizoku-no-Seizon-Senryaku-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/05/Akutoku-Kizoku-no-Seizon-Senryaku-Portada.jpg"/>
+<author><name>Wanta</name></author>
+<category term="Acción" label="Acción"/>
 <category term="Drama" label="Drama"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Contada a través de dos perspectivas, esta historia trata sobre un mundo a punto de acabar y un momento deslumbrante de la juventud
-
-— Kusaoka Haruma, un estudiante de una escuela preparatoria de gama baja, y su angelical kouhai Chigusa Yu. Dos personas que no deberían estar en el mismo nivel del año terminan reuniéndose como resultado de un fatídico incidente. Un clima anormal, fenómenos anormales, acciones anormales. Una vida ordinaria que se retuerce poco a poco, y una extraña leyenda urbana .
-
-Según con la “Encrucijada Aleatoria” — a la medianoche, si se llegas al final de un camino en forma de T y eliges el camino equivocado, puede que jamas vuelvas.
-
-A medida que buscan a una chica cuyo paradero se desconoce como resultado de estos eventos, ¿¡Podrán Haruma y Yu superar las expectativas mas salvajes… ?!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/18aZeCpF4589ggcBwNGjI6A" type="text/html" title="Kikuslirus"/>
+<category term="Fantasía" label="Fantasía"/>
+<content type="text">Mientras jugaba después de que mi esposa me traicionó, de repente morí y me desperté como Jack Girard, el protagonista del fangame Survival Strategies of a Corrupt Aristocrat. Desafortunadamente, Jack lo tiene incluso peor que yo. Entre sus padres tratando de asesinarlo, la traición de su criada personal y el mayordomo de la casa, y una serie de otros horrores, su vida, ahora mi vida, es un giro traicionero tras otro. Sin embargo, con la ayuda de Adele, el personaje secundario más fuerte del juego, y mi conocimiento previo de dichos giros, ¡estoy decidido a superarlo todo y vivir en el regazo del lujo!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1IGpwkYn03WaQgl5QQBKShw" type="text/html" title="World Project"/>
 </entry>
 </feed>

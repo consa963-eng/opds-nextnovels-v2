@@ -1,39 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Karasuma Ei</id>
-<title>Karasuma Ei</title>
-<updated>2026-10-21T00:13:50.632933+00:00</updated>
+<id>nextnovels:autores:Kaoru Shinozaki</id>
+<title>Kaoru Shinozaki</title>
+<updated>2026-10-25T03:42:53.648797+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-378.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Taking the Adorably Small yet Big Nanase-san from Her Misguided Ex and Making Her Happy Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-taking-the-adorably-small-yet-big-nanase-san-from-her-misguided-ex-and-making-her-happy-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-taking-the-adorably-small-yet-big-nanase-san-from-her-misguided-ex-and-making-her-happy-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/05/Taking-the-Adorably-Small-yet-Big-Nanase-san-from-Her-Misguided-Ex-and-Making-Her-Happy-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/05/Taking-the-Adorably-Small-yet-Big-Nanase-san-from-Her-Misguided-Ex-and-Making-Her-Happy-Portada.jpg"/>
-<author><name>Karasuma Ei</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">No te preocupes. Me aseguraré de que Nanase-san sea feliz... pase lo que pase.
-
-Soy Yusuke Ogami, un estudiante de preparatoria común y corriente que presenció una ruptura dramática entre compañeros de clase.
-
-No pude ignorar a Nanase Hiyori-san, herida por su patán de novio que le ocultaba una infidelidad, así que decidí intervenir.
-
-“Tal vez debí haberme acostado con él…”
-
-Al verla hundirse tanto, la animé. Y a cambio, ella me regaló una sonrisa… como si se le hubiera quitado un gran peso de encima.
-
-Ese momento marcó el comienzo de algo entre nosotros.
-
-“…Está bien. Quiero ser feliz... contigo, Yusuke-kun.”
-
-—Cenar juntos en casa, salir en citas tranquilas, incluso pasar la noche…
-
-Esta peculiar pareja con más de 30 cm de diferencia de altura empieza a acortar la distancia entre sus corazones, a su propio ritmo.
-
-¡Una nueva comedia romántica que combina amor puro con una satisfactoria dosis de karma comienza ahora!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1l8LjqM5xYP5nRX6Cu9eJ8Q" type="text/html" title="Ganbarimasu Translations"/>
+<title>Failure Frame Novela Ligera en Español</title>
+<id>https://nextnovels.com/failure-frame-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/failure-frame-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/06/Failure-Frame-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/06/Failure-Frame-Portada.jpg"/>
+<author><name>Kaoru Shinozaki</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">Bruscamente trasladados a un mundo de fantasía, Mimori Touka y sus compañeros de clase han sido convocados por la diosa local para que sirvan como héroes. Por suerte, la mayoría de los estudiantes muestran habilidades increíbles a su llegada, excepto Mimori, cuyas habilidades se quedan en un mísero rango E. Al no serle de utilidad, la Diosa destierra a Mimori a una mazmorra de la que nadie ha vuelto con vida. Sin embargo, resulta que las habilidades de Mimori no son inútiles, sino anormales. Incluso anormalmente poderosas. Si Mimori consigue volver a la superficie, nada se interpondrá en su camino para vengarse.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1Yt-GUNVeN1JSDVX4Aejr0A" type="text/html" title="World Project"/>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1ZDsFGC-Kb1fqpaab8oElRQ" type="text/html" title="Utopic Project"/>
 </entry>
 </feed>

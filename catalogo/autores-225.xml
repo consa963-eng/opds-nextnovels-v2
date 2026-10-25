@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Hazuki Aya</id>
-<title>Hazuki Aya</title>
-<updated>2026-10-21T00:13:50.607757+00:00</updated>
+<id>nextnovels:autores:Hayashi Naota</id>
+<title>Hayashi Naota</title>
+<updated>2026-10-25T03:42:53.582364+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-225.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Hello Hello and Hello Novela Ligera en Español</title>
-<id>https://nextnovels.com/hello-hello-and-hello-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/hello-hello-and-hello-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/09/01-93.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/09/01-93.jpg"/>
-<author><name>Hazuki Aya</name></author>
+<title>Steins;Gate - Youen no Valhalla Novela Ligera en Español</title>
+<id>https://nextnovels.com/steins-gate-youen-no-valhalla-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/steins-gate-youen-no-valhalla-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/11/01-29.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/11/01-29.jpg"/>
+<author><name>Hayashi Naota</name></author>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
 <category term="Drama" label="Drama"/>
-<category term="Romance" label="Romance"/>
-<category term="Tragedia" label="Tragedia"/>
-<content type="text">“Oye, Yoshi-kun. Tu me--"
-
-Escuchar esa voz por primera vez me detuvo en seco. Corrí de camino a casa de la escuela, fui al campo de juego de nuestra secundaria, a la librería frente a la estación, y al lote vacío donde descansaba el gato blanco. Shiina Yuki, la chica extraña que de alguna manera sabía todo sobre mí, siempre se acercaba a mí de esta manera. Reímos, lloramos, nos enojamos, nos tomamos de las manos. Una y otra vez, repetimos esos recuerdos desaparecidos y promesas efímeras. Por eso nunca lo supe. Nunca supe el valor de las sonrisas de Yuki o el significado de sus lágrimas. Ni siquiera el sentimiento singular detrás de sus muchos "Encantada de conocerte". Esta es una historia cautivadora y desgarradora de reuniones y despedidas.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/14POZD5iXZpGVyhilFPHB9g" type="text/html" title="CAJM-Translations"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Seinen" label="Seinen"/>
+<content type="text">El Distante Valhalla es una historia paralela ambientada en el campo del atractor Alfa. Se establece 1 año y medio después. El ataque al laboratorio de los "Rounders", la "Operación Valhalla", el plan de Okabe para escapar del cautiverio de SERN.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com#Volumenes" type="text/html" title="Ferindrad"/>
 </entry>
 </feed>

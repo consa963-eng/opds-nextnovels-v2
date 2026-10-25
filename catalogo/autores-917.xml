@@ -1,41 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Takami Ryousen</id>
-<title>Takami Ryousen</title>
-<updated>2026-10-21T00:13:50.720613+00:00</updated>
+<id>nextnovels:autores:Takahashi Bisui</id>
+<title>Takahashi Bisui</title>
+<updated>2026-10-25T03:42:53.846998+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-917.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Almadianos Eiyuuden Novela Ligera en Español</title>
-<id>https://nextnovels.com/almadianos-eiyuuden-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/almadianos-eiyuuden-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/07/Almadianos-Eiyuuden-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/07/Almadianos-Eiyuuden-Portada.jpg"/>
-<author><name>Takami Ryousen</name></author>
-<category term="Acción" label="Acción"/>
+<title>How to Seduce a Fickle Angel Obsessed with Games Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-how-to-seduce-a-fickle-angel-obsessed-with-games-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-how-to-seduce-a-fickle-angel-obsessed-with-games-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/04/How-to-Seduce-a-Fickle-Angel-Obsessed-with-Games-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/04/How-to-Seduce-a-Fickle-Angel-Obsessed-with-Games-Portada.jpg"/>
+<author><name>Takahashi Bisui</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Ecchi" label="Ecchi"/>
 <category term="Fantasía" label="Fantasía"/>
 <category term="Harem" label="Harem"/>
-<category term="Seinen" label="Seinen"/>
-<content type="text">En el mundo de Dulmond, había un mago que había pasado toda su vida luchando por alcanzar la cima del poder. Una meta que finalmente alcanzó después de muchos siglos, hasta el punto de comenzar a unirse con las estrellas: un proceso de mil años que normalmente haría que uno perdiera su sentido de sí mismo, pero este hombre, Bernst Almadianos, había logrado retener su ego. . Sin embargo, eso vino con el precio de un insoportable sentimiento de aburrimiento.
+<category term="Romance" label="Romance"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Para garantizar la supervivencia de la humanidad, debes ganarle en un juego a un Ángel… ¡¿y hacerla caer, en cuerpo y alma?!
 
-A pesar de sus muchos intentos, en última instancia nunca fue capaz de hacerse sentir humano nuevamente, ni siquiera sentir nada en absoluto. En sus momentos finales, antes de convertirse en uno con las constelaciones del universo, decidió intentar una última cosa; creó un avatar de sí mismo en un mundo diferente y le otorgó una mente propia. Luego vinculó una parte de su propia alma para compartir sus emociones y experiencias, con la esperanza de poder revivir sus días de juventud a través de los ojos del avatar.
+—Oye, hagamos una apuesta. Si me vences, haré lo que tú quieras.
 
-Sin embargo, pronto descubrirá que su creación artificial y él mismo seguirían caminos muy diferentes en la vida.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/11zchnaiddPwq6SawPUvEKQ" type="text/html" title="Megas-version &amp; Tibe Translations"/>
+La angelical Luxuria se presentó como una enemiga de la humanidad. Desafió a los humanos a un juego donde se ponía en juego su territorio, poseyendo un poder abrumador que le permitía usar cualquier trampa o jugada sucia que deseara… siempre que no la descubrieran. Sin embargo, Shuto Tsuda , un estudiante de preparatoria común y corriente presente en el encuentro, se convirtió en el primer humano de la historia en derrotar a un Ángel.
+
+—Como perdí contra ti, me he convertido en un Ángel Caído. A partir de ahora, me dedicaré por completo a ti… así que, ¿quieres hacerme tu esposa?
+
+Tras saborear la derrota, Luxuria se transforma en un Ángel Caído y comienza a perseguir a Shuto de forma agresiva, suplicándole que se case con ella… ¡¿Acaso este es el premio por haber ganado?!
+
+¡Se alza el telón de una batalla de ingenio de altas apuestas mezclada con una comedia romántica escolar, en las primeras líneas de la Academia Valhalla!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1W7nYUYnjZxA1yKj9zDHN_g" type="text/html" title="GambaTrans"/>
 </entry>
 <entry>
-<title>Isekai Tensei Soudouki Novela Ligera en Español</title>
-<id>https://nextnovels.com/isekai-tensei-soudouki-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/isekai-tensei-soudouki-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-69.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-69.jpg"/>
-<author><name>Takami Ryousen</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
+<title>I Hold Your Voice Alone, Under The Starry Sky Novela Ligera en Español</title>
+<id>https://nextnovels.com/i-hold-your-voice-alone-under-the-starry-sky-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/i-hold-your-voice-alone-under-the-starry-sky-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/06/01-8-scaled.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/06/01-8-scaled.jpg"/>
+<author><name>Takahashi Bisui</name></author>
+<category term="Drama" label="Drama"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<content type="text">Baldr Cornelius es el hijo de un noble del reino de Mauricia y en su interior también habitan las almas del avaricioso comandante de los estados en guerra Oka Sanai Sadatoshi y del estudiante de secundaria otaku con orejas de animal Oka Masaharu. Sigue el viaje de estas 3 almas en un solo cuerpo, ya que muestran habilidades extraordinarias a la hora de combatir o gestionar el dominio.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/11uM2XWchhDvWz9doBuaemA" type="text/html" title="World Project"/>
+<category term="Supernatural" label="Supernatural"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Shuu es un miembro del club de literatura que no sabe escribir. Un día, recibe en su teléfono un misterioso mensaje de una chica llamada Eina, y a partir de ese impulsivo contacto, comienzan a intercambiar mensajes. Hablan de cosas como su interés compartido por las novelas y se vuelven cercanos. Sin embargo, cuando intentan conocerse, descubren una verdad impactante. Eina vive… ¡No en el presente, sino cinco años en el pasado! ¿¡Cómo se desarrollará su amor, al estar separados por cinco años…!?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1n26QmJ-eeZYY1aLtyh5SLw" type="text/html" title="MiraiK"/>
 </entry>
 </feed>

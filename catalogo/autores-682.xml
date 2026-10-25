@@ -1,96 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Nisio Isin</id>
-<title>Nisio Isin</title>
-<updated>2026-10-21T00:13:50.682451+00:00</updated>
+<id>nextnovels:autores:Niko</id>
+<title>Niko</title>
+<updated>2026-10-25T03:42:53.794954+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-682.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Bougyaku Tantei Series Novela Ligera en Español</title>
-<id>https://nextnovels.com/bougyaku-tantei-series-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/bougyaku-tantei-series-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/11/01-23.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/11/01-23.jpg"/>
-<author><name>Nisio Isin</name></author>
-<category term="Misterio" label="Misterio"/>
-<category term="Psicológico" label="Psicológico"/>
-<content type="text">Okitegami Kyouko es una famosa detective que resuelve casos en un solo día. De hecho, tiene que hacerlo, ya que sus recuerdos solo duran un día antes de que se “reinicien”. Sin embargo, para cosas importantes, escribe mensajes para sí misma en su cuerpo con una pluma especial. Uno de sus clientes comunes es Kakushidate Yakusuke, un hombre que a menudo se sospecha de él erróneamente por haber cometido crímenes.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1SyG_dlDe8ZscXcKM5rgqLA" type="text/html" title="Ferindrad"/>
-</entry>
-<entry>
-<title>Death Note: Another Note The Los Angeles BB Murder Case Novela Ligera en Español</title>
-<id>https://nextnovels.com/death-note-another-note-the-los-angeles-bb-murder-case-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/death-note-another-note-the-los-angeles-bb-murder-case-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01.jpg"/>
-<author><name>Nisio Isin</name></author>
-<category term="Detectives" label="Detectives"/>
-<category term="Misterio" label="Misterio"/>
-<content type="text">En la ciudad de Los Ángeles se están cometiendo una serie de asesinatos en serie y L, el detective más famoso de la historia debe resolverlo. Para eso cuenta con la ayuda de Misora, agente del FBI que está temporalmente fuera de servicio. Entre los dos irán descifrando las pistas que ha puesto el asesino en los distintos crímenes que ha cometido hasta que den con él.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1LY9ZgYg1vR1Jx0qvrYa4HA" type="text/html" title="BB Murder Case"/>
-</entry>
-<entry>
-<title>Good Loser Kumagawa Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-good-loser-kumagawa-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-good-loser-kumagawa-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/Good-Loser-Kumagawa-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/07/Good-Loser-Kumagawa-Portada.jpg"/>
-<author><name>Nisio Isin</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Shounen" label="Shounen"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Esta sub-serie se sitúa dos meses antes de que Kumagawa se transfiera a la Academia Hakoniwa, y narra su paso por la Academia Suisou.
-
-Es la historia de la batalla de un mes de duración entre Kumagawa y Saki Sukinasaki, un enfrentamiento que culminó con la clausura de la Academia Suisou... y sin un vencedor.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/15Ygs8ZJ6X77YXTnAAZZq1Q" type="text/html" title="Next Novels (MTL)"/>
-</entry>
-<entry>
-<title>Monogatari Novela Ligera en Español</title>
-<id>https://nextnovels.com/monogatari-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/monogatari-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2021/12/bake-01-e1641220469259.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2021/12/bake-01-e1641220469259.jpg"/>
-<author><name>Nisio Isin</name></author>
-<category term="Comedia" label="Comedia"/>
+<title>The Villain’s Love Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-villains-love-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-villains-love-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/The-Villains-Love-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/03/The-Villains-Love-Portada.jpg"/>
+<author><name>Niko</name></author>
 <category term="Drama" label="Drama"/>
-<category term="Harem" label="Harem"/>
-<category term="Misterio" label="Misterio"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Josei" label="Josei"/>
+<category term="Maduro" label="Maduro"/>
 <category term="Psicológico" label="Psicológico"/>
 <category term="Romance" label="Romance"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">La franquicia inicia con Bakemonogatari ("Historia de monstruos"), con algo sencillo: Koyomi Araragi un simple estudiante de secundaria que ha comenzado a tener varias experiencias con excentricidades, dioses y algunas criaturas del folklore japonés, que en sentido común no deberían existir.
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">«Por favor, no me dejes».
 
-Una de sus primeras experiencias involucra a Hitagi Senjougahara, famosa por ser una belleza enfermiza. Al subir por unas escaleras la salva de casualidad mientras caía de un piso más alto. Gracias a eso, descubre que la chica posee una anormalidad, es extremadamente ligera. Cuando empiezan a charlar, Hitagi le confiesa que "un cangrejo" tomó posesión de su peso, ante esto decide llevarla ante Meme Oshino, un especialistas en excentricidades y monstruos.
+Tras el asesinato de su familia y la ruina de su país, Luciano, el príncipe de una nación afligida, se convierte en un demonio de la venganza. Tras todas las maldades que comete, finalmente se enfrenta a la reina del país enemigo, Alana. En lugar de suplicar por su vida, al contrario, ella implora su propia muerte. Luciano, que ha sido despojado de su placer, abraza a Alana a la fuerza e intenta hacerla sufrir. Sin embargo, a medida que pasan más tiempo juntos, su odio se convierte en obsesión y empieza a desear un futuro con ella… decidiendo mantenerla con vida para vengarse. Con esa excusa, Luciano se entrega a Alana, pero ella sigue deseando un final…
 
-A partir de este momento, Koyomi se empezará a topar con varias personas que están siendo atormentadas por seres sobrenaturales.
-
-El inicio de Monogatari, una colección de historias que, poco a poco, se van entrelazando unas con otras, mostrando un exquisito desarrollo de personajes y maravillosas historias que coquetean con la fantasía, comedia, romance, misterio, drama e incluso erotismo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1ZDb4reAohQLHFRZivc_O3w" type="text/html" title="Ferindrad"/>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1Dk-RvoD1vunyKOm8o6Kwkg" type="text/html" title="Gladheim Translations"/>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1TkQCP-ERz9mtYpLxI5oBwg" type="text/html" title="Shinsengumi Translations"/>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1DJm2XddKHbMuQ35mPHn2sA" type="text/html" title="Eón Translations"/>
-</entry>
-<entry>
-<title>Zaregoto Novela Ligera en Español</title>
-<id>https://nextnovels.com/zaregoto-series-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/zaregoto-series-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/09/01-19.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/09/01-19.jpg"/>
-<author><name>Nisio Isin</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Harem" label="Harem"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Romance" label="Romance"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">Son las vacaciones de su vida, un viaje a una isla remota llena de genios y asesinos.
-
-En la isla Pluma de Cuervo Húmeda, una pequeña mancha en el mar de Japón, vive Akagami Iria, la hija exiliada de una poderosa familia. Nacida en medio de una gran riqueza, era una princesa de la más alta alcurnia, hasta que fue apartada por el líder de la Fundación Akagami. Durante los últimos cinco años, ha vivido en la Isla de las Plumas con sus criadas. Pero no ha estado sola. Ha invitado a las mejores mentes que ofrece Japón a venir y quedarse con ella.
-
-Y así, Ii-chan, un estudiante universitario de diecinueve años, y su mejor amigo, el genio de la informática Kunagisa Tomo, se encuentran como invitados de Iria en su elaborada mansión. Rodeado de mujeres fascinantes -una cocinera, una adivina, una erudita y una artista, por no mencionar a su propio amigo Tomo-, Ii-chan se siente un poco superado intelectualmente. Pero el repentino descubrimiento de un espeluznante asesinato conmociona a la isla. Y Ii-chan descubre que posee un poco de genio: la capacidad de descubrir qué es real y qué es falso... quién es quien dice ser y quién es un asesino.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1LSi3L_VwQFXlZSy2tHawxQ" type="text/html" title="Ferindrad"/>
+El príncipe de la venganza y la reina que desea la muerte, ¿cuál es el futuro de estos dos atrapados en su aterrador pasado?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/12EpyOVpKq-_sLs9-vm1Mtw" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 </feed>

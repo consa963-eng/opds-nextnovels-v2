@@ -1,28 +1,103 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Azano Kouhei</id>
-<title>Azano Kouhei</title>
-<updated>2026-10-21T00:13:50.587484+00:00</updated>
+<id>nextnovels:autores:Ayasato Keishi</id>
+<title>Ayasato Keishi</title>
+<updated>2026-10-25T03:42:53.555811+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-104.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Tokyo Ravens Novela Ligera en Español</title>
-<id>https://nextnovels.com/tokyo-ravens-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/tokyo-ravens-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-103.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-103.jpg"/>
-<author><name>Azano Kouhei</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Comedia" label="Comedia"/>
+<title>B.A.D. Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-b-a-d-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-b-a-d-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/04/B.A.D.-Portada.jpeg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/04/B.A.D.-Portada.jpeg"/>
+<author><name>Ayasato Keishi</name></author>
 <category term="Drama" label="Drama"/>
-<category term="Harem" label="Harem"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Horror" label="Horror"/>
 <category term="Misterio" label="Misterio"/>
+<category term="Psicológico" label="Psicológico"/>
 <category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
 <category term="Supernatural" label="Supernatural"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">¡¡Una fantasía de la escuela Onmyodo de un estudiante fracasado de la Academia Privada Onmyo!!
+<content type="text">«¿Cómo puedes llamar loco a alguien que ni siquiera está asesinando arbitrariamente a otras personas?», dijo mientras sostenía una tableta de chocolate en una de sus manos.
 
-Tsuchimikado Harutora nació en una prestigiosa familia Onmyoji, pero no puede ver la "energía espiritual". Por lo tanto, ha estado disfrutando de una pacífica vida diaria con sus amigos en una rama de la escuela Onmyo. Un día, su amigo de la infancia Tsuchimikado Natsume, heredero de la familia principal, aparece de repente. ¿Hará esto que su destino se ponga en marcha?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1ic592Qicl0vKpIeNdmE3lA" type="text/html" title="True Flame Project"/>
+Mayuzumi Azaka, una chica de catorce años arrogante, fría, caprichosa y exigente con la comida, también tiene poderes sobrenaturales. Vestida con su estilo gótico lolita y sosteniendo su paraguas rojo de papel, me sonrió. Una sonrisa que parecía sumirme en una desesperación aún mayor. Y entonces, bajo un cerezo en flor, me dijo: «Quédate a mi lado».
+
+¡Una fantasía cruel y dolorosa, fea y hermosa, está a punto de comenzar!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1BdeUPgcgiAXdt9efhblIpQ" type="text/html" title="Next Novels (MTL)"/>
+</entry>
+<entry>
+<title>Shuuen no Hanayome Novela Ligera en Español</title>
+<id>https://nextnovels.com/shuuen-no-hanayome-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/shuuen-no-hanayome-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/11/01-30.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/11/01-30.jpg"/>
+<author><name>Ayasato Keishi</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Maduro" label="Maduro"/>
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Supernatural" label="Supernatural"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">¡Un voto (juramento) que no puede ser quebrantado!
+
+Han pasado años desde que los Kihei aparecieron repentinamente e invadieron el mundo. Para combatir esta amenaza, la humanidad estableció la Academia Twilight, para entrenar a los estudiantes como soldados, aunque la mayoría muere antes de graduarse. Durante una misión, el escuadrón de Kou Kaguro es atacado y debe enfrentarse a su destino como otra víctima más… o eso pensó, una chica de blanco aparece y jura protegerlo, llenando un vacío en su corazón y encaminándolos a ambos por un camino de amor y desesperación.
+
+"Saludos, mi amado, mi nombre es Shirahime. De ahora en adelante, estaré contigo para siempre".
+
+Como un caballero en un cuento de hadas, despertando a la princesa de su sueño. Poco sabía que sería el comienzo de un interminable infierno...
+
+Una oscura fantasía emocional de esperanza y desesperación de Keishi Ayasato, el autor de "Torture Princess"!.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1TdmFQedkOKatjK5ES8U03Q" type="text/html" title="Legends no Fansub"/>
+</entry>
+<entry>
+<title>Spiritual Detective Novela Ligera en Español</title>
+<id>https://nextnovels.com/spiritual-detective-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/spiritual-detective-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/02/Spiritual-Detective-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/02/Spiritual-Detective-Portada.jpg"/>
+<author><name>Ayasato Keishi</name></author>
+<category term="Horror" label="Horror"/>
+<category term="Maduro" label="Maduro"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Romance" label="Romance"/>
+<content type="text">La historia de una imperfecta y despreciada chica detective y su sirviente, un joven, que resuelven misterios relacionados con la muerte.
+
+Touka Fujisaki y Saku Fujisaki. Nacidos bajo un extraño destino y habiendo perdido sus objetivos en la vida, los dos buscan el significado de su existencia en la locura del mundo.
+
+Una fantasía urbana presentada por Keishi Ayasato, el autor de Torture Princess.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/17uFhel5dtuVrbXln5EOxyA" type="text/html" title="KuroShiro Scan"/>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1QeWrxqLzD11lRP4ef_e-QQ" type="text/html" title="MiraiK"/>
+</entry>
+<entry>
+<title>Torture Princess Novela Ligera en Español</title>
+<id>https://nextnovels.com/torture-princess-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/torture-princess-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-22.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-22.jpg"/>
+<author><name>Ayasato Keishi</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Horror" label="Horror"/>
+<category term="Maduro" label="Maduro"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Supernatural" label="Supernatural"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">"Soy 'Torturchen' Elisabeth Le Fanu, una orgullosa loba y una humilde cerda."
+
+Después de morir, Sena Kaito renació en otro mundo y se enfrentó a una belleza sin igual, Elisabeth, que había aparecido ante sus ojos. Presentándose como "Torturchen", ordenó a Kaito que se convirtiera en su sirviente, pero él se negó en el acto. Cuando Elisabeth le presentó a Kaito la opción de ser torturador o mayordomo, él se sometió inmediatamente y comenzó a servir al lado de Elisabeth, para acompañarla hasta que completara su misión. ¡Increíblemente, resultó que la misión de Torturchen como pecador condenado era eliminar catorce demonios de rango y sus contratistas!
+
+"Sí, en efecto. Moriré, tan solo como un lobo y tan lamentablemente como una cerda."
+
+¡Ayasato Keishi x Ukai Saki! ¡Esta impresionante asociación ofrece una obra maestra de oscura fantasía ambientada en otro mundo! Aquí comienza la leyenda de la salvación del mundo, llevada a cabo por la doncella que había sido condenada por el mundo.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1OmXMvM3XfyMQRTnF1y6eQA" type="text/html" title="JmCrap Translations"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1gg-53gJrElP39uFNOfwD2g" type="text/html" title="Ferindrad"/>
 </entry>
 </feed>

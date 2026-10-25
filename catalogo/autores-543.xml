@@ -1,31 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Maruto Fumiaki</id>
-<title>Maruto Fumiaki</title>
-<updated>2026-10-21T00:13:50.659267+00:00</updated>
+<id>nextnovels:autores:Maromi Maroyaka</id>
+<title>Maromi Maroyaka</title>
+<updated>2026-10-25T03:42:53.764473+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-543.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>It’s Quite Late, but I’ve Fallen in Love With My Childhood Friend Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-its-quite-late-but-ive-fallen-in-love-with-my-childhood-friend-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-its-quite-late-but-ive-fallen-in-love-with-my-childhood-friend-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/09/Its-Quite-Late-but-Ive-Fallen-in-Love-With-My-Childhood-Friend-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/09/Its-Quite-Late-but-Ive-Fallen-in-Love-With-My-Childhood-Friend-Portada.jpg"/>
-<author><name>Maruto Fumiaki</name></author>
+<title>Tenshi wa Tansan Shika Nomanai Novela Ligera en Español</title>
+<id>https://nextnovels.com/tenshi-wa-tansan-shika-nomanai-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/tenshi-wa-tansan-shika-nomanai-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/04/Tenshi-wa-Tansan-Shika-Nomanai-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/04/Tenshi-wa-Tansan-Shika-Nomanai-Portada.jpg"/>
+<author><name>Maromi Maroyaka</name></author>
 <category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Josei" label="Josei"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">La historia de un amor que está más cerca que nadie, y a la vez más lejos. Un romance con una vuelta de desventaja está por comenzar.
+<content type="text">El amor y la preocupación son inseparables.
 
-Ta-kun y yo somos amigos de la infancia desde hace diez años. Nuestra cercanía emocional es tan intensa que parecería imposible equivocarse con la distancia entre nosotros; estamos siempre uno al lado del otro, y sin embargo, no conectamos de forma romántica… Esa relación de amigos de la infancia tan “perfecta”... ¿¡Cómo demonios va a ser eso posibleee!?
+Quiero el coraje para confesar mis sentimientos.
 
-¡Si hasta me pego sutilmente a su espalda cuando estamos en su habitación, y sincronizo nuestra hora de salida para fingir un encuentro casual camino a la escuela! Pero como hemos estado juntos desde siempre, sus sentidos ya están entumecidos y ¡Ningún intento de acercamiento funciona! ¿¡Qué se supone que debo hacer ya!?
+Quiero saber quién le gusta a mi crush.
 
-Ah, pero dijo que nadie le ha confesado su amor aún ¿Eso quiere decir que todavía tengo una oportunidad, no? ¿Que aún puedo llegar a ser la novia de Ta-kun…?
+Quiero que alguien escuche mis preocupaciones.
 
-Yo soy Hkari Shirasaka, 16 años… Y aunque sea tarde para admitirlo… me he enamorado de mi amigo de la infancia.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1FCrtX24aXADfNrTuoWzHqQ" type="text/html" title="Tamashi's Project"/>
+Quiero que alguien me apoye.
+
+Entiendo esos dolorosos sentimientos de amor. Porque tengo un inolvidable pasado. Y porque tengo el "poder" para salvarlos—
+
+Es por eso que yo, Akashi me volví en el "Ángel"
+
+[Finalmente te he encontrado, Ángel de la Secundaria Kuze.]
+
+El Ángel tocó la mejilla de una chica, Yuzuki Minato, con el fin de curar su Peculiaridad de Enamoramiento.
+
+Una misteriosa historia que traspasa el tiempo donde el amor y el pasado intervienen.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1c4xc_g1ybArkXrXP8hIjfg" type="text/html" title="WisheSubs"/>
 </entry>
 </feed>

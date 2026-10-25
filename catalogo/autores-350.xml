@@ -1,46 +1,134 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kaidou Sakon</id>
-<title>Kaidou Sakon</title>
-<updated>2026-10-21T00:13:50.627891+00:00</updated>
+<id>nextnovels:autores:Kagami Yuu</id>
+<title>Kagami Yuu</title>
+<updated>2026-10-25T03:42:53.642096+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-350.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Infinite Dendrogram Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-infinite-dendrogram-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-infinite-dendrogram-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-63.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-63.jpg"/>
-<author><name>Kaidou Sakon</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
+<title>Boku no Kanojo Sensei Novela Ligera en Español</title>
+<id>https://nextnovels.com/boku-no-kanojo-sensei-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/boku-no-kanojo-sensei-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/06/Portada01-sin-editar.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/06/Portada01-sin-editar.jpg"/>
+<author><name>Kagami Yuu</name></author>
 <category term="Comedia" label="Comedia"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Shounen" label="Shounen"/>
-<content type="text">En el año 2043, salió a la venta Infinite Dendrogram, el primer VRMMO de inmersión completa exitosa del mundo. Además de su capacidad para simular a la perfección los cinco sentidos, junto con sus muchas otras increíbles características, el juego prometía ofrecer a los jugadores un mundo lleno de infinitas posibilidades. Casi dos años más tarde, Reiji Mukudori, un estudiante de primer año de universidad, pudo por fin comprar una copia del juego y empezar a jugar. Con la ayuda de su experimentado hermano mayor, Shu, y su compañero Embryo, Reiji se embarca en una aventura en el mundo de Infinite Dendrogram. ¿Qué descubrirá y encontrará en este mundo de juego conocido por su increíble realismo e infinitas posibilidades?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/13bJTea9D5OoQa__-94NBPw" type="text/html" title="Nakama Novels Res"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1UK1e-LnOATqL0fEfrY79eg" type="text/html" title="World Project"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1kDuIOdH_ssYfxrzDBjFlMA" type="text/html" title="Ferindrad"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">¿Puede ser Sensei la heroína? ¿Por favor? Debido a una experiencia traumática, desconfío de las personas que se hacen llamar ‘Sensei’. A mi, Saigi Makoto, se me fue llamado después de clases por la profesora más hermosa y popular de mi escuela, Fujiki Maka-sensei.
+
+“Me gustas…” ¡¿Eh…?! ¡¿Una confesión de la nada?!
+
+“Hasta que digas que me amas, seguiré persiguiéndote”
+
+Desde entonces, he sido convocado para ‘orientación académica’ después de clases, hemos visto TV juntos, he recibido contacto físico excesivo, hemos tenido citas… Y, con el tiempo, ¿Y poco a poco me volví consciente de Sensei…? ¿Pero no es malo que una profesora salga con su estudiante? Un romance que es absolutamente peligroso, el amor prohibido entre nosotros dos. ¡Que inicien las clases!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1IcE2uqlfp1iJ-UJkvZujRg" type="text/html" title="Einherjar Project"/>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1linQfCANA2hyRV0OxjDzEw" type="text/html" title="Shinsengumi Translations"/>
 </entry>
 <entry>
-<title>My Instant Death Ability is So Overpowered No One in This Other World Stands a Chance Against Me! Novela Ligera en Español</title>
-<id>https://nextnovels.com/my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-64.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-64.jpg"/>
-<author><name>Kaidou Sakon</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
+<title>Childhood Friends Can Have a Relationship Whenever They Want Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-childhood-friends-can-have-a-relationship-whenever-they-want-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-childhood-friends-can-have-a-relationship-whenever-they-want-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/My-Childhood-Friend-Is-Always-Ready-Whenever-I-Make-a-Move-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/02/My-Childhood-Friend-Is-Always-Ready-Whenever-I-Make-a-Move-Portada.jpg"/>
+<author><name>Kagami Yuu</name></author>
 <category term="Comedia" label="Comedia"/>
-<category term="Fantasía" label="Fantasía"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">"Continuemos desde aquel entonces... ¿Lo hacemos en casa?"
+
+"Sigamos con lo de antes... ¿Lo hacemos en casa de Shunta?"
+
+Watase Maria, una chica guapa increíblemente popular entre los chicos, y Arima Shunta, una estudiante de primer año de secundaria un poco friki, son amigos de la infancia que han estado juntos a diario desde que tuvieron edad suficiente para entender.
+
+Se distanciaron tras un "incidente" en segundo de secundaria, pero un día, al entrar a la secundaria, se sientan juntas tras un cambio de asiento, y Maria le pregunta: "Si quieres ver mis pechos, te los enseño".
+
+Después de clase, en la habitación de Shunta, Maria empieza a quitarse el uniforme, mostrando sus pechos grandes a Shunta...
+
+Una comedia romántica juvenil y atrevida sobre una amiga de la infancia que ha adquirido un cuerpo sexy.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1ZMxL0n7qITkFBjJKm-H2FQ" type="text/html" title="Ichijou Translations"/>
+</entry>
+<entry>
+<title>I Made the Girl I Liked My Maid, and Now She’s Secretly Doing Something in My Room Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-i-made-the-girl-i-liked-my-maid-and-now-shes-secretly-doing-something-in-my-room-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-i-made-the-girl-i-liked-my-maid-and-now-shes-secretly-doing-something-in-my-room-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/07/I-Made-the-Girl-I-Liked-My-Maid-and-Now-Shes-Secretly-Doing-Something-in-My-Room-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/07/I-Made-the-Girl-I-Liked-My-Maid-and-Now-Shes-Secretly-Doing-Something-in-My-Room-Portada.jpg"/>
+<author><name>Kagami Yuu</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Intenté contratar a mi pobre compañera de clase. ¡¿Esta sirvienta es un poco sospechosa?!
+
+Kiyomiya Keiji es el único hijo de una distinguida y prestigiosa familia. Pero debido a las circunstancias, no puede heredar la familia, y disfrutaba viviendo solo en una residencia separada. Un día, la estudiante de matrícula de honor Hisaka Sayaka, respetada incluso por sus compañeros de clase alta, se presenta en su puerta con uniforme de sirvienta.
+
+“Ni siquiera yo soy tan basura como para contratar a una compañera de clase con dinero”.
+
+“Si no me contratas, nacerá una vagabunda con uniforme de sirvienta”.
+
+“¿Así que soy basura, aunque me niegue?”
+
+“Si lo haces ahora, el “servicio” que esperas también estará incluido.”
+
+“...”
+
+“Ah, vacilaste un poco.”
+
+¡Mi cordura no puede soportar vivir bajo el mismo techo con una chica de la que estoy secretamente enamorado!
+
+Pero, ¿qué hace Sayaka hurgando de vez en cuando en mi habitación?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1cb95kCKN2cLPe_ip-NPS-Q" type="text/html" title="Kai Sakura VENTO"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1GPFEIPwYqyDdQkvYSROgJA" type="text/html" title="World Project"/>
+</entry>
+<entry>
+<title>Kenshin no Keishousha Novela Ligera en Español</title>
+<id>https://nextnovels.com/kenshin-no-keishousha-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/kenshin-no-keishousha-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/06/Kenshin-no-Keishousha-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/06/Kenshin-no-Keishousha-Portada.jpg"/>
+<author><name>Kagami Yuu</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Durante la 3ra Guerra Mundial de hace 70 años atrás, unos seres extraños de otro universo llamado “Swordia” aparecieron en la metrópolis de Tokyo dejando al país bajo el gobierno de esta nueva especie, a quienes llaman “Swordians”. Generalmente los Swordians son chicas quienes sienten una alta atracción por las espadas, siendo los mejores espadachines los de la alta sociedad. Kurou es un humano que intenta subir su estatus social al entrar a la academia Swordsmanship, siendo retado por Swordians quienes nacen con la habilidad de combatir. Cuando una Swordian se excita, su impulso por cortar con su espada nace y no puede detenerse… ¿Cómo enfrentará esto Kurou?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1WWgffZZkNjHTkdplOhp6aA" type="text/html" title="Strange Translations, Yujin Traducciones"/>
+</entry>
+<entry>
+<title>Onna Tomodachi wa Tanomeba Igai to Yarasete Kureru Novela Ligera en Español</title>
+<id>https://nextnovels.com/onna-tomodachi-wa-tanomeba-igai-to-yarasete-kureru-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/onna-tomodachi-wa-tanomeba-igai-to-yarasete-kureru-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/12/Onna-Tomodachi-wa-Tanomeba-Igai-to-Yarasete-Kureru-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/12/Onna-Tomodachi-wa-Tanomeba-Igai-to-Yarasete-Kureru-Portada.jpg"/>
+<author><name>Kagami Yuu</name></author>
+<category term="Adulto" label="Adulto"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Harem" label="Harem"/>
 <category term="Maduro" label="Maduro"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
 <category term="Shounen" label="Shounen"/>
-<content type="text">¿Trucos de crecimiento? ¿Poder mágico infinito? La capacidad de utilizar todos los arquetipos? ¿Cuál es el punto si la muerte instantánea termina todo con un solo ataque?
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Minato, un estudiante de secundaria, es una persona introvertida de casa.
 
-El estudiante de último año de secundaria, Yogiri Takatou, estaba en una excursión escolar cuando se despertó con un dragón atacando su autobús turístico, y los únicos que aún estaban en el autobús eran él y su compañera de clase, Tomochika Dannoura, presa del pánico. Aparentemente, el resto de sus compañeros de clase habían recibido poderes especiales de Sion, una mujer que se presentó como Sabio y escaparon del dragón, dejando a los que no habían recibido ningún poder especial como cebo.
+Su compañera de clase, Hazuki, es una chica extrovertida.
 
-Y entonces Yogiri fue arrojado a un universo paralelo lleno de peligro, sin idea de lo que acaba de pasar. Del mismo modo, Sion no tenía manera de saber qué clase de ser había convocado para su mundo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1rNbJH9dBydNfwRC4pqreBg" type="text/html" title="Legends no Fansub y Eon Translations"/>
+A pesar de ser completamente opuestos, se convirtieron en mejores amigos mientras salían a diario.
+
+Un día, Minato se arrodilló y suplicó: "¡Déjame hacerlo una vez!".
+
+Cuando lo hizo, la ingenua Hazuki lo aceptó fácilmente.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1nxDZVKYXwNimj7YC5WMNoA" type="text/html" title="Ichijou Translations"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Mpu-srjAjLcUxI47xruefQ" type="text/html" title="Ilusion Shuri Novels"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1svNS1_Ys7f9OFB095GiFIQ" type="text/html" title="World Project"/>
 </entry>
 </feed>

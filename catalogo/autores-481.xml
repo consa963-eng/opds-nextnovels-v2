@@ -1,30 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kousaka Mato</id>
-<title>Kousaka Mato</title>
-<updated>2026-10-21T00:13:50.649559+00:00</updated>
+<id>nextnovels:autores:Kouji Natsumi</id>
+<title>Kouji Natsumi</title>
+<updated>2026-10-25T03:42:53.751247+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-481.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Guild no Uketsukejou desu ga, Zangyou wa Iya na no de Boss wo Solo Toubatsu Shiyou to Omoimasu Novela Ligera en Español</title>
-<id>https://nextnovels.com/guild-no-uketsukejou-desu-ga-zangyou-wa-iya-na-no-de-boss-wo-solo-toubatsu-shiyou-to-omoimasu-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/guild-no-uketsukejou-desu-ga-zangyou-wa-iya-na-no-de-boss-wo-solo-toubatsu-shiyou-to-omoimasu-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/01/Guild-no-Uketsukejou-desu-ga-Zangyou-wa-Iya-na-no-de-Boss-wo-Solo-Toubatsu-Shiyou-to-Omoimasu-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/01/Guild-no-Uketsukejou-desu-ga-Zangyou-wa-Iya-na-no-de-Boss-wo-Solo-Toubatsu-Shiyou-to-Omoimasu-Portada.jpg"/>
-<author><name>Kousaka Mato</name></author>
+<title>Girly Air Force Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-girly-air-force-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-girly-air-force-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/04/Girly-Air-Force-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/04/Girly-Air-Force-Portada.jpg"/>
+<author><name>Kouji Natsumi</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Fantasía" label="Fantasía"/>
-<content type="text">¡USA UN MARTILLO DE GUERRA GIGANTE PARA EVITAR TRABAJAR EN EXCESO!
-
-Alina Clover se inscribió para ser recepcionista del Gremio de Aventureros, pensando que sería su boleto a la buena vida: salario estable, horarios regulares y condiciones laborales seguras. Desafortunadamente, el trabajo de sus sueños se convierte en una pesadilla de papeleo interminable y horas extras cada vez que los aventureros que ayuda a coordinar se quedan atascados limpiando una mazmorra. Pero la gente no está hecha para trabajar para siempre, por lo que Alina se escabulle por la noche para darles una paliza a los monstruos responsables de sus horas extra, cortesía de su enorme martillo de guerra.
-
-Mantener todo esto en secreto para evitar violar la prohibición de su oficina sobre segundos trabajos es difícil, especialmente cuando las historias de sus hazañas comienzan a difundirse, pero Alina de alguna manera logra mantener su identidad segura... hasta que el líder de la party más fuerte del gremio la atrapa.
-
-¡Derrota a un jefe para evitar una noche fatídica de horas extra!
-
-¿Tiene Alina lo necesario para evitar que su vida se ponga patas arriba?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxlink.com/s/1TlFuaw9SYZGBncC7uPZs9g" type="text/html" title="AniMangaNovel y Cafuné Translations"/>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxlink.com/s/1zRqhayS7DXLCxcrqDQF8Hg" type="text/html" title="Kyūden Translation"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">En el año 2015 un grupo de aeronaves no identificadas son vistas en varias regiones de Asia, se conoce que su capacidad de combate es superior al armamento actual, por lo cual, diferentes países asiáticos comienzan el desarrollo de un armamento especial. Durante un ataque de una nave vista en Japón, Kei Narutani es testigo de un avión cayendo al atacar al enemigo, el avión cae en el mar y rápidamente asiste a ayudar, pero descubre que el piloto no es más que una pequeña niña.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1EPZsgbmkJNOpsWQp8f0CFg" type="text/html" title="Btoom Translations"/>
 </entry>
 </feed>

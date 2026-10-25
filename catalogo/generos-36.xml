@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:generos:Psicológico</id>
 <title>Psicológico</title>
-<updated>2026-10-21T00:13:50.845429+00:00</updated>
+<updated>2026-10-25T03:42:54.425285+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-36.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>29-sai Dokushin wa Isekai de Jiyuu ni Ikita……katta Novela Ligera en Español</title>
@@ -2647,6 +2647,44 @@ En ese momento, estaba a punto de ponerle un collar.
 
 Le acaricié suavemente el cabello, apartando sus mechones dorados para que cayeran sobre su hombro. Luego, le coloqué el collar rosa claro alrededor de su pálido cuello.</content>
 <link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1W1pQhuOja0zWZM2y5Lp7xg" type="text/html" title="BakaNovels"/>
+</entry>
+<entry>
+<title>The Science Notes of Delta and Gamma Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-science-notes-of-delta-and-gamma-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-science-notes-of-delta-and-gamma-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/The-Science-Notes-of-Delta-and-Gamma-Portada.webp"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/10/The-Science-Notes-of-Delta-and-Gamma-Portada.webp"/>
+<author><name>Sakai Takuma</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Agridulce y a la vez fresca: una historia de ciencia, amor y misterio.
+
+Si lo pienso bien, la juventud se parece mucho a una novela de detectives bien construida.
+
+El misterio de los cerezos en flor que alguna vez simbolizaron un amor que nunca llegó a concretarse.
+
+Esa vaga sensación de que algo no encajaba durante el reclutamiento del club.
+
+El secreto oculto en la edad de un viejo y majestuoso árbol.
+
+El hámster que desapareció de una habitación cerrada bajo llave.
+
+Y las decisiones desesperadas de unos estudiantes de secundaria volcados en un club de biología al borde de la desaparición.
+
+Cada causa y efecto, aparentemente inconexos, están en realidad vinculados entre sí... y solo al mirar atrás nos damos cuenta: Ah, así que eso era la juventud.
+
+Es entonces cuando por fin comprendemos aquellas cosas importantes que habíamos pasado por alto todo el tiempo.
+
+"¡Pongámoslo a prueba... científicamente!"
+
+Este es el modesto registro de actividades del Departamento de Ciencias del instituto Tsunagai, donde un grupo de estudiantes apasionados por la ciencia se enfrenta a los innumerables misterios ocultos en la vida cotidiana.
+
+Y esta es la historia de cómo, finalmente, se desentrañó un primer amor.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Vm33vuGblbwd22gokBaMjA" type="text/html" title="Saitou Translations"/>
 </entry>
 <entry>
 <title>The State Noblewoman Bought This Worthless Me for 300 Million Novela Ligera en Español</title>

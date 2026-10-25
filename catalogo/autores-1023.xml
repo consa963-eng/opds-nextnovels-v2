@@ -1,31 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Unal</id>
-<title>Unal</title>
-<updated>2026-10-21T00:13:50.742245+00:00</updated>
+<id>nextnovels:autores:Ukai Yuushi</id>
+<title>Ukai Yuushi</title>
+<updated>2026-10-25T03:42:53.871251+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1023.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Harem Life Making Babies with Busty Ladies Novela Ligera en Español</title>
-<id>https://nextnovels.com/harem-life-making-babies-with-busty-ladies-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/harem-life-making-babies-with-busty-ladies-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/03/Harem-Life-Making-Babies-with-Busty-Ladies-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/03/Harem-Life-Making-Babies-with-Busty-Ladies-Portada.jpg"/>
-<author><name>Unal</name></author>
+<title>Shibou Yuugi de Meshi wo Kuu Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-shibou-yuugi-de-meshi-wo-kuu-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-shibou-yuugi-de-meshi-wo-kuu-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/09/Shibou-Yuugi-de-Meshi-wo-Kuu-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/09/Shibou-Yuugi-de-Meshi-wo-Kuu-Portada.jpg"/>
+<author><name>Ukai Yuushi</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Adulto" label="Adulto"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<content type="text">El protagonista, Shota, es un estudiante corriente.
-
-​Cuando vuelve a casa como de costumbre y abre la puerta, se ve transportado a un palacio real en un mundo que nunca antes había visto.
-
-Allí conoce a la primera ministra, Berlina, que le informa de que la cara de Shota es exactamente igual a la del príncipe muerto.
-
-A Shota le piden que se convierta en el príncipe de este país y deje un heredero, así que decide tener s*x con la maga Torte y la caballera Eclair para tener un bebé.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/harem-life-making-babies-with-busty-ladies-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<category term="Drama" label="Drama"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Suspenso" label="Suspenso"/>
+<content type="text">Yuki se despierta y se encuentra en una mansión desconocida, con un uniforme de sirvienta y acostada en una cama lujosa. Pronto, descubre a cinco chicas más, todas vestidas igual que ella. Esta es la Casa Fantasma, y la única forma de que sobrevivan es atravesar las trampas que las acechan: juegos mortales llenos de cerbatanas, sierras circulares, habitaciones cerradas y armas. Es una situación desesperada y aterradora para todos allí... bueno, para todos excepto para Yuki. Después de todo, esa es su profesión, con solo diecisiete años se gana la vida jugando juegos mortales.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Gchi15vPsouDNy-rLkxFQA" type="text/html" title="Kyūden Translation"/>
 </entry>
 </feed>

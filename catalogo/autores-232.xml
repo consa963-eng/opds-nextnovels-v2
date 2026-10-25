@@ -1,23 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Hibiki Yuu</id>
-<title>Hibiki Yuu</title>
-<updated>2026-10-21T00:13:50.608821+00:00</updated>
+<id>nextnovels:autores:Hibi Tsuzuro</id>
+<title>Hibi Tsuzuro</title>
+<updated>2026-10-25T03:42:53.583815+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-232.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Kuro Ochi Hakuma Doushi wa Kaihou Kinju de Megami wo Kegasu Novela Ligera en Español</title>
-<id>https://nextnovels.com/kuro-ochi-hakuma-doushi-wa-kaihou-kinju-de-megami-wo-kegasu-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/kuro-ochi-hakuma-doushi-wa-kaihou-kinju-de-megami-wo-kegasu-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/06/Kuro-Ochi-Hakuma-Doushi-wa-Kaihou-Kinju-de-Megami-wo-Kegasu-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/06/Kuro-Ochi-Hakuma-Doushi-wa-Kaihou-Kinju-de-Megami-wo-Kegasu-Portada.jpg"/>
-<author><name>Hibiki Yuu</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Fantasía" label="Fantasía"/>
-<content type="text">¡Derrota con magia de recuperación y placer a las más poderosas! ¡Después de ser un tipo malvado reencarné como un Mago Blanco!
+<title>Blue Outline Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-blue-outline-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-blue-outline-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/04/Blue-Outline-Portada.jpeg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/04/Blue-Outline-Portada.jpeg"/>
+<author><name>Hibi Tsuzuro</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Llamativo. Impresionante. Adictivo. Hipnótico.
 
-Lo único que valía la pena en mi vida era el MMORPG llamado Embryo. Sin embargo, antes de darme cuenta estoy en un mundo muy similar al de ese juego, incluso, reviví como mi personaje, Cry. Pero, no como un Mago Oscuro de alto rango, ¡sino como un Mago Blanco de nivel 1! Según la Diosa, debo arrepentirme de todos mis malos actos. Pero, ¡tengo un plan secreto para burlarme de esta Diosa con solo mi Magia de Recuperación! ¡Ha aparecido el Mago Blanco de espíritu libre!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1wk9nxY8UhfGWAqZJeJizWQ" type="text/html" title="Trihexa"/>
+Esas eran las impresiones que dejaban sus pinturas en quienes las veían.
+
+Era lo que yo aspiraba a ser, como estudiante de secundaria que deseaba dedicarse al arte.
+
+No importaba lo que creara, todas sus obras eran calificadas como «geniales». Una artista con un talento sin igual, Kashiwazaki Yuri.
+
+«He venido solo para verte. Solo pinto lo que deseo».
+
+La persona más cercana a mí, pero también la más lejana: mi amiga de la infancia.
+
+Un día, de repente, dejó de pintar. Pero yo seguí dando pinceladas mientras perseguía su sombra.
+
+«Seguiré pintando una y otra vez. No me rendiré. El talento no importa».
+
+Voy a hacer que vuelva a disfrutar de la pintura. Y le demostraré que mis creaciones son superiores.
+
+Esta es la historia de una persona corriente que dedicó su juventud a la pintura, desafiando al «genio».
+
+Ganador del 34.º Premio Fantasia, «Premio Especial Tachibana Koushi».</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1KtPLD1qhmW0vMYOzMqgz_w" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 </feed>

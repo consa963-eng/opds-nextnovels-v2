@@ -1,23 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Yuuki Rin</id>
-<title>Yuuki Rin</title>
-<updated>2026-10-21T00:13:50.757756+00:00</updated>
+<id>nextnovels:autores:Yuu-ta</id>
+<title>Yuu-ta</title>
+<updated>2026-10-25T03:42:53.892215+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1118.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Monster Hunter Novela Ligera en Español</title>
-<id>https://nextnovels.com/monster-hunter-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/monster-hunter-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/09/Monster-Hunter-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/09/Monster-Hunter-Portada.jpg"/>
-<author><name>Yuuki Rin</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
+<title>You Guys Should Get Married Soon! I Have Three Girls Who Have Been Told So Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-you-guys-should-get-married-soon-i-have-three-girls-who-have-been-told-so-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-you-guys-should-get-married-soon-i-have-three-girls-who-have-been-told-so-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/07/You-Guys-Should-Get-Married-Soon-I-Have-Three-Girls-Who-Have-Been-Told-So-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/07/You-Guys-Should-Get-Married-Soon-I-Have-Three-Girls-Who-Have-Been-Told-So-Portada.jpg"/>
+<author><name>Yuu-ta</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Harem" label="Harem"/>
 <category term="Romance" label="Romance"/>
-<content type="text">Transcurre en una era donde los monstruos gigante dominan el mundo de la naturaleza, paseándose por la tierra y volando libremente por el cielo. Para sobrevivir, la humanidad depende de los cazadores, guerreros poderosos con la fuerza y el intelecto para derrotar a tales bestias.
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">¡Comienza una comedia romántica sin frenos, llena de malentendidos y frustración al máximo nivel!
 
-Zeeg Grandest es uno de aquellos cazadores, aunque todavía un novato. A través de su encuentro con numerosos camaradas y batallas contra wyverns poderosos, el chico aprenderá lo que realmente significa ser una Cazador de Monstruos.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1yYqsZXVlmIuE8DLKbaxK2A" type="text/html" title="True Flames Project"/>
+“Me gustas desde hace tiempo. ¿Recuerdas cuando dijeron ‘Ustedes dos deberían casarse de una vez’? ¿Por qué no lo hacemos realidad?”
+
+Esa impactante confesión apareció en los comentarios de la novela web que escribo en secreto.
+
+Sí, hay muchas cosas que podrían tomarse a broma… pero el verdadero problema es que hay tres chicas que podrían ser la autora de ese mensaje:
+
+Yuzuri Takeuchi: la compañera de clase dulce y angelical.
+
+Kurumi Yamashita: la amiga de la infancia tsundere que solo me trata mal a mí.
+
+Kaede Maihara: la compañera juguetona del trabajo de medio tiempo.
+
+Esa línea se suponía que era una broma… ¿Entonces por qué parece que alguna de ellas va en serio?
+
+¿Y quién de las tres es la verdadera heroína principal?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1tKR1FXKLKRLVjcNWO8qQNw" type="text/html" title="Gambarimasu Translations"/>
 </entry>
 </feed>

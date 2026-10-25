@@ -1,47 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Atekichi</id>
-<title>Atekichi</title>
-<updated>2026-10-21T00:13:50.586264+00:00</updated>
+<id>nextnovels:autores:Asaura</id>
+<title>Asaura</title>
+<updated>2026-10-25T03:42:53.554106+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-97.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>All-Works Maid Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-all-works-maid-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-all-works-maid-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/09/All-Works-Maid-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/09/All-Works-Maid-Portada.jpg"/>
-<author><name>Atekichi</name></author>
+<title>Ben-To!‎‎ Novela Ligera en Español</title>
+<id>https://nextnovels.com/ben-to-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/ben-to-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/06/01-19.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/06/01-19.jpg"/>
+<author><name>Asaura</name></author>
+<category term="Acción" label="Acción"/>
 <category term="Comedia" label="Comedia"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Shoujo" label="Shoujo"/>
-<content type="text">"¡Voy a convertirme en la mejor sirvienta del mundo!"
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Cierto día, un pobre estudiante de secundaria, Yō Satō entró en un supermercado y vio unos bentos a mitad de precio en oferta. Cuando estaba alcanzando inocentemente su bento deseado, fue derribado instantáneamente.
 
-Con su falda en blanco y negro ondeando al viento, la joven gritó con determinación.
+Cuando recuperó el conocimiento, se dio cuenta de que estaba golpeado en el suelo. Cuando levantó la vista, se quedó atónito ante la escena que tenía delante. Era un acalorado campo de batalla por los bentos a mitad de precio. Atraído por esta inimaginable escena, Yō formó una alianza con su compañera de clase, Hana Oshiroi, que casualmente estaba en el supermercado, para conseguir los bentos a mitad de precio. Sin embargo, de la nada, una hermosa chica, conocida por los demás como "La bruja de hielo", le golpeó en un instante. Tras coger un bento para ella, se acercó a Yō y le dijo...
 
-Su nombre es Melody.
+El ganador del 5º premio anual de escritores de novelas ligeras Super Dash, Asaura, nos trae su más reciente obra, una comedia de instituto llena de acción, ¡Ben-To!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/17khqCCpjbXMxaBvCpeBgnw" type="text/html" title="Btoom Translations"/>
+</entry>
+<entry>
+<title>Lycoris Recoil: Gluttony Days Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-lycoris-recoil-gluttony-days-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-lycoris-recoil-gluttony-days-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/Lycoris-Recoil-Gluttony-Days-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/06/Lycoris-Recoil-Gluttony-Days-Portada.jpg"/>
+<author><name>Asaura</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Yuri" label="Yuri"/>
+<content type="text">¡La tercera entrega de la nueva serie de novelas del popular anime «Licorice Recoil»!
 
-Reencarnada de Japón, heredó el sueño de su vida anterior y ahora trabaja como sirvienta de oficios varios en una pobre familia de condes del Reino Teoras.
+«¡Soy la chica del letrero de la cafetería Licorico!»
 
-Si ella prepara el té, incluso el más barato se vuelve un lujo; si ella limpia, una mansión en ruinas queda como nueva.
+Hoy también resuena en la cafetería Licorico el cencerro que anuncia la llegada de los clientes...
 
-¡Limpieza, servicio, cacería o bricolaje, déjenmelo todo a mí! —y lo resuelve todo con su poderosa magia.
+¡Un spin-off que nos muestra la vida fuera de lo común de Chizuku Nishikigi y Takina Inoue, que no se mostró en la serie de anime de televisión!♪
 
-Porque en realidad… este mundo es el de un otome game, y la invencible Melody no es otra que la mismísima Santa.
+¿La misión de escolta de las chicas se convierte, quién lo diría, en un tour gastronómico? ¿Qué es exactamente ese «sabor de Japón» del que Chizuka habla con tanto entusiasmo? Además, ¡Chizuka organiza una clase de cocina para Fuki, con quien no se lleva nada bien!
 
-…Aunque ella no tiene la menor idea de ello.
+Y el mundo de los bocadillos nocturnos de Kurumi, al que invita a la hambrienta Takina, tiene el sabor del pecado prohibido…!
 
-¿Romance con apuestos galanes? ¿Ataques del Rey Demonio? ¡Por favor, el trabajo es más importante!
+¡La tercera entrega de la nueva serie de novelas, un combo de raciones abundantes y porciones gigantes, escrita por el propio creador original, que narra la vida cotidiana de las chicas de Licorice, que nunca sale como se espera!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1bQR-HCTUe5yovJ9-_tB_Xw" type="text/html" title="Next Novels (MTL)"/>
+</entry>
+<entry>
+<title>Lycoris Recoil: Ordinary Days Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-lycoris-recoil-ordinary-days-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-lycoris-recoil-ordinary-days-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/Lycoris-Recoil-Ordinary-Days-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/06/Lycoris-Recoil-Ordinary-Days-Portada.jpg"/>
+<author><name>Asaura</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Yuri" label="Yuri"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1BPK0zTwq2PdRQVp7tbFsdg" type="text/html" title="Next Novels (MTL)"/>
+</entry>
+<entry>
+<title>Lycoris Recoil: Recovery Days Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-lycoris-recoil-recovery-days-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-lycoris-recoil-recovery-days-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/Lycoris-Recoil-Recovery-Days-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/06/Lycoris-Recoil-Recovery-Days-Portada.jpg"/>
+<author><name>Asaura</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Yuri" label="Yuri"/>
+<content type="text">¡POR LA NOCHE SON AGENTES SECRETAS; POR EL DÍA, SON UNAS GIRASAS CAMARERAS!
 
-¿Qué le espera al mañana de un mundo cuyo destino es destrozado sin querer por una chica que volcó todo el poder de la Santa en sus tareas domésticas?
-
-¡Una fantasía laboral llena de malentendidos que rompe el destino sin darse cuenta!
-
-★Con contenido especial exclusivo de la edición digital★
-
-¡Confirmada la adaptación al anime para TV!
-
-¡Delicioso té! ¡Limpieza de la mansión! ¿Derrotar al Rey Demonio? ¡Dejen todo en manos de la magia y habilidades de una sirvienta! ¡La heroína de un otome game se convierte en sirvienta y causa un gran alboroto! ¡Una fantasía laboral llena de malentendidos que rompe el guión del mundo! ¡Incluye relato corto inédito!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1rRmWlzm2rKUU132L0J7ooA" type="text/html" title="OX-MR Traducciones"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1zzNzudVrpQ7FSsm1zGKJNQ" type="text/html" title="OX-MR Traducciones"/>
+Aunque estas colegialas protegen a Japón como agentes de Lycoris, también trabajan en una cafetería. Chisato quiere que Takina disfrute de la experiencia de ver una película en el cine, ¡pero les llega una misión importante justo antes de que empiece la función! ¡Otro día, Takina se despierta en una cabaña en el bosque con un asesino?! Mientras tanto, ¿qué están haciendo Fuki y Sakura además de proteger la ciudad sin que nadie se dé cuenta? ¡La vida cotidiana de estas chicas es todo menos ordinaria!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1MjGrn8fYQCNbk_R9A2ncWg" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 </feed>

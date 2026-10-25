@@ -1,32 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Amakawa Mizuumi</id>
-<title>Amakawa Mizuumi</title>
-<updated>2026-10-21T00:13:50.578451+00:00</updated>
+<id>nextnovels:autores:Amahara</id>
+<title>Amahara</title>
+<updated>2026-10-25T03:42:53.544257+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-51.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Fushi no Kami Novela Ligera en Español</title>
-<id>https://nextnovels.com/fushi-no-kami-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/fushi-no-kami-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-24.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-24.jpg"/>
-<author><name>Amakawa Mizuumi</name></author>
+<title>Interspecies Reviewers Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-interspecies-reviewers-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-interspecies-reviewers-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/Interspecies-Reviewers-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/10/Interspecies-Reviewers-Portada.jpg"/>
+<author><name>Amahara</name></author>
+<category term="Aventura" label="Aventura"/>
 <category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<content type="text">Un chico llamado Ash, parece tener recuerdos de su vida anterior. Con sus recuerdos, está decidido a conseguir la vida ideal que recuerda.
+<content type="text">En un mundo donde conviven una variedad infinita de especies humanoides, ¡hay una variedad igual de infinita de locales eróticos que sin duda satisfarán todos tus deseos carnales!
 
-¿Es posible hacerlo en el remoto campo, donde los campesinos no tienen estatus ni propiedades?
-
-El chico se ríe. En primer lugar, es imposible. Pero siguió riendo.
-
-Pero no hay vida peor que la que estoy viviendo actualmente. Así que vamos a soñar todo lo que pueda, a perseguirlo con todas mis fuerzas y a dedicarme a conseguirlo.
-
-Esta es la historia de un niño que pasa de no saber leer a sorprender a su pueblo, a desarrollar un territorio remoto, a sacudir el reino y a transformar el mundo.
-
-Esta es una historia sobre la restauración de la civilización, contada como una leyenda en el futuro.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1kZgzJXs9Cfg1vLynN4fjaA" type="text/html" title="World Project"/>
+Pero imagina que tienes tantas opciones que no sabes por cuál decidirte, o que tienes un lugar en mente pero no estás seguro de si estará a la altura de las expectativas. ¡Ahí es donde entran en escena los Críticos Interespecies! Estas almas valientes se lanzarán de cabeza a lo desconocido y escribirán una reseña que diga la verdad. Desde seductoras que viajan en el tiempo hasta chicas basilisco que exhalan veneno, ¡únete a Stunk, Zel y Crim en sus aventuras eróticas mientras prueban las muchas delicias pervertidas que el mundo de los locales de súcubos tiene para ofrecer! ¡Basado en la exitosa serie de manga de Amahara!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/15XGZTf-RXGQPTcFOzUDB5A" type="text/html" title="Onigiri Novels"/>
 </entry>
 </feed>

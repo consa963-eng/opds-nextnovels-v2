@@ -1,32 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Ren Kujyo</id>
-<title>Ren Kujyo</title>
-<updated>2026-10-21T00:13:50.692326+00:00</updated>
+<id>nextnovels:autores:Rakuto Haba</id>
+<title>Rakuto Haba</title>
+<updated>2026-10-25T03:42:53.808802+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-744.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Kowaresou na Kimi to, ano Yakusoku wo mou Ichido Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-kowaresou-na-kimi-to-ano-yakusoku-wo-mou-ichido-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-kowaresou-na-kimi-to-ano-yakusoku-wo-mou-ichido-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/02/Ishura-Portada-1.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/02/Ishura-Portada-1.jpg"/>
-<author><name>Ren Kujyo</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
+<title>Kimi no Sensei Demo Heroine ni Naremasu ka? Novela Ligera en Español</title>
+<id>https://nextnovels.com/kimi-no-sensei-demo-heroine-ni-naremasu-ka-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/kimi-no-sensei-demo-heroine-ni-naremasu-ka-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/12/Kimi-no-Sensei-Demo-Heroine-ni-Naremasu-ka-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/12/Kimi-no-Sensei-Demo-Heroine-ni-Naremasu-ka-Portada.jpg"/>
+<author><name>Rakuto Haba</name></author>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">La relación entre dos personas ha pasado de ser amigos de la infancia a extraños y, ahora, a compañeros de vivienda.
+<content type="text">Reiyu (profesora) y Yuunagi (estudiante) descubren que son vecinos en un condominio y que viven solos.
 
-Renji Tsukishiro vive bajo el mismo techo que su amiga de la infancia, Inori Mochizuki, con quien se había distanciado desde el verano de primer año de preparatoria. Sin embargo, la brecha temporal y emocional que se ha formado entre ellos no es superficial, y a pesar de querer mejorar su relación, Renji se encuentra sin poder hacer nada justo cuando comienza el segundo año.
+Para que no se descubra eso establecen un “Acuerdo de Vecindad”, pero ha medida que ambos novatos en el amor se acercan, se alejan a la vez por el temor de la opinión pública, en especial Reiyu.
 
-Al convertirse en compañero de clase de Inori, Renji se decide a acercarse a ella y cumplir la «promesa» que hicieron aquel día. Se siente motivado, pensando que su relación comenzará a avanzar poco a poco. Pero justo cuando parece que las cosas están cambiando, Ai, quien conoce el secreto de Renji, le confiesa su amor...
+Sin embargo, sus deseos y sentimientos los hacen empujar poco a poco en el abismo de lo prohibido.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1bB212n2h3kDmQvYGgdSpqA" type="text/html" title="Tamashi Project"/>
+</entry>
+<entry>
+<title>Watashi Igai to no Lovecome wa Yurusanai n da kara ne Novela Ligera en Español</title>
+<id>https://nextnovels.com/watashi-igai-to-no-lovecome-wa-yurusanai-n-da-kara-ne-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/watashi-igai-to-no-lovecome-wa-yurusanai-n-da-kara-ne-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/02/Watashi-Igai-to-no-Lovecome-wa-Yurusanai-n-da-kara-ne-Portada.jpeg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/02/Watashi-Igai-to-no-Lovecome-wa-Yurusanai-n-da-kara-ne-Portada.jpeg"/>
+<author><name>Rakuto Haba</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Después de un año de continuar con mi enfoque sin ceder a su frialdad, finalmente conseguí su atención. Entré en una relación de novio y novia con Yorka Arisaka, una belleza solitaria que no intentaba acercarse a nadie en la clase. Además, aunque ella era tan fria, ¡parece que realmente me amaba!
 
-Pueden convertirse en extraños o en algo especial.
+“Aunque esto sea obvio, me gustas, pero no parece que se transmita”.
 
-La historia de estos dos «amigos de la infancia», que están tan cerca y a la vez tan lejos, sigue su camino mientras se desvían, crecen y cambian.
-
-Una página de juventud para volver a encontrar lo que es verdaderamente importante.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1RiWyCHKplHlMU9eoJAi_mw" type="text/html" title="Tamashi's Project"/>
+Eh, ¿no es peligrosa esta linda existencia? A pesar de su optimismo, no tiene ningún poder de defensa romántico y su deseo de coquetear ya está en su límite. Además, ¿es éste un acto prohibido en público? Como si esto no fuera suficiente para mantener en secreto sus sentimientos mutuos, ¿aparece un rival amoroso…?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1CQLDheGhr4QN-JyWncSd7Q" type="text/html" title="Hitoribocchi Translations"/>
 </entry>
 </feed>

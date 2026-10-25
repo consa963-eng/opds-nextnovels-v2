@@ -1,41 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Tomino Yoshiyuki</id>
-<title>Tomino Yoshiyuki</title>
-<updated>2026-10-21T00:13:50.730198+00:00</updated>
+<id>nextnovels:autores:Tofuro Futsukaichi</id>
+<title>Tofuro Futsukaichi</title>
+<updated>2026-10-25T03:42:53.860083+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-972.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Mikkai: Amuro and Lalah Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-mikkai-amuro-and-lalah-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-mikkai-amuro-and-lalah-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/07/Mikkai-Amuro-and-Lalah-Portada.jpeg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/07/Mikkai-Amuro-and-Lalah-Portada.jpeg"/>
-<author><name>Tomino Yoshiyuki</name></author>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Mecha" label="Mecha"/>
-<category term="Romance" label="Romance"/>
-<content type="text">La historia revela el pasado de Lalah Sune, durante el cual escapa de su vida como prostituta en la India, y su encuentro con Amuro Ray y Char Aznable, quien se interesa por sus poderes especiales y la traslada al Instituto Flanagan</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1H-ZHXP-RWqfxK2wy_Ce5Qw" type="text/html" title="Clan Senju"/>
-</entry>
-<entry>
-<title>Mobile Suit Gundam: Hathaway’s Flash Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-mobile-suit-gundam-hathaways-flash-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-mobile-suit-gundam-hathaways-flash-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/06/Kidou-Senshi-Gundam-Senkou-no-Hathaway-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/06/Kidou-Senshi-Gundam-Senkou-no-Hathaway-Portada.jpg"/>
-<author><name>Tomino Yoshiyuki</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
+<title>Gendai Shakai de Otome Game no Akuyaku Reijou wo Suru no wa Chotto Taihen Novela Ligera en Español</title>
+<id>https://nextnovels.com/gendai-shakai-de-otome-game-no-akuyaku-reijou-wo-suru-no-wa-chotto-taihen-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/gendai-shakai-de-otome-game-no-akuyaku-reijou-wo-suru-no-wa-chotto-taihen-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/04/Gendai-Shakai-de-Otome-Game-no-Akuyaku-Reijou-wo-Suru-no-wa-Chotto-Taihen-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/04/Gendai-Shakai-de-Otome-Game-no-Akuyaku-Reijou-wo-Suru-no-wa-Chotto-Taihen-Portada.jpg"/>
+<author><name>Tofuro Futsukaichi</name></author>
+<category term="Comedia" label="Comedia"/>
 <category term="Drama" label="Drama"/>
-<category term="Mecha" label="Mecha"/>
-<content type="text">Año Univesal Century 0105, han pasado 12 años desde la Segunda Guerra Neo Zeon, conocida como La Rebelión de Char (eventos vistos en Char's Counter-Attack)
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Shoujo" label="Shoujo"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Una mujer se reencarna en la villana de un juego otome retro… ¡en el que tiene que sortear la Gran Recesión de 2008!
 
-La Federación Terrestre ha aceptado a la República de Zeon nuevamente en el redil de naciones de la Esfera Terrestre. Sin embargo, a través de los años, la codicia y la desconfianza de la Federación hacia los spacenoides (los humanos que viven en el espacio), los lleva a formar unidades "Manhunter" para cazar y deportar por la fuerza a civiles desfavorecidos o indeseables de todo el mundo, y enviarlos a las Colonias Espaciales.
-
-Una organización llamada Mafty, comienza acciones terroristas contra la Federación y sus altos funcionarios como un acto de venganza por la agresión y ataque a miles de víctimas inocentes, utilizando un nuevo prototipo de Mobile Suit, el RX-105 Xi Gundam. En respuesta, el nuevo comandante de la Federación Terrestre de la zona de Davao, el capitán Kenneth Sleg, crea la Unidad Circe para acabar con Mafty. Hathaway Noa, hijo del legendario Bright Noa, inicia su viaje en esta historia llena de intriga política, espionaje, redención y mucha acción.
-
-Y recuerden Su luz es la esperanza de la humanidad.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Hn1QRCL8z_el73eXUQn_kw" type="text/html" title="Clan Senju"/>
+Cuando la economía se derrumba en septiembre de 2008, el destino de una mujer de carrera agotada queda en el aire… ¡hasta que se reencarna! Ahora es Keikan Runa, la malvada hija del Grupo Keika, en un juego otome ambientado antes del estallido de la burbuja económica japonesa. La situación financiera del Grupo Keika no es buena: están al borde de la ruina si no se le pone freno a la situación. Sin embargo, Runa está decidida a salvar tanto al Grupo Keika como a Japón mediante inversiones arriesgadas e inteligentes. Gracias a su interés por el dinero contante y sonante, a sus conocimientos de la tecnología del futuro y a su conciencia de la futura ruina de Japón en el mundo real, Runa podría ser capaz de cortar de raíz el inminente colapso económico. ¡Sé testigo del renacimiento de la economía japonesa mientras Runa utiliza sus conocimientos para salvar su nuevo presente del futuro!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1msKvWjltUKBhIhxSYFJqwQ" type="text/html" title="Ferinrad"/>
 </entry>
 </feed>

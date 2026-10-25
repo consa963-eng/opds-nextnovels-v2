@@ -1,23 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Mina Sakurai</id>
-<title>Mina Sakurai</title>
-<updated>2026-10-21T00:13:50.665259+00:00</updated>
+<id>nextnovels:autores:Milito Amasaki</id>
+<title>Milito Amasaki</title>
+<updated>2026-10-25T03:42:53.772208+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-579.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>The Garden of the Hidden Pheasant Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-garden-of-the-hidden-pheasant-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-garden-of-the-hidden-pheasant-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/The-Garden-of-the-Hidden-Pheasant-Portada-1.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/09/The-Garden-of-the-Hidden-Pheasant-Portada-1.jpg"/>
-<author><name>Mina Sakurai</name></author>
+<title>Kimi no Wasurekata wo Oshiete Novela Ligera en Español</title>
+<id>https://nextnovels.com/kimi-no-wasurekata-wo-oshiete-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/kimi-no-wasurekata-wo-oshiete-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/04/Kimi-no-Wasurekata-wo-Oshiete-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/04/Kimi-no-Wasurekata-wo-Oshiete-Portada.jpg"/>
+<author><name>Milito Amasaki</name></author>
 <category term="Drama" label="Drama"/>
-<category term="Psicológico" label="Psicológico"/>
-<content type="text">¡Obra ganadora del Gran Premio del 19.º Premio Dengeki de Novela!
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<content type="text">Ya me estoy muriendo, y no me perdonas – ¡Una gran historia de madurez emocional!
 
-Ayu fue dejada de repente por un cambio de corazón de su novio. Chiharu y Mai se pelearon por un pequeño malentendido. Shouko no logra encontrar su lugar ni en casa ni en la escuela. El lugar donde estas chicas de preparatoria derraman lágrimas y se quedan sin saber qué hacer es un macizo de flores abandonado en un rincón de la escuela. Y hay otra persona que también visita este macizo: Taji, un maestro en su sexto año de docencia. Él también pasa sus días estancado, pues su relación con su novia desde la época universitaria ha llegado a una encrucijada. Sin ser un maestro apasionado, pero sin poder volverse del todo indiferente, Taji comparte con ellas el secreto de sus preocupaciones mientras cultivan espárragos en aquel macizo.
+«Me quedaban seis meses de vida…, e iba a morir así.»
 
-Esta es la historia de personas que, aun tropezando, intentan seguir adelante y mirar hacia el futuro.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1bmuS3RCBGQZYo1MYEunMkQ" type="text/html" title="Next Novels (MTL)"/>
+Después de dejar la universidad y convertirse en un NEET, Matsumoto Osamu siente que su vida no vale la pena vivirla, pero su viejo y malvado amigo Tomi-san lo invita a visitar su antigua escuela secundaria. Allí conoce a su amiga de la infancia, Kiriyama Sayano, que tiene una historia con él y se ha convertido en una celebridad…. Este encuentro una vez más impulsa el destino de Osamu.
+
+«La heroína está sola por su genio, y el héroe sufre por su talento ordinario. Una atracción de sus diferencias y su tortuosa adolescencia.»
+
+«La única promesa que quedó, corrió y corrió.». Esta es una historia de madurez para adultos, para aquellos que han renunciado a algo, para aquellos que no pudieron aprovechar la oportunidad.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1NUhNpQifDy3JMs3ljvdNVg" type="text/html" title="Btoom Translations"/>
 </entry>
 </feed>

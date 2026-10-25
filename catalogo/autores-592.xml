@@ -1,53 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Misora Riku</id>
-<title>Misora Riku</title>
-<updated>2026-10-21T00:13:50.667467+00:00</updated>
+<id>nextnovels:autores:Misaki Saginomiya</id>
+<title>Misaki Saginomiya</title>
+<updated>2026-10-25T03:42:53.774810+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-592.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Rakudai Kishi no Cavalry Novela Ligera en Español</title>
-<id>https://nextnovels.com/rakudai-kishi-no-cavalry-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/rakudai-kishi-no-cavalry-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/05/Rakudai-Kishi-no-Cavalry-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/05/Rakudai-Kishi-no-Cavalry-Portada.jpg"/>
-<author><name>Misora Riku</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Artes marciales" label="Artes marciales"/>
+<title>Ashita, Hadashi de Koi Novela Ligera en Español</title>
+<id>https://nextnovels.com/ashita-hadashi-de-koi-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/ashita-hadashi-de-koi-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/11/cover.jpeg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/11/cover.jpeg"/>
+<author><name>Misaki Saginomiya</name></author>
 <category term="Drama" label="Drama"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Fantasía" label="Fantasía"/>
+<category term="Misterio" label="Misterio"/>
 <category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Supernatural" label="Supernatural"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">En una época y lugar donde el alma de uno puede materializarse en un arma, hay magos modernos llamados caballeros mágicos. Aunque Kurogane Ikki es un estudiante en una institución que entrena caballeros mágicos, él no tiene un talento particular para la magia y es etiquetado como el “Caballero Fracasado” o “El Peor”. Obteniendo notas muy por debajo del promedio en sus calificaciones,fue obligado a repetir un año. Pero on la llegada de una nueva directora a institución, fue creada una nueva regla: los caballeros con habilidades compatibles, como decidió el consejo, deben compartir habitaciones y asistir juntos a prácticas y entrenamientos a lo largo de sus años en la escuela para llevar sus habilidades hasta el máximo. Es una regla para implementar el veredicto absoluto de habilidad.
+<content type="text">"Quédate conmigo esta vez".
 
-La compañera de cuarto de Ikki, Stella Vermillion, resulta ser una princesa de un país extranjero. Stella es una caballero Rank A, la clase de genio en magia que sólo aparece una vez en una década. Cuando Ikki la encontró mientras ella se estaba cambiando la ropa, hubo un grn malentendido, lo que eventualmente terminó en un duelo entre los dos. El castigo para el perdedor es sometimiento eterno al ganador.
+El día de la graduación, estaba reflexionando sobre mis aburridos años en la escuela secundaria. Mis calificaciones eran malas, había renunciado a mi sueño, y mi novia y yo terminamos. Ella era una artista nacional, nos encontrábamos en mundos completamente diferentes.
 
-Obligados a vivir en el mismo cuarto y practicar magia juntos a lo largo de sus años escolares, ¿cómo se desarrollará la relación de Stella e Ikki?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1y8KRgQErqr-NNWfYKARSYg" type="text/html" title="Shinsengumi Translations"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1kE0IV28zFh-gm2nXHET2TQ" type="text/html" title="Nahucirujano, HiroLsn"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1lGSlCDzXrlcBv6u0e3EPuA" type="text/html" title="World Project"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/18FEdv0FGr2YWFaP82TID2A" type="text/html" title="Versión Einherjar Project"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1sUGt6CONWuaAuntDaUK6sQ" type="text/html" title="Anime y Traducciones"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1KsWAzCLaXRqUcyQ4HjIf_w" type="text/html" title="Dark Guild Fansub"/>
+Pero ese día—
+
+Nito Chika, mi ex novia, había desaparecido.
+
+Atónito... Me encontré viajando en el tiempo al pasado al día de la ceremonia de entrada.
+
+¿Puedo salvar a Nito en este mundo?
+
+… No, eso no es lo suficientemente bueno.
+
+Espero que esta vez podamos estar en igualdad de condiciones, para ser capaz de estar a su lado.
+
+¡Haré todo lo posible para reescribir esos tres años!
+
+Una historia de amor juvenil rehecha a partir de la graduación (el final).</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1c5bzxQ5gnxIxrSWQ40R2wQ" type="text/html" title="Tamashi Project"/>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/18MKnuc-L2LoL_PPDeOjPoA" type="text/html" title="Kai Sakura VENTO"/>
 </entry>
 <entry>
-<title>Ultimate Antihero Novela Ligera en Español</title>
-<id>https://nextnovels.com/ultimate-antihero-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/ultimate-antihero-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/09/01-5.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/09/01-5.jpg"/>
-<author><name>Misora Riku</name></author>
-<category term="Acción" label="Acción"/>
+<title>Sankaku no Kyori wa Kagirinai Zero - Bizarre Love Triangle Novela Ligera en Español</title>
+<id>https://nextnovels.com/sankaku-no-kyori-wa-kagirinai-zero-bizarre-love-triangle-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/sankaku-no-kyori-wa-kagirinai-zero-bizarre-love-triangle-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/10/01-7.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/10/01-7.jpg"/>
+<author><name>Misaki Saginomiya</name></author>
 <category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Shounen" label="Shounen"/>
-<category term="Tragedia" label="Tragedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Supernatural" label="Supernatural"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Kamishiro Homura es un héroe que una vez exterminó por sí mismo al otro invasor del mundo que destruyó a los militares de todo el mundo. Sin embargo, su fuerza extrema hizo que la gente influyente lo condenara al ostracismo y lo desterrara de la sociedad con la falsa acusación de [Traidor]. Unos años después, por una razón no especificada, Homura entró en la academia de magos y se ocupó de las chicas que fueron ridiculizadas como el [pelotón de carga]...? Esto es el levantamiento del telón de un cuento de fantasía del joven inigualable e invencible donde ni un solo aliado o enemigo puede seguirle el ritmo, ¡el joven que tarde o temprano será ensalzado como el mesías por toda la raza humana!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/18NfFk1bmdB2e7LR6g0uRlA" type="text/html" title="Einjerhar Project"/>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1vCnzJ6eUW9V9RrsUFD4GFg" type="text/html" title="Akat Novels"/>
+<content type="text">Para encajar en la escuela, Yano Shiki adopta varias personalidades para complacer a las personas con las que interactúa. Un día, mientras está en su escritorio, su compañera de clase Minase Akiha, una hermosa estudiante nueva transferida, comenta sobre el libro que está leyendo. Este libro en particular no se adapta a su personalidad actual, por lo que comienza a inventar excusas para ocultar sus verdaderos gustos, cuando Akiha de repente sale corriendo de la habitación.
+
+Al día siguiente, Yano observa a Akiha actuando notablemente diferente. Después de que él la confronta, ella revela que sufre de un trastorno de doble personalidad, un caso similar, pero no idéntico, al suyo. Se declaran amigos y deciden apoyarse mutuamente hasta que llegue el día en que puedan revelarse a sí mismos.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1tqJKtMGnZdaziBRRytst3A" type="text/html" title="Yotsuni Scanlation"/>
 </entry>
 </feed>

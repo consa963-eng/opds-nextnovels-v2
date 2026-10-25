@@ -1,33 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Y.A</id>
-<title>Y.A</title>
-<updated>2026-10-21T00:13:50.745673+00:00</updated>
+<id>nextnovels:autores:Watari Wataru &amp; Sagara Sou</id>
+<title>Watari Wataru &amp; Sagara Sou</title>
+<updated>2026-10-25T03:42:53.875789+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1044.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Hachinan tte Sore wa Nai Deshou! Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-hachinan-tte-sore-wa-nai-deshou-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-hachinan-tte-sore-wa-nai-deshou-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/04/Hachinan-tte-Sore-wa-Nai-Deshou-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/04/Hachinan-tte-Sore-wa-Nai-Deshou-Portada.jpg"/>
-<author><name>Y.A</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
+<title>Kuzu to Kinka no Qualidea Novela Ligera en Español</title>
+<id>https://nextnovels.com/kuzu-to-kinka-no-qualidea-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/kuzu-to-kinka-no-qualidea-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/06/Kuzu-to-Kinka-no-Qualidea-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/06/Kuzu-to-Kinka-no-Qualidea-Portada.jpg"/>
+<author><name>Watari Wataru &amp; Sagara Sou</name></author>
 <category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Maduro" label="Maduro"/>
+<category term="Drama" label="Drama"/>
+<category term="Psicológico" label="Psicológico"/>
 <category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<content type="text">Ichinomiya Shingo, un joven de 25 años, soltero, trabajador de empresa, mientras pensaba en el día de trabajo ocupado de mañana, fue a dormir. Sin embargo, en el momento en que se despertó, era una habitación desconocida para él.
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Contada a través de dos perspectivas, esta historia trata sobre un mundo a punto de acabar y un momento deslumbrante de la juventud
 
-Luego se enteró de que estaba dentro de un niño de 6 años y había tomado su mente.
+— Kusaoka Haruma, un estudiante de una escuela preparatoria de gama baja, y su angelical kouhai Chigusa Yu. Dos personas que no deberían estar en el mismo nivel del año terminan reuniéndose como resultado de un fatídico incidente. Un clima anormal, fenómenos anormales, acciones anormales. Una vida ordinaria que se retuerce poco a poco, y una extraña leyenda urbana .
 
-Además, aprendió mucho de los recuerdos de dicho chico: nació como el hijo menor (8° hijo) de una pobre familia noble que vivía en una zona rural. Sin habilidad administrativa, no podía hacer nada para manejar la vasta tierra que tenía su familia.
+Según con la “Encrucijada Aleatoria” — a la medianoche, si se llegas al final de un camino en forma de T y eliges el camino equivocado, puede que jamas vuelvas.
 
-Afortunadamente, fue bendecido con un talento muy raro, talento de magia. Desafortunadamente, mientras su talento podía traer prosperidad a su familia, en su situación sólo trajo desastre.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1jGicB8ZTDRuAhvI6Itkd0w" type="text/html" title="Vastolord , MiraiK, Pablo 3681"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1qMZTYi9Y5hUrbVkEy8gXgA" type="text/html" title="Ferindrad"/>
+A medida que buscan a una chica cuyo paradero se desconoce como resultado de estos eventos, ¿¡Podrán Haruma y Yu superar las expectativas mas salvajes… ?!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/18aZeCpF4589ggcBwNGjI6A" type="text/html" title="Kikuslirus"/>
 </entry>
 </feed>

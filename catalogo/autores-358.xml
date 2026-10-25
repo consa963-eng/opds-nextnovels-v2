@@ -1,55 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kamisato Yamato</id>
-<title>Kamisato Yamato</title>
-<updated>2026-10-21T00:13:50.629511+00:00</updated>
+<id>nextnovels:autores:Kametsu Tomobashi</id>
+<title>Kametsu Tomobashi</title>
+<updated>2026-10-25T03:42:53.644390+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-358.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Ane o sagasunara ane no naka toshiue onēsan × 4 to no amaama apāto seikatsu hajimemasu Novela Ligera en Español</title>
-<id>https://nextnovels.com/ane-o-sagasunara-ane-no-naka-toshiue-onesan-4-to-no-amaama-apato-seikatsu-hajimemasu-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/ane-o-sagasunara-ane-no-naka-toshiue-onesan-4-to-no-amaama-apato-seikatsu-hajimemasu-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/05/01-15.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/05/01-15.jpg"/>
-<author><name>Kamisato Yamato</name></author>
-<category term="Comedia" label="Comedia"/>
+<title>A Story About being Entangled in a Messy Relationship with an Older, Attractive Woman who Smokes Heavily and Appears Unhealthy Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-a-story-about-being-entangled-in-a-messy-relationship-with-an-older-attractive-woman-who-smokes-heavily-and-appears-unhealthy-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-a-story-about-being-entangled-in-a-messy-relationship-with-an-older-attractive-woman-who-smokes-heavily-and-appears-unhealthy-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/08/A-Story-About-being-Entangled-in-a-Messy-Relationship-with-an-Older-Attractive-Woman-who-Smokes-Heavily-and-Appears-Unhealthy-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/08/A-Story-About-being-Entangled-in-a-Messy-Relationship-with-an-Older-Attractive-Woman-who-Smokes-Heavily-and-Appears-Unhealthy-Portada.jpg"/>
+<author><name>Kametsu Tomobashi</name></author>
 <category term="Drama" label="Drama"/>
-<category term="Harem" label="Harem"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<content type="text">¿¡Alguien en la casa-apartamento es mi primer amor, una Onee-san traviesa!?
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Un estudiante de preparatoria llamado Yuito Enoki, que no tiene un lugar al que pertenecer, admiraba a una mujer. Se trataba de Rui Hazuki, una universitaria que siempre compraba una sola caja de cigarrillos en la tienda de conveniencia donde él trabajaba a medio tiempo.
 
-Yo, Futou Kaname, aprovecho la oportunidad de vivir solo en una casa-apartamento llamado “Karin” antes de ir a la escuela secundaria.
+Un día, al descubrir que ella vivía en el departamento de al lado, los momentos triviales que compartían en el balcón empezaron a acercarlos poco a poco.
 
-Karin es una casa-apartamento celestial con cuatro Onee-san’s que viven allí y para mí, ¿¡es como el cielo——!?
+Saltarse la escuela para ir a una cafetería, pasar una noche con ella cuando estaba borr4ch4… Aunque se ve arrastrado por la actitud libre y desenfadada de Rui, Yuito comienza a depender cada vez más de ella, hasta acabar completamente sumido en esa relación.
 
-—Voy a cuidar de ti todos los días, ¿de acuerdo?
-
-La limpia y ordenada propietaria amantes de los juegos sociales – Suzune Kuribayashi
-
-—Tal vez quieras asumir la culpa por hacer que me gustes…
-
-La Onee-san inteligente YouTuber – Saeki Ichika
-
-—Deberías disfrutar de las tetas que tienes delante.
-
-La Onee-san novelista Imo Jersey – Inshiroi Inaho
-
-—¿Podemos jugar el juego juntos?
-
-La Onee-san gamer FPS sensei – Kanaha Ushirogawa
-
-Cada día es como un sueño, ya que soy mimado por estas Onee-san’s.
-
-Sin embargo, en el primer día de vida en Karin, una carta llega a mi buzón.
-
-—”Ha pasado mucho tiempo desde que creciste.”
-
-Esta es una carta de mi primer amor, la “Onee-chan” de la que me enamore——
-
-¿¡Podría ser – que una de las Onee-san’s en la casa-apartamento Karin sea la “Onee-chan”!?
-
-Mientras es mimado por las Onee-san’s, busca la “Onee-chan”.
-
-¡Así comienza una dulce comedia romántica sobre unas Onee-san’s!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com#Volumenes" type="text/html" title="Btoom Translations"/>
+¿A dónde lo llevará esta vida turbul3nt4 junto a una bella mujer mayor que fuma?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/11mmQnpl9CnVQfrfhb8pRSQ" type="text/html" title="Tamashi Project"/>
 </entry>
 </feed>

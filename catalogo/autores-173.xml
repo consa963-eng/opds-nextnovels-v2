@@ -1,65 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Fuyuno Yozora</id>
-<title>Fuyuno Yozora</title>
-<updated>2026-10-21T00:13:50.598998+00:00</updated>
+<id>nextnovels:autores:Futaba</id>
+<title>Futaba</title>
+<updated>2026-10-25T03:42:53.571032+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-173.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>100 Nen Goshi No Kimi Ni Koi Wo Utau Novela Ligera en Español</title>
-<id>https://nextnovels.com/100-nen-goshi-no-kimi-ni-koi-wo-utau-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/100-nen-goshi-no-kimi-ni-koi-wo-utau-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/01/100-Nen-Goshi-No-Kimi-Ni-Koi-Wo-Utau-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/01/100-Nen-Goshi-No-Kimi-Ni-Koi-Wo-Utau-Portada.jpg"/>
-<author><name>Fuyuno Yozora</name></author>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Romance" label="Romance"/>
-<content type="text">Aunque no podamos volvernos a ver, aún quiero proteger este milagroso encuentro contigo”.
-
-En ese verano, yo fui la única persona en el mundo capaz de salvarte.
-
-Yaichi, que abrazaba sus sueños pero se enfrentaba a la oposición de sus padres, decidió huir de casa durante las vacaciones de verano. Después de refugiarse con su primo en el pueblo, conoció a una hermosa joven que había perdido la memoria, y su nombre era Musubi.
-
-Yaichi quedó profundamente atraído por la encantadora singularidad de Musubi, pero se sorprendió al descubrir que sus recuerdos recuperados revelaban que ella había viajado desde hace cien años.
-
-Musubi, con una misión a cuestas, había viajado al mundo futuro. Sin embargo, Yaichi, a pesar de querer ayudar a Musubi, también temía que ella tuviera que regresar al pasado.
-
-"Quiero vivir contigo en el presente".
-
-A medida que su atracción mutua crece, se encuentran oscilando entre el pasado y la realidad, enfrentándose a un destino cruel. Ante su destino cruel, Yaichi y Musubi sellan un pacto―
-
-"… Desde el momento en que decidiste ir hacia el futuro, habíamos estado conectados entre sí. Aunque todo parece ser una coincidencia, estuvimos destinados a que nos encontráramos en este momento y lugar, sin importar el presente, el futuro, o cuando y donde sea".</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1beuA7BdvqOy_hfAX751Blg" type="text/html" title="Kai Sakura VENTO"/>
-</entry>
-<entry>
-<title>That Summer, Fell in Love at the End of a Dream Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-that-summer-fell-in-love-at-the-end-of-a-dream-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-that-summer-fell-in-love-at-the-end-of-a-dream-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/That-Summer-Fell-in-Love-at-the-End-of-a-Dream-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/02/That-Summer-Fell-in-Love-at-the-End-of-a-Dream-Portada.jpg"/>
-<author><name>Fuyuno Yozora</name></author>
+<title>Mamatomo ke Sodateru Rabukome Novela Ligera en Español</title>
+<id>https://nextnovels.com/mamatomo-ke-sodateru-rabukome-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/mamatomo-ke-sodateru-rabukome-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/01/01-3.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/01/01-3.jpg"/>
+<author><name>Futaba</name></author>
+<category term="Comedia" label="Comedia"/>
 <category term="Drama" label="Drama"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Tragedia" label="Tragedia"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Si la vida pudiera reiniciarse, estaría dispuesto a pagar cualquier precio para volver a enamorarme de ti…
+<content type="text">Kyota es un chico de preparatoria que adora a su hermana de 3 años. Sus padres trabajan, así que él se encarga de las tareas domésticas y del cuidado de su hermana en casa.
 
-— Realmente me gustas mucho…
+Sumi Akiyama es una chica hermosa e inteligente, pero solitaria, cuya presencia intimidante mantiene a todos alejados.
 
-Esta es la última voz en este mundo, la última frase.
+Cuando Kyota acudió a la ceremonia de ingreso de su hermana en el kinder, encontró a Sumi con sus mejillas sonrojadas, sacando fotos como si fuera una fotógrafa profesional.
 
-Aunque con lágrimas en el rostro, seguía sonriendo.
+"¡Dios mío, qué adorable es...!"
 
-Después de dejar estas palabras, el mundo se terminó.
+Se hicieron amigos y poco a poco fueron estrechando sus lazos al saber que ambos cuidaban de sus hermanos menores. Cocinan juntos, se ayudan mutuamente a recoger a los niños del kinder y van de paseo en vacaciones.
 
-Este largo sueño finalmente llegó a su fin…
+Sí, su relación es realmente la de amigos “mamá”.
 
-Apenas ingresé a la escuela, me enamoré a primera vista del senpai, quien tenía una increíble habilidad con el piano. Él, tan amable, se ofreció a enseñarme simplemente porque mencioné que me gustaba el piano, a pesar de ser la primera vez que nos veíamos. Cuando reuní el valor para participar con él en un concierto y le confesé mis sentimientos en un hermoso campo de girasoles, él finalmente correspondió a mi amor.
-
-Con el corazón lleno de esperanzas para un futuro feliz, todo se desmoronó en un instante por un accidente de coche. Debido a las heridas, quedé parapléjico, y el senpai perdió sus manos, las cuales solían tocar música tan hermosa. Sin embargo, en ese momento oscuro, un mensaje apareció repentinamente en mi móvil: "Si pudieras cambiar las decisiones del pasado, ¿qué harías? Este es el sueño que deseas, pero también el mundo falso que tanto anhelas. A pesar de esto, ¿te sumergirías en este sueño?"
-
-En ese instante, obtuve la oportunidad de cambiar nuestro destino y volver a enamorarme de él. Pero en este sueño con límite de tiempo, él ha olvidado completamente quién soy yo y nuestro amor...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/12dxxyqSS-tfHqOeNc9sDtQ" type="text/html" title="GambaTrans"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1OZ-FkCoUx6-rJ-4qw4ZEGA" type="text/html" title="Kai Sakura VENTO"/>
+¡Una comedia romántica sobre la crianza de los niños!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1ru-515x1Ch5WHDnc3mTIww" type="text/html" title="Tamashi's Project"/>
 </entry>
 </feed>

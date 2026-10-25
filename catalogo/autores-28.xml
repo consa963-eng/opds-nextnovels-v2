@@ -1,35 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Akashiro Aoi</id>
-<title>Akashiro Aoi</title>
-<updated>2026-10-21T00:13:50.574748+00:00</updated>
+<id>nextnovels:autores:Akashi Rokurou</id>
+<title>Akashi Rokurou</title>
+<updated>2026-10-25T03:42:53.539157+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-28.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Kusunoki Mebuki wa Yuusha de Aru Novela Ligera en Español</title>
-<id>https://nextnovels.com/kusunoki-mebuki-wa-yuusha-de-aru-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/kusunoki-mebuki-wa-yuusha-de-aru-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/11/Kusunoki-Mebuki-wa-Yuusha-de-Aru-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/11/Kusunoki-Mebuki-wa-Yuusha-de-Aru-Portada.jpg"/>
-<author><name>Akashiro Aoi</name></author>
+<title>Jimi na Kensei wa Soredemo Saikyou desu Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-jimi-na-kensei-wa-soredemo-saikyou-desu-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-jimi-na-kensei-wa-soredemo-saikyou-desu-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-84.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-84.jpg"/>
+<author><name>Akashi Rokurou</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Drama" label="Drama"/>
+<category term="Artes marciales" label="Artes marciales"/>
 <category term="Fantasía" label="Fantasía"/>
-<content type="text">Kusunoki Mebuki en el pasado compitió por la posición de Heroína, pero perdió ante Miyoshi Karin. Esto dejo un profundo resentimiento en ella. Ahora en el año 300 de la Era Divina, ella fue convocada en la Torre de Oro de Kagawa, donde se le asignó un nuevo deber como Centinela, un soldado cuyo trabajo es explorar el mundo fuera de la barrera. Ahora, junto con otras tres Centinelas y una Miko, Mebuki luchará con el fin de proteger a su escuadrón, a la generación actual de Heroínas y al resto de la humanidad de las criaturas que se esconden detrás del muro.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/15qWuZN9IR1IISHWbINckGA" type="text/html" title="Yuyuyu Project"/>
-</entry>
-<entry>
-<title>Nogi Wakaba wa Yuusha de Aru Novela Ligera en Español</title>
-<id>https://nextnovels.com/nogi-wakaba-wa-yuusha-de-aru-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/nogi-wakaba-wa-yuusha-de-aru-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/11/Nogi-Wakaba-wa-Yuusha-de-Aru-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/11/Nogi-Wakaba-wa-Yuusha-de-Aru-Portada.jpg"/>
-<author><name>Akashiro Aoi</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">La historia tiene lugar 300 años en el pasado, en 2018, durante los ultimos días de la Era Cristiana. Está sigue al primer equipo de heroínas: Nogi Wakaba, Uesato Hinata, Takashima Yuna, Koori Chikage, Doi Tamako y Iyojima Anzu en su lucha contra los Vertex.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1KUjenHCNHmEAiHKkRAeVxQ" type="text/html" title="Yuyuyu Project"/>
+<category term="Harem" label="Harem"/>
+<content type="text">Un estudiante japonés llamado Shirokuro Sansui murió por un error de Dios y fue teletransportado a un mundo diferente.
+
+Afirmó que deseaba convertirse en "el más fuerte", por lo que recibió de Dios una carta de recomendación para un sabio y recibió 500 años de entrenamiento.
+
+Cuando llegó a una etapa en la que podía ser llamado "el más fuerte" en el estándar de la gente común, recogió a un bebé cerca de sus terrenos de entrenamiento, y allí, finalmente comienza su aventura isekai.
+
+Su entrenamiento es sencillo, sus técnicas son sencillas, es "el más fuerte" pero parece sencillo.
+
+Con una espada de madera ordinaria en la mano, la lucha del Santo de la Espada de aspecto sencillo acaba de comenzar.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1E_Fod_2hce6vzpw14qzF0w" type="text/html" title="World Project"/>
 </entry>
 </feed>

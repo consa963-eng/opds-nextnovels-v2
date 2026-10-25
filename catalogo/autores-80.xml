@@ -1,33 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Aoki Fuyu</id>
-<title>Aoki Fuyu</title>
-<updated>2026-10-21T00:13:50.583423+00:00</updated>
+<id>nextnovels:autores:Aoikou</id>
+<title>Aoikou</title>
+<updated>2026-10-25T03:42:53.550462+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-80.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Hon Kirai no Ore ga, Toshoshitsu no Majo ni Koi wo Shita Novela Ligera en Español</title>
-<id>https://nextnovels.com/hon-kirai-no-ore-ga-toshoshitsu-no-majo-ni-koi-wo-shita-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/hon-kirai-no-ore-ga-toshoshitsu-no-majo-ni-koi-wo-shita-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/12/Hon-Kirai-no-Ore-ga-Toshoshitsu-no-Majo-ni-Koi-wo-Shita-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/12/Hon-Kirai-no-Ore-ga-Toshoshitsu-no-Majo-ni-Koi-wo-Shita-Portada.jpg"/>
-<author><name>Aoki Fuyu</name></author>
+<title>The Hero-Killing Bride Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-hero-killing-bride-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-hero-killing-bride-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/12/The-Hero-Killing-Bride-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/12/The-Hero-Killing-Bride-Portada.jpg"/>
+<author><name>Aoikou</name></author>
+<category term="Acción" label="Acción"/>
 <category term="Drama" label="Drama"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Fantasía" label="Fantasía"/>
 <category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Dos personas totalmente opuestas salvan la distancia entre sus almas a través de los "libros".
+<category term="Yuri" label="Yuri"/>
+<content type="text">A la luz del día, la hermana Alicia Snowell es una fiel y devota novia de los dioses, dedicada a servir a la Santa Iglesia y a sus seguidores. En las sombras, es una de las principales inquisidoras de la Iglesia, encargada de cazar y eliminar a los herejes por cualquier medio necesario
 
-Souta Shimizu se reconoce públicamente como un extrovertido tras su debut en el instituto.
-
-Sus temas con sus amigos los aprende sobre todo en su teléfono. El contenido es interesante y emocionante. Se puede disfrutar de muchas cosas sin mover un brazo.
-
-En cambio, leer es agotador y lleva mucho tiempo en el mundo actual, sobrecargado de información.
-
-Su rentabilidad como entretenimiento es increíblemente baja.
-
-Souta no entiende la mentalidad de esos ratones de biblioteca.
-
-Hasta que la conoció durante el otoño de su primer año en el instituto...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1dwLu65Kff5MV1Om0QvpvYg" type="text/html" title="Ilusion Shuri Novels"/>
+La última misión de Alicia: asesinar al héroe Elcyon, exterminador del poderoso Señor Demonio, cuya creciente fama amenaza con eclipsar el poder político de la Iglesia. Para matar al héroe, divinamente protegido y supuestamente inmortal, Alicia primero necesita ganarse el corazón de Elcyon. Solo hay un problema: ¡Elcyon resulta ser una chica llamada Cion! Alicia no sabe qué hacer, pero mientras intenta seducir a una chica, se avecinan más problemas. Con los restos del ejército demoníaco aún sueltos, Alicia y Cion se enfrentan a una mortal batalla sobrenatural tras otra. ¿Adónde las llevarán los caminos entrelazados de las dos chicas?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1XguE28ZQWXwU7HemN55nSA" type="text/html" title="Onigiri Novels"/>
 </entry>
 </feed>

@@ -1,25 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kazuno Fehu</id>
-<title>Kazuno Fehu</title>
-<updated>2026-10-21T00:13:50.637536+00:00</updated>
+<id>nextnovels:autores:Kazuki Miya</id>
+<title>Kazuki Miya</title>
+<updated>2026-10-25T03:42:53.654978+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-406.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Isekai Apocalypse Mynoghra Novela Ligera en Español</title>
-<id>https://nextnovels.com/isekai-apocalypse-mynoghra-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/isekai-apocalypse-mynoghra-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/05/Isekai-Apocalypse-Mynoghra-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/05/Isekai-Apocalypse-Mynoghra-Portada.jpg"/>
-<author><name>Kazuno Fehu</name></author>
-<category term="Acción" label="Acción"/>
+<title>Ascendance of a Bookworm Novela Web en Español</title>
+<id>https://nextnovels.com/descargar-ascendance-of-a-bookworm-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-ascendance-of-a-bookworm-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/Ascendance-of-a-Bookworm-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/05/Ascendance-of-a-Bookworm-Portada.jpg"/>
+<author><name>Kazuki Miya</name></author>
 <category term="Aventura" label="Aventura"/>
 <category term="Comedia" label="Comedia"/>
 <category term="Drama" label="Drama"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Shounen" label="Shounen"/>
-<content type="text">Takuto Ira sucumbió a una enfermedad a una edad temprana y acabó reencarnándose en un mundo que se parece al juego de estrategia por turnos de fantasía Eternal Nations. No sólo se reencarnó en su juego favorito, sino en el dios que comanda la malvada civilización Mynoghra. Con la hermosa unidad de héroe de Mynoghra, la Bruja del Fango Atou, a su lado, ¡ni siquiera los rasgos legendarios de la raza se interpondrán en el camino para reiniciar su civilización!
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Shoujo" label="Shoujo"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Una estudiante universitaria despierta en un mundo donde casi nadie sabe leer y los libros son un lujo raro. Reencarnada como la hija de un soldado, su pasión por la lectura se enfrenta a una cruda realidad: no hay libros. Pero si no existen… ¡los hará ella misma! Decidida a vivir rodeada de libros, su sueño es convertirse en bibliotecaria. Así comienza su aventura, creando libros desde cero en un mundo que los desconoce.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-ascendance-of-a-bookworm-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+</entry>
+<entry>
+<title>Ascendance of a Bookworm: Hannelore’s Fifth Year at the Royal Academy Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-ascendance-of-a-bookworm-hannelores-fifth-year-at-the-royal-academy-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-ascendance-of-a-bookworm-hannelores-fifth-year-at-the-royal-academy-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/08/Honzuki-no-Gekokujou-Hannelores-Fifth-Year-at-the-Royal-Academy-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/08/Honzuki-no-Gekokujou-Hannelores-Fifth-Year-at-the-Royal-Academy-Portada.jpg"/>
+<author><name>Kazuki Miya</name></author>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Shoujo" label="Shoujo"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">El spin off de Honzuki no gekokujou, continuando la historia principal con el quinto año de la academia real desde el punto de vista de Hannelore. Ella se ve en una ecrusijada al recibir la orden de su padre, Aub Dunkelfelger: por su fama en la guerra contra Lanzenave y su cercania a la encarnación de la diosa, debe comprometerse al terminar el año. Para ello Aub ha designado a dos candidatos a prometidos del séquito de su hermano, Kentrips y Lazantark, el primero un erudito y el segundo un caballero aficionado al ditter ¡ambos enamorados de Hannelore en secreto!. Pero Hannelore quiere ante todo irse de Dunkelfelger y guarda sentimientos por Wilfried. Sin embargo, ¡todo cambiara por el deseo de Hannelore y la intervención divina!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1iRy3t1rOxuLrIh8aU7PK-Q" type="text/html" title="El Taller de Ordanel"/>
+</entry>
+<entry>
+<title>Ascendance of a Bookworm: Short Story Collection Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-ascendance-of-a-bookworm-short-story-collection-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-ascendance-of-a-bookworm-short-story-collection-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/08/Ascendance-of-a-Bookworm-Short-Story-Collection-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/08/Ascendance-of-a-Bookworm-Short-Story-Collection-Portada.jpg"/>
+<author><name>Kazuki Miya</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
+<content type="text">Han pasado seis años desde que Urano comenzó su nueva vida como Myne, y han sucedido muchas cosas. Pasó de ser una simple plebeya a una aprendiz de sacerdotisa, y luego se vio inmersa en el mundo de los nobles como Rozemyne, la hija adoptiva de un archiduque. «¡Pero no soy la única persona a la que le han pasado muchas cosas! ¡Se puede decir lo mismo de todos los demás! Aunque, eh... Supongo que eso se debe principalmente a mí».
 
-"Señor Takuto... ¿no quieres empezar de nuevo conmigo?"</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/10WJfCLhSIoLVPIuR5nQbXw" type="text/html" title="World Project"/>
+eL primer volumen de la nueva colección de relatos cortos de Bookworm está repleto de capítulos inéditos que abarcan las partes 1 a 4.
+
+Descubre la ciudad baja, el orfanato, el templo, la Academia Real y muchos otros lugares familiares con una nueva perspectiva en veintiún historias contadas desde una gran variedad de puntos de vista únicos.
+
+¿Qué piensan los que forman parte del círculo de Myne (o Rozemyne) sobre sus acciones y qué sucede en los lugares que ella no puede ver?
+
+Incluye notas entre bastidores de la autora Miya Kazuki y más manga de cuatro viñetas de You Shiina.
+
+NOTA: En el mismo link podrán encontrar las historias extras que fueron publicadas en Syotsetu (Se actualizará en caso de nuevos capítulos).</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1fjw9PTnhvt1l5qkdH6MGEA" type="text/html" title="El Taller de Ordanel"/>
 </entry>
 </feed>

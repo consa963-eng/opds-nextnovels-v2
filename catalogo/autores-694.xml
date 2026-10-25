@@ -1,40 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Nuko Nekomata</id>
-<title>Nuko Nekomata</title>
-<updated>2026-10-21T00:13:50.684476+00:00</updated>
+<id>nextnovels:autores:Northcarolina</id>
+<title>Northcarolina</title>
+<updated>2026-10-25T03:42:53.797697+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-694.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>My Love Comedy with the Unfallable Beautiful Girl Classmate Is Way Too Easy Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-my-love-comedy-with-the-unfallable-beautiful-girl-classmate-is-way-too-easy-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-my-love-comedy-with-the-unfallable-beautiful-girl-classmate-is-way-too-easy-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/My-Love-Comedy-with-the-Unfallable-Beautiful-Girl-Classmate-Is-Way-Too-Easy-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/06/My-Love-Comedy-with-the-Unfallable-Beautiful-Girl-Classmate-Is-Way-Too-Easy-Portada.jpg"/>
-<author><name>Nuko Nekomata</name></author>
+<title>Hametsu no Madou Ou to Golem no Banhi Novela Ligera en Español</title>
+<id>https://nextnovels.com/hametsu-no-madou-ou-to-golem-no-banhi-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/hametsu-no-madou-ou-to-golem-no-banhi-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/04/Hametsu-no-Madou-Ou-to-Golem-no-Banhi-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/04/Hametsu-no-Madou-Ou-to-Golem-no-Banhi-Portada.jpg"/>
+<author><name>Northcarolina</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
 <category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
 <category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Cuatro años y medio después de haber regresado a mi ciudad natal, descubrí una impactante verdad en la preparatoria a la que me transferí.
-
-Resulta que, por alguna razón, estaba en una relación a distancia con mi amiga de la infancia y compañera de clase, Nanami Kosaka, quien se había convertido en una hermosa chica.
-
-No tengo ni idea de cómo pasó eso ¿¡Qué demonios está ocurriendo, Nanami!?
-
-¿...Eh?
-
-¿Qué estabas harta de que se te declararan todos los días y, para mantener alejados a los chicos, inventaste que tenías una relación a distancia conmigo?
-
-¿Y que ahora me pides que finja ser tu novio?
-
-Bueno, no hay remedio. Fingiré ser tu novio mientras estemos en la escuela...
-
-Pero espera ¿¡Nuestros padres también creen que estamos saliendo a distancia!?
-
-Ya no hay vuelta atrás...
-
-¡Todos los rivales amorosos ya se han rendido y ambas familias están completamente encantadas con la relación!
-
-¡Comienza una divertidísima comedia romántica de amor fingido en la que el terreno ya está completamente preparado desde el principio!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1n5scV7uxa-cdcWIW-JJh7Q" type="text/html" title="Tamashi Project"/>
+<category term="Seinen" label="Seinen"/>
+<content type="text">Una nueva y emocionante serie de isekai sobre un joven atrapado en otro mundo con un poderoso compañero inhumano, ¡y no te pierdas la adaptación al manga, también de Seven Seas! No tiene nombre, y no tiene memoria. Todo lo que sabe es que fue convocado por un hechizo oscuro con un sacrificio espantoso. Ahora, él es el Rey Hechicero de la Destrucción, destinado a provocar el fin del mundo. Su única esperanza para desafiar ese destino está en su compañero, un hermoso golem elfo con un aterrador gusto por la violencia. Ella será su mayor protectora, ¡así como él debe convertirse en el de ella!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/114Dh7a3a7IZXLwhkfCLVGA" type="text/html" title="Traducciones Fajardo"/>
 </entry>
 </feed>

@@ -1,51 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Makoto Shinkai</id>
-<title>Makoto Shinkai</title>
-<updated>2026-10-21T00:13:50.656804+00:00</updated>
+<id>nextnovels:autores:Makoto Fukami</id>
+<title>Makoto Fukami</title>
+<updated>2026-10-25T03:42:53.761039+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-527.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>5 Centimeters per Second Novela Ligera en Español</title>
-<id>https://nextnovels.com/5-centimeters-per-second-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/5-centimeters-per-second-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/01/2.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/01/2.jpg"/>
-<author><name>Makoto Shinkai</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
+<title>Berserk: Honou Ryuu no Kishi Novela Ligera en Español</title>
+<id>https://nextnovels.com/berserk-honou-ryuu-no-kishi-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/berserk-honou-ryuu-no-kishi-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/01/01-12.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/01/01-12.jpg"/>
+<author><name>Makoto Fukami</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Adulto" label="Adulto"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Horror" label="Horror"/>
+<category term="Maduro" label="Maduro"/>
 <category term="Seinen" label="Seinen"/>
-<content type="text">"Cinco centímetros por segundo, es la velocidad a la que caen los pétalos de las flores de cerezos"
-
-En la escuela primaria, Takaki Tono y Akari Shinohara eran mejores amigos, pero luego de que se graduaran, cada uno tomó un rumbo diferente a pesar de que eran muy cercanos. Nada sucedió entre ellos, y el tiempo seguía avanzando.
-
-Cierto día, en medio de una intensa nevada, Takaki vio de nuevo a Akari.
-
-¿Podrán tener de nuevo su antigua amistad o que les deparará el destino?
-
-En esta novela podremos saber con mucho detalle lo que Takaki y Akari experimentan a través de esta historia.
-
-Mostrando el rumbo que cada uno tendrá en su vida...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1QzJHBFn1MCPQ3YvmjLY04A" type="text/html" title="Traducciones Roberth"/>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1U5PVSDb4QTyJVu8Wj2I_mA" type="text/html" title="Tradukchion 4 Da Win"/>
-</entry>
-<entry>
-<title>Your Name Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-your-name-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-your-name-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2021/12/your-name-01-2-e1641220401155.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2021/12/your-name-01-2-e1641220401155.jpg"/>
-<author><name>Makoto Shinkai</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Romance" label="Romance"/>
 <category term="Supernatural" label="Supernatural"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">La joven Mitsuha vive en un pequeño pueblecito entre las montañas. Sin muchas sorpresas ni demasiadas emociones, la adolescente tiene un par de amigos, además de a su hermana pequeña, su abuela y su padre, con el que tiene una relación algo distante. La única expectación un poco emocionante es el cometa Tiamat, que está pasando cerca de la Tierra y por unos días será visible a simple vista.
-
-Pero un día despierta y descubre con asombro que no reconoce su cuerpo, y piensa que se trata de un extraño sueño. Pero no es así: se encuentra dentro del cuerpo de un chico, concretamente de Taki, un joven estudiante de bachillerato de la gran ciudad de Tokio. A Taki le sucederá lo mismo, y es Mitsuha la que se intercambia con él. Metidos dentro de un cuerpo que les resulta tan extraño, poco a poco, los dos jóvenes empiezan a comunicarse y, torpemente, van superando los retos que se presentan en ambas vidas. De esta forma, el vínculo que tienen se convierte en algo más. Lo que no saben es que algo inesperado está a punto de ser revelado.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1xP_aXfNLVXRHO8N2K_M9eA" type="text/html" title="Mi Castillo de Arena"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1woozkA8orDOqoELcYoU8UQ" type="text/html" title="Hasu Translations"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/11rttUSP-mu-qjavPTsZrQg" type="text/html" title="Neko Traducciones"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">The Flame Dragon Knight nos cuenta el ascenso del guerrero Grunbeld, que empuña un martillo de guerra, desde sus humildes comienzos hasta convertirse en el apóstol todopoderoso que algún día se enfrentará a Guts en un combate mortal.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1B_GJ7uogeFo0z9boZ1U5Ew" type="text/html" title="Astral Novel Translations"/>
 </entry>
 </feed>

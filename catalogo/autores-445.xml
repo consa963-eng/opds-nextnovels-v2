@@ -1,21 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kiyoko Hoshi</id>
-<title>Kiyoko Hoshi</title>
-<updated>2026-10-21T00:13:50.643792+00:00</updated>
+<id>nextnovels:autores:Kisugi Naoki</id>
+<title>Kisugi Naoki</title>
+<updated>2026-10-25T03:42:53.663092+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-445.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Haikyuu!! Shousetsu-ban!! Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-haikyuu-shousetsu-ban-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-haikyuu-shousetsu-ban-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/11/Haikyuu-Shousetsu-ban-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/11/Haikyuu-Shousetsu-ban-Portada.jpg"/>
-<author><name>Kiyoko Hoshi</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Deportes" label="Deportes"/>
+<title>Sekai Saikyou no Fukushuu Shinkan Novela Ligera en Español</title>
+<id>https://nextnovels.com/sekai-saikyou-no-fukushuu-shinkan-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/sekai-saikyou-no-fukushuu-shinkan-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/11/Sekai-Saikyou-no-Fukushuu-Shinkan-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/11/Sekai-Saikyou-no-Fukushuu-Shinkan-Portada.jpg"/>
+<author><name>Kisugi Naoki</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
 <category term="Drama" label="Drama"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<content type="text">Hace aproximadamente un mes que Hinata entró en el instituto Karasuno, ¡y se desvela toda la historia del "Campo de entrenamiento del club de voleibol Karasuno" durante las vacaciones de la Semana Dorada!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1b9H2WlnLQMdh-NbnXyWKbw" type="text/html" title="Yanase"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">Un mundo donde continúa la batalla entre el rey demonio que controla el mundo y los héroes que se le oponen.
+
+Raze Adead, un joven sacerdote genio que sirve al gran templo, mientras vive con su hermana menor Liza, que es su única familia, sanó, salvó y bendijo a los héroes llamados los «Siete Héroes».
+
+Un día, se informó que los «siete héroes» habían derrotado al rey demonio.
+
+Finalmente, el mundo pacifico que todos deseaban estaba por llegar.
+
+Raze pensaba eso, pero el héroe Dean Strear que derrotó al rey demonio proclamó la «Purificación de razas» que consiste en eliminar todas las demás razas.
+
+La gente que repudiaba a las otras razas lo apoyaron y el mundo comenzó a cambiar.
+
+Y en medio de esa turbulencia, el destino de Raze cambiaría para siempre…..</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1ccmaneGjnnCB4dG4wrfB1A" type="text/html" title="GBtraducciones"/>
 </entry>
 </feed>

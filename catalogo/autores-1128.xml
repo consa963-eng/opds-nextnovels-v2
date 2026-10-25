@@ -1,46 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:△○□× (Miwashiba)</id>
-<title>△○□× (Miwashiba)</title>
-<updated>2026-10-21T00:13:50.759317+00:00</updated>
+<id>nextnovels:autores:Yūta</id>
+<title>Yūta</title>
+<updated>2026-10-25T03:42:53.894221+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1128.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Alice mare Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-alice-mare-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-alice-mare-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/11/Alice-mare-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/11/Alice-mare-Portada.jpg"/>
-<author><name>△○□× (Miwashiba)</name></author>
-<category term="Aventura" label="Aventura"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">Alice mare es un libro de △○□× (Miwashiba), una novelización de su juego Wolf RPG Editor del mismo título. Para los no iniciados, Alice mare trata de un grupo de niños que son acogidos al cuidado de un amable profesor, pero una noche acaban en un extraño Mundo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1ctCPhTcy-r-Kv9oKl8P0Cw" type="text/html" title="Kamely • カメリ"/>
-</entry>
-<entry>
-<title>LiEat Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-lieat-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-lieat-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/11/LiEat-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/11/LiEat-Portada.jpg"/>
-<author><name>△○□× (Miwashiba)</name></author>
-<category term="Aventura" label="Aventura"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Horror" label="Horror"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">¿Conocen los pájaros azules la verdadera naturaleza de la felicidad?
+<title>Kono Koi, Okuchi ni Aimasu ka? Novela Ligera en Español</title>
+<id>https://nextnovels.com/kono-koi-okuchi-ni-aimasu-ka-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/kono-koi-okuchi-ni-aimasu-ka-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/06/Kono-Koi-Okuchi-ni-Aimasu-ka-Portada.jpeg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/06/Kono-Koi-Okuchi-ni-Aimasu-ka-Portada.jpeg"/>
+<author><name>Yūta</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Todos, ni siquiera tratan de entenderme-
 
-Al, un estafador, y Efi, una dragona que materializa «mentiras» y se las come como alimento, llegan a Ciudad Añil para buscar un «pájaro azul» que haga realidad cualquier deseo a petición de un informante conocido.
+Yo, Kiminami Toui, conocido como el niño problemático número uno de la escuela, tengo un sueño para el futuro.
 
-Los dos alquilan una habitación en una gran mansión donde vive Misha, a la que los habitantes del pueblo quieren y llaman «Diva», y proceden a investigar al «pájaro azul».
+Por ese sueño, todo lo demás me importa un bledo.
 
-A medida que avanza la investigación, Al nota una atmósfera inquietante que cubre la ciudad. En la ciudad circula el rumor de que una persona supuestamente muerta camina por las calles. Los habitantes de Ciudad Añil sospechan unos de otros que son monstruos.
+Pero un día, todo cambia cuando mi padre me obliga a asistir a un matrimonio concertado.
 
-¿Qué está ocurriendo realmente en esta ciudad? ¿Y cuál es la verdadera identidad del «pájaro azul»?
+Su nombre es Shirahime Rira, la chica más guapa de la escuela y la mejor estudiante, además de hija del presidente de una empresa y de una activa modelo conocida como 'S-Hime'.
 
-También se incluyen las historias extra «La investigación de Ephina» y «Las memorias de cierto dragón».</content>
-<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1r16M2sjYD8FRooX0xMx_fw" type="text/html" title="Kamely • カメリ"/>
+Todo en ella es exactamente lo contrario a mí. Con una verdadera naturaleza muy distinta a su aspecto exterior, se interpone en el camino de mis sueños e incluso amenaza con besarme todos los días, encargándose ella misma de reformarme.
+
+Esto es malo. Tengo que hacer algo con ella rápidamente por el bien de mi futuro...
+
+Pero parece que incluso la aparentemente invencible Shirahime tiene circunstancias que la obligan a ser perfecta...</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1pbtekhrsm5zANvt41Dq_RA" type="text/html" title="Ilusion Shuri Novels"/>
 </entry>
 </feed>

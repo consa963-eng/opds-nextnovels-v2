@@ -1,50 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Shimizu Yuu</id>
-<title>Shimizu Yuu</title>
-<updated>2026-10-21T00:13:50.708675+00:00</updated>
+<id>nextnovels:autores:Shima Nagashi</id>
+<title>Shima Nagashi</title>
+<updated>2026-10-25T03:42:53.830602+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-843.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Seiken Gakuin no Maken Tsukai Novela Ligera en Español</title>
-<id>https://nextnovels.com/seiken-gakuin-no-maken-tsukai-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/seiken-gakuin-no-maken-tsukai-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/06/02-16.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/06/02-16.jpg"/>
-<author><name>Shimizu Yuu</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Artes marciales" label="Artes marciales"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
+<title>Love Unseen Beneath the Clear Night Sky Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-love-unseen-beneath-the-clear-night-sky-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-love-unseen-beneath-the-clear-night-sky-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/09/Toumei-na-Yoru-ni-Kakeru-Kimi-to-Me-ni-Mienai-Koi-wo-Shita-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/09/Toumei-na-Yoru-ni-Kakeru-Kimi-to-Me-ni-Mienai-Koi-wo-Shita-Portada.jpg"/>
+<author><name>Shima Nagashi</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Uno de los señores demonios más poderosos de la historia ha estado sellado durante mil años. Cuando finalmente despierta, se reencarna como… ¿un niño de 10 años? ¡Ahora bajo el cuidado de la chica que lo liberó, el Señor Demonio Leonis debe sortear los peligros de la Academia de la Espada Sagrada!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/10iQgtIRhlT9JZJpOUbt4RQ" type="text/html" title="Domen Translations"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1vu2M5XIBu_zuE2ZxCcihRg" type="text/html" title="Restia Novels"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1uliMcc0okSlB9HHA5Ti1VQ" type="text/html" title="World Project"/>
-</entry>
-<entry>
-<title>Seirei Tsukai no Blade Dance Novela Ligera en Español</title>
-<id>https://nextnovels.com/seirei-tsukai-no-blade-dance-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/seirei-tsukai-no-blade-dance-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/06/Seirei-Tsukai-no-Blade-Dance-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/06/Seirei-Tsukai-no-Blade-Dance-Portada.jpg"/>
-<author><name>Shimizu Yuu</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">En un mundo en el que existen los espíritus, solo las doncellas de corazón puro pueden formar un contrato con ellos, convirtiéndose así en elementalers. Aunque se pensaba que era imposible que un hombre se convirtiera en elementalista, de alguna forma Kazahaya Kamito consigue formar un pacto con un espíritu.
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">El reservado estudiante universitario Kakeru Sorano conoce en la fiesta de bienvenida a los nuevos ingresantes a la universidad a Koharu Fuyutsuki, una mujer muy hermosa, sonriente y que destaca entre todos.
 
-Siendo el único hombre elementalista del mundo, es enviado a la Academia Espiritual Areishia, una institución de élite a la que las más nobles familias envían a sus hijas para entrenar. Allí tendrá que encontrar más información sobre el pacto que tiene con su espíritu, pero la directora de la academia le dice que solo podrá conseguirla si participa en el torneo de elementalistas, el Blade Dance.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1kxba8FHn4nj59Ga3FZl5Rg" type="text/html" title="Twin Dragons Light Novels, Kikulirus Project, HiroLsn"/>
+Koharu es contraria al reservado de Kakeru.
+
+En la fiesta donde se conocieron él se percató de que ella no podía ver, aún así, Koharu iba todos los días a la universidad, estaba interesada en participar en los clubes y en hacer amigos.
+
+A diferencia de Kakeru, Koharu nunca se dio por vencida.
+
+Pero ella tenía un deseo, el cual era apreciar un espectáculo de fuegos artificiales.
+
+Sin darse cuenta Kakeru se enamoró de ella y ahora está dispuesto a recorrer con ella por esa "noche".</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Rn1IIizgJ9QuVwA_GQ1ocw" type="text/html" title="Tamashi's Project"/>
 </entry>
 </feed>

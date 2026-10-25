@@ -1,111 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Nekomata Nuko</id>
-<title>Nekomata Nuko</title>
-<updated>2026-10-21T00:13:50.681118+00:00</updated>
+<id>nextnovels:autores:Natsunomi</id>
+<title>Natsunomi</title>
+<updated>2026-10-25T03:42:53.792774+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-674.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>I Have A Rejuvenated Ex-wife In My Class Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-i-have-a-rejuvenated-ex-wife-in-my-class-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-i-have-a-rejuvenated-ex-wife-in-my-class-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/04/Ore-no-Class-ni-Wakagaetta-Moto-Yome-ga-Iru-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/04/Ore-no-Class-ni-Wakagaetta-Moto-Yome-ga-Iru-Portada.jpg"/>
-<author><name>Nekomata Nuko</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Kohei Kurose y Yuzuhana Koikawa fueron atropellados por un coche justo después de solicitar el divorcio y ambos retrocedieron en el tiempo el día de la ceremonia de ingreso en el instituto.
-
-Sabiendo que ambos habían regresado al pasado, dijeron: «¡No volveré a involucrarme contigo para vivir una vida feliz! ¡lo juro! Pero ambos comparten las mismas aficiones y son muy compatibles entre sí.
-
-Como resultado, cada vez que voy, acabo teniendo que pasar tiempo con ella. Al principio era reacio, pero con el tiempo me di cuenta de que pasar tiempo juntos es mucho más divertido que pasar tiempo a solas.
-
-Esta es una historia sobre un ex marido y una ex mujer que vuelven a su juventud y se sienten atraídos de nuevo el uno por el otro.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1X3nN8yf1yIy-xcaS2Hq4vg" type="text/html" title="Next Novels (MTL)"/>
-</entry>
-<entry>
-<title>I Have Zero Otaku Knowledge, But I Somehow Ended Up Enjoying Otaku Activities with A Gyaru Who Hates Men Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-i-have-zero-otaku-knowledge-but-i-somehow-ended-up-enjoying-otaku-activities-with-a-gyaru-who-hates-men-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-i-have-zero-otaku-knowledge-but-i-somehow-ended-up-enjoying-otaku-activities-with-a-gyaru-who-hates-men-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/04/I-Have-Zero-Otaku-Knowledge-But-I-Somehow-Ended-Up-Enjoying-Otaku-Activities-with-A-Gyaru-Who-Hates-Men-Portada.jpeg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/04/I-Have-Zero-Otaku-Knowledge-But-I-Somehow-Ended-Up-Enjoying-Otaku-Activities-with-A-Gyaru-Who-Hates-Men-Portada.jpeg"/>
-<author><name>Nekomata Nuko</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">De repente, me enamoré de mi compañera de clase Takase Narumi. Mi vida escolar ideal es hacerme muy amigo de ella y, junto con mi hermana gemela, Kotomi, que también es compañera de clase, que las dos hermanas podamos disfrutar juntas de la adolescencia.
-
-Sin embargo, el problema sería la existencia de la mejor amiga de Takase, Momoi Maho. Momoi, una famosa gyaru rubia de raza mixta, es conocida por su belleza y por evitar a los hombres. Su actitud hacia mí es muy fría, así que al menos me gustaría que se llevara bien con mi hermana gemela.
-
-Mi hermana me pidió que le hiciera un favor. Parece que tengo que asistir a una reunión fuera de línea para conocer a su «esposa del juego», haciéndome pasar por ella, ya que mi hermana está nerviosa por asistir. Pero, ¿qué? ¿La persona que estaba esperando es en realidad Momoi Maho?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1T4HrfpBgYZwWPQThSIeBqQ" type="text/html" title="Next Novels (MTL)"/>
-</entry>
-<entry>
-<title>Kiraware Maou ga Botsuraku Reijou to Koi ni Ochite Nani ga Warui! Novela Ligera en Español</title>
-<id>https://nextnovels.com/kiraware-maou-ga-botsuraku-reijou-to-koi-ni-ochite-nani-ga-warui-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/kiraware-maou-ga-botsuraku-reijou-to-koi-ni-ochite-nani-ga-warui-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/11/01-18.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/11/01-18.jpg"/>
-<author><name>Nekomata Nuko</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<content type="text">¡Esta es la historia de un detestable Rey Demonio y su maravillosa nueva esposa, una damisela indigente!
-
-Nuestro Rey Demonio, Anima, es el más fuerte de todo el mundo, temido por los habitantes del reino. ¡Se ve obligado a pasar sus días en soledad hasta que, completamente de la nada, es convocado a otro mundo! Quien lo convoca no es otra que Luina, una muchacha sumamente pobre que dirige un orfanato. Los dos se enamoran rápidamente, y Anima jura usar su poder para proteger a su nueva familia.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1o9LXkfGnCg-h5yNwuNrpeA" type="text/html" title="Turret Translations"/>
-</entry>
-<entry>
-<title>Love-Ignorant Abandoned JK Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-love-ignorant-abandoned-jk-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-love-ignorant-abandoned-jk-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/04/Love-Ignorant-Abandoned-JK-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/04/Love-Ignorant-Abandoned-JK-Portada.jpg"/>
-<author><name>Nekomata Nuko</name></author>
+<title>A Toxic 20-Year-Old Game Streamer Accidentally Reveals His Nice Personality Because He Forgot to End the Stream Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-a-toxic-20-year-old-game-streamer-accidentally-reveals-his-nice-personality-because-he-forgot-to-end-the-stream-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-a-toxic-20-year-old-game-streamer-accidentally-reveals-his-nice-personality-because-he-forgot-to-end-the-stream-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/04/A-Toxic-20-Year-Old-Game-Streamer-Accidentally-Reveals-His-Nice-Personality-Because-He-Forgot-to-End-the-Stream-Portada.jpeg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/04/A-Toxic-20-Year-Old-Game-Streamer-Accidentally-Reveals-His-Nice-Personality-Because-He-Forgot-to-End-the-Stream-Portada.jpeg"/>
+<author><name>Natsunomi</name></author>
 <category term="Comedia" label="Comedia"/>
 <category term="Drama" label="Drama"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<content type="text">Natsuki Souta, un oficinista cuya prometida le fue infiel, termina ayudando a Kanzaki Airi, una estudiante de secundaria que se escapó de casa y fue abandonada por sus padres.
+<category term="Shounen" label="Shounen"/>
+<content type="text">«Lo que ha pasado hoy es un secreto entre nosotros, ¿de acuerdo?».
 
-Cuando Souta colma de cariño a esta chica inexperta en el amor, Airi se encariña profundamente con él y comienza a sentir algo por él en secreto.
+Nakayama Haruto es un comentarista de videojuegos conocido por su toxicidad como el streamer «Oni-chan». Después de terminar su sesión de streaming habitual, Haruto olvidó accidentalmente finalizar la transmisión. Como resultado, su vida secreta como streamer que trabaja para apoyar la educación y los gastos de manutención de su hermana menor queda al descubierto. Además, también se revela que prepara meticulosamente guiones para provocar a los demás, ¡todo ello mientras es, en realidad, una persona genuinamente agradable!
 
-Souta también encuentra la felicidad en los tranquilos días que pasa junto a la amable y talentosa cocinera Airi. Un día, preocupado porque su madre lo presiona para que se dé prisa y le presente a su prometida, dice con indiferencia:
+Para complicar aún más las cosas, durante una retransmisión en directo del popular VTuber y jugador profesional, Ayaya (alias Shirayuki Aya), Haruto revela sin querer su verdadera personalidad una vez más. Inesperadamente, esto hizo que se acercaran más el uno al otro mientras seguían jugando y saliendo juntos.
 
-"Ehm... ¿podría ser tu prometida, aunque solo sea por un día, Souta-kun...?"
-
-¡Una pareja perfectamente compatible protagoniza una comedia romántica de convivencia rebosante de felicidad!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/18g3bGM7BMFDU3JipZiGEzg" type="text/html" title="Saitou Translations"/>
+¡Así comienza una comedia romántica entre el tóxico streamer con mentalidad empresarial y la popular heroína VTuber!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1ylCIXB6JO9Yj53hExPwf0g" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 <entry>
-<title>Moto Kano-sensei wa, Choppiri Ecchi na Katei Houmon de Kimi to no Ai wo Haguku mitai Novela Ligera en Español</title>
-<id>https://nextnovels.com/moto-kano-sensei-wa-choppiri-ecchi-na-katei-houmon-de-kimi-to-no-ai-wo-haguku-mitai-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/moto-kano-sensei-wa-choppiri-ecchi-na-katei-houmon-de-kimi-to-no-ai-wo-haguku-mitai-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/07/Moto-Kano-sensei-wa-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/07/Moto-Kano-sensei-wa-Portada.jpg"/>
-<author><name>Nekomata Nuko</name></author>
+<title>I Reincarnated as a Minor Villain in My Favorite Game World Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-i-reincarnated-as-a-minor-villain-in-my-favorite-game-world-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-i-reincarnated-as-a-minor-villain-in-my-favorite-game-world-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/I-Reincarnated-as-a-Minor-Villain-in-My-Favorite-Game-World-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/10/I-Reincarnated-as-a-Minor-Villain-in-My-Favorite-Game-World-Portada.jpg"/>
+<author><name>Natsunomi</name></author>
+<category term="Aventura" label="Aventura"/>
 <category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
 <category term="Harem" label="Harem"/>
-<category term="Maduro" label="Maduro"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
+<content type="text">「¿Por qué todos me están malinterpretando……?」
+
+Se suponía que reencarné como un mob villano, ¡¿pero por alguna razón terminé gustándole a las damas que son las heroínas……?!
+
+「¿Por qué todos tienen ese tremendo malentendido……?」
+
+Por un giro inesperado del destino, nuestro protagonista, Kai, reencarna en el extra y comerciante de esclavos villano de un RPG que tanto dominaba.
+
+Sabiendo que si la historia sigue el curso del juego su destino será la ruina, Kai termina por azares del destino rescatando a las heroínas que estaban cautivas y las escolta hasta la ciudad valiéndose de los objetos que había acumulado en su vida pasada.
+
+「Es un curtido veterano de mil batallas, no me cabe la menor duda」
+
+「¡Deseamos recompensarlo con creces por lo que hizo!」
+
+「Es un caballero verdaderamente encantador. Me gustaría acercarme mucho más a él」
+
+Como consecuencia, a pesar de ser un simple extra sin gran fuerza, bastó con que usara sus conocimientos del juego para que los malentendidos no pararan de propagarse──.
+
+¡Se suponía que reencarnó como un mob villano, pero a raíz de una serie de malentendidos comienza a ser adorado por las jóvenes damas en esta fantasía de harén!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1BnYfi5VOxDx4ergYNr1Qxw" type="text/html" title="SliperNovels"/>
+</entry>
+<entry>
+<title>Kizoku Reijou. Ore ni dake Natsuku Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-kizoku-reijou-ore-ni-dake-natsuku-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-kizoku-reijou-ore-ni-dake-natsuku-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/08/Kizoku-Reijou.-Ore-ni-dake-Natsuku-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/08/Kizoku-Reijou.-Ore-ni-dake-Natsuku-Portada.jpg"/>
+<author><name>Natsunomi</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Romance" label="Romance"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Un chico de instituto, Toruma Nijino, que ha sufrido una serie de desamores, da la bienvenida a un nuevo curso escolar, ¡y las nuevas maestras son sus ex novias que le dejaron! Las dos, que siguen enamoradas, se encuentran en la casa de él. Consiguen que les prometa que las tratará como maestras hasta que se gradúe——
+<content type="text">Para mí, es un hecho. Pero confían mucho en mí.
 
-«Oye, ¿puedo besarte?»
+Lo que me esperaba tras mi reencarnación era una vida escolar entre nobles. Volví a nacer en una familia noble rica y arrogante, pero intento comportarme con naturalidad como una persona moderna y actuar amablemente con quienes me rodean sin preocuparme por la diferencia de estatus.
 
-«¿Ya no te gusta dormir conmigo?»
+La aristocrática hija Luna encaja con ese comportamiento. Suele ser callada y no se abre a nadie, pero ella come conmigo a solas y es tímida pero se muestra dispuesta a tener una cita conmigo.
 
-¿¡Las dos intentan crear el amor al mismo tiempo que se escabullen y se desplazan a ser esposas——!?
+'No tengo intención de jugar con nadie más que contigo'.
 
-Durante el día, ellas se acercan a él a escondidas como maestras, y por la noche, le molestan como sus ex-novias.
+En el transcurso de su vida escolar, también la acogieron otras hijas y criadas...
 
-¡Una comedia de amor a medias con dos maestras ex-novias un poco traviesas!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1FDiPkKsLmIpIArditErQ9Q" type="text/html" title="Shironeko-Translations y Defous123"/>
+Hermosas, refinadas e inesperadamente dulces. La relación con estas damas se hace cada vez más profunda...
+
+Una dulce comedia de amor escolar, ¡abierta!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1IQVaT96BEFeGr08aOaD3TQ" type="text/html" title="Ilusion Shuri Novels"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1HSLXYGLS_YNXi0RqLptBtw" type="text/html" title="Kyūden Translation"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1nmXlgAEiEetwqaajniGSrg" type="text/html" title="SliperNovels"/>
 </entry>
 </feed>

@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Keiso</id>
-<title>Keiso</title>
-<updated>2026-10-21T00:13:50.638652+00:00</updated>
+<id>nextnovels:autores:Kei Sasuga</id>
+<title>Kei Sasuga</title>
+<updated>2026-10-25T03:42:53.656416+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-413.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Ishura Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-ishura-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-ishura-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/02/Ishura-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/02/Ishura-Portada.jpg"/>
-<author><name>Keiso</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
+<title>Domestic na Sensual Novela Ligera en Español</title>
+<id>https://nextnovels.com/domestic-na-sensual-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/domestic-na-sensual-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/09/domestic-na-sensual-Portada-1.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/09/domestic-na-sensual-Portada-1.jpg"/>
+<author><name>Kei Sasuga</name></author>
 <category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<content type="text">En un mundo en el que el Rey Demonio ha muerto, una hueste de semidioses capaces de acabar con él ha heredado el mundo. Un maestro esgrimista capaz de derribar a sus oponentes con una sola mirada; un lancero tan veloz que puede romper la barrera del sonido; un pícaro wyvern que lucha con tres armas legendarias a la vez; un mago todopoderoso que puede dar vida a los pensamientos; un asesino angelical que inflige una muerte instantánea. Ansiosos por alcanzar el título de «Verdadero Héroe», cada uno de estos campeones persigue desafíos contra enemigos formidables y desata conflictos entre ellos. Comienza la batalla para determinar quién es el más poderoso entre los poderosos.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1GhxlcIyS9B1_oMHAU0aG4Q" type="text/html" title="Youkai"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Harem" label="Harem"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1TjYw2mvgiW7zgMOnKTjr_Q" type="text/html" title="Plot Twist no Fansub"/>
 </entry>
 </feed>

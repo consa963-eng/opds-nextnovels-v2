@@ -1,37 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Hiiragisaki</id>
-<title>Hiiragisaki</title>
-<updated>2026-10-21T00:13:50.610060+00:00</updated>
+<id>nextnovels:autores:Higashiyama Akira</id>
+<title>Higashiyama Akira</title>
+<updated>2026-10-25T03:42:53.585473+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-240.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Betrayed S Rank Adventurer Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-betrayed-s-rank-adventurer-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-betrayed-s-rank-adventurer-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/11/01-31.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/11/01-31.jpg"/>
-<author><name>Hiiragisaki</name></author>
+<title>Naruto: Kakashi Hiden Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-naruto-kakashi-hiden-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-naruto-kakashi-hiden-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/11/Naruto-Kakashi-Hiden-Portada.webp"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/11/Naruto-Kakashi-Hiden-Portada.webp"/>
+<author><name>Higashiyama Akira</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Adulto" label="Adulto"/>
+<category term="Aventura" label="Aventura"/>
 <category term="Drama" label="Drama"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Romance" label="Romance"/>
-<content type="text">La historia del aventurero de rango S más fuerte que salva a chicas esclavas y forma un grupo harem.
-
-Egil, un aventurero de rango S, fue traicionado por su amiga de la infancia, quien cayó en la esclavitud. Desde entonces, ha vivido despreciando profundamente todo lo relacionado con los «esclavos».
-
-Pero un día, al visitar por casualidad una subasta de esclavos, se enamora a primera vista de Eleonora, la princesa del Reino de Cornelia, y la adquiere impulsivamente.
-
-Eleonora, ahora esclava de Egil, le revela el objetivo oculto que guarda en su corazón:
-
-“Quiero que encuentres a la amiga de la infancia que me vendió a los traficantes de esclavos… y la mates.”
-
-Egil jura ayudar a Eleonora, quien está decidida a cumplir su venganza incluso a costa de su propia vida.
-
-Unidos por una relación intensa y dulce entre “esclava” y “amo”, los dos parten en un viaje de venganza…
-
-¡Una fantasía oscura, erótica y de alto voltaje protagonizada por el aventurero de rango S más fuerte, que rescata a bellas chicas esclavizadas!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/17GQgCS-J_Y9R1WrCfx1J9w" type="text/html" title="Defous123"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">Privado del sharingan y a punto de convertirse en sexto hokage, Kakashi emprende una última misión: escoltar el viaje inaugural del primer globo aerostático jamás construido. Tendrá que enfrentarse a un grupo de ninjas terroristas que secuestran la nave y amenazan la vida de los pasajeros.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/13v7Z-HesgJECBX_2EPAdHw" type="text/html" title="Mi Castillo de Arena"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1-mKZbGFj8S4R6zjDek7j2w" type="text/html" title="Mettis123"/>
 </entry>
 </feed>

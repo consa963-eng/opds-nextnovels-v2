@@ -1,38 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Nata Amasaka</id>
-<title>Nata Amasaka</title>
-<updated>2026-10-21T00:13:50.679330+00:00</updated>
+<id>nextnovels:autores:Naoshi Arakawa</id>
+<title>Naoshi Arakawa</title>
+<updated>2026-10-25T03:42:53.790485+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-664.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Noblesse Replica Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-noblesse-replica-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-noblesse-replica-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/08/Noblesse-Replica-Portada-1.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/08/Noblesse-Replica-Portada-1.jpg"/>
-<author><name>Nata Amasaka</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Mecha" label="Mecha"/>
+<title>Shigatsu wa Kimi no Uso Novela Ligera en Español</title>
+<id>https://nextnovels.com/shigatsu-wa-kimi-no-uso-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/shigatsu-wa-kimi-no-uso-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/09/Shigatsu-wa-Kimi-no-Uso-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/09/Shigatsu-wa-Kimi-no-Uso-Portada.jpg"/>
+<author><name>Naoshi Arakawa</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">El chico se pone su máquina—su Noblesse—y surca los cielos. Todo para buscar la respuesta a una sola pregunta: “¿Por qué luchamos?”
+<content type="text">No hay ninguna competición que el prodigio del piano Arima no haya ganado desde que empezó a tocar.
 
-Su padre una vez luchó por alguien más—y se convirtió en un “héroe”. Y luego fue asesinado.
+Sus interpretaciones son incomparables en su precisión. Sin embargo, cuando sólo tiene once años, sus inigualables dedos se callan... justo arriba en el escenario.
 
-En un mundo donde la humanidad fue expulsada de la superficie por las monstruosas armas que ella misma creó—bestias de guerra conocidas como Metals, nacidas de su propia arrogancia—los sobrevivientes huyeron a islas flotantes en el cielo para sobrevivir como pudieran.
+Explorando la conmoción del incidente y sus consecuencias desde la perspectiva de sus amigos y rivales, Six-Persons Etude acompaña los esfuerzos del chico por alzarse como adolescente. Basado en la exitosa serie, estos capítulos en prosa se expanden sobre el original pero forman un relato coherente y contundente por sí mismo.
 
-Marcado como “asesino noble” y exiliado de su tierra natal, el joven Musica se convierte en mercenario.
+Antes de convertirse en novelista, la autora Yui Tokiumi trabajó en un museo donde se dedicaba a la investigación arqueológica y etnográfica.
 
-Obligado por su capitán mercenario a inscribirse en la ciudad academia de Seirios, Musica se encuentra rodeado por hijos e hijas de la nobleza—aquellos destinados por deber a pilotar Noblesse Frames, unidades de combate aéreo diseñadas para enfrentar a los Metals.
-
-A estos hijos de la clase alta, Musica les lanza una pregunta: “Díganme—¿qué significa ser un ‘noble’ para ustedes?”
-
-Cuando Seirios enfrenta la aniquilación por una repentina oleada de Metals, Musica debe tomar una decisión.
-
-Así comienza una fantasía de robots que desafía el orgullo y la convicción.
-
-¿“Noblesse Oblige”? Que se joda.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1_sY38Jlu0bg84B_IvFon9A" type="text/html" title="World Project"/>
+Es conocida por sus adaptaciones de la literatura clásica japonesa así como por sus mangas de calidad.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1qoZEplbkIZAqO-CQ4gDmFg" type="text/html" title="Kyūden Translation"/>
+<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1ELGFwqO2kmg3jgEYffZ7kg" type="text/html" title="sebeck63"/>
 </entry>
 </feed>

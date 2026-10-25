@@ -1,29 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Fujimiya Kazuki</id>
-<title>Fujimiya Kazuki</title>
-<updated>2026-10-21T00:13:50.595990+00:00</updated>
+<id>nextnovels:autores:Fujikawa Keizo</id>
+<title>Fujikawa Keizo</title>
+<updated>2026-10-25T03:42:53.567012+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-156.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Boku to Kimi Dake ni Seiya wa Konai Novela Ligera en Español</title>
-<id>https://nextnovels.com/boku-to-kimi-dake-ni-seiya-wa-konai-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/boku-to-kimi-dake-ni-seiya-wa-konai-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/07/Boku-to-Kimi-Dake-ni-Seiya-wa-Konai-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/07/Boku-to-Kimi-Dake-ni-Seiya-wa-Konai-Portada.jpg"/>
-<author><name>Fujimiya Kazuki</name></author>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Drama" label="Drama"/>
-<category term="Romance" label="Romance"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Tragedia" label="Tragedia"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Una vez que las palabras "Te amo" pasaron por sus labios, ella murió una y otra vez.
+<title>Ascendance of a Scummy Hero Novela Ligera en Español</title>
+<id>https://nextnovels.com/ascendance-of-a-scummy-hero-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/ascendance-of-a-scummy-hero-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/06/01-16.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/06/01-16.jpg"/>
+<author><name>Fujikawa Keizo</name></author>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
+<content type="text">Crow estaba a punto de graduarse en la Real Academia Militar.
 
-Era el 24 de diciembre, Nochebuena, y los sentimientos de Riichi, un simple estudiante de secundaria, por Natsumi habían sido devueltos. Sin embargo, antes de que su felicidad pudiera agrandarse, ella perdió su vida justo en frente de él. Una vez que recuperó sus sentidos, había regresado dos días antes... Se enteró de que las palabras "Te amo" se habían convertido en un disparador para rebobinar el tiempo. Intentó evitar la confesión de su amada, pero ella siempre lo hacía y moría una vez más.
+Un día, escuchó una voz de la Espada Sagrada que sólo podía ser empuñada por el Héroe elegido...
 
-“Te amo, Riichi.”
+La Espada Santa── ¡Excalibur le habló!
 
-Atrapado en una interminable Nochebuena, ¿Riichi logrará superar la tragedia recurrente y apoderarse de su futuro?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1AYag73_Y1RqNs57CIspCxA" type="text/html" title="Novel Project y MT-Traducciones"/>
+La voz provenía de Holly, la Sprite de la Espada Santa.
+
+El Rey Demonio que quería destruir el mundo reviviría pronto, así que debían encontrar al Héroe rápidamente, y entregarle la Espada Sagrada.
+
+Crow pensó que entregar la espada al Héroe era una tarea sencilla, y le permitiría recibir el mérito de encontrar al mesías. Aceptó de buena gana, y emprendió un viaje para encontrar al Héroe.
+
+Sin embargo, cuando el niño problemático Crow se asoció con Holly, que tenía una personalidad horrible, ¡su viaje estuvo lleno de desastres! ¿Y el Héroe que encontraron era en realidad una esclava?
+
+¿Cómo iban a traerla de vuelta...?
+
+"¿Por qué no me usas para partir por la mitad al maestro de esa niña?"</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com#Volumenes" type="text/html" title="JmCrap Translations"/>
 </entry>
 </feed>

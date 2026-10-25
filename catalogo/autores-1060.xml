@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Yanagi Tamazo</id>
-<title>Yanagi Tamazo</title>
-<updated>2026-10-21T00:13:50.748144+00:00</updated>
+<id>nextnovels:autores:Yamato Takahiro</id>
+<title>Yamato Takahiro</title>
+<updated>2026-10-25T03:42:53.879400+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1060.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>I Fell in Love with My Parallel World Self Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-i-fell-in-love-with-my-parallel-world-self-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-i-fell-in-love-with-my-parallel-world-self-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/I-Fell-in-Love-with-My-Parallel-World-Self-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/08/I-Fell-in-Love-with-My-Parallel-World-Self-Portada.jpg"/>
-<author><name>Yanagi Tamazo</name></author>
-<category term="Comedia" label="Comedia"/>
+<title>Kaze no Stigma Novela Ligera en Español</title>
+<id>https://nextnovels.com/kaze-no-stigma-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/kaze-no-stigma-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/06/Kaze-no-Stigma-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/06/Kaze-no-Stigma-Portada.jpg"/>
+<author><name>Yamato Takahiro</name></author>
+<category term="Acción" label="Acción"/>
 <category term="Drama" label="Drama"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
 <category term="Supernatural" label="Supernatural"/>
-<content type="text">Asahi, con su peculiar gusto por los finales trágicos, conoce a Tsukino, una hermosa chica que también adora los finales trágicos y que es justo su tipo, en un cine. Rápidamente se hacen amigos y, a regañadientes, se despiden para ir a casa... pero terminan en casa de Asahi, donde supuestamente Tsukino vive con él. Este hecho era desconocido hasta esta mañana, ¡y Tsukino parece ignorarlo también! Tras investigar, la única conclusión a la que llegan es que Tsukino es el mismo ser que Asahi, que ha llegado a este mundo. Asahi acepta ayudar a Tsukino a regresar a su propio mundo, pero no puede evitar sentirse atraído por ella, ya que es justo su tipo, y Tsukino siente lo mismo... ¡Una comedia romántica se desarrolla entre dos personas demasiado cercanas para su comodidad!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/14wZ2Uhdc4hRXHa9uylV9Ww" type="text/html" title="Underword Liella Novels"/>
+<content type="text">Cuatro años antes del inicio de la historia, Kazuma Kannagi fue derrotado por su prima Ayano por el derecho de ser el sucesor de la Enraiha, una espada pasada de generación en generación por la familia Kannagi. El clan Kannagi esta compuesto por miembros de una familia capaz de invocar a los espíritus del fuego y usarlos a su antojo. Todos excepto su primo, Kazuma, quien no posee la habilidad de manipular el fuego. Por tal motivo, después de ser derrotado por Ayano, su padre lo excluyó de la familia por ser una vergüenza para el clan..
+
+Ante esto Kazuma con sus sentimientos que lo desbordaban decide firmar un contrato con el supremo espíritu del viento y luego de cuatro años de un arduo entrenamiento se convierte en un maestro en el uso de éste elemento y ahora regresará con una nueva identidad y un asombroso poder. Unos asesinatos en la casa Kannagi realizados por un usuario del viento muy poderoso conducen a Ayano y a la familia Kannagi a pensar que Kazuma esta tomando venganza y aunque dice ser inocente también esta preparado para una guerra contra los Kannagi. Este, será el primer paso para confrontar el verdadero poder e ideales de Yagami Kazuma, el contratista del espíritu del viento.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1mdlyEk4Jhuhtk9KYUqazAg" type="text/html" title="Kurosaki-Vizard"/>
 </entry>
 </feed>

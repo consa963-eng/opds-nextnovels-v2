@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Miyazaki Yuu</id>
-<title>Miyazaki Yuu</title>
-<updated>2026-10-21T00:13:50.668740+00:00</updated>
+<id>nextnovels:autores:Mitsuru Inoue</id>
+<title>Mitsuru Inoue</title>
+<updated>2026-10-25T03:42:53.776643+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-600.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Gakusen Toshi Asterisk Novela Ligera en Español</title>
-<id>https://nextnovels.com/gakusen-toshi-asterisk-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/gakusen-toshi-asterisk-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-25.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-25.jpg"/>
-<author><name>Miyazaki Yuu</name></author>
+<title>Tenkuu no Shiro wo Moratta no de Isekai de Tanoshiku Asobitai Novela Ligera en Español</title>
+<id>https://nextnovels.com/tenkuu-no-shiro-wo-moratta-no-de-isekai-de-tanoshiku-asobitai-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/tenkuu-no-shiro-wo-moratta-no-de-isekai-de-tanoshiku-asobitai-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/03/Tenkuu-no-Shiro-wo-Moratta-no-de-Isekai-de-Tanoshiku-Asobitai-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/03/Tenkuu-no-Shiro-wo-Moratta-no-de-Isekai-de-Tanoshiku-Asobitai-Portada.jpg"/>
+<author><name>Mitsuru Inoue</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Aventura" label="Aventura"/>
 <category term="Comedia" label="Comedia"/>
 <category term="Ecchi" label="Ecchi"/>
 <category term="Fantasía" label="Fantasía"/>
 <category term="Harem" label="Harem"/>
-<category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">La Ciudad de la Academia sobre el agua, "Rikka". Esta ciudad, también conocida como "Asterisk", fue famosa por ser el escenario más grande del mundo para el entretenimiento de batalla integrado. Los chicos y chicas de las seis academias pedían sus deseos con Armas Brillantes en sus manos, compitiendo por la supremacía - Amagiri Ayato es uno de ellos.
+<content type="text">Un ángel cometió un error, lo que resultó en la muerte de Shiihara Taiki. Para ocultar el error, fue enviado a un mundo diferente. El ángel le concederá un deseo como pago por mantenerlo en secreto. Taiki pidió un castillo flotante sin dudarlo.
 
-Ayato llegó a Rikka invitado por la presidenta del Consejo de Estudiantes de la Academia de Seidoukan, Claudia, y justo después incurrió en la ira de los Julis, y terminó teniendo un duelo con ella.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1mqWuVTCSVZG5raWWDyBYFQ" type="text/html" title="HiroLsn, True Flames Project y Defous123"/>
+De repente, apareció un castillo flotante en el nuevo mundo, lo que causa confusión entre la gente. Intentan contactar a Taiki de varias maneras. Un país intenta robarlo por la fuerza, mientras que otro busca hacerse aliarse con él. ¿Qué demonios hará Taiki?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1f9A7XNA15g6xILGimcQIpw" type="text/html" title="ParadoxPlay"/>
 </entry>
 </feed>

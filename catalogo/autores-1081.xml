@@ -1,27 +1,106 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Yoshiki Tanaka</id>
-<title>Yoshiki Tanaka</title>
-<updated>2026-10-21T00:13:50.751613+00:00</updated>
+<id>nextnovels:autores:Yoru Sumino</id>
+<title>Yoru Sumino</title>
+<updated>2026-10-25T03:42:53.883994+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1081.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Arslan Senki Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-arslan-senki-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-arslan-senki-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/02/Arslan-Senki-1-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/02/Arslan-Senki-1-Portada.jpg"/>
-<author><name>Yoshiki Tanaka</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
+<title>Chichi to Tsuioku no Dareka ni Novela Ligera en Español</title>
+<id>https://nextnovels.com/chichi-to-tsuioku-no-dareka-ni-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/chichi-to-tsuioku-no-dareka-ni-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/10/A-mi-padre-y-a-alguien-en-sus-recuerdos.png"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/10/A-mi-padre-y-a-alguien-en-sus-recuerdos.png"/>
+<author><name>Yoru Sumino</name></author>
 <category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Histórico" label="Histórico"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
 <category term="Seinen" label="Seinen"/>
-<content type="text">Después de una pérdida inesperada y devastadora en la Batalla de Atropátene, el Príncipe Heredero de Pars debe recuperar nuevas fuerzas y hacer nuevos aliados para recuperar su reino perdido. Arslan, de 14 años, ha estado protegido durante la mayor parte de su vida, pero ahora debe enfrentar los desafíos de la guerra, la traición, la política y algo aún más siniestro que se avecina en el horizonte.
+<content type="text">Una historia corta adicional distribuida a los espectadores de la adaptación cinematográfica del anime Quiero comerme tu páncreas (Kimi no Suizō wo Tabetai). Ambientada después de los acontecimientos de la novela original.
 
-Con la ayuda de unos pocos seguidores leales, Arslan aprende rápidamente que nada es lo que parece en la superficie. Su propia historia familiar, la identidad del extraño enmascarado que intenta matarlo y la causa de los eventos sobrenaturales cada vez más extraños son todos misterios por resolver.
+Fuyumi odia su propia mediocridad y vive según su creencia de que una vida sin nada es aburrida.
 
-Ambientada en una representación ficticia de la antigua Persia, esta historia clásica del autor japonés Yoshiki Tanaka combina intriga política, tácticas militares y fantasía.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1ndVAHDFvzyivY5YVNpNcbw" type="text/html" title="MiraiK, Svartalheimer, Legends no Fansub"/>
+Ella afirma que si la vida va a seguir siendo tan tediosa como es, entonces preferiría morir dramáticamente, lo que la lleva a pelear con su padre, Haruki, por sus creencias contradictorias sobre la muerte. Esa noche, cuando se está cepillando los dientes, escucha a su padre llamando a una joven y prometiéndole conocerla, lo que lleva a Fuyumi a sospechar que está teniendo una aventura.
+
+Con ello comienza la historia de Fuyumi Shiga y cómo descubre a la persona insustituible del pasado de su padre.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1hrl8qsR-D9-9JN4Wgz7P6A" type="text/html" title="Traducciones Roberth"/>
+</entry>
+<entry>
+<title>I am Blue, in Pain, and Fragile Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-i-am-blue-in-pain-and-fragile-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-i-am-blue-in-pain-and-fragile-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/I-am-Blue-in-Pain-and-Fragile-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/08/I-am-Blue-in-Pain-and-Fragile-Portada.jpg"/>
+<author><name>Yoru Sumino</name></author>
+<category term="Histórico" label="Histórico"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<content type="text">¿Qué pasa cuando las personas que prometen cambiar el mundo terminan destruyéndose entre ellas?...
+
+“La Fragilidad del Azul” es una historia intensa y dolorosamente humana sobre ideales, amistad y las heridas que dejamos crecer. Entre secretos, traiciones y sueños rotos, dos jóvenes descubrirán que aferrarse al pasado puede ser mucho más peligroso que dejarlo ir.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1jIWR2GE9fkzQAPwRmqSwfw" type="text/html" title="Cazadora de Mangas"/>
+</entry>
+<entry>
+<title>Kimi no Suizou wo Tabetai Novela Ligera en Español</title>
+<id>https://nextnovels.com/kimi-no-suizou-wo-tabetai-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/kimi-no-suizou-wo-tabetai-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/10/cover.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/10/cover.jpg"/>
+<author><name>Yoru Sumino</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Tragedia" label="Tragedia"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Un día me encontré un libro en el hospital. Su título era: "El diario de coexistencia con la enfermedad". Era un diario que una compañera de clase, Sakura Yamauchi, había escrito en secreto. Dentro ponía que sus días estaban contados a causa de su enfermedad de páncreas. Y así, pasé de ser: "Sólo-Un-Compañero-De-Clase", a ser: "El-Compañero-Que-Sabe-El-Secreto".
+
+Era mi polo opuesto, pero era como si me atrajera…
+
+No obstante, el mundo le presenta a la chica, que ya sufre una enfermedad terminal, una realidad igual de cruel...</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1wxpc4AmcCtA1wvjp86RqhQ" type="text/html" title="Happy Bubble Subs"/>
+</entry>
+<entry>
+<title>Mata, Onaji Yume o Mite Ita Novela Ligera en Español</title>
+<id>https://nextnovels.com/mata-onaji-yume-o-mite-ita-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/mata-onaji-yume-o-mite-ita-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/12/Mata-Onaji-Yume-o-Mite-Ita-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/12/Mata-Onaji-Yume-o-Mite-Ita-Portada.jpg"/>
+<author><name>Yoru Sumino</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">«Una chica infeliz que se lastima a sí misma, una mujer aislada por la sociedad, y una mujer mayor buscando vivir sus días de crepúsculo en paz—¿qué podrían tener en común personas tan diferentes? Eso es lo que la estudiante de primaria Koyanagi Nanoka está intentando averiguar. Después de que su maestra le asigna definir qué significa la «felicidad» para ella, Nanoka pretende conocer a estas tres extrañas—y a través de ellas, quizás, conocerse a sí misma también.»</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1iS7JvvfgE10UMwZUgSB30g" type="text/html" title="JmCrap Translations"/>
+</entry>
+<entry>
+<title>The Confession Strategy Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-confession-strategy-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-confession-strategy-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/The-Confession-Strategy-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/07/The-Confession-Strategy-Portada.jpg"/>
+<author><name>Yoru Sumino</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Romance" label="Romance"/>
+<content type="text">Una mujer idea un plan para que su mejor amigo le confiese sus sentimientos... y así ayudarlo a seguir adelante. ¡Una nueva novela del aclamado autor de I Want to Eat Your Pancreas y At Night, I Become a Monster , Yoru Sumino!
+
+Chizuru está a punto de cumplir treinta años... y de casarse. Pero antes de que suenen las campanas de boda, le queda una última misión: hacer que Hibiki, su mejor amigo de la universidad, le confiese lo que siente por ella... para poder rechazarlo de una vez por todas y ayudarlo a pasar página. Su deseo es simple: que una vez que hable con el corazón, no se quede atrapado en el pasado y encuentre el valor para caminar hacia el futuro.
+
+Karin, amigo de ambos desde hace años, pone los ojos en blanco ante un plan tan infantil pero, en contra de su buen juicio, acepta ayudar. Sin embargo, esta llamada "Estrategia de la Confesión" pronto se descontrola de formas que nadie esperaba...
+
+Una comedia romántica agridulce sobre el amor no correspondido, amistades enredadas y los giros inesperados del corazón.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1lMNBZq5fAWMOyGi--cJQwQ" type="text/html" title="Next Novels (MTL)"/>
+</entry>
+<entry>
+<title>Yoru no Bakemono Novela Ligera en Español</title>
+<id>https://nextnovels.com/yoru-no-bakemono-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/yoru-no-bakemono-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/03/Yoru-no-Bakemono-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/03/Yoru-no-Bakemono-Portada.jpg"/>
+<author><name>Yoru Sumino</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Una nueva e inquietante novela del creador de Quiero comerme tu páncreas. Cada noche, Adachi se transforma en una criatura de pesadilla y cada mañana vuelve a su forma humana. Cuando se encuentra con su compañera de clase Yano Satsuki en su estado monstruoso, los dos desarrollan un vínculo peculiar. Pero la luz del día trae consigo su propia forma de terror. ¿Qué es peor, el monstruo de noche o la cruel realidad de la clase de día? Una novela de fantasía psicológica de instituto de Yoru Sumino, autora del bestseller, Quiero comerme tu páncreas.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1_I3r1DZ2tL27LXtt89EJRw" type="text/html" title="Traducciones Fajardo"/>
 </entry>
 </feed>

@@ -1,48 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kamizu Hotami</id>
-<title>Kamizu Hotami</title>
-<updated>2026-10-21T00:13:50.629972+00:00</updated>
+<id>nextnovels:autores:Kamisato Yamato</id>
+<title>Kamisato Yamato</title>
+<updated>2026-10-25T03:42:53.645019+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-361.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Chillin’ on an Uninhabited Island in Another World Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-chillin-on-an-uninhabited-island-in-another-world-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-chillin-on-an-uninhabited-island-in-another-world-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/Chillin-on-an-Uninhabited-Island-in-Another-World-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/02/Chillin-on-an-Uninhabited-Island-in-Another-World-Portada.jpg"/>
-<author><name>Kamizu Hotami</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Adulto" label="Adulto"/>
-<category term="Aventura" label="Aventura"/>
+<title>Ane o sagasunara ane no naka toshiue onēsan × 4 to no amaama apāto seikatsu hajimemasu Novela Ligera en Español</title>
+<id>https://nextnovels.com/ane-o-sagasunara-ane-no-naka-toshiue-onesan-4-to-no-amaama-apato-seikatsu-hajimemasu-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/ane-o-sagasunara-ane-no-naka-toshiue-onesan-4-to-no-amaama-apato-seikatsu-hajimemasu-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/05/01-15.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/05/01-15.jpg"/>
+<author><name>Kamisato Yamato</name></author>
 <category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Fantasía" label="Fantasía"/>
+<category term="Drama" label="Drama"/>
 <category term="Harem" label="Harem"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Smut" label="Smut"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">El estudiante de spreparatoria Sōsuke Kudō tuvo un sueño peculiar.
+<content type="text">¿¡Alguien en la casa-apartamento es mi primer amor, una Onee-san traviesa!?
 
-En un espacio de un blanco puro e inmaculado, había una pizarra en la que estaba escrita la pregunta: “Si pudieras llevarte solo una cosa a una isla desierta, ¿qué sería?”
+Yo, Futou Kaname, aprovecho la oportunidad de vivir solo en una casa-apartamento llamado “Karin” antes de ir a la escuela secundaria.
 
-Mientras que sus compañeros de clase ofrecían respuestas totalmente comunes y poco aventureras, Sōsuke, diferenciándose de ellos, pronunció sin dudar las palabras “habilidad para crear” ...
+Karin es una casa-apartamento celestial con cuatro Onee-san’s que viven allí y para mí, ¿¡es como el cielo——!?
 
-Y entonces, al recuperar el sentido, se encontró trasladado junto a su amiga de la infancia a una isla desierta en otro mundo.
+—Voy a cuidar de ti todos los días, ¿de acuerdo?
 
-Es más, se le había concedido el objeto que había mencionado en su respuesta, otorgándole en su totalidad.
+La limpia y ordenada propietaria amantes de los juegos sociales – Suzune Kuribayashi
 
-A partir de ahí, procede a conquistar los rigores de la vida en una isla desierta con facilidad, ¡todo gracias a su habilidad para la artesanía!
+—Tal vez quieras asumir la culpa por hacer que me gustes…
 
-Los días que se suceden, en los que se encuentra rodeado por una amiga de la infancia kudere, una chica que muestra una bondad genuina hacia los otakus, una chica pura y refinada, y una presidenta de clase diligente y sincera, están llenos de comodidad y puro deleite.
+La Onee-san inteligente YouTuber – Saeki Ichika
 
-“Sō-kun. En una circunstancia como esta, incluso formar un harem tiene su propio valor justificable”.
+—Deberías disfrutar de las tetas que tienes delante.
 
-“Adelante, disfruta de todo el placer que tu corazón desee”.
+La Onee-san novelista Imo Jersey – Inshiroi Inaho
 
-¡Así comienza la vida tranquila en una isla desierta, compartida en íntimas escapadas con esas chicas guapas y tetonas!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1bP-BQN0BVb2ZyIDy_PT9-g" type="text/html" title="Shadow Translations"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1yYZybaieY-oISSqQqsXBBA" type="text/html" title="World Project"/>
+—¿Podemos jugar el juego juntos?
+
+La Onee-san gamer FPS sensei – Kanaha Ushirogawa
+
+Cada día es como un sueño, ya que soy mimado por estas Onee-san’s.
+
+Sin embargo, en el primer día de vida en Karin, una carta llega a mi buzón.
+
+—”Ha pasado mucho tiempo desde que creciste.”
+
+Esta es una carta de mi primer amor, la “Onee-chan” de la que me enamore——
+
+¿¡Podría ser – que una de las Onee-san’s en la casa-apartamento Karin sea la “Onee-chan”!?
+
+Mientras es mimado por las Onee-san’s, busca la “Onee-chan”.
+
+¡Así comienza una dulce comedia romántica sobre unas Onee-san’s!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com#Volumenes" type="text/html" title="Btoom Translations"/>
 </entry>
 </feed>

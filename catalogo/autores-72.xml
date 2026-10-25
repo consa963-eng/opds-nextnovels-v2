@@ -1,35 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Anzu Inukai</id>
-<title>Anzu Inukai</title>
-<updated>2026-10-21T00:13:50.582192+00:00</updated>
+<id>nextnovels:autores:Anzai Rika</id>
+<title>Anzai Rika</title>
+<updated>2026-10-25T03:42:53.548795+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-72.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Suki na Ko no Imouto Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-suki-na-ko-no-imouto-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-suki-na-ko-no-imouto-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/11/Suki-na-Ko-no-Imouto-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/11/Suki-na-Ko-no-Imouto-Portada.jpg"/>
-<author><name>Anzu Inukai</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
+<title>The Man Beside Me Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-man-beside-me-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-man-beside-me-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/04/The-Man-Beside-Me-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/04/The-Man-Beside-Me-Portada.jpg"/>
+<author><name>Anzai Rika</name></author>
+<category term="Adulto" label="Adulto"/>
+<category term="Maduro" label="Maduro"/>
 <category term="Romance" label="Romance"/>
-<category term="Yuri" label="Yuri"/>
-<content type="text">Mi deseo mas egoista se hizo realidad gracias a la hermana de mi primer amor, que es su copia exacta.
+<category term="Smut" label="Smut"/>
+<category term="Yaoi" label="Yaoi"/>
+<content type="text">Isaki acaba de romper con el hombre de sus sueños, al que había estado persiguiendo sin descanso durante más de diez años. Un día, cuando decide que no quiere enamorarse por un tiempo, se hace amigo de Yasuhara, que vive en el barrio, después de compartir mesa con él en un izakaya. Yasuhara tiene una personalidad tranquila y amable, y aparte de que es mayor, está muy lejos del tipo ideal de Isaki. Disfrutan de una amistad cómoda, pero...
 
-Un complicado triangulo amoroso entre la hermana mayor, una estudiante ejemplar, y la hermana menor, una chica despreocupada.
+Spin-off de Kiraina Otoko.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1c8oZ_LgGrZ0-s4TewB2LHw" type="text/html" title="Next Novels (MTL)"/>
+</entry>
+<entry>
+<title>The Man that I Hate Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-man-that-i-hate-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-man-that-i-hate-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/04/The-Man-that-I-Hate-Portada.webp"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/04/The-Man-that-I-Hate-Portada.webp"/>
+<author><name>Anzai Rika</name></author>
+<category term="Adulto" label="Adulto"/>
+<category term="Maduro" label="Maduro"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Yaoi" label="Yaoi"/>
+<content type="text">Un nuevo empleado es contratado en el departamento de Chihiro. Mukai, un chico simpático y educado, tiene la misma edad que Chihiro. Sus excelentes talentos son suficientes para obtener el visto bueno incluso de RR. HH. Aunque siente una ligera hostilidad hacia el talentoso Mukai, Chihiro evita competir con él directamente, sin embargo, un día nota una pasión oculta en la mirada de Mukai.
 
-Yo Amamiya Yui, me arme de valor y le confece mis sentimientos a mi primer amor, Hanabusa Nagisa... pero fui rechazada.
+A Mukai le gusta.
 
-Al ver que no podía superar mi amor no correspondido, le hice una propuesta a Hanabusa Mimi la hermana menor de Nagisa, con quien tengo una buena relación.
+Mukai, que estaba en una liga completamente diferente a la de Chihiro, solo estaba siendo dulce con Chihiro. Justo cuando se sentía bien con eso...
 
-"Hare que olvides a mi hermana…. Y para eso, hare lo que sea, solo pídelo, dime cualquier cosa que quieras hacer"
-
-luego de escuchar aquellas palbras, desde ese dia, decidi hacer con ella todo lo que quería hacer con Nagisa.
-
-"Yui-senpai, me besarias porque somos buenas amigas o lo harás porque me veo como mi hermana"
-
-No lo pensé demasiado, me entregue al libertinaje de mis deseos. Me entregue de lleno en esta relaciona, tratando de sustituir a Nagisa, pero lentamente me di cuenta que mpezaba a sentir atraída por Mimi-chan.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1C87shQ4EuIOTJzn43a8WLg" type="text/html" title="Kyūden Translation"/>
+Dulce y doloroso, el romance de un adulto.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1-dXm7zj-q70ktwMgZlCvoQ" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 </feed>

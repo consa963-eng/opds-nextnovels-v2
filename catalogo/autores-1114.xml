@@ -1,38 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Yuu-ta</id>
-<title>Yuu-ta</title>
-<updated>2026-10-21T00:13:50.757128+00:00</updated>
+<id>nextnovels:autores:Yuu Kamiya</id>
+<title>Yuu Kamiya</title>
+<updated>2026-10-25T03:42:53.891391+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1114.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>You Guys Should Get Married Soon! I Have Three Girls Who Have Been Told So Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-you-guys-should-get-married-soon-i-have-three-girls-who-have-been-told-so-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-you-guys-should-get-married-soon-i-have-three-girls-who-have-been-told-so-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/07/You-Guys-Should-Get-Married-Soon-I-Have-Three-Girls-Who-Have-Been-Told-So-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/07/You-Guys-Should-Get-Married-Soon-I-Have-Three-Girls-Who-Have-Been-Told-So-Portada.jpg"/>
-<author><name>Yuu-ta</name></author>
+<title>No Game No Life Novela Ligera en Español</title>
+<id>https://nextnovels.com/no-game-no-life-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/no-game-no-life-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2021/12/NGNL-vol-01-e1641220475259.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2021/12/NGNL-vol-01-e1641220475259.jpg"/>
+<author><name>Yuu Kamiya</name></author>
+<category term="Aventura" label="Aventura"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
 <category term="Comedia" label="Comedia"/>
 <category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
 <category term="Harem" label="Harem"/>
 <category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">¡Comienza una comedia romántica sin frenos, llena de malentendidos y frustración al máximo nivel!
+<category term="Shounen" label="Shounen"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Había una leyenda urbana que decía que había un legendario, invicto gamer llamado 『 』(Blanco, Kuuhaku), pero en la realidad ellos eran solo unos hermanos NEET llamados 空 (Sora) y 白 (Shiro). Estos hermanos hikikomori, quienes se refieren al mundo real como un "juego de mierda", un día son invocados a un mundo diferente por un niño que se hace llamar a si mismo "Dios". En este mundo, la guerra está prohibida por él y todo se resuelve a través de juegos... Es cierto, incluso las fronteras de un país. ¿Podrán estos hermanos NEET salvar el último resquicio de la raza humana &lt;Inmanidad&gt; con un solo bastión?
 
-“Me gustas desde hace tiempo. ¿Recuerdas cuando dijeron ‘Ustedes dos deberían casarse de una vez’? ¿Por qué no lo hacemos realidad?”
-
-Esa impactante confesión apareció en los comentarios de la novela web que escribo en secreto.
-
-Sí, hay muchas cosas que podrían tomarse a broma… pero el verdadero problema es que hay tres chicas que podrían ser la autora de ese mensaje:
-
-Yuzuri Takeuchi: la compañera de clase dulce y angelical.
-
-Kurumi Yamashita: la amiga de la infancia tsundere que solo me trata mal a mí.
-
-Kaede Maihara: la compañera juguetona del trabajo de medio tiempo.
-
-Esa línea se suponía que era una broma… ¿Entonces por qué parece que alguna de ellas va en serio?
-
-¿Y quién de las tres es la verdadera heroína principal?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1tKR1FXKLKRLVjcNWO8qQNw" type="text/html" title="Gambarimasu Translations"/>
+"¡Ahora... dejemos que empiece el juego!"</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1xP4OPBrIzhtgZKQ7iEoJ-A" type="text/html" title="Mi Castillo de Arena"/>
+<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1fxf5h0q3XEb4k_SKMIV0Jg" type="text/html" title="Kikuslirus Project"/>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1lz3UaK_FBA3QLPA1U5l2QQ" type="text/html" title="No Game No Life - NL"/>
 </entry>
 </feed>

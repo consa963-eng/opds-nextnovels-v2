@@ -1,48 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Hajime Kamoshida</id>
-<title>Hajime Kamoshida</title>
-<updated>2026-10-21T00:13:50.602809+00:00</updated>
+<id>nextnovels:autores:Hachimoku Mei, Yamada Kanehito</id>
+<title>Hachimoku Mei, Yamada Kanehito</title>
+<updated>2026-10-25T03:42:53.575955+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-196.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Sakurasou No Pet Na Kanojo Novela Ligera en Español</title>
-<id>https://nextnovels.com/sakurasou-no-pet-na-kanojo-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/sakurasou-no-pet-na-kanojo-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2021/12/sakurasou-e1641220308357.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2021/12/sakurasou-e1641220308357.jpg"/>
-<author><name>Hajime Kamoshida</name></author>
-<category term="Comedia" label="Comedia"/>
+<title>Frieren Prelude Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-frieren-prelude-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-frieren-prelude-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/04/Frieren-Beyond-Journeys-End-Prequel-Novel-Prelude-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/04/Frieren-Beyond-Journeys-End-Prequel-Novel-Prelude-Portada.jpg"/>
+<author><name>Hachimoku Mei, Yamada Kanehito</name></author>
+<category term="Aventura" label="Aventura"/>
 <category term="Drama" label="Drama"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Esta comedia romántica de instituto se centra en un estudiante de secundaria de nombre Kanda Sorata, que vive en Sakurasou, un dormitorio exclusivo para chicos problemáticos. Cierto día, Shiina Mashiro, una hermosa chica y también maravillosa artista, pese a todos las circunstancias, se muda a vivir a dicho dormitorio.
-
-Cuando Sorata conoce a la aparentemente frágil Mashiro, decide que la protegerla de los brabucones de Sakurasou, y al final esa suposición termina ser correcta: Mashiro no tiene ni idea de como cuidarse a sí misma.
-
-Tras pasar por varios percances ridículos como: perderse en la calle, no saber doblar la ropa, tener una habitación desordenada, etc. Todos los integrantes terminan considerando a Sorata como el "dueño2 de Mashiro. Bajo esta idea, tendrán que vivir en el dormitorio mientras los demás los ven como "dueño y mascota".</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1KJASlItfvjaAlFrOtiofzQ" type="text/html" title="Traductions in 1,2,3! y AIML Translation"/>
-</entry>
-<entry>
-<title>Seishun Buta Yarou Novela Ligera en Español</title>
-<id>https://nextnovels.com/seishun-buta-yarou-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/seishun-buta-yarou-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/Seishun-Buta-Yarou-wa-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/07/Seishun-Buta-Yarou-wa-Portada.jpg"/>
-<author><name>Hajime Kamoshida</name></author>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Romance" label="Romance"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">¿ADIVINA QUIÉN HA VUELTO?
-
-Después de años sin contacto, Sakuta ha recibido una carta de su primer amor, Shouko, pidiéndole que se encuentren en la playa de Shichirigahama. Por supuesto, ahora que tiene una relación feliz, no está muy seguro de cómo responder… o de cómo explicar la situación a su novia, Mai. Tal vez se centre en ayudar a su hermana, amante del panda y que se queda en casa, a conseguir su objetivo de volver a la escuela por el momento. Pero esto es más fácil de decir que de hacer, dado que ella no ha salido de casa durante dos años enteros.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1QgNZyDad_PFJQsi11bpXaQ" type="text/html" title="Edgno traducciones"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1olDwRLlTrFmlshy-w32bZQ" type="text/html" title="Bokugen Boys"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1q00V94EkH_tqu6YIIOF03A" type="text/html" title="Traductions in 1,2,3, Mau Translations"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">Una novelización de las historias no contadas de Frieren antes de la historia principal. Bajo la supervisión de Kanehito Yamada, el autor original del exitoso manga y anime «Frieren: Beyond Journey's End», la autora Mei Hachimoku ha novelado las historias de lo que hacían los Frieren justo antes de emprender su viaje “para conocer a los humanos”. Una colección de 5 historias cortas, cada una con un personaje Frieren diferente - Frieren, Fern, Stark, Lawine &amp; Kanne, y Aura - como protagonista.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1-JbuXmxBzJUJLofrDC7TsQ" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 </feed>

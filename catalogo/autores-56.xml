@@ -1,20 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Amara</id>
-<title>Amara</title>
-<updated>2026-10-21T00:13:50.579447+00:00</updated>
+<id>nextnovels:autores:Amano Seiju</id>
+<title>Amano Seiju</title>
+<updated>2026-10-25T03:42:53.545353+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-56.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>The Cat and the Dragon Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-cat-and-the-dragon-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-cat-and-the-dragon-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/The-Cat-and-the-Dragon-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/07/The-Cat-and-the-Dragon-Portada.jpg"/>
-<author><name>Amara</name></author>
-<category term="Aventura" label="Aventura"/>
-<category term="Fantasía" label="Fantasía"/>
-<content type="text">En lo profundo del bosque, un dragón vivía junto a unos gatos que dominaban la magia. Los gatos llamaban al dragón, quien los había protegido y criado durante mucho tiempo, «el tío de las plumas», mientras que los humanos lo llamaban «dragón de los gatos» con una mezcla de temor y respeto. También hay gatos que, tras alejarse del amparo del dragón, viven ahora con los humanos. Un príncipe que anhela la aventura y un héroe felino negro. Un gato blanco que enseña magia a una niña del orfanato. Y en el bosque, hoy también el dragón le enseña a cazar a un gatito. Esta es una historia cálida, misteriosa y un poco conmovedora sobre gatos, dragones y humanos.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/15XmU-t-MycA-QZokDMJMVA" type="text/html" title="Next Novels (MTL)"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1UkxhRKx9wJEFpSPIZ5EM_Q" type="text/html" title="Next Novels (MTL)"/>
+<title>Kawaii Onnanoko ni Kouryaku Sareru no Wa Suki desu ka? Novela Ligera en Español</title>
+<id>https://nextnovels.com/kawaii-onnanoko-ni-kouryaku-sareru-no-wa-suki-desu-ka-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/kawaii-onnanoko-ni-kouryaku-sareru-no-wa-suki-desu-ka-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/05/Kawaii-Onnanoko-ni-Kouryaku-Sareru-no-Wa-Suki-desu-ka-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/05/Kawaii-Onnanoko-ni-Kouryaku-Sareru-no-Wa-Suki-desu-ka-Portada.jpg"/>
+<author><name>Amano Seiju</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Harem" label="Harem"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">¡Que comience el torpe, estratégico y dulce juego de amor!
+
+—Kitamikado-san, este es un juego de amor, y quien se enamore del otro primero se convertirá en su amante.
+
+Habiendo sido atraído a una trampa por el sucesor más joven de la Familia Nanjou que gobierna el lado oscuro de Japón, Nanjou Kisa, Kitamikado Mikado no pudo resistir. Lo que le esperaba era el comienzo del juego de amor, donde admitir abiertamente que uno tenía sentimientos por el otro significaría la derrota. Si Mikado, un chico protegido de una reconocida familia política, rechazara el juego, las cosas se convertirían en un escándalo.
+
+Ambos apuestan sus vidas en este juego, sin embargo Mikado, lenta pero constantemente, comienza a perder la razón. Ese es un resultado obvio, ya que está empezando a enamorarse de Kisa. Y eso es lo mismo para su oponente…</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1GhVbL2k5gqcacA0-Fp23_g" type="text/html" title="Domen Translations"/>
+</entry>
+<entry>
+<title>Kurasu no Daikiraina Joshi to Kekkon Suru Koto ni Natta Novela Ligera en Español</title>
+<id>https://nextnovels.com/kurasu-no-daikiraina-joshi-to-kekkon-suru-koto-ni-natta-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/kurasu-no-daikiraina-joshi-to-kekkon-suru-koto-ni-natta-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2021/12/Kurasu-no-Daikiraina-Joshi-to-Kekkon-Suru-Koto-ni-Natta-v1-3-e1641220514417.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2021/12/Kurasu-no-Daikiraina-Joshi-to-Kekkon-Suru-Koto-ni-Natta-v1-3-e1641220514417.jpg"/>
+<author><name>Amano Seiju</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Hojo Saito, un estudiante común de preparatoria, se terminó casando con su peor enemiga en la escuela, Sakuramori Akane, su compañera de clase.
+
+“Si le dices al resto de clase que estamos casados, te mataré”
+
+“Tampoco quiero que se enteren. No hay ningún motivo por el que quiera hacerlo”
+
+Al empezar a vivir juntos, su vida de casados era algo muy problemático, llegando a discutir constantemente. Pero poco a poco, la distancia entre los dos se iba acortando, pasaban juntos en varios momentos agradables y lentamente iban entendiendo los sentimientos del otro.
+
+Saito pudo conocer el lado lindo de Akane, el cual jamás lo había visto antes, y Akane empezaba a darse cuenta de los sentimientos que tenía por Saito.
+
+¡Una emocionante historia de la vida de dos personas recién casadas que se les dificulta ser honestos consigo mismos!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1q8AoOzsZk_-speGdrZ-jBg" type="text/html" title="Legends no Fansub, Underworld Liellia Novels y Domen Translations"/>
 </entry>
 </feed>

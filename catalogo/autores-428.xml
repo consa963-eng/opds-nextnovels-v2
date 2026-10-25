@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kina Chiren</id>
-<title>Kina Chiren</title>
-<updated>2026-10-21T00:13:50.640974+00:00</updated>
+<id>nextnovels:autores:Kimito Kogi</id>
+<title>Kimito Kogi</title>
+<updated>2026-10-25T03:42:53.659456+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-428.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Satsuriku No Tenshi Novela Ligera en Español</title>
-<id>https://nextnovels.com/satsuriku-no-tenshi-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/satsuriku-no-tenshi-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/11/Satsuriku-No-Tensh-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/11/Satsuriku-No-Tensh-Portada.jpg"/>
-<author><name>Kina Chiren</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Drama" label="Drama"/>
-<category term="Horror" label="Horror"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Psicológico" label="Psicológico"/>
-<content type="text">Rachel, de 13 años, despierta y se encuentra atrapada en el sótano de un edificio abandonado. Sin ningún recuerdo, ni siquiera una pista de dónde podría estar, vaga por el edificio, perdida y mareada. En su búsqueda, se encuentra con un hombre cubierto de vendas. Él se presenta como Zack, aquel personaje parece ser un segador, ya que maneja una hoz. Se establece un extraño vínculo entre ellos, reforzado por extrañas y locas promesas … Estos dos, atrapados en este extraño edificio, no saben por qué el destino los ha colocado allí. Pero trabajarán juntos desesperadamente para encontrar una salida …</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1wzsd_zpUvRm5yQ1CmQaS_w" type="text/html" title="JmCrap Translations"/>
+<title>Flowers for the Forest Beasts Novela Ligera en Español</title>
+<id>https://nextnovels.com/flowers-for-the-forest-beasts-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/flowers-for-the-forest-beasts-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/09/01-91.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/09/01-91.jpg"/>
+<author><name>Kimito Kogi</name></author>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Romance" label="Romance"/>
+<content type="text">En un mundo dominado por espadas y magia, Cleo vive su vida solitaria donde cree que pintar es su único propósito en la vida. Desde que Cleo nació en una familia noble, debe demostrar que es digno de convertirse en el sucesor de la familia participando en cierto juicio. Cuando entra en el bosque prohibido, Cleo se encuentra con una bestia que es mitad humana y mitad planta. Después de ser capturado fácilmente por la bestia que se parece a una niña humana, Cleo planea su escape atrayendo el interés de la bestia y manteniendo a Cleo vivo. Fuera de sus expectativas, el tiempo que pasaron viviendo uno con el otro lo hizo sentir increíblemente aliviado. Sin embargo, su apacible vida diaria no duró mucho…</content>
+<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1MBXjoiy0-boKrsuMQC5ytw" type="text/html" title="Blue Phoenix Translations"/>
 </entry>
 </feed>

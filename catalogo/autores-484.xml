@@ -1,39 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kouta Nozomi</id>
-<title>Kouta Nozomi</title>
-<updated>2026-10-21T00:13:50.650069+00:00</updated>
+<id>nextnovels:autores:Kousaka Mato</id>
+<title>Kousaka Mato</title>
+<updated>2026-10-25T03:42:53.751873+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-484.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Isekai Shinki to no Reunion Novela Ligera en Español</title>
-<id>https://nextnovels.com/isekai-shinki-to-no-reunion-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/isekai-shinki-to-no-reunion-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-68.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-68.jpg"/>
-<author><name>Kouta Nozomi</name></author>
+<title>Guild no Uketsukejou desu ga, Zangyou wa Iya na no de Boss wo Solo Toubatsu Shiyou to Omoimasu Novela Ligera en Español</title>
+<id>https://nextnovels.com/guild-no-uketsukejou-desu-ga-zangyou-wa-iya-na-no-de-boss-wo-solo-toubatsu-shiyou-to-omoimasu-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/guild-no-uketsukejou-desu-ga-zangyou-wa-iya-na-no-de-boss-wo-solo-toubatsu-shiyou-to-omoimasu-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/01/Guild-no-Uketsukejou-desu-ga-Zangyou-wa-Iya-na-no-de-Boss-wo-Solo-Toubatsu-Shiyou-to-Omoimasu-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/01/Guild-no-Uketsukejou-desu-ga-Zangyou-wa-Iya-na-no-de-Boss-wo-Solo-Toubatsu-Shiyou-to-Omoimasu-Portada.jpg"/>
+<author><name>Kousaka Mato</name></author>
 <category term="Acción" label="Acción"/>
 <category term="Aventura" label="Aventura"/>
 <category term="Comedia" label="Comedia"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Romance" label="Romance"/>
-<content type="text">Un joven llamado Kurosu Tooi fue convocado a otro mundo.
+<content type="text">¡USA UN MARTILLO DE GUERRA GIGANTE PARA EVITAR TRABAJAR EN EXCESO!
 
-Ordenó a 12 bellas diosas que derrotaran al rey demonio para poder regresar a su mundo.
+Alina Clover se inscribió para ser recepcionista del Gremio de Aventureros, pensando que sería su boleto a la buena vida: salario estable, horarios regulares y condiciones laborales seguras. Desafortunadamente, el trabajo de sus sueños se convierte en una pesadilla de papeleo interminable y horas extras cada vez que los aventureros que ayuda a coordinar se quedan atascados limpiando una mazmorra. Pero la gente no está hecha para trabajar para siempre, por lo que Alina se escabulle por la noche para darles una paliza a los monstruos responsables de sus horas extra, cortesía de su enorme martillo de guerra.
 
-Después de un año. Regresó al otro mundo, pero allí pasaron 10 años...
+Mantener todo esto en secreto para evitar violar la prohibición de su oficina sobre segundos trabajos es difícil, especialmente cuando las historias de sus hazañas comienzan a difundirse, pero Alina de alguna manera logra mantener su identidad segura... hasta que el líder de la party más fuerte del gremio la atrapa.
 
-"Mucho tiempo sin verte Tooi Onii-chan"
+¡Derrota a un jefe para evitar una noche fatídica de horas extra!
 
-"¿Te enamoraste de mi pecho?"
-
-Sus compañeros del otro mundo han envejecido.
-
-Sin embargo, las [Nebulosa] (12 Diosas) que han sido liberadas por Tooi, están en pleno apogeo en todas partes del continente.
-
-"Llora de alegría, Tooi Cross. Los enemigos esta vez son las mujeres que amaste"
-
-Sus sirvientes más fuertes son ahora sus enemigos más fuertes. Es hora de salvar a sus camaradas dispersos; en su segunda venida al otro mundo, tiene que luchar, hablar y hacer que se enamoren de él. ¡Que se abra el telón, para esto una fantasía de Reunión de obtener las Diosas (Heroínas) más fuertes!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com#Volumenes" type="text/html" title="Einherjar Project"/>
+¿Tiene Alina lo necesario para evitar que su vida se ponga patas arriba?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxlink.com/s/1TlFuaw9SYZGBncC7uPZs9g" type="text/html" title="AniMangaNovel y Cafuné Translations"/>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxlink.com/s/1zRqhayS7DXLCxcrqDQF8Hg" type="text/html" title="Kyūden Translation"/>
 </entry>
 </feed>

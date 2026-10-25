@@ -1,30 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:あらおし悠</id>
-<title>あらおし悠</title>
-<updated>2026-10-21T00:13:50.759641+00:00</updated>
+<id>nextnovels:autores:Zappon</id>
+<title>Zappon</title>
+<updated>2026-10-25T03:42:53.894601+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1130.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Yuri-Colored Academy Dormitory Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-yuri-colored-academy-dormitory-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-yuri-colored-academy-dormitory-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/04/Yuri-Colored-Academy-Dormitory-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/04/Yuri-Colored-Academy-Dormitory-Portada.jpg"/>
-<author><name>あらおし悠</name></author>
-<category term="Adulto" label="Adulto"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Maduro" label="Maduro"/>
+<title>Banished from the Hero's Party Novela Ligera en Español</title>
+<id>https://nextnovels.com/banished-from-the-heros-party-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/banished-from-the-heros-party-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/05/Banished-from-the-Heros-Party-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/05/Banished-from-the-Heros-Party-Portada.jpg"/>
+<author><name>Zappon</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Yuri" label="Yuri"/>
-<content type="text">Este es un paraíso lleno de amor solo para chicas...
-
-¡Un apasionado romance entre chicas comienza en la vida del dormitorio!
-
-Mientras se prepara para cambiar de escuela, Suzu no puede contenerse y le confiesa su amor a su mejor amiga, Kaori. Ella pensaba que era la única que podía amar a otra chica...
-
-Sin embargo, en su nueva escuela, su compañera de último año Saya le roba un beso, llevándola a experimentar su primer placer.
-
-¡Un amor de color yuri que sacude tanto el corazón como el cuerpo!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1XUg2f8-7vY0hUqSAya50EA" type="text/html" title="Next Novels (MTL)"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">Red fue una vez miembro del grupo del Héroe, un poderoso grupo destinado a salvar al mundo de las fuerzas malignas de Taraxon, el Señor Demonio Furioso. Es decir, hasta que uno de sus compañeros lo echó. Con la esperanza de vivir la vida fácil en la frontera, el nuevo objetivo de Red es abrir una botica. Sin embargo, guardar el secreto de su vida anterior puede no ser tan simple como él cree. ¡Especialmente cuando la hermosa Rit, una aventurera de su pasado, aparece y pide mudarse con él!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1vAo-no5bO7S6VmmwFCAVtg" type="text/html" title="World Project"/>
 </entry>
 </feed>

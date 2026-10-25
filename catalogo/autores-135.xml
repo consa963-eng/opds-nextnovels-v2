@@ -1,27 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Dokuzu Kento</id>
-<title>Dokuzu Kento</title>
-<updated>2026-10-21T00:13:50.592724+00:00</updated>
+<id>nextnovels:autores:DigimonWeb</id>
+<title>DigimonWeb</title>
+<updated>2026-10-25T03:42:53.562518+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-135.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Goetia Shock Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-goetia-shock-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-goetia-shock-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/Goetia-Shock-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/09/Goetia-Shock-Portada.jpg"/>
-<author><name>Dokuzu Kento</name></author>
+<title>Digimon Seekers Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-digimon-seekers-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-digimon-seekers-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/02/Digimon-Seekers-Portada.webp"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/02/Digimon-Seekers-Portada.webp"/>
+<author><name>DigimonWeb</name></author>
 <category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
 <category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Drama" label="Drama"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Sobrenatural" label="Sobrenatural"/>
-<content type="text">Un futuro en el que las cuatro megacorporaciones han erradicado el concepto de «gobierno nacional» de la mayor parte del planeta. Alicia Arklight, una joven conocida como la «Maga de la computadora» —una hacker capaz incluso de controlar los cerebros auxiliares implantados en el cuerpo humano, lo que se conoce como «el milagro de una en un millón»—, recibe el encargo de buscar a un padre y una hija artistas y se dirige a la isla artificial «zona especial de la comuna artística de Neo-Maihama»… ¿pero qué sucederá? ¡Se publican simultáneamente los dos volúmenes de esta novela cyberpunk, dura y sexy, que retrata un mundo futuro dominado por la tecnología avanzada y la ética decadente!
-
-Un futuro en el que la instalación de cerebros auxiliares en el cuerpo humano se ha convertido en algo habitual…
-
-¡Una novela cyberpunk, dura y sexy, que narra las hazañas de Alicia, la «Maga de la computadora!!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1w2P9wHTQNp0Rj-0yP9vV3Q" type="text/html" title="Defous123"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Psicológico" label="Psicológico"/>
+<content type="text">La historia del "Cracker* Eiji Nagasumi da un giro de 180° cuando acepta la solicitud de Ryusenju, un célebre profesor de la Universidad Cibernética de Tokyo, infiltrarse en la comunidad Sons Of Chaos, la banda extremista del grupo Team Crack y recibe un dispositivo digital denominado Digimon Linker, junto con una nueva criatura digital llamado Loogamon ¿Que es lo que le esperará a este pirata informatico de pacotilla?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1c0XWGPDrbiBm0LUUjXQ0rQ" type="text/html" title="Traducciones Manzano"/>
 </entry>
 </feed>

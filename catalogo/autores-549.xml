@@ -1,25 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Matsue Fukuyama</id>
-<title>Matsue Fukuyama</title>
-<updated>2026-10-21T00:13:50.660207+00:00</updated>
+<id>nextnovels:autores:Masayuki Abe</id>
+<title>Masayuki Abe</title>
+<updated>2026-10-25T03:42:53.765719+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-549.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Majutsu no Hate wo Motomeru Dai Majutsushi Novela Ligera en Español</title>
-<id>https://nextnovels.com/majutsu-no-hate-wo-motomeru-dai-majutsushi-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/majutsu-no-hate-wo-motomeru-dai-majutsushi-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/03/Majutsu-no-Hate-wo-Motomeru-Dai-Majutsushi-Portada.jpeg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/03/Majutsu-no-Hate-wo-Motomeru-Dai-Majutsushi-Portada.jpeg"/>
-<author><name>Matsue Fukuyama</name></author>
+<title>Be Stronger! New Saga Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-be-stronger-new-saga-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-be-stronger-new-saga-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/04/Be-Stronger-New-Saga-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/04/Be-Stronger-New-Saga-Portada.jpg"/>
+<author><name>Masayuki Abe</name></author>
 <category term="Acción" label="Acción"/>
 <category term="Aventura" label="Aventura"/>
-<category term="Ecchi" label="Ecchi"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Fantasía Oscura" label="Fantasía Oscura"/>
 <category term="Harem" label="Harem"/>
-<category term="Magia" label="Magia"/>
-<content type="text">Tras un reinado cruel y calculado, Kai Lekius, el Rey Sanguinario, trajo la estabilidad y la paz a su antaño fragmentada tierra. Así comenzó su letargo mortal mientras esperaba el surgimiento de la magia, dejando el resto en las capaces manos de su hermano. Trescientos años después, despierta como un Sangre Verdadera, un vampiro inmortal de inmenso poder. Sin embargo, incluso después de todo ese tiempo, ¡la magia no ha progresado en absoluto! Un sistema de nobleza, que él no recuerda haber establecido, tiraniza a los débiles y cansados del nuevo mundo. Aunque le disgusta enormemente, Kai debe posponer una vez más sus estudios y ¡salvar a su pueblo de una vez por todas!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/19SG1VDNceONrGNSYSNq3KQ" type="text/html" title="Ilusion Shuri Novels"/>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1UYQaK6A86-unJuO-LM88Aw" type="text/html" title="World Project"/>
+<category term="Seinen" label="Seinen"/>
+<content type="text">El Rey Demonio lideró a su ejército de demonios para acabar con la raza humana. El héroe, Kyle, y sus aliados atacan el castillo del Rey Demonio para derrotarlo. El Rey Demonio es asesinado, pero ¿a qué precio? Kyle ha perdido a todos sus aliados durante la guerra. Amigos, familiares, amantes, compañeros. Todos muertos. Mientras yace moribundo a los pies de la cámara del Rey Demonio, se fija en una extraña gema que el Rey Demonio codiciaba.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1KBu9PW0Hn1uiIK6y3Xpzuw" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 </feed>

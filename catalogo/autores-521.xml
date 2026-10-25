@@ -1,30 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Makida Noriya</id>
-<title>Makida Noriya</title>
-<updated>2026-10-21T00:13:50.655894+00:00</updated>
+<id>nextnovels:autores:Mado Kaori</id>
+<title>Mado Kaori</title>
+<updated>2026-10-25T03:42:53.759803+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-521.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Uwaki Shiteita Kanojo wo Futta Nochi, Gakuen Ichi no Bishoujo ni Omochikaeri Saremashita Novela Ligera en Español</title>
-<id>https://nextnovels.com/uwaki-shiteita-kanojo-wo-futta-nochi-gakuen-ichi-no-bishoujo-ni-omochikaeri-saremashita-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/uwaki-shiteita-kanojo-wo-futta-nochi-gakuen-ichi-no-bishoujo-ni-omochikaeri-saremashita-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/08/Uwaki-Shiteita-Kanojo-wo-Futta-Nochi-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/08/Uwaki-Shiteita-Kanojo-wo-Futta-Nochi-Portada.jpg"/>
-<author><name>Makida Noriya</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<title>You, Fireworks, and Our Promise Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-you-fireworks-and-our-promise-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-you-fireworks-and-our-promise-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/You-Fireworks-and-Our-Promise-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/07/You-Fireworks-and-Our-Promise-Portada.jpg"/>
+<author><name>Mado Kaori</name></author>
+<category term="Drama" label="Drama"/>
 <category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Shinsei, un estudiante de preparatoria fue testigo directo de la infidelidad de Ria, quien era su primera novia, así que con el dolor de su corazón, decidió romper con ella.
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Este sentimiento, trascendiendo el tiempo, se conecta contigo.
 
-Participó en una fiesta en conjunto invitado por su mejor amigo Shou pero, debido a que aun estaba deprimido por lo anteriormente sucedido, decidió irse de la fiesta, pero de repente, fue besado en los labios por Reina Futaba, la chica más hermosa de la Preparatoria.
+"Siempre había querido conocerte."
 
-Ella asistió a la fiesta solo por él, con el objetivo de “llevárselo” a su departamento.
+En la primavera de su primer año de instituto, Makoto Natsume, recién ingresado, recibe una repentina confesión de una chica a la que nunca había visto. Su nombre es Akira (Kira). Ella, apoyándose en un viejo cuadro de fuegos artificiales, dice haber esperado con ansias el día en que pudiera encontrarse con Makoto. Una confusión de persona evidente; sin embargo, Makoto termina ayudando a Kira en la búsqueda del "verdadero Makoto Natsume".
 
-Tomó la iniciativa, pero cuando estaban solos en el departamento, ella se mostró torpe y primeriza.
+Las estaciones pasan, y los dos visitan Nagaoka para resolver el misterio del cuadro. Lo que les aguarda allí es un encuentro inesperado y la verdad. Cuando los fuegos artificiales florecen en el cielo estival de Nagaoka, la "promesa" de ambos trasciende incluso el tiempo y cambia el destino. Una conmovedora historia juvenil donde los deseos se entrelazan, ambientada en el Gran Festival de Fuegos Artificiales de Nagaoka.
 
-Es una comedia romántica de amor puro con tintes adultos donde el protagonista tratará de volver a confiar en el amor al lado de una nueva novia que solo lo ama a él.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/19scbMx21d_T5le8HVRDUhw" type="text/html" title="Tamashi's Project"/>
+Incluye ilustraciones a color y en blanco y negro con la misma calidad del original.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/14sfCh-7O6mZshYB9w_ST3Q" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 </feed>

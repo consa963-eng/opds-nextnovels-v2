@@ -1,59 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Shiotarou Yamaga</id>
-<title>Shiotarou Yamaga</title>
-<updated>2026-10-21T00:13:50.710911+00:00</updated>
+<id>nextnovels:autores:Shinonome Rippuu, Ichiei Ishibumi</id>
+<title>Shinonome Rippuu, Ichiei Ishibumi</title>
+<updated>2026-10-25T03:42:53.833438+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-856.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Kanpeki na Sako-san wa Mobu (Boku) Mitai ni Naritai Novela Ligera en Español</title>
-<id>https://nextnovels.com/kanpeki-na-sako-san-wa-mobu-boku-mitai-ni-naritai-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/kanpeki-na-sako-san-wa-mobu-boku-mitai-ni-naritai-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/05/Kanpeki-na-Sako-san-wa-Mobu-Boku-Mitai-ni-Naritai-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/05/Kanpeki-na-Sako-san-wa-Mobu-Boku-Mitai-ni-Naritai-Portada.jpg"/>
-<author><name>Shiotarou Yamaga</name></author>
+<title>Junior High School DxD Novela Ligera en Español</title>
+<id>https://nextnovels.com/junior-high-school-dxd-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/junior-high-school-dxd-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/07/Junior-High-School-DxD-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/07/Junior-High-School-DxD-Portada.jpg"/>
+<author><name>Shinonome Rippuu, Ichiei Ishibumi</name></author>
+<category term="Acción" label="Acción"/>
 <category term="Comedia" label="Comedia"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Sako Machika es perfecta y sin defectos. Está en lo más alto del curso con sus excelentes notas y tiene una cara mona que hace que todo el mundo la mire dos veces. Sobresaliente en su club, hábil en las tareas domésticas y en los quehaceres, es el blanco de la admiración de todos los chicos.
+<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">¿¡La estudian de la sección escuela media que conoce Rias──es una belleza descendiente de Miyamoto Musashi!?
 
-"Me... gustas".
-
-Espera, ¡¿Sako-san se me confesó?! Pero... no soy más que un don nadie, ¡no somos un buen partido el uno para el otro! Sin embargo, de la nada...
-
-"Es un corte de pelo chapucero, ¿verdad?"
-
-"Me estuviste mirando los muslos todo el tiempo."
-
-De repente se cortaba su larga y bonita melena, se acortaba la falda, mostraba un aspecto imperfecto mientras se acercaba implacablemente a mí...
-
-"Mientras no sea perfecta, tengo una oportunidad, ¿no?".
-
-¡¿Todo es un intento de hacernos parecer un mejor partido?!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1Z4oBeHKBH1_d7rIWHbAZ0g" type="text/html" title="Domen Translations"/>
-</entry>
-<entry>
-<title>Please Stop Fighting Over Me! Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-please-stop-fighting-over-me-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-please-stop-fighting-over-me-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/Please-Stop-Fighting-Over-Me-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/02/Please-Stop-Fighting-Over-Me-Portada.jpg"/>
-<author><name>Shiotarou Yamaga</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Shoujo Ai" label="Shoujo Ai"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<category term="Yuri" label="Yuri"/>
-<content type="text">"¡Estoy atrapada entre la carismática gyaru de ciudad y la elegante y adorable belleza de Kioto...! ¡No tengo ni idea de como paso esto!
-
-Yo, Kurimoto Tsubame, que me mudé desde el campo a la ciudad, ahora estoy, por alguna razón, siendo presionada, practicamente acosada por por dos chicas hermosas.
-
-¡Oigan ya basta, no toquen ahi, no se me peguen tanto!
-
-—¿Por qué terminó así?...
-
-Solo quería que Seira-chan y Orine-san, que son como el perro y el mono, se reconciliaran...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1XYik-Bv9lQmop2Tkv0x8hw" type="text/html" title="Kyūden Translation"/>
+Una nueva estudiante toca a la puerta de sección escuela media de la academia Kuou. Zekka es descendiente Miyamoto Musashi y posee la sacred Gear tipo espada 「Tensei」. ¿¡Su objetivo es hacer amigos en la academia Kuou!? ¡La nueva serie de 「D×D」 será guiada por amigos únicos y estudiantes de la sección secundaria superior como Rias y los demás!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/17-onE2NQLy8Suj4k14V62A" type="text/html" title="Otunovel"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Q9zqVQz41-7Cc12wixfDlw" type="text/html" title="Dark Guild Fansub"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1EuOtGdU_qgAOzZIu-Uo3fA" type="text/html" title="Uku Translations"/>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/high-school-dxd-novela-ligera-en-espanol/" type="text/html" title="High School DxD - Novela"/>
 </entry>
 </feed>

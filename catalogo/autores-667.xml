@@ -1,34 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Natsuka Saru</id>
-<title>Natsuka Saru</title>
-<updated>2026-10-21T00:13:50.679840+00:00</updated>
+<id>nextnovels:autores:Nasu Kinoko</id>
+<title>Nasu Kinoko</title>
+<updated>2026-10-25T03:42:53.791286+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-667.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Breaking Death Flags with Power Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-breaking-death-flags-with-power-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-breaking-death-flags-with-power-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/Breaking-Death-Flags-with-Power-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/10/Breaking-Death-Flags-with-Power-Portada.jpg"/>
-<author><name>Natsuka Saru</name></author>
+<title>Kara no Kyoukai Novela Ligera en Español</title>
+<id>https://nextnovels.com/kara-no-kyoukai-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/kara-no-kyoukai-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-81.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-81.jpg"/>
+<author><name>Nasu Kinoko</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
+<category term="Artes marciales" label="Artes marciales"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<content type="text">¿Te reencarnaste en el villano del juego que dominaste a la perfección? ¡Usa tu conocimiento del original para destacar y abrirte paso a través de las rutas!
+<category term="Misterio" label="Misterio"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Romance" label="Romance"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Kara no Kyoukai es una serie de historias escritas por Kinoko Nasu con ilustraciones de Takashi Takeuchi.
 
-Yo me reencarné en Gakuen Kagurazaka, un juego de bishōjo al que le había dedicado horas... pero lo hice como Titan, un noble villano con cero talento para la espada y totalmente incapaz de usar habilidades. Para colmo, su destino en todas las rutas es morir al final.
-
-¡Sin embargo, poseo todo el conocimiento de este mundo! Tras romper los flags de muerte que se cruzaban en mi camino y seguir mi propio rumbo, ¿¡terminé de algún modo en una ruta de harén rodeado por las heroínas!?
-
-Cyan, una princesa inocente y algo ingenua con el mundo.
-
-Chrono, una sirvienta de tipo frío y de pocas palabras.
-
-Fleure, la enfermera de la escuela, pequeña pero rebosante de calidez.
-
-¡Pasa de ser un noble villano con un final malo asegurado a destacar con tus conocimientos absolutos y abrir una nueva ruta! ¡Da comienzo esta fantasía de reencarnación en un juego de bishōjo!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1wuT99zFb0j4GBuw97wN7lQ" type="text/html" title="SliperNovels"/>
+Los primeros cinco capítulos se publicaron en línea en el sitio web dojin "Takebouki" de Nasu y Takeuchi a partir de octubre de 1998, y los dos últimos capítulos se publicaron en el Comiket 56 en 1999. En 2001, parte de la historia se incluyó en "Tsukihime PLUS-DISK", creado por TYPE-MOON, el círculo doujin al que se unieron Nasu y Takeuchi. La historia ganó una enorme popularidad, y la edición doujinshi de las historias fue lanzada el 30 de diciembre de 2001 en el Comiket 61.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1cR5y1XcPZ7tX7gwV_vxYdA" type="text/html" title="SoltiLeheleni Fansub, Bar Ahnennerbe"/>
+</entry>
+<entry>
+<title>Tsuki no Sango Novela Ligera en Español</title>
+<id>https://nextnovels.com/tsuki-no-sango-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/tsuki-no-sango-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/09/01-1.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/09/01-1.jpg"/>
+<author><name>Nasu Kinoko</name></author>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Drama" label="Drama"/>
+<category term="Romance" label="Romance"/>
+<content type="text">La historia se desarrolla aproximadamente en el año 3000, cuando la humanidad ha llegado a la cima de su civilización, pero está perdiendo la voluntad de seguir viviendo. Sigue a una chica, llamada "princesa" por los que la rodean, que vive en una pequeña isla con una colonia de cincuenta personas y un brillante arrecife de coral. Ella es descendiente de la gente de la Luna, y se centra en cómo sus antepasados supuestamente llegaron a la Tierra.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1ftL6cqJwh-IdjuIgU-Mn1Q" type="text/html" title="Mi Castillo de Arena"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1azHefJAvvw30JSQI97aRiQ" type="text/html" title="Project High Fox"/>
 </entry>
 </feed>

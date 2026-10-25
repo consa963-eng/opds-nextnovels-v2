@@ -1,45 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Yoshino Origuchi</id>
-<title>Yoshino Origuchi</title>
-<updated>2026-10-21T00:13:50.751756+00:00</updated>
+<id>nextnovels:autores:Yoshida Sunao</id>
+<title>Yoshida Sunao</title>
+<updated>2026-10-25T03:42:53.884284+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1082.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Monster Girl Doctor Novela Ligera en Español</title>
-<id>https://nextnovels.com/monster-girl-doctor-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/monster-girl-doctor-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/02/Monster-Musume-no-Oisha-san-Portada-e1645212491277.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/02/Monster-Musume-no-Oisha-san-Portada-e1645212491277.jpg"/>
-<author><name>Yoshino Origuchi</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<title>Trinity Blood CANON Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-trinity-blood-canon-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-trinity-blood-canon-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/Trinity-Blood-CANON-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/03/Trinity-Blood-CANON-Portada.jpg"/>
+<author><name>Yoshida Sunao</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Drama" label="Drama"/>
 <category term="Romance" label="Romance"/>
-<content type="text">En la ciudad de Lindworm, donde coexisten monstruos y humanos, el Dr. Glenn dirige una clínica médica ejemplar para chicas monstruo con su ayudante lamia, Sapphee.
-
-Ya sea recibiendo la propuesta de matrimonio de un centauro herido en batalla, palpando la herida de una sirena o suturando las delicadas heridas de un gólem de carne, el Dr. Glenn realiza su trabajo con gracia y confianza.
-
-Pero cuando un personaje desagradable pretende robar un huevo de arpía, ¿cómo responderá el imperturbable Dr. Glenn...?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1N2zRQ4vJ5dn4ehmfBXaf2Q" type="text/html" title="MiraiK y 00"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Se incluyen todos los relatos cortos hasta ahora no recopilados, como "Gunmetal Hound". Además, a partir de las notas de ideas y materiales de diseño que dejó el autor, ¡se explica el 〈principio〉 y el 〈 final 〉 de "Trinity Blood" que nunca llegaron a escribirse! También se publica la versión más reciente del glosario "Gran Compendio Eclesiástico".</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1saxGtdFc8yEZ3ssW6kYMZw" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 <entry>
-<title>Monster Musume The Novel Novela Ligera en Español</title>
-<id>https://nextnovels.com/monster-musume-the-novel-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/monster-musume-the-novel-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/01/01-1-e1641829092837.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/01/01-1-e1641829092837.jpg"/>
-<author><name>Yoshino Origuchi</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Fantasía" label="Fantasía"/>
-<content type="text">Un nuevo spin-off de la exitosa serie Monster Musume.
+<title>Trinity Blood Rage Against the Moons Novela Ligera en Español</title>
+<id>https://nextnovels.com/trinity-blood-rage-against-the-moons-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/trinity-blood-rage-against-the-moons-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-105.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-105.jpg"/>
+<author><name>Yoshida Sunao</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Drama" label="Drama"/>
+<category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">La serie se desarrolla en un período indeterminado del futuro, 500 años después de que una guerra apocalíptica entre todas las naciones de la Tierra destruyera la civilización, cuando la humanidad se ha restablecido.
 
-El veinteañero Kurusu Kimihito pensaba que vivir con un grupo de chicas monstruosas ya era bastante complicado, pero hay una nueva directiva enviada por el gobierno: ¡consigue un trabajo!
+En este mundo futuro, la Iglesia católica romana se ha convertido en una gran potencia militar, cuyos objetivos incluyen la protección de la humanidad contra los vampiros Methuselahs, que están en guerra contra la humanidad (o "Terran", como ellos llaman a los humanos). Su sede de poder es el Vaticano, un lugar atractivo con arquitectura tradicional europea; es probable que sea la misma ciudad del Vaticano en el mundo real (aunque quizás reconstruida tras la guerra anterior).
 
-Ahora, la lamia Miia, la centauro Centoria y todas tus chicas monstruo favoritas tienen que incorporarse al mundo laboral, lo que les llevará a vestirse con sexys uniformes, a hacer travesuras en el trabajo y a vivir una nueva experiencia que satisfará a cualquier fan de la serie..
-
-Escrito por la autora de las novelas ligeras Monster Girl Doctor, Yoshino Origuchi, y con ilustraciones totalmente nuevas del creador de la serie OKAYADO, este libro presenta a las chicas monstruo favoritas de todos en una nueva aventura de novela ligera.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1MKVRSA30pQxil2Ze-W4NoQ" type="text/html" title="MiraiK - Novelas Ligeras y más"/>
+Los Methuselahs son otra fuerza política y militar importante. Su capital, Bizancio (presumiblemente construida en el emplazamiento de la Bizancio del mundo real, ahora Estambul) aparece como una elegante metrópolis, rodeada por un campo de partículas que filtra la radiación ultravioleta, protegiendo así a la población de Matusalén.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Yp5Avj7FGIJm0LIlnzSCLg" type="text/html" title="Timun Mas, Racksha, MiraiK"/>
+</entry>
+<entry>
+<title>Trinity Blood Reborn on the Mars Novela Ligera en Español</title>
+<id>https://nextnovels.com/trinity-blood-reborn-on-the-mars-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/trinity-blood-reborn-on-the-mars-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-106.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-106.jpg"/>
+<author><name>Yoshida Sunao</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Drama" label="Drama"/>
+<category term="Horror" label="Horror"/>
+<category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Una misteriosa organización terrorista está empeñada en provocar una guerra entre el Nuevo Imperio Humano y el Vaticano. El agente de Operaciones Especiales AX Abel Nightroad se une a una joven y valiente novata llamada Esther para intentar impedir que Gyula, el sanguinario marqués de Hungría, desate la legendaria Estrella del Dolor. Con un telón de fondo neogótico, esta segunda serie de Trinity Blood -conectada con la serie Rage Against the Moons- promete mucha acción e intriga mientras Esther y Abel luchan por salvar las vidas de humanos y vampiros por igual.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/12DD_a1jR9NFKiZdZ5ALZIw" type="text/html" title="Timun Mas"/>
 </entry>
 </feed>

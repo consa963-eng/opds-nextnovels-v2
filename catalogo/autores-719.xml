@@ -1,23 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Oosaki Tomohiko</id>
-<title>Oosaki Tomohiko</title>
-<updated>2026-10-21T00:13:50.688378+00:00</updated>
+<id>nextnovels:autores:Ononata Manimani</id>
+<title>Ononata Manimani</title>
+<updated>2026-10-25T03:42:53.803390+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-719.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Naruto: Sakura Hiden Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-naruto-sakura-hiden-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-naruto-sakura-hiden-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/11/Naruto-Sakura-Hiden-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/11/Naruto-Sakura-Hiden-Portada.jpg"/>
-<author><name>Oosaki Tomohiko</name></author>
+<title>Fukushuu o Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou Suru Novela Ligera en Español</title>
+<id>https://nextnovels.com/fukushuu-o-koinegau-saikyou-yuusha-wa-yami-no-chikara-de-senmetsu-musou-suru-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/fukushuu-o-koinegau-saikyou-yuusha-wa-yami-no-chikara-de-senmetsu-musou-suru-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/01/01-7.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/01/01-7.jpg"/>
+<author><name>Ononata Manimani</name></author>
 <category term="Acción" label="Acción"/>
+<category term="Adulto" label="Adulto"/>
 <category term="Aventura" label="Aventura"/>
 <category term="Drama" label="Drama"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Romance" label="Romance"/>
-<content type="text">Sakura Haruno refleja en algunos momentos que ha tenido con Sasuke Uchiha: cuando sin querer lo insultó poco después de la formación del Equipo 7; cuando trató de detenerlo de desertar a Orochimaru; cuando se fue de Konoha a vagar por el mundo, pero prometió volver a verla. Sakura se pregunta dónde está ahora.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1KtlZjoEKDLgJ8CyTYfVRSQ" type="text/html" title="Mi Castillo de Arena"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/18UjP_xceALF4dLx3qQPNHg" type="text/html" title="Martina"/>
+<category term="Maduro" label="Maduro"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">Raúl, que había derrotado al rey demonio como el héroe más fuerte, debería haberse convertido en el salvador del mundo.
+
+Sus preciados compañeros y familiares al ser asesinados por aristócratas hambrientos de poder, fue ejecutado por cargos falsos presentados en su contra.
+
+Justo antes de que su vida se derrumbara, finalmente su corazón cayó en la oscuridad.
+
+¡¡¡Mataré a esos traidores, los quemaré, los cortaré en pedazos, los destrozaré. Los mataré a todos sin piedad mientras prueban el dolor del verdadero infierno!!!
+
+Raúl al obtener el poder de la oscuridad, fue revivido y juró vengarse.
+
+[Ah, ya no puedo esperar. Me alegraré bañándome con la sangre de todos]
+
+Varios días después de la resurrección del héroe. Una venganza llena de atrocidades había comenzado.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/16dh7lu3muZ4nvaTyQKvPRg" type="text/html" title="GBtraducciones"/>
 </entry>
 </feed>

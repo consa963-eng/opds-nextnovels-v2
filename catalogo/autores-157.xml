@@ -1,67 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Fujino Omori</id>
-<title>Fujino Omori</title>
-<updated>2026-10-21T00:13:50.596156+00:00</updated>
+<id>nextnovels:autores:Fujiki Washiro</id>
+<title>Fujiki Washiro</title>
+<updated>2026-10-25T03:42:53.567238+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-157.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Argonauta: Danmachi Novela Ligera en Español</title>
-<id>https://nextnovels.com/argonauta-danmachi-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/argonauta-danmachi-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/10/Argonauta-Portada.webp"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/10/Argonauta-Portada.webp"/>
-<author><name>Fujino Omori</name></author>
+<title>Eiyuu to Kenja no Tensei Kon Novela Ligera en Español</title>
+<id>https://nextnovels.com/eiyuu-to-kenja-no-tensei-kon-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/eiyuu-to-kenja-no-tensei-kon-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/08/Eiyuu-to-Kenja-no-Tensei-Kon-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/08/Eiyuu-to-Kenja-no-Tensei-Kon-Portada.jpg"/>
+<author><name>Fujiki Washiro</name></author>
 <category term="Acción" label="Acción"/>
 <category term="Aventura" label="Aventura"/>
 <category term="Comedia" label="Comedia"/>
 <category term="Fantasía" label="Fantasía"/>
 <category term="Romance" label="Romance"/>
-<content type="text">"Argonauta".
-
-Una historia ambientada en la antigüedad temprana, cuando no existía la "Bendición de los Dioses".
-
-El romance heroico de un hombre, transmitido hasta el día de hoy en innumerables relatos. Un héroe extremadamente débil y deslucido en comparación con otros héroes de la historia. Sin embargo, algunos lo llaman el "Héroe del Comienzo".
-
-Pero, ¿por qué se le llama así?
-
-Esta es la historia de un hombre ridículo.
-
-Un bufón que tenía deseos desproporcionados, fue manipulado por innumerables intrigas, y aún así se mantuvo como un tonto hasta el final.
-
-Ahora, comencemos la "Comedia".</content>
-<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1Yi_z_Mn7S9lGYG0CTIV5EA" type="text/html" title="Turret Translations"/>
-</entry>
-<entry>
-<title>Wistoria Grimo Acta Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-wistoria-grimo-acta-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-wistoria-grimo-acta-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/Wistoria-Grimo-Acta-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/07/Wistoria-Grimo-Acta-Portada.jpg"/>
-<author><name>Fujino Omori</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Romance" label="Romance"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Esas «lágrimas» que anuncian el comienzo de la historia...
+<content type="text">Reid, un joven héroe con super fuerza física, y Elria, una bella sabia con la mayor destreza mágica.
 
-¡Comienza la «precuela» de hace seis años, cuando eran alumnos de primer curso en la Academia de Magia!
+Siguieron luchando como rivales en naciones enemigas opuestas, pero su relación llegó a su fin con la repentina muerte de Elria... Entonces, mil años después:
 
-«¡Convirtámonos juntos en los “Cinco Bastones Supremos” y vayamos a ver la puesta de sol!»
+Reencarnado en un mundo donde la magia reina, pero el que ha conservado la fuerza física más fuerte de su vida anterior, Reid, se reunió con Elria, que también se ha reencarnado...
 
-Con la promesa entre ambos guardada en el corazón, Will ingresa en la Academia de Magia Rigarden junto a su amiga de la infancia, Elfaria.
+"Oye, Reid... quiero que te cases conmigo."
 
-Allí se encuentran con diversos magos. En medio de todo ello, el talento mágico de Elfaria es reconocido y, en un abrir y cerrar de ojos, recibe una oferta de reclutamiento de la «Torre», que gobierna el mundo mágico.
+"......¿Huh?"
 
-Por su parte, Will descubre que carece de talento y se ve separado de la joven. Y el muchacho, sumido en la desesperación... empuña la espada.
-
-«Iré a la «Torre»... iré con Elfi».
-
-¡En un mundo donde reina la magia y se enaltece el «bastón», ahora nace la «espada» herética!
-
-¡Comienza la magnífica novelización de la precuela del popular cómic, escrita por el propio autor original!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/12zpDRlwViUc_1B4gNH8Tng" type="text/html" title="Next Novels (MTL)"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1KCFa2alDX_OJml5yJcGBHg" type="text/html" title="Kasnia Project"/>
+Los dos, que se han convertido en la pareja de enamorados inconscientes más fuerte en mil años, ¡Se inscribieron en la Academia Real de Magia para decidir quién es más fuerte!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1-yoFWmmk3vg3CZ4NL1F9UA" type="text/html" title="Domen Translations"/>
 </entry>
 </feed>

@@ -1,82 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Asaura</id>
-<title>Asaura</title>
-<updated>2026-10-21T00:13:50.586077+00:00</updated>
+<id>nextnovels:autores:Asato Asato</id>
+<title>Asato Asato</title>
+<updated>2026-10-25T03:42:53.553877+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-96.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Ben-To!‎‎ Novela Ligera en Español</title>
-<id>https://nextnovels.com/ben-to-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/ben-to-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/06/01-19.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/06/01-19.jpg"/>
-<author><name>Asaura</name></author>
+<title>86 (Eighty Six) Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-86-eighty-six-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-86-eighty-six-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2021/12/86-e1641220488949.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2021/12/86-e1641220488949.jpg"/>
+<author><name>Asato Asato</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Harem" label="Harem"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Drama" label="Drama"/>
+<category term="Mecha" label="Mecha"/>
 <category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Cierto día, un pobre estudiante de secundaria, Yō Satō entró en un supermercado y vio unos bentos a mitad de precio en oferta. Cuando estaba alcanzando inocentemente su bento deseado, fue derribado instantáneamente.
+<category term="Seinen" label="Seinen"/>
+<category term="Supernatural" label="Supernatural"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">La República de San Magnolia.
 
-Cuando recuperó el conocimiento, se dio cuenta de que estaba golpeado en el suelo. Cuando levantó la vista, se quedó atónito ante la escena que tenía delante. Era un acalorado campo de batalla por los bentos a mitad de precio. Atraído por esta inimaginable escena, Yō formó una alianza con su compañera de clase, Hana Oshiroi, que casualmente estaba en el supermercado, para conseguir los bentos a mitad de precio. Sin embargo, de la nada, una hermosa chica, conocida por los demás como "La bruja de hielo", le golpeó en un instante. Tras coger un bento para ella, se acercó a Yō y le dijo...
+Durante muchos años este país estuvo bajo ataque por el Imperio, quien creó unos innovadores vehículos militares no tripulados llamados Legión. En respuesta a los ataques, La República desarrollo con éxito una tecnología parecida, ayudando a retener el ataque enemigo, y lo más importante, sin ninguna muerte. ¿Pero es eso verdad? En esta versión oficial, sí hubo víctimas.
 
-El ganador del 5º premio anual de escritores de novelas ligeras Super Dash, Asaura, nos trae su más reciente obra, una comedia de instituto llena de acción, ¡Ben-To!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/17khqCCpjbXMxaBvCpeBgnw" type="text/html" title="Btoom Translations"/>
+En las afueras de los 85 sectores de la República, "El inexistente Sector 86", el lugar donde se producía las batallas contra la Legión. Donde los jóvenes del destacamento luchaban en sus vehículos contra la Legión.
+
+Shin, lider del escuadrón 86. Lena, "Handler" quien dirige a distancia al escuadrón desde la retaguardia mediante tecnología de comunicación especial.
+
+¡Comienza la bélica historia de la lucha de estos dos personajes!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1LxhEx1hZY9nOc9k-ERlzsA" type="text/html" title="Shinsengumi Translations"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1qzVfwq7qZJ-tF_PhIe-hYw" type="text/html" title="Kurimel Translations"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1lCiih0mP1-l9NxaBYyAHFQ" type="text/html" title="Ferindrad"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1kiWQzI8LD7dEoisSIdr6oQ" type="text/html" title="Kasnia Project"/>
 </entry>
 <entry>
-<title>Lycoris Recoil: Gluttony Days Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-lycoris-recoil-gluttony-days-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-lycoris-recoil-gluttony-days-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/Lycoris-Recoil-Gluttony-Days-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/06/Lycoris-Recoil-Gluttony-Days-Portada.jpg"/>
-<author><name>Asaura</name></author>
+<title>The Yaebuki Agency Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-yaebuki-agency-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-yaebuki-agency-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/The-Yaebuki-Agency-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/10/The-Yaebuki-Agency-Portada.jpg"/>
+<author><name>Asato Asato</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Yuri" label="Yuri"/>
-<content type="text">¡La tercera entrega de la nueva serie de novelas del popular anime «Licorice Recoil»!
+<category term="Aventura" label="Aventura"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Fantasía" label="Fantasía"/>
+<content type="text">Comienza la conmovedora y desgarradora historia de amor entre un chico y una chica, del autor de "86".
 
-«¡Soy la chica del letrero de la cafetería Licorico!»
-
-Hoy también resuena en la cafetería Licorico el cencerro que anuncia la llegada de los clientes...
-
-¡Un spin-off que nos muestra la vida fuera de lo común de Chizuku Nishikigi y Takina Inoue, que no se mostró en la serie de anime de televisión!♪
-
-¿La misión de escolta de las chicas se convierte, quién lo diría, en un tour gastronómico? ¿Qué es exactamente ese «sabor de Japón» del que Chizuka habla con tanto entusiasmo? Además, ¡Chizuka organiza una clase de cocina para Fuki, con quien no se lleva nada bien!
-
-Y el mundo de los bocadillos nocturnos de Kurumi, al que invita a la hambrienta Takina, tiene el sabor del pecado prohibido…!
-
-¡La tercera entrega de la nueva serie de novelas, un combo de raciones abundantes y porciones gigantes, escrita por el propio creador original, que narra la vida cotidiana de las chicas de Licorice, que nunca sale como se espera!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1bQR-HCTUe5yovJ9-_tB_Xw" type="text/html" title="Next Novels (MTL)"/>
-</entry>
-<entry>
-<title>Lycoris Recoil: Ordinary Days Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-lycoris-recoil-ordinary-days-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-lycoris-recoil-ordinary-days-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/Lycoris-Recoil-Ordinary-Days-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/06/Lycoris-Recoil-Ordinary-Days-Portada.jpg"/>
-<author><name>Asaura</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Yuri" label="Yuri"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1BPK0zTwq2PdRQVp7tbFsdg" type="text/html" title="Next Novels (MTL)"/>
-</entry>
-<entry>
-<title>Lycoris Recoil: Recovery Days Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-lycoris-recoil-recovery-days-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-lycoris-recoil-recovery-days-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/Lycoris-Recoil-Recovery-Days-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/06/Lycoris-Recoil-Recovery-Days-Portada.jpg"/>
-<author><name>Asaura</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Yuri" label="Yuri"/>
-<content type="text">¡POR LA NOCHE SON AGENTES SECRETAS; POR EL DÍA, SON UNAS GIRASAS CAMARERAS!
-
-Aunque estas colegialas protegen a Japón como agentes de Lycoris, también trabajan en una cafetería. Chisato quiere que Takina disfrute de la experiencia de ver una película en el cine, ¡pero les llega una misión importante justo antes de que empiece la función! ¡Otro día, Takina se despierta en una cabaña en el bosque con un asesino?! Mientras tanto, ¿qué están haciendo Fuki y Sakura además de proteger la ciudad sin que nadie se dé cuenta? ¡La vida cotidiana de estas chicas es todo menos ordinaria!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1MjGrn8fYQCNbk_R9A2ncWg" type="text/html" title="Next Novels (MTL)"/>
+El gran ritual para salvar al mundo de su destino de destrucción: la conquista de la Torre de Diez Millones de jō. El grupo de trabajo especial de la Familia Real, Yaeyamabuki, conocido comúnmente como la agencia Yaebuki, se enfrenta al desafío de conquistar esta colosal torre, tejida con magia espiritual y engranajes que se manifiestan cada noche. Los hechiceros gemelos, Akane y Aohi, se unen a Matsurika, un guardia de élite de la Capital Imperial, para prevenir un ataque terrorista de una secta. Se oponen a ellos un malvado dragón y sus seguidores, que obstaculizan la conquista de la Torre de Diez Millones de jō; los súbditos que resienten la sociedad controlada; y la Princesa de la Destrucción, quien mueve los hilos de la destrucción. El vínculo entre chicos y chicas que florece en medio de una batalla brutal acaba convirtiéndose en una espada que los hiere: «En un mundo que se desvanece, las flores que resisten y se marchitan son las más bellas». ¡Disfruta de esta nueva historia de Asato, autor de relatos de batallas y juventud, que fusiona el periodo Heian con el espiritualismo y el cyberpunk!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1DfG5b1yCUXeAvgqdQxfnMw" type="text/html" title="Saitou Translations"/>
 </entry>
 </feed>

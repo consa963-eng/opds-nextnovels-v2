@@ -1,22 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Maekawa Atsushi</id>
-<title>Maekawa Atsushi</title>
-<updated>2026-10-21T00:13:50.655469+00:00</updated>
+<id>nextnovels:autores:Leonar D</id>
+<title>Leonar D</title>
+<updated>2026-10-25T03:42:53.759121+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-518.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Fresh Pretty Cure! Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-fresh-pretty-cure-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-fresh-pretty-cure-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/11/Fresh-Pretty-Cure-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/11/Fresh-Pretty-Cure-Portada.jpg"/>
-<author><name>Maekawa Atsushi</name></author>
-<category term="Acción" label="Acción"/>
+<title>I’m Just a Mob Priest, but Since I Realized This World is an Otome Game, I’ll Train the Heroine Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-im-just-a-mob-priest-but-since-i-realized-this-world-is-an-otome-game-ill-train-the-heroine-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-im-just-a-mob-priest-but-since-i-realized-this-world-is-an-otome-game-ill-train-the-heroine-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/09/Im-Just-a-Mob-Priest-but-Since-I-Realized-This-World-is-an-Otome-Game-Ill-Train-the-Heroine-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/09/Im-Just-a-Mob-Priest-but-Since-I-Realized-This-World-is-an-Otome-Game-Ill-Train-the-Heroine-Portada.jpg"/>
+<author><name>Leonar D</name></author>
+<category term="Comedia" label="Comedia"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Magical Girl" label="Magical Girl"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Shoujo" label="Shoujo"/>
-<content type="text">Un año después de los eventos del anime, las tres chicas cursan el tercer año de secundaria, y la historia comienza mientras se preparan para los exámenes de preparatoria. Setsuna ayuda a reconstruir Laberinto, pero las visita. Love no puede decidir su sueño para el futuro y envidia a sus amigas, quienes estudian para los exámenes, cada una con un objetivo específico. De repente, aparece una persona vestida con una sospechosa capa negra que se hace llamar "Maphisto", creando monstruos llamados "Fushiawase" uno tras otro, ¡y el pueblo entra en pánico! Las cuatro chicas se transforman de nuevo en Pretty Cure con el Linkrun, la sorprendente identidad de "Maphisto" será revelada y las Cure se transformarán de nuevo en sus formas Ángel. ¡Soular, Westar, Tart y Chiffon también participan!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1oMKM9SmXt-_AbvlhAF9h1w" type="text/html" title="Aleyn De Vries"/>
+<category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">Una desafortunada heroína apareció ante mí. Parece que este mundo es un juego otome, y yo solo soy un sacerdote sin nombre que aparece brevemente en las primeras fases. Podría cumplir mi papel como personaje secundario y salir rápidamente del juego, pero... un momento, si las cosas siguen así, la heroína va a enfrentarse a terribles dificultades. Para salvar a esta heroína tan linda y amable, aunque desafortunada, ¡no tengo más remedio que entrenarla yo mismo!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1zoI4PlqkAkl8lu6FJhWb4Q" type="text/html" title="World Project"/>
+</entry>
+<entry>
+<title>Raidorl Seiken Senki Novela Ligera en Español</title>
+<id>https://nextnovels.com/raidorl-seiken-senki-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/raidorl-seiken-senki-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/05/Raidorl-Seiken-Senki-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/05/Raidorl-Seiken-Senki-Portada.jpg"/>
+<author><name>Leonar D</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<content type="text">Nacido como el segundo príncipe del Reino de Zain, Raidorl se convierte en el dueño de Dáinsleif, la 'Espada Maldita', una de las doce Espadas Sagradas que se dice que existen en la tierra. Sin embargo, su hermano mayor, el príncipe Granard, lo odia como una amenaza a su autoridad real y lo destierra a una región remota. Un día, mientras vive una vida pobre y dura en la guarida de los demonios, lo llaman de regreso a su reino y se ve obligado a irse. Raidorl está furioso y disgustado con Granard, quien lo obliga a defender su país contra las invasiones de otros países, y aunque aparentemente obedece sus órdenes, ¡decide rebelarse! Uno tras otro, aparecen los poseedores de la Espada Sagrada y los nobles los traicionan. ¿Podrá Raidorl, ante todas estas dificultades, vengarse? ¡Esta es la historia de un niño que, a cambio de muchos sacrificios, se convierte en un héroe con alas tan poderosas como las de un fénix!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/16W57rbOvDq7QFFrKOoGwEw" type="text/html" title="World Project"/>
+</entry>
+<entry>
+<title>The Poison King Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-poison-king-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-poison-king-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/05/The-Poison-King-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/05/The-Poison-King-Portada.jpg"/>
+<author><name>Leonar D</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Adulto" label="Adulto"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Maduro" label="Maduro"/>
+<category term="Romance" label="Romance"/>
+<content type="text">Hace trece años, un terrible monstruo llamado la Reina del Veneno atacó el Reino de Jade. Un valiente grupo de aventureros la derrotó, pero en el proceso uno de ellos fue golpeado por una maldición. Para sobrevivir, tuvo que transmitirla a su propio hijo. Despreciado como un niño maldito desde su nacimiento, Caim Halsberg es odiado por todos, excepto por su difunta madre y Tea, una sirvienta que trabaja para su familia. Mientras su padre y su hermana gemela residen en su mansión, Caim se ve obligado a vivir solo en una cabaña en el bosque. Pero todo cambia cuando cierto médico lo ayuda a superar la maldición y reclamar su poder. Caim, ahora convertido en el Rey del Veneno, emprende un viaje para lograr su único deseo, ¡pero nunca imaginó que su veneno tendría un efecto tan peculiar en las bellezas que conoce!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1RHpOuRyPyVTs4DrqO64xyA" type="text/html" title="GambaTrans"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1bS9rZrPVIfU2QmBeGAqWPA" type="text/html" title="Megami no Manga &amp; Shadow Translations"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1cOFLu463wh59Wj3pKC9HoA" type="text/html" title="World Project"/>
 </entry>
 </feed>

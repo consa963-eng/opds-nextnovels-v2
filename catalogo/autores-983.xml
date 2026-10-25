@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Toshizo</id>
-<title>Toshizo</title>
-<updated>2026-10-21T00:13:50.731962+00:00</updated>
+<id>nextnovels:autores:Toshiki Inoue</id>
+<title>Toshiki Inoue</title>
+<updated>2026-10-25T03:42:53.862321+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-983.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>The Sidekick Never Gets the Girl Let Alone the Protag’s Sister! Novela Ligera en Español</title>
-<id>https://nextnovels.com/the-sidekick-never-gets-the-girl-let-alone-the-protags-sisternovela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/the-sidekick-never-gets-the-girl-let-alone-the-protags-sisternovela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/06/01-5.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/06/01-5.jpg"/>
-<author><name>Toshizo</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Harem" label="Harem"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<content type="text">Entonces: Kunugi Kou libraba una sangrienta guerra como héroe en otro mundo. Ahora: Es un estudiante de secundaria perfectamente normal con un mejor amigo perfectamente excepcional: Ayase Kaito. La encarnación viviente de todos los protagonistas de comedias románticas cursis que se han escrito, la encantadora personalidad de Kaito y su aspecto que podría matar se han ganado el harem de bellezas extravagantes que todo protagonista se merece, y Kou está decidido a apoyarle desde las sombras como el mejor compañero de aventuras. Y todo va de maravilla, hasta que se produce un contratiempo en forma de otro elemento básico de la comedia romántica: la hermana pequeña del protagonista, Ayase Hikari, que conoce a Kou en las circunstancias más extravagantes posibles. Y lo que es peor, parece que ella siente algo por él. Ahora le toca al extra más «extra» del mundo arrastrarse hasta la oscuridad que tanto anhela.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1g9wouYwf9Xw-4MX1bCTQ5g" type="text/html" title="MiraiK"/>
+<title>Kamen Rider Faiz Novela Ligera en Español</title>
+<id>https://nextnovels.com/kamen-rider-faiz-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/kamen-rider-faiz-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/06/Kamen-Rider-Faiz-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/06/Kamen-Rider-Faiz-Portada.jpg"/>
+<author><name>Toshiki Inoue</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Thriller" label="Thriller"/>
+<content type="text">Takumi y Mari son arrastrados por un extraño destino. Keitaro, Yuka, Naoya, Yuji, sus encuentros y despedidas. ¿Cuál es la identidad del nuevo Rider brillante? Ahora que todo ha desaparecido, Takumi y Mari comienzan a caminar de nuevo con el calor y los latidos que sentían cuando eran niños.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1N1lwFyiOfFQ5RcH12lQKKA" type="text/html" title="Unlimited Subs"/>
 </entry>
 </feed>

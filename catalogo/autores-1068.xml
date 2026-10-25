@@ -1,39 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Yayoi Shirou</id>
-<title>Yayoi Shirou</title>
-<updated>2026-10-21T00:13:50.749390+00:00</updated>
+<id>nextnovels:autores:Yasohachi Tsuchise</id>
+<title>Yasohachi Tsuchise</title>
+<updated>2026-10-25T03:42:53.881180+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1068.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Chuuko (?) no Mizumori-san to Tsukiatte Mitara, Yakeni Ore ni Kamatte Kuru Novela Ligera en Español</title>
-<id>https://nextnovels.com/chuuko-no-mizumori-san-to-tsukiatte-mitara-yakeni-ore-ni-kamatte-kuru-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/chuuko-no-mizumori-san-to-tsukiatte-mitara-yakeni-ore-ni-kamatte-kuru-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/12/Chuuko-no-Mizumori-san-to-Tsukiatte-Mitara-Yakeni-Ore-ni-Kamatte-Kuru-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/12/Chuuko-no-Mizumori-san-to-Tsukiatte-Mitara-Yakeni-Ore-ni-Kamatte-Kuru-Portada.jpg"/>
-<author><name>Yayoi Shirou</name></author>
+<title>Scoop Musou Novela Ligera en Español</title>
+<id>https://nextnovels.com/scoop-musou-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/scoop-musou-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/08/Scoop-Musou-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/08/Scoop-Musou-Portada.jpg"/>
+<author><name>Yasohachi Tsuchise</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
 <category term="Comedia" label="Comedia"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
 <category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">El amor es algo tan innecesario. Togami Riku, un autoproclamado defensor del amor, un día se encuentra con una estudiante que busca algo después de la escuela y decide acercarse a ella, pero...
-
-"¿Podría ser que quieras hacer cosas malas conmigo?"
-
-"¿Eh?"
-
-La chica llamada Mizumori Yui, parece ser la persona más odiada de la escuela y es conocida por ser promiscua.
-
-Después de ayudar a Mizumori, Riku se hace amigo de ella y finalmente se confiesa.
-
-Aunque Riku ha renunciado al amor y no tiene sentimientos románticos por Mizumori, debido a ciertas circunstancias, ¡terminaron saliendo juntos!
-
-"Oye, ¿quieres que nos besemos?"
-
-"Riku-kun, te faltan ciertos elementos que debes completar".
-
-"Me he sentido nervioso sin parar desde antes".
-
-Esta es la historia de una chica sincera y posiblemente desechada (?), y con su vida juvenil de comedia romántica que ha comenzado.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1yvMpgK6dNX2QIr4l6FpuMg" type="text/html" title="Antihero LN"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">Alan es el minero más fuerte del mundo, capaz de reducir montañas a escombros con solo un golpe de su pala de confianza. Pero cuando la Princesa Lithisia le ruega que la escolte en una búsqueda para salvar su reino de una fuerza demoníaca invasora, acepta dejar su morada solitaria en la montaña y aventurarse, con una condición: debe ayudarlo a encontrar un sucesor para entrenar. En este divertido cuento de fantasía para fanáticos de los juegos de rol, ¡el mal no tiene ninguna posibilidad contra el poderoso poder de la pala!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1Xnb2r_1xVJJiHAUXpfeYYg" type="text/html" title="Domen Translations"/>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1lue4n3iJZJB89qZmGJLAYQ" type="text/html" title="World Project"/>
 </entry>
 </feed>

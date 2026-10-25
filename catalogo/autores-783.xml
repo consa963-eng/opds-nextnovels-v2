@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Sakagami shuusei</id>
-<title>Sakagami shuusei</title>
-<updated>2026-10-21T00:13:50.698676+00:00</updated>
+<id>nextnovels:autores:Sai Sumimori</id>
+<title>Sai Sumimori</title>
+<updated>2026-10-25T03:42:53.817198+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-783.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Bullets Novela Ligera en Español</title>
-<id>https://nextnovels.com/bullets-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/bullets-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/02/Bullets-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/02/Bullets-Portada.jpg"/>
-<author><name>Sakagami shuusei</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Romance" label="Romance"/>
-<content type="text">Oye, vayamos juntos hacia la 《parte más profunda del mundo》.
-
-Sashima Rui quien asiste a una secundaria en el área metropolitana de Tokio, se siente inconforme y desinteresada tanto en la escuela como en su casa. Lo único que puede tranquilizar su mente, es un puente peatonal en medio de la noche. Allí, conoce a Utsugi Ryouma quien se transfirió a la misma escuela. Por alguna razón, cuando habla con él, su opresión desaparece. Ya que posiblemente, él también sienta la misma opresión. 「Sabes, quiero intentar encontrar 《parte más profunda del mundo》」. Las palabras dichas por él, inmediatamente entraron en la mente de Rui. Si estamos juntos como ahora, no sucumbiré al aburrido mundo gris, pensaba. Pero, cierto día, eso fue cambiado completamente por la pistola que consiguió Ryouma. 「Oye, Ryouma. ¿Vamos a buscar juntos la 《parte más profunda del mundo》?」</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1nY9pp4rzRFaLRyqERcT3cQ" type="text/html" title="UkuTranslations"/>
+<title>Around 40 Eigyou-man, Isekai ni Tatsu! Novela Ligera en Español</title>
+<id>https://nextnovels.com/around-40-eigyou-man-isekai-ni-tatsu-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/around-40-eigyou-man-isekai-ni-tatsu-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/09/01-61.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/09/01-61.jpg"/>
+<author><name>Sai Sumimori</name></author>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Magia" label="Magia"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<content type="text">Onigawara Shouzou pasa sus días trabajando en un trabajo pesado en una empresa de TI, pero su vida cambia cuando, en una noche lluviosa, conoce a una diosa llamada Silvia, y eso no es una exageración, ¡es una verdadera diosa! Esa noche, ella se queda en el apartamento de Shouzou, y su creciente atracción mutua se hace más evidente a medida que avanza la noche ... Los siguientes 13 años de la vida de Shouzou pasan en un instante, y él no podría estar más feliz con su nuevo trabajo, bella esposa Silvia, tres hijas, y casa nueva. ¡Pero debido a algunas circunstancias desafortunadas, su casa y todos en ella son transportados a otro mundo lleno de magia y monstruos! Después de descubrir que no pueden regresar a su mundo durante al menos un año, Shouzou decide que debe apoyar a su familia de la única manera que sabe: ¡uniéndose al departamento de ventas de un gremio local!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1wonV8B2Koef_ykjfUT-VlA" type="text/html" title="Novel Project"/>
 </entry>
 </feed>

@@ -1,46 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Yu Hyemin</id>
-<title>Yu Hyemin</title>
-<updated>2026-10-21T00:13:50.753140+00:00</updated>
+<id>nextnovels:autores:Yousuke Saeki</id>
+<title>Yousuke Saeki</title>
+<updated>2026-10-25T03:42:53.886306+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1091.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Miss Pendleton Novela Web en Español</title>
-<id>https://nextnovels.com/descargar-miss-pendleton-novela-web-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-miss-pendleton-novela-web-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/09/Miss-Pendleton-Portada-1.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/09/Miss-Pendleton-Portada-1.jpg"/>
-<author><name>Yu Hyemin</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Histórico" label="Histórico"/>
-<category term="Josei" label="Josei"/>
+<title>My Girlfriend’s Mother is my First Love Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-my-girlfriends-mother-is-my-first-love-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-my-girlfriends-mother-is-my-first-love-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/My-Girlfriends-Mother-is-my-First-Love-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/09/My-Girlfriends-Mother-is-my-First-Love-Portada.jpg"/>
+<author><name>Yousuke Saeki</name></author>
+<category term="Adulto" label="Adulto"/>
+<category term="Harem" label="Harem"/>
+<category term="Maduro" label="Maduro"/>
 <category term="Romance" label="Romance"/>
-<content type="text">Laura Pendleton, la famosa casamentera de la alta sociedad.
+<category term="Smut" label="Smut"/>
+<content type="text">"¡No le digas a mi hija que fuiste mi primer...!"
 
-Creía que esta última petición, encontrar pareja para Ian Dalton, un soltero de primera y rico terrateniente, sería pan comido.
+¡El primer amor con el que finalmente me reencontré resultó ser la madre de mi novia! Ocultándoselo a su amante, Urusuke vuelve a d3vor4r el v0luptuos0 cu3rpo de Sae, y los dos se hund3n cada vez más en una rel4ción c4rn4l proh1bid4.
 
-Al menos, hasta que conoció al hombre envuelto en nada más que obstinación.
-
-«Ya te habrás enterado. Cuántos problemas le ha costado a mi hermana traerme aquí».
-
-Una nariz recta y unos ojos que irradiaban una elegancia refinada. La señorita Pendleton pensó:
-
-Con un rostro como ese, podría llevarse a cualquier dama en carruaje a su finca.
-
-Y muy pronto se dio cuenta de lo acertada que era su valoración.
-
-—¿Me está diciendo que me case con otra persona ahora mismo?
-
-Su hermoso rostro se torció ligeramente antes de volver a hablar.
-
-—Cásese conmigo, señorita Pendleton.
-
-Un anillo de diamantes de corte fino brillaba a la luz.
-
-Se lo tendió a Laura Pendleton, una solterona de veintinueve años.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1qiTS8kmQj_6kKUVYfHCMjw" type="text/html" title="Next Novels (MTL)"/>
+¡Cuando Kao finalmente los descubre, arranca un d3pr4v4do tr1o entr3 madre e hija! ¡Quitándol3s la v1rg1n1d4d, alin3ando sus tr4s3ros y 3mb1stiéndol4s por turnos! ¡Emb4r4z4 t4nto a la madre como a la hija para forjar un nuevo futuro!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1JXayhKkL8GVBVbEWFBOU5w" type="text/html" title="Shadow Translations"/>
 </entry>
 </feed>

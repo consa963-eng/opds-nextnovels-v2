@@ -1,41 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Ameko Kaeruda</id>
-<title>Ameko Kaeruda</title>
-<updated>2026-10-21T00:13:50.580267+00:00</updated>
+<id>nextnovels:autores:Amekawa Touko</id>
+<title>Amekawa Touko</title>
+<updated>2026-10-25T03:42:53.546413+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-61.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Dragon Daddy Diaries Novela Ligera en Español</title>
-<id>https://nextnovels.com/dragon-daddy-diaries-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/dragon-daddy-diaries-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/04/Dragon-Daddy-Diaries-Portada.jpeg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/04/Dragon-Daddy-Diaries-Portada.jpeg"/>
-<author><name>Ameko Kaeruda</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<content type="text">“¡Papi!” El dragón parpadeó cuando el pequeño humano le llamó. ¿A él? ¿Su “papi”? Tan poderoso como para ser venerado por la humanidad, pero tan cariñoso e incluso un poco bobo, el dragón pronto se encuentra criando y mimando a la precoz Olivia como si fuera realmente su hija en esta conmovedora historia. Puede que la niña sea increíblemente guapa ahora, pero sólo hay que esperar: es una niña curiosa y está creciendo muy rápido. Puedes apostar que un día será la humana más fuerte que existe. Pero antes, ¿cómo afrontará que la pequeña Olivia reciba una carta de aceptación en una escuela de humanos?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1mSLh0a4FVKJMYqBY3b_tjQ" type="text/html" title="Ferindrad"/>
-</entry>
-<entry>
-<title>Sexiled Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-sexiled-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-sexiled-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/Sexiled-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/09/Sexiled-Portada.jpg"/>
-<author><name>Ameko Kaeruda</name></author>
+<title>7th Time Loop Novela Ligera en Español</title>
+<id>https://nextnovels.com/7th-time-loop-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/7th-time-loop-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/08/7th-Time-Loop-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/08/7th-Time-Loop-Portada.jpg"/>
+<author><name>Amekawa Touko</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
 <category term="Fantasía" label="Fantasía"/>
+<category term="Josei" label="Josei"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Yuri" label="Yuri"/>
-<content type="text">Tanya Artemiciov es una talentosa aventurera de clase Maga que acaba de ser expulsada de su grupo por un imbécil sexista. ¿Y qué se supone que haga una chica? ¡Ir al páramo y hacer explotar cosas, por supuesto! Aunque hay un pequeño problema: sin querer libera a una Hechicera mítica llamada Laplace, quien estuvo sellada durante los últimos 300 años...
-
-¡Sorpresa! Resulta que esta supuesta Hechicera "malvada" es en realidad bastante genial. Laplace quiere formar su propio grupo, Tanya quiere venganza, y la solución es obvia: unir fuerzas. ¡Es hora de patear traseros, besar chicas y desmantelar el patriarcado!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1O35wiRNlIP96h-49PTpOYg" type="text/html" title="Next Novels (MTL)"/>
+<content type="text">Renacer una vez puede parecer impresionante, ¡pero Rishe ya va por la séptima! Ha vivido todo tipo de emociones en sus vidas anteriores, desde vender mercancías como mercader hasta blandir espadas como caballero, así que ahora está decidida a relajarse y disfrutar. Pero para disfrutar de la buena vida, primero tiene que casarse con el apuesto príncipe… ¡el mismo que resulta ser su asesino! Rishe necesitará más de seis vidas de experiencia y habilidades para romper el bucle temporal y hacer realidad sus extravagantes sueños.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1l5RYpiBa36-tuthEGGuvWw" type="text/html" title="Ferindrad"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1zHZEC3_cDm38zeCQex_ptg" type="text/html" title="Otunovel"/>
 </entry>
 </feed>

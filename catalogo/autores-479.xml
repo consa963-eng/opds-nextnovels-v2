@@ -1,27 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kouki Engyou</id>
-<title>Kouki Engyou</title>
-<updated>2026-10-21T00:13:50.649262+00:00</updated>
+<id>nextnovels:autores:Kougyoku Izuki</id>
+<title>Kougyoku Izuki</title>
+<updated>2026-10-25T03:42:53.750808+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-479.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>When my Wife Cheated on me, I Went Back to College! Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-when-my-wife-cheated-on-me-i-went-back-to-college-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-when-my-wife-cheated-on-me-i-went-back-to-college-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/04/When-my-Wife-Cheated-on-me-I-Went-Back-to-College-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/04/When-my-Wife-Cheated-on-me-I-Went-Back-to-College-Portada.jpg"/>
-<author><name>Kouki Engyou</name></author>
-<category term="Comedia" label="Comedia"/>
+<title>Mimizuku to Yoru no Ou Novela Ligera en Español</title>
+<id>https://nextnovels.com/mimizuku-to-yoru-no-ou-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/mimizuku-to-yoru-no-ou-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/06/Mimizuku-to-Yoru-no-Ou-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/06/Mimizuku-to-Yoru-no-Ou-Portada.jpg"/>
+<author><name>Kougyoku Izuki</name></author>
 <category term="Drama" label="Drama"/>
-<category term="Harem" label="Harem"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">¡Una segunda juventud llena de brillo y popularidad en la universidad! Una vida universitaria con viajes en el tiempo Kanata fue 4s3s1nado tras ser engañado por su esposa, pero al despertar, se encuentra en la víspera de su ingreso a la universidad, antes siquiera de conocerla.
-
-Con el conocimiento y la experiencia de adulto, esta vez piensa evitar cualquier relación con ella y vivir una brillante vida universitaria en un harem… o al menos, eso planeaba.
-
-¿Por qué demonios su esposa vuelve a acercarse a él con tanto cariño?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1I9JALpyO7_Iu_mh_ahBzcQ" type="text/html" title="Tamashi's Project"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Shoujo" label="Shoujo"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Mimizuku es una pequeña niña con grilletes en sus muñecas y tobillos, y los números: "332" marcados en su frente que deambula por el Bosque de la Noche en busca de ser comida por un monstruo. Sin embargo, cuando el soberano de los monstruos, el misterioso y hermoso "Rey de la Noche", se niega a comera intenta hallar una forma de convencerle.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/14FT_vIQgacFriPXdLDkfpQ" type="text/html" title="Happy Bubble Subs"/>
 </entry>
 </feed>

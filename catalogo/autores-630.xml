@@ -1,38 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Myojin Katou</id>
-<title>Myojin Katou</title>
-<updated>2026-10-21T00:13:50.673546+00:00</updated>
+<id>nextnovels:autores:Muku Shirai</id>
+<title>Muku Shirai</title>
+<updated>2026-10-25T03:42:53.782933+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-630.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Ghoul ga Sekai wo Sukutta Koto wo Watashi dake ga Shitteiru Novela Ligera en Español</title>
-<id>https://nextnovels.com/ghoul-ga-sekai-wo-sukutta-koto-wo-watashi-dake-ga-shitteiru-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/ghoul-ga-sekai-wo-sukutta-koto-wo-watashi-dake-ga-shitteiru-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/11/Ghoul-ga-Sekai-wo-Sukutta-Koto-wo-Watashi-dake-ga-Shitteiru-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/11/Ghoul-ga-Sekai-wo-Sukutta-Koto-wo-Watashi-dake-ga-Shitteiru-Portada.jpg"/>
-<author><name>Myojin Katou</name></author>
-<category term="Aventura" label="Aventura"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
+<title>I Became the Private Tutor for a Group of Gyarus Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-i-became-the-private-tutor-for-a-group-of-gyarus-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-i-became-the-private-tutor-for-a-group-of-gyarus-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/I-Became-the-Private-Tutor-for-a-Group-of-Gyarus-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/08/I-Became-the-Private-Tutor-for-a-Group-of-Gyarus-Portada.jpg"/>
+<author><name>Muku Shirai</name></author>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<content type="text">No es el héroe que quieren, ¡sino el que necesitan! Una densa niebla ha caído sobre el mundo, convirtiendo a muchos humanos en monstruos horripilantes. La humanidad está perdiendo la batalla contra estos grotescos demonios, pero no carece por completo de defensas. Leon Crossheart es un aventurero, un héroe, un cazador de ghouls... ¡y un ghoul él mismo! Su fuerza y su capacidad de regeneración son incomparables, pero este poder tiene un precio: es vilipendiado por la misma gente a la que se esfuerza por proteger. Sin embargo, hay una chica a la que ha salvado que ve más allá de su aterradora apariencia. Alice está tan agradecida que quiere ser su discípula, ¡y no acepta un no por respuesta! ¿Llevará ella la luz a su oscura y ensangrentada vida, o la mantendrá él—y por tanto a su propia salvación—fuera de su alcance?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1uCCyTFUesFae05q2t7bp3Q" type="text/html" title="World Project"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Ryusei, un estudiante de preparatoria introvertido y con excelentes calificaciones, acepta la petición de su tutor en la escuela de ayudar a sus compañeros de clase con los estudios.
+
+¡Y resulta que las alumnas a las que debe enseñar son tres gyarus que viven en un mundo completamente distinto al suyo!
+
+Risa, una alegre y elegante gyaru rubia de estilo clásico.
+
+Mitsuki, una gyaru de cabello negro fría y poco expresiva.
+
+Madoka, una gyaru de piel morena y cabello plateado, de personalidad relajada y encanto s3nsu4l.
+
+Al principio, Ryusei no deja de verse arrastrado por el ritmo de estas chicas ruidosas y despreocupadas. Sin embargo, a medida que pasan tiempo juntos, estudiando mientras hacen cosplay, relajándose en el karaoke o pasando el rato en restaurantes familiares, va descubriendo la motivación oculta de cada una, los sueños que desean cumplir y las preocupaciones que guardan en su interior.
+
+Poco a poco, la distancia entre ellos comienza a acortarse... ¿¡O quizás algo más!?
+
+Una vida escolar bastante seria, rodeado de gyarus que se esfuerzan al máximo ¡Que se alce el telón de esta historia!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1aCtDRcOk--G86tqFAIBHuA" type="text/html" title="Tamashi's Project"/>
 </entry>
 <entry>
-<title>Shijou Saikyou no Daimaou, Murabito A ni Tensei suru Novela Ligera en Español</title>
-<id>https://nextnovels.com/shijou-saikyou-no-daimaou-murabito-a-ni-tensei-suru-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/shijou-saikyou-no-daimaou-murabito-a-ni-tensei-suru-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/05/Shijou-Saikyou-no-Daimaou-Murabito-A-ni-Tensei-suru-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/05/Shijou-Saikyou-no-Daimaou-Murabito-A-ni-Tensei-suru-Portada.jpg"/>
-<author><name>Myojin Katou</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">El joven protagonista fue conocido en una vida anterior como el Señor Demonio Varvatos, un poderoso usuario de magia y gran gobernante. Pero tras haber perdido a todos sus amigos y seres queridos en su ascenso al poder, en sus últimos momentos, Varvatos utiliza un hechizo de reencarnación para tener una segunda oportunidad y llevar una vida sencilla. Al principio todo parece funcionar, pues renace miles de años más tarde como un joven corriente llamado Ard, pero conserva todos sus recuerdos y le va a costar acostumbrarse a cuánto han cambiado los tiempos, para su desgracia.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1xXg1FQu6BzazyGW0_7ooWQ" type="text/html" title="World Project"/>
+<title>My Bride Candidates Are Living With Me Now Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-my-bride-candidates-are-living-with-me-now-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-my-bride-candidates-are-living-with-me-now-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/My-Bride-Candidates-Are-Living-With-Me-Now-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/08/My-Bride-Candidates-Are-Living-With-Me-Now-Portada.jpg"/>
+<author><name>Muku Shirai</name></author>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<content type="text">¡Una comedia romántica de convivencia y malentendidos, creada por el exitoso dúo de "Jitsu wa Imouto Deshita"!
+
+La más reciente obra del exitoso equipo responsable de "Jitsu wa Imouto Deshita" y "Futago Matomete "Kanojo" ni Shinai?”
+
+La convivencia con tres amigas de la infancia se vuelve cada vez más dulce a medida que los malentendidos y las confusiones se acumulan. Cuanto más se desbordan y fracasan sus intentos de expresar sus sentimientos, más se acorta la distancia entre ellos.
+
+¡Una tierna y apasionada vida de convivencia romántica que te hará sonreír de principio a fin!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://www.facebook.com/profile.php?id=100083362014420" type="text/html" title="Tamashi's Project"/>
 </entry>
 </feed>

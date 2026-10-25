@@ -1,41 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Akatsuki Takaka</id>
-<title>Akatsuki Takaka</title>
-<updated>2026-10-21T00:13:50.575756+00:00</updated>
+<id>nextnovels:autores:Akatsuki Senri</id>
+<title>Akatsuki Senri</title>
+<updated>2026-10-25T03:42:53.540581+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-34.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>I’m a Kept Man for the Three Most Beautiful Girls in School Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-im-a-kept-man-for-the-three-most-beautiful-girls-in-school-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-im-a-kept-man-for-the-three-most-beautiful-girls-in-school-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/07/Im-a-Kept-Man-for-the-Three-Most-Beautiful-Girls-in-School-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/07/Im-a-Kept-Man-for-the-Three-Most-Beautiful-Girls-in-School-Portada.jpg"/>
-<author><name>Akatsuki Takaka</name></author>
-<category term="Comedia" label="Comedia"/>
+<title>Saijaku Muhai no Bahamut Novela Ligera en Español</title>
+<id>https://nextnovels.com/saijaku-muhai-no-bahamut-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/saijaku-muhai-no-bahamut-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-54.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-54.jpg"/>
+<author><name>Akatsuki Senri</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Drama" label="Drama"/>
 <category term="Ecchi" label="Ecchi"/>
 <category term="Harem" label="Harem"/>
+<category term="Mecha" label="Mecha"/>
 <category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Tentado por tres hermosas chicas: Incluso los abrazos son parte del trabajo de un hombre mantenido.
+<content type="text">Lux, que era un príncipe del Imperio que fue destruido hace cinco años debido a la revuelta, se encontró con la princesa del nuevo Reino, Lizsharte, al irrumpir accidentalmente en el baño del dormitorio de la chica.
 
-Las "Tres Bellezas de la Escuela" que todos admiran: Karasumaru Kage, Ono Tsukasa y Daigo Sakurako. Para un chico pobre y solitario como yo, Kyousaka Kei, se suponía que estaban fuera de mi alcance... hasta que las salvé de un posible asalto y me tomaron un cariño inmenso.
+"......¡Cuánto tiempo piensas mirar mi cuerpo, fooooool!"
 
-Quiero acercarme a ti, aunque sea un poquito. Quiero saber más de ti, Kyousaka.
+Las antiguas armas encontradas de las ruinas, el Drag-Ride. Lux, quien fue llamada la más fuerte Drag-Knight en el pasado, ahora era conocida como la "más débil invicta", una Drag-Knight que no ataca en absoluto. ¡Tras el duelo iniciado por el desafío de Lizsharte, Lux acabó entrando en la escuela de chicas que criaba Drag-Knights......!
 
-Luego me pidieron que hiciera un trabajo a tiempo parcial para atender sus peticiones. Pensé que serían simples recados, pero la situación fue empeorando poco a poco…
+La historia de Lux en la que está rodeado por las chicas nobles de la academia está a punto de desarrollarse.
 
-“Oye, abrázame fuerte”.
-
-"¿Quieres besarme?"
-
-Tócame ahí. Más fuerte.
-
-Y todo es porque... “““Está bien, es parte del trabajo.”””
-
-Una vida amorosa a 5.000 yenes por hora… ¿Es esto… ser un hombre mantenido?
-
-—Sí. Queremos cuidarte, Kei-kun.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1CTniXHqZ12617Ux2lM_Jfw" type="text/html" title="GambTrans"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1SEklukvri1Ty535It2uKqw" type="text/html" title="Ichijou Translations"/>
+¡La "última" batalla de fantasía de la academia donde el derecho y el poder se cruzan ahora comienza!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1GktzfJrOEBF8__6D1oW9Bg" type="text/html" title="Akat Novels y Twin DragonsLight Novels"/>
 </entry>
 </feed>

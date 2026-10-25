@@ -1,27 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Yuzu Koshou</id>
-<title>Yuzu Koshou</title>
-<updated>2026-10-21T00:13:50.758536+00:00</updated>
+<id>nextnovels:autores:Yuuki Ryou</id>
+<title>Yuuki Ryou</title>
+<updated>2026-10-25T03:42:53.893178+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1123.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>J-Cup AV Mom Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-j-cup-av-mom-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-j-cup-av-mom-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/J-Cup-AV-Mom-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/09/J-Cup-AV-Mom-Portada.jpg"/>
-<author><name>Yuzu Koshou</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
+<title>Reincarnated as the Mastermind of the Story Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-reincarnated-as-the-mastermind-of-the-story-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-reincarnated-as-the-mastermind-of-the-story-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/03/Reincarnated-as-the-Mastermind-of-the-Story-Portada.jpeg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/03/Reincarnated-as-the-Mastermind-of-the-Story-Portada.jpeg"/>
+<author><name>Yuuki Ryou</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Fantasía" label="Fantasía"/>
 <category term="Harem" label="Harem"/>
-<category term="Incesto" label="Incesto"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<content type="text">Mi novia, Hitomi, tiene un busto de copa H y es una pareja muy entusiasta e ideal en la cama. Pero por alguna razón, nunca me invita a su casa.
+<content type="text">『La Leyenda de los Siete Héroes』── Un juego que presumía de su popularidad mundial.
 
-Un día, me encontré con su madre, Honami, y descubrí que la madre de mi novia tiene un busto de copa J y no es otra que la legendaria actriz porno "Wakamura Honami"... "Quiero tener una aventura con el novio de mi hija, lo deseo con todas mis fuerzas
+Ren, un estudiante universitario que completó su secuela mientras establecía un récord mundial, se reencarnó como un bebé dentro de ese juego.
 
-". Presionado por su madre lasciva, aprecio a Hitomi y, por supuesto, rechazaría su invitación... ¡Imposible! (Este es un ebook recién publicado que incluye un relato corto que fue clasificado como el número 1 diario/semanal/mensual en un sitio web de envíos).</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1z1iP5kHyuR1JKqdwoFaFFQ" type="text/html" title="Kyūden Translation"/>
+(¿Será posible que me haya reencarnado como el protagonista de 『La Leyenda de los Siete Héroes』?)
+
+Mientras se deleitaba con ese pensamiento, escuchar su nombre de la boca de su madre lo hizo dudar de sus oídos. Esto se debía a que ese nombre pertenecía a un compañero de clase de los héroes que más tarde los traiciona a mitad de la historia y también resulta ser el misterioso y poderoso enemigo que manipulaba todo desde las sombras para intentar sumir al mundo en las profundidades de la desesperación.
+
+Deseando vivir en paz, Ren decidió continuar con su vida en una región remota.
+
+Sin embargo, termina conociendo a la santa cuya vida se suponía que él debía tomar en el juego, y es conducido a un destino inesperado y desafortunado.
+
+¡Es el comienzo de una historia de fantasía llena de desarrollos dramáticos y aventuras emocionantes de las que es imposible apartar la mirada…!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1wGZ8GLHd0ekYCuS5l0EjUQ" type="text/html" title="Kai Sakura VENTO"/>
 </entry>
 </feed>

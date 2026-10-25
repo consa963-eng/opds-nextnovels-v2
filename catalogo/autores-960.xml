@@ -1,21 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Tetometo</id>
-<title>Tetometo</title>
-<updated>2026-10-21T00:13:50.728351+00:00</updated>
+<id>nextnovels:autores:Tenichi</id>
+<title>Tenichi</title>
+<updated>2026-10-25T03:42:53.857632+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-960.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>I Began the Summoner in VRMMO Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-i-began-the-summoner-in-vrmmo-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-i-began-the-summoner-in-vrmmo-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/04/I-Began-the-Summoner-in-VRMMO-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/04/I-Began-the-Summoner-in-VRMMO-Portada.jpg"/>
-<author><name>Tetometo</name></author>
+<title>The Most Heretical Last Boss Queen Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-most-heretical-last-boss-queen-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-most-heretical-last-boss-queen-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/The-Most-Heretical-Last-Boss-Queen-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/05/The-Most-Heretical-Last-Boss-Queen-Portada.jpg"/>
+<author><name>Tenichi</name></author>
 <category term="Acción" label="Acción"/>
 <category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<content type="text">El primer juego de acción VRMMO del mundo: FWO (Fantasy World Online). Nuestro protagonista decide convertirse en Invocador. No tiene un interés particular en capturar monstruos de forma agresiva ni en convertirse en el jugador más fuerte; simplemente desea vivir una aventura, buscar monstruos adorables y conseguir materiales para ropa. Sin darse cuenta, y llevado por una situación tras otra, termina convirtiéndose en el Invocador mejor clasificado.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1KPc7bpha8knxjxa10sXn_A" type="text/html" title="Sylph Translations"/>
+<category term="Josei" label="Josei"/>
+<category term="Romance" label="Romance"/>
+<content type="text">Un día, una niña de ocho años llamada Pride Royal Ivy recupera los recuerdos de su vida pasada y descubre que ha reencarnado en el juego otome Our Ray of Light.
+
+En el juego, Pride es una niña sádica y monstruosa que crece para convertirse en una reina insensible y actúa como la "final boss", quien encuentra su final a manos de su propia hermana menor a la que tanto perjudicó. Al darse cuenta de esto, Pride decide utilizar sus habilidades y conocimientos del juego para convertirse en una gobernante compasiva y benevolente. Ella espera que, al cambiar su conducta, podrá forjar un futuro mejor para su reino y para todas las personas que la rodean.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1aWO9wtKegwIuQCsyAlZRtQ" type="text/html" title="Meraki Project"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1V8uougEYpdYCreHbV960AA" type="text/html" title="Akira Light Novels"/>
 </entry>
 </feed>

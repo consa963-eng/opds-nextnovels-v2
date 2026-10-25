@@ -1,35 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Zange</id>
-<title>Zange</title>
-<updated>2026-10-21T00:13:50.758859+00:00</updated>
+<id>nextnovels:autores:Yuumikan</id>
+<title>Yuumikan</title>
+<updated>2026-10-25T03:42:53.893607+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1125.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Anehame Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-anehame-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-anehame-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Anehame-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/08/Anehame-Portada.jpg"/>
-<author><name>Zange</name></author>
-<category term="Hentai" label="Hentai"/>
-<category term="Incesto" label="Incesto"/>
-<category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">"¿Tantas ganas tienes de correrte dentro de tu hermana mayor?"
-
-Mientras froto mi cuerpo con Rio-nee y mi conciencia se derrite hasta volverse espesa, me enfrento a mí mismo. Mi verdadero deseo se escapa de mi boca.
-
-—...Quiero dejar embarazada a mi hermana.
-
-La mano de Rio-nee se superpone a la mía. Y entonces, con una sonrisa tierna, me pregunta:
-
-—¿Quieres ser el papá de tu hermana mayor?
-
-Si dejo escapar esta oportunidad, la diosa del destino no volverá a sonreírme jamás. Decido agarrar su flequillo. Moviendo la cadera, asiento en silencio. Rio-nee murmura con calma y serenidad:
-
-—Está bien. Aunque me dejes embarazada del bebé de Akira.
-
-Con esa sola frase, todo el torrente de mi sangre se agitó de golpe. Hermano y hermana: el dulce y derretido cumplimiento de un primer amor de ensueño.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1S41zlmfbny2DqpCY1VgPOg" type="text/html" title="Next Novels (MTL)"/>
+<title>Bofuri Novela Ligera en Español</title>
+<id>https://nextnovels.com/bofuri-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/bofuri-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/01/01.webp"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/01/01.webp"/>
+<author><name>Yuumikan</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">La historia se centra en Kaede Honjou, quien es invitada por su amiga Risa Shiramine para jugar un juego MMO de realidad virtual con ella. Si bien a Kaede no le gustan los juegos, lo que realmente le disgusta es tener dolor. Ella crea un personaje llamado Maple, y decide poner todos sus puntos en VIT para minimizar el dolor. Como resultado, se mueve lentamente, no puede usar magia, e incluso un conejo puede sacar lo mejor de ella. Pero resulta que ella adquiere una habilidad desconocida llamada «Defensa total» como resultado de poner todos sus puntos en VIT, así como una «Habilidad de contraataque» que funciona contra movimientos especiales. Ahora, con su gran habilidad para anular todo daño existente, se embarcara en el inicio de sus aventuras.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1APXF9tmVQFHkxhV-hO9WAw" type="text/html" title="Edgno traducciones"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1XmDXH3WfdtJ0Ex2lZ9v1bQ" type="text/html" title="Shinsengumi Translations"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1YH5hA-Pe6bGKBRaxg3g4yQ" type="text/html" title="Ferindrad"/>
 </entry>
 </feed>

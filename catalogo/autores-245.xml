@@ -1,48 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Hikaru Sugii</id>
-<title>Hikaru Sugii</title>
-<updated>2026-10-21T00:13:50.610887+00:00</updated>
+<id>nextnovels:autores:Hikari Sugii</id>
+<title>Hikari Sugii</title>
+<updated>2026-10-25T03:42:53.586496+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-245.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Goodbye Piano Sonata Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-goodbye-piano-sonata-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-goodbye-piano-sonata-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/12/Goodbye-Piano-Sonata-Portada.webp"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/12/Goodbye-Piano-Sonata-Portada.webp"/>
-<author><name>Hikaru Sugii</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Hikawa Naomi es el personaje principal de la novela, e hijo de un famoso crítico musical. Debido a ello, tiene algunos conocimientos musicales, aunque se limitan bastante a eso, y quizá al simple toque de una guitarra. Su afición es reparar cosas, y ha desarrollado bastante habilidad para ello.
-
-Un día, mientras iba a su depósito de chatarra «secreto» a recoger algunas piezas de repuesto, vio a una chica tocando un piano abandonado que había allí. De algún modo, la música hizo resonar los cachivaches, creando la ilusión de una sinfonía de chatarrería. Estaba hipnotizado por la melodía que le sonaba familiar, pero no podía recordar la melodía. En ese momento, la chica se fijó en él y le llamó pe*vertido/acosador. Le pidió que se olvidara del incidente.
-
-De vuelta en casa, Naomi se dio cuenta de que se trataba de la pianista prodigio Ebisawa Mafuyu, que había desaparecido de la escena musical por alguna razón desconocida. Pronto volvió a encontrarse con ella, siendo Mafuyu la alumna transferida de su clase. Declaró a la clase que no era necesario conocerla demasiado bien, ya que pronto se marcharía. Hasta le arrebató un cobertizo de música abandonado que él había adaptado para su uso personal, con el fin de tocar su guitarra. Como no le gustaba su personalidad fría y su lengua afilada, Naomi juró quitarle el cobertizo.
-
-De algún modo, las cosas llegaron a tal punto que Kagurazawa Kyouko, una alumna mayor, y Chiaki Aihara, una amiga de la infancia, le tendieron una trampa para formar una banda de música. Su misión era conseguir que Mafuyu, el cuarto miembro necesario, entrara en la banda. Sin embargo, pronto se da cuenta de la impactante verdad que se esconde tras la razón de Mafuyu para desaparecer de la escena del piano y tocar la guitarra. Sabiendo eso, ¿podrá olvidarse de la melodía que escuchó en el depósito de chatarra, o podrá ayudar a Mafuyu a volver a tocar el piano?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1tJB3Q1g8ynVkVWRftLyyNg" type="text/html" title="Gladheim Translations"/>
-</entry>
-<entry>
-<title>Paradise Noise Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-paradise-noise-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-paradise-noise-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/01/Paradise-Noise-Portada.jpeg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/01/Paradise-Noise-Portada.jpeg"/>
-<author><name>Hikaru Sugii</name></author>
+<title>Kami-sama no Memochou Novela Ligera en Español</title>
+<id>https://nextnovels.com/kami-sama-no-memochou-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/kami-sama-no-memochou-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-80.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-80.jpg"/>
+<author><name>Hikari Sugii</name></author>
 <category term="Comedia" label="Comedia"/>
 <category term="Drama" label="Drama"/>
-<category term="Harem" label="Harem"/>
+<category term="Misterio" label="Misterio"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Aún puedo sentir el sonido de la música que se tocó en ese lugar, en ese día.
+<category term="Shounen" label="Shounen"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">"No soy un detective corriente, sino un detective NEET. Buscando en todo el mundo para localizar las palabras de los muertos".
 
-Por capricho, subí un video musical donde llevaba ropa de mujer, pero inesperadamente me hice famoso como una misteriosa músico net de secundaria (a pesar de ser un chico). No pensé que me descubrirían ya que mi rostro no se mostraba, pero mi profesora de música de secundaria – Hanazono Misao – descubrió mi secreto y utilizó esa información para chantajearme.
+El detective NEET dirigiendo a los NEETs que se reunían en el oscuro callejón - dijo Alice.
 
-Y luego, gracias a las tres chicas que conocí a través de Hanazono-sensei – la pianista genio loca Rinko, la baterista princesa de arreglos florales Shizuki, y la vocalista Zashiki-Warashi Akane – mi vida de secundaria gris, apagada y tranquila se llenó de ruido colorido y problemas.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/18gj4vjH0Nodpzjib9ASglA" type="text/html" title="Kai Sakura VENTO"/>
+El desconcertante incidente en el que Ayaka y yo nos vimos envueltos durante el invierno de mi primer año en el instituto, y también la maliciosa droga 'Angel Fix' que corroía la ciudad, el misterio fue desvelado por la chica detective Alice que no da ni un paso fuera de su habitación.
+
+"Conocer la verdad podría destruir la tranquila vida de tu pasado, ¿quieres saberlo aún así?"
+
+¡Debido a mi respuesta, los NEETs que normalmente no hacen nada fueron movilizados para resolver el caso!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1UtALkdVq7imTxwA_3VWAKQ" type="text/html" title="Akat Novels"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1-u6vH-2s3h_WuOk_CaIkbg" type="text/html" title="Mi Castillo de Arena"/>
 </entry>
 </feed>

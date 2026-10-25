@@ -1,39 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Shin Saijo</id>
-<title>Shin Saijo</title>
-<updated>2026-10-21T00:13:50.709060+00:00</updated>
+<id>nextnovels:autores:Shimesaba</id>
+<title>Shimesaba</title>
+<updated>2026-10-25T03:42:53.830997+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-845.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>The Witch and the Poisoning Literary Club Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-witch-and-the-poisoning-literary-club-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-witch-and-the-poisoning-literary-club-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/12/00.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/12/00.jpg"/>
-<author><name>Shin Saijo</name></author>
+<title>Hige wo Soru. Soshite Joshikousei wo Hirou. Novela Ligera en Español</title>
+<id>https://nextnovels.com/hige-wo-soru-soshite-joshikousei-wo-hirou-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/hige-wo-soru-soshite-joshikousei-wo-hirou-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-42.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-42.jpg"/>
+<author><name>Shimesaba</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Harem" label="Harem"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<content type="text">El oficinista Yoshida lleva cinco años enamorado de su jefa, Airi Gotou. A pesar de que finalmente consigue una cita con ella, su confesión es rápidamente rechazada. Borracho y decepcionado, vuelve a casa a trompicones y se encuentra con una chica de instituto sentada a un lado de la carretera. La chica, que necesita un lugar para pasar la noche, intenta seducir a Yoshida. A pesar de rechazar sus insinuaciones, éste la invita a su apartamento.
+
+A la mañana siguiente, la chica, que se presenta como Sayu Ogiwara, revela que ha huido de Hokkaido hasta Tokio. Durante los seis meses que duró su huida, intercambió continuamente favores sexuales por un techo. Sin embargo, Yoshida no se deja seducir por ella. En su lugar, la obliga a realizar otro tipo de trabajo, que consiste en lavar los platos y la ropa. Así comienza una conmovedora relación entre un adulto con el corazón roto y una chica de instituto fugada.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1rpQnKvoI8wRPRJyZ1o-tbQ" type="text/html" title="J-Light Novel Club"/>
+</entry>
+<entry>
+<title>Kimi wa Boku no Koukai Novela Ligera en Español</title>
+<id>https://nextnovels.com/kimi-wa-boku-no-koukai-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/kimi-wa-boku-no-koukai-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/07/Kimi-wa-Boku-no-Koukai-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/07/Kimi-wa-Boku-no-Koukai-Portada.jpg"/>
+<author><name>Shimesaba</name></author>
 <category term="Drama" label="Drama"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">La historia de una chica cuyo amor es tan p3s4do que desea m0r1r.
+<content type="text">Yuzuru Asada está lleno de remordimientos. En el instituto, salió con una chica llamada Ai Mizuno, pero su espíritu libre, la parte de ella de la que se enamoró, acabó por separarlos.
 
-La chica m4ldit4 con la inmortalidad: Karen Kurumizawa.
+Después de que Ai se marchara, su amor debería haberse desvanecido en un amargo recuerdo. Pero durante el verano del primer año de instituto de Yuzuru, ella reaparece de repente en su vida y, sin rastro de resentimiento, le dice que sus sentimientos no han cambiado. Sin embargo, resurgen viejas heridas y malentendidos. ¿Podrán los dos superar su pasado, o están destinados a cargar con ese pesar para siempre?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxlink.com/s/1DSjcPlHK12QqmZT8nV5o0w" type="text/html" title="Ale Cafuné"/>
+</entry>
+<entry>
+<title>Kimi wa Hontouni Boku no Tenshi nano ka Novela Ligera en Español</title>
+<id>https://nextnovels.com/kimi-wa-hontouni-boku-no-tenshi-nano-ka-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/kimi-wa-hontouni-boku-no-tenshi-nano-ka-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/04/Kimi-wa-Hontouni-Boku-no-Tenshi-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/04/Kimi-wa-Hontouni-Boku-no-Tenshi-Portada.jpg"/>
+<author><name>Shimesaba</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<content type="text">«La idol perfecta: Rei Sezae. Ella es la última esperanza para mí, dado que todas las idols previas que he apoyado se terminaron retirando por “revelaciones de pareja” o “escándalos de acoso”. Esta es la última idol que apoyaré, lo he decidido. Tengo fobia a las mujeres, y cuando me acerco a una mujer, me siento físicamente enfermo, pero tengo el suficiente coraje como para participar en una sesión de saludos con Rei-chan. Por alguna razón, Rei llegó a mi casa ese mismo día, temblando y con su voz diluyéndose.
 
-La única forma en que ella puede m0r1r es siendo 4s3sin4d4 por su pareja, alguien que la ame de verdad.
-
-“Así que… ¿Podrías m4t4rm3, por favor?”
-
-Eso fue lo que me pidió, a mí, que no puedo dejar de amarla.
-
-Por supuesto, no puedo concederle un deseo así. Por eso le respondí:
-
-“No puedo m4t4rt3. Porque no te amo.”
-
-La frontera entre la realidad y la fantasía que se difumina, los dioses que mur13r0n hace tiempo, los ángeles y demonios que vagan, y los días que transcurren sin detenerse...
-
-Una historia sobre el p3c4do y el perdón, escrita con un brillo único por un talento de 18 años.
-
-“Entonces ¿Te gustaría unirte al club de literatura?”</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1eEEDfQivxpDV2MCl7gzVXQ" type="text/html" title="Tamashi's Project"/>
+“Oye tú, ¿podrías convertirte en mi novio?” Desde aquellas palabras, mi vida cambió. Hasta la fecha solo había visto a Rei en el escenario, pero esta vez podía verla como es realmente. Sin embargo, parece que Rei no tenía realmente la intención en mente de convertirse en mi pareja. Pasar tiempo con una idol que admiro desde hace poco, miro hacia sus profundo brillo y al abismo que se encuentra detrás. Tengo fobia a las mujeres, pero al mismo tiempo no puedo evitar quererlas también. Y Rei, quien brilla como la mejor idol, parece estar en el borde de su destrucción. ¿Qué se esconde detrás de esta relación falsa?»</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1nYDhaGYViZvfY9UgDipVUQ" type="text/html" title="Ilusion Shuri Novels"/>
 </entry>
 </feed>

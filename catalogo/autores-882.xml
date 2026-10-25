@@ -1,25 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Sogano Shachi</id>
-<title>Sogano Shachi</title>
-<updated>2026-10-21T00:13:50.715038+00:00</updated>
+<id>nextnovels:autores:Sigsawa Keiichi</id>
+<title>Sigsawa Keiichi</title>
+<updated>2026-10-25T03:42:53.839039+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-882.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Isekai Meikyuu de Dorei Harem wo Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-isekai-meikyuu-de-dorei-harem-wo-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-isekai-meikyuu-de-dorei-harem-wo-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-43.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-43.jpg"/>
-<author><name>Sogano Shachi</name></author>
-<category term="Acción" label="Acción"/>
+<title>Kino no Tabi Novela Ligera en Español</title>
+<id>https://nextnovels.com/kino-no-tabi-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/kino-no-tabi-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/06/Kino-no-Tabi-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/06/Kino-no-Tabi-Portada.jpg"/>
+<author><name>Sigsawa Keiichi</name></author>
 <category term="Aventura" label="Aventura"/>
-<category term="Ecchi" label="Ecchi"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Drama" label="Drama"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Maduro" label="Maduro"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Psicológico" label="Psicológico"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Seinen" label="Seinen"/>
-<content type="text">Un individuo estaba a punto de suicidarse y decidió buscar una forma de morir en Internet, pero entonces encontró un extraño sitio que le hacía un montón de preguntas y tenía un sistema basado en puntos que permite crear habilidades para un personaje. Se interesó por ello, y cuando terminó de configurar su personaje, le preguntaron: "Ahora serás transportado a un mundo con la configuración que elegiste. Volver no es posible. ¿Aceptas de todas formas?". Sin pensarlo mucho, pulsó SÍ y se encontró en otro mundo con las habilidades que eligió tener.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1b_UsobIO1si3H0W1DsDKYw" type="text/html" title="Animegatari X 生活"/>
+<content type="text">El destino es un estado de ánimo. La historia de una niña, su motocicleta y un camino por delante. Kino viaja alrededor del mundo sobre Hermes, su inusual y antropomórfica motocicleta, solo permaneciendo en cada país durante tres días. Durante sus aventuras, ellos encuentran felicidad, tristeza, dolor, decadencia, violencia, belleza y sabiduría. Pero a través de todo esto, nunca pierden su sentido de la libertad, descubren que debido a las imperfecciones del mundo, en realidad es hermoso. "El mundo no es hermoso, por eso lo es"</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1hdzc2xLjJSIe0W1SARHReg" type="text/html" title="Kino no tabi Novela ligera Español"/>
+</entry>
+<entry>
+<title>Meg and Seron Novela Ligera en Español</title>
+<id>https://nextnovels.com/meg-and-seron-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/meg-and-seron-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/11/Meg-and-Seron-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/11/Meg-and-Seron-Portada.jpg"/>
+<author><name>Sigsawa Keiichi</name></author>
+<category term="Aventura" label="Aventura"/>
+<category term="Drama" label="Drama"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Meg y Seron, un spin-off de Lillia y Treize, es una aventura/misterio/romance/comedia de instituto que tiene lugar en el equivalente aproximado de los años cincuenta. La historia sigue a Seron, un estoico y apuesto ratón de biblioteca que está enamorado de su compañera de clase, una dulce e inconsciente estudiante trasladada llamada Meg.
+
+Meg y Seron tiene lugar más o menos al mismo tiempo que Lillia y Treize, pero no es necesario conocer la serie principal para leer Meg y Seron.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1Hn6q-eTPcPjLFKucO7L5Sg" type="text/html" title="The Lost Novels"/>
 </entry>
 </feed>

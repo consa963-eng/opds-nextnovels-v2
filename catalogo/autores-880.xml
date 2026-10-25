@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:So Hajikano</id>
-<title>So Hajikano</title>
-<updated>2026-10-21T00:13:50.714731+00:00</updated>
+<id>nextnovels:autores:Shuu</id>
+<title>Shuu</title>
+<updated>2026-10-25T03:42:53.838588+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-880.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Genjitsu de Rabukome Dekinai to Dare ga Kimeta? Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-genjitsu-de-rabukome-dekinai-to-dare-ga-kimeta-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-genjitsu-de-rabukome-dekinai-to-dare-ga-kimeta-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-29.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-29.jpg"/>
-<author><name>So Hajikano</name></author>
+<title>Maou Gakuin No Futekigousha Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-misfit-of-demon-king-academy-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-misfit-of-demon-king-academy-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-17.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-17.jpg"/>
+<author><name>Shuu</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
 <category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
 <category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">¡Una utopía suprema (romcom) creada en base a datos!
+<category term="Shounen" label="Shounen"/>
+<content type="text">Después de que han pasado 2000 años, el despiadado señor de los demonios acaba de reencarnar. Pero su aptitud en una academia para criar candidatos a señores demoníacos es, ¿"Inepta"?
 
-"Quiero tener una experiencia similar a la de una romcom".
+Teniendo la capacidad de destruir humanos, elementales y dioses, después de un largo período de incontables guerras y luchas, Arnos el señor de los demonios se cansó de todo eso y anheló un mundo pacífico, así que decidió reencarnar en el futuro.
 
-¿No han pensado esto todos los amantes de las romcom que disfrutan de las novelas ligeras? Estar enamorado de la heroína y llevar una vida satisfactoria en el instituto con los mejores amigos. Sin embargo, es imposible que algo tan emocionante ocurra en la realidad. No tengo una hermanastra menor, ni un amigo de la infancia, ni un compañero de clase que sea un ídolo, ni un misterioso senpai, ni siquiera un personaje masculino como mejor amigo. Siendo así, ¿qué puedo hacer? Obviamente, ¡tengo que montarlo yo mismo! ¡Para una comedia romántica, se necesita tanto el análisis de datos como la práctica constante! Así como...
+Sin embargo, lo que le esperaba después de su reencarnación es un mundo demasiado acostumbrado a la paz que sus descendientes se debilitaron demasiado debido a un enorme debilitamiento de los poderes mágicos.
 
-Nota: Ganador del 14º Premio Shogakukan de Novela Ligera a la Excelencia.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1JaaDAlVT2lXUsf8J9Is1xA" type="text/html" title="Hitoribocchi translation y Tamashi's Project"/>
+Arnos se matriculó en la Academia Maou, establecida para encontrar cualquier estudiante que pudiera ser la reencarnación del señor de los demonios, pero sus poderes son demasiado extraordinarios como para que los de la academia no pudieran juzgar adecuadamente sus poderes, por lo que se le considera un "estudiante inepto". Al ser subestimado y evitado por la mayoría de la gente de allí, reclutó a una chica amiga suya, Misha, como su subordinada y camarada, y se esfuerza por escalar a la cima de la jerarquía de la raza demoníaca para reclamar un día su antiguo título y estatus.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Cig6NV9UaljPkKBN58cz2Q" type="text/html" title="Restia Novels"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/12CDJ5m0O3OtrkolPtcHE5w" type="text/html" title="World Project"/>
 </entry>
 </feed>

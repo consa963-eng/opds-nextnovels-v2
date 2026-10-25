@@ -1,126 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Ametsuki</id>
-<title>Ametsuki</title>
-<updated>2026-10-21T00:13:50.580434+00:00</updated>
+<id>nextnovels:autores:Ameko Kaeruda</id>
+<title>Ameko Kaeruda</title>
+<updated>2026-10-25T03:42:53.546620+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-62.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>I Can’t Die Today Because of You Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-i-cant-die-today-because-of-you-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-i-cant-die-today-because-of-you-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/I-Cant-Die-Today-Because-of-You-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/03/I-Cant-Die-Today-Because-of-You-Portada.jpg"/>
-<author><name>Ametsuki</name></author>
+<title>Dragon Daddy Diaries Novela Ligera en Español</title>
+<id>https://nextnovels.com/dragon-daddy-diaries-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/dragon-daddy-diaries-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/04/Dragon-Daddy-Diaries-Portada.jpeg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/04/Dragon-Daddy-Diaries-Portada.jpeg"/>
+<author><name>Ameko Kaeruda</name></author>
 <category term="Comedia" label="Comedia"/>
 <category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">No soy ni introvertido ni extrovertido, solo un chico común de la escuela.
-
-Pero un día, en la azotea, me encontré con la famosa «Chica hermosa y perfecta amada por Dios», Mitsumine Iroha, quien estaba a punto de saltar del edificio.
-
-«Déjame en paz. Estoy lista para morir».
-
-Desde que la detuve, empezamos a pasar los días juntos. Comimos pizza en un aula vacía, y jugamos con fuegos artificiales junto a la piscina por la noche. «Es divertido estar contigo». «Es tu culpa que no pueda morir, ¿verdad?» A pesar de tener miedo de las miradas de los demás, Mitsumine comienza a abrir lentamente su corazón.
-
-La chica antes llevaba una máscara de «Chica perfecta», es en realidad infantil y adorable…
-
-Esta es una historia sobre el avance de una hermosa chica que estaba a punto de suicidarse hacia una juventud normal y feliz.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1zqBJQNzaOJSN1beHjuUkXQ" type="text/html" title="Next Novels (MTL)"/>
+<content type="text">“¡Papi!” El dragón parpadeó cuando el pequeño humano le llamó. ¿A él? ¿Su “papi”? Tan poderoso como para ser venerado por la humanidad, pero tan cariñoso e incluso un poco bobo, el dragón pronto se encuentra criando y mimando a la precoz Olivia como si fuera realmente su hija en esta conmovedora historia. Puede que la niña sea increíblemente guapa ahora, pero sólo hay que esperar: es una niña curiosa y está creciendo muy rápido. Puedes apostar que un día será la humana más fuerte que existe. Pero antes, ¿cómo afrontará que la pequeña Olivia reciba una carta de aceptación en una escuela de humanos?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1mSLh0a4FVKJMYqBY3b_tjQ" type="text/html" title="Ferindrad"/>
 </entry>
 <entry>
-<title>Kimi no Sei de Kyou Mo Shinenai Novela Ligera en Español</title>
-<id>https://nextnovels.com/kimi-no-sei-de-kyou-mo-shinenai-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/kimi-no-sei-de-kyou-mo-shinenai-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/04/01-1.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/04/01-1.jpg"/>
-<author><name>Ametsuki</name></author>
+<title>Sexiled Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-sexiled-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-sexiled-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/Sexiled-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/09/Sexiled-Portada.jpg"/>
+<author><name>Ameko Kaeruda</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
 <category term="Comedia" label="Comedia"/>
 <category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">No soy ni introvertido ni extrovertido, solo un chico común de la escuela.
+<category term="Yuri" label="Yuri"/>
+<content type="text">Tanya Artemiciov es una talentosa aventurera de clase Maga que acaba de ser expulsada de su grupo por un imbécil sexista. ¿Y qué se supone que haga una chica? ¡Ir al páramo y hacer explotar cosas, por supuesto! Aunque hay un pequeño problema: sin querer libera a una Hechicera mítica llamada Laplace, quien estuvo sellada durante los últimos 300 años...
 
-Pero un día, en la azotea, me encontré con la famosa «Chica hermosa y perfecta amada por Dios», Mitsumine Iroha, quien estaba a punto de saltar del edificio.
-
-«Déjame en paz. Estoy lista para morir».
-
-Desde que la detuve, empezamos a pasar los días juntos. Comimos pizza en un aula vacía, y jugamos con fuegos artificiales junto a la piscina por la noche. «Es divertido estar contigo». «Es tu culpa que no pueda morir, ¿verdad?» A pesar de tener miedo de las miradas de los demás, Mitsumine comienza a abrir lentamente su corazón.
-
-La chica antes llevaba una máscara de «Chica perfecta», es en realidad infantil y adorable…
-
-Esta es una historia sobre el avance de una hermosa chica que estaba a punto de suicidarse hacia una juventud normal y feliz.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://miraik.nextnovels.com/novela-ligera/kimi-no-sei-de-kyou-mo-shinenai-novela-ligera-en-espanol/" type="text/html" title="MiraiK"/>
-</entry>
-<entry>
-<title>This is More Than Friends but less Than Infidelity Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-this-is-more-than-friends-but-less-than-infidelity-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-this-is-more-than-friends-but-less-than-infidelity-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/09/This-is-More-Than-Friends-but-less-Than-Infidelity-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/09/This-is-More-Than-Friends-but-less-Than-Infidelity-Portada.jpg"/>
-<author><name>Ametsuki</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Harem" label="Harem"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Esta relación no es para nada impura… pero no se lo puedes contar a tu novia de toda la vida.
-
-“Te quiero. Te quiero muchísimo.”
-
-“Yo nunca terminaré solo por una relación a distancia.”
-
-Shiki Midoriya tiene novia.
-
-Una joven talentosa y hermosa, que ama profundamente a Shiki. Sin embargo, Shiki debe mudarse a la ciudad para continuar sus estudios…
-
-“Shiki-kun ¿Te resultaría difícil sin mí ¿Verdad?”
-
-“Yo solo hablo con las personas que me gustan ¿Sabes~?”
-
-“Jejeje. ¡Shii-kun, cuánto tiempo sin verte!”
-
-En su nueva escuela, Shiki conoce a tres estudiantes:
-
-Haru Sakuraba, amable y atenta.
-
-Aoi Natsukawa, brillante y bromista.
-
-Y su amiga de la infancia, Ryo Akibare, con quien se reencuentra en la escuela.
-
-Shiki, que solía estar algo aislado, comienza a acercarse a estas chicas con problemas similares a los suyos, y sus relaciones se profundizan.
-
-Aunque saben que Shiki tiene novia… ¡No, no es que sea infidelidad o algo así!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1GCnO4Gt0RdERc2lOY1JYAw" type="text/html" title="Tamashi's Project"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1lrygcIADZL7-tpIemnVP9g" type="text/html" title="OX-MR Traducciones"/>
-</entry>
-<entry>
-<title>Tonari no Seki no Moto Idol wa, Ore no Produce ga nai to Ikite Ikenai Novela Ligera en Español</title>
-<id>https://nextnovels.com/tonari-no-seki-no-moto-idol-wa-ore-no-produce-ga-nai-to-ikite-ikenai-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/tonari-no-seki-no-moto-idol-wa-ore-no-produce-ga-nai-to-ikite-ikenai-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/04/Tonari-no-Seki-no-Moto-Idol-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/04/Tonari-no-Seki-no-Moto-Idol-Portada.jpg"/>
-<author><name>Ametsuki</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">La ex idol, Miru Kasumi, recientemente se transfirió a mi escuela, y es todo menos normal.
-
-Diciendo cosas como "Soy Mirufy, sus ojos son todos mios", o "Gracias todo su apoyo. ¿Quieres que te firme el uniforme?".
-
-Posee una extraordinaria figura y sus ojos son hermosos como joyas. Su comportamiento es único, estando lejos de una vida normal.
-
-Pero justo cuando pensaba eso, dijo: "Creo que eres la primera persona que no se sonroja cuando le doy un fanservice. Oye......¿me harías una chica normal?".
-
-Así es como comenzé a ser su productor. Buscando que hiciera cosas divertidas los fines de semana y ayudandola con el festival cultural de la escuela.
-
-Mientras ayudo a Kasumi a tener una vida "normal" en la preparatoria, mi vida "normal" también comienza a cambiar.
-
-Esta es una historia de ella y yo disfrutando de nuestra juventud y teniendo un nuevo comienzo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1IL6leVrjv5FFy2h3WqKT8A" type="text/html" title="Reversed Translations"/>
+¡Sorpresa! Resulta que esta supuesta Hechicera "malvada" es en realidad bastante genial. Laplace quiere formar su propio grupo, Tanya quiere venganza, y la solución es obvia: unir fuerzas. ¡Es hora de patear traseros, besar chicas y desmantelar el patriarcado!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1O35wiRNlIP96h-49PTpOYg" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 </feed>

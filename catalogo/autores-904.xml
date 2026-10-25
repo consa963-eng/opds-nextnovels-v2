@@ -1,79 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Syohgo Kinugasa</id>
-<title>Syohgo Kinugasa</title>
-<updated>2026-10-21T00:13:50.718549+00:00</updated>
+<id>nextnovels:autores:Sushi Thunder</id>
+<title>Sushi Thunder</title>
+<updated>2026-10-25T03:42:53.844070+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-904.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e Novela Ligera en Español</title>
-<id>https://nextnovels.com/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/09/01-15.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/09/01-15.jpg"/>
-<author><name>Syohgo Kinugasa</name></author>
+<title>Monban Shoujo to Amayadori no Nichijou Novela Ligera en Español</title>
+<id>https://nextnovels.com/monban-shoujo-to-amayadori-no-nichijou-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/monban-shoujo-to-amayadori-no-nichijou-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/01/01-13.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/01/01-13.jpg"/>
+<author><name>Sushi Thunder</name></author>
 <category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Harem" label="Harem"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Psicológico" label="Psicológico"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">La historia tiene lugar en Koudo Ikusei, la escuela de prestigio por excelencia que cuenta con instalaciones de última generación en las que casi el 100% de los alumnos pueden ir a la universidad y encontrar trabajo. Koudo Ikusei es una escuela paradisíaca, pero lo cierto es que sólo los alumnos “superiores” son bien tratados. El protagonista Kiyotaka Ayanokouji pertenece a la Clase-D, aquella en la sólo están los estudiantes “inferiores” que son ridiculizados por el resto de la escuela. Por alguna razón, Kiyotaka se despistó en sus exámenes de ingreso y terminó ahí. Sin embargo, después de conocer a Suzune Horikita y Kikyou Kushida, otras dos estudiantes de su misma clase, la situación de Kiyotaka comienza a cambiar.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1XeHl2PuuF4lBaLCQAQ2I7w" type="text/html" title="Ferindrad"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1_8jidO3tc3wxCvdnDboM4g" type="text/html" title="Einherjar Project y Nahucirujano"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/17sIMQgLk9itdcRWePjaBtQ" type="text/html" title="Gladheim Translations"/>
+<content type="text">Dos personas que no pueden ser "normales" encuentran un lugar donde refugiarse de la lluvia en su juventud. Aoki, un antiguo delincuente que no tiene cabida ni en cassa ni en las aulas, conoce a un senpai un año mayor, Amamori. los dos, incapaces de encajar en el mundo,pasan un timpo juntos frente a la azotea cerrada, y llegan a entenderse.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com#Volumenes" type="text/html" title="Shigatsu Translation"/>
 </entry>
 <entry>
-<title>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e — Year 2 Novela Ligera en Español</title>
-<id>https://nextnovels.com/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-year-2-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-year-2-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/09/01-16.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/09/01-16.jpg"/>
-<author><name>Syohgo Kinugasa</name></author>
+<title>Umezono the Narcissist and His Little Devotee Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-umezono-the-narcissist-and-his-little-devotee-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-umezono-the-narcissist-and-his-little-devotee-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/Umezono-the-Narcissist-and-His-Little-Devotee-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/03/Umezono-the-Narcissist-and-His-Little-Devotee-Portada.jpg"/>
+<author><name>Sushi Thunder</name></author>
 <category term="Comedia" label="Comedia"/>
 <category term="Drama" label="Drama"/>
-<category term="Harem" label="Harem"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">¡Se levanta el telón y el arco del segundo año de esta serie extremadamente popular está aquí!
+<content type="text">"Si vas a llorar, me ayudaría que te movieras de lugar. Me distrae cuando estoy tratando de tomar fotos."
 
-La segunda primavera en la Escuela Metropolitana de Educación Avanzada recibe a Ayanokouji y a la Clase D. Los exámenes especial no son lo único que les espera, sino que también los recién ingresados estudiantes de primer año. Kazuomi Housen y Ryuuen, aquellos que compartieron la mala reputación entre ellos durante los días de secundaria de Ryuuen. Takuya Yagami, quien proclama venir de la misma secundaria que Kushida, se está acercando a ella. Y la caprichosa Ichika Amasawa, quien tira a Ayanokouji de derecha a izquierda.
+Kazuki Umezono, un estudiante de preparatoria narcisista, un día se encuentra con Erina Kirimura, una chica víctima de bully1ng, detrás del edificio de la escuela cuando había ido allí para tomarse una selfie.
 
-Y entonces, para el primer examen especial del año, los estudiantes de primer año serán emparejados con los estudiantes de segundo año para un examen escrito. Si una pareja llega a obtener un puntaje por debajo a un promedio, sólo el estudiante de segundo año será expulsado.
+Con la intención de demostrar lo grande que es el amor que siente por sí mismo, Umezono interviene en el bully1ng; y para su sorpresa, termina resolviendo la situación, por lo que Kirimura le queda profundamente agradecida.
 
-Además, Nagumo está distribuyendo una nueva aplicación la cual desplegará las habilidades de cada estudiante. El hecho de que esto se revele a todo el cuerpo estudiantil hace que los estudiantes con puntajes altos se vuelvan populares. La Clase 2-D cae en otro predicamento. No solamente Ayanokouji tiene que encontrar una pareja, sino que también necesita descubrir quién entre todos los estudiantes de primer año fue enviado de la Habitación Blanca. Si no lo hace, será expulsado de inmediato.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1H-oCw8agEJ2eN3v1-ROOoQ" type="text/html" title="Gladheim Translations"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Q-Z0UNhiw9tFLW98VNDYMg" type="text/html" title="Reversi Blog"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1dVyB7xxc0bvKjG8Rbp-bNQ" type="text/html" title="Classroom of Anime"/>
-</entry>
-<entry>
-<title>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e — Year 3 Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-year-3-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-year-3-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/08/Youkoso-Jitsuryoku-Shijou-Shugi-no-Kyoushitsu-e-%E2%80%94-Year-3-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/08/Youkoso-Jitsuryoku-Shijou-Shugi-no-Kyoushitsu-e-%E2%80%94-Year-3-Portada.jpg"/>
-<author><name>Syohgo Kinugasa</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Harem" label="Harem"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Tras el último "examen especial de fin de curso" del segundo año, Horikita y su antigua clase D de primero reciben a los alumnos de tercero de la clase A.Sin embargo, la persona más influyente, Ayakoji Kiyotaka, es trasladada a otra clase.Los alumnos de la clase de Horikita se sumergen en sentimientos de confusión y caos, pero sólo hay un hecho cruel.Horikita y los demás alumnos de la clase A del tercer curso deben vencer a "Ayanokoji Kiyotaka" para poder graduarse en la clase A.
+Seis meses después, una hermosa desconocida que dice ser su seguidora aparece frente a Umezono.
 
-Mientras se forman nuevas conexiones entre la creciente clase Ryuen y la clase B, la clase C de Ayakoji y la clase D de Ichinose, ¡se anuncia la primera prueba especial del tercer año, la "Prueba Integral de Habilidad Académica General y Minoritaria"! Sólo una clase se graduará en la Clase A.¿Qué clase se situará en lo más alto? ¡Comienza la tan esperada "Edición del Tercer Curso"!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1MY761VOss1cmGtnIaXdcrA" type="text/html" title="Gladheim Translations"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/10_P2p1YUYIREZwlmwtiWiA" type="text/html" title="ME ABURRO ¿SCAN?"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1K9pspItEjHIbrK4v0Lxtqg" type="text/html" title="Cafuné Translation"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/11oXaaQ7mRWNHaXjJChATUw" type="text/html" title="Classroom of Anime"/>
+¡Esa chica era precisamente Kirimura, la muchacha a la que Umezono había ayudado (aunque fuera de manera indirecta)!
+
+Umezono intenta idear formas de mantener distancia de Kirimura, quien se le ha encariñado, pero, en contra de sus propios deseos, cada vez más personas empiezan a involucrarse a su alrededor...
+
+¡Una comedia romántica sobre un estudiante solitario que se ama demasiado a sí mismo y una chica perfecta que lo admira profundamente!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1no5pmxsyRgDhGCUX2PdleA" type="text/html" title="Tamashi's Project"/>
 </entry>
 </feed>

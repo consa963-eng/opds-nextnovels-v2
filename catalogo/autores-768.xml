@@ -1,32 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Ryunosuke</id>
-<title>Ryunosuke</title>
-<updated>2026-10-21T00:13:50.696194+00:00</updated>
+<id>nextnovels:autores:Ryouta Yamaguchi</id>
+<title>Ryouta Yamaguchi</title>
+<updated>2026-10-25T03:42:53.813948+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-768.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>To the Monster I Love Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-to-the-monster-i-love-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-to-the-monster-i-love-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/To-the-Monster-I-Love-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/08/To-the-Monster-I-Love-Portada.jpg"/>
-<author><name>Ryunosuke</name></author>
+<title>Dokidoki! Pretty Cure Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-dokidoki-pretty-cure-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-dokidoki-pretty-cure-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/Dokidoki-Pretty-Cure-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/05/Dokidoki-Pretty-Cure-Portada.jpg"/>
+<author><name>Ryouta Yamaguchi</name></author>
 <category term="Acción" label="Acción"/>
+<category term="Comedia" label="Comedia"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Romance" label="Romance"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">¿Te has enamorado de un monstruo? Los recuerdos y confesión de un cierto chico.
+<category term="Magical Girl" label="Magical Girl"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Shoujo" label="Shoujo"/>
+<content type="text">Ha pasado un año desde la batalla final. Mana, Rikka, Makoto y Alice han recuperado por completo su vida de antes. Regina, que acaba de ingresar en la misma escuela secundaria que Mana y Rikka, sigue dando guerra como siempre, pero los días transcurren tranquilos y alegres junto a Aguri. Hasta que un día aparece de repente el Jikochuu, ese enemigo que creían haber destruido en el combate definitivo… El último verano de secundaria para Mana y las demás se convierte de nuevo en una batalla final.
 
-Balldlum, la ciudad amurallada- aquí en un cuarto poco alumbrado. El chico Norman estaba restringido.
+¡El corazón te late cada vez más fuerte y no hay quien lo pare!
 
-Parece que me están por interrogar. Hablaré de las Ilegalidades, aquellos con habilidades anormales de convertir emociones en poder. Y mis recuerdos se confrontan con las 4 bellezas llamadas "Tear Flower" "Demon Dog" "Jewel" "Hada" y los monstruos. Cumplir los deseos de las feroces y fuertes chicas que no tienen motivación. Lidiar en secreto con extraños incidentes en esta ciudad.
+【Punto destacado 1】
 
-Magia, milagros, fantasías— parece que nada de eso se permite en esta ciudad. Sin embargo, aún hay esperanza. ¿Por qué? Lo entenderás si escuchas esto.
+La novela arranca en el «episodio 50». Es decir, está concebida como la continuación directa del episodio 49, el último del anime. El volumen especial que todos esperaban: qué fue de las integrantes de Doki Doki! Pretty Cure, los misterios sin resolver… Todo queda al descubierto.
 
-Se supone que esta es mi verdadera misión. Pero ahora, soy el gran criminal que arrojó al caos la ciudad.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1-00zliBELC13UAzJoef2tg" type="text/html" title="WisheSubs"/>
+【Punto destacado 2】
+
+La narradora es Rikka Hishikawa, Cure Diamond. Ver las caras más auténticas de las Doki Doki desde la mirada de Rikka es fresco y divertido. Hay además momentos que tocan la fibra al mostrar los sentimientos secretos de Rikka.
+
+【Punto destacado 3】
+
+Aparece una Pretty Cure original, exclusiva de esta novela. ¿Cuál es su verdadera identidad? ¿Y su frase de presentación? Solo quien lea la novela podrá vivirlo.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1ri_CBtpVLpjXYqGZWNrTPg" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 </feed>

@@ -1,23 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Murasaki Tatsuru</id>
-<title>Murasaki Tatsuru</title>
-<updated>2026-10-21T00:13:50.673228+00:00</updated>
+<id>nextnovels:autores:Mugi Amamiya</id>
+<title>Mugi Amamiya</title>
+<updated>2026-10-25T03:42:53.782520+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-628.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Pairing of Fate Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-pairing-of-fate-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-pairing-of-fate-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/10/Pairing-of-Fate-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/10/Pairing-of-Fate-Portada.jpg"/>
-<author><name>Murasaki Tatsuru</name></author>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Maduro" label="Maduro"/>
+<title>Tensai Joyuu no Osananajimi to, Kiss Scene wo Enjiru Koto ni Natta Novela Ligera en Español</title>
+<id>https://nextnovels.com/tensai-joyuu-no-osananajimi-to-kiss-scene-wo-enjiru-koto-ni-natta-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/tensai-joyuu-no-osananajimi-to-kiss-scene-wo-enjiru-koto-ni-natta-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/02/Tensai-Joyuu-no-Osananajimi-to-Kiss-Scene-wo-Enjiru-Koto-ni-Natta-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/02/Tensai-Joyuu-no-Osananajimi-to-Kiss-Scene-wo-Enjiru-Koto-ni-Natta-Portada.jpg"/>
+<author><name>Mugi Amamiya</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Yaoi" label="Yaoi"/>
-<content type="text">Shinobu, un Centinela de Clase A de ascendencia oriental poco común en el pequeño Reino de la Niebla, es famoso en las Alas Indomables por detestar a los Guías. Es el único miembro del Primer Escuadrón sin un Guía designado y, además, se niega a aceptar la purificación más de lo necesario. Aunque es envidiado por los miembros del escuadrón de vuelo, es tratado con mucha precaución debido a su actitud que ignora la buena voluntad de quienes lo rodean y no deja que nadie se acerque a él, pero no tiene intención de cambiar eso.
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Kaito es un chico de secundaria que intenta convertirse en actor, sin importar cuán pequeño sea el papel, para poder cumplir una promesa que le hizo a su amiga de la infancia, Rena.
 
-Un día, Shinobu va a relajarse a su lugar habitual donde puede estar solo y se encuentra con Ignaz, un hombre que viste el uniforme de aprendiz de las Alas Indomables. Dado que siente que son únicos debido a sus habilidades similares, Shinobu baja la guardia a su alrededor, pero sigue pensando que una vez que Ignaz se alista oficialmente y se entere de los chismes que rodean a Shinobu, inevitablemente se distanciará. Con eso en mente, Shinobu usa su deber como una razón para poner cierta distancia entre ellos, pero es precisamente ese deber el que ordena a Shinobu emparejarse con un nuevo Guía. El que aparece como su pareja es un Guía de Clase S Ignaz....!?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1NFtxa_leE3ctPoJsCPQg6A" type="text/html" title="Shizu Fansub"/>
+Al mismo tiempo una nueva estudiante se transfiere a su clase. ¡Es Rena, que ha crecido hasta convertirse en una hermosa chica y una popular actriz del más alto calibre!
+
+Entonces, cuando son elegidos para protagonizar juntos un nuevo drama, sus sentimientos mutuos, que habían sido un poco incómodos, ¡se vuelven aún más fuertes que antes!
+
+Leyendo el guión durante sus descansos y teniendo citas (a modo de ensayo) para prepararse lo mejor que pueden para sus papeles. Pero el clímax del espectáculo, la escena del beso, es todo menos simple...</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/14Oy__47VDMshh_droysl6Q" type="text/html" title="Ilusion Shuri Novels"/>
 </entry>
 </feed>

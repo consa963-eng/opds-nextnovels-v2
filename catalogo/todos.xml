@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:all</id>
 <title>Todas las novelas</title>
-<updated>2026-10-21T00:13:50.512447+00:00</updated>
+<updated>2026-10-25T03:42:53.232249+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/todos.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
 <title>"Zutto Tomodachi de Ite ne" to Itteita Onna Tomodachi ga Tomodachi Ja Naku Naru Made Novela Ligera en Español</title>
@@ -15761,6 +15761,25 @@ Esta es una historia sobre los 87 días que faltan para que tengan su primera ve
 <link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1fs82pgyKjdO2YDIskViCZA" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 <entry>
+<title>Little Red Riding Hood A Detective Story Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-little-red-riding-hood-a-detective-story-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-little-red-riding-hood-a-detective-story-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/Little-Red-Riding-Hood-A-Detective-Story-Portada.webp"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/10/Little-Red-Riding-Hood-A-Detective-Story-Portada.webp"/>
+<author><name>Aito Aoyagi</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Misterio" label="Misterio"/>
+<content type="text">Tras un hechizo lanzado por una bruja, Caperucita Roja y Cenicienta se dirigen al baile del castillo en una carroza de calabaza, pero en el camino atropellan y matan a un hombre...
+
+Esta novela de misterio presenta a Caperucita Roja resolviendo una serie de incidentes que ocurren en los mundos de varios cuentos de hadas, incluyendo Cenicienta, Hansel y Gretel, La Bella Durmiente y La Niña de los Fósforos.
+
+Me cautivó cómo los personajes de los cuentos de hadas que leía de niña se ven envueltos en estos incidentes y luego los resuelven brillantemente; no pude soltar el libro.
+
+Este es un libro recomendado para cualquier amante de los cuentos de hadas y los misterios.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1ry3fOAG8bp4NbIFzLQbpdQ" type="text/html" title="Aleyn De Vries"/>
+</entry>
+<entry>
 <title>Little Witch Academia Novela Ligera en Español</title>
 <id>https://nextnovels.com/little-witch-academia-novela-ligera-en-espanol/</id>
 <link rel="alternate" href="https://nextnovels.com/little-witch-academia-novela-ligera-en-espanol/" type="text/html"/>
@@ -21806,6 +21825,40 @@ Un día, Silver Lotus rescata a una compañera bruja, una novata llamada Azure N
 <link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1J4v3m_8JBJKRO5JsBWU44A" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 <entry>
+<title>Princession Orchestra Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-princession-orchestra-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-princession-orchestra-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/Princession-Orchestra-Portada.webp"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/10/Princession-Orchestra-Portada.webp"/>
+<author><name>Hoka</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Fantasía" label="Fantasía"/>
+<content type="text">¡Se transmite todos los domingos a las 9 a. m. en seis canales afiliados de TV Tokyo y otras cadenas! (PD. Esto envejeció mal porque ya terminó su emisión :’) )
+
+¡Novelización del anime original!
+
+“¡Cuando las princesas trabajamos juntas, nada es imposible!”
+
+¡Una fantasía pop llena de valentía y energía!
+
+¡Completamente ilustrada con furigana, para que incluso los niños de primaria puedan leerla!
+
+Solo en versión impresa, incluye un marcapáginas de regalo.
+
+Soy Minamo Sorano.
+
+Tengo el secreto de que en realidad soy Princess Ripple, quien pelea usando el poder del canto y el baile.
+
+Pero los monstruos que atacan el misterioso mundo de “Alicepia” se están volviendo cada vez más fuertes, y últimamente lo estamos pasando bastante mal...
+
+¡El secreto para cambiar el rumbo de la batalla es un movimiento especial que combina los poderes de las tres princesas!
+
+He formado un equipo con Princess Zeal y Princess Meteor, y ya hemos estado entrenando duro para cantar juntas. Porque cuando las princesas se conectan, ¡nada es imposible!
+
+¡Una fantasía musical pop llena de valentía y energía!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1_LO8lAbSufcmGTab0AnBxg" type="text/html" title="Aleyn De Vries"/>
+</entry>
+<entry>
 <title>Princess’s High Ranking Interrogator Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-princesss-high-ranking-interrogator-novela-ligera-en-espanol/</id>
 <link rel="alternate" href="https://nextnovels.com/descargar-princesss-high-ranking-interrogator-novela-ligera-en-espanol/" type="text/html"/>
@@ -25310,6 +25363,19 @@ Las llamas de un dragón atacan la ciudad y un demonio seductor hace uso de una 
 <link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/19Y-v_j-Zu9jTw8OqMo36FA" type="text/html" title="Sha-Ric Translations"/>
 </entry>
 <entry>
+<title>Sorry Darling, but You Won’t Kill Me Again! Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-sorry-darling-but-you-wont-kill-me-again-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-sorry-darling-but-you-wont-kill-me-again-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/Sorry-Darling-but-You-Wont-Kill-Me-Again-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/10/Sorry-Darling-but-You-Wont-Kill-Me-Again-Portada.jpg"/>
+<author><name>Nanana</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Histórico" label="Histórico"/>
+<content type="text">La joven reina Etoile lo pierde todo cuando su amado esposo, Isar, la traiciona en medio de una invasión enemiga. Pero, en lugar de morir, despierta cinco años en el pasado, con una segunda oportunidad para cambiar su destino, recuperar lo que le arrebataron y vengarse de quienes la traicionarán. Sin embargo, fuerzas oscuras conspiran contra ella, y pronto descubre que no es la única que recuerda su vida anterior. ¿Podrá Etoile reescribir su futuro y alcanzar la felicidad, o volverá a caer en la tragedia que una vez la consumió?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1biu6y6r4S2KiHtsnYnFETw" type="text/html" title="Akira Light Novels"/>
+</entry>
+<entry>
 <title>Soudana, Tashika ni Kawaii Na Novela Ligera en Español</title>
 <id>https://nextnovels.com/soudana-tashika-ni-kawaii-na-novela-ligera-en-espanol/</id>
 <link rel="alternate" href="https://nextnovels.com/soudana-tashika-ni-kawaii-na-novela-ligera-en-espanol/" type="text/html"/>
@@ -25633,6 +25699,22 @@ Una novela romántica de ciencia ficción que colma todas las expectativas.</con
 <category term="Yuri" label="Yuri"/>
 <content type="text">En Strawberry Panic se desarrollan las relaciones entre las estudiantes de varios institutos femeninos en un ambiente idílico. Tres institutos coexisten en el campus de Astraea Hill, y todos son coordinados mediante la figura de la Étoile, ¿qué pareja de estudiantes conseguirá tal título? Nagisa es una nueva estudiante recién llegada a Miator (uno de los institutos) y se encuentra con Shizuma, actual Étoile y objeto de deseo de las demás estudiantes. ¿Cómo reaccionará Nagisa ante las provocaciones de Shizuma?. Por otro lado, en Spica, la estrella del campus es Otori Amane también llamada "el príncipe de Spica" por su porte elegante y refinado ¿Qué hará cuando conozca a la dulce e inocente Hikari?¿Qué pensará su compañera de habitación de todo esto?</content>
 <link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Jxjyend6TyL6mrH7rKP5Tg" type="text/html" title="Yuri Dream"/>
+</entry>
+<entry>
+<title>Strawberry Panic! Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-strawberry-panic-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-strawberry-panic-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/10/Strawberry-Panic-Portada.webp"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/10/Strawberry-Panic-Portada.webp"/>
+<author><name>Kimino Sakurako</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Romance" label="Romance"/>
+<category term="Shoujo Ai" label="Shoujo Ai"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<category term="Yuri" label="Yuri"/>
+<content type="text">En Strawberry Panic se desarrollan las relaciones entre las estudiantes de varios institutos femeninos en un ambiente idílico. Tres institutos coexisten en el campus de Astraea Hill, y todos son coordinados mediante la figura de la Étoile, ¿qué pareja de estudiantes conseguirá tal título? Nagisa es una nueva estudiante recién llegada a Miator (uno de los institutos) y se encuentra con Shizuma, actual Étoile y objeto de deseo de las demás estudiantes. ¿Cómo reaccionará Nagisa ante las provocaciones de Shizuma?. Por otro lado, en Spica, la estrella del campus es Otori Amane también llamada "el príncipe de Spica" por su porte elegante y refinado ¿Qué hará cuando conozca a la dulce e inocente Hikari?¿Qué pensará su compañera de habitación de todo esto?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Jxjyend6TyL6mrH7rKP5Tg" type="text/html" title="Yuri Dream"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1aOx6KR8SyR6FzV572StF-Q" type="text/html" title="Jered Bazaldua"/>
 </entry>
 <entry>
 <title>Straylight Run Novela Ligera en Español</title>
@@ -27221,6 +27303,32 @@ Aunque normalmente es pasiva, por alguna razón, Chika se burla de Soma con una 
 
 ¡Una dulce y emocionante comedia romántica con un ángel travieso entretejida por confecciones!</content>
 <link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1CleO-Vao7jHxoo8eqJ-A6g" type="text/html" title="World Project"/>
+</entry>
+<entry>
+<title>The Cold and Aloof Transfer Student Turns the Master Key and Is Sweet After School Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-cold-and-aloof-transfer-student-turns-the-master-key-and-is-sweet-after-school-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-cold-and-aloof-transfer-student-turns-the-master-key-and-is-sweet-after-school-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/The-Cold-and-Aloof-Transfer-Student-Turns-the-Master-Key-and-Is-Sweet-After-School-Portada.webp"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/10/The-Cold-and-Aloof-Transfer-Student-Turns-the-Master-Key-and-Is-Sweet-After-School-Portada.webp"/>
+<author><name>Chiba Toshihiro</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Por fin estamos solos, ¿verdad?
+
+Una historia de amor un tanto torpe pero tierna entre un chico y una chica que no son muy sociables y que viven bajo el mismo techo.
+
+La interacción es innecesaria; él nunca interfiere con los demás. Una estudiante transferida llega y se sienta junto al misántropo Karasu Kuya.
+
+Fatima Kurei. Es hermosa, pero siempre silenciosa y poco amigable. Kuya podría haber permanecido indiferente como siempre, si tan solo no fuera "de la misma familia".
+
+Van de compras juntos, cocinan juntos. Comienza una convivencia informal con ella, quien en realidad es la hija adoptiva de su abuela.
+
+Pero él no puede ir más allá. Porque ambos saben que su rasgo común es la "misantropía". Pero él ya no puede reprimir sus sentimientos de "amor".
+
+Esta es una historia de amor que florece bajo el mismo techo.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/102XrQ6km_xfMQ3tQdRnp-w" type="text/html" title="Ichijou Translations"/>
 </entry>
 <entry>
 <title>The Cold Sato-san is Only Sweet to Me Novela Ligera en Español</title>
@@ -29264,6 +29372,40 @@ Escuchó una voz que cambiaría su vida……</content>
 <link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1cAH2606Y55pDlqFYretn6w" type="text/html" title="GBtraducciones"/>
 </entry>
 <entry>
+<title>The Saintess Sitting Next to Me Secretly Shows Me What’s Under Her Skirt Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-saintess-sitting-next-to-me-secretly-shows-me-whats-under-her-skirt-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-saintess-sitting-next-to-me-secretly-shows-me-whats-under-her-skirt-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/The-Saintess-Sitting-Next-to-Me-Secretly-Shows-Me-Whats-Under-Her-Skirt-Portada.webp"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/10/The-Saintess-Sitting-Next-to-Me-Secretly-Shows-Me-Whats-Under-Her-Skirt-Portada.webp"/>
+<author><name>Sakuragi Sakura</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">"...¿De verdad no llevas nada puesto?"
+
+"Si tienes curiosidad, ¿por qué no lo compruebas tú mismo?"
+
+Una historia de amor sumamente dulce, tejida en secreto con una santa un tanto «inapropiada».
+
+"Hoy es blanca".
+
+Seira Saotome: una chica hermosa de cabello plateado que se sienta a mi lado, siempre con una postura impecable. En clase, todos la llaman "la Santa"; es amable y gentil con los demás, sin hacer distinciones. Pero entonces…
+
+"Hoy es negra".
+
+Tras recoger por casualidad una prenda de tela negra que se le cayó del bolsillo, empecé a recibir mensajes misteriosos todos los días.
+
+Parece que a nuestra "Santa" le gusta… la lencería atrevida y transparente.
+
+Ella se levanta la falda, como si quisiera medir mi reacción, sometiéndome a una oleada incesante y embriagadora de tentación.
+
+"Hoy no llevo absolutamente nada".
+
+Esta es una historia de amor sumamente dulce, tejida en secreto con una santa un tanto "inapropiada".</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1JJ55Wpn6vOougrlptIcnNw" type="text/html" title="Underword Liella Novels"/>
+</entry>
+<entry>
 <title>The Saint’s Magic Power is Omnipotent Novela Ligera en Español</title>
 <id>https://nextnovels.com/descargar-the-saints-magic-power-is-omnipotent-novela-ligera-en-espanol/</id>
 <link rel="alternate" href="https://nextnovels.com/descargar-the-saints-magic-power-is-omnipotent-novela-ligera-en-espanol/" type="text/html"/>
@@ -29281,6 +29423,44 @@ Sei abandonó el palacio real y ocultó su título de santa. Empezó a trabajar 
 ¿Podrá Sei disfrutar de su lenta y soñadora vida en otro mundo sin que se descubra su título de santa?</content>
 <link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1euknIE-7yWap9LHVLowcCg" type="text/html" title="Fairelle's Garden"/>
 <link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/169BjoPz3WgivJNWKv1w62g" type="text/html" title="Onigiri Novels"/>
+</entry>
+<entry>
+<title>The Science Notes of Delta and Gamma Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-science-notes-of-delta-and-gamma-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-science-notes-of-delta-and-gamma-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/The-Science-Notes-of-Delta-and-Gamma-Portada.webp"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/10/The-Science-Notes-of-Delta-and-Gamma-Portada.webp"/>
+<author><name>Sakai Takuma</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Agridulce y a la vez fresca: una historia de ciencia, amor y misterio.
+
+Si lo pienso bien, la juventud se parece mucho a una novela de detectives bien construida.
+
+El misterio de los cerezos en flor que alguna vez simbolizaron un amor que nunca llegó a concretarse.
+
+Esa vaga sensación de que algo no encajaba durante el reclutamiento del club.
+
+El secreto oculto en la edad de un viejo y majestuoso árbol.
+
+El hámster que desapareció de una habitación cerrada bajo llave.
+
+Y las decisiones desesperadas de unos estudiantes de secundaria volcados en un club de biología al borde de la desaparición.
+
+Cada causa y efecto, aparentemente inconexos, están en realidad vinculados entre sí... y solo al mirar atrás nos damos cuenta: Ah, así que eso era la juventud.
+
+Es entonces cuando por fin comprendemos aquellas cosas importantes que habíamos pasado por alto todo el tiempo.
+
+"¡Pongámoslo a prueba... científicamente!"
+
+Este es el modesto registro de actividades del Departamento de Ciencias del instituto Tsunagai, donde un grupo de estudiantes apasionados por la ciencia se enfrenta a los innumerables misterios ocultos en la vida cotidiana.
+
+Y esta es la historia de cómo, finalmente, se desentrañó un primer amor.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Vm33vuGblbwd22gokBaMjA" type="text/html" title="Saitou Translations"/>
 </entry>
 <entry>
 <title>The Scoundrel Immortal’s Coup Novela Ligera en Español</title>
@@ -29410,6 +29590,45 @@ Sin embargo, aquellos que desprecian su bondad pura acaban siendo alcanzados por
 
 Una historia de fantasía romántica que explora la luz y la oscuridad del ser humano bajo el tema del “valor”.</content>
 <link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1-mmhBoAP9TfAv4FUhj2mWQ" type="text/html" title="Tamashi's Project"/>
+</entry>
+<entry>
+<title>The Story of Being Played Around by a Girl Who Looks Extremely Pure and Innocent but Is Black-Hearted Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-story-of-being-played-around-by-a-girl-who-looks-extremely-pure-and-innocent-but-is-black-hearted-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-story-of-being-played-around-by-a-girl-who-looks-extremely-pure-and-innocent-but-is-black-hearted-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/The-Story-of-Being-Played-Around-by-a-Girl-Who-Looks-Extremely-Pure-and-Innocent-but-Is-Black-Hearted-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/10/The-Story-of-Being-Played-Around-by-a-Girl-Who-Looks-Extremely-Pure-and-Innocent-but-Is-Black-Hearted-Portada.jpg"/>
+<author><name>Inukai Anzu</name></author>
+<category term="Adulto" label="Adulto"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Maduro" label="Maduro"/>
+<category term="Romance" label="Romance"/>
+<category term="Yuri" label="Yuri"/>
+<content type="text">«Mi vida universitaria está a punto de verse dominada por una chica que es absolutamente perfecta… ¡excepto por su personalidad, claro está…!?»
+
+Quiero salir con una chica que sea mona, tenga una voz dulce y sea totalmente inocente.
+
+Aferrándose precisamente a ese sueño, la estudiante universitaria Ouka Yusa se despierta una mañana en una cama desconocida…
+
+«Ayer me lo pasé bastante bien, ¿sabes?»
+
+Tumbada completamente desnuda justo a mi lado no es otra que la «princesa» del club, que además resulta ser la mente maestra secreta que mueve los hilos desde las sombras: ¡¿Airi Amazaki?!
+
+Pensaba que solo había sido un rollo de una noche, pero, para mi sorpresa, en realidad está dispuesta a fingir que somos pareja, con algunas condiciones.
+
+Cuando una chica de ensueño, impecable en todos los sentidos excepto en su personalidad, dice algo así, ¡ni de coña puedo decir que no!
+
+Al principio, las «condiciones» son cosas sencillas, como hacerle compañía mientras bebe, ¡pero sus exigencias y sus bromas empiezan a ir a más poco a poco!
+
+«Lo borraré todo con mi presencia, para que lo olvides por completo».
+
+Incluso pisoteando a mi primer amor… La personalidad de esta chica es, sin duda, lo peor que hay.
+
+Pero… estoy perdidamente, irremediablemente enamorado de este tipo de chicas.
+
+Traducción realizada con la versión gratuita del traductor DeepL.com</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/142e5xK4gG3zGL1HH5g2g7Q" type="text/html" title="BakaNovels"/>
 </entry>
 <entry>
 <title>The Story of Feeding the Cutest Gal in Class Novela Ligera en Español</title>
@@ -32457,6 +32676,23 @@ Asa, desconcertada por la noticia, decide ir a ver a su verdadera madre, que viv
 
 Esta es una historia sobre cómo una familia vuelve a ser familia.</content>
 <link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Y9WB-7Wc4Slbg_3iBy5P2Q" type="text/html" title="Tamashi Project"/>
+</entry>
+<entry>
+<title>When Two Opposite Otaku’s Fall in Love Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-when-two-opposite-otakus-fall-in-love-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-when-two-opposite-otakus-fall-in-love-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/When-Two-Opposite-Otakus-Fall-in-Love-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/10/When-Two-Opposite-Otakus-Fall-in-Love-Portada.jpg"/>
+<author><name>Kujyo Ren</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Yamato, un chico normal y corriente, es en realidad el mejor jugador de un popular videojuego. Pero debido a su egocentrismo, no destaca en clase y pasa su juventud sumido en la monotonía. Un día, tras ayudar a Karin, una chica popular de su clase que sufre acoso en el pueblo, ella, inexplicablemente, se enamora de él…
+
+Karin lo oculta por miedo a lo que piensen los demás, pero en realidad es una otaku de los videojuegos. ¡Y sin que ninguno de los dos se dé cuenta, se han conocido dentro del mismo juego!
+
+Yamato parece normal a primera vista, pero dice lo que piensa sin rodeos. Karin parece llamativa a primera vista, pero suele leer el ambiente. Un romance juvenil entre dos polos opuestos, dos personas que jamás deberían haberse llevado bien.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1WbDU2Nh39QQVuiXZwMxVFA" type="text/html" title="Underword Liella Novels"/>
 </entry>
 <entry>
 <title>Who Killed the Hero? Novela Ligera en Español</title>

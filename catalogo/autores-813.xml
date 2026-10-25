@@ -1,76 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Satoshi Hase</id>
-<title>Satoshi Hase</title>
-<updated>2026-10-21T00:13:50.703764+00:00</updated>
+<id>nextnovels:autores:Sasaki Ichirou</id>
+<title>Sasaki Ichirou</title>
+<updated>2026-10-25T03:42:53.824209+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-813.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Beatless Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-beatless-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-beatless-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/Beatless-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/06/Beatless-Portada.jpg"/>
-<author><name>Satoshi Hase</name></author>
-<category term="Acción" label="Acción"/>
+<title>Kyuuketsu-hime Tan Astrid Novela Ligera en Español</title>
+<id>https://nextnovels.com/kyuuketsu-hime-tan-astrid-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/kyuuketsu-hime-tan-astrid-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/03/Kyuuketsu-hime-Tan-Astrid-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/03/Kyuuketsu-hime-Tan-Astrid-Portada.jpg"/>
+<author><name>Sasaki Ichirou</name></author>
+<category term="Adulto" label="Adulto"/>
 <category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Drama" label="Drama"/>
-<category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
-<content type="text">¡PRIMER VOLUMEN DE LA NOVELA DE BEATLESS, SIN LATIDOS!
+<category term="Fantasía" label="Fantasía"/>
+<category term="Maduro" label="Maduro"/>
+<category term="Tetona" label="Tetona"/>
+<content type="text">Mi adorable y linda princesita vampiro: siempre y para siempre estaré contigo.
 
-La historia de Sin latidos originalmente era una novela en dos volúmenes, donde descubrimos el fascinante mundo de las EIH, androides humanoides que ayudan a los humanos en su día a día... pero no son tan inofensivos como parecen.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-beatless-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
-</entry>
-<entry>
-<title>Romantic Do-Over Route with my Childhood Friend Who Became My Wife Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-romantic-do-over-route-with-my-childhood-friend-who-became-my-wife-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-romantic-do-over-route-with-my-childhood-friend-who-became-my-wife-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Romantic-Do-Over-Route-with-my-Childhood-Friend-Who-Became-My-Wife-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/08/Romantic-Do-Over-Route-with-my-Childhood-Friend-Who-Became-My-Wife-Portada.jpg"/>
-<author><name>Satoshi Hase</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Una comedia romántica de reencarnación regresiva en la que volveré a intentarlo cuantas veces sea necesario para salvarte.
+Cabello dorado, ojos ámbar - la verdadera vampira Astrid.
 
-Cuando eran pequeños, Yuji Fujino y Yume Hoshimiya eran vecinos y muy buenos amigos. Sin embargo, al llegar a la preparatoria, su relación se había vuelto tan distante que ni siquiera se saludaban.
+Crepúsculo, en el camino a un santuario, conocí y me enamoré de un vampiro inmortal.
 
-Pero un día, Yume le hace una inesperada confesión:
+"Encantada" de corazón, ¡una primera experiencia que roba la v*rginidad de dos centenares de años!
 
-"Yuu-kun, soy tu esposa y he regresado desde diez años en el futuro."
+¡Monopolizando la hermosa cabellera y su c*lo, hacia adelante a una propuesta de matrimonio e impr*gnación!
 
-Según ella, dentro de diez años Yuuji será 4s3s1n4d0 por Koshizu Tachibana, una estudiante transferida que llegará a su clase.
-
-Para salvarlo de ese "peor futuro posible" y casarse con él, ha viajado al pasado desde el futuro.
-
-La Yume del futuro se lanza a la ofensiva para conquistar a Yuuji y acercarse a él, pero en medio del proceso termina intercambiándose con la Yume de dieciséis años...
-
-Una comedia romántica de reencarnación regresiva en la que volveré a intentarlo cuantas veces sea necesario para salvarte.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1WHb-5jUlW7chM9AarmfEMw" type="text/html" title="OX-MR Traducciones"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1P8V4aVa8BRr8cCL1P6zcEQ" type="text/html" title="Tamashi's Project"/>
-</entry>
-<entry>
-<title>Strategic Base 32098 Paradise Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-strategic-base-32098-paradise-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-strategic-base-32098-paradise-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Strategic-Base-32098-Paradise-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/08/Strategic-Base-32098-Paradise-Portada.jpg"/>
-<author><name>Satoshi Hase</name></author>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Drama" label="Drama"/>
-<category term="Militar" label="Militar"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Psicológico" label="Psicológico"/>
-<content type="text">Cuando la verdad del planeta llamado Paraíso salga a la luz, el horror y la emoción te asaltarán a la vez.
-
-Ganador del Gran Premio de Oro de la 6.ª edición del Premio Sneaker.
-
-Dos superpotencias llevan más de mil años enfrascadas en una guerra interestelar. El soldado cíborg Varois desciende al planeta ultrasecreto del enemigo, conocido como «Paraíso». Pero lo que encuentra allí es solo un soldado enemigo y una niña llamada María.
-
-Una novela romántica de ciencia ficción que colma todas las expectativas.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1--2eFaQgUVJl0ivpIFnLFA" type="text/html" title="Next Novels (MTL)"/>
+Humano y monstruo, esta es una historia sobre el primer amor que es más importante que la vida eterna.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1myRcim7_N5VE0RKt3B_YxA" type="text/html" title="Domen Translations"/>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1AKsihlOJbZzN6YCEHwV0Bw" type="text/html" title="Defous123"/>
 </entry>
 </feed>

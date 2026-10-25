@@ -1,23 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Akai Matsuri</id>
-<title>Akai Matsuri</title>
-<updated>2026-10-21T00:13:50.573901+00:00</updated>
+<id>nextnovels:autores:Akagi Hirotaka</id>
+<title>Akagi Hirotaka</title>
+<updated>2026-10-25T03:42:53.537987+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-23.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>My Status as an Assassin Obviously Exceeds the Hero’s Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-my-status-as-an-assassin-obviously-exceeds-the-heros-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-my-status-as-an-assassin-obviously-exceeds-the-heros-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/05/Ansatsusha-de-Aru-Ore-no-Status-ga-Yuusha-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/05/Ansatsusha-de-Aru-Ore-no-Status-ga-Yuusha-Portada.jpg"/>
-<author><name>Akai Matsuri</name></author>
+<title>Exorcism Through Climax With a Single Strike! Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-exorcism-through-climax-with-a-single-strike-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-exorcism-through-climax-with-a-single-strike-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/08/Deatte-Hito-Tsuki-de-Zecchou-Jorei-Portada.webp"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/08/Deatte-Hito-Tsuki-de-Zecchou-Jorei-Portada.webp"/>
+<author><name>Akagi Hirotaka</name></author>
 <category term="Acción" label="Acción"/>
+<category term="Adulto" label="Adulto"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Harem" label="Harem"/>
+<category term="Maduro" label="Maduro"/>
+<category term="Supernatural" label="Supernatural"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">¿Quieres ir a un viaje de exorcismo? ¡Exorcismo de clase B que obliga al objetivo a llegar hasta la clase C!
+
+–Exorcismo Climax.
+
+Una habilidad obscena que obliga a cualquiera que sea golpeado por ella a alcanzar el clímax, independientemente de si está vivo o muerto. Como bonus, también obliga a los espíritus malignos y a los monstruos a ascender al cielo.
+
+Este es un mundo en el que los espíritus malignos y los monstruos están por todas partes y ser exorcista es un trabajo real.
+
+Entre chicos y chicas prometedores, los que tienen talento son entrenados en la «Escuela de Exorcistas».
+
+Furuya Haruhisa es un chico maldito con la habilidad del exorcismo del clímax, y también es el tonto de la escuela.
+
+Usar esa habilidad podría llevarlo a la muerte social...
+
+Pero entonces, Haruhisa la conoce.
+
+Soya Misaki, una chica que posee un par de ojos igualmente malditos: los ojos del demonio.
+
+Unos ojos temibles que pueden revelar sin esfuerzo los secretos de las personas.
+
+Y así comienza la leyenda de cómo los peores exorcistas de la historia llegan a ser conocidos como los más fuertes antes de que nadie se dé cuenta. Su primer trabajo real da lugar a una gran pelea con una mujer monstruosa que huye de los pechos.
+
+–¡¿Nhoooooo!?
+
+Una voz coqueta resuena por todo el barrio esta noche.
+
+Es, sin duda, la prueba de un ascenso.
+
+¿Podrán los torpes exorcistas ganar usando sus obscenas habilidades?
+
+¿Podrá el erotismo salvar el mundo?
+
+¡Una batalla ligeramente ecchi con exorcistas!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/19RShJs5EHQzXIbQ3OK-_Rw" type="text/html" title="Next Novels (MTL)"/>
+</entry>
+<entry>
+<title>Incubus Banishment Novela Ligera en Español</title>
+<id>https://nextnovels.com/incubus-banishment-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/incubus-banishment-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/05/Incubus-Banishment-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/05/Incubus-Banishment-Portada.jpg"/>
+<author><name>Akagi Hirotaka</name></author>
 <category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
 <category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
 <category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
-<content type="text">Oda Akira es el tipo de persona que la gente olvida que está ahí. Sin embargo, su naturaleza sin pretensiones da sus frutos cuando toda su clase es arrastrada a un mundo de fantasía y él se desliza fácilmente hacia su nuevo papel de asesino silencioso. Entre sus estadísticas iniciales sospechosamente altas y demasiados detalles que no encajan, Akira está seguro de que algo anda mal. Pero investigar los secretos reales es un juego peligroso, y cuando Akira descubre un plan malvado, también crea un enemigo poderoso: ¡el mismo rey que lo trajo a este mundo! Con la ayuda de la médium elfa Amelia, ¿podrá encontrar el poder para arreglar las cosas y vengarse?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1yKPRepu9KW2oofs_LnfaSQ" type="text/html" title="Darkness Dragons Translation"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1RyESUQwJ6YUYoJSnXr2xhw" type="text/html" title="World Project"/>
+<content type="text">Un mundo donde la vida de uno fue decidida por el talento de uno llamado Regalo. El personaje principal Erio Scarlet, que nació en la casa de una familia noble influyente que había producido muchos Caballeros Sagrados, manifestó un don sospechoso Incubus en la ceremonia de Otorgar. Además, la habilidad adjunta a ese Don era solo una habilidad vergonzosa llamada Inigualable.
+
+Erio fue desterrado de la ciudad porque no había forma de que su existencia indecente pudiera permitirse en una familia de Caballeros Sagrados pero... ¡¿De alguna manera experimentó un crecimiento asombroso cuando lidiaba con su excitación?!
+
+Además, cuando su amigo de la infancia, a quien se le otorgó el Regalo Caballero Sagrado, persiguió al personaje principal debido a su amor por él, reverse ra-……lo hizo con él, aparecieron muchas poderosas habilidades indecentes y además de eso, incluso ¡¿Quedé obligado por el contrato Maestro-Sirviente…?!
+
+Esta fue la historia heroica indecente del chico que fue dotado con un regalo indecente que se elevaba en el mundo mientras [se llevaba bien] con muchas chicas.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/13wZb2bsIQESStKTvm7p8ow" type="text/html" title="World Project"/>
+</entry>
+<entry>
+<title>Shimoneta Novela Ligera en Español</title>
+<id>https://nextnovels.com/shimoneta-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/shimoneta-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/04/Shimoneta-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/04/Shimoneta-Portada.jpg"/>
+<author><name>Akagi Hirotaka</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Los plátanos cuentan como línea de fondo?
+
+—¡Pollaaaaaaaaaa!
+
+La chica empezó a correr, gritando.
+
+En ese momento, me maree.
+
+Todas las miradas de la plataforma de la estación están puestas en ella, vestida sólo con una toalla de baño.
+
+—¡Qu-Que alguien la detenga, por favor!
+
+Se fue como una tormenta, esparciendo palabras e ilustraciones obscenas, sin tener en cuenta la contención del personal de la estación. Su acto me salvó de ser acusado de un crimen que no cometí…
+
+—¿Estás bien? Eso…
+
+Hace dieciséis años, con la aprobación de la Ley de Orden Público y Moral, el lenguaje soez fue objeto de luto por parte del público. El protagonista, Okuma Tanukichi, se matricula en una de las mejores escuelas de moral pública de Japón, pero nada más entrar en la escuela es reclutado por Ayame Kajou, la fundadora de la organización antisocial «SOX». Tanukichi que se ha convertido en miembro de «SOX» después de que se le hayan extirpado sus debilidades, cooperará en un atentado terrorista para conseguir respaldar a Anna, la presidenta del consejo estudiantil que siente un gran deseo por él, pero… ¿Es una prisión? ¿O es un harem?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1Qv0i6Jq0vFVEk24eMUDwLQ" type="text/html" title="MiraiK y Defous123"/>
 </entry>
 </feed>

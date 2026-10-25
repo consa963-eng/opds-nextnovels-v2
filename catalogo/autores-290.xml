@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Ichimei Tsukushi</id>
-<title>Ichimei Tsukushi</title>
-<updated>2026-10-21T00:13:50.617984+00:00</updated>
+<id>nextnovels:autores:Hyougetsu</id>
+<title>Hyougetsu</title>
+<updated>2026-10-25T03:42:53.596118+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-290.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Dragon and Ceremony Novela Ligera en Español</title>
-<id>https://nextnovels.com/dragon-and-ceremony-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/dragon-and-ceremony-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/02/Dragon-and-Ceremony-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/02/Dragon-and-Ceremony-Portada.jpg"/>
-<author><name>Ichimei Tsukushi</name></author>
+<title>Jinrou e no Tensei, Maou no Fukukan Novela Ligera en Español</title>
+<id>https://nextnovels.com/jinrou-e-no-tensei-maou-no-fukukan-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/jinrou-e-no-tensei-maou-no-fukukan-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/08/Jinrou-e-no-Tensei-Maou-no-Fukukan-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/08/Jinrou-e-no-Tensei-Maou-no-Fukukan-Portada.jpg"/>
+<author><name>Hyougetsu</name></author>
 <category term="Acción" label="Acción"/>
 <category term="Aventura" label="Aventura"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<content type="text">Sin familia y recientemente sin hogar, el fabricante de varitas novato Ix deja su pueblo aislado en busca de empleo solo para encontrarse con Yuui, una chica con un contrato que le da derecho a una reparación de varita gratuita de su difunto instructor. Pero cuando Ix decide cumplir con la garantía y completar el trabajo en lugar de su maestro, rápidamente se da cuenta de que no se trata de una reparación rutinaria.
-
-Contra todo pronóstico, la varita de Yuui funciona con el corazón de una criatura mítica que se cree que se extinguió hace más de mil años: Un dragón. Para completar la reparación y poner fin a sus pasados, la pareja ahora debe descubrir la verdad detrás de la desaparición de los dragones del mundo...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1LvNON8a7zcQg-DEfnZlSSg" type="text/html" title="MiraiK - Novelas Ligeras y más"/>
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">El renacido hombre lobo conocido como Veight ahora dirige el tercer regimiento del Señor Demonio bajo el título de Vicecomandante. Tras conquistar la ciudad comercial conocida como Ryunheit, Veight pronto aprenderá las dificultades de gobernar una ciudad de población mixta de humanos y demonios. Armado con una comprensión de las relaciones entre especies y un deseo de paz, pasa sus días reprimiendo a los violentos demonios y pacificando a los humanos problemáticos en su búsqueda del equilibrio y la tranquilidad.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1XgV4zFdXgw_TQempoQt0mg" type="text/html" title="Oasis Translations, Ferindrad"/>
 </entry>
 </feed>

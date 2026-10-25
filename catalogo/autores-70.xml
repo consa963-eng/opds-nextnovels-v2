@@ -1,63 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Antai</id>
-<title>Antai</title>
-<updated>2026-10-21T00:13:50.581822+00:00</updated>
+<id>nextnovels:autores:Anikki Burazza</id>
+<title>Anikki Burazza</title>
+<updated>2026-10-25T03:42:53.548339+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-70.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>My Ribdiculous Reincarnation Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-my-ribdiculous-reincarnation-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-my-ribdiculous-reincarnation-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/04/My-Ribdiculous-Reincarnation-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/04/My-Ribdiculous-Reincarnation-Portada.jpg"/>
-<author><name>Antai</name></author>
-<category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Shounen" label="Shounen"/>
-<content type="text">¿El destino de reencarnación que eligió el protagonista es… ¡la costilla de un héroe con habilidades especiales, harén y final feliz!?
-
-El escenario: un mundo en el que puedes seguir reencarnándote en cualquier mundo que te guste hasta que estés lo suficientemente satisfecho como para ascender en paz. Sin embargo, la siempre popular opción isekai —el «héroe con habilidades especiales y harén»— tiene tanta demanda que la lista de espera es de cincuenta mil años…
-
-Así que, en su lugar, el protagonista se decanta por una laguna legal:
-
-«¡¿La costilla de un héroe con poderes especiales, harén y final feliz?!»
-
-Junto con una diosa perezosa a cargo de las reencarnaciones isekai, el protagonista busca vías alternativas para acceder a destinos de reencarnación populares y acaba siempre en reencarnaciones totalmente ridículas. ¡Una historia de reencarnación en otro mundo tremendamente entretenida!
-
-Ganadora del 8.º Gran Premio de Novela en Red.
-
-Incluye historias posteriores a episodios populares, además de un episodio exclusivo del libro que solo puedes leer aquí:
-
-«El viejo soldado al que le dio una flecha en la rodilla... y su lanza».</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1yq30mCpi2QjveLvefi8vHA" type="text/html" title="Next Novels (MTL)"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/15KicsYgDSRcGgR7AYCe3iA" type="text/html" title="Next Novels (MTL)"/>
-</entry>
-<entry>
-<title>Wanting To Live Safely Even In Another World Syndrome Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-wanting-to-live-safely-even-in-another-world-syndrome-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-wanting-to-live-safely-even-in-another-world-syndrome-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/Wanting-To-Live-Safely-Even-In-Another-World-Syndrome-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/05/Wanting-To-Live-Safely-Even-In-Another-World-Syndrome-Portada.jpg"/>
-<author><name>Antai</name></author>
+<title>The Failed Hero Becomes to the Great Evil King Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-failed-hero-becomes-to-the-great-evil-king-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-failed-hero-becomes-to-the-great-evil-king-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/The-Failed-Hero-Becomes-to-the-Great-Evil-King-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/07/The-Failed-Hero-Becomes-to-the-Great-Evil-King-Portada.jpg"/>
+<author><name>Anikki Burazza</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
+<category term="Adulto" label="Adulto"/>
+<category term="Drama" label="Drama"/>
 <category term="Fantasía" label="Fantasía"/>
 <category term="Harem" label="Harem"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<content type="text">«La comprensión» es más fuerte que la espada.
+<category term="Romance" label="Romance"/>
+<content type="text">¡Me vengaré de todos esos tipos que me desterraron robándoles a sus novias!
 
-¿Sin armas? ¿Sin magia?
+«Tú, que no lograste convertirte en un héroe, ya no tienes ningún valor. Estás desterrado.»
 
-Pero es la historia de un hombre que quiere vivir sin complicaciones.
+Daimon, que pasó de ser el próximo héroe a un plebeyo por el error de la santa, lo ha perdido todo y está sumido en la desesperación; ¡su cordura se ha consumido! «No más bondad desinteresada. Si quieres ayuda, ¡déjame tenerte!»
 
-«Bueno, pues así llegué a otro mundo»…
+Con su libido desatado y el poder de un aspirante a héroe, Daimon seduce a todos los que lo traicionaron, desde la novia de su amigo traidor hasta su familia, recibiendo su merecido.
 
-Cuando el hombre recobró el sentido, se encontraba solo en medio de una montaña repleta de plantas y criaturas que jamás había visto. Tras esquivar encuentros con limos gigantes y bandidos, por fin bajó de la montaña, solo para que lo apresaran como sospechoso en el castillo al que llegó. En la mazmorra conoce a la caballero Ilias, que lo interroga; cuando menciona a los bandidos que vio al atravesar la montaña, Ilias —cuyas pesquisas no llevaban a ninguna parte— lo recluta a toda prisa para la misión de exterminio. Su deseo no es convertirse en héroe ni forjar un harén, sino sencillamente «vivir sin problemas». ¡La crónica de un hombre que blandirá la «comprensión» como arma para sobrevivir en otro mundo!
+«Qué varonil... mis instintos femeninos me atormentan y no puedo resistir...»
 
-¡Obra galardonada en la sexta edición del Premio de Novela Web!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1GhNJc5f7wtm3Uvgf1QRWPw" type="text/html" title="Next Novels (MTL)"/>
+«Debería odiar esto, pero mi cuerpo me está siendo honesto... ¡No, basta, no más!»
+
+Una fantasía de seducción, venganza y poder sin igual comienza aquí, mientras él lleva a hermosas chicas a un placer irresistible y asciende a la cima.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1movmn_cI-JeWHEANcymchQ" type="text/html" title="Ichijou Translations"/>
 </entry>
 </feed>

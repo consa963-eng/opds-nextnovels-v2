@@ -1,65 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Asano Hajime</id>
-<title>Asano Hajime</title>
-<updated>2026-10-21T00:13:50.585550+00:00</updated>
+<id>nextnovels:autores:Asano Atsuko</id>
+<title>Asano Atsuko</title>
+<updated>2026-10-25T03:42:53.553213+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-93.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Mayo Chiki! Novela Ligera en Español</title>
-<id>https://nextnovels.com/mayo-chiki-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/mayo-chiki-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/06/Mayo-Chiki-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/06/Mayo-Chiki-Portada.jpg"/>
-<author><name>Asano Hajime</name></author>
+<title>No.6 Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-no-6-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-no-6-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-34.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-34.jpg"/>
+<author><name>Asano Atsuko</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Artes marciales" label="Artes marciales"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Harem" label="Harem"/>
-<category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">La historia gira en Kinjirou Sakamachi, un estudiante de preparatoria de 17 años que sufre de ginofobia. La enfermedad conocida como ginofobia hace que su nariz sangre cada vez que tiene contaco con una chica. Mientras usa el baño, él accidentalmente descubre que el mayordomo popular y apuesto, Subaru Konoe, es en realidad, una chica. Ahora que Kinjirou sabe el secreto de Subaru, él debe trabajar junto a Subaru y su sadica ama, Kanade, para proteger el secreto de Subaru de ser descubierto.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1wmMQpUErj7E5buKTAYOWBg" type="text/html" title="Gustang Translations"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Drama" label="Drama"/>
+<category term="Josei" label="Josei"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">La historia tiene lugar en una ciudad utópica conocida como No. 6, la cual es una de las seis únicas ciudades habitables luego de una guerra que casi extermina a la raza humana.
+
+Shion, un niño criado con privilegios, vive en un área exclusiva en No. 6. En la noche de su duodécimo cumpleaños, le da refugio a un muchacho que se llama a sí mismo como "Nezumi". Nezumi está siendo cazado por el área especial de seguridad de la ciudad y debe escapar. Desde ese momento, la vida de Shion cambia y tendrá que lidiar con la verdad que yace en el interior de la ciudad.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1NdFQdDBKJY3bttsPB_hAYw" type="text/html" title="Kanarianime Fansub"/>
 </entry>
 <entry>
-<title>Ore ni dake Tsumetai Tomori-san ni Ura Aka Shitteru to Ittara? Novela Ligera en Español</title>
-<id>https://nextnovels.com/ore-ni-dake-tsumetai-tomori-san-ni-ura-aka-shitteru-to-ittara-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/ore-ni-dake-tsumetai-tomori-san-ni-ura-aka-shitteru-to-ittara-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/08/Ore-ni-dake-Tsumetai-Tomori-san-ni-Ura-Aka-Shitteru-to-Ittara-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/08/Ore-ni-dake-Tsumetai-Tomori-san-ni-Ura-Aka-Shitteru-to-Ittara-Portada.jpg"/>
-<author><name>Asano Hajime</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Harem" label="Harem"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">―Azusa Tomori.
+<title>No.6: Reunion Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-no-6-reunion-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-no-6-reunion-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/08/No.6-Reunion-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/08/No.6-Reunion-Portada.jpg"/>
+<author><name>Asano Atsuko</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Drama" label="Drama"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Shoujo" label="Shoujo"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">El ingenuo ultra elite Shion y el terrorista Nezumi tienen un encuentro fatídico y destruyen la falsa ciudad ideal "NO.6".
 
-Si hubiera un ranking de tendencias en esta escuela, su nombre estaría siempre en lo más alto.
+Dos años después de que Nezumi dejara "No. 6" diciendo "Definitivamente nos volveremos a encontrar, Shion", comienza "No. 6 Reunion".
 
-Azusa Tomori, que se sienta a mi lado, es una estudiante modelo, la representante de la clase, y una buena amiga de todos conocida como [La amiga de todos].
+Shion se convirtió en el presidente del comité de reconstrucción del "N.° 6", pero estaba preocupado por la inestable situación política y estaba siendo atacado por un asesino desconocido y aleatorio, y ansiaba la presencia de la rata. En ese momento, sentí la presencia de un ratón cerca...
 
-―-Bueno, excepto yo, Kimitaka Kagisaka
+¿Podrán los dos crear una vez más un mundo donde nadie sea oprimido?
 
-“No, quiero que seas un ejemplo para todos. Aunque tus calificaciones son excelentes, quiero mostrarles a todos tu existencia rastrera como ser humano para que todos puedan crecer y.…"
+¿Podrán ambos encontrar "esperanza" en una realidad llena de trampas?
 
-“Perra habladora.”
-
-“¡¿…?!... ¿No se supone que debes decir 'hermosa'?”
-
-Siempre había pensado que soltaba su lengua afilada y se peleaba conmigo sin motivo ―
-
-{Ah, si es en mi cuenta secreta, puedo expresar libremente lo mucho que te quiero, K-kun.}
-
-―Pero cuando me topé por casualidad con su cuenta secreta, lo único que hizo fue tuitear mensajes cariñosos hacia mí (?)
-
-{¿Me pregunto qué tipo de expresión pondrías si te lo dijera?}
-
-¿Qué tipo de expresión, me preguntas?
-
-Si giras la cabeza ahora mismo, sabrás la respuesta...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1OnvB2Qoa2Bwf4T8QtKSrPg" type="text/html" title="World Project"/>
+¡Sé testigo del vínculo irremplazable y la "batalla" de dos chicos, Shion y Nezumi!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/104H2Sm1nevX9wxU60-A7eQ" type="text/html" title="Shizu Fansub"/>
 </entry>
 </feed>

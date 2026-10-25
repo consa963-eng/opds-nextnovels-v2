@@ -1,67 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Komao Mako</id>
-<title>Komao Mako</title>
-<updated>2026-10-21T00:13:50.646003+00:00</updated>
+<id>nextnovels:autores:Koidanuki</id>
+<title>Koidanuki</title>
+<updated>2026-10-25T03:42:53.745955+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-459.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>BlazBlue Novela Ligera en Español</title>
-<id>https://nextnovels.com/blazblue-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/blazblue-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/05/BlazBlue-Portada.webp"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/05/BlazBlue-Portada.webp"/>
-<author><name>Komao Mako</name></author>
+<title>I Can’t say my Real Job is a [Sex Knight] Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-i-cant-say-my-real-job-is-a-sex-knight-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-i-cant-say-my-real-job-is-a-sex-knight-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/01/I-Cant-say-my-Real-Job-is-a-Sex-Knight-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/01/I-Cant-say-my-Real-Job-is-a-Sex-Knight-Portada.jpg"/>
+<author><name>Koidanuki</name></author>
 <category term="Acción" label="Acción"/>
 <category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Seinen" label="Seinen"/>
-<content type="text">2199 D.C. El mundo está cubierto de seithr y la humanidad se ve obligada a vivir en ciudades jerárquicas, construcciones ascendentes similares a torres.
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">¡Si se descubre que no es el Caballero Sagrado más fuerte, será ejecutado inmediatamente! -Su arma es su propio deseo sexual.
 
-La 13ª Ciudad Jerárquica de Kagutsuchi ha sido infiltrada por un hombre con la mayor recompensa del mundo. Se trata de Ragna el Sanguinario, la "Parca", un hombre que posee el Grimorio Azul. Así, la rueda del destino comienza a girar.
-
-"¡Restricción 666 liberada, Campo de Interferencia Dimensional desplegado! ¡BlazBlue, activa!"
-
-La primera entrega del popular juego de lucha BlazBlue, Calamity Trigger. ¡La nueva leyenda comienza aquí!
-
-Las 2 primeras novelas cuentan la historia de Calamity Trigger, mientras que las 2 últimas cuentan la historia de Continuum Shift.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com" type="text/html" title="Traducción no disponible"/>
-</entry>
-<entry>
-<title>BlazBlue – Phase 0 Novela Ligera en Español</title>
-<id>https://nextnovels.com/blazblue-phase-0-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/blazblue-phase-0-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/05/BlazBlue-%E2%80%93-Phase-0-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/05/BlazBlue-%E2%80%93-Phase-0-Portada.jpg"/>
-<author><name>Komao Mako</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Seinen" label="Seinen"/>
-<content type="text">Ragna el Sanguinario. Ese hombre es apodado Grim Reaper y posee el poder del Azure Grimoire. Sin embargo, despierta en una tierra desconocida y ha perdido tanto el poder del Azure como su memoria.
-
-En este mundo desconocido, se encuentra con Celica, una chica capaz de utilizar magia curativa, y con un guerrero beastkin llamado Mitsuyoshi. Su viaje está estrechamente relacionado con la Bestia Negra, un ser que lleva a la humanidad a la devastación. Sin embargo...
-
-La historia de la popular serie de juegos de lucha BlazBlue, hasta ahora envuelta en la historia, está a punto de salir a la luz. ¡La historia oficial que nos lleva al punto de partida ha llegado!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1BBDQ9ok3XlOM156yccFqkg" type="text/html" title="Ride The Lightning Translation"/>
-</entry>
-<entry>
-<title>BlazBlue – Phase Shift Novela Ligera en Español</title>
-<id>https://nextnovels.com/blazblue-phase-shift-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/blazblue-phase-shift-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/05/BlazBlue-%E2%80%93-Phase-Shift-Portada.webp"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/05/BlazBlue-%E2%80%93-Phase-Shift-Portada.webp"/>
-<author><name>Komao Mako</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Seinen" label="Seinen"/>
-<content type="text">2106 D.C. El mundo está sumido en el caos por la amenaza de la Bestia Negra. En la isla Ishana, gobernada por el Gremio de Magos, el estudiante Kazuma vive una vida normal. Pero cuando conoce por casualidad a Yuuki Terumi, la historia recibe un nuevo Cambio de Fase.
-
-"Si consigues el Azure, podrás recuperar lo que quieras. Cosas que perdiste, cosas que olvidaste, lo que sea".
-
-¿Es el preludio de la destrucción? ¿O un evangelio de salvación?
-
-Entre la luz y la oscuridad del Límite, la esperanza y la desesperación se mezclan. ¡Se ha levantado el telón de un nuevo episodio de la historia oficial de BlazBlue!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1johg4zOSH5LVNsDkDWrmKA" type="text/html" title="Ride The Lightning Translation"/>
+Caballero Sagrado. Es una profesión especial otorgada por Dios a los 15 años. Un chico llamado Ars también recibió la profesión, pero.. "¡¿Qué demonios es este Caballero Sexual?!" ¿¡Le dieron el título de caballero "Sexual" que consume el deseo sexual para activar habilidades?! Sin embargo, al escuchar el poderoso grito de Ars, quienes lo rodeaban causaron un alboroto por el nacimiento de un caballero "Santo".¡¿Acaso no se dio cuenta, Ars estaba recibiendo una audiencia con el rey como [Caballero Sagrado] en la capital real..?! ¿Afirmar falsamente su profesión sería considerado traición a Dios. Sería ejecutado de inmediato, pero su habilidad,"Escudo Sexual" que aumenta su deseo sexual, resulta increíblemente poderosa ante el rey..?! Ahora reconocido oficialmente como Caballero Sagrado, Ars tiene la tarea de proteger al santo, pero..</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1-3phbGD_fwO5MzN26fuWHw" type="text/html" title="Ichijou Translations"/>
 </entry>
 </feed>

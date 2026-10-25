@@ -1,53 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Asakura Neru</id>
-<title>Asakura Neru</title>
-<updated>2026-10-21T00:13:50.585049+00:00</updated>
+<id>nextnovels:autores:Asahi Chihaya</id>
+<title>Asahi Chihaya</title>
+<updated>2026-10-25T03:42:53.552589+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-90.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>I Am Better than Him, Right? Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-i-am-better-than-him-right-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-i-am-better-than-him-right-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/01/I-Am-Better-than-Him-Right-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/01/I-Am-Better-than-Him-Right-Portada.jpg"/>
-<author><name>Asakura Neru</name></author>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<category term="Yuri" label="Yuri"/>
-<content type="text">Esa chica… ha encontrado a un chico que le gusta. ¡Antes de que se le confiese, tengo que hacerla mía!
-
-「Creo que... me he enamorado de alguien…」
-
-¿Eh? Al escuchar esas palabras, el alma de Mizusawa Kano casi salió disparada.
-
-Su amiga de la infancia, la chica Horimiya Nene. Con su encantador y suave cabello ondulado hasta los hombros, buena en todo excepto en deportes, excelente en los estudios, hogareña y atenta… y ahora decía que le gustaba un chico.
-
-Kano estaba enamorada de Nene.
-
-A pesar de ser dos chicas, Nene se había convertido sin que se diera cuenta en alguien más que una simple amiga. Y aun así… ¿qué debería hacer? ¿Cómo podría dejar que Nene se fuera? Tras darle vueltas y más vueltas, los pensamientos de Kano tomaron un giro realmente extraño.
-
-Eso fue:
-
-"¡Si no puedo tener su corazón… entonces su cuerpo si…!
-
-Así comenzó la un poco extrema y atrevida “Operación Conquista de Nene” de Kano..</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1dwdwPwcq4pMh1Fzn9AF5OQ" type="text/html" title="Kyūden Translation"/>
-</entry>
-<entry>
-<title>Watashi no Yuri mo, Eigyou da to Omotta? Novela Ligera en Español</title>
-<id>https://nextnovels.com/watashi-no-yuri-mo-eigyou-da-to-omotta-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/watashi-no-yuri-mo-eigyou-da-to-omotta-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/01/Watashi-no-Yuri-mo-Eigyou-da-to-Omotta-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/01/Watashi-no-Yuri-mo-Eigyou-da-to-Omotta-Portada.jpg"/>
-<author><name>Asakura Neru</name></author>
+<title>Senpai, Will You Cheat With Me? Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-senpai-will-you-cheat-with-me-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-senpai-will-you-cheat-with-me-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/04/Senpai-Will-You-Cheat-With-Me-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/04/Senpai-Will-You-Cheat-With-Me-Portada.jpg"/>
+<author><name>Asahi Chihaya</name></author>
 <category term="Comedia" label="Comedia"/>
 <category term="Drama" label="Drama"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Yuri" label="Yuri"/>
-<content type="text">«Me pregunto qué estará haciendo Karin-sama estos días…»
+<category term="NTR" label="NTR"/>
+<category term="Romance" label="Romance"/>
+<category term="Yandere" label="Yandere"/>
+<content type="text">Un día, el estudiante de secundaria Toshiya Naegi presencia accidentalmente la salida de su novia, Airi Tsukimiya, y su compañero de clase y mejor amigo, Shintaro Nakajo, de un hotel del amor.
 
-Medio año después de la retirada de su ídol favorita, Shoutsuki Karin, la joven pero exitosa actriz de doblaje, Senguu Suzune, aun no se había recuperado. Pero un día, una actriz de doblaje novata llega a su agencia: ¡la mismísima Karin-sama! Aunque encantada con este inesperado reencuentro, Suzune opta por mantener la calma y una cómoda distancia entre ambas. Sin embargo, para su sorpresa, Karin se acerca agresivamente a Suzune en todas las ocasiones posibles. ¿Acaso Suzune estaba siendo utilizada a conveniencia de Karin? Parecían llevarse bien como simples compañeras de trabajo, pero a medida que pasa el tiempo, Suzune empieza a ver un lado diferente de la Karin ídol que conocía. ¿Seguirán siendo compañeras yuri de negocios, o hay algo más esperándolas al final del camino…?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1NGHvDN_ed3JiWNy9pvzEEQ" type="text/html" title="MiraiK"/>
+Toshiya queda devastado por la infidelidad. Justo entonces, Rinka, la hermana menor de Shintaro y estudiante de segundo año, aparece ante él.
+
+«Senpai, ¿por qué no tienes una aventura conmigo?».*
+
+Le propone un plan de venganza para hacerle sufrir el mismo dolor.
+
+Al principio, Toshiya se niega, pero ya no puede resistirse a los insistentes avances de Rinka, y terminan en una relación demasiado profunda como para dar marcha atrás...
+
+¡La comedia romántica de «venganza» prohibida entre «yo», a quien le robaron a su novia, y una estudiante de segundo año yandere comienza aquí!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1ozq3lxMzNCQkYJYec_Wz7w" type="text/html" title="Ichijou Translations"/>
 </entry>
 </feed>

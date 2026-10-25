@@ -1,25 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Quantum</id>
-<title>Quantum</title>
-<updated>2026-10-21T00:13:50.691207+00:00</updated>
+<id>nextnovels:autores:Phage321</id>
+<title>Phage321</title>
+<updated>2026-10-25T03:42:53.807221+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-737.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Yuusha, Yamemasu Novela Ligera en Español</title>
-<id>https://nextnovels.com/yuusha-yamemasu-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/yuusha-yamemasu-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/08/Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/08/Portada.jpg"/>
-<author><name>Quantum</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
+<title>Kyoukai Meikyuu to Ikai no Majutsushi Novela Ligera en Español</title>
+<id>https://nextnovels.com/kyoukai-meikyuu-to-ikai-no-majutsushi-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/kyoukai-meikyuu-to-ikai-no-majutsushi-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/11/Kyoukai-Meikyuu-to-Ikai-no-Majutsushi-Portada.jpeg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/11/Kyoukai-Meikyuu-to-Ikai-no-Majutsushi-Portada.jpeg"/>
+<author><name>Phage321</name></author>
 <category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Harem" label="Harem"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Tragedia" label="Tragedia"/>
-<content type="text">Únete a Leo y su grupo mientras se aventuran en el mundo demoniaco al borde de la destrucción. Enfrentando una contaminación devastadora en el agua y el suelo, el reino demoníaco tiene un plazo de un año para evitar el colapso total. Además, Echidna enfrenta un problema paralelo que agrava aún más la situación.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/12X4YjHNjlPpX5DRIGI_ZAg" type="text/html" title="Astral Novel Translations"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">¡Reencarnación x Fantasía de Batalla Mágica!
+
+Theodore Gartner, el hijo bastardo de un noble y oprimido por sus hermanos, recupera los recuerdos de su «vida anterior» cuando es empujado a un canal fluvial y casi muere.
+
+Ese recuerdo es que una vez fue un japonés, Kagehisa Kirishima, y murió mientras se conectaba al VRMMO «Break Force Online». Y, en el mundo del «BFO», interpretaba a Theodore como el personaje.
+
+Theodore recuerda cómo usar la magia así como los recuerdos de su vida anterior y deja su casa con su sirvienta, Grace, y viaja a la ciudad laberíntica de Termwills para explorar los misterios de su crecimiento y el mundo en el que se ha reencarnado.
+
+Situado en un mundo diferente con un vasto laberinto, los días de aventura para un chico con recuerdos del otro mundo comienzan ahora.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1f5eoZFfhmIzSK54OB7Kr6g" type="text/html" title="Defous123"/>
 </entry>
 </feed>

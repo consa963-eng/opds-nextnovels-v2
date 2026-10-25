@@ -1,23 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Rocket Shoukai</id>
-<title>Rocket Shoukai</title>
-<updated>2026-10-21T00:13:50.693985+00:00</updated>
+<id>nextnovels:autores:Riku Misora</id>
+<title>Riku Misora</title>
+<updated>2026-10-25T03:42:53.810989+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-754.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Sentenced to Be a Hero Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-sentenced-to-be-a-hero-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-sentenced-to-be-a-hero-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/Sentenced-to-Be-a-Hero-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/03/Sentenced-to-Be-a-Hero-Portada.jpg"/>
-<author><name>Rocket Shoukai</name></author>
+<title>Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu! Novela Ligera en Español</title>
+<id>https://nextnovels.com/choujin-koukousei-tachi-wa-isekai-demo-yoyuu-de-ikinuku-you-desu-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/choujin-koukousei-tachi-wa-isekai-demo-yoyuu-de-ikinuku-you-desu-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/06/05-4.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/06/05-4.jpg"/>
+<author><name>Riku Misora</name></author>
 <category term="Acción" label="Acción"/>
 <category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
 <category term="Drama" label="Drama"/>
+<category term="Ecchi" label="Ecchi"/>
 <category term="Fantasía" label="Fantasía"/>
-<content type="text">El heroísmo: un castigo solo para los peores criminales. Los condenados al destino de héroe se ven obligados a luchar en primera línea contra mortíferos focos de contagio que pudren la tierra y convierten a sus criaturas en ejércitos errantes de bestias violentas. Y si un héroe muere, su única recompensa es volver a la vida para poder continuar la batalla interminable. Pero cuando Xylo Forbartz, miembro de la Unidad Penal de Héroes 9004 y condenado por matar a una diosa, se encuentra cara a cara con una nueva diosa, el pacto que forjan podría ser suficiente para cambiar el mundo...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1b1VJUC-NM2YngTmyhNw84g" type="text/html" title="Next Novels (MTL)"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1BzYEuLRzHA6sb3i-rcFTVg" type="text/html" title="Next Novels (MTL)"/>
+<category term="Romance" label="Romance"/>
+<content type="text">En Japón, hay siete estudiantes de secundaria sobrehumanos que son genios de talla mundial en varios campos que van desde la gobernanza hasta la economía y más allá. Un fatídico día, estos siete acaban sufriendo un accidente de avión y se despiertan para encontrarse en otro mundo. Al encontrarse en un lugar extraño donde la magia y las bestias son reales, inmediatamente entran en pánico, o al menos eso es lo que habría ocurrido si fueran unos estudiantes cualquiera. En todo caso, estos siete están utilizando sus talentos para hacer cosas absolutamente ridículas para poder volver a casa.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1cO4Pvg1Q2Qvd8Q-FtZe95A" type="text/html" title="Hasu Translations"/>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/14zoNdCcp-qJQG1SpYt7ZLw" type="text/html" title="World Project"/>
+</entry>
+<entry>
+<title>Kanojo no Imouto to Kiss wo shita Novela Ligera en Español</title>
+<id>https://nextnovels.com/kanojo-no-imouto-to-kiss-wo-shita-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/kanojo-no-imouto-to-kiss-wo-shita-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-54.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-54.jpg"/>
+<author><name>Riku Misora</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Hiromichi Sato ha estado saliendo con Haruka durante un mes, y su relación se dirige rápidamente en una buena dirección.
+
+Pero un día, los padres de Hiromichi anuncian que se volverán a casar y que tendrá una nueva hermanastra. Cuando la conoce, se sorprende al ver que se parece exactamente a Haruka. Sin embargo, no te preocupes, son personas totalmente diferentes. Son solo gemelos, cada uno vive con un padre diferente desde el divorcio.
+
+Ciertamente nada de qué preocuparse. No es como si pudiera haber algún malentendido loco provocado por vivir con el gemelo idéntico de tu novia, ¿verdad...?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1EBWRA3zT2LpgB2rHMq-ztg" type="text/html" title="Einherjar Project"/>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1ffla67MgSYSothZGhc2W2A" type="text/html" title="World Project"/>
 </entry>
 </feed>

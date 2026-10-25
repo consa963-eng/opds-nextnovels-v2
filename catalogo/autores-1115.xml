@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Yuuji Yuuji</id>
-<title>Yuuji Yuuji</title>
-<updated>2026-10-21T00:13:50.757288+00:00</updated>
+<id>nextnovels:autores:Yuu KUDOU</id>
+<title>Yuu KUDOU</title>
+<updated>2026-10-25T03:42:53.891603+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1115.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Ore no Kanojo to Osananajimi ga Shuraba Sugiru Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-ore-no-kanojo-to-osananajimi-ga-shuraba-sugiru-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-ore-no-kanojo-to-osananajimi-ga-shuraba-sugiru-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/04/OreShura-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/04/OreShura-Portada.jpg"/>
-<author><name>Yuuji Yuuji</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Harem" label="Harem"/>
+<title>Chikasugiru Karera no, Juunanasai no Tooi Kankei Novela Ligera en Español</title>
+<id>https://nextnovels.com/chikasugiru-karera-no-juunanasai-no-tooi-kankei-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/chikasugiru-karera-no-juunanasai-no-tooi-kankei-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/01/image2.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/01/image2.jpg"/>
+<author><name>Yuu KUDOU</name></author>
+<category term="Drama" label="Drama"/>
 <category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Eita Kidō entra en el instituto con el objetivo de graduarse con unas notas lo suficientemente altas como para poder conseguir una beca para estudiar medicina. Con este objetivo en mente y el hecho de que sus padres se divorciaron, encontraron otras amantes y lo dejaron al cuidado de un familiar, rehúye todo lo que tenga que ver con el romance o el amor. Un día, la belleza de la escuela, Masuzu Natsukawa, le invita a caminar con ella a casa, pero él se niega. Después de varios días, cede y vuelve a casa con ella. Resulta que Masuzu está cansada de ser el centro de atención y de recibir confesiones casi a diario, así que sugiere que ella y Eita se conviertan en una falsa pareja. Aunque Eita intenta negarse, Masuzu le chantajea para que se convierta en su novio sólo de nombre. La noticia de la nueva pareja se extiende rápidamente por toda la escuela y la amiga de la infancia de Eita, Chiwa Harusaki, a quien le gusta, empieza a competir con Masuzu por el afecto de Eita.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1rftb8i0g10Q6KzG3fmjQKw" type="text/html" title="MiraiK, Up! Subs, Next Novels (MTL)"/>
+<content type="text">Sakamoto Kenichi se encuentra viviendo con un pariente lejano, una chica llamada Izumi Rina, en la casa que comparte con su madre.
+
+La personalidad reservada de Rina, su naturaleza afectuosa y su vulnerabilidad por haber crecido en una escuela femenina hacen que Kenichi, quien está preocupado por su distancia de los demás, sea consciente de la sexualidad adolescente por primera vez.
+
+Kenichi de 17 años, trata de ocultar a sus amigos el hecho de que está viviendo bajo el mismo techo con una chica de su misma edad, pero cuando Mori Yuriko quien es su amiga de la infancia lo descubre, la distancia entre ellos cambia sutilmente.
+
+Una historia de amor que refleja a un joven de diecisiete años en medio de una relación sensible y volátil.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1323IUqxiQLj69KzrkAFmug" type="text/html" title="MiraiK"/>
 </entry>
 </feed>

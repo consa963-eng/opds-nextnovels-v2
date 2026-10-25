@@ -1,42 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:真樹真也</id>
-<title>真樹真也</title>
-<updated>2026-10-21T00:13:50.761750+00:00</updated>
+<id>nextnovels:autores:栗栖ティナ</id>
+<title>栗栖ティナ</title>
+<updated>2026-10-25T03:42:53.898600+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1148.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Dream of a Beast Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-dream-of-a-beast-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-dream-of-a-beast-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/Dream-of-a-Beast-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/10/Dream-of-a-Beast-Portada.jpg"/>
-<author><name>真樹真也</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
+<title>I was Reincarnated as a Villainess in an Otome Game, but I Ended up Raising a Flag with the Yandere Heroine Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-i-was-reincarnated-as-a-villainess-in-an-otome-game-but-i-ended-up-raising-a-flag-with-the-yandere-heroine-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-i-was-reincarnated-as-a-villainess-in-an-otome-game-but-i-ended-up-raising-a-flag-with-the-yandere-heroine-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/09/Akuyaku-Reijou-ni-Tensei-Shita-Watashi-ga-Yandere-Main-Heroine-to-Flag-o-Tatete-Shimatta-Ken-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/09/Akuyaku-Reijou-ni-Tensei-Shita-Watashi-ga-Yandere-Main-Heroine-to-Flag-o-Tatete-Shimatta-Ken-Portada.jpg"/>
+<author><name>栗栖ティナ</name></author>
 <category term="Drama" label="Drama"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<content type="text">Un chico que carga con el karma de una vida pasada y una chica que blande una espada solitaria.
+<category term="Yandere" label="Yandere"/>
+<category term="Yuri" label="Yuri"/>
+<content type="text">"Soy la unica, soy quien mas la ama, Rosalia-sama" ¡No se supone que debia conquistar al príncipe! ¿Cómo conquiste a esta princesa? Una Fojoshi reencarna como Rosalia la villana de un juego Otome, y lucha con todas sus fuerzas para evitar su ruta asegurada hacia la destrucción.
 
-Ambos albergan en su interior una bestia hambrienta de corazón. Al encontrarse, la rueda del destino comienza a girar.
+Sin embargo, en el proceso, su relación con la heroína, Esther, se vuelve extremadamente íntima, y antes de darse cuenta, termina cayendo en la ruta yandere de Esther
 
-Un hombre que mató a su padre, a quien odiaba desde lo más profundo de su ser, y puso fin a su vida sumido en la desesperación, renace en un mundo diferente como un niño llamado Abel.
-
-Aunque Abel vivía su segunda vida rodeado del amor incondicional de sus nuevos padres, en lo más profundo de su corazón ardía sin cesar una llama oscura: el pecado de su vida anterior.
-
-En el otoño de sus seis años, tras acompañar a sus padres a una expedición para acabar con una bestia mágica, Abel se encuentra con Ys, una joven caballero que parte en dos a un monstruo con una gran espada casi tan alta como ella.
-
-Con su hermoso cabello negro, símbolo de su linaje demoníaco, y su piel blanca como la nieve manchada de sangre ajena, Ys mira a Abel y le dice:
-
-—Tienes unos ojos extraños. ¿De verdad eres un niño?
-
-—Yo... yo... No soy nadie...
-
-—Qué respuesta tan interesante. Te pareces a mí.
-
-Ambos aun no lo saben. Que al final del camino de aquellos que llevan en su corazón un "anhelo" como una bestia hambrienta, les aguarda un destino cruel...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1zPm2-8yQZyOcdFJ12Phmug" type="text/html" title="Miv Traducciones"/>
+AHora Rin-san seguira viendo Merlina, que necesita descañar un poco, bueno, mucho....</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1QEc3imT3d-dzuq_ebfZI6A" type="text/html" title="Kyūden Translation"/>
 </entry>
 </feed>

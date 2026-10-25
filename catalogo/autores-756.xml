@@ -1,24 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Roy</id>
-<title>Roy</title>
-<updated>2026-10-21T00:13:50.694293+00:00</updated>
+<id>nextnovels:autores:Rin Murakami</id>
+<title>Rin Murakami</title>
+<updated>2026-10-25T03:42:53.811431+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-756.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>By the Grace of the Gods Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-by-the-grace-of-the-gods-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-by-the-grace-of-the-gods-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-82.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-82.jpg"/>
-<author><name>Roy</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Maduro" label="Maduro"/>
+<title>Guide to the Perfect Otaku Girlfriend: Roomies and Romance Novela Ligera en Español</title>
+<id>https://nextnovels.com/guide-to-the-perfect-otaku-girlfriend-roomies-and-romance-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/guide-to-the-perfect-otaku-girlfriend-roomies-and-romance-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-34.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-34.jpg"/>
+<author><name>Rin Murakami</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<content type="text">¡Bajo la protección de los dioses, comienza una vida relajada con slimes en otro mundo! Un día, la vida del empresario japonés de mediana edad Ryoma Takebayashi llegó a un final bastante repentino y decepcionante.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1IPX9cyOUQSNhaQd_qhvGOA" type="text/html" title="World Project"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Si voy a encontrar una novia, tiene que ser una otaku. Que sea guapa, inocente, con el pelo largo y negro, y que le gusten todas las cosas que a mí me gustan. Kokoro Nishina, la chica con la que estoy viviendo, es todo lo contrario. Entonces, ¿por qué prometí que convertiría a esa gyaru extrovertida y llamativa en la novia otaku ideal? Por desgracia, sé lo que se siente al necesitar un poco de superación personal para encontrar la cita perfecta... y no hay forma de que una chica así les diga a sus amigos que en realidad es una fujoshi de armario. Pero yo le enseñaré... ¡y quizá ella también pueda enseñarme a mí! Con mi experiencia ¡se convertirá definitivamente en la chica soñada de un otaku!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1gFhftHrhItzaTx-CGcCIjw" type="text/html" title="World Project"/>
 </entry>
 </feed>

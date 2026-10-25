@@ -1,26 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Hitsuji</id>
-<title>Hitsuji</title>
-<updated>2026-10-21T00:13:50.615177+00:00</updated>
+<id>nextnovels:autores:Hitoma Iruma</id>
+<title>Hitoma Iruma</title>
+<updated>2026-10-25T03:42:53.592416+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-273.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>When I Started a New Game in a Galge World, I Had Memories of Having Already Romanced All the Heroines, and Now It’s a Total Mess Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-when-i-started-a-new-game-in-a-galge-world-i-had-memories-of-having-already-romanced-all-the-heroines-and-now-its-a-total-mess-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-when-i-started-a-new-game-in-a-galge-world-i-had-memories-of-having-already-romanced-all-the-heroines-and-now-its-a-total-mess-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/12/When-I-Started-a-New-Game-in-a-Galge-World-I-Had-Memories-Portada.jpeg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/12/When-I-Started-a-New-Game-in-a-Galge-World-I-Had-Memories-Portada.jpeg"/>
-<author><name>Hitsuji</name></author>
+<title>My First Love’s Kiss Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-my-first-loves-kiss-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-my-first-loves-kiss-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/10/My-First-Loves-Kiss-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/10/My-First-Loves-Kiss-Portada.jpg"/>
+<author><name>Hitoma Iruma</name></author>
 <category term="Comedia" label="Comedia"/>
 <category term="Drama" label="Drama"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Harem" label="Harem"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">¡Da comienzo la comedia romántica con las tres heroínas que ya fueron conquistadas!
+<category term="Yuri" label="Yuri"/>
+<content type="text">¿Por qué tuve que enamorarme de mi compañera de cuarto?
 
-Al despertar, me había reencarnado como Minato Riku, el protagonista de un galge. Enseguida me encuentro con las tres heroínas del juego, pero como cada una de ellas conserva los recuerdos de haber sido conquistada por Minato Riku, ¡empieza una comedia romántica llena de escenas propias de un campo de batalla amoroso.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1gKhh8K1EKz0H1RXJ-PkgKQ" type="text/html" title="Cafuné Translation"/>
+La vida de Hoshi Takasora se ve alterada cuando su compañera de escuela Mizuike Umi y su madre se mudan temporalmente al pequeño apartamento de su familia. Desde el principio, a Takasora le molesta el comportamiento de Umi… y su atractivo. Aunque al principio las dos chicas se comprometen a no interferir en la vida de la otra, Takasora no puede evitar empezar a preguntarse adónde va Umi por las noches… Del autor de Adachi y Shimamura llega la agridulce historia de dos chicas de secundaria cuyas vidas se ven empujadas a convivir bajo el mismo techo.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1RkjKWcVJl_pSWhcYgYXbxQ" type="text/html" title="Ferindrad"/>
 </entry>
 </feed>

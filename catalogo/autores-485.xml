@@ -1,30 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Koutaro1226</id>
-<title>Koutaro1226</title>
-<updated>2026-10-21T00:13:50.650227+00:00</updated>
+<id>nextnovels:autores:Koushi Tachibana</id>
+<title>Koushi Tachibana</title>
+<updated>2026-10-25T03:42:53.752084+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-485.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Did You Think You Could Live Normally in a World With a 1:5 Gender Ratio? Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-did-you-think-you-could-live-normally-in-a-world-with-a-15-gender-ratio-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-did-you-think-you-could-live-normally-in-a-world-with-a-15-gender-ratio-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/05/Did-You-Think-You-Could-Live-Normally-in-a-World-With-a-1-5-Gender-Ratio-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/05/Did-You-Think-You-Could-Live-Normally-in-a-World-With-a-1-5-Gender-Ratio-Portada.jpg"/>
-<author><name>Koutaro1226</name></author>
+<title>Date a Live Encore Novela Ligera en Español</title>
+<id>https://nextnovels.com/date-a-live-encore-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/date-a-live-encore-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/06/01-44.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/06/01-44.jpg"/>
+<author><name>Koushi Tachibana</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
 <category term="Comedia" label="Comedia"/>
 <category term="Drama" label="Drama"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
 <category term="Harem" label="Harem"/>
+<category term="Mecha" label="Mecha"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
 <category term="Shounen" label="Shounen"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">¡Una comedia romántica al borde del c4os con un protagonista que seduce sin darse cuenta!
-
-De repente, Masato se ve transportado a un mundo ligeramente distinto al suyo, donde hay un poco más de mujeres que hombres. Aun así, tiene un registro civil, puede asistir a la universidad… y salvo por el hecho de que las chicas son un poco más directas, no parece tan diferente de su mundo original.
-
-Con esa idea tan ingenua, Masato comienza su nueva vida sin saberlo: Sin saber cuánto alivio ha traído a las chicas a su alrededor con la amabilidad que muestra según los estándares de su mundo original. Y sin saber que, en el instante en que aparece la sombra de otra mujer cerca de él, los ojos de esas chicas pierden su brillo, mientras comienzan a volcar sobre él unos sentimientos tan intensos que rayan en lo obs3siv0…
-
-Esta es la historia de un protagonista que cree que puede vivir con normalidad, pero que sin darse cuenta hace que las chicas se enamoren de él, hasta que finalmente esas heroínas, con su amor tan intenso (rayando lo enf3rm1zo), le hacen entenderlo por las malas.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1yR21sEA_AqcORqES2KRp-A" type="text/html" title="Tamashi's Project"/>
+<content type="text">Date A Live Encore es una serie de novelas cortas dentro del universo de Date A Live.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1BMl8ZgWLTHEa7gSzqinkJA" type="text/html" title="Ratatoskr's Files y Date A Live Novela Ligera En Español, Shidou Itsuka"/>
+</entry>
+<entry>
+<title>Date a Live Novela Ligera en Español</title>
+<id>https://nextnovels.com/date-a-live-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/date-a-live-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/06/01-43.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/06/01-43.jpg"/>
+<author><name>Koushi Tachibana</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Mecha" label="Mecha"/>
+<category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Itsuka Shido era solo otro chico normal de secundaria con una vida normal. Pero, el último día de las vacaciones de primavera antes de que comenzaran las clases, un terremoto destruyó la ciudad y una chica con armadura apareció frente a él. La hermana adoptiva de Shido, Kotori, le dice que la niña es una "Criatura Designada Especial Desastrosa: Espíritu", lo que causó los terremotos espaciales y reveló que ella era la comandante de la organización que se ocupaba de los Espíritus, &lt;Ratatoskr&gt; y le ordenó salir. en una cita con el Espíritu para apaciguarla. Kotori le dice: "No te pido que derrotes al Espíritu. Deja que se enamore de ti y salve el mundo".</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1vhy_lp9zfrWFCe8NxtWSAw" type="text/html" title="Date A Live Novela Ligera En Español, KikuslirusProject, Einherjar Project, Darkness Dragons Translation"/>
+</entry>
+<entry>
+<title>Majutsu Tantei: Tokisaki Kurumi no Jikenbo Novela Ligera en Español</title>
+<id>https://nextnovels.com/majutsu-tantei-tokisaki-kurumi-no-jikenbo-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/majutsu-tantei-tokisaki-kurumi-no-jikenbo-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/04/Majutsu-Tantei-Tokisaki-Kurumi-no-Jikenbo-Portada.jpeg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/04/Majutsu-Tantei-Tokisaki-Kurumi-no-Jikenbo-Portada.jpeg"/>
+<author><name>Koushi Tachibana</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Ficción" label="Ficción"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Kurumi Tokisaki es una estudiante universitaria y detective especializada en crímenes relacionados con artefactos mágicos. Una "bala mágica" que puede abatir objetivos imposibles. Una "muñeca viviente" que induce al coma masivo. Enfrentada a casos sobrenaturales que no pueden resolverse con el sentido común, ¡las habilidades deductivas de Kurumi se verán en una carrera contrarreloj!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/162glgQvhVngjsgxcLeW53Q" type="text/html" title="Traducciones MDS, Ilusion Shuri Novels &amp; Helper Scanlation"/>
 </entry>
 </feed>

@@ -1,25 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Fuuko Minami</id>
-<title>Fuuko Minami</title>
-<updated>2026-10-21T00:13:50.598832+00:00</updated>
+<id>nextnovels:autores:Fushimi Tsukasa</id>
+<title>Fushimi Tsukasa</title>
+<updated>2026-10-25T03:42:53.570691+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-172.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>The King of Light and Shadow Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-king-of-light-and-shadow-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-king-of-light-and-shadow-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/The-King-of-Light-and-Shadow-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/03/The-King-of-Light-and-Shadow-Portada.jpg"/>
-<author><name>Fuuko Minami</name></author>
-<category term="Adulto" label="Adulto"/>
+<title>Eromanga Sensei Novela Ligera en Español</title>
+<id>https://nextnovels.com/eromanga-sensei-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/eromanga-sensei-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-10.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-10.jpg"/>
+<author><name>Fushimi Tsukasa</name></author>
+<category term="Comedia" label="Comedia"/>
 <category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Yaoi" label="Yaoi"/>
-<content type="text">Desde el día en que se conocieron de niños, Arthur y Rishard no han confiado en nadie más que el uno en el otro: mejores amigos, unidos desde la infancia. Sin embargo, sus posiciones no podían ser más diferentes: Arthur, el príncipe heredero y sucesor al trono del gran reino de Northernheel; Rishard, un príncipe del reino vecino de Fermaas, enviado como rehén.
+<category term="Ecchi" label="Ecchi"/>
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
+<content type="text">La "nueva comedia romántica de hermanos" gira en torno a Masamune Izumi, un autor de novelas ligeras en el instituto. La hermana pequeña de Masamune es Sagiri, una chica encerrada que no ha salido de su habitación en todo un año. Ella incluso obliga a su hermano a hacer y traer sus comidas cuando pisa el suelo. Masamune quiere que su hermana salga de su habitación, porque los dos son la única familia del otro.
 
-De niños, el peso de las naciones y la política no significaba nada para ellos, y pasaban sus días juntos con total libertad. Pero con la edad llegaron los deberes, y Rishard ya no pudo escapar de la realidad de su papel.
+El ilustrador de novelas de Masamune, cuyo seudónimo es "Ero Manga Sensei", dibuja dibujos extremadamente pervertidos, y es muy fiable. Masamune nunca conoció a su ilustrador, y se imaginó que sólo era un otaku asqueroso y pervertido. Sin embargo, la verdad es revelada... ¡que su "Ero Manga Sensei" es su propia hermana menor! Para añadir al caos que surge entre los hermanos, una hermosa creadora femenina de shoujo manga se convierte en su rival.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/14rOdqNtxDyXn5FCriiRG-w" type="text/html" title="CAJM-Translations, 00"/>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-novela-ligera-en-espanol/" type="text/html" title="Ore no Imouto ga Konna ni Kawaii Wake ga Nai (Oreimo)"/>
+</entry>
+<entry>
+<title>My First Love Is Too Embarrassing to Tell Anyone Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-my-first-love-is-too-embarrassing-to-tell-anyone-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-my-first-love-is-too-embarrassing-to-tell-anyone-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/02/My-First-Love-Is-Too-Embarrassing-to-Tell-Anyone-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/02/My-First-Love-Is-Too-Embarrassing-to-Tell-Anyone-Portada.jpg"/>
+<author><name>Fushimi Tsukasa</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Chiaki es guapo, académicamente dotado, atlético y nacido en el seno de una familia adinerada con dos hermosas hermanas. A pesar de su vida aparentemente perfecta, se enfrenta a un problema persistente: nunca ha tenido suerte en el amor y le cuesta captar la atención de las chicas. Decidido a cambiar las cosas en el instituto, una mañana se despierta con una sorprendente transformación: ¡se ha convertido en una chica!
 
-Arthur, rebosante de sentido de la justicia y cargado con las altas expectativas de sus vasallos, y Rishard, ahora convertido en una belleza impresionante: aunque se querían mucho, sus caminos comenzaron a separarse. Una épica historia de fantasía BL, publicada en dos volúmenes.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1LHm_fl8mVB2UYnSbTRy7rA" type="text/html" title="Next Novels (MTL)"/>
+Se sorprende al descubrir que ha perdido la apariencia de la que estaba tan orgulloso, pero cuando se mira en el espejo, ve a una chica muy linda en el reflejo. Inmediatamente va a enseñársela a su hermana gemela Kaede, que resulta ser muy popular entre las chicas, pero también le ocurre algo muy particular….</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1JNLma7mCDKtAhQqxy_yUtA" type="text/html" title="MiraiK"/>
+</entry>
+<entry>
+<title>Ore no Imouto ga Konna ni Kawaii Wake ga Nai - Ayase If Novela Ligera en Español</title>
+<id>https://nextnovels.com/ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-ayase-if-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-ayase-if-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-41.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-41.jpg"/>
+<author><name>Fushimi Tsukasa</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Junio de mi último año de instituto. Ayase quiso discutir conmigo. "¡Hermano, necesito hablar contigo sobre Kirino!" Ayase es la mejor amiga de mi hermana, y me odia... y se suponía que seguiría haciéndolo.
+
+Sin embargo, cuando discutí con Ayase, "Perdón, se que nunca me he comportado bien contigo" al parecer el malentendido se había solucionado, y la distancia entre Ayase y yo disminuyó rápidamente.
+
+"... emm, solo porque estamos solos en la habitación, por favor no hagas nada raro, ¿de acuerdo?"
+
+"¡Lo sabía! ¿Qué estás pensando ¡pervertido!? ¡Voy a llamar a la policía!"
+
+Ir a Akiba a una cita con Ayase, jugar juegos juntos, ir a la convención de cómics en verano. ¿¡cómo ha sucedido esto!?
+
+"Lo que voy a contarte no es la historia de 'mi hermana y yo" Esta es la historia de Ayase y yo.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com#Volumenes" type="text/html" title="Rakuen Translations"/>
+</entry>
+<entry>
+<title>Ore no Imouto ga Konna ni Kawaii Wake ga Nai Novela Ligera en Español</title>
+<id>https://nextnovels.com/ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-40.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-40.jpg"/>
+<author><name>Fushimi Tsukasa</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Kyosuke Kosaka, un estudiante normal de diecisiete años, no se ha llevado bien con su hermana menor, Kirino, en años. Durante más tiempo del que recuerda, Kirino ha ignorado sus idas y venidas y lo ha mirado con ojos despectivos. Parecía que la relación entre Kyosuke y su hermana, que ahora tiene catorce años, continuaría así para siempre.
+
+Un día, sin embargo, Kyosuke encuentra un estuche de DVD de una chica mágica del anime titulado Hoshikuzu Witch Meruru (Bruja del polvo estelar Meruru), que había caído en la entrada de su casa. Para sorpresa de Kyosuke, dentro de la caja hay un videojuego para adultos oculto titulado Imoto to Koishiyo! (¡Amor con la hermana pequeña!)</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1bJ5RWkiuE4mIbB3NsI7EQA" type="text/html" title="Baka-tsuki y Lanove"/>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-ayase-if-novela-ligera-en-espanol/" type="text/html" title="Oreimo - Ayase If"/>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-kuroneko-if-novela-ligera-en-espanol/" type="text/html" title="Oreimo - Kuroneko If"/>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/eromanga-sensei-novela-ligera-en-espanol/" type="text/html" title="Eromanga Sensei"/>
+</entry>
+<entry>
+<title>Ore no Imouto ga Konna ni Kawaii Wake ga Nai – Kuroneko If Novela Ligera en Español</title>
+<id>https://nextnovels.com/ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-kuroneko-if-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-kuroneko-if-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/Mi-Hermana-Menor-No-Puede-Ser-Tan-Linda-Kuroneko-if-Parte-I.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/Mi-Hermana-Menor-No-Puede-Ser-Tan-Linda-Kuroneko-if-Parte-I.jpg"/>
+<author><name>Fushimi Tsukasa</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">"Bajo los fuegos artificiales, me confesé a Kuroneko"
+
+Es junio, y estoy en mi tercer año de bachillerato. El jefe del Club de Investigación del Juegos nos propuso un campamento de investigación para el verano. Al principio, Kuroneko no tenía intención de participar, pero, animada por su padre y su hermana, decidió unirse.
+
+Cuando comenzó el campamento, yo, junto con Kuroneko, charlamos con los hermanos Akagi en el tren bala, presenciamos la puesta de sol en la cubierta del ferry, nos dimos un baño al aire libre, pusimos a prueba nuestro temple y disfrutamos de los fuegos artificiales. Pasamos las mejores vacaciones de verano en una isla remota llena de naturaleza. Durante estos días, conocimos a una chica que se hacía llamar Makishima Haruka. Haruka, que está muy familiarizada en la adivinación y el ocultismo, se llevó bien con Kuroneko y le pidió que le acompañe en una expedición para investigar sobre la Leyenda de Tennyo de la isla.
+
+Durante el transcurso de las vacaciones comenzamos a tener experiencias extrañas.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1lYxbXnmgRuOF_m75Q3FB6Q" type="text/html" title="Traducciones Roberth"/>
 </entry>
 </feed>

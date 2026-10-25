@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Ko Hiratori</id>
-<title>Ko Hiratori</title>
-<updated>2026-10-21T00:13:50.644250+00:00</updated>
+<id>nextnovels:autores:Kiyoko Hoshi</id>
+<title>Kiyoko Hoshi</title>
+<updated>2026-10-25T03:42:53.663716+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-448.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>JK Haru wa Isekai de Shōfu ni Natta Novela Ligera en Español</title>
-<id>https://nextnovels.com/jk-haru-wa-isekai-de-shofu-ni-natta-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/jk-haru-wa-isekai-de-shofu-ni-natta-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-75.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-75.jpg"/>
-<author><name>Ko Hiratori</name></author>
-<category term="Adulto" label="Adulto"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Fantasía" label="Fantasía"/>
-<content type="text">La estudiante de secundaria Haru Koyama y su compañero de clase Seiji Chiba mueren en un accidente de tráfico y son teletransportados juntos a otro mundo. Mientras Chiba se convierte en un aventurero y sale a matar monstruos, Haru descubre que las mujeres no pueden tener poderes especiales en el nuevo mundo, por lo que decide ganarse la vida como trabajadora sexual.
-
-El volumen "Summer" es la secuela del primer volumen, formado por una colección de historias cortas, narrando lo que le pasó a Haru luego de la historia principal.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com#Volumenes" type="text/html" title="Ferindrad"/>
+<title>Haikyuu!! Shousetsu-ban!! Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-haikyuu-shousetsu-ban-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-haikyuu-shousetsu-ban-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/11/Haikyuu-Shousetsu-ban-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/11/Haikyuu-Shousetsu-ban-Portada.jpg"/>
+<author><name>Kiyoko Hoshi</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Deportes" label="Deportes"/>
+<category term="Drama" label="Drama"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<content type="text">Hace aproximadamente un mes que Hinata entró en el instituto Karasuno, ¡y se desvela toda la historia del "Campo de entrenamiento del club de voleibol Karasuno" durante las vacaciones de la Semana Dorada!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1b9H2WlnLQMdh-NbnXyWKbw" type="text/html" title="Yanase"/>
 </entry>
 </feed>

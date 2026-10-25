@@ -1,32 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:佐藤真登</id>
-<title>佐藤真登</title>
-<updated>2026-10-21T00:13:50.760548+00:00</updated>
+<id>nextnovels:autores:キャラ文庫</id>
+<title>キャラ文庫</title>
+<updated>2026-10-25T03:42:53.895812+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1136.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Drop Dead, My Beloved Mages Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-drop-dead-my-beloved-mages-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-drop-dead-my-beloved-mages-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/Drop-Dead-My-Beloved-Mages-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/02/Drop-Dead-My-Beloved-Mages-Portada.jpg"/>
-<author><name>佐藤真登</name></author>
-<category term="Acción" label="Acción"/>
+<title>Marriage of an Omega Novela Ligera en Español</title>
+<id>https://nextnovels.com/marriage-of-an-omega-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/marriage-of-an-omega-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/08/Marriage-of-an-Omega-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/08/Marriage-of-an-Omega-Portada.jpg"/>
+<author><name>キャラ文庫</name></author>
+<category term="Drama" label="Drama"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
 <category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Cruzando un pequeño agujero conocido como el Pequeño Firmamento, se encuentra el Archipiélago Académico, un conjunto de islas flotantes donde convergen más de mil academias de magia. Es un umbral entre mundos donde los estudiantes viven una juventud que rompe con cualquier esquema convencional.
+<category term="Smut" label="Smut"/>
+<category term="Yaoi" label="Yaoi"/>
+<content type="text">Nacer como un omega en la familia de un conde prestigioso se considera una desgracia. Desesperado por guardar su secreto, Masazumi vive como Beta en un internado.
 
-Y en este lugar solo impera una ley: ¡Usa cualquier método a tu alcance para llevar a tu academia a la cima del poder!
+─ ¡No me enamoraré de nadie, me moriré sin una pareja!
 
-"¡Pienso demostrarle a estas islas lo que significa tener una juventud fuera de serie!"
-
-Kuro Asahino, un joven con poderes irregulares que fue mantenido bajo llave en la Tierra, termina inscribiéndose en la Academia Real Tritonis. Lo que no esperaba es que esta antigua institución de élite está a punto de desaparecer. Solo quedan tres estudiantes y, para empeorar las cosas, cada una de ellas tiene una personalidad... difícil de manejar.
-
-¡De los creadores de "The Executioner and Her Way of Life", llega esta épica aventura donde la juventud es una batalla campal!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1XYik-Bv9lQmop2Tkv0x8hw" type="text/html" title="Kyūden Translation"/>
+Sin embargo, un día su inigualable belleza e ingenio llamaron la atención de sus compañeros de clase y fue atacado. Quien lo rescató de esta situación fue el conserje, Miyake. A pesar de estar vestido con ropa de trabajo sencilla y un sombrero, cuando Miyake se acercó, Masazumi sintió una chispa como nunca antes había experimentado.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1Tj72h9YSULGQ4t_fbl7KOg" type="text/html" title="Zixrïs_Chosm"/>
 </entry>
 </feed>

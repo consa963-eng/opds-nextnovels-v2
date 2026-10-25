@@ -1,67 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kagyuu Kumo</id>
-<title>Kagyuu Kumo</title>
-<updated>2026-10-21T00:13:50.627503+00:00</updated>
+<id>nextnovels:autores:Kagami Takaya</id>
+<title>Kagami Takaya</title>
+<updated>2026-10-25T03:42:53.641600+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-348.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Goblin Slayer Novela Ligera en Español</title>
-<id>https://nextnovels.com/goblin-slayer-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/goblin-slayer-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-31.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-31.jpg"/>
-<author><name>Kagyuu Kumo</name></author>
+<title>Itsuka Tenma no Kuro Usagi Novela Ligera en Español</title>
+<id>https://nextnovels.com/itsuka-tenma-no-kuro-usagi-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/itsuka-tenma-no-kuro-usagi-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/09/01-103.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/09/01-103.jpg"/>
+<author><name>Kagami Takaya</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
+<category term="Drama" label="Drama"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Seinen" label="Seinen"/>
+<category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Kurogane Taito es un estudiante de primer año en Miyasaka. Tras una lesión que le impidió practicar karate, en el cual solía destacarse bastante en la escuela primaria, creyó que su vida ya no tenía importancia, tachandose de persona regular. Sin embargo, un día todo esto cambiaría con la llegada de una bella vampiro Saito Himea, con quien tiempo antes había hecho una promesa ya en el olvido. Desde aquel instante Kurogane no volvería a ser un tipo ordinario. Con el transcurso de la historia, Taito comenzaría a recuperar su memoria, consiguiendo aliados durante el camino. Tales como Kurenai Gekkou, estudiante de Miyasaka y presidente del consejo, y Mirai Andou, una linda demonio, familiar de Gekkou, quienes cargarían con pesadas historias, secretos y deseos de venganza. Desconociendo que su encuentro ya estaba destinado por una antigua profecía de proporciones épicas.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/11HhxkL4SG8BlfE7s2dnCVQ" type="text/html" title="Kikuslirus Project"/>
+</entry>
+<entry>
+<title>Owari no Seraph Novela Ligera en Español</title>
+<id>https://nextnovels.com/owari-no-seraph-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/owari-no-seraph-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/08/Owari-no-Seraph-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/08/Owari-no-Seraph-Portada.jpg"/>
+<author><name>Kagami Takaya</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Supernatural" label="Supernatural"/>
 <category term="Tragedia" label="Tragedia"/>
-<content type="text">Una joven sacerdotisa ha formado su primer grupo de aventuras, pero casi inmediatamente se encuentran en apuros. Es el Cazador de Goblins quien viene a su rescate - un hombre que ha dedicado su vida a la exterminación de todos los Goblins, por cualquier medio necesario. Y cuando los rumores de sus hazañas comienzan a circular, no se sabe quién será el siguiente en acudir.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1d43vuQP3ff8GkMF6hXqWUQ" type="text/html" title="Mi Castillo de Arena"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1HFLVpg5GFM-JNvfNcx2BXQ" type="text/html" title="Einherjar Project, Kaleid Word Translations, Cuervo Novels, C.Q.B, Kage-T"/>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-goblin-slayer-side-story-year-one-novela-ligera-en-espanol/" type="text/html" title="Goblin Slayer: Side Story Year One"/>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/goblin-slayer-side-story-ii-dai-katana-novela-ligera-en-espanol/" type="text/html" title="Goblin Slayer: Side Story 2 Dai Katana"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Precuela de la historia principal.
+
+Antes de que el mundo cayera en total caos, antes de que los vampiros tomarán el poder…Guren Ichinose tenía otro tipo de preocupaciones y problemas a los cuales enfrentarse. ¿Qué fue lo que lo motivo a unirse al ejército? ¿Cómo logro hacerse de poderosos aliados? ¿De dónde proviene el poder que actualmente posee? En esta, su historia, conoceremos las respuestas.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1bGitNxq94N8YW8aUiuatcQ" type="text/html" title="Mi Castillo de Arena"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1iphvueASub_E75FTJshTOQ" type="text/html" title="Traducción SAO Alicization"/>
 </entry>
 <entry>
-<title>Goblin Slayer Side Story II: Dai Katana Novela Ligera en Español</title>
-<id>https://nextnovels.com/goblin-slayer-side-story-ii-dai-katana-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/goblin-slayer-side-story-ii-dai-katana-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-33.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-33.jpg"/>
-<author><name>Kagyuu Kumo</name></author>
+<title>Seraph of the End: The Story of Vampire Michaela Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-seraph-of-the-end-the-story-of-vampire-michaela-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-seraph-of-the-end-the-story-of-vampire-michaela-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/08/Seraph-of-the-End-The-Story-of-Vampire-Michaela-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/08/Seraph-of-the-End-The-Story-of-Vampire-Michaela-Portada.jpg"/>
+<author><name>Kagami Takaya</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Adulto" label="Adulto"/>
-<category term="Aventura" label="Aventura"/>
 <category term="Drama" label="Drama"/>
-<category term="Horror" label="Horror"/>
-<category term="Maduro" label="Maduro"/>
-<content type="text">No hace mucho tiempo, la Muerte comenzó a acechar el continente. El Rey del Tiempo emitió una proclamación: "Encuentra el origen de esta Muerte y séllala".
+<category term="Shounen" label="Shounen"/>
+<category term="Supernatural" label="Supernatural"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Mikaela Hyakuya oye un rumor sobre un vampiro noble que toma la sangre de los humanos y a cambio les da comida u otros artículos. Y así es como conoce a Ferid Bathory.
 
-El origen: la Mazmorra de los Muertos. Una ciudad fortaleza que surgió en la boca de la mazmorra sirve a los aventureros que buscan compañeros, desafían la mazmorra, luchan, encuentran botín... y a veces mueren.
-
-Eres un aventurero que ha llegado a la ciudad fortaleza con la esperanza de alcanzar las profundidades más bajas de la mazmorra, pero ¿podrán tú y tu grupo conquistar los males indecibles que acechan bajo la superficie?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/10zAeG5sIU4WgSOSbMavbSw" type="text/html" title="Mi Castillo de Arena"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1fqq3EQJ6KNZUaB8Y48OYnQ" type="text/html" title="CanisLycaon"/>
-</entry>
-<entry>
-<title>Goblin Slayer Side Story: Year One Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-goblin-slayer-side-story-year-one-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-goblin-slayer-side-story-year-one-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-32.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-32.jpg"/>
-<author><name>Kagyuu Kumo</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Adulto" label="Adulto"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Drama" label="Drama"/>
-<category term="Horror" label="Horror"/>
-<category term="Maduro" label="Maduro"/>
-<content type="text">Después de que su hermana sea brutalmente asesinada durante una incursión de duendes, un joven jura vengarse de las criaturas que la mataron y del resto de su pueblo. Cinco años después, y convertido en un aventurero novato, se reúne por casualidad con su amigo de la infancia, otro superviviente de la masacre.
-
-A pesar de su inexperiencia, su tosco equipo de combate y su bajo rango, el chico parte solo en una misión para derrotar a una guarida de goblins... ¡así comienza la historia del origen de cómo llegó a ser conocido como Goblin Slayer!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1EiAVrae4BJmcfR2EMmxYHw" type="text/html" title="Mi Castillo de arena"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1LJsazeEJuV4lRLnpx4fzBQ" type="text/html" title="True Flames Project, Max power fansub"/>
+Mientras tanto, Crowley Eusford recuerda su vida humana, cuando participó en las Cruzadas del siglo XIII y más tarde comenzó a enseñar esgrima. Un asesino en serie chupasangre acecha a las prostitutas de su ciudad, y él se encuentra con un excéntrico noble rico llamado Ferid Bathory mientras trabaja en el caso.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1tHux-r_2_8ILKKvN_-ih8Q" type="text/html" title="Mi Castillo de Arena"/>
 </entry>
 </feed>

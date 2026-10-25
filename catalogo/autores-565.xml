@@ -1,91 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Mikami Teren</id>
-<title>Mikami Teren</title>
-<updated>2026-10-21T00:13:50.662886+00:00</updated>
+<id>nextnovels:autores:Mihara Mitsuki</id>
+<title>Mihara Mitsuki</title>
+<updated>2026-10-25T03:42:53.769021+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-565.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Arioto Novela Ligera en Español</title>
-<id>https://nextnovels.com/arioto-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/arioto-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/04/Arioto-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/04/Arioto-Portada.jpg"/>
-<author><name>Mikami Teren</name></author>
-<category term="Adulto" label="Adulto"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Smut" label="Smut"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<category term="Yuri" label="Yuri"/>
-<content type="text">“¿Chicas saliendo entre ellas? ¡Eso no puede ser! … ¡Es como debería ser!”.
-
-Una popular chica de secundaria, Sakakibara Marika, un día recibe una oferta de un millón de yenes de su hermosa compañera de clase, Fuwa Aya.
-
-“Sakakibara-san, durante 100 días te daré 10,000 yenes cada día. Te compraré. Déjame mostrarte que es posible que dos chicas estén saliendo entre ellas».
-
-«¡¿Ha..haaa ?!».
-
-A partir de ese día, comenzaron, sus horas xxx después de la escuela.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1r1cRx__ObxDoVqB687Q1Zw" type="text/html" title="Edgno Traducciones"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1jDVhetzkctQeMQjnvuDC6Q" type="text/html" title="MiraiK, Universo Yuri"/>
-</entry>
-<entry>
-<title>There’s No Freaking Way I’ll be Your Lover! Unless… Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-theres-no-freaking-way-ill-be-your-lover-unless-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-theres-no-freaking-way-ill-be-your-lover-unless-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/08/Theres-No-Freaking-Way-Ill-be-Your-Lover-Unless%E2%80%A6-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/08/Theres-No-Freaking-Way-Ill-be-Your-Lover-Unless%E2%80%A6-Portada.jpg"/>
-<author><name>Mikami Teren</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Harem" label="Harem"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<category term="Yuri" label="Yuri"/>
-<content type="text">El yo que se deshizo de mi pasado solitario y tuvo éxito en hacer un debut en la escuela secundaria, Amaori Renako. Pero, como personaje de mala muerte, ¡es difícil para mí llevar este tipo de vida brillante! En ese momento, conocí a la superestrella de la escuela e intercambiamos nuestros problemas entre nosotros. Desde entonces, comenzamos nuestra relación como "amigos secretos". Mientras la tenga como amiga, ¡podría hacer cualquier cosa! Es lo que pensé.
-
-"Parece que me he enamorado de ti"
-
-"¡Espera! ¿Qué pasa con los amigos?"
-
-Una relación inestable como la de los amantes, ¡es imposible! ¡Lo que yo quería era una mejor amiga para disfrutar de mi vida en el instituto! Pero Mai no se rinde.
-
-"Vamos a decidir qué relación nos conviene más, amantes o mejores amigos. Vamos a determinar el resultado de este partido"
-
-Y con eso, ¡nuestra comedia amorosa diaria ha comenzado!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1lJDyTApbfM3obs0GfPL4JA" type="text/html" title="Ferindrad"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1yQ4EM36Q3RatEVCw_K20sw" type="text/html" title="Onigiri Novels"/>
-</entry>
-<entry>
-<title>Yuusha Isagi no Maou Hanashi Novela Ligera en Español</title>
-<id>https://nextnovels.com/yuusha-isagi-no-maou-hanashi-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/yuusha-isagi-no-maou-hanashi-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/06/Yuusha-Isagi-no-Maou-Hanashi-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/06/Yuusha-Isagi-no-Maou-Hanashi-Portada.jpg"/>
-<author><name>Mikami Teren</name></author>
+<title>Magika no Kenshi to Shoukan Maou Novela Ligera en Español</title>
+<id>https://nextnovels.com/magika-no-kenshi-to-shoukan-maou-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/magika-no-kenshi-to-shoukan-maou-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-10.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-10.jpg"/>
+<author><name>Mihara Mitsuki</name></author>
 <category term="Acción" label="Acción"/>
+<category term="Adulto" label="Adulto"/>
 <category term="Aventura" label="Aventura"/>
 <category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Misterio" label="Misterio"/>
+<category term="Harem" label="Harem"/>
 <category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
-<category term="Tragedia" label="Tragedia"/>
-<content type="text">La historia comienza 3 años después de que el protagonista fuera invocado. Junto con sus compañeros, derrotó al Rey Demonio.
+<category term="Supernatural" label="Supernatural"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Hace 15 años, el mundo descubrió la magia y los seres míticos (básicamente seres de diversas leyendas) en otra dimensión. La humanidad aprendió a invocar a estos peligrosos seres míticos y a utilizar su poder con gran efecto. Siete países firmaron contratos con estos "seres míticos" y obtuvieron su lealtad. Los seres míticos eligen a sus invocadores cuando cumplen 14 años y les otorgan un estigma. Se han creado escuelas para formar a los invocadores y a los espadachines mágicos (básicamente guardaespaldas que dan tiempo a los invocadores para lanzar su hechizo) como resultado.
 
-Había comenzado a planificar la construcción de una organización para prevenir que la crisis del Rey Demonio volviera a suceder. Planeaba construir un Gremio de Aventureros
+15 años más tarde, tras el descubrimiento de la magia, Kazuki Hayashizaki es elegido como invocador y recibe un estigma que lo indica. Esto es sorprendente ya que los hombres no son elegidos como invocadores debido a su baja cantidad de mana en comparación con las mujeres. Al ser el primer varón en ser invocador, Kazuki está bajo el escrutinio de casi todo el mundo.
 
-También quería comenzar su vida sentimental con su compañera sanadora, pero…
+Para complicar las cosas, su hermana (que es una espadachina mágica) se opone a que vaya a la escuela de invocadores para formarse como tal. Porque los invocadores y los espadachines mágicos tienen una relación de gato y ratón en la que los invocadores ven a los espadachines mágicos como inferiores, así que su hermana naturalmente está en contra de que vaya allí. Ella lo detendrá incluso si eso significa ir a la guerra.
 
-「A partir de ahora, ¿Saldrías conmigo?」
-
-–En el momento en que se le confesó a la chica que amaba, el joven fue arrojado al futuro. La que lo convocó fue la princesa de los demonios. Fue él quien mató a los descendientes del Rey Demonio.
-
-「P-por favor, Grandes Reyes Demonio ……
-
-Por favor salven a los demonios de las manos de los aventureros……! 」
-
-Para salvar a los demonios en el borde de su ruina, y también para encontrar a la chica que amaba, una vez más, se levantó – no como el héroe Isagi, sino como el candidato a Rey Demonio Isagi.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1QFlV__z-CKge4v5Os5m6FA" type="text/html" title="Carlecben"/>
+Sin embargo, Kazuki está decidido a prosperar en la escuela de invocadores y ya ha decidido darlo todo. Aunque sea el estudiante de menor rango (rango E) y sus compañeros pretendan degradarlo, demostrará que es el invocador más fuerte.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1A-YrVYLkmNlp0Vmby1TikA" type="text/html" title="Akat Novels"/>
 </entry>
 </feed>

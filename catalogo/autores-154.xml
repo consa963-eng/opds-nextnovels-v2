@@ -1,37 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Fujikawa Keizo</id>
-<title>Fujikawa Keizo</title>
-<updated>2026-10-21T00:13:50.595648+00:00</updated>
+<id>nextnovels:autores:FUJI Maru</id>
+<title>FUJI Maru</title>
+<updated>2026-10-25T03:42:53.566602+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-154.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Ascendance of a Scummy Hero Novela Ligera en Español</title>
-<id>https://nextnovels.com/ascendance-of-a-scummy-hero-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/ascendance-of-a-scummy-hero-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/06/01-16.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/06/01-16.jpg"/>
-<author><name>Fujikawa Keizo</name></author>
-<category term="Aventura" label="Aventura"/>
+<title>Ashita, Boku wa Shinu. Kimi wa Ikikaeru. Novela Ligera en Español</title>
+<id>https://nextnovels.com/ashita-boku-wa-shinu-kimi-wa-ikikaeru-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/ashita-boku-wa-shinu-kimi-wa-ikikaeru-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-104.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-104.jpg"/>
+<author><name>FUJI Maru</name></author>
 <category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Fantasía" label="Fantasía"/>
-<content type="text">Crow estaba a punto de graduarse en la Real Academia Militar.
+<category term="Drama" label="Drama"/>
+<category term="Romance" label="Romance"/>
+<category term="Supernatural" label="Supernatural"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">Sakamoto Akizuki, nacido con una cara aterradora, siempre ha sido temido en su escuela, sin embargo, una noche es testigo de la muerte de una chica.
 
-Un día, escuchó una voz de la Espada Sagrada que sólo podía ser empuñada por el Héroe elegido...
-
-La Espada Santa── ¡Excalibur le habló!
-
-La voz provenía de Holly, la Sprite de la Espada Santa.
-
-El Rey Demonio que quería destruir el mundo reviviría pronto, así que debían encontrar al Héroe rápidamente, y entregarle la Espada Sagrada.
-
-Crow pensó que entregar la espada al Héroe era una tarea sencilla, y le permitiría recibir el mérito de encontrar al mesías. Aceptó de buena gana, y emprendió un viaje para encontrar al Héroe.
-
-Sin embargo, cuando el niño problemático Crow se asoció con Holly, que tenía una personalidad horrible, ¡su viaje estuvo lleno de desastres! ¿Y el Héroe que encontraron era en realidad una esclava?
-
-¿Cómo iban a traerla de vuelta...?
-
-"¿Por qué no me usas para partir por la mitad al maestro de esa niña?"</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com#Volumenes" type="text/html" title="JmCrap Translations"/>
+Se enfrenta a una elección en la que una persona misteriosa le hace una pregunta, " Por la mitad de tu vida, ¿la revivirías?" Después de tomar su decisión, la chica vuelve a la vida y ahora comienza la comedia romántica entre Akizuki y la chica Yumesaki.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1-i1FLsCJRAFubVOlsldLiA" type="text/html" title="Gladheim Translations"/>
 </entry>
 </feed>

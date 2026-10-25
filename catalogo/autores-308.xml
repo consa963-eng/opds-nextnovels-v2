@@ -1,81 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Iruma Hitoma</id>
-<title>Iruma Hitoma</title>
-<updated>2026-10-21T00:13:50.620931+00:00</updated>
+<id>nextnovels:autores:Irie Kimihito</id>
+<title>Irie Kimihito</title>
+<updated>2026-10-25T03:42:53.600180+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-308.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>A Story About a Married Teacher Who Becomes Obsessed With Her Female Student Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-a-story-about-a-married-teacher-who-becomes-obsessed-with-her-female-student-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-a-story-about-a-married-teacher-who-becomes-obsessed-with-her-female-student-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/09/00.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/09/00.jpg"/>
-<author><name>Iruma Hitoma</name></author>
+<title>Kami-sama no Inai Nichiyoubi Novela Ligera en Español</title>
+<id>https://nextnovels.com/kami-sama-no-inai-nichiyoubi-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/kami-sama-no-inai-nichiyoubi-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-79.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-79.jpg"/>
+<author><name>Irie Kimihito</name></author>
 <category term="Drama" label="Drama"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Shoujo" label="Shoujo"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<category term="Yuri" label="Yuri"/>
-<content type="text">“Tú eres mi primera pareja, Sensee.”
-
-Mi nombre es Ichigohara Itsuki. Estoy a finales de mis veinte. Casada. Profesora de preparatoria.
-
-Y aun así, tomé la iniciativa con una estudiante que era diez años menor que yo.
-
-Era, sin duda, traición, infidelidad, adulterio y un delito.
-
-¿Cómo pude reunir todos estos elementos que podrían llevarme a mi propia ruina?
-
-Y ahora la estoy besando en la cama.
-
-¿Por qué tuvo que terminar así?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1MS2ijKrwS1kZw_vYMsstAA" type="text/html" title="Cafuné Translation"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1dJhd1kiTfHHX8O65K3NaBQ" type="text/html" title="World Project"/>
-</entry>
-<entry>
-<title>Adachi and Shimamura Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-adachi-and-shimamura-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-adachi-and-shimamura-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/05/01-3.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/05/01-3.jpg"/>
-<author><name>Iruma Hitoma</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<category term="Yuri" label="Yuri"/>
-<content type="text">El segundo piso del gimnasio - aquí era donde siempre nos reuníamos. Era la hora de las clases, pero por supuesto, no había ninguna clase en un lugar como este.
-
-Aquí fue donde Shimamura y yo nos hicimos amigas. Pasábamos el rato aquí, hablando de programas de televisión y de cocina, jugando al ping pong..... Aquí es donde fomentamos nuestra amistad.
-
-Con la cabeza apoyada en la pared, solté un pequeño suspiro.
-
-¿Qué era esta sensación? Ayer había soñado que Shimamura y yo nos besábamos.
-
-No es que yo sea así. Estoy seguro de que Shimamura tampoco lo es. Ni siquiera es algo que merezca la pena repetir, pero realmente, no es así.
-
-Es sólo que cuando oiga la palabra "amiga", quiero que piense en mí primero. Eso es todo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1QckBfdqOn1sYr7liQZzDvw" type="text/html" title="MangaProject"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1812MZKjJoPVLJXRfACqFkA" type="text/html" title="JmCrap Translations"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/19oVPYs-x9tlsT7L9bkuVSg" type="text/html" title="Kattxena"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1DCucYE7Aks1g3FBlgqJVYg" type="text/html" title="Ani Hime Sama ( JpMorgan8 )"/>
-</entry>
-<entry>
-<title>Bloom into you Novela Ligera en Español</title>
-<id>https://nextnovels.com/bloom-into-you-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/bloom-into-you-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/08/Bloom-into-you-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/08/Bloom-into-you-Portada.jpg"/>
-<author><name>Iruma Hitoma</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Yuri" label="Yuri"/>
-<content type="text">La novela spin-off del popular yuri.
-
-Saeki Sayaka siempre ha sido un persona seria y reservada, que prefiere concentrarse en sus estudios en lugar de hacer amigos. Hasta que una confesión romántica de otra chica en la escuela secundaria pone patas arriba su mundo cuidadosamente ordenado. Aunque ninguna de sus clases la ha preparado para esto, Saeki ahora debe aceptar su sexualidad en esta tierna novela sobre cómo lidiar con el primer amor, crecer y relacionarse con otras personas.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1pc7yD948XDbMrv56n-AwWQ" type="text/html" title="Kamaxhi_kazuma_novels y Kelz ZG"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">El domingo, Dios abandonó el mundo, tras admitir su fracaso. Ai es la hija de 12 años de un guardián de la tumba y un hombre llamado Hampnie Hambart. Su madre le dijo que un día, su padre vendría al pueblo. Un día, mucho después de que su madre haya fallecido, un misterioso hombre que dice ser Hampnie Hambart masacra el pueblo de Ai, y le pide que entierre a los muertos, como Guardián de Tumbas.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1oymaa7c7KUU16s66-ZEHVQ" type="text/html" title="Astral Novel Translations"/>
 </entry>
 </feed>

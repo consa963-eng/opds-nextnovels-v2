@@ -1,26 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Hajime Naehara</id>
-<title>Hajime Naehara</title>
-<updated>2026-10-21T00:13:50.603161+00:00</updated>
+<id>nextnovels:autores:Hajime Kamoshida</id>
+<title>Hajime Kamoshida</title>
+<updated>2026-10-25T03:42:53.576379+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-198.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>A Cave King’s Road to Paradise Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-a-cave-kings-road-to-paradise-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-a-cave-kings-road-to-paradise-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/The-Cave-King-Will-Live-a-Paradise-Life-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/05/The-Cave-King-Will-Live-a-Paradise-Life-Portada.jpg"/>
-<author><name>Hajime Naehara</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
+<title>Sakurasou No Pet Na Kanojo Novela Ligera en Español</title>
+<id>https://nextnovels.com/sakurasou-no-pet-na-kanojo-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/sakurasou-no-pet-na-kanojo-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2021/12/sakurasou-e1641220308357.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2021/12/sakurasou-e1641220308357.jpg"/>
+<author><name>Hajime Kamoshida</name></author>
 <category term="Comedia" label="Comedia"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Drama" label="Drama"/>
+<category term="Ecchi" label="Ecchi"/>
 <category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
-<content type="text">En un mundo donde los emblemas deciden el destino de cada uno, el príncipe Heale nace con el Emblema del Rey de las Cavernas, una insignia tan inútil como él mismo. Considerado una deshonra para su familia, es desterrado a una isla estéril y desierta, sin una planta ni un alma a la vista. Solo, desdichado, pero decidido a sobrevivir, empuña un pico para ampliar la cueva que piensa convertir en su nuevo hogar… ¡y descubre el verdadero poder de su emblema! Resulta que el Rey de las Cavernas hace que excavar sea tan fácil como respirar. Y a medida que Heale cava más y más hondo en la isla, descubre un mineral de otro mundo tras otro. ¿Quién es el inútil ahora? Pero las menas valiosas no son lo único que encuentra Heale en sus aventuras mineras. Pronto traba amistad con limos y salva a unos goblins que llegan arrastrados hasta la orilla. Y todos juntos, como una gran familia, se esforzarán por superar cualquier reto en el camino de transformar la isla en su propio paraíso.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1xlvSAiPXLin25p3kmviGkw" type="text/html" title="Next Novels (MTL)"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Esta comedia romántica de instituto se centra en un estudiante de secundaria de nombre Kanda Sorata, que vive en Sakurasou, un dormitorio exclusivo para chicos problemáticos. Cierto día, Shiina Mashiro, una hermosa chica y también maravillosa artista, pese a todos las circunstancias, se muda a vivir a dicho dormitorio.
+
+Cuando Sorata conoce a la aparentemente frágil Mashiro, decide que la protegerla de los brabucones de Sakurasou, y al final esa suposición termina ser correcta: Mashiro no tiene ni idea de como cuidarse a sí misma.
+
+Tras pasar por varios percances ridículos como: perderse en la calle, no saber doblar la ropa, tener una habitación desordenada, etc. Todos los integrantes terminan considerando a Sorata como el "dueño2 de Mashiro. Bajo esta idea, tendrán que vivir en el dormitorio mientras los demás los ven como "dueño y mascota".</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1KJASlItfvjaAlFrOtiofzQ" type="text/html" title="Traductions in 1,2,3! y AIML Translation"/>
+</entry>
+<entry>
+<title>Seishun Buta Yarou Novela Ligera en Español</title>
+<id>https://nextnovels.com/seishun-buta-yarou-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/seishun-buta-yarou-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/Seishun-Buta-Yarou-wa-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/07/Seishun-Buta-Yarou-wa-Portada.jpg"/>
+<author><name>Hajime Kamoshida</name></author>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Romance" label="Romance"/>
+<category term="Supernatural" label="Supernatural"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">¿ADIVINA QUIÉN HA VUELTO?
+
+Después de años sin contacto, Sakuta ha recibido una carta de su primer amor, Shouko, pidiéndole que se encuentren en la playa de Shichirigahama. Por supuesto, ahora que tiene una relación feliz, no está muy seguro de cómo responder… o de cómo explicar la situación a su novia, Mai. Tal vez se centre en ayudar a su hermana, amante del panda y que se queda en casa, a conseguir su objetivo de volver a la escuela por el momento. Pero esto es más fácil de decir que de hacer, dado que ella no ha salido de casa durante dos años enteros.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1QgNZyDad_PFJQsi11bpXaQ" type="text/html" title="Edgno traducciones"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1olDwRLlTrFmlshy-w32bZQ" type="text/html" title="Bokugen Boys"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1q00V94EkH_tqu6YIIOF03A" type="text/html" title="Traductions in 1,2,3, Mau Translations"/>
 </entry>
 </feed>

@@ -1,29 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Gikyoku Kawata</id>
-<title>Gikyoku Kawata</title>
-<updated>2026-10-21T00:13:50.600797+00:00</updated>
+<id>nextnovels:autores:Gen Urobuchi</id>
+<title>Gen Urobuchi</title>
+<updated>2026-10-25T03:42:53.573374+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-184.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Ranobe mo Ore mo Suki na Gal Novela Ligera en Español</title>
-<id>https://nextnovels.com/ranobe-mo-ore-mo-suki-na-gal-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/ranobe-mo-ore-mo-suki-na-gal-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/12/Ranobe-mo-Ore-mo-Suki-na-Gal-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/12/Ranobe-mo-Ore-mo-Suki-na-Gal-Portada.jpg"/>
-<author><name>Gikyoku Kawata</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
+<title>Fate/Zero Novela Ligera en Español</title>
+<id>https://nextnovels.com/fate-zero-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/fate-zero-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-19.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-19.jpg"/>
+<author><name>Gen Urobuchi</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Psicológico" label="Psicológico"/>
 <category term="Seinen" label="Seinen"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Ryosuke Yoda es un estudiante de instituto al que le encantan las novelas ligeras y a veces intenta encontrar recomendaciones de novelas ligeras en SNS.
+<category term="Supernatural" label="Supernatural"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">Guerra del Santo Grial - Persiguiendo el poder del "Santo Grial" que concede un milagro, es un concurso en el que siete magos convocan a siete Espíritus Heroicos para competir por él. En esa batalla, cuya conclusión se pospuso tres veces, ahora, la cuarta guerra comenzó de nuevo.
 
-Pero cuando participó en un encuentro fuera de línea con una lectora de novelas ligeras que conocía desde hacía mucho tiempo en SNS, ¡la que acudió era la chica popular de su clase, Miona Tsumakawa!
+Confiando en su más querido deseo de victoria, los magos se unieron al campo de batalla llamado "Fuyuki", pero entre ellos, había un hombre que siempre estaba solo, y no podía encontrar el significado de sus luchas. Su nombre era Kotomine Kirei. Sin comprender la guía del destino, Kirei estaba perdido, y había seguido cuestionándose. Por qué alguien como él recibió los Command Seals. Sin embargo, el destino de sus peleas se cruzó en el camino de Kirei con un némesis por casualidad. Esa persona es - Emiya Kiritsugu. Un hombre que era más severo que nadie, más despiadado que nadie, y que buscaba el milagro del Santo Grial.
 
-Y encima, de repente, se confesó con él...".
-
-La juventud ordinaria de Ryosuke Yoda adquiere un nuevo color cuando entabla una relación con Miona Tsumakawa a través de su afición compartida por las novelas ligeras.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1bEE-CVhhzTprEu4iH7iZfg" type="text/html" title="Ilusion Shuri Novels"/>
+Recitada en fragmentos en Destino/Noche de Estancia, esta es la Cuarta Guerra del Santo Grial de hace 10 años. La verdad que se reveló tras la batalla entre el padre adoptivo de Shirō, el padre de Rin, y el joven Kotomine Kirei, se revela finalmente......</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1rjXc_yKr2bg6eTkPwLXbAg" type="text/html" title="Lanove y Baka-Tsuki"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1vZVkJmg0kYMIdz1-x7bSSw" type="text/html" title="Baka-Tsuki"/>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/lord-el-melloi-ii-case-files-novela-ligera-en-espanol/" type="text/html" title="Lord El-Melloi II Case Files"/>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fate-apocrypha-novela-ligera-en-espanol/" type="text/html" title="Fate/Apocrypha"/>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fate-strange-fake-novela-ligera-en-espanol/" type="text/html" title="Fate/Strange Fake"/>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/fate-lost-einherjar-novela-ligera-en-espanol/" type="text/html" title="Fate/Lost Einherjar"/>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fate-requiem-novela-ligera-en-espanol/" type="text/html" title="Fate/Requiem"/>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fate-prototype-novela-ligera-en-espanol/" type="text/html" title="Fate/Prototype"/>
 </entry>
 </feed>

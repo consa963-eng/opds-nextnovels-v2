@@ -1,44 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Bokuto Uno</id>
-<title>Bokuto Uno</title>
-<updated>2026-10-21T00:13:50.588769+00:00</updated>
+<id>nextnovels:autores:BlackCartel</id>
+<title>BlackCartel</title>
+<updated>2026-10-25T03:42:53.557597+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-112.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Reign of the Seven Spellblades Novela Ligera en Español</title>
-<id>https://nextnovels.com/reign-of-the-seven-spellblades-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/reign-of-the-seven-spellblades-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/05/cover7espadas.png"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/05/cover7espadas.png"/>
-<author><name>Bokuto Uno</name></author>
+<title>Aku no Himitsu no Kessha Consultant Novela Ligera en Español</title>
+<id>https://nextnovels.com/aku-no-himitsu-no-kessha-consultant-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/aku-no-himitsu-no-kessha-consultant-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/09/01-117.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/09/01-117.jpg"/>
+<author><name>BlackCartel</name></author>
 <category term="Acción" label="Acción"/>
+<category term="Adulto" label="Adulto"/>
 <category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
 <category term="Ecchi" label="Ecchi"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Harem" label="Harem"/>
+<category term="Maduro" label="Maduro"/>
 <category term="Romance" label="Romance"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">DE UN CHOQUE DE ESPADAS, UN VÍNCULO INQUEBRABLE
+<content type="text">Un hombre común y corriente es invocado a otro mundo por una científica de una Asociación Maligna. Este es el mundo de un tokusatsu donde existen las sociedades malignas, los monstruos y los héroes. Sin embargo, no ha sido invocado como un aliado de la justicia...... sino como un aliado del mal, quien está dispuesto a hacer lo necesario por lograr su objetivo.
 
-La primavera en la Academia Mágica Kimberly trae un nuevo grupo de estudiantes de primer año, todos con ojos brillantes y colas peludas a medida que comienzan su viaje para convertirse en magos de pleno derecho. Entre estos recién llegados se encuentran Oliver Horn, un chico estudioso igualmente hábil con la varita y la espada, y Nanao Hibiya, una chica samurái de voluntad fuerte de la lejana nación de Yamatsu. Las ruedas del destino unen a estas dos almas en Kimberly, donde se convierten en camaradas y rivales por igual. Sin embargo, acechando dentro de los pasillos de la academia hay innumerables peligros y oscuros secretos que amenazan no solo su amistad, sino también sus propias vidas…</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/16ufe0QxECkwzgTo8mZZYLA" type="text/html" title="Luis Morán"/>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1l9gxvKwJQYFoR_2WV6vqvw" type="text/html" title="World Project"/>
-</entry>
-<entry>
-<title>Reign of the Seven Spellblades: Side of Fire Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-reign-of-the-seven-spellblades-side-of-fire-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-reign-of-the-seven-spellblades-side-of-fire-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/08/Reign-of-the-Seven-Spellblades-Side-of-Fire-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/08/Reign-of-the-Seven-Spellblades-Side-of-Fire-Portada.jpg"/>
-<author><name>Bokuto Uno</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<content type="text">Alvin Godfrey, un mago fracasado, ingresó a la Academia de Magia Kimberly sintiéndose inseguro. Incapaz de lanzar un solo hechizo, sus compañeros se burlaban de él. Sin embargo, se enfrentó a la oscuridad de Kimberly, hizo amigos y, con el tiempo, se convirtió en presidente del alumnado. Ambientado cinco años antes del Reinado de los Siete Espadas Hechizadas, este es un relato mordaz de cómo Godfrey se ganó su famoso apodo de Purgatorio.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1TZ2T-9cpW1ZFQVLWc-YZmg" type="text/html" title="World Project"/>
+Su nombre es Onimaru Aku, un hombre sin escrúpulos, sin tacto, ni la más mínima pizca de remordimiento que planea conquistar ese mundo a como dé lugar, pues el fin, justifica los medios.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1JvwlPu2el0wJQK7GmuRI2A" type="text/html" title="Turret Translations"/>
 </entry>
 </feed>

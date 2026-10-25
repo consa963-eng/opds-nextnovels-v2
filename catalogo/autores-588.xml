@@ -1,61 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Misaki Saginomiya</id>
-<title>Misaki Saginomiya</title>
-<updated>2026-10-21T00:13:50.666723+00:00</updated>
+<id>nextnovels:autores:Miraijin A</id>
+<title>Miraijin A</title>
+<updated>2026-10-25T03:42:53.774009+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-588.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Ashita, Hadashi de Koi Novela Ligera en Español</title>
-<id>https://nextnovels.com/ashita-hadashi-de-koi-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/ashita-hadashi-de-koi-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/11/cover.jpeg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/11/cover.jpeg"/>
-<author><name>Misaki Saginomiya</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Misterio" label="Misterio"/>
+<title>Tensei Kizoku, Kantei Skill de Nariagaru Novela Ligera en Español</title>
+<id>https://nextnovels.com/tensei-kizoku-kantei-skill-de-nariagaru-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/tensei-kizoku-kantei-skill-de-nariagaru-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/07/Tensei-Kizoku-Kantei-Skill-de-Nariagaru-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/07/Tensei-Kizoku-Kantei-Skill-de-Nariagaru-Portada.jpg"/>
+<author><name>Miraijin A</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Fantasía" label="Fantasía"/>
 <category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">"Quédate conmigo esta vez".
-
-El día de la graduación, estaba reflexionando sobre mis aburridos años en la escuela secundaria. Mis calificaciones eran malas, había renunciado a mi sueño, y mi novia y yo terminamos. Ella era una artista nacional, nos encontrábamos en mundos completamente diferentes.
-
-Pero ese día—
-
-Nito Chika, mi ex novia, había desaparecido.
-
-Atónito... Me encontré viajando en el tiempo al pasado al día de la ceremonia de entrada.
-
-¿Puedo salvar a Nito en este mundo?
-
-… No, eso no es lo suficientemente bueno.
-
-Espero que esta vez podamos estar en igualdad de condiciones, para ser capaz de estar a su lado.
-
-¡Haré todo lo posible para reescribir esos tres años!
-
-Una historia de amor juvenil rehecha a partir de la graduación (el final).</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1c5bzxQ5gnxIxrSWQ40R2wQ" type="text/html" title="Tamashi Project"/>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/18MKnuc-L2LoL_PPDeOjPoA" type="text/html" title="Kai Sakura VENTO"/>
-</entry>
-<entry>
-<title>Sankaku no Kyori wa Kagirinai Zero - Bizarre Love Triangle Novela Ligera en Español</title>
-<id>https://nextnovels.com/sankaku-no-kyori-wa-kagirinai-zero-bizarre-love-triangle-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/sankaku-no-kyori-wa-kagirinai-zero-bizarre-love-triangle-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/10/01-7.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/10/01-7.jpg"/>
-<author><name>Misaki Saginomiya</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Para encajar en la escuela, Yano Shiki adopta varias personalidades para complacer a las personas con las que interactúa. Un día, mientras está en su escritorio, su compañera de clase Minase Akiha, una hermosa estudiante nueva transferida, comenta sobre el libro que está leyendo. Este libro en particular no se adapta a su personalidad actual, por lo que comienza a inventar excusas para ocultar sus verdaderos gustos, cuando Akiha de repente sale corriendo de la habitación.
-
-Al día siguiente, Yano observa a Akiha actuando notablemente diferente. Después de que él la confronta, ella revela que sufre de un trastorno de doble personalidad, un caso similar, pero no idéntico, al suyo. Se declaran amigos y deciden apoyarse mutuamente hasta que llegue el día en que puedan revelarse a sí mismos.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1tqJKtMGnZdaziBRRytst3A" type="text/html" title="Yotsuni Scanlation"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">Tras treinta y cinco años de vida perfectamente ordinaria, un hombre de negocios cualquiera cae muerto de repente... ¡para renacer en otro mundo! Ahora debe vivir como Ars Louvent, descendiente de una familia noble menor y poseedor de una habilidad fabulosa: Valoración, el poder de percibir los puntos fuertes y las habilidades de los demás de un vistazo. Y la necesitará, porque hay muchos problemas que resolver en el territorio de la familia Louvent. Ars sólo tiene una opción: reclutar a los individuos con más talento que su habilidad pueda encontrar, ¡y ascender a nuevas alturas en su flamante nuevo mundo!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1PB-nN50YnL30WqpeIiQOrg" type="text/html" title="Ilusion Shuri Novels"/>
 </entry>
 </feed>

@@ -1,28 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Miyama Suzu</id>
-<title>Miyama Suzu</title>
-<updated>2026-10-21T00:13:50.668565+00:00</updated>
+<id>nextnovels:autores:Mitsune Hoshi</id>
+<title>Mitsune Hoshi</title>
+<updated>2026-10-25T03:42:53.776450+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-599.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Beast Tamer Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-beast-tamer-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-beast-tamer-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/12/Yuusha-Party-o-Tsuihou-Sareta-Beast-Tamer-Saikyou-shu-no-Nekomimi-Shoujo-to-Deau-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/12/Yuusha-Party-o-Tsuihou-Sareta-Beast-Tamer-Saikyou-shu-no-Nekomimi-Shoujo-to-Deau-Portada.jpg"/>
-<author><name>Miyama Suzu</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
+<title>The Time I Woke Up in Bed with My Childhood Friend Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-time-i-woke-up-in-bed-with-my-childhood-friend-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-time-i-woke-up-in-bed-with-my-childhood-friend-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/The-Time-I-Woke-Up-in-Bed-with-My-Childhood-Friend-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/09/The-Time-I-Woke-Up-in-Bed-with-My-Childhood-Friend-Portada.jpg"/>
+<author><name>Mitsune Hoshi</name></author>
 <category term="Drama" label="Drama"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">El domador de bestias Rein, que utiliza animales, era un miembro del grupo del héroe. Sin embargo, como no podía hacer nada más, no era capaz de seguir el ritmo de la batalla. “Sólo sabes jugar con animales. Estás despedido”. Rein es expulsado del grupo y ahora vive libremente como aventurero. En su viaje, conoce a una chica de una tribu de gatos, la llamada especie más fuerte. Por otro lado, el grupo del héroe sigue sin saber que su éxito anterior fue todo gracias a Rein… Esta es la historia de un domador de bestias que ya no se contiene y su fatídico encuentro con una preciosa compañera.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1U_p5884rZFmNO8totHYW-Q" type="text/html" title="KuroShiro Scan"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1bhavtYPHi8Ih7uTLWB1cBA" type="text/html" title="Cerberus Translations"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1HR5fTRz4D-TAyo2F5ywxdA" type="text/html" title="Kasnia Project"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">El lado más vulnerable de la flor inalcanzable.
+
+Yukimura Mizuki es la chica más admirada y envidiada de toda la escuela: hermosa, distante y aparentemente perfecta. Para Amano Iori, su amigo de la infancia, ella siempre ha sido alguien fuera de su alcance. Sin embargo, todo cambia el día en que otra joven se le declara a Iori; a partir de ese momento, Mizuki empieza a acortar las distancias entre ambos de forma repentina. Ahora, antes de que él pueda siquiera procesarlo, se topa con una realidad inexplicable: ¿por qué está durmiendo justo a su lado luciendo tan desprotegida?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1CdvIU_COElsPt2H3hWde_w" type="text/html" title="Kai Sakura VENTO"/>
 </entry>
 </feed>

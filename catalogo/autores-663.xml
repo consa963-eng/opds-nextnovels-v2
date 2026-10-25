@@ -1,40 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Nasu Kinoko</id>
-<title>Nasu Kinoko</title>
-<updated>2026-10-21T00:13:50.679155+00:00</updated>
+<id>nextnovels:autores:Naoki Morishita</id>
+<title>Naoki Morishita</title>
+<updated>2026-10-25T03:42:53.790255+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-663.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Kara no Kyoukai Novela Ligera en Español</title>
-<id>https://nextnovels.com/kara-no-kyoukai-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/kara-no-kyoukai-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-81.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-81.jpg"/>
-<author><name>Nasu Kinoko</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Artes marciales" label="Artes marciales"/>
+<title>The Tale of Cudlestate Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-tale-of-cudlestate-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-tale-of-cudlestate-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/07/The-Tale-of-Cudlestate-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/07/The-Tale-of-Cudlestate-Portada.jpg"/>
+<author><name>Naoki Morishita</name></author>
+<category term="Aventura" label="Aventura"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Romance" label="Romance"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">Kara no Kyoukai es una serie de historias escritas por Kinoko Nasu con ilustraciones de Takashi Takeuchi.
+<content type="text">Cada invierno, dos jóvenes llamados Dane y Carta abandonan su aldea, situada en el corazón de las montañas, para dirigirse a la gran ciudad en busca de algún dinero que llevar de vuelta a casa. Sin embargo, este año, debido a la inminente guerra, todas las oportunidades de empleo decentes han desaparecido con rapidez. Tan solo quedan numerosos reclutadores en busca de mercenarios dispuestos a unirse a ellos. Es así que, al toparse con un anuncio que busca nuevos reclutas para una banda de ladrones con tintes "caballerescos", los dos no pueden evitar pensar que, a pesar de todo, puedan aprovechar el invierno.
 
-Los primeros cinco capítulos se publicaron en línea en el sitio web dojin "Takebouki" de Nasu y Takeuchi a partir de octubre de 1998, y los dos últimos capítulos se publicaron en el Comiket 56 en 1999. En 2001, parte de la historia se incluyó en "Tsukihime PLUS-DISK", creado por TYPE-MOON, el círculo doujin al que se unieron Nasu y Takeuchi. La historia ganó una enorme popularidad, y la edición doujinshi de las historias fue lanzada el 30 de diciembre de 2001 en el Comiket 61.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1cR5y1XcPZ7tX7gwV_vxYdA" type="text/html" title="SoltiLeheleni Fansub, Bar Ahnennerbe"/>
-</entry>
-<entry>
-<title>Tsuki no Sango Novela Ligera en Español</title>
-<id>https://nextnovels.com/tsuki-no-sango-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/tsuki-no-sango-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/09/01-1.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/09/01-1.jpg"/>
-<author><name>Nasu Kinoko</name></author>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Drama" label="Drama"/>
-<category term="Romance" label="Romance"/>
-<content type="text">La historia se desarrolla aproximadamente en el año 3000, cuando la humanidad ha llegado a la cima de su civilización, pero está perdiendo la voluntad de seguir viviendo. Sigue a una chica, llamada "princesa" por los que la rodean, que vive en una pequeña isla con una colonia de cincuenta personas y un brillante arrecife de coral. Ella es descendiente de la gente de la Luna, y se centra en cómo sus antepasados supuestamente llegaron a la Tierra.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1ftL6cqJwh-IdjuIgU-Mn1Q" type="text/html" title="Mi Castillo de Arena"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1azHefJAvvw30JSQI97aRiQ" type="text/html" title="Project High Fox"/>
+Al unirse a esta banda peculiar, reciben un entrenamiento especial diseñado para prepararlos ante la inminente guerra. Mientras tanto, en medio de una trama de confabulaciones y conspiraciones, estalla la largamente esperada guerra entre el Imperio y la Unión.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-the-tale-of-cudlestate-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

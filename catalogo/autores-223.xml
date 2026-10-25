@@ -1,21 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Hayashi Naota</id>
-<title>Hayashi Naota</title>
-<updated>2026-10-21T00:13:50.607424+00:00</updated>
+<id>nextnovels:autores:Hayakawa Uka</id>
+<title>Hayakawa Uka</title>
+<updated>2026-10-25T03:42:53.581928+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-223.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Steins;Gate - Youen no Valhalla Novela Ligera en Español</title>
-<id>https://nextnovels.com/steins-gate-youen-no-valhalla-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/steins-gate-youen-no-valhalla-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/11/01-29.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/11/01-29.jpg"/>
-<author><name>Hayashi Naota</name></author>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Drama" label="Drama"/>
-<category term="Misterio" label="Misterio"/>
+<title>Inmon Mahou Hime Makina no Bicchina Bouken Novela Ligera en Español</title>
+<id>https://nextnovels.com/inmon-mahou-hime-makina-no-bicchina-bouken-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/inmon-mahou-hime-makina-no-bicchina-bouken-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/08/Inmon-Mahou-Hime-Makina-no-Bicchina-Bouken-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/08/Inmon-Mahou-Hime-Makina-no-Bicchina-Bouken-Portada.jpg"/>
+<author><name>Hayakawa Uka</name></author>
+<category term="Adulto" label="Adulto"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Maduro" label="Maduro"/>
+<category term="NTR" label="NTR"/>
+<category term="Romance" label="Romance"/>
 <category term="Seinen" label="Seinen"/>
-<content type="text">El Distante Valhalla es una historia paralela ambientada en el campo del atractor Alfa. Se establece 1 año y medio después. El ataque al laboratorio de los "Rounders", la "Operación Valhalla", el plan de Okabe para escapar del cautiverio de SERN.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com#Volumenes" type="text/html" title="Ferindrad"/>
+<content type="text">Una princesa con habilidades mágicas maldecida con un hechizo que la hace ponerse cachonda todas las noches, acompañada con su amado fiel caballero amigo de la infancia emprenderán un viaje en búsqueda del mago que arruino su reino y los maldijo.
+
+Sera capaz la princesa de mantener la cordura ante su maldición mientras viaja por el mundo para encontrar una cura y salvar su reino?.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1ZwyvBB94E6brC1v6AAwr_w" type="text/html" title="Xelz ZG"/>
 </entry>
 </feed>

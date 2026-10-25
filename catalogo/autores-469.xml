@@ -1,22 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kosuke Kidou</id>
-<title>Kosuke Kidou</title>
-<updated>2026-10-21T00:13:50.647741+00:00</updated>
+<id>nextnovels:autores:Koregane Ryuuji</id>
+<title>Koregane Ryuuji</title>
+<updated>2026-10-25T03:42:53.748418+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-469.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Ano Shinpu wa, Yappari Kuzu Datta Novela Ligera en Español</title>
-<id>https://nextnovels.com/ano-shinpu-wa-yappari-kuzu-datta-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/ano-shinpu-wa-yappari-kuzu-datta-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/05/01-17.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/05/01-17.jpg"/>
-<author><name>Kosuke Kidou</name></author>
-<category term="Acción" label="Acción"/>
+<title>Shinsei-maou no Venus-Hunt Novela Ligera en Español</title>
+<id>https://nextnovels.com/shinsei-maou-no-venus-hunt-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/shinsei-maou-no-venus-hunt-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/09/Shinsei-maou-no-Venus-Hunt-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/09/Shinsei-maou-no-Venus-Hunt-Portada.jpg"/>
+<author><name>Koregane Ryuuji</name></author>
+<category term="Adulto" label="Adulto"/>
+<category term="Ecchi" label="Ecchi"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Magia" label="Magia"/>
-<content type="text">Ralph es un sacerdote que es culpado de acoso sexual cuando trataba de revivir a una heroína en la iglesia. Aunque su magia es un desperdicio, el está por encima del Señor Demonio. Una inquisidora llamada Sharon aparece y está decidida a comprobar que Ralph es una persona débil. Por hacer esto, Sharon es considerada una hereje, por lo que hace equipo con Ralph para poder escapar.
+<category term="Harem" label="Harem"/>
+<category term="Maduro" label="Maduro"/>
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<content type="text">Juno es un Maou que fue sellado en un espacio sagrado hace 300 años por las 6 diosas del Hexagrama y la Diosa Reina Venus.
 
-Ellos dos tienen algo en común ¿Es amor? Que el gran escape inicie.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com#Volumenes" type="text/html" title="Astral Novel Translations"/>
+Al ser sellado, las Diosas iniciaron con la destrucción de Liliahei, el mundo demoníaco de Juno, sin embargo, antes de ser sellado, utilizando su poder mágico y pudo transportar a una pequeña cantidad de demonios a otro sitio. Entre ellos estaba Lilith, un ángel caído y sierva del Maou.
+
+Pasaron los 300 años y Juno sólo pensaba en la manera de poder vengarse de las Diosas que lo atacaron a escondidas, por lo tanto, creo la magia más poderosa del mundo, llamada: Magic Fit, es una poderosa magia erótica que le permite a Juno cambiar el circuito mágico de cualquier ser, y con eso, incluso las Diosas caeran y se volveran demonios, para así, poder crear un nuevo mundo demoniaco.
+
+Fue revivido por Lilith, y su alma fue colocada en un cuerpo humano bien dotado, de ahí, inicia la historia de como Juno intentará recuperar su mundo que ha sido reinado por las Diosas.
+
+Al renacer después de 300 años, muchas cosas cambiaron, pero el Maou Juno y poco a poco se acopla a su nueva vida. Y conforme eso, va conociendo chicas lindas con las cuales puede hacer la ceremonia pervertida y utilizar su Magic Fit.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/13OvHq0bcTqxcbz02xOsJPg" type="text/html" title="Infinit-TradPro"/>
 </entry>
 </feed>

@@ -1,22 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Sawako Hirabayashi</id>
-<title>Sawako Hirabayashi</title>
-<updated>2026-10-21T00:13:50.704767+00:00</updated>
+<id>nextnovels:autores:Satou Mato</id>
+<title>Satou Mato</title>
+<updated>2026-10-25T03:42:53.825561+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-819.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Kuroko no Basket: Replace Novela Ligera en Español</title>
-<id>https://nextnovels.com/kuroko-no-basket-replace-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/kuroko-no-basket-replace-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/08/Kuroko-no-Basket-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/08/Kuroko-no-Basket-Portada.jpg"/>
-<author><name>Sawako Hirabayashi</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Deportes" label="Deportes"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Shounen" label="Shounen"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Incluye historias sobre la Generación de los Milagros durante la enseñanza media y los alumnos del instituto Seirin.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxlink.com/s/1GbEvXL1It1bM72bCi9BFow" type="text/html" title="Kokoro no Fujoshi"/>
+<title>Shokei Shoujo no Virgin Road Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-shokei-shoujo-no-virgin-road-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-shokei-shoujo-no-virgin-road-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/11/Shokei-Shoujo-no-Virgin-Road-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/11/Shokei-Shoujo-no-Virgin-Road-Portada.jpg"/>
+<author><name>Satou Mato</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Yuri" label="Yuri"/>
+<content type="text">Los Errantes son ovejas pérdidas que llegan aquí desde una tierra lejana conocida como “Japón”. Pocos saben cómo o por qué abandonan sus hogares. Lo único cierto es que traen el desastre y la calamidad. El deber de exterminarlos sin remordimientos recae en las Verdugos. El día que la joven Verdugo Menou conoció a la Errante Akari, pensó que sería un trabajo de lo más… ¡hasta que se dió de cuenta que es imposible matar a esta chica! ¡Y cuando Menou comienza a buscar una forma de burlar a su inmortalidad, resulta que Akari fantasea con la idea de morir en sus brazos!
+
+Así inicia un viaje que cambiará la vida de Menou (nuevamente) y cuyo final decidirá el destino de un mundo devastado…</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/17zMpbNAd_JUqoO24C6PfNg" type="text/html" title="Onigiri Novels"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Z_do6VinTO3sc3-CKiLvzg" type="text/html" title="Hitoribocchi Translation"/>
 </entry>
 </feed>

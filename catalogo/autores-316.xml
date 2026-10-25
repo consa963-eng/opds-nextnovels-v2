@@ -1,23 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Ismi Fa Ismail</id>
-<title>Ismi Fa Ismail</title>
-<updated>2026-10-21T00:13:50.622232+00:00</updated>
+<id>nextnovels:autores:Ishinomiya Kanto</id>
+<title>Ishinomiya Kanto</title>
+<updated>2026-10-25T03:42:53.602024+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-316.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Don’t Read This Novel Novela Ligera en Español</title>
-<id>https://nextnovels.com/dont-read-this-novel-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/dont-read-this-novel-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/07/Dont-Read-This-Novel-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/07/Dont-Read-This-Novel-Portada.jpg"/>
-<author><name>Ismi Fa Ismail</name></author>
-<category term="Horror" label="Horror"/>
-<category term="Misterio" label="Misterio"/>
+<title>Hajimari no Mahoutsukai Novela Ligera en Español</title>
+<id>https://nextnovels.com/hajimari-no-mahoutsukai-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/hajimari-no-mahoutsukai-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/06/Hajimari-no-Mahoutsukai-Portada.png"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/06/Hajimari-no-Mahoutsukai-Portada.png"/>
+<author><name>Ishinomiya Kanto</name></author>
+<category term="Aventura" label="Aventura"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
 <category term="Psicológico" label="Psicológico"/>
-<category term="Tragedia" label="Tragedia"/>
-<content type="text">Es aburrido si solo lees historias de amor, ¿verdad?
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">En una era perdida en leyendas y mitos.
 
-Prueba esta novela. Pero ¡no la leas solo! Asegúrate de que haya alguien contigo, ya que puedes comenzar a sentirse extraño. O tal vez simplemente alucines sobre cosas que no deberían estar ahí. Esta novela no es para aquellos con un espíritu débil sino para aquellos que quieren trabajar su mente y fortalecer su corazón. Cuanto más leas, más pensarás y más rápido latirá tu corazón. ¿No me crees? Inténtalo…</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1-7-elE2od9-72FM6JNBBOA" type="text/html" title="Blue Phoenix Translations"/>
+En una era donde humanos aún no habían establecido un sistema de escritura.
+
+Se dice que existió un mago en un país llamado Scarlet.
+
+Se dice que él impartió conocimientos concernientes a lenguaje y escritura, enseñó cómo cultivar las tierras, instruyó las maneras de criar animales, y trajo el regalo—mejor dicho, la magia de fuego.
+
+Se dice que era un joven intrépido, un Dragón cubierto de escamas rojas escarlatas, una persona adorada en todas partes.
+
+Se dice que este hombre era el Dios de la Civilización.
+
+Sin embargo, extrañamente, su nombre había sido borrado prácticamente de los registros.
+
+Por lo tanto, él simplemente fue referido como—
+
+—El Magus del Génesis.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1pC3F2JprwP8erxVeZqMYvQ" type="text/html" title="HiroLsn"/>
 </entry>
 </feed>

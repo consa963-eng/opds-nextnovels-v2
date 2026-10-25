@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Harunadon</id>
-<title>Harunadon</title>
-<updated>2026-10-21T00:13:50.606395+00:00</updated>
+<id>nextnovels:autores:Haruka Touko</id>
+<title>Haruka Touko</title>
+<updated>2026-10-25T03:42:53.580610+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-217.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>If the Villainess and Villain Met and Fell in Love Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-if-the-villainess-and-villain-met-and-fell-in-love-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-if-the-villainess-and-villain-met-and-fell-in-love-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/If-the-Villainess-and-Villain-Met-and-Fell-in-Love-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/05/If-the-Villainess-and-Villain-Met-and-Fell-in-Love-Portada.jpg"/>
-<author><name>Harunadon</name></author>
+<title>My Daughter was an Unsold Slave Elf Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-my-daughter-was-an-unsold-slave-elf-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-my-daughter-was-an-unsold-slave-elf-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/09/My-Daughter-was-an-Unsold-Slave-Elf-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/09/My-Daughter-was-an-Unsold-Slave-Elf-Portada.jpg"/>
+<author><name>Haruka Touko</name></author>
 <category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Romance" label="Romance"/>
-<category term="Shoujo" label="Shoujo"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">A VECES, EL FUEGO Y EL HIELO SON LA COMBINACIÓN PERFECTA.
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<content type="text">¡Una conmovedora fantasía sobre un padre torpe y su inocente hija! Cuando Weiss, nuestro protagonista, se topa con una elfa que está siendo vendida como escl*va, pronto se da cuenta de que no es una elfa común: es una rara Alta Elfa, una raza que se creía extinta. Movido por la compasión, Weiss decide comprarla y criarla como si fuera su propia hija.
 
-Brigitte Meidell pertenece a una familia noble, lo que significa que se depositaban grandes expectativas en su contrato espiritual. Sin embargo, su espíritu vinculado resultó ser un don nadie débil y, desde entonces, ha sido motivo de vergüenza para su familia. Pensaba que su compromiso con el príncipe le daría un giro a su vida, pero cuando él rompe públicamente su relación, se encuentra sola de nuevo. Tras su comportamiento altivo y malvado como futura esposa del príncipe, nadie le muestra mucha simpatía, excepto el hijo del duque, Yuri, que asiste a la misma academia de magia. A Yuri se le teme por sus increíbles habilidades y su personalidad gélida, pero con él de su lado, su suerte podría haber cambiado...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/17ii5095zRxgwaP1X008Evg" type="text/html" title="Akira Light Novels"/>
+Sumido en el caos de la crianza por primera vez, Weiss hace todo lo posible, y su dedicación da sus frutos: la niña, antes frágil y muda, recupera su fuerza y ​​ánimo. Inspirado por la primera palabra que pronuncia, la llama Lily. Weiss se transforma rápidamente en un padre cariñoso, decidido a ayudar a Lily a alcanzar sus sueños, ¡incluyendo su ingreso a una academia de magia!
+
+Así comienza la conmovedora y tierna historia de un padre torpe y su hija de corazón puro mientras aprenden, crecen y se convierten en una verdadera familia.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1sUc3F8DXxTt9yNi493vueg" type="text/html" title="Gashadokai"/>
 </entry>
 </feed>

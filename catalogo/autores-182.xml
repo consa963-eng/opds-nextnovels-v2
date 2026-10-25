@@ -1,34 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Gen Urobuchi</id>
-<title>Gen Urobuchi</title>
-<updated>2026-10-21T00:13:50.600455+00:00</updated>
+<id>nextnovels:autores:Gangudou</id>
+<title>Gangudou</title>
+<updated>2026-10-25T03:42:53.572934+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-182.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Fate/Zero Novela Ligera en Español</title>
-<id>https://nextnovels.com/fate-zero-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/fate-zero-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-19.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-19.jpg"/>
-<author><name>Gen Urobuchi</name></author>
+<title>CtG - Zero kara Sodateru Dennou Shoujo Novela Ligera en Español</title>
+<id>https://nextnovels.com/ctg-zero-kara-sodateru-dennou-shoujo-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/ctg-zero-kara-sodateru-dennou-shoujo-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/11/01-43.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/11/01-43.jpg"/>
+<author><name>Gangudou</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Tragedia" label="Tragedia"/>
-<content type="text">Guerra del Santo Grial - Persiguiendo el poder del "Santo Grial" que concede un milagro, es un concurso en el que siete magos convocan a siete Espíritus Heroicos para competir por él. En esa batalla, cuya conclusión se pospuso tres veces, ahora, la cuarta guerra comenzó de nuevo.
+<category term="Aventura" label="Aventura"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">En el juego VRMMO -CtG (Cradle to the Glaive), Yuu Kasugai se ha “casado” con Mifa, una chica que acaba de conocer. Despues de eso, ¿¡su hija Haruna nació y creció!? Más aun…..
 
-Confiando en su más querido deseo de victoria, los magos se unieron al campo de batalla llamado "Fuyuki", pero entre ellos, había un hombre que siempre estaba solo, y no podía encontrar el significado de sus luchas. Su nombre era Kotomine Kirei. Sin comprender la guía del destino, Kirei estaba perdido, y había seguido cuestionándose. Por qué alguien como él recibió los Command Seals. Sin embargo, el destino de sus peleas se cruzó en el camino de Kirei con un némesis por casualidad. Esa persona es - Emiya Kiritsugu. Un hombre que era más severo que nadie, más despiadado que nadie, y que buscaba el milagro del Santo Grial.
+– ¡Llegué, papá!
 
-Recitada en fragmentos en Destino/Noche de Estancia, esta es la Cuarta Guerra del Santo Grial de hace 10 años. La verdad que se reveló tras la batalla entre el padre adoptivo de Shirō, el padre de Rin, y el joven Kotomine Kirei, se revela finalmente......</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1rjXc_yKr2bg6eTkPwLXbAg" type="text/html" title="Lanove y Baka-Tsuki"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1vZVkJmg0kYMIdz1-x7bSSw" type="text/html" title="Baka-Tsuki"/>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/lord-el-melloi-ii-case-files-novela-ligera-en-espanol/" type="text/html" title="Lord El-Melloi II Case Files"/>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fate-apocrypha-novela-ligera-en-espanol/" type="text/html" title="Fate/Apocrypha"/>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fate-strange-fake-novela-ligera-en-espanol/" type="text/html" title="Fate/Strange Fake"/>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/fate-lost-einherjar-novela-ligera-en-espanol/" type="text/html" title="Fate/Lost Einherjar"/>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fate-requiem-novela-ligera-en-espanol/" type="text/html" title="Fate/Requiem"/>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fate-prototype-novela-ligera-en-espanol/" type="text/html" title="Fate/Prototype"/>
+– ¡Ku, Kugimiya!
+
+!En el mundo real, la verdadera Haruha, junto con la verdadera Mifa – Kugimiya Miharu – aparecieron repentinamente! La verdad es que, ¡Haruha es una “nueva humana” creada en secreto!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1RQZ1xd1476flq8w7WB8tPA" type="text/html" title="Gustang Translations, Strange Translations, Next Novels (MTL)"/>
 </entry>
 </feed>

@@ -1,33 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kinata</id>
-<title>Kinata</title>
-<updated>2026-10-21T00:13:50.641120+00:00</updated>
+<id>nextnovels:autores:Kimura Kaito</id>
+<title>Kimura Kaito</title>
+<updated>2026-10-25T03:42:53.659653+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-429.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>A Tall Gal and a Tiny Gal Won’t Leave My New Home After My Heartbreak Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-a-tall-gal-and-a-tiny-gal-wont-leave-my-new-home-after-my-heartbreak-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-a-tall-gal-and-a-tiny-gal-wont-leave-my-new-home-after-my-heartbreak-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/A-Tall-Gal-and-a-Tiny-Gal-Wont-Leave-My-New-Home-After-My-Heartbreak-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/05/A-Tall-Gal-and-a-Tiny-Gal-Wont-Leave-My-New-Home-After-My-Heartbreak-Portada.jpg"/>
-<author><name>Kinata</name></author>
+<title>Kimi wa Hatsukoi no Hito, no Musume Novela Ligera en Español</title>
+<id>https://nextnovels.com/kimi-wa-hatsukoi-no-hito-no-musume-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/kimi-wa-hatsukoi-no-hito-no-musume-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/02/portada-e1643770095301.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/02/portada-e1643770095301.jpg"/>
+<author><name>Kimura Kaito</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Un estudiante de secundaria, Meguru Nogi, se declara a su primer amor aprovechando el impulso de empezar a vivir solo… pero lo rechazan.
+<content type="text">La chica de secundaria que rescató se parecía mucho a su primer amor.
 
-¡Justo después de la ruptura, dos compañeras gyaru llegan a su nuevo departamento!
+Un adicto al trabajo que todavía se tambalea por su doloroso primer amor y una chica de instituto que parece la viva imagen de esa misma persona.
 
-Shuri, una chica alta y hermosa con gran sentido de cuidado, y Reni, una chica linda de carácter tsundere bastante marcado.
+No hay perdón. No hay forma de detenerlo. Su “segundo” primer amor comienza…
 
-En realidad, ambas siempre habían estado interesadas en Nogi, así que, al verlo destrozado, le proponen vivir juntos para animarlo.
+“Me gustaría pagarte…… si no te importa”.
 
-Le preparan comida casera, lo reciben usando su camisa, e incluso pasan la noche juntos en la misma cama…
+Una noche, mientras vive una vida satisfecha como adulto trabajador, Ichigo rescata a Luna, una chica de secundaria, de un borracho. Esta chica se parecía como dos gotas de agua con su primer amor, Sakura.
 
-“¿No crees que es una suerte que puedas vivir con chicas tan lindas como nosotras? Puede que no te vuelva a pasar en la vida.”
+“¿Conoces a mi madre?”
 
-¡Así comienza una convivencia llena de tensión con dos gyaru hermosas, completamente opuestas en personalidad y apariencia!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1R-U_4IcCiW5LyBf29KnFBA" type="text/html" title="Tamashi Project"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1tvP-bPyfCeyP0zDYJt885A" type="text/html" title="Ichijou Translations"/>
+Se da cuenta de que Runa es la hija de Sakura con la noticia de que ha fallecido. Y entonces…
+
+“Kugiyama-san, eras la persona que siempre he admirado en mi corazón, ── la persona de mis sueños”.
+
+Luna confiesa que siempre ha tenido una punzada de añoranza por Ichigo por los recuerdos que Sakura le había contado. “¿Podrías por favor aceptarme como tu novia?”.
+
+“Tus historias, Ichi, son siempre tan divertidas”.
+
+Ichigo es incapaz de perdonar a Luna, ya que le recuerda tanto a la Sakura de aquellos días pasados. No puede evitarlo. Ha caído en el primer amor por segunda vez.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1BMaYCfFhYBjCy0RpaLMvzQ" type="text/html" title="Akira Translations"/>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1JwyVMFbfTUZjzacPfH_nOg" type="text/html" title="Tamashi's Project"/>
 </entry>
 </feed>

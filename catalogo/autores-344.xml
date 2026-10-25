@@ -1,37 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kafka Asagiri</id>
-<title>Kafka Asagiri</title>
-<updated>2026-10-21T00:13:50.626751+00:00</updated>
+<id>nextnovels:autores:Kabegiwa Aizaki</id>
+<title>Kabegiwa Aizaki</title>
+<updated>2026-10-25T03:42:53.608159+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-344.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Bungo Stray Dog Novela Ligera en Español</title>
-<id>https://nextnovels.com/bungo-stray-dogs-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/bungo-stray-dogs-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/06/01-28.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/06/01-28.jpg"/>
-<author><name>Kafka Asagiri</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">Después de que el huérfano Atsushi Nakajima rescate a un extraño hombre de un intento de suicidio, conoce a la "Compañía de Detectives de Armas", un grupo de personas con poderes sobrenaturales extraídos de personajes literarios. Sus miembros se encargan de casos peligrosos y misterios que ni siquiera la policía consigue resolver. Ahora se espera que Atsushi se una a la organización y les apoye con su habilidad especial.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1QwxJ1wSyW-xISYIS1GXWeQ" type="text/html" title="True Flames Project"/>
-<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1Wm090n1p5H0ypNspnwTEsQ" type="text/html" title="Yanase"/>
-</entry>
-<entry>
-<title>Bungo Stray Dogs: Another Story Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-bungo-stray-dogs-another-story-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-bungo-stray-dogs-another-story-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/11/Bungo-Stray-Dogs-Another-Story-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/11/Bungo-Stray-Dogs-Another-Story-Portada.jpg"/>
-<author><name>Kafka Asagiri</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Drama" label="Drama"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">Yukito Ayatsuji, un brillante investigador conocido como el Detective de Homicidios, tiene una habilidad tan letal que se le asigna un cuidador -el agente novato de la División Especial de Poderes Inusuales Mizuki Tsujimura- para vigilarle. Y cuando Ayatsuji recibe el encargo de resolver un caso de asesinato, ¿quién iba a mover los hilos entre bastidores sino su archienemigo... Natsuhiko Kyougoku? A medida que aumentan las apuestas, también lo hacen los misterios. En esta batalla de ingenio entre un hechicero y un detective, ¡hay que engañar o ser engañado!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1xwTs0CAAt12WvUzsctHjLA" type="text/html" title="Yanase"/>
+<title>Douka Ore o Hanatte Oitekure Novela Ligera en Español</title>
+<id>https://nextnovels.com/douka-ore-o-hanatte-oitekure-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/douka-ore-o-hanatte-oitekure-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/03/01.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/03/01.jpg"/>
+<author><name>Kabegiwa Aizaki</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">"Empecemos una reunión de estrategia para hacer amigos".
+
+Esta es una historia sobre ella y yo. Es la peor y la mejor comedia romántica de secundaria de la historia.
+
+Amor, amistad y las chispeantes alegrías de la juventud. La vida de instituto que tanto había esperado acabó conmigo solo. Entonces, justo un día antes de la ceremonia de graduación...
+
+"¡No mueras! ¡Nanamura-kun!"‎
+
+Sora Hanamitsuji, es una chica hermosa con la que ni siquiera las modelos pueden compararse.
+
+Mi vida terminó después de ser atropellada por un camión para protegerla... Ese debería haber sido el caso.
+
+‎"Debe ser porque los dioses se aburrieron".‎
+
+Sin embargo, con este accidente, Hanamitsuji-san y yo regresamos al día de la ceremonia de ingreso a nuestra escuela secundaria. La segunda vida de la escuela secundaria ya no es tan encantadora y juvenil. Iba a gastarlo modestamente y solo. ... Pero, dijo que eso no servirá.‎
+
+‎"Bueno, te ayudaré a hacer amigos".‎
+
+Esta es una historia sobre mi segunda vida en la escuela secundaria. Es la peor y mejor comedia romántica adolescente de la historia.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1lf8DeGBY405zYonEq_pwew" type="text/html" title="JB Senpai"/>
 </entry>
 </feed>

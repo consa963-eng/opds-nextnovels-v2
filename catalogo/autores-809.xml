@@ -1,33 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Sasaki Ichirou</id>
-<title>Sasaki Ichirou</title>
-<updated>2026-10-21T00:13:50.703157+00:00</updated>
+<id>nextnovels:autores:Sano Fuyuko</id>
+<title>Sano Fuyuko</title>
+<updated>2026-10-25T03:42:53.823341+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-809.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Kyuuketsu-hime Tan Astrid Novela Ligera en Español</title>
-<id>https://nextnovels.com/kyuuketsu-hime-tan-astrid-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/kyuuketsu-hime-tan-astrid-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/03/Kyuuketsu-hime-Tan-Astrid-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/03/Kyuuketsu-hime-Tan-Astrid-Portada.jpg"/>
-<author><name>Sasaki Ichirou</name></author>
-<category term="Adulto" label="Adulto"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Tetona" label="Tetona"/>
-<content type="text">Mi adorable y linda princesita vampiro: siempre y para siempre estaré contigo.
+<title>Beyond the End of Our Relationship Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-beyond-the-end-of-our-relationship-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-beyond-the-end-of-our-relationship-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/08/Beyond-the-End-of-Our-Relationship-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/08/Beyond-the-End-of-Our-Relationship-Portada.jpg"/>
+<author><name>Sano Fuyuko</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Romance" label="Romance"/>
+<category term="Yaoi" label="Yaoi"/>
+<content type="text">El funcionario de élite originalmente perfecto se alejó del camino hacia el éxito debido a su divorcio- "Motoaki ", el funcionario del Ministerio de Economía, Comercio e Industria, está desesperado.
 
-Cabello dorado, ojos ámbar - la verdadera vampira Astrid.
-
-Crepúsculo, en el camino a un santuario, conocí y me enamoré de un vampiro inmortal.
-
-"Encantada" de corazón, ¡una primera experiencia que roba la v*rginidad de dos centenares de años!
-
-¡Monopolizando la hermosa cabellera y su c*lo, hacia adelante a una propuesta de matrimonio e impr*gnación!
-
-Humano y monstruo, esta es una historia sobre el primer amor que es más importante que la vida eterna.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1myRcim7_N5VE0RKt3B_YxA" type="text/html" title="Domen Translations"/>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1AKsihlOJbZzN6YCEHwV0Bw" type="text/html" title="Defous123"/>
+Ante una situación tan terrible, un misterioso prostituto llamado "TASK" apareció frente a él. Aparecía dondequiera que fuera Motoaki y lo animaba diciendo: "En realidad, estás interesado en el mismo sexo, ¿verdad?" Inesperadamente, TASK sabía todo sobre las preferencias sexuales de Motoaki y su naturaleza que había estado ocultando. ¿Esta persona es realmente sólo un prostituto? ¡Aunque Motoaki se estremecía ante esto, todavía estaba excitado por este hombre que ejercitaba su cuerpo con disciplina y estaba lleno de ¡¿atractivo sexual...!?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1UA4Q-bQSMS884ClXtsY-_w" type="text/html" title="Shizu Fansub"/>
 </entry>
 </feed>

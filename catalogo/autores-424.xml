@@ -1,22 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kimino Sakurako</id>
-<title>Kimino Sakurako</title>
-<updated>2026-10-21T00:13:50.640350+00:00</updated>
+<id>nextnovels:autores:Key, Maeda Jun, Na-Ga</id>
+<title>Key, Maeda Jun, Na-Ga</title>
+<updated>2026-10-25T03:42:53.658620+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-424.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Strawberry Panic! Novela Ligera en Español</title>
-<id>https://nextnovels.com/strawberry-panic-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/strawberry-panic-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/11/Strawberry-Panic-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/11/Strawberry-Panic-Portada.jpg"/>
-<author><name>Kimino Sakurako</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Romance" label="Romance"/>
-<category term="Shoujo Ai" label="Shoujo Ai"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<category term="Yuri" label="Yuri"/>
-<content type="text">En Strawberry Panic se desarrollan las relaciones entre las estudiantes de varios institutos femeninos en un ambiente idílico. Tres institutos coexisten en el campus de Astraea Hill, y todos son coordinados mediante la figura de la Étoile, ¿qué pareja de estudiantes conseguirá tal título? Nagisa es una nueva estudiante recién llegada a Miator (uno de los institutos) y se encuentra con Shizuma, actual Étoile y objeto de deseo de las demás estudiantes. ¿Cómo reaccionará Nagisa ante las provocaciones de Shizuma?. Por otro lado, en Spica, la estrella del campus es Otori Amane también llamada "el príncipe de Spica" por su porte elegante y refinado ¿Qué hará cuando conozca a la dulce e inocente Hikari?¿Qué pensará su compañera de habitación de todo esto?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Jxjyend6TyL6mrH7rKP5Tg" type="text/html" title="Yuri Dream"/>
+<title>Angel Beats! – Track Zero Novela Ligera en Español</title>
+<id>https://nextnovels.com/angel-beats-track-zero-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/angel-beats-track-zero-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/05/01-16.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/05/01-16.jpg"/>
+<author><name>Key, Maeda Jun, Na-Ga</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">La novela ligera es la precuela oficial de la serie de anime.
+
+Cuenta la historia de cómo se conocen Yuri y Hinata, cómo se enteran de la existencia de "Ángel" y de los demás personajes y cómo se fundó la SSS.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com#Volumenes" type="text/html" title="Traducción SAO Alicization"/>
 </entry>
 </feed>

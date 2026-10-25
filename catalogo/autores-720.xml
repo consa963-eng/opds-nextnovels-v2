@@ -1,32 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Orijima Kanoko</id>
-<title>Orijima Kanoko</title>
-<updated>2026-10-21T00:13:50.688524+00:00</updated>
+<id>nextnovels:autores:Ookido Izumi</id>
+<title>Ookido Izumi</title>
+<updated>2026-10-25T03:42:53.803596+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-720.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Usotsuki Lip wa Koi de Kuzureru Novela Ligera en Español</title>
-<id>https://nextnovels.com/usotsuki-lip-wa-koi-de-kuzureru-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/usotsuki-lip-wa-koi-de-kuzureru-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/10/Usotsuki-Lip-wa-Koi-de-Kuzureru-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/10/Usotsuki-Lip-wa-Koi-de-Kuzureru-Portada.jpg"/>
-<author><name>Orijima Kanoko</name></author>
+<title>I’ll Become a Villainess That Will Go Down in History Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-ill-become-a-villainess-that-will-go-down-in-history-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-ill-become-a-villainess-that-will-go-down-in-history-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Ill-Become-a-Villainess-That-Will-Go-Down-in-History-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/08/Ill-Become-a-Villainess-That-Will-Go-Down-in-History-Portada.jpg"/>
+<author><name>Ookido Izumi</name></author>
+<category term="Aventura" label="Aventura"/>
 <category term="Comedia" label="Comedia"/>
 <category term="Drama" label="Drama"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Fantasía" label="Fantasía"/>
 <category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">La historia de… Sagara Sohei, un estudiante universitario que insiste en vivir solo, y Nanase Haruko, una chica hermosa y brillante. Una estrella universitaria que vivía al lado. En su lindo apartamento.
-
-Desde el punto de vista de Sohei Se puede decir que la identidad de Haruko está en una dimensión diferente, como si fuera un extraterrestre. Sin embargo… La verdadera identidad de esa chica hermosa y perfecta. En cambio, ella era solo una chica con una apariencia hogareña. Exitosa y popular cuando se escribió en la universidad.
-
-Después de conocer ese secreto, Sohei decide unir fuerzas con la torpe Haruko. Para proteger mi propia vida pacífica y aislada.
-
-“Mientras puedas vivir tu vida como una chica hermosa y brillante. No hay necesidad de interferir conmigo.”
-
-“Sagara-kun… ¡¡Me gusta hacer cosas complicadas!!”
-
-Si se revela la cara de tu chica de casa, ¿podría arruinarse así su brillante vida universitaria?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1PMnWWo4sjA8Whtt_dDWUcQ" type="text/html" title="Legends no Fansub"/>
+<category term="Shoujo" label="Shoujo"/>
+<content type="text">Nunca he podido soportar la típica actitud de ‘santurrona’ de las heroínas. Por suerte, todos mis sueños se hacen realidad cuando reencarno como villana. Decidida a convertirme en una mujer a la que nadie pueda criticar, me esfuerzo al máximo por entrenar mi cuerpo, mejorar mi intelecto y perfeccionar mis habilidades mágicas. Pero, por alguna razón, cuanto más me esfuerzo, más parece que le gusto a todo el mundo. No importa—traicionaré todas sus expectativas y me convertiré en la villana más grande que el mundo haya conocido jamás</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1dGNz-73PlFf3uwM2odGz-Q" type="text/html" title="Akira Light Novels"/>
 </entry>
 </feed>

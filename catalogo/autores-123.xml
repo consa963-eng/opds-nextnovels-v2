@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Cobkubo Shinji</id>
-<title>Cobkubo Shinji</title>
-<updated>2026-10-21T00:13:50.590567+00:00</updated>
+<id>nextnovels:autores:CHIROLU</id>
+<title>CHIROLU</title>
+<updated>2026-10-25T03:42:53.560029+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-123.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Sabikui Bisco Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-sabikui-bisco-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-sabikui-bisco-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/11/Sabikui-Bisco-Portada.webp"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/11/Sabikui-Bisco-Portada.webp"/>
-<author><name>Cobkubo Shinji</name></author>
-<category term="Acción" label="Acción"/>
+<title>Uchi no Musume Novela Ligera en Español</title>
+<id>https://nextnovels.com/uchi-no-musume-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/uchi-no-musume-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/09/01-3.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/09/01-3.jpg"/>
+<author><name>CHIROLU</name></author>
 <category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
 <category term="Drama" label="Drama"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Shounen" label="Shounen"/>
-<content type="text">Tokio quedó arrasada tras una catástrofe, y lo único que queda de ella es un paisaje desértico. Desde esta catástrofe, se ha extendido una nueva enfermedad en la que la gente empieza a oxidarse cada vez más. Se responsabiliza de ello a las esporas de los hongos. Como «guardián de los hongos», Bisco Akaboshi los propaga, por lo que la gente lo considera un criminal e incluso han puesto una recompensa por su cabeza. Va armado con un arco y una flecha, pero no los utiliza para matar, porque las setas crecen allí donde impactan sus flechas. En realidad, los hongos no propagan el nuevo tipo de enfermedad, sino que enriquecen la tierra devastada y la ayudan a recuperar su esplendor original.
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<content type="text">Dale es un aventurero genial, compuesto y altamente calificado que se ha hecho de un gran nombre a pesar de su juventud. Un día, en un trabajo en lo profundo del bosque, se encuentra con una niña diabólica moribunda. Incapaz de dejarla allí sola, Dale la lleva a su casa y se convierte en su padre adoptivo.
 
-El doctor Milo Nekoyanagi intenta por todos los medios encontrar una cura para la enfermedad y salvar así a su hermana Pawoo. Cualquier ingrediente le sirve, incluso las odiadas setas, que en realidad se comercializan en el mercado negro. Y así los caminos de Bisco y Milo pronto se cruzan..</content>
-<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1jrJn2ntV0FcApDx03PLBcw" type="text/html" title="El Colombiano Neet"/>
+Diabólica o no, Latina es más que adorable, y el aventurero pronto se convierte en un padre que ama locamente a su nueva hija.
+
+Pero, para empezar, ¿por qué estaba ella en el bosque y por qué posee la marca de una criminal?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1w7TtGf_MNqKzPNSTYa0-aA" type="text/html" title="Einjerhar Project"/>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1q_nXfK4zRUjBqR7aWal6qg" type="text/html" title="World Project"/>
 </entry>
 </feed>

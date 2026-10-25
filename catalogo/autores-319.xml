@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Isshiki Koutarou</id>
-<title>Isshiki Koutarou</title>
-<updated>2026-10-21T00:13:50.622708+00:00</updated>
+<id>nextnovels:autores:Ismi Fa Ismail</id>
+<title>Ismi Fa Ismail</title>
+<updated>2026-10-25T03:42:53.602676+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-319.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Villager A Wants to Save the Villainess no Matter What! Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-villager-a-wants-to-save-the-villainess-no-matter-what-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-villager-a-wants-to-save-the-villainess-no-matter-what-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/Villager-A-Wants-to-Save-the-Villainess-no-Matter-What-Portada.jpeg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/05/Villager-A-Wants-to-Save-the-Villainess-no-Matter-What-Portada.jpeg"/>
-<author><name>Isshiki Koutarou</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Allen, un niño de ocho años de una familia pobre de la capital real, lleva una vida humilde pero feliz junto a su madre. Sin embargo, un día, los recuerdos de su vida anterior regresan de golpe y recuerda que está dentro de un juego de simulación de citas y que la capital será destruida por la guerra si no hace algo al respecto. ¡Si esto sigue así, tanto él como su madre morirán! Con un gran sentido de urgencia, decide estar a la altura de las circunstancias para salvar la vida de su querida madre y rescatar a su personaje favorito, la villana Anastasia, la única chica que le gustaba en el juego, de su final demasiado trágico y ruinoso.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1GeR_8RyaS9tJKf9CE8N2Dg" type="text/html" title="Next Novels (MTL)"/>
+<title>Don’t Read This Novel Novela Ligera en Español</title>
+<id>https://nextnovels.com/dont-read-this-novel-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/dont-read-this-novel-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/07/Dont-Read-This-Novel-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/07/Dont-Read-This-Novel-Portada.jpg"/>
+<author><name>Ismi Fa Ismail</name></author>
+<category term="Horror" label="Horror"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">Es aburrido si solo lees historias de amor, ¿verdad?
+
+Prueba esta novela. Pero ¡no la leas solo! Asegúrate de que haya alguien contigo, ya que puedes comenzar a sentirse extraño. O tal vez simplemente alucines sobre cosas que no deberían estar ahí. Esta novela no es para aquellos con un espíritu débil sino para aquellos que quieren trabajar su mente y fortalecer su corazón. Cuanto más leas, más pensarás y más rápido latirá tu corazón. ¿No me crees? Inténtalo…</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1-7-elE2od9-72FM6JNBBOA" type="text/html" title="Blue Phoenix Translations"/>
 </entry>
 </feed>

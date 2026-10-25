@@ -1,25 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kattern</id>
-<title>Kattern</title>
-<updated>2026-10-21T00:13:50.634897+00:00</updated>
+<id>nextnovels:autores:Kasukabe Takeru</id>
+<title>Kasukabe Takeru</title>
+<updated>2026-10-25T03:42:53.651514+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-390.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>For Some Reason, the Internet Cafe Where I Work Part-Time Has Become a Hangout Spot for the Beautiful Girls in My Class Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-for-some-reason-the-internet-cafe-where-i-work-part-time-has-become-a-hangout-spot-for-the-beautiful-girls-in-my-class-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-for-some-reason-the-internet-cafe-where-i-work-part-time-has-become-a-hangout-spot-for-the-beautiful-girls-in-my-class-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/12/The-Internet-Cafe-Where-I-Work-Has-Become-a-Hangout-Spot-for-the-Beautiful-Girl-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/12/The-Internet-Cafe-Where-I-Work-Has-Become-a-Hangout-Spot-for-the-Beautiful-Girl-Portada.jpg"/>
-<author><name>Kattern</name></author>
-<category term="Adulto" label="Adulto"/>
+<title>Noucome Novela Ligera en Español</title>
+<id>https://nextnovels.com/noucome-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/noucome-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/02/Noucome-Portada-e1645055523151.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/02/Noucome-Portada-e1645055523151.jpg"/>
+<author><name>Kasukabe Takeru</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
 <category term="Harem" label="Harem"/>
-<category term="Maduro" label="Maduro"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Smut" label="Smut"/>
+<category term="Shounen" label="Shounen"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">¿Manteniendo una relación secreta con una compañera de clase en una cabina individual, estrecha...?
-
-Todo empezó cuando salvé a la chica más linda de la escuela que se había desmayado frente al cibercafé donde trabajaba a tiempo parcial, y ella empezó a frecuentar nuestro cibercafé</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/16Chdgi0evs6uSNl4Y8MmsQ" type="text/html" title="Kyūden Translation"/>
+<content type="text">Kanade Amakusa es un estudiante de secundaria que sufre de una maldición llamada "opciones absolutas". Esta maldición le obliga a seleccionar una acción de una lista de dos o tres opciones que aparecen delante de él, en cualquier momento, y no tiene ningún control sobre lo que parecen opciones. Muchas de ellas son raras o perversas y, como resultado, la maldición ha manchado su reputación con sus compañeros y otras personas a su alrededor, por lo que su vida se ha vuelto muy difícil.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1HxkuIE_v0b1fGRYy9zSCrQ" type="text/html" title="Astral Novel Translations"/>
 </entry>
 </feed>

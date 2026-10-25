@@ -1,23 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Nisio Isin, Hirohiro Araki</id>
-<title>Nisio Isin, Hirohiro Araki</title>
-<updated>2026-10-21T00:13:50.682686+00:00</updated>
+<id>nextnovels:autores:Nishi Jouyou</id>
+<title>Nishi Jouyou</title>
+<updated>2026-10-25T03:42:53.795191+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-683.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>JoJo's Bizarre Adventure: Over Heaven Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-jojos-bizarre-adventure-over-heaven-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-jojos-bizarre-adventure-over-heaven-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/11/JoJos-Bizarre-Adventure-Over-Heaven-Portada.webp"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/11/JoJos-Bizarre-Adventure-Over-Heaven-Portada.webp"/>
-<author><name>Nisio Isin, Hirohiro Araki</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
+<title>I’m Fine With Being the Second Girlfriend Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-im-fine-with-being-the-second-girlfriend-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-im-fine-with-being-the-second-girlfriend-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/Im-Fine-With-Being-the-Second-Girlfriend-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/05/Im-Fine-With-Being-the-Second-Girlfriend-Portada.jpg"/>
+<author><name>Nishi Jouyou</name></author>
+<category term="Adulto" label="Adulto"/>
 <category term="Drama" label="Drama"/>
-<category term="Psicológico" label="Psicológico"/>
+<category term="Harem" label="Harem"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Tragedia" label="Tragedia"/>
-<content type="text">El libro está escrito como un monólogo sobre los pensamientos de Dio en todo los acontecimientos de la serie original. En el libro, reflexiona sobre sus batallas, y habla sobre el concepto de la muerte, así como su desafortunada madre.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1DLs2IU9qydyBs2TsoA6pUw" type="text/html" title="Desconocido"/>
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">—A ti también te quiero como segunda opción, Kirishima-kun.
+
+Aunque tanto Hayasaka-san como yo tenemos a la persona que más nos gusta, estamos saliendo con nuestra segunda opción.
+
+Sin embargo, es un hecho que Hayasaka-san y yo somos amantes. Volvemos juntos a casa, nos vemos a escondidas y hacemos cosas que no podemos contarle a nadie.
+
+Pero la segunda opción sigue siendo la segunda opción, así que si el sentimiento con quien más nos gusta se vuelve mutuo, esta relación terminará. Así lo prometimos.
+
+—Lo siento. Soy una idiota y cada vez me gustas más.
+
+Aunque ambos nos acercamos a la persona que más nos gusta, seguimos enredándonos el uno en el otro, sin poder parar, sin poder soltarnos pase lo que pase…
+
+Este es el desenlace de un amor ya irreparable, peligroso al cien por cien, puro, malsano y complicado.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1MuCsatXjgKLrASu406slxw" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 </feed>

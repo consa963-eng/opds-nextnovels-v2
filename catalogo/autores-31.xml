@@ -1,28 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Akatsuki Kana</id>
-<title>Akatsuki Kana</title>
-<updated>2026-10-21T00:13:50.575217+00:00</updated>
+<id>nextnovels:autores:Akatsuki Kakeya</id>
+<title>Akatsuki Kakeya</title>
+<updated>2026-10-25T03:42:53.539818+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-31.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Violet Evergarden Novela Ligera en Español</title>
-<id>https://nextnovels.com/violet-evergarden-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/violet-evergarden-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/04/Violet-Evergarden-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/04/Violet-Evergarden-Portada.jpg"/>
-<author><name>Akatsuki Kana</name></author>
-<category term="Aventura" label="Aventura"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
+<title>Fatal Gap That Only You Have Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-fatal-gap-that-only-you-have-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-fatal-gap-that-only-you-have-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/04/Fatal-Gap-That-Only-You-Have-Portada.jpeg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/04/Fatal-Gap-That-Only-You-Have-Portada.jpeg"/>
+<author><name>Akatsuki Kakeya</name></author>
 <category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<content type="text">“Auto-Memories Doll”. Había pasado mucho tiempo desde que ese nombre se popularizó. El creador fue el investigador de muñecas mecánicas, Profesor Orlando. Es una máquina que creó el Dr. Orlando que habla con una voz natural. Al principio, solo la hizo para ayudar a su amada esposa, pero en poco tiempo se extendieron al mundo. y las compañías fueron creadas para alquilarlas.
-
-— Me apresuro hacia donde deseen mis clientes. Soy del servicio automatizado de Dolls, Violet Evergarden.
-
-La mujer rubia y de ojos azules que poseía una belleza que parecía haber salido de un cuento de hadas respondió en tono monótono, sin mostrar una sonrisa</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1NSyTts7iGjuiJX97tx2lGw" type="text/html" title="Mi Castillo de Arena"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1GugUAtQyrPT7PLIUrI5iIQ" type="text/html" title="Gladheim Translations"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Supernatural" label="Supernatural"/>
+<category term="Tragedia" label="Tragedia"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Umisato Katsuya se despertó en la enfermería de la escuela. ¿Por qué estaba allí? Según la enfermera Kagami, había tropezado al bajar las escaleras y había perdido el conocimiento por el golpe... Pero Katsuya no recordaba nada de eso. Debido a un accidente ocurrido muchos años atrás, había perdido a sus padres y los recuerdos de su infancia, quedándole solo lo que había vivido después de mudarse. Sin embargo, como si eso fuera solo el principio, empezaron a suceder cosas extrañas alrededor de Katsuya. El cadáver de una chica junto a una máquina expendedora. Una carta siniestra que apareció de la nada. La suave sensación del cuello de una chica entre sus manos, mientras ella le suplicaba ayuda. ¿Son todas estas irregularidades realidad o solo un fragmento de su imaginación? El pasado vuelve para atormentar a Katsuya, incluso toma forma para perseguirlo y castigarlo por sus pecados. Pero, ¿qué se esconde en el fondo del pasado que el propio Katsuya había olvidado?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1O2pt3UhBbIGlMW0R3pr_Tg" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 </feed>

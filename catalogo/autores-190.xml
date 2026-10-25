@@ -1,35 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Gyokuto</id>
-<title>Gyokuto</title>
-<updated>2026-10-21T00:13:50.601826+00:00</updated>
+<id>nextnovels:autores:Gozennoryokutya</id>
+<title>Gozennoryokutya</title>
+<updated>2026-10-25T03:42:53.574646+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-190.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>The Revenge of the Soul Eater Novela Ligera en Español</title>
-<id>https://nextnovels.com/the-revenge-of-the-soul-eater-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/the-revenge-of-the-soul-eater-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/01/01-5.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/01/01-5.jpg"/>
-<author><name>Gyokuto</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Artes marciales" label="Artes marciales"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
+<title>It Seems I Was Hitting On the Most Beautiful Girl in School Without Me Noticing Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-it-seems-i-was-hitting-on-the-most-beautiful-girl-in-school-without-me-noticing-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-it-seems-i-was-hitting-on-the-most-beautiful-girl-in-school-without-me-noticing-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/It-Seems-I-Was-Hitting-On-the-Most-Beautiful-Girl-in-School-Without-Me-Noticing-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/02/It-Seems-I-Was-Hitting-On-the-Most-Beautiful-Girl-in-School-Without-Me-Noticing-Portada.jpg"/>
+<author><name>Gozennoryokutya</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Tragedia" label="Tragedia"/>
-<content type="text">La familia Mitsurugi a quien se les encomendó el papel de proteger la puerta demoníaca del emperador. Nacido como el hijo mayor, Mitsurugi Sora, a la edad de 13 años, estaba por realizar la ceremonia de prueba.
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">El protagonista empieza a relacionarse con la chica más guapa del instituto, famosa por su actitud fría, y poco a poco se siente atraído por ella.
 
-Una prueba que debe superar a como dé lugar para aprender el estilo de espada ilusoria que se ha transmitido de generación en generación. Sin embargo, falló en la prueba y fue expulsado de su tierra natal.
+Ese protagonista se encuentra en una relación de consultoría con una chica sencilla con gafas en su trabajo a tiempo parcial.
 
-Cuando iba a reconstruir su vida siendo un aventurero, fue traicionado por sus compañeros de grupo haciéndolo presa viva de un poderoso monstruo.
+Él no se da cuenta de que la chica a la que está consultando es la misma de la que está enamorado, y se limita a contarle sus crecientes sentimientos mientras sigue enamorándose de ella.
 
-Fue llevado a su nido, y en ese momento, cuando estaba a punto de morir……
-
-Escuchó una voz que cambiaría su vida……</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1cAH2606Y55pDlqFYretn6w" type="text/html" title="GBtraducciones"/>
+La heroína se da cuenta de que la persona de la que él está enamorado es precisamente ella, y aunque se siente apenada por los sentimientos del protagonista, poco a poco se va sintiendo atraída por él.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1XxxLJZqatKwf_g8tcu5RsA" type="text/html" title="Strange-Translations"/>
 </entry>
 </feed>

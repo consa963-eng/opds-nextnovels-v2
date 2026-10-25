@@ -1,22 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kei Sasuga</id>
-<title>Kei Sasuga</title>
-<updated>2026-10-21T00:13:50.638171+00:00</updated>
+<id>nextnovels:autores:Kazutaka Kodaka</id>
+<title>Kazutaka Kodaka</title>
+<updated>2026-10-25T03:42:53.655809+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-410.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Domestic na Sensual Novela Ligera en Español</title>
-<id>https://nextnovels.com/domestic-na-sensual-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/domestic-na-sensual-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/09/domestic-na-sensual-Portada-1.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/09/domestic-na-sensual-Portada-1.jpg"/>
-<author><name>Kei Sasuga</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Harem" label="Harem"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
+<title>Danganronpa Zero Novela Ligera en Español</title>
+<id>https://nextnovels.com/danganronpa-zero-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/danganronpa-zero-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/06/01-41.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/06/01-41.jpg"/>
+<author><name>Kazutaka Kodaka</name></author>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Gore" label="Gore"/>
+<category term="Horror" label="Horror"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Psicológico" label="Psicológico"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1TjYw2mvgiW7zgMOnKTjr_Q" type="text/html" title="Plot Twist no Fansub"/>
+<content type="text">Danganronpa/Zero narra la historia de una chica con amnesia llamada Ryouko Otonashi y como el Súper Estudiante de Preparatoria Nivel Neurólogo Matsuda la ayuda. El problema está en que, Otonashi está relacionada con los incidentes de la desesperación que Enoshima Junko planea.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1V8wDtLD3Pkl3pRi9BkLHKQ" type="text/html" title="Clamp Hitsuzen, Hirai Fuyami"/>
+<link rel="http://opds-spec.org/acquisition" href="https://www.crunchyroll.com/es/danganronpa-the-animation" type="text/html" title="Disponible en Crunchyroll"/>
+</entry>
+<entry>
+<title>Danganronpa: Makoto Naegi Secret File Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-danganronpa-makoto-naegi-secret-file-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-danganronpa-makoto-naegi-secret-file-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/11/Danganronpa-Makoto-Naegi-Secret-File-Makoto-Naegis-Worst-Day-Ever-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/11/Danganronpa-Makoto-Naegi-Secret-File-Makoto-Naegis-Worst-Day-Ever-Portada.jpg"/>
+<author><name>Kazutaka Kodaka</name></author>
+<category term="Drama" label="Drama"/>
+<content type="text">-Esta historia tiene lugar antes de que todo comenzara, antes de que los estudiantes que serían obligados a participar en el coliseo académico incluso se matricularan en la Academia Kibougamine. Esta es una historia de algo que sucedió incluso antes de que algo hubiera sucedido todavía.-</content>
+<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1UsjtEZl-5U5RcPiCECLQhA" type="text/html" title="Gifumi"/>
 </entry>
 </feed>

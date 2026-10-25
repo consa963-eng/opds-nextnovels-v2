@@ -1,31 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Takesuxi</id>
-<title>Takesuxi</title>
-<updated>2026-10-21T00:13:50.724116+00:00</updated>
+<id>nextnovels:autores:Takemachi</id>
+<title>Takemachi</title>
+<updated>2026-10-25T03:42:53.851882+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-935.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Adventurer Life with Exiled Daughter Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-adventurer-life-with-exiled-daughter-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-adventurer-life-with-exiled-daughter-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Adventurer-Life-with-Exiled-Daughter-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/08/Adventurer-Life-with-Exiled-Daughter-Portada.jpg"/>
-<author><name>Takesuxi</name></author>
+<title>Spy Classroom Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-spy-classroom-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-spy-classroom-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-66.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-66.jpg"/>
+<author><name>Takemachi</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Fantasía" label="Fantasía"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Psicológico" label="Psicológico"/>
 <category term="Romance" label="Romance"/>
-<content type="text">“¡Ese príncipe de mierda, príncipe de mierda, príncipe de mierda…!”
-
-Lady Erika Soruntsari, hija de un marqués, fue desterrada debido a una conspiración que involucraba al príncipe. Con la excusa de “fugarse con su amante”, Erika fue expulsada del país. Shin, el aventurero elegido para hacerse pasar por su amante, empuña su espada para proteger a Erika de la absurdidad de su destino, aunque su relación sea solo una farsa temporal.
-
-“Shin Longdagger, me has tomado mucho cariño.”
-
-A petición de Erika, Shin comienza una nueva vida junto a ella. Se labran una reputación como aventureros, se ganan el reconocimiento del gremio y abrazan una vida de libertad bajo el mismo techo. A medida que lo hacen, la distancia entre ellos se acorta cada vez más…
-
-“¡Shin! ¡Hoy toca volver a la vida de aventureros!”
-
-…Y ahora, ella le dedica una sonrisa radiante y amplia.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1e_zbEj6Yj60epyATGVnCVw" type="text/html" title="Saitou Translations"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Un mundo en el que las guerras se libran con espías. Con un porcentaje de éxito en las misiones del 100%, el extraordinario, aunque bastante difícil de tratar, espía Klaus recibe el encargo de una misión casi imposible por parte de la agencia, que alberga un insano 90% de posibilidades de fracaso y muerte... ¡que por alguna razón implica a siete chicas inexpertas...!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1eJeeU4hjNcxPRvdL9AYHdg" type="text/html" title="Saitou Translations"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1KwjDhhvM2VREscVGxhUyyQ" type="text/html" title="Shinsengumi Translations"/>
 </entry>
 </feed>

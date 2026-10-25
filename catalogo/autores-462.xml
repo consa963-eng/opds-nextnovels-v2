@@ -1,31 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Konatsu Wakioka</id>
-<title>Konatsu Wakioka</title>
-<updated>2026-10-21T00:13:50.646478+00:00</updated>
+<id>nextnovels:autores:Komao Mako</id>
+<title>Komao Mako</title>
+<updated>2026-10-25T03:42:53.746615+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-462.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Naze ka S-kyuu Bijo-tachi no Wadai ni Ore ga Agaru Ken Novela Ligera en Español</title>
-<id>https://nextnovels.com/naze-ka-s-kyuu-bijo-tachi-no-wadai-ni-ore-ga-agaru-ken-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/naze-ka-s-kyuu-bijo-tachi-no-wadai-ni-ore-ga-agaru-ken-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/09/00.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/09/00.jpg"/>
-<author><name>Konatsu Wakioka</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Harem" label="Harem"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">—En realidad, tuve un encuentro que cambiará mi vida y afectará significativamente mi futuro.
+<title>BlazBlue Novela Ligera en Español</title>
+<id>https://nextnovels.com/blazblue-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/blazblue-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/05/BlazBlue-Portada.webp"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/05/BlazBlue-Portada.webp"/>
+<author><name>Komao Mako</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Seinen" label="Seinen"/>
+<content type="text">2199 D.C. El mundo está cubierto de seithr y la humanidad se ve obligada a vivir en ciudades jerárquicas, construcciones ascendentes similares a torres.
 
-Sara Himekawa, Rin Kohinata y Yumena Takamori son chicas de preparatoria conocidas como las 'bellezas de clase S'.
+La 13ª Ciudad Jerárquica de Kagutsuchi ha sido infiltrada por un hombre con la mayor recompensa del mundo. Se trata de Ragna el Sanguinario, la "Parca", un hombre que posee el Grimorio Azul. Así, la rueda del destino comienza a girar.
 
-Mientras la clase está llena de historias de amor que causan envidia, también está Haruya Akasaki, el chico más callado de la clase.
+"¡Restricción 666 liberada, Campo de Interferencia Dimensional desplegado! ¡BlazBlue, activa!"
 
-Y, de hecho, ¡el chico del que están hablando es Haruya Akasaki!
+La primera entrega del popular juego de lucha BlazBlue, Calamity Trigger. ¡La nueva leyenda comienza aquí!
 
-Una comedia romántica escolar sobre un chico tímido y las 'bellezas de clase S' ha comenzado.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1f8ev60lckdylFaKyxRBamg" type="text/html" title="Ilusion Shuri Novels"/>
+Las 2 primeras novelas cuentan la historia de Calamity Trigger, mientras que las 2 últimas cuentan la historia de Continuum Shift.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com" type="text/html" title="Traducción no disponible"/>
+</entry>
+<entry>
+<title>BlazBlue – Phase 0 Novela Ligera en Español</title>
+<id>https://nextnovels.com/blazblue-phase-0-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/blazblue-phase-0-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/05/BlazBlue-%E2%80%93-Phase-0-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/05/BlazBlue-%E2%80%93-Phase-0-Portada.jpg"/>
+<author><name>Komao Mako</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Seinen" label="Seinen"/>
+<content type="text">Ragna el Sanguinario. Ese hombre es apodado Grim Reaper y posee el poder del Azure Grimoire. Sin embargo, despierta en una tierra desconocida y ha perdido tanto el poder del Azure como su memoria.
+
+En este mundo desconocido, se encuentra con Celica, una chica capaz de utilizar magia curativa, y con un guerrero beastkin llamado Mitsuyoshi. Su viaje está estrechamente relacionado con la Bestia Negra, un ser que lleva a la humanidad a la devastación. Sin embargo...
+
+La historia de la popular serie de juegos de lucha BlazBlue, hasta ahora envuelta en la historia, está a punto de salir a la luz. ¡La historia oficial que nos lleva al punto de partida ha llegado!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1BBDQ9ok3XlOM156yccFqkg" type="text/html" title="Ride The Lightning Translation"/>
+</entry>
+<entry>
+<title>BlazBlue – Phase Shift Novela Ligera en Español</title>
+<id>https://nextnovels.com/blazblue-phase-shift-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/blazblue-phase-shift-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/05/BlazBlue-%E2%80%93-Phase-Shift-Portada.webp"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/05/BlazBlue-%E2%80%93-Phase-Shift-Portada.webp"/>
+<author><name>Komao Mako</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Seinen" label="Seinen"/>
+<content type="text">2106 D.C. El mundo está sumido en el caos por la amenaza de la Bestia Negra. En la isla Ishana, gobernada por el Gremio de Magos, el estudiante Kazuma vive una vida normal. Pero cuando conoce por casualidad a Yuuki Terumi, la historia recibe un nuevo Cambio de Fase.
+
+"Si consigues el Azure, podrás recuperar lo que quieras. Cosas que perdiste, cosas que olvidaste, lo que sea".
+
+¿Es el preludio de la destrucción? ¿O un evangelio de salvación?
+
+Entre la luz y la oscuridad del Límite, la esperanza y la desesperación se mezclan. ¡Se ha levantado el telón de un nuevo episodio de la historia oficial de BlazBlue!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1johg4zOSH5LVNsDkDWrmKA" type="text/html" title="Ride The Lightning Translation"/>
 </entry>
 </feed>

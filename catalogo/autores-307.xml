@@ -1,32 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Irori Fuyutsuki</id>
-<title>Irori Fuyutsuki</title>
-<updated>2026-10-21T00:13:50.620757+00:00</updated>
+<id>nextnovels:autores:Iori Miyazawa</id>
+<title>Iori Miyazawa</title>
+<updated>2026-10-25T03:42:53.599943+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-307.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Experiencing a Year’s Worth of Love With you Through the Changing Seasons Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-experiencing-a-years-worth-of-love-with-you-through-the-changing-seasons-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-experiencing-a-years-worth-of-love-with-you-through-the-changing-seasons-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/Experiencing-a-Years-Worth-of-Love-With-you-Through-the-Changing-Seasons-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/09/Experiencing-a-Years-Worth-of-Love-With-you-Through-the-Changing-Seasons-Portada.jpg"/>
-<author><name>Irori Fuyutsuki</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<title>Otherside Picnic Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-otherside-picnic-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-otherside-picnic-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/Otherside-Picnic-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/05/Otherside-Picnic-Portada.jpg"/>
+<author><name>Iori Miyazawa</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Drama" label="Drama"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Shoujo Ai" label="Shoujo Ai"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">La primera vez que se encontró con Toriko Nishina fue en el Otro Lado, después de ver "esa cosa" y casi morir. A partir de ese día, la vida de Sorawo Kamikoshi, una universitaria agobiada, cambió. En este Otro Mundo, lleno de misterio, que coexiste con el nuestro, aparecen seres peligrosos como los Kunekune y Hasshaku-sama de los que se habla en las historias de fantasmas reales. Por motivos de investigación, de lucro y en busca de una persona importante, Toriko y Sorawo entran en lo desconocido.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1yUx22gwYL7UFb3Vq4eeRzA" type="text/html" title="Ferindrad"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1JZ4TtyOVJAcmWPt4P7Sn0Q" type="text/html" title="Next Novels (MTL)"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Fhu16Ym_F8T1haVJWk-nqQ" type="text/html" title="MD"/>
+</entry>
+<entry>
+<title>Soine Dreamer Novela Ligera en Español</title>
+<id>https://nextnovels.com/soine-dreamer-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/soine-dreamer-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/12/cover-3.jpeg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/12/cover-3.jpeg"/>
+<author><name>Iori Miyazawa</name></author>
+<category term="Aventura" label="Aventura"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Psicológico" label="Psicológico"/>
 <category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
+<category term="Shoujo Ai" label="Shoujo Ai"/>
+<category term="Supernatural" label="Supernatural"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">El límite de tiempo de una estación que nos fue concedido a "ti" y a mí.
+<category term="Yuri" label="Yuri"/>
+<content type="text">Saya Hokage, una chica de instituto que no puede dormir debido al insomnio, se encuentra con Hitsuji Konparu, una chica que puede poner a cualquiera a dormir como una «manta» en un sueño. Cuando la senpai de Hitsuji, Ran Aizome, ve potencial en Saya, termina uniéndose a ellas y a su grupo de Caminantes Durmientes. Resulta que, sin que los ciudadanos comunes de su ciudad lo sepan, se ha estado desarrollando una batalla entre los Suiju, seres que poseen los espíritus de las personas en la tierra del sueño, y los Caminantes Durmientes, que tienen el poder de moverse libremente en sus sueños.
 
-En marzo, justo antes de ingresar a la preparatoria, Kousuke decide encontrarse por primera vez con una amiga con la que llevaba varios años jugando en línea.
+Durmiendo juntas, como un equipo, Saya y su nuevo grupo están haciendo un buen trabajo cazando a los Suiju. Es decir, hasta que llega una oscuridad inesperada …
 
-Aunque siente una fuerte atracción por la chica que aparece en el punto de encuentro, Shiki, hay algo que le resulta extraño: La impresión que se había formado de ella no coincide del todo con la chica que tiene delante. Kousuke pasa felizmente el final de la primavera junto a Shiki, quien le pide que la llame "Haru". Sin embargo, en junio, al llegar el comienzo del verano, ella aparece ante Kousuke con una personalidad y una apariencia completamente diferentes, y le dice:
-
-"Nosotras, o mejor dicho, Shiki... tenemos múltiples personalidades".
-
-La chica, que se hace llamar "Natsu", le cuenta que dentro de ella existen cuatro personalidades, cada una con el nombre de una de las cuatro estaciones.
-
-Esta es una historia de amor juvenil y puro que narra los tres meses de romance que Kousuke vive con ellas, mientras sus personalidades cambian al ritmo de las estaciones.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/16QAEBDUCJJGRZit6O1M_-g" type="text/html" title="Tamashi's Project"/>
+¿Podrán las chicas defender el sueño de la humanidad?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1GNL5CLFhhTcsxQUDLf7r9Q" type="text/html" title="MiraiK"/>
 </entry>
 </feed>

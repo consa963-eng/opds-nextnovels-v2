@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Higashiyama Akira</id>
-<title>Higashiyama Akira</title>
-<updated>2026-10-21T00:13:50.609761+00:00</updated>
+<id>nextnovels:autores:Hideyuki Kikuchi</id>
+<title>Hideyuki Kikuchi</title>
+<updated>2026-10-25T03:42:53.585049+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-238.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Naruto: Kakashi Hiden Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-naruto-kakashi-hiden-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-naruto-kakashi-hiden-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/11/Naruto-Kakashi-Hiden-Portada.webp"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/11/Naruto-Kakashi-Hiden-Portada.webp"/>
-<author><name>Higashiyama Akira</name></author>
+<title>Vampire Hunter D Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-vampire-hunter-d-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-vampire-hunter-d-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/11/Vampire-Hunter-D-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/11/Vampire-Hunter-D-Portada.jpg"/>
+<author><name>Hideyuki Kikuchi</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
 <category term="Drama" label="Drama"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Shounen" label="Shounen"/>
-<content type="text">Privado del sharingan y a punto de convertirse en sexto hokage, Kakashi emprende una última misión: escoltar el viaje inaugural del primer globo aerostático jamás construido. Tendrá que enfrentarse a un grupo de ninjas terroristas que secuestran la nave y amenazan la vida de los pasajeros.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/13v7Z-HesgJECBX_2EPAdHw" type="text/html" title="Mi Castillo de Arena"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1-mKZbGFj8S4R6zjDek7j2w" type="text/html" title="Mettis123"/>
+<category term="Fantasía Oscura" label="Fantasía Oscura"/>
+<category term="Horror" label="Horror"/>
+<category term="Romance" label="Romance"/>
+<content type="text">12.090 d.C. Es una época oscura para el mundo. La humanidad acaba de salir a rastras de trescientos años de dominación por parte de la raza de vampiros conocida como la Nobleza. La guerra contra los vampiros ha hecho estragos; las ciudades yacen en ruinas, el campo está fragmentado en pequeñas aldeas y feudos que siguen luchando contra las incursiones nocturnas de los vampiros caídos y los restos de sus demonios y hombres lobo fabricados genéticamente. Todos los pueblos quieren un Cazador, uno de los guerreros que han comprometido sus pistolas láser y sus espadas a erradicar a la Nobleza. Pero algunos Cazadores son mejores que otros, y algunos traen consigo su propio tipo de peligro...</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/15lcQcHTKKFLiYNPrTiWZww" type="text/html" title="Novel Project"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/11-lQd890og_8Vlfo6BE9dA" type="text/html" title="Next Novels (MTL)"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/10RrIBm60LUCcIfionlSRiA" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 </feed>

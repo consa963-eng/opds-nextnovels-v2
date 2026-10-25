@@ -1,25 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kumo Kagyu</id>
-<title>Kumo Kagyu</title>
-<updated>2026-10-21T00:13:50.651291+00:00</updated>
+<id>nextnovels:autores:Kujou Ren</id>
+<title>Kujou Ren</title>
+<updated>2026-10-25T03:42:53.753469+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-491.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Moscow 2160 Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-moscow-2160-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-moscow-2160-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/Moscow-2160-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/06/Moscow-2160-Portada.jpg"/>
-<author><name>Kumo Kagyu</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
+<title>Today, the Honor Student Died Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-today-the-honor-student-died-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-today-the-honor-student-died-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/Today-the-Honor-Student-Died-Portada.jpeg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/03/Today-the-Honor-Student-Died-Portada.jpeg"/>
+<author><name>Kujou Ren</name></author>
 <category term="Drama" label="Drama"/>
-<category term="Psicológico" label="Psicológico"/>
-<content type="text">Buscar comida o morir de hambre. Luchar o congelarse. Matar o ser asesinado.
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Shoujo" label="Shoujo"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Miharu Tonose siempre se esforzaba por caer bien a todo el mundo: seguía el juego a sus amigos y profesores, y desempeñaba el papel de la estudiante modelo perfecta. Pero justo cuando empieza su segundo año de instituto, se convierte en víctima de acoso escolar. Atónita e indefensa en un parque con sus libros de texto destrozados, tiene un encuentro inesperado con Aoto Mikami, un compañero de clase del que se rumorea que es un delincuente juvenil.
 
-Es el año 2160, y la Guerra Fría sigue en pleno apogeo entre EE. UU. y la URSS, sin un final a la vista. En Moscú, la libertad, la verdad y la prosperidad desaparecieron hace mucho tiempo. Niños abandonados, hambrientos y tiritando de frío luchan por sobrevivir. Soldados cyborgs impredecibles regresan de la guerra enojados y armados. Las autoridades gubernamentales vigilan a todos a través de las redes cibernéticas mientras transmiten noticias sobre supuestas victorias en el extranjero. En la batalla entre bastidores, el KGB, los espías del bloque occidental y la mafia se persiguen unos a otros. Danila Kragin es una pieza en su conflicto: un mercenario y un activo desechable llamado «Janitor». Luchando como todos los demás, hará cualquier trabajo por un precio, y ni siquiera en medio de una lluvia de balas se dará por vencido. Pase lo que pase, debe llegar a casa, por su amada Stasia y por sus hermanos menores, quienes esperan su regreso a salvo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1qIB0sor-0gyyYdfw7h9h8A" type="text/html" title="Next Novels (MTL)"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1HZVQ6IJWdVAmlWgX9Je0nw" type="text/html" title="Next Novels (MTL)"/>
+A partir de ese momento, mientras su aislamiento en el instituto se agrava, su vínculo con Aoto comienza a crecer. A medida que Miharu se adentra en un mundo nuevo y experimenta sentimientos que nunca había conocido —el amor, la dependencia—, poco a poco empieza a redescubrirse a sí misma.
+
+¿Qué respuesta encuentra Miharu tras perder de vista quién es realmente?
+
+Una conmovedora y emotiva historia de amor y madurez que te conmoverá hasta las lágrimas.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1_aHfK5gRm9TTVyHeBGvPDQ" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 </feed>

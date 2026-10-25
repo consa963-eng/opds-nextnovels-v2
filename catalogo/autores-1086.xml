@@ -1,19 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Youko Kagura</id>
-<title>Youko Kagura</title>
-<updated>2026-10-21T00:13:50.752343+00:00</updated>
+<id>nextnovels:autores:Yoshino Origuchi</id>
+<title>Yoshino Origuchi</title>
+<updated>2026-10-25T03:42:53.885215+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1086.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Onee-san Will Examine You Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-onee-san-will-examine-you-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-onee-san-will-examine-you-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Onee-san-Will-Examine-You-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/08/Onee-san-Will-Examine-You-Portada.jpg"/>
-<author><name>Youko Kagura</name></author>
+<title>Monster Girl Doctor Novela Ligera en Español</title>
+<id>https://nextnovels.com/monster-girl-doctor-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/monster-girl-doctor-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/02/Monster-Musume-no-Oisha-san-Portada-e1645212491277.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/02/Monster-Musume-no-Oisha-san-Portada-e1645212491277.jpg"/>
+<author><name>Yoshino Origuchi</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
 <category term="Harem" label="Harem"/>
-<category term="Hentai" label="Hentai"/>
-<content type="text">Satoru, un chico de constitución débil, ingresa en la sala E. Allí le esperaban cuatro hermanas enfermeras vestidas con leotardos. El atrevido servicio que estas bellezas mayores prestan más allá del ámbito de los cuidados devotos hace que la mente y el cuerpo del chico caigan víctimas de la enfermedad del deseo carnal.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1_AMc0TWGt5mg6hYYzBq57w" type="text/html" title="Defous123"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<content type="text">En la ciudad de Lindworm, donde coexisten monstruos y humanos, el Dr. Glenn dirige una clínica médica ejemplar para chicas monstruo con su ayudante lamia, Sapphee.
+
+Ya sea recibiendo la propuesta de matrimonio de un centauro herido en batalla, palpando la herida de una sirena o suturando las delicadas heridas de un gólem de carne, el Dr. Glenn realiza su trabajo con gracia y confianza.
+
+Pero cuando un personaje desagradable pretende robar un huevo de arpía, ¿cómo responderá el imperturbable Dr. Glenn...?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1N2zRQ4vJ5dn4ehmfBXaf2Q" type="text/html" title="MiraiK y 00"/>
+</entry>
+<entry>
+<title>Monster Musume The Novel Novela Ligera en Español</title>
+<id>https://nextnovels.com/monster-musume-the-novel-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/monster-musume-the-novel-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/01/01-1-e1641829092837.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/01/01-1-e1641829092837.jpg"/>
+<author><name>Yoshino Origuchi</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
+<content type="text">Un nuevo spin-off de la exitosa serie Monster Musume.
+
+El veinteañero Kurusu Kimihito pensaba que vivir con un grupo de chicas monstruosas ya era bastante complicado, pero hay una nueva directiva enviada por el gobierno: ¡consigue un trabajo!
+
+Ahora, la lamia Miia, la centauro Centoria y todas tus chicas monstruo favoritas tienen que incorporarse al mundo laboral, lo que les llevará a vestirse con sexys uniformes, a hacer travesuras en el trabajo y a vivir una nueva experiencia que satisfará a cualquier fan de la serie..
+
+Escrito por la autora de las novelas ligeras Monster Girl Doctor, Yoshino Origuchi, y con ilustraciones totalmente nuevas del creador de la serie OKAYADO, este libro presenta a las chicas monstruo favoritas de todos en una nueva aventura de novela ligera.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1MKVRSA30pQxil2Ze-W4NoQ" type="text/html" title="MiraiK - Novelas Ligeras y más"/>
 </entry>
 </feed>

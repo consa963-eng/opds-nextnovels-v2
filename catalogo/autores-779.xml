@@ -1,20 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Sai Sumimori</id>
-<title>Sai Sumimori</title>
-<updated>2026-10-21T00:13:50.698001+00:00</updated>
+<id>nextnovels:autores:Saeki-san</id>
+<title>Saeki-san</title>
+<updated>2026-10-25T03:42:53.816339+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-779.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Around 40 Eigyou-man, Isekai ni Tatsu! Novela Ligera en Español</title>
-<id>https://nextnovels.com/around-40-eigyou-man-isekai-ni-tatsu-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/around-40-eigyou-man-isekai-ni-tatsu-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/09/01-61.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/09/01-61.jpg"/>
-<author><name>Sai Sumimori</name></author>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Magia" label="Magia"/>
+<title>The Angel Next Door Spoils Me Rotten Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-angel-next-door-spoils-me-rotten-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-angel-next-door-spoils-me-rotten-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/06/Otonari-no-tenshi-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/06/Otonari-no-tenshi-Portada.jpg"/>
+<author><name>Saeki-san</name></author>
+<category term="Comedia" label="Comedia"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<content type="text">Onigawara Shouzou pasa sus días trabajando en un trabajo pesado en una empresa de TI, pero su vida cambia cuando, en una noche lluviosa, conoce a una diosa llamada Silvia, y eso no es una exageración, ¡es una verdadera diosa! Esa noche, ella se queda en el apartamento de Shouzou, y su creciente atracción mutua se hace más evidente a medida que avanza la noche ... Los siguientes 13 años de la vida de Shouzou pasan en un instante, y él no podría estar más feliz con su nuevo trabajo, bella esposa Silvia, tres hijas, y casa nueva. ¡Pero debido a algunas circunstancias desafortunadas, su casa y todos en ella son transportados a otro mundo lleno de magia y monstruos! Después de descubrir que no pueden regresar a su mundo durante al menos un año, Shouzou decide que debe apoyar a su familia de la única manera que sabe: ¡uniéndose al departamento de ventas de un gremio local!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1wonV8B2Koef_ykjfUT-VlA" type="text/html" title="Novel Project"/>
+<category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">La vecina de Amane Fujimiya, en el apartamento en el que vive, es el ángel adorable número uno de la escuela: Excelente y con un nivel de belleza que sólo puede describirse como angelical: Mahiru Shiina. Amane, un estudiante normal y corriente que no destaca, es su vecino, pero hasta ahora no se relacionaban. Después de conocer al ángel empapado en la lluvia:
+
+"Te devuelvo lo que me has prestado. Por cierto, limpia tu habitación. Está sucia".
+
+"No es asunto tuyo".
+
+La relación con un ángel de lengua afilada comienza con la entrega de un paraguas. Desde coger un resfriado y que alguien te cuide, hasta hacer una comida a alguien porque descuidó su salud, pasando por el trabajo conjunto (limpieza de habitaciones)...</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/13O7fced5V2gqzm74vl7ZAA" type="text/html" title="Underword Liella Novels"/>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1MDp_OKQtF3OyQavvKg1pUg" type="text/html" title="World Project"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Swczr1EYbvRPWfdhfZ-BrQ" type="text/html" title="Onigiri"/>
+<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1NbLdS-UZRJJUrg4cMJy-wg" type="text/html" title="Cafuné Translation"/>
 </entry>
 </feed>

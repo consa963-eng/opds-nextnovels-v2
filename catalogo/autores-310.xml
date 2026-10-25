@@ -1,21 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Ise Katsura</id>
-<title>Ise Katsura</title>
-<updated>2026-10-21T00:13:50.621283+00:00</updated>
+<id>nextnovels:autores:Irori Fuyutsuki</id>
+<title>Irori Fuyutsuki</title>
+<updated>2026-10-25T03:42:53.600751+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-310.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Onani Master Kurosawa – After the Juvenile Novela Ligera en Español</title>
-<id>https://nextnovels.com/onani-master-kurosawa-after-the-juvenile-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/onani-master-kurosawa-after-the-juvenile-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/08/Onani-Master-Kurosawa-%E2%80%93-After-the-Juvenile-Portada0.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/08/Onani-Master-Kurosawa-%E2%80%93-After-the-Juvenile-Portada0.jpg"/>
-<author><name>Ise Katsura</name></author>
-<category term="Drama" label="Drama"/>
+<title>Experiencing a Year’s Worth of Love With you Through the Changing Seasons Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-experiencing-a-years-worth-of-love-with-you-through-the-changing-seasons-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-experiencing-a-years-worth-of-love-with-you-through-the-changing-seasons-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/Experiencing-a-Years-Worth-of-Love-With-you-Through-the-Changing-Seasons-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/09/Experiencing-a-Years-Worth-of-Love-With-you-Through-the-Changing-Seasons-Portada.jpg"/>
+<author><name>Irori Fuyutsuki</name></author>
+<category term="Comedia" label="Comedia"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Tiene lugar dos años después del viaje escolar que hicieron en secundaria. Es una secuela del Manga del mismo nombre.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxlink.com/s/1up2BcQLKLo4L3aCjiEUliw" type="text/html" title="Ikebukuro no Translations"/>
+<content type="text">El límite de tiempo de una estación que nos fue concedido a "ti" y a mí.
+
+En marzo, justo antes de ingresar a la preparatoria, Kousuke decide encontrarse por primera vez con una amiga con la que llevaba varios años jugando en línea.
+
+Aunque siente una fuerte atracción por la chica que aparece en el punto de encuentro, Shiki, hay algo que le resulta extraño: La impresión que se había formado de ella no coincide del todo con la chica que tiene delante. Kousuke pasa felizmente el final de la primavera junto a Shiki, quien le pide que la llame "Haru". Sin embargo, en junio, al llegar el comienzo del verano, ella aparece ante Kousuke con una personalidad y una apariencia completamente diferentes, y le dice:
+
+"Nosotras, o mejor dicho, Shiki... tenemos múltiples personalidades".
+
+La chica, que se hace llamar "Natsu", le cuenta que dentro de ella existen cuatro personalidades, cada una con el nombre de una de las cuatro estaciones.
+
+Esta es una historia de amor juvenil y puro que narra los tres meses de romance que Kousuke vive con ellas, mientras sus personalidades cambian al ritmo de las estaciones.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/16QAEBDUCJJGRZit6O1M_-g" type="text/html" title="Tamashi's Project"/>
 </entry>
 </feed>

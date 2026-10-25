@@ -1,36 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Batoru Hamabe</id>
-<title>Batoru Hamabe</title>
-<updated>2026-10-21T00:13:50.588448+00:00</updated>
+<id>nextnovels:autores:Basil Mori</id>
+<title>Basil Mori</title>
+<updated>2026-10-25T03:42:53.557179+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-110.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Hanayome wo Ryakudatsu Sareta Ore wa, Tada Heion ni Kurashitai Novela Ligera en Español</title>
-<id>https://nextnovels.com/hanayome-wo-ryakudatsu-sareta-ore-wa-tada-heion-ni-kurashitai-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/hanayome-wo-ryakudatsu-sareta-ore-wa-tada-heion-ni-kurashitai-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/03/Hanayome-wo-Ryakudatsu-Sareta-Ore-wa-Tada-Heion-ni-Kurashitai-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/03/Hanayome-wo-Ryakudatsu-Sareta-Ore-wa-Tada-Heion-ni-Kurashitai-Portada.jpg"/>
-<author><name>Batoru Hamabe</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<content type="text">"¡Detengan la boda!"
+<title>1/2 Dual: Crying in Perfect Red Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-1-2-dual-crying-in-perfect-red-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-1-2-dual-crying-in-perfect-red-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/07/1-2-Dual-Crying-in-Perfect-Red-Portada.jpeg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/07/1-2-Dual-Crying-in-Perfect-Red-Portada.jpeg"/>
+<author><name>Basil Mori</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Drama" label="Drama"/>
+<content type="text">«Matar o salvar» ¡Comienza una acción heroica que conmoverá el corazón!
 
-Un hombre irrumpe en la ceremonia de matrimonio, secuestra a la novia y se va con ella con elegancia. Mirando atónito, el novio abandonado, Arata Ichinose, observa como si fuera una escena de película.
-
-El matrimonio político que unía las empresas de los padres se desmorona, llevándose consigo su trabajo y todo lo demás.
-
-Arata, quien lo ha perdido todo, recibe la visita de Nene, la hermana menor de su ex novia y estudiante de preparatoria.
-
-"Buenos días, Onii-san. Te traje un bento”.
-
-Con estas palabras, Nene lo visita todas las mañanas con un almuerzo casero, mimándolo al máximo.
-
-"Es mi turno Onii-san. Te consolaré nuevamente mañana ¿Sí?"
-
-Sin darse cuenta, Arata se encuentra inmerso en una vida tranquila con su ex cuñada y estudiante de preparatoria.
-
-Una comedia romántica pura y llena de amor, protagonizada por una chica gyaru pura y dulce y un joven adulto.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1If1Y9evNvaKlip5k2g2G_A" type="text/html" title="Tamashi's Project"/>
+Un Japón en un futuro próximo donde se produzca un fenómeno de este tipo, donde «una persona asesinada vuelva a la vida». A cambio de perder una parte de su humanidad, ganaron poderes especiales y volvieron a la vida y fueron llamados «wannabes» y fueron temidos. Un día, «Kirika», un joven que es asignado para matar a los wannabes, es presentado a un nuevo compañero. Sin embargo, el que llega es «Ban», una chica que ha perdido la «muerte» y se ha vuelto inmortal. «Quiero morir… ese es mi único deseo.» Una chica inmortal que quiere morir y un chico que no puede ser devuelto a la vida. Dos personas que no deberían estar en desacuerdo entre sí. En ese momento, se produce un ataque terrorista con el tema de la «Unidad Nacional de los Wannabes», y estos dos opuestos se encuentran con su destino en el campo de batalla!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1HkkbnCX9H0HnmRvgVgvr2Q" type="text/html" title="Defous123"/>
 </entry>
 </feed>

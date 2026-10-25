@@ -1,28 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Shiraishi Arata</id>
-<title>Shiraishi Arata</title>
-<updated>2026-10-21T00:13:50.711575+00:00</updated>
+<id>nextnovels:autores:Shiotarou Yamaga</id>
+<title>Shiotarou Yamaga</title>
+<updated>2026-10-25T03:42:53.834284+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-860.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Rakudai Kenja no Gakuin Musou Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-rakudai-kenja-no-gakuin-musou-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-rakudai-kenja-no-gakuin-musou-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/05/Rakudai-Kenja-no-Gakuin-Musou-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/05/Rakudai-Kenja-no-Gakuin-Musou-Portada.jpg"/>
-<author><name>Shiraishi Arata</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
+<title>Kanpeki na Sako-san wa Mobu (Boku) Mitai ni Naritai Novela Ligera en Español</title>
+<id>https://nextnovels.com/kanpeki-na-sako-san-wa-mobu-boku-mitai-ni-naritai-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/kanpeki-na-sako-san-wa-mobu-boku-mitai-ni-naritai-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/05/Kanpeki-na-Sako-san-wa-Mobu-Boku-Mitai-ni-Naritai-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/05/Kanpeki-na-Sako-san-wa-Mobu-Boku-Mitai-ni-Naritai-Portada.jpg"/>
+<author><name>Shiotarou Yamaga</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Después de reencarnarse en un mundo diferente, el gran sabio Ephthal pasó toda su vida investigando magia. Sin embargo, el que había intentado alcanzar la cumbre de la magia, conocía los límites de su talento y cayó en la desesperación, cerrando así el telón de su vida.
+<content type="text">Sako Machika es perfecta y sin defectos. Está en lo más alto del curso con sus excelentes notas y tiene una cara mona que hace que todo el mundo la mire dos veces. Sobresaliente en su club, hábil en las tareas domésticas y en los quehaceres, es el blanco de la admiración de todos los chicos.
 
-Sin embargo, 400 años después, se reencarnó por segunda vez y se inscribió en una academia de magia utilizando la brujería y el conocimiento que adquirió de su vida anterior. ¡Como para burlarse del estado de la magia que había estado en declive durante los últimos 400 años, fácilmente invoca la magia de clase legendaria!
+"Me... gustas".
 
-Con un poder abrumador, el mundo entero se arrodillará ante él.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1fDEauI8vYy65QVAfVDqfUA" type="text/html" title="Domen Translations/GambaTrans"/>
+Espera, ¡¿Sako-san se me confesó?! Pero... no soy más que un don nadie, ¡no somos un buen partido el uno para el otro! Sin embargo, de la nada...
+
+"Es un corte de pelo chapucero, ¿verdad?"
+
+"Me estuviste mirando los muslos todo el tiempo."
+
+De repente se cortaba su larga y bonita melena, se acortaba la falda, mostraba un aspecto imperfecto mientras se acercaba implacablemente a mí...
+
+"Mientras no sea perfecta, tengo una oportunidad, ¿no?".
+
+¡¿Todo es un intento de hacernos parecer un mejor partido?!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1Z4oBeHKBH1_d7rIWHbAZ0g" type="text/html" title="Domen Translations"/>
+</entry>
+<entry>
+<title>Please Stop Fighting Over Me! Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-please-stop-fighting-over-me-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-please-stop-fighting-over-me-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/Please-Stop-Fighting-Over-Me-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/02/Please-Stop-Fighting-Over-Me-Portada.jpg"/>
+<author><name>Shiotarou Yamaga</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Shoujo Ai" label="Shoujo Ai"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<category term="Yuri" label="Yuri"/>
+<content type="text">"¡Estoy atrapada entre la carismática gyaru de ciudad y la elegante y adorable belleza de Kioto...! ¡No tengo ni idea de como paso esto!
+
+Yo, Kurimoto Tsubame, que me mudé desde el campo a la ciudad, ahora estoy, por alguna razón, siendo presionada, practicamente acosada por por dos chicas hermosas.
+
+¡Oigan ya basta, no toquen ahi, no se me peguen tanto!
+
+—¿Por qué terminó así?...
+
+Solo quería que Seira-chan y Orine-san, que son como el perro y el mono, se reconciliaran...</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1XYik-Bv9lQmop2Tkv0x8hw" type="text/html" title="Kyūden Translation"/>
 </entry>
 </feed>

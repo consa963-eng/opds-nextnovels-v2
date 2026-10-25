@@ -1,33 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Komiyaji Chiji</id>
-<title>Komiyaji Chiji</title>
-<updated>2026-10-21T00:13:50.646181+00:00</updated>
+<id>nextnovels:autores:Koiru</id>
+<title>Koiru</title>
+<updated>2026-10-25T03:42:53.746188+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-460.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>When I Said, “I Want a Beautiful and Rich Girlfriend,” a Girl with Circumstances Showed Up Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-when-i-said-i-want-a-beautiful-and-rich-girlfriend-a-girl-with-circumstances-showed-up-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-when-i-said-i-want-a-beautiful-and-rich-girlfriend-a-girl-with-circumstances-showed-up-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/When-I-Said-I-Want-a-Beautiful-and-Rich-Girlfriend-a-Girl-with-Circumstances-Showed-Up-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/02/When-I-Said-I-Want-a-Beautiful-and-Rich-Girlfriend-a-Girl-with-Circumstances-Showed-Up-Portada.jpg"/>
-<author><name>Komiyaji Chiji</name></author>
-<category term="Adulto" label="Adulto"/>
+<title>She’s Usually a Serious Class Representative, but Can She Be Your Girlfriend? Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-shes-usually-a-serious-class-representative-but-can-she-be-your-girlfriend-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-shes-usually-a-serious-class-representative-but-can-she-be-your-girlfriend-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/10/Shes-Usually-a-Serious-Class-Representative-but-Can-She-Be-Your-Girlfriend-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/10/Shes-Usually-a-Serious-Class-Representative-but-Can-She-Be-Your-Girlfriend-Portada.jpg"/>
+<author><name>Koiru</name></author>
 <category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Maduro" label="Maduro"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">"Ser simplemente hermosa no supone amor".
+<content type="text">Akito Tsujio es un estudiante de preparatoria común y corriente, pero guarda un secreto: trabaja a tiempo parcial repartiendo comida en el barrio, algo que sus compañeros desconocen. Un día, se topa con un borracho que acosa a una chica elegante e interviene para ayudar. Para su sorpresa, la chica disfrazada resulta ser Sara Yoshino, la mejor alumna de su clase, conocida por su comportamiento impecable.
 
-Esta es una comedia romántica adolescente ligeramente madura que cuestiona el significado de enamorarse.
-
-Shino Iori (virgen), un estudiante universitario de Fukuoka, se compromete con Tendou Tsukasa, una conocida celebridad del campus, por un comentario involuntario que hizo a su familia.
-
-Ella es una belleza y rica. Sin embargo, Iori se siente desanimado por su prometida, de la que se rumorea que "se acuesta con cualquiera", y Tsukasa se le insinúa agresivamente... ¿hacia dónde irá su futuro?
-
-¡¡¡Este es el comienzo de una comedia romántica "ligeramente madura" de género ruptura-noviazgo que cuestiona el significado del enamoramiento!!!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1hSCijg0rIyhTNFsdLJ4DAA" type="text/html" title="Tamashi's Project"/>
+Sara carga con un gran peso. Debido a sus circunstancias, no puede permitirse el lujo de que su fachada perfecta se resquebraje en la escuela. Sin embargo, en el fondo, anhela ser ella misma. Dividida entre estos deseos contradictorios, le hace una petición sorprendente a Akito: "¿Podrías... corromperme de vez en cuando, después de clases?". Así comienza una relación clandestina entre ellos, un secreto compartido oculto entre los pasillos de su escuela y las calles iluminadas con neón de su trabajo extraescolar.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1mg8QgfNkRLUVJ57TVK6BXA" type="text/html" title="Ichijou Translations"/>
 </entry>
 </feed>

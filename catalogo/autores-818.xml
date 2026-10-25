@@ -1,25 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Satsuki Nakamura</id>
-<title>Satsuki Nakamura</title>
-<updated>2026-10-21T00:13:50.704609+00:00</updated>
+<id>nextnovels:autores:Satou</id>
+<title>Satou</title>
+<updated>2026-10-25T03:42:53.825330+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-818.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Though I Am an Inept Villainess Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-though-i-am-an-inept-villainess-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-though-i-am-an-inept-villainess-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/Though-I-Am-an-Inept-Villainess-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/05/Though-I-Am-an-Inept-Villainess-Portada.jpg"/>
-<author><name>Satsuki Nakamura</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
+<title>The Path of an S-Rank Adventurer Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-path-of-an-s-rank-adventurer-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-path-of-an-s-rank-adventurer-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/The-Path-of-an-S-Rank-Adventurer-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/10/The-Path-of-an-S-Rank-Adventurer-Portada.jpg"/>
+<author><name>Satou</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Romance" label="Romance"/>
-<category term="Shoujo" label="Shoujo"/>
-<content type="text">La "Corte de los Polluelos" del Reino de Ei, donde cinco clanes presentan a sus doncellas como consortes imperiales, es el escenario de una competencia feroz: solo una será coronada emperatriz. Justo cuando la frágil y hermosa "mariposa de la corte", Kou Reirin, parece estar a punto de casarse con el príncipe heredero, ¡la envidiosa "rata de la corte", Shu Keigetsu, le roba su cuerpo!
+<category term="Harem" label="Harem"/>
+<content type="text">En un mundo donde el 40 % de la humanidad despierta con habilidades únicas.
 
-Reirin despierta en las mazmorras como la conspiradora y la situación parece nefasta... ¿o tal vez no? ¡Ahora que tiene un cuerpo nuevo y robusto, ni siquiera la inminente amenaza de ejecución podrá detenerla!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1rRG1Kfsvq4F6wfYc9jdxNw" type="text/html" title="Nero Translations"/>
+Las bestias mágicas y las mazmorras están por todas partes, lo que convierte a la profesión de aventurero en uno de los caminos más lucrativos. Sasha, la líder del equipo Sacred, estaba a punto de ser ascendida a aventurera de rango S. Ese mismo día, también se confirmó que otra persona había alcanzado el rango S: un chico llamado Hyse.
+
+Hyse fue miembro de Sacred, un aventurero de rango F que fue expulsado del equipo por Sasha. Hyse, quien poseía una habilidad inusual, luchaba por comprender su naturaleza. Incomprendido y abandonado por su amiga de la infancia, Sasha, fue expulsado del equipo con el pretexto de que «Hyse no podía seguir el ritmo».
+
+La verdadera razón detrás de su expulsión era el deseo de Sasha de protegerlo: no quería que Hyse muriera durante una aventura. Sin embargo, Hyse se negó a rendirse. Incluso solo, trabajó incansablemente para continuar su camino como aventurero.
+
+Un día, Sasha engañó a Hyse para que se adentrara en un bosque habitado por un dragón, donde estuvo a punto de morir. Traicionado por la confianza que había depositado en Sasha, Hyse juró no volver a creer en ella jamás y se propuso volverse más fuerte como aventurero solitario. A los 16 años, tanto Hyse como Sasha fueron reconocidos como aventureros de rango S. Hyse buscaba convertirse en el aventurero más fuerte en solitario, mientras que Sasha aspiraba a ser la mejor junto a sus compañeros.
+
+Esta es la historia de dos amigos de la infancia que alguna vez recorrieron el mismo camino, pero que se separaron para emprender trayectorias distintas, caminos que tal vez algún día vuelvan a cruzarse.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1KxRuMpMho0KawNktWeKCsA" type="text/html" title="Gladheim Translations"/>
 </entry>
 </feed>

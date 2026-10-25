@@ -1,35 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Ougon no Kuroyagi</id>
-<title>Ougon no Kuroyagi</title>
-<updated>2026-10-21T00:13:50.689740+00:00</updated>
+<id>nextnovels:autores:Otonashi Kanade</id>
+<title>Otonashi Kanade</title>
+<updated>2026-10-25T03:42:53.805305+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-728.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>The Adventure of a Rune Master Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-adventure-of-a-rune-master-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-adventure-of-a-rune-master-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/01/The-Adventure-of-a-Rune-Master-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/01/The-Adventure-of-a-Rune-Master-Portada.jpg"/>
-<author><name>Ougon no Kuroyagi</name></author>
+<title>Neta Chara Tensei Toka Anmari da! Novela Ligera en Español</title>
+<id>https://nextnovels.com/neta-chara-tensei-toka-anmari-da-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/neta-chara-tensei-toka-anmari-da-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/11/01-19.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/11/01-19.jpg"/>
+<author><name>Otonashi Kanade</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Adulto" label="Adulto"/>
 <category term="Aventura" label="Aventura"/>
-<category term="Drama" label="Drama"/>
-<category term="Ecchi" label="Ecchi"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Romance" label="Romance"/>
-<content type="text">"Te pagaré con mi cuerpo, ¿es un buen contrato?"
-
-¡Comienza una fantasía erótica intensa entretejida con runas!
-
-Akimitsu Tsukasa fue invocado a otro mundo junto con sus compañeros de clase, pero tras ser traicionado por un amigo que creía su mejor amigo, se quedó vagando solo en un mundo desconocido.
-
-Tsukasa terminó en Aiguille, hogar de la raza de los "demonios" con cuernos, y dependió únicamente de la gracia (don) que recibió al invocar —una forma anticuada de magia llamada "injutsu"— para vivir como un "mercenario libre", enfrentándose constantemente a la muerte.
-
-Un día, su amiga de la infancia, Matsuzaka Mihono, lo visita repentinamente y le pide que "salve a su hermana menor, Shihono". ¿Qué condición le pondrá a Mihono?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1BgHD-lrVAdAx882jAtzU4g" type="text/html" title="Ichijou Translations"/>
+<category term="Gender Bender" label="Gender Bender"/>
+<category term="Shoujo Ai" label="Shoujo Ai"/>
+<category term="Yuri" label="Yuri"/>
+<content type="text">Toru Aikawa es un estudiante universitario que pasa sus días asistiendo a clases y trabajando en una tienda local. El único momento en el que se siente realmente vivo es cuando juega al VR Real World Online. Un día, tiene un golpe de suerte: es atropellado por un autobús fuera de control y se reencarna en su personaje del juego. Pero algo ha salido mal… En lugar del guerrero invencible que es su personaje principal, se encuentra en el cuerpo de Nacht Schatten, la seductora princesa dragón que creó como una broma. El cuerpo de Nacht está todo menos optimizado: ¡nunca sobreviviría en el despiadado mundo de una historia isekai! Y lo que es más, ¡es una chica! Pero quizás las cosas no sean tan malas como aparentan serlo. Quizá Nacht Schatten sea más capaz de lo que parece.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1PEG14g8ZSCF9-FbXXD0uwQ" type="text/html" title="Ferindrad"/>
 </entry>
 </feed>

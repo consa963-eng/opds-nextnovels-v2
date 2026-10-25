@@ -1,42 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Hirukuma</id>
-<title>Hirukuma</title>
-<updated>2026-10-21T00:13:50.614404+00:00</updated>
+<id>nextnovels:autores:Hiroyuki Kagami</id>
+<title>Hiroyuki Kagami</title>
+<updated>2026-10-25T03:42:53.591352+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-268.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Ano Orokamono ni mo Kyakkou wo! Novela Ligera en Español</title>
-<id>https://nextnovels.com/ano-orokamono-ni-mo-kyakkou-wo-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/ano-orokamono-ni-mo-kyakkou-wo-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/01/01-15.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/01/01-15.jpg"/>
-<author><name>Hirukuma</name></author>
-<category term="Aventura" label="Aventura"/>
+<title>Kou 1 Desu ga Isekai de Joushu Hajimemashita Novela Ligera en Español</title>
+<id>https://nextnovels.com/kou-1-desu-ga-isekai-de-joushu-hajimemashita-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/kou-1-desu-ga-isekai-de-joushu-hajimemashita-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/04/Kou-1-Desu-ga-Isekai-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/04/Kou-1-Desu-ga-Isekai-Portada.jpg"/>
+<author><name>Hiroyuki Kagami</name></author>
 <category term="Comedia" label="Comedia"/>
 <category term="Ecchi" label="Ecchi"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Shounen" label="Shounen"/>
-<content type="text">Un spin-off de KonoSuba con Dust como protagonista principal, que tiene lugar alrededor de los volúmenes 1-4 de la serie principal.
-
-"¡Sin dinero, no hay mujeres!" El (autoproclamado) porte de Axel, el delincuente Dust, sufre de un caso crónico de cartera vacía. Mientras que el aventurero novato Kazuma continúa haciéndose un nombre -, Dust está ocupado en estafar a la gente, vender productos robados, estafar a las damas nobles, y cosas por el estilo. "¡Hagamos algo de dinero hoy también! Mientras lo hacía, el gran diablo Vanir le dijo una profecía siniestra: "Tienes un futuro interesante por delante".</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1oK22Y1BN0Tclsk2fKuhbhw" type="text/html" title="Ferindrad"/>
-</entry>
-<entry>
-<title>Kono Subarashii Sekai ni Shukufuku wo! Fantastic Days Novela Ligera en Español</title>
-<id>https://nextnovels.com/kono-subarashii-sekai-ni-shukufuku-wo-fantastic-days-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/kono-subarashii-sekai-ni-shukufuku-wo-fantastic-days-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/10/Konosuba-Fantastic-Days-scaled.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/10/Konosuba-Fantastic-Days-scaled.jpg"/>
-<author><name>Hirukuma</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
 <category term="Romance" label="Romance"/>
-<content type="text">"¡Sin descanso para este HIKINEET!
-
-¿Sigues hambriento de la locura de Konosuba después de haber devorado las desventuras de Kazuma, Aqua, Darkness y Megumin? ¡Pues tienes suerte! Esta novela basada en el popular juego móvil, Konosuba: Fantastic Days, incluye una nueva misión, con tres nuevos aventureros, ¡y solo puedes leerla aquí! Descubre qué sucede cuando Kazuma y su pandilla, acompañados por un grupo de aspirantes a bailarines, se encuentran con un antiguo general casi del Rey Demonio... ¡Para el coleccionista ávido de contenido de Konosuba, esta no es una que debas perderte!"</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1vBVFi_EtdwqxRPf8fnXrKA" type="text/html" title="Ferindrad"/>
+<category term="Sobrenatural" label="Sobrenatural"/>
+<content type="text">Accidentalmente convocado por un antiguo mapa, un estudiante de primer año de secundaria, Kiyokawa Hiroto es obligado por el arrogante Señor del castillo a exterminar al vampiro que ha estado acechando su castillo. Haciendo amistad inesperadamente con una chica de la tribu de las momias, Hiroto se las arregló hábilmente para capturar al vampiro con su ayuda. Sin embargo, pronto es incriminado por el Señor del castillo. Con valentía y amabilidad para ser un Lord, ¡comienza la fantasía de ser convocado a otro mundo!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1w0wLwqAgfd34zZ-Fr6_jEA" type="text/html" title="Btoom Translations"/>
 </entry>
 </feed>

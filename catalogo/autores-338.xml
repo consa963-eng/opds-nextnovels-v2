@@ -1,20 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Junichi Miyashita</id>
-<title>Junichi Miyashita</title>
-<updated>2026-10-21T00:13:50.625760+00:00</updated>
+<id>nextnovels:autores:Jun Esaka</id>
+<title>Jun Esaka</title>
+<updated>2026-10-25T03:42:53.606840+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-338.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Kamen Rider Blade Novela Ligera en Español</title>
-<id>https://nextnovels.com/kamen-rider-blade-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/kamen-rider-blade-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/06/Kamen-Rider-Blade-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/06/Kamen-Rider-Blade-Portada.jpg"/>
-<author><name>Junichi Miyashita</name></author>
+<title>Naruto: Kakashi Retsuden Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-naruto-kakashi-retsuden-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-naruto-kakashi-retsuden-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/11/Naruto-Kakashi-Retsuden-Portada.webp"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/11/Naruto-Kakashi-Retsuden-Portada.webp"/>
+<author><name>Jun Esaka</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Thriller" label="Thriller"/>
-<content type="text">Kenzaki acaba de perder la memoria y vive 300 años en el futuro, El Arca es arrojada por la tormenta hacia Hajime, mientras hay gente oprimida en el fondo de la ciudad de la Cúpula y la isla de los prisioneros de la que no se puede escapar. ¿Qué les espera a los Riders que acaban de despertar?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1PLcynZPvCTrKGnjeEfAbOw" type="text/html" title="Unlimited Subs"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">En el reino de Redaku... Lejos de casa, Kakashi se convierte en el tutor de un joven fugitivo. Deberá educarlo y convertirlo en un líder. Si el sexto hokage fracasa en la tarea, el Reino de Redaku declarará la guerra al País del Fuego...</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1vuk-f6_oo5PqxuhYmcb0lw" type="text/html" title="Mi Castillo de Arena"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1uXAksshCD4-C7VJC-c5fnw" type="text/html" title="ReloadVE"/>
+</entry>
+<entry>
+<title>Naruto: Naruto Retsuden Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-naruto-naruto-retsuden-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-naruto-naruto-retsuden-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/11/Naruto-Naruto-Retsuden-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/11/Naruto-Naruto-Retsuden-Portada.jpg"/>
+<author><name>Jun Esaka</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">Naruto ya no puede usar su chakra. Para ayudarle a curarse, los ninjas de la Aldea de la Hoja formarán equipo con Orochimaru y un joven científico. Un torbellino de acontecimientos en el que se verán envueltos todos los héroes de la zona, que tendrán que mostrarse intrépidos e indomables por su hokage.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1ascbtWZCOmvVagV5MdO3Jg" type="text/html" title="ガラクタ通り"/>
+</entry>
+<entry>
+<title>Naruto: Sasuke Retsuden Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-naruto-sasuke-retsuden-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-naruto-sasuke-retsuden-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/11/Naruto-Sasuke-Retsuden-Portada.webp"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/11/Naruto-Sasuke-Retsuden-Portada.webp"/>
+<author><name>Jun Esaka</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">Sasuke se encuentra en una misión en el Instituto de Investigación Astronómica del Reino de Redaku, un lugar muy alejado de la Tierra del Fuego. Junto a Sakura inicia una investigación encubierta en busca de una cura para Naruto, que padece una enfermedad desconocida.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1RsQGcI6AaikoUTvyWyA3Iw" type="text/html" title="Mi Castillo de Arena"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1BuCotgjvpovZONdxRTFDrw" type="text/html" title="Sandysakura1"/>
+</entry>
+<entry>
+<title>Naruto: Sasuke Shinden Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-naruto-sasuke-shinden-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-naruto-sasuke-shinden-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/11/Naruto-Sasuke-Shinden-Portada.webp"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/11/Naruto-Sasuke-Shinden-Portada.webp"/>
+<author><name>Jun Esaka</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">Uchiha Sasuke se enfrenta a una Explosión Inesperada de Truenos.
+
+Mientras tanto, Boruto y su Equipo en espera de una Misión que Consiste en Escoltar en Secreto al ídolo Popular de la Tierra del Fuego.
+
+¿Pero Detrás de Ellos, Alguien comenzará a Cumplir su Plan Ferozmente Audaz?
+
+Sasuke Tiene la Intención de Mejorar La Habilidad del Equipo.
+
+¡Una Nueva Batalla de Ninjutsu, Contará sobre Los Lazos, Los Secretos del Maestro y el Alumno, en el Contexto de Eventos Tristes en Konoha!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1bInVxaOJzPb0FLoGFhZGeg" type="text/html" title="Mi Castillo de Arena"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1qiNrufsofva0CzoC5eT54w" type="text/html" title="JenyRivera9"/>
+</entry>
+<entry>
+<title>Witch Hat Atelier: Special Stories Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-witch-hat-atelier-special-stories-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-witch-hat-atelier-special-stories-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/Witch-Hat-Atelier-Special-Stories-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/06/Witch-Hat-Atelier-Special-Stories-Portada.jpg"/>
+<author><name>Jun Esaka</name></author>
+<category term="Aventura" label="Aventura"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<content type="text">¡En esta novela derivada oficial de «Witch Hat Atelier», sigue a los personajes de esta querida serie en tres relatos cortos independientes que no aparecen en el manga! En el primer relato, Olruggio se adentra en las montañas nevadas en busca de Qifrey tras su desaparición y se encuentra con algo que no esperaba. En la segunda historia, los aprendices del Atelier de Qifrey cuidan a un dragoncito que aparece de repente. En la historia final, los Caballeros Moralis se infiltran tras recibir un informe sobre abuso de magia. Nueva ilustración de portada de Kamome Shirahama.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1M_bZEzH3zM-jQKq-VCI5BQ" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 </feed>

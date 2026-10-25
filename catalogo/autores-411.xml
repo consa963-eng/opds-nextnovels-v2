@@ -1,22 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Keikaku Itou</id>
-<title>Keikaku Itou</title>
-<updated>2026-10-21T00:13:50.638321+00:00</updated>
+<id>nextnovels:autores:Kazutoshi Mikagami</id>
+<title>Kazutoshi Mikagami</title>
+<updated>2026-10-25T03:42:53.656020+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-411.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Genocidal Organ Novela Ligera en Español</title>
-<id>https://nextnovels.com/genocidal-organ-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/genocidal-organ-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/02/Genocidial-Organ-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/02/Genocidial-Organ-Portada.jpg"/>
-<author><name>Keikaku Itou</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Drama" label="Drama"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Romance" label="Romance"/>
-<content type="text">La historia, ambientada en un mundo futuro forjado en el miedo y la violencia, sigue los pasos del agente de la inteligencia estadounidense Clavis Shepard en su búsqueda de pistas contra el cerebro terrorista John Paul.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com#Volumenes" type="text/html" title="Astral Novel Translations"/>
+<title>Valhalla no Ban Gohan Novela Ligera en Español</title>
+<id>https://nextnovels.com/valhalla-no-ban-gohan-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/valhalla-no-ban-gohan-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/09/01-7.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/09/01-7.jpg"/>
+<author><name>Kazutoshi Mikagami</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<content type="text">La Cocina de la Comunidad de Dios "Cocina Vahalla" siempre está ocupada durante la hora de la cena. Mi nombre es Sei, como un cerdo que tiene la habilidad de hablar, Odín me ordenó ayudar como "COMIDA"!
+
+Sé que tengo la misteriosa habilidad de revivir una vez al día, pero ¿no es horrible para mí ser una comida todos los días? La razón por la que sigo aquí es por la diosa Brynhildr que no es tan mala.
+
+Ee... ¿por qué está el número 2 de la comunidad de dioses, Loki, aquí?
+
+¿La comunidad de dioses está en problemas y quiere mi ayuda?
+
+Pero yo sólo soy un jabalí...</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1LN_wc0yLdtVhFX_l2Y0lCA" type="text/html" title="HiroLsn"/>
 </entry>
 </feed>

@@ -1,24 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Mareho Kikushi</id>
-<title>Mareho Kikushi</title>
-<updated>2026-10-21T00:13:50.658027+00:00</updated>
+<id>nextnovels:autores:Mamoru Hosoda</id>
+<title>Mamoru Hosoda</title>
+<updated>2026-10-25T03:42:53.762833+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-535.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Your Forma Novela Ligera en Español</title>
-<id>https://nextnovels.com/your-forma-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/your-forma-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/04/Your-Forma-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/04/Your-Forma-Portada.jpg"/>
-<author><name>Mareho Kikushi</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
+<title>Wolf Children Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-wolf-children-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-wolf-children-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/03/Ookami-Kodomo-no-Ame-to-Yuki-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/03/Ookami-Kodomo-no-Ame-to-Yuki-Portada.jpg"/>
+<author><name>Mamoru Hosoda</name></author>
 <category term="Drama" label="Drama"/>
-<content type="text">En un 2023 alternativo, el Your Forma, una milagrosa tecnología de “hilos inteligentes” desarrollada inicialmente para tratar un brote masivo de encefalitis viral, se ha convertido en una parte integral de la vida cotidiana. Pero estos cómodos dispositivos tienen un inconveniente invasivo: registran cada visión, sonido e incluso emoción que experimentan sus usuarios.
-
-Para la investigadora electrónica Echika Hieda, bucear en los recuerdos de la gente a través de Your Forma y buscar pruebas para resolver los crímenes más difíciles forma parte de su trabajo diario. El problema es que es tan buena en lo que hace que sus ayudantes se fríen literalmente los sesos tratando de seguirle el ritmo. Después de mandar al hospital a demasiados ayudantes, los altos mandos finalmente le proporcionan a Echika un compañero a su altura, un androide brillante pero descarado llamado Harold Lucraft. ¿Tendrá este improbable dúo lo que hace falta para resolver sus sospechas mutuas y evitar que una infección tecnológica mortal se extienda por todo el mundo antes de que sea demasiado tarde?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1o8XFVWLvZ4tsu6JrYNXjHQ" type="text/html" title="Ferindrad"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1r5GN_pLkeMZYIF1WSobxuA" type="text/html" title="Hitoribocchi translation"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<content type="text">Cuando Hana se enamora de un joven intruso que encuentra en su clase universitaria, lo último que espera descubrir es que él es parte lobo. En lugar de rechazar a su amante al conocer su secreto, lo acepta con los brazos abiertos. Pronto, la pareja espera a su primer hijo, y se despliega una cálida imagen de la vida familiar. Pero después de lo que parece un momento de dicha para Hana, el padre de sus hijos es trágicamente arrebatado. La vida como madre soltera es difícil en cualquier situación, pero cuando tus hijos caminan por la delgada línea entre el hombre y la bestia, las reglas de la crianza casi se desvanecen. Sin nadie a quien recurrir, ¿cómo sobrevivirá Hana?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1io5F5rxIuiHYmFMy3ycgAw" type="text/html" title="MangaProject Español"/>
 </entry>
 </feed>

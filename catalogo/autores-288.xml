@@ -1,155 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Ichiei Ishibumi</id>
-<title>Ichiei Ishibumi</title>
-<updated>2026-10-21T00:13:50.617548+00:00</updated>
+<id>nextnovels:autores:Hoshizora Meteo</id>
+<title>Hoshizora Meteo</title>
+<updated>2026-10-25T03:42:53.595642+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-288.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Denpachi Novela Ligera en Español</title>
-<id>https://nextnovels.com/denpachi-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/denpachi-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/01/Denpachi-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/01/Denpachi-Portada.jpg"/>
-<author><name>Ichiei Ishibumi</name></author>
+<title>Fate/Requiem Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-fate-requiem-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-fate-requiem-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-16.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-16.jpg"/>
+<author><name>Hoshizora Meteo</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">Una Neoaccion que mescla batallas y magia en una nueva leyenda urbana de “Teléfonos móviles + terror”.
-
-Kanzaki Mitsuya es un estudiante de secundaria superior al que le gustan los video juegos. Un día en el que estaba aburrido de su tediosa vida, un extraño correo electrónico llega a su teléfono móvil. Se trataba de la invitación para un juego llamado “Innovate”. ¿¡Mitsuya se registró en el juego para matar el aburrimiento!?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/18gNrjvaz3VmT-1VRl7BDDw" type="text/html" title="Uku Translations"/>
-</entry>
-<entry>
-<title>Dog God of the Fallen -SLASHDØG- Novela Ligera en Español</title>
-<id>https://nextnovels.com/dog-god-of-the-fallen-slashdog-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/dog-god-of-the-fallen-slashdog-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-4.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-4.jpg"/>
-<author><name>Ichiei Ishibumi</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Ecchi" label="Ecchi"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
+<category term="Magia" label="Magia"/>
 <category term="Supernatural" label="Supernatural"/>
-<content type="text">Atrapado con una fiebre severa antes de su viaje escolar, Tobio Ikuse, un estudiante de segundo año de secundaria se vio obligado a perder su viaje escolar con sus compañeros en un transatlántico de lujo. Cuatro días después, la noticia de la desaparición de los profesores y alumnos de segundo año de su escuela llega a oídos de Tobio. Pocos meses después de ese incidente, Tobio, habiéndose recuperado lentamente de la pérdida de sus amigos, se encuentra accidentalmente con uno de ellos de nuevo. Persiguiendo a su amigo desaparecido, Sasaki, Tobio lo alcanzó pero se sorprendió al ver a Sasaki con un monstruo lagarto y lo atacó con el monstruo. Acorralado por el monstruo, Tobio es rescatado por otro superviviente del transatlántico de lujo desaparecido, Natsume Minagawa. Tobio recibe un huevo de Natsume antes de separarse. Más tarde esa noche, Tobio se encontró de nuevo bajo ataque esta vez por dos personas con monstruos, en medio de todo eso, de la sombra de Tobio salió un Cachorro que lo rescató. Después de defenderse de los dos monstruos, Natsume se acerca una vez más a Tobio y decide llevarlo a su escondite.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1lDJuTSlfykHmJdgDIw9o_Q" type="text/html" title="Einherjar Project"/>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1BQvME8MDh1tdKGgvVyZhzQ" type="text/html" title="Infinit Trad Pro"/>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1zP_Ky6dIEOYIYikoAuschw" type="text/html" title="Uku Translations"/>
-</entry>
-<entry>
-<title>High School DxD DX Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-high-school-dxd-dx-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-high-school-dxd-dx-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-46.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-46.jpg"/>
-<author><name>Ichiei Ishibumi</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Una serie de novelas recopilatorias de historias cortas del universo High School DxD que fueron publicadas en la revista Dragon.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1_b8_0nVQrwNhq1gt6QLmAg" type="text/html" title="Infinit-TradPro"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1hbSRq45HmBB3aEA29Zqy-Q" type="text/html" title="DxD Fandom y Ophis la Diosa"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Zl4rWUiqJtAkxpbk1shAbg" type="text/html" title="UkuTranslations"/>
-</entry>
-<entry>
-<title>High School DxD EX Novela Ligera en Español</title>
-<id>https://nextnovels.com/high-school-dxd-ex-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/high-school-dxd-ex-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-47.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-47.jpg"/>
-<author><name>Ichiei Ishibumi</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Harem" label="Harem"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">Una Spin-Off de High School DxD de Ichiei Ishibumi, incluida en las ediciones especiales Blu-Ray de la tercera temporada del Anime, High School DxD BorN. Ambientada en un escenario de viaje en el tiempo entre la línea de tiempo presente posterior al volumen 14 y treinta años en el futuro.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com#Volumenes" type="text/html" title="Infinit-TradPro"/>
-</entry>
-<entry>
-<title>High School DxD Harem King Memorial Novela Ligera en Español</title>
-<id>https://nextnovels.com/high-school-dxd-harem-king-memorial-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/high-school-dxd-harem-king-memorial-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/07/High-School-D%C3%97D-Harem-King-Memorial-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/07/High-School-D%C3%97D-Harem-King-Memorial-Portada.jpg"/>
-<author><name>Ichiei Ishibumi</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Romance" label="Romance"/>
-<content type="text">¡Un fanbook de comentarios minuciosos del harem, una novela y alrededor de 200 páginas de contenido!
-
-¡Siguiendo con fervor a las oppais, al final llegó el décimo aniversario! ¡Se publican opiniones no incluidas en otros libros, cosas del trasfondo de la historia por medio de una conversación, y la novela “High School D×D EX” que fue muy demandada por los fans, todo en un solo libro! ¡Presentamos un libro conmemorativo e indispensable para los fans!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1HOHDEJzb_zYd7TmGpt9fFw" type="text/html" title="Uku Translations"/>
-</entry>
-<entry>
-<title>High School DxD Novela Ligera en Español</title>
-<id>https://nextnovels.com/high-school-dxd-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/high-school-dxd-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-44.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-44.jpg"/>
-<author><name>Ichiei Ishibumi</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Harem" label="Harem"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Issei Hyodo es un estudiante de secundaria en la Academia Kuo que forma parte de un trío de pervertidos, un día aparece una chica llamada Amano Yuma que se confiesa a Issei por lo que tienen una cita. Al anochecer Yuma lleva a Issei a un lugar apartado donde se convierte en su forma real como ángel caído y lo mata. Rias Gremory, una demonio de alto rango lo resucita como demonio por lo que Issei será un sirviente de Rias y parte del Clan Gremory.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1OjjIOOvCA5Rwc9PnjwgJvw" type="text/html" title="Darkness Dragons Translation, Infinit-TradPro"/>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-high-school-dxd-dx-novela-ligera-en-espanol/" type="text/html" title="High School DxD DX"/>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/high-school-dxd-ex-novela-ligera-en-espanol/" type="text/html" title="High School DxD EX"/>
-</entry>
-<entry>
-<title>Shin High School DxD Novela Ligera en Español</title>
-<id>https://nextnovels.com/shin-high-school-dxd-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/shin-high-school-dxd-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-48.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-48.jpg"/>
-<author><name>Ichiei Ishibumi</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Una continuación desde donde dejó el volumen 25 de High School DxD.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1jJ_iswwoWtSt1PiL3wodrg" type="text/html" title="UkuTranslations"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/14dtCb-IlUt2mjChKi5Lofg" type="text/html" title="Infinit-TradPro"/>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/high-school-dxd-novela-ligera-en-espanol/" type="text/html" title="High School DxD (Novela)"/>
-</entry>
-<entry>
-<title>Slash/Dog Novela Ligera en Español</title>
-<id>https://nextnovels.com/slash-dog-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/slash-dog-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/11/Slash-Dog-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/11/Slash-Dog-Portada.jpg"/>
-<author><name>Ichiei Ishibumi</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Romance" label="Romance"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">Historia relacionada al universo DxD, nos cuenta la historia de Ikuse Tobio, actualmente conocido como Slashdog, uno de los pocos humanos capaces de hacerle frente a Vali, Vanishing Dragon. La historia nos cuenta todo lo que pasa Tobio, su vida, sus miedos, su pasado, como recorre por un duro camino para conseguir lo que perdió… aquello que más quiere y más le importa. Sobre todo, la manera en que obtiene su Sacred Gear y los poderes que ésta posee.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/16PipMCVBUl2s6Y9fim9poA" type="text/html" title="HaremSubs"/>
+<content type="text">Una vez, hubo una gran guerra. La guerra terminó, y el mundo se volvió pacífico. Ahora, cualquiera tiene un "Santo Grial" y convoca a un sirviente atado a su destino. Sólo hay una chica, Utsumi Erice, que no tiene uno. Esta chica se encuentra con el último Siervo convocado en el mundo, un chico. Pero no tiene ni idea de cuál será su destino.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1_r-VZ_McoNcE1oaRzJf_Jw" type="text/html" title="Bar Ahnenerbe"/>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/fate-zero-novela-ligera-en-espanol/" type="text/html" title="Fate/Zero"/>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fate-strange-fake-novela-ligera-en-espanol/" type="text/html" title="Fate/Strange Fake"/>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fate-apocrypha-novela-ligera-en-espanol/" type="text/html" title="Fate/Apocrypha"/>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-fate-prototype-novela-ligera-en-espanol/" type="text/html" title="Fate/Prototype"/>
 </entry>
 </feed>

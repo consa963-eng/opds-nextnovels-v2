@@ -1,23 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kazanami Shinogi</id>
-<title>Kazanami Shinogi</title>
-<updated>2026-10-21T00:13:50.636431+00:00</updated>
+<id>nextnovels:autores:Kaya Kizaki</id>
+<title>Kaya Kizaki</title>
+<updated>2026-10-25T03:42:53.653570+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-399.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>The New Gate Novela Ligera en Español</title>
-<id>https://nextnovels.com/the-new-gate-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/the-new-gate-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/07/The-New-Gate-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/07/The-New-Gate-Portada.jpg"/>
-<author><name>Kazanami Shinogi</name></author>
+<title>D.Gray-man Reverse Novela Ligera en Español</title>
+<id>https://nextnovels.com/d-gray-man-reverse-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/d-gray-man-reverse-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/06/01-38.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/06/01-38.jpg"/>
+<author><name>Kaya Kizaki</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
 <category term="Shounen" label="Shounen"/>
 <category term="Supernatural" label="Supernatural"/>
-<content type="text">«The New gate», un juego online que se había convertido en un juego de la muerte, ahora estaba liberando a las decenas de miles de jugadores que habían sido arrastrados, gracias a los esfuerzos de Shin, uno de los jugadores más antiguos. Pero después de haber derrotado al último jefe y liberado a todos, fue tragado por una luz extraña y se encontró dentro del mundo del juego 500 años en el futuro.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1QrGB8J6772vEyh3GtkLSIQ" type="text/html" title="MouseTail"/>
+<content type="text">Nota de la traductora: Las novelas de D.Gray-Man Reverse, nos cuentan ciertas anécdotas que complementan algunos aspectos del anime/manga.
+
+- Capítulo 1: 旅たちの聖職者(クラーヂマン) / El clérigo viajero
+
+Allen está de camino al cuartel general de la Orden Negra y ha llegado a Inglaterra, donde nació. Se pone al día con Madre, una vieja monja con la que él y Cross se quedaron tras la muerte de Mana. A Allen le piden que hable con una enfermera que ha perdido recientemente a su amante.
+
+- Capítulo 2: 魔女の棲む村 / El pueblo donde habita la bruja
+
+Se centra en Kanda Yuu
+
+- Capítulo 3: バク．チャン狂想曲(カプリッチオ) / La rapsodia de Bak Chan (Capriccio)
+
+Se centra en Bak Chan
+
+- Capítulo 4: 1000の悲劇 / 1000 Tragedias
+
+Se centra en torno a El Conde del Milenio
+
+- Capítulo 5: 四十九番目の名前 / El 49º nombre
+
+Se centra en Lavi y Doug
+
+- Capítulo 6: 黒の教団親睦パーティー / La fiesta de reunión de la Orden Negra
+
+Se centra en la Orden Negra</content>
+<link rel="http://opds-spec.org/acquisition" href="https://mi-castillo-de-arena.blogspot.com/2019/01/novelas-dgray-man-reverse.html" type="text/html" title="Mi Castillo de Arena"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1uvBgk_Lpa-DgxJiTjDYYNg" type="text/html" title="Bluwim No Fansub"/>
 </entry>
 </feed>

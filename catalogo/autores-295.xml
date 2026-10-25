@@ -1,31 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Ichiya Sumi</id>
-<title>Ichiya Sumi</title>
-<updated>2026-10-21T00:13:50.618774+00:00</updated>
+<id>nextnovels:autores:Ichine Kamijou</id>
+<title>Ichine Kamijou</title>
+<updated>2026-10-25T03:42:53.597341+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-295.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>My Transfer Destination Is a City of Women! Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-my-transfer-destination-is-a-city-of-women-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-my-transfer-destination-is-a-city-of-women-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/My-Transfer-Destination-Is-a-City-of-Women-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/10/My-Transfer-Destination-Is-a-City-of-Women-Portada.jpg"/>
-<author><name>Ichiya Sumi</name></author>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Harem" label="Harem"/>
-<category term="Hentai" label="Hentai"/>
+<title>N-kaime no Koi no Musubikata Novela Ligera en Español</title>
+<id>https://nextnovels.com/n-kaime-no-koi-no-musubikata-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/n-kaime-no-koi-no-musubikata-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/10/N-kaime-no-Koi-no-Musubikata-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/10/N-kaime-no-Koi-no-Musubikata-Portada.jpg"/>
+<author><name>Ichine Kamijou</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Josei" label="Josei"/>
 <category term="Romance" label="Romance"/>
-<content type="text">Koichi, quien murió siendo virgen, fue recompensado con una reencarnación en otro mundo como el hijo de una familia noble.
-
-Sin embargo, en este momento se encuentra en plena transferencia a una ciudad provincial.
-
-Y su destino no es otro que una «Ciudad de Mujeres», habitada únicamente por mujeres con atuendos sumamente reveladores…!
-
-Una doncella con el trasero completamente al descubierto, una señora feudal de pechos descomunales, y para colmo, una noción de la castidad que parece… ¿¡bastante extraña!?
-
-¡Una ciudad entera convertida en un harén!
-
-¡Así comienza esta fantasía de una vida amorosa y apasionada en otro mundo!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1_0nF_XpOBDjhlV7DncblNg" type="text/html" title="Defous123"/>
+<content type="text">Nagi Yoroizuka, una ingeniera de sistemas de veintisiete años que trabaja en una empresa de desarrollo de software, afronta la treintena sin señales de romance. Se esfuerza mucho en su trabajo, pero las cosas nunca parecen salirle bien. Entonces, cuando una serie de contratiempos la dejan en su punto más bajo, un amigo de la infancia reaparece para echarle una mano. Este genio de la ingeniería no sólo es simpático y guapo, sino que además se lleva de maravilla con ella. Sólo hay un problema: ella sólo lo ha visto como un amigo, mientras que él lleva toda la vida ocultando lo que siente por ella. Pero aunque ella esté dispuesta a darle una oportunidad, ¿será el trauma de su pasado demasiado fuerte para superarlo?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1Gvl1usdfNwTT3bStnqLb0A" type="text/html" title="Onigiri Novels"/>
 </entry>
 </feed>

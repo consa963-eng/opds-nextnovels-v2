@@ -1,21 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Aozora Natsuiro</id>
-<title>Aozora Natsuiro</title>
-<updated>2026-10-21T00:13:50.583593+00:00</updated>
+<id>nextnovels:autores:Aoki Fuyu</id>
+<title>Aoki Fuyu</title>
+<updated>2026-10-25T03:42:53.550674+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-81.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Hahaoya ga Ero Ranobe Taishou Jushou Shite Jinsei Tsunda Novela Ligera en Español</title>
-<id>https://nextnovels.com/hahaoya-ga-ero-ranobe-taishou-jushou-shite-jinsei-tsunda-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/hahaoya-ga-ero-ranobe-taishou-jushou-shite-jinsei-tsunda-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/01/Hahaoya-ga-Ero-Ranobe-Taishou-Jushou-Shite-Jinsei-Tsunda-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/01/Hahaoya-ga-Ero-Ranobe-Taishou-Jushou-Shite-Jinsei-Tsunda-Portada.jpg"/>
-<author><name>Aozora Natsuiro</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Harem" label="Harem"/>
+<title>Hon Kirai no Ore ga, Toshoshitsu no Majo ni Koi wo Shita Novela Ligera en Español</title>
+<id>https://nextnovels.com/hon-kirai-no-ore-ga-toshoshitsu-no-majo-ni-koi-wo-shita-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/hon-kirai-no-ore-ga-toshoshitsu-no-majo-ni-koi-wo-shita-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/12/Hon-Kirai-no-Ore-ga-Toshoshitsu-no-Majo-ni-Koi-wo-Shita-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/12/Hon-Kirai-no-Ore-ga-Toshoshitsu-no-Majo-ni-Koi-wo-Shita-Portada.jpg"/>
+<author><name>Aoki Fuyu</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">¡Mi vida está en modo difícil debido a mi madre que me ama tanto! Una Ero-Novela de incesto madre-hijo escrita por una madre, Mirei, de alguna manera pudo ganar el gran premio, pero por alguna razón, ¿su hijo fue el que asistió y recibió la recompensa? ¡Eso es ridículo! ¡Ejem! No importa, quiero decir que es un cliché. Además, un autor actual de JK que también ganó el premio y al mismo tiempo también es... sí, la enamorada del prota.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1yojoNuIkGw90WhDfG_REZA" type="text/html" title="Novel Translations"/>
+<content type="text">Dos personas totalmente opuestas salvan la distancia entre sus almas a través de los "libros".
+
+Souta Shimizu se reconoce públicamente como un extrovertido tras su debut en el instituto.
+
+Sus temas con sus amigos los aprende sobre todo en su teléfono. El contenido es interesante y emocionante. Se puede disfrutar de muchas cosas sin mover un brazo.
+
+En cambio, leer es agotador y lleva mucho tiempo en el mundo actual, sobrecargado de información.
+
+Su rentabilidad como entretenimiento es increíblemente baja.
+
+Souta no entiende la mentalidad de esos ratones de biblioteca.
+
+Hasta que la conoció durante el otoño de su primer año en el instituto...</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1dwLu65Kff5MV1Om0QvpvYg" type="text/html" title="Ilusion Shuri Novels"/>
 </entry>
 </feed>

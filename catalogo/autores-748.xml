@@ -1,20 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Riichiro Inagaki</id>
-<title>Riichiro Inagaki</title>
-<updated>2026-10-21T00:13:50.693047+00:00</updated>
+<id>nextnovels:autores:Ren Kujyo</id>
+<title>Ren Kujyo</title>
+<updated>2026-10-25T03:42:53.809643+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-748.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Dr. Stone The Voices That Face the Future Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-dr-stone-the-voices-that-face-the-future-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-dr-stone-the-voices-that-face-the-future-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/Dr.-Stone-The-Voices-That-Face-the-Future.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/09/Dr.-Stone-The-Voices-That-Face-the-Future.jpg"/>
-<author><name>Riichiro Inagaki</name></author>
-<category term="Aventura" label="Aventura"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Shounen" label="Shounen"/>
-<content type="text">Antes del colapso de la civilización, ¡¡Tsukasa y Gen se enfrentan en un programa de televisión!! Tsukasa, que lucha por su orgullo y sus secretos, ¿podrá vencer la temible trampa del mentalista Gen?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1TlxqAM2R2c9A-Sd4krvH8A" type="text/html" title="Next Novels (MTL)"/>
+<title>Kowaresou na Kimi to, ano Yakusoku wo mou Ichido Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-kowaresou-na-kimi-to-ano-yakusoku-wo-mou-ichido-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-kowaresou-na-kimi-to-ano-yakusoku-wo-mou-ichido-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/02/Ishura-Portada-1.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/02/Ishura-Portada-1.jpg"/>
+<author><name>Ren Kujyo</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">La relación entre dos personas ha pasado de ser amigos de la infancia a extraños y, ahora, a compañeros de vivienda.
+
+Renji Tsukishiro vive bajo el mismo techo que su amiga de la infancia, Inori Mochizuki, con quien se había distanciado desde el verano de primer año de preparatoria. Sin embargo, la brecha temporal y emocional que se ha formado entre ellos no es superficial, y a pesar de querer mejorar su relación, Renji se encuentra sin poder hacer nada justo cuando comienza el segundo año.
+
+Al convertirse en compañero de clase de Inori, Renji se decide a acercarse a ella y cumplir la «promesa» que hicieron aquel día. Se siente motivado, pensando que su relación comenzará a avanzar poco a poco. Pero justo cuando parece que las cosas están cambiando, Ai, quien conoce el secreto de Renji, le confiesa su amor...
+
+Pueden convertirse en extraños o en algo especial.
+
+La historia de estos dos «amigos de la infancia», que están tan cerca y a la vez tan lejos, sigue su camino mientras se desvían, crecen y cambian.
+
+Una página de juventud para volver a encontrar lo que es verdaderamente importante.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1RiWyCHKplHlMU9eoJAi_mw" type="text/html" title="Tamashi's Project"/>
 </entry>
 </feed>

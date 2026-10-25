@@ -1,39 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Yaku Yuuki</id>
-<title>Yaku Yuuki</title>
-<updated>2026-10-21T00:13:50.746130+00:00</updated>
+<id>nextnovels:autores:Xing Bao Er</id>
+<title>Xing Bao Er</title>
+<updated>2026-10-25T03:42:53.876523+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1047.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Jaku-chara Tomozaki-kun Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-jaku-chara-tomozaki-kun-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-jaku-chara-tomozaki-kun-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-74.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-74.jpg"/>
-<author><name>Yaku Yuuki</name></author>
-<category term="Comedia" label="Comedia"/>
+<title>Flower Flower Dragon Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-flower-flower-dragon-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-flower-flower-dragon-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/10/Flower-Flower-Dragon-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/10/Flower-Flower-Dragon-Portada.jpg"/>
+<author><name>Xing Bao Er</name></author>
+<category term="Adulto" label="Adulto"/>
 <category term="Drama" label="Drama"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Esto está a la cabeza de las guías de estrategia de la Vida (un videojuego de mierda).
+<category term="Maduro" label="Maduro"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Smut" label="Smut"/>
+<category term="Yaoi" label="Yaoi"/>
+<content type="text">Para ayudar a su jefe a encontrar una esposa, los bandidos secuestraron a una mujer del pie de la montaña para ofrecérsela.
 
-La vida es un mal videojuego. Esta frase tan común es, por desafortunada que sea, la verdad.
+¡El jefe de la fortaleza de la montaña, Lu Cang, se enamora a primera vista de la belleza absolutamente impresionante!
 
-Al fin y al cabo, la vida no tiene reglas simples y sencillas. Las reglas que tiene no son más que irracionales e injustas. Los fuertes afirman que la Vida tiene un alto nivel de libertad, pero los débiles no tienen más remedio que enfrentarse a un diseño abrumadoramente desventajoso.
-
-Por eso es un juego de mierda.
-
-Puesto que lo digo yo, el principal jugador de Japón que ha experimentado y dominado multitud de juegos, no puede haber ningún error.
-
-- Sin embargo, esa persona, además de dominar los juegos casi al mismo nivel que yo, me declaró que Life es un juego de nivel divino.
-
-Destinada a ser un personaje de primer nivel, esa persona es la heroína perfecta de la escuela, Hinami Aoi. Y para colmo, incluso dice que me enseñará las reglas de la Vida...
-
-...... Normalmente, no me creería algo así. Sin embargo, Hinami Aoi es alguien que no encaja para nada en un marco como el "normal".
-
-Del ganador del 10º Premio Shogakukan de Novela Ligera a la Excelencia. Un personaje de bajo nivel se enfrenta a la guía de estrategia de la vida, ¡pero con la instrucción de una chica guapa!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/10Hx-88x1d75Z-Q3c06qbIQ" type="text/html" title="Hitoribocchi translation"/>
+Sin embargo, en la noche de la consumación...</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/10WQOd2AK3ZI8bzO2-BzC6g" type="text/html" title="Rose [Hua Hua You Long Novela en español]"/>
 </entry>
 </feed>

@@ -1,25 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Satou Mato</id>
-<title>Satou Mato</title>
-<updated>2026-10-21T00:13:50.704087+00:00</updated>
+<id>nextnovels:autores:Sasato Goro</id>
+<title>Sasato Goro</title>
+<updated>2026-10-25T03:42:53.824677+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-815.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Shokei Shoujo no Virgin Road Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-shokei-shoujo-no-virgin-road-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-shokei-shoujo-no-virgin-road-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/11/Shokei-Shoujo-no-Virgin-Road-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/11/Shokei-Shoujo-no-Virgin-Road-Portada.jpg"/>
-<author><name>Satou Mato</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
+<title>Aren’t you Embarrassed to Lose to a Maid? Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-arent-you-embarrassed-to-lose-to-a-maid-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-arent-you-embarrassed-to-lose-to-a-maid-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/Arent-you-Embarrassed-to-Lose-to-a-Maid-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/07/Arent-you-Embarrassed-to-Lose-to-a-Maid-Portada.jpg"/>
+<author><name>Sasato Goro</name></author>
 <category term="Drama" label="Drama"/>
+<category term="Ecchi" label="Ecchi"/>
 <category term="Fantasía" label="Fantasía"/>
+<category term="Romance" label="Romance"/>
+<category term="Shoujo Ai" label="Shoujo Ai"/>
 <category term="Yuri" label="Yuri"/>
-<content type="text">Los Errantes son ovejas pérdidas que llegan aquí desde una tierra lejana conocida como “Japón”. Pocos saben cómo o por qué abandonan sus hogares. Lo único cierto es que traen el desastre y la calamidad. El deber de exterminarlos sin remordimientos recae en las Verdugos. El día que la joven Verdugo Menou conoció a la Errante Akari, pensó que sería un trabajo de lo más… ¡hasta que se dió de cuenta que es imposible matar a esta chica! ¡Y cuando Menou comienza a buscar una forma de burlar a su inmortalidad, resulta que Akari fantasea con la idea de morir en sus brazos!
+<content type="text">La sirvienta de baja cuna Lotte, incapaz de encajar en su entorno laboral debido a la diferencia abismal de estutus entre ella y sus compañeras. La valiente y audaz Alicia, una dama noble admirada por todos como la Gran Princesa Caballero del reino. Este par, ama y sirvienta guarda un indevido secret.
 
-Así inicia un viaje que cambiará la vida de Menou (nuevamente) y cuyo final decidirá el destino de un mundo devastado…</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/17zMpbNAd_JUqoO24C6PfNg" type="text/html" title="Onigiri Novels"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Z_do6VinTO3sc3-CKiLvzg" type="text/html" title="Hitoribocchi Translation"/>
+Alicia acostumbra llamar a Lotte a su recamara y le da ordenes indecorosas
+
+「¿Podrias someterme? 」
+
+「¡¿Eeeh?! ¿Yo, hacer eso con Lady Alicia? 」
+
+Un deseo de sumision que nadie podria esperar en su comportamiento diario, puro e intachable.
+
+Lotte, mientras se repite a si misma sin cesar que solo es parte de su trabajo como sirienta, acepta obedecer esas perversas ordenes, pero desde el primer dia queella se lo popuso, el corazon de Lotte no paro de latir de la emocion.
+
+A medida que aumentan sus enchutaros secretos y los momentos que la intachable caballero le arrebata durante el trabajo para ser, atentendida, ambas caen en una atraccion mutua y autodependiente.... Una historia de amor y sumision entre una sirvienta y una princesa caballero que no puede contenerse de dar ordenes atrevidas.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1jvNgjmR-uOQbJxkj48QILg" type="text/html" title="Kyūden Translation"/>
 </entry>
 </feed>

@@ -1,32 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Watanabe Tsunehiko</id>
-<title>Watanabe Tsunehiko</title>
-<updated>2026-10-21T00:13:50.744657+00:00</updated>
+<id>nextnovels:autores:Wagahara Satoshi</id>
+<title>Wagahara Satoshi</title>
+<updated>2026-10-25T03:42:53.874495+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1038.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Risou no Himo Seikatsu Novela Ligera en Español</title>
-<id>https://nextnovels.com/risou-no-himo-seikatsu-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/risou-no-himo-seikatsu-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/02/Risou-no-Himo-Seikatsu-Portada-e1645226193266.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/02/Risou-no-Himo-Seikatsu-Portada-e1645226193266.jpg"/>
-<author><name>Watanabe Tsunehiko</name></author>
-<category term="Acción" label="Acción"/>
+<title>Yuusha no Segare Novela Ligera en Español</title>
+<id>https://nextnovels.com/yuusha-no-segare-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/yuusha-no-segare-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/08/Yuusha-no-Segare-Portada.jpeg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/08/Yuusha-no-Segare-Portada.jpeg"/>
+<author><name>Wagahara Satoshi</name></author>
 <category term="Aventura" label="Aventura"/>
 <category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Seinen" label="Seinen"/>
-<content type="text">Yamai Zenjirou es un oficinista cualquiera del Japón moderno. Una mañana, se encuentra con que ha sido convocado a un mundo tropical en el que los dinosaurios vagan por la tierra.
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">Felicidad familiar &gt;&gt;&gt;&gt;&gt;&gt; ¡¿Paz mundial!? Se abre el telón en otra historia de recuentos de la vida fantasiosa, traído a ustedes por el Equipo de Hataraku Maou-sama!.
 
-Le dicen que es el reino de Capua y que la persona que le ha convocado -su monarca, la reina Aura- quiere que se case con ella y que deje atrás su antigua vida para llevar una vida de despreocupada extravagancia como su príncipe consorte.
+En ese día, una reunión familiar de emergencia surgió en la residencia de la familia Kenzaki, una familia normal que vive en la ciudad Tokorozawa.
 
-Las razones de su oferta son muchas y variadas, pero ella necesita un heredero, ¡y quiere que sea él quien se lo proporcione! Si acepta, no tendrá que trabajar nunca más, y podrá holgazanear en el lujo sin más preocupaciones que las de asegurar al reino su próximo monarca.
+Una belleza rubia llamada Dianaze Krone, Diana, para abreviar, había aparecido de un mundo diferente, en la sala de estar de la familia Kenzaki. «Yo, una enviada, ha llegado a convocar al héroe de la salvación, Kenzaki Hideo».
 
-Ciertamente, acostarse con la exuberante belleza no es una dificultad, pero ¿En realidad es todo? También tendrá que renunciar a todo lo que conoce en la Tierra.
+¡Espera, Hideo es mi padre! Y pensar que tal situación similar a un juego caería sobre mí, Kenzaki Yasuo, un estudiante normal de secundaria. ¡¿Mi padre es un héroe, y salvó a un mundo diferente en su juventud!? No hay manera de que pueda creer que este ordinario padre de mediana edad sea un «héroe».
 
-¿Está dispuesto a dejarlo todo de un momento a otro por ella? ¿Y qué tan bien podrá navegar por la política, la gente y la cultura de este nuevo mundo si lo hace?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1r0vl623HNom5CupG_HP6hA" type="text/html" title="MiraiK y Svartalheimer"/>
+Diana me mira, «El Hijo del Héroe» con una mirada llena de anhelo, mi hermana notándolo me miró con una mirada fría… ¡Antes de traer de vuelta la paz al otro mundo, la paz de nuestra familia está en graves problemas! ¡¿Qué va a pasar con mi pacífica vida cotidiana?!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxlink.com/s/1BhlxpQr53fiJ3GZ4xib_qA" type="text/html" title="VR Work"/>
 </entry>
 </feed>

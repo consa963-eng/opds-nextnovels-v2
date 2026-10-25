@@ -1,23 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Eguchi Ren</id>
-<title>Eguchi Ren</title>
-<updated>2026-10-21T00:13:50.593179+00:00</updated>
+<id>nextnovels:autores:Domadoma</id>
+<title>Domadoma</title>
+<updated>2026-10-25T03:42:53.563169+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-138.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Tondemo Skill de Isekai Hourou Meshi Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-tondemo-skill-de-isekai-hourou-meshi-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-tondemo-skill-de-isekai-hourou-meshi-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/09/01-45.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/09/01-45.jpg"/>
-<author><name>Eguchi Ren</name></author>
+<title>Taidana Akuyaku Ouji ni Tensei Shita Ore, Aku no Oppai Oukoku wo Kizuku Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-taidana-akuyaku-ouji-ni-tensei-shita-ore-aku-no-oppai-oukoku-wo-kizuku-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-taidana-akuyaku-ouji-ni-tensei-shita-ore-aku-no-oppai-oukoku-wo-kizuku-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/02/Taidana-Akuyaku-Ouji-ni-Tensei-Shita-Ore-Aku-no-Oppai-Oukoku-wo-Kizuku-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/02/Taidana-Akuyaku-Ouji-ni-Tensei-Shita-Ore-Aku-no-Oppai-Oukoku-wo-Kizuku-Portada.jpg"/>
+<author><name>Domadoma</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
 <category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
 <category term="Seinen" label="Seinen"/>
-<content type="text">Mukouda Tsuyoshi no era nada especial en el Japón moderno, por lo que cuando fue convocado a un mundo de espadas y brujería, pensó que estaba listo para la aventura de su vida. ¡Lástima que el reino que lo convocó solo lo consiguió por error!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1SVzrDpW83FBgsuSdmRsptg" type="text/html" title="Ralevon, Bell Traducciones"/>
+<content type="text">Reencarné como un príncipe villano perezoso y construí el Reino Malvado de las Oppai ~Aunque vivía a mi antojo en el mundo del juego, por alguna razón las chicas hermosas no se alejan de mí~
+
+Era un asalariado de mediana edad sin mucha suerte, pero reencarné en el mundo de un juego al que le dediqué todo mi tiempo. Ahora, vivo como el príncipe villano Esmeralda, odiado por todos. Desesperado por mi vida pasada, decidí aprovechar al máximo mi posición como villano y juré firmemente que, en esta nueva vida, viviría según mis deseos. Sin embargo, a pesar de que debería estar actuando de manera que todos me desprecien, ¡por alguna razón, chicas hermosas con grandes atributos terminan enamorándose de mí! ¡Una fantasía de harem absurda y desbordante da inicio!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/16b_eUkc2KTWSsGngdi6dXQ" type="text/html" title="Dark Guild Fansub"/>
 </entry>
 </feed>

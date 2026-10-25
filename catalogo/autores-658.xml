@@ -1,23 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Nao WATANUKI</id>
-<title>Nao WATANUKI</title>
-<updated>2026-10-21T00:13:50.678273+00:00</updated>
+<id>nextnovels:autores:Nanato Nana</id>
+<title>Nanato Nana</title>
+<updated>2026-10-25T03:42:53.789105+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-658.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu You na Monogatari Novela Ligera en Español</title>
-<id>https://nextnovels.com/tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-you-na-monogatari-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-you-na-monogatari-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-80.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-80.jpg"/>
-<author><name>Nao WATANUKI</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
+<title>VTuber Legend Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-vtuber-legend-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-vtuber-legend-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/06/01-4.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/06/01-4.jpg"/>
+<author><name>Nanato Nana</name></author>
 <category term="Comedia" label="Comedia"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<content type="text">Lloyd es un aventurero novato cuyo sueño es descubrir la “verdadera fuerza” en la capital que siempre ha admirado, a pesar de crecer con vecinos que siempre lo consideraron débil. La historia comienza con él saliendo de su ciudad natal, que está ubicada justo al lado de … ¡¿una de las mazmorras más peligrosas del mundo?! Puede que Lloyd se considere impotente, pero cuando va a la ciudad que sirve como ciudad de inicio para los aventureros, ¡la diferencia entre él y todos los demás no puede ser más evidente!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1AzSpleGSuCIgISAVHHj0NQ" type="text/html" title="World Project"/>
+<category term="Romance" label="Romance"/>
+<category term="Shoujo Ai" label="Shoujo Ai"/>
+<content type="text">Tanaka Yuki, alias Kokorone Awayuki, fue milagrosamente aceptada para el tercer periodo de la importante empresa de gestión de VTuber “Live On”, dejó su trabajo en la empresa negra y se convirtió en una VTuber, que fue su apoyo emocional durante sus días infernales.
+
+Sin embargo, parece que le falta originalidad, y está muy por detrás de sus mayores y compañeros en popularidad.
+
+Pero un día, sin querer, se olvida de apagar el stream y su verdadero carácter se revela al mundo.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Omu4Y9nNIg-eLn9PO0ZvYg" type="text/html" title="Domen Translations"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1K60IvRYRU1qc0EJughJPgQ" type="text/html" title="Onigiri Novels"/>
 </entry>
 </feed>

@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Aki Kusanagi</id>
-<title>Aki Kusanagi</title>
-<updated>2026-10-21T00:13:50.576283+00:00</updated>
+<id>nextnovels:autores:Aki Kanehiro</id>
+<title>Aki Kanehiro</title>
+<updated>2026-10-25T03:42:53.541227+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-37.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Boku no Sensei wa, Houkago Kawaii Konyakusha Novela Ligera en Español</title>
-<id>https://nextnovels.com/boku-no-sensei-wa-houkago-kawaii-konyakusha-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/boku-no-sensei-wa-houkago-kawaii-konyakusha-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/08/Boku-no-Sensei-wa-Houkago-Kawaii-Konyakusha-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/08/Boku-no-Sensei-wa-Houkago-Kawaii-Konyakusha-Portada.jpg"/>
-<author><name>Aki Kusanagi</name></author>
+<title>We are Pretty Cure Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-we-are-pretty-cure-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-we-are-pretty-cure-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/We-are-Pretty-Cure-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/05/We-are-Pretty-Cure-Portada.jpg"/>
+<author><name>Aki Kanehiro</name></author>
+<category term="Acción" label="Acción"/>
 <category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Magical Girl" label="Magical Girl"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Mi profesora, Reina Sakurakouji, es la mujer más hermosa de la escuela, pero también es famosa por ser muy fría. Un día después de la escuela, me encontré con ella por casualidad, y allí, por alguna razón, me presentó a sus padres como su prometido (o como si lo fuera), “Él es Shirase-kun. En realidad, estamos comprometidos”, y después de eso, ¡¿terminamos viviendo juntos?! Y aunque tenía una imagen aterradora de ella, en realidad… “¡¿Pero qué estás diciendo?! ¡No te burles de mí!”, ella en casa es muy tímida, indefensa, se emborracha rápidamente y además de eso, es una lindura torpe. Pero esto es algo que solo yo sé. ¡Este es el comienzo del acuerdo secreto de convivencia entre un estudiante y su profesora!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1lYJd93CiLEgzxfxMn5lO-g" type="text/html" title="Oasis Translations"/>
+<category term="Shoujo" label="Shoujo"/>
+<content type="text">Nagisa Misumi y Honoka Yukishiro, estudiantes de segundo año de secundaria femenina de la Academia Verone, se transforman en Cure Black y Cure White para enfrentarse a los ataques de los esbirros del Rey Maligno, que buscan las Prism Stones. Sale a la luz el secreto de lo sucedido sesenta años atrás entre Sanae, la abuela de Honoka, y Mipple…
+
+Nagisa Misumi y Honoka Yukishiro, dos chicas completamente normales de segundo año de la secundaria femenina de la Academia Verone, se convierten en Cure Black y Cure White y plantan cara a las embestidas de los secuaces del Rey Maligno, que ambicionan las Prism Stones. Se revela el secreto de lo ocurrido hace sesenta años entre Sanae, la abuela de Honoka, y Mipple… ¡Una novela original escrita expresamente para la popular serie de anime Pretty Cure, reeditada en nueva edición para coincidir con su vigésimo aniversario!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1_9i_qYtbiH_b4XfWgDAFxw" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 </feed>

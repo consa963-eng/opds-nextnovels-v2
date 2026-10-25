@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:NisiOisin</id>
-<title>NisiOisin</title>
-<updated>2026-10-21T00:13:50.682991+00:00</updated>
+<id>nextnovels:autores:Nishio Ishin</id>
+<title>Nishio Ishin</title>
+<updated>2026-10-25T03:42:53.795626+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-685.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Monogatari Short Stories: Tsubasa Lion Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-monogatari-short-stories-tsubasa-lion-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-monogatari-short-stories-tsubasa-lion-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/02/Monogatari-Short-Stories-Tsubasa-Lion-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/02/Monogatari-Short-Stories-Tsubasa-Lion-Portada.jpg"/>
-<author><name>NisiOisin</name></author>
+<title>Ningyou ga Ningyou Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-ningyou-ga-ningyou-novela-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-ningyou-ga-ningyou-novela-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/Ningyou-ga-Ningyou-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/03/Ningyou-ga-Ningyou-Portada.jpg"/>
+<author><name>Nishio Ishin</name></author>
 <category term="Drama" label="Drama"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Esta historia se publicó con la edición especial del volumen 12 de Sangatsu no Lion, y cuenta con el joven prodigio del Shōgi Kiriyama Rei como narrador. Esta historia tiene lugar durante el viaje de Hanekawa para encontrar a Oshino, novela que une las historia de Sangatsu no Lion y Monogatari Series, trata de un misterio en torno a un estado del tablero de Shōgi incomprensible, que ambos protagonistas trataran de llegar a una respuesta de su significado.
-
-¿Podrán Kiriyama y Hanekawa resolver este misterio?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1anNtmtX3h-_Va-gHnAEHbg" type="text/html" title="Traducciones Roberth"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<content type="text">Fui a ver una película porque mi hermana menor murió. Como, por lo general, me rijo por una postura de indiferencia frente a la información visual, hacía exactamente cinco años que no veía una película, y también hacía, justamente, cinco años que mi hermana había muerto. Si cuento las veces, esta es la cuarta en ambos casos. No es que haya decidido ver películas únicamente cuando mi hermana muere; es al revés: precisamente porque mi hermana murió, voy a ver una película. Aun así, si se muriera tan seguido, la verdad es que tampoco podría soportarlo.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1ExhGCMNdAWcPYMjcBZ59YA" type="text/html" title="Defous123"/>
 </entry>
 </feed>

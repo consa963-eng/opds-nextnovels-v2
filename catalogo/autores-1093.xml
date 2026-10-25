@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Yugaka Akua</id>
-<title>Yugaka Akua</title>
-<updated>2026-10-21T00:13:50.753470+00:00</updated>
+<id>nextnovels:autores:Yozora Fuyuno</id>
+<title>Yozora Fuyuno</title>
+<updated>2026-10-25T03:42:53.886778+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1093.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>For Saving a Collapsed Lady, I Got to Date Her Beautiful Twin Daughters Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-for-saving-a-collapsed-lady-i-got-to-date-her-beautiful-twin-daughters-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-for-saving-a-collapsed-lady-i-got-to-date-her-beautiful-twin-daughters-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/For-Saving-a-Collapsed-Lady-I-Got-to-Date-Her-Beautiful-Twin-Daughters-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/06/For-Saving-a-Collapsed-Lady-I-Got-to-Date-Her-Beautiful-Twin-Daughters-Portada.jpg"/>
-<author><name>Yugaka Akua</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Harem" label="Harem"/>
+<title>Isshun wo Ikiru Kimi wo, Boku wa Eien ni Wasurenai Novela Ligera en Español</title>
+<id>https://nextnovels.com/isshun-wo-ikiru-kimi-wo-boku-wa-eien-ni-wasurenai-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/isshun-wo-ikiru-kimi-wo-boku-wa-eien-ni-wasurenai-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/08/Isshun-wo-Ikiru-Kimi-wo-Boku-wa-Eien-ni-Wasurenai-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/08/Isshun-wo-Ikiru-Kimi-wo-Boku-wa-Eien-ni-Wasurenai-Portada.jpg"/>
+<author><name>Yozora Fuyuno</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Psicológico" label="Psicológico"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
+<category term="Tragedia" label="Tragedia"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Después de ayudar a una mujer, ¡¿Soy perseguido por sus hijas, unas populares hermanas gemelas de mi clase?!
+<content type="text">Amano Teruhiko es un solitario estudiante de secundaria que desea llevar una vida discreta y tranquila. ¡Pero eso fue sin contar con su popular compañera de clase Ayabe Kaori, quien un día decidió convertirlo en su "fotógrafo personal"!
 
-Cuando una mujer se desplomó repentinamente en la calle, Ao Kirishima le practicó reanimación cardiopulmonar de inmediato y logró salvarle la vida. Ao se marchó del lugar sin dar su nombre, pero unos días después, las hijas de la mujer, dos...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1HUMtOaQQCXIsIRSKiSvVyw" type="text/html" title="Ichijou Translations"/>
+Al pasar tiempo juntos, la energía y la alegría de la joven influirán gradualmente en Teruhiko. Pero detrás de la radiante sonrisa de Kaori se esconde una verdad dolorosa; ella está luchando contra una enfermedad terminal. Cuando Teruhiko se entera, seguirá tomando fotos de su compañera con la esperanza de poder tomar la foto más auténtica de ella...</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1ePEpDt4c53tatK1l_sFNoQ" type="text/html" title="Kai Sakura VENTO"/>
 </entry>
 </feed>
