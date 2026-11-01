@@ -1,26 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Nora Kohigashi</id>
-<title>Nora Kohigashi</title>
-<updated>2026-10-25T03:42:53.797216+00:00</updated>
+<id>nextnovels:autores:Niteron</id>
+<title>Niteron</title>
+<updated>2026-11-01T04:01:33.546190+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-692.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>I Could Never Be a Succubus! Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-i-could-never-be-a-succubus-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-i-could-never-be-a-succubus-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/01/Watashi-wa-Succubus-Jaarimasen-Portada-1.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/01/Watashi-wa-Succubus-Jaarimasen-Portada-1.jpg"/>
-<author><name>Nora Kohigashi</name></author>
+<title>The Hole in My Heart Cannot Be Filled with Reincarnation Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-hole-in-my-heart-cannot-be-filled-with-reincarnation-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-hole-in-my-heart-cannot-be-filled-with-reincarnation-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/The-Hole-in-My-Heart-Cannot-Be-Filled-with-Reincarnation-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/09/The-Hole-in-My-Heart-Cannot-Be-Filled-with-Reincarnation-Portada.jpg"/>
+<author><name>Niteron</name></author>
 <category term="Acción" label="Acción"/>
 <category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
+<category term="Drama" label="Drama"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Liz, una joven noble, es la alumna estrella de su academia: talentosa, refinada, generosa y la niña de los ojos de todos. Pero el día que un héroe legendario llega a la academia para convalecer, Liz, a su pesar, hace lo impensable... ¡Pide los calzoncillos del héroe!
-
-Resulta que Liz tiene un secreto. Era miembro del grupo del héroe hasta que le robaron todos sus recuerdos durante una batalla culminante, ¡incluido el hecho de que es un demonio del deseo conocido como súcubo! Apenas puede creerlo cuando vuelve a despertar con sus poderes completamente fuera de lo común, pero por desgracia para Liz, está a punto de descubrir que no es tan fácil desafiar tu verdadera naturaleza...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Odg6HKKV-UJ54p9lpPyNfw" type="text/html" title="Kyūden Translation"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1XabhUGVhRM2uz3anjaIfCQ" type="text/html" title="World Project"/>
+<category term="Harem" label="Harem"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Romance" label="Romance"/>
+<content type="text">En un mundo donde los deseos despiertan magias únicas y los guerreros Adepts gozan de privilegios supremos, el reencarnado Konoe alcanza esta codiciada posición con un solo objetivo en mente: conseguir una poción de amor. Marcado por el trauma de su vida pasada e incapaz de confiar en los demás, cree que solo un brebaje mágico le permitirá ser al fin la persona más importante para alguien. Sin embargo, su plan da un giro inesperado cuando una chica de cabellos dorados y enfermedad terminal se cruza en su camino, ofreciéndole su devoción absoluta a cambio de que la salve.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/16ZnGyvUYcYxkTbk4TcKhTw" type="text/html" title="Astral Novel Translations"/>
 </entry>
 </feed>

@@ -1,31 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Konatsu Wakioka</id>
-<title>Konatsu Wakioka</title>
-<updated>2026-10-25T03:42:53.747307+00:00</updated>
+<id>nextnovels:autores:Komiyaji Chiji</id>
+<title>Komiyaji Chiji</title>
+<updated>2026-11-01T04:01:33.497085+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-465.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Naze ka S-kyuu Bijo-tachi no Wadai ni Ore ga Agaru Ken Novela Ligera en Español</title>
-<id>https://nextnovels.com/naze-ka-s-kyuu-bijo-tachi-no-wadai-ni-ore-ga-agaru-ken-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/naze-ka-s-kyuu-bijo-tachi-no-wadai-ni-ore-ga-agaru-ken-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/09/00.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/09/00.jpg"/>
-<author><name>Konatsu Wakioka</name></author>
+<title>When I Said, “I Want a Beautiful and Rich Girlfriend,” a Girl with Circumstances Showed Up Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-when-i-said-i-want-a-beautiful-and-rich-girlfriend-a-girl-with-circumstances-showed-up-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-when-i-said-i-want-a-beautiful-and-rich-girlfriend-a-girl-with-circumstances-showed-up-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/When-I-Said-I-Want-a-Beautiful-and-Rich-Girlfriend-a-Girl-with-Circumstances-Showed-Up-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/02/When-I-Said-I-Want-a-Beautiful-and-Rich-Girlfriend-a-Girl-with-Circumstances-Showed-Up-Portada.jpg"/>
+<author><name>Komiyaji Chiji</name></author>
+<category term="Adulto" label="Adulto"/>
 <category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
 <category term="Ecchi" label="Ecchi"/>
-<category term="Harem" label="Harem"/>
+<category term="Maduro" label="Maduro"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">—En realidad, tuve un encuentro que cambiará mi vida y afectará significativamente mi futuro.
+<content type="text">"Ser simplemente hermosa no supone amor".
 
-Sara Himekawa, Rin Kohinata y Yumena Takamori son chicas de preparatoria conocidas como las 'bellezas de clase S'.
+Esta es una comedia romántica adolescente ligeramente madura que cuestiona el significado de enamorarse.
 
-Mientras la clase está llena de historias de amor que causan envidia, también está Haruya Akasaki, el chico más callado de la clase.
+Shino Iori (virgen), un estudiante universitario de Fukuoka, se compromete con Tendou Tsukasa, una conocida celebridad del campus, por un comentario involuntario que hizo a su familia.
 
-Y, de hecho, ¡el chico del que están hablando es Haruya Akasaki!
+Ella es una belleza y rica. Sin embargo, Iori se siente desanimado por su prometida, de la que se rumorea que "se acuesta con cualquiera", y Tsukasa se le insinúa agresivamente... ¿hacia dónde irá su futuro?
 
-Una comedia romántica escolar sobre un chico tímido y las 'bellezas de clase S' ha comenzado.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1f8ev60lckdylFaKyxRBamg" type="text/html" title="Ilusion Shuri Novels"/>
+¡¡¡Este es el comienzo de una comedia romántica "ligeramente madura" de género ruptura-noviazgo que cuestiona el significado del enamoramiento!!!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1hSCijg0rIyhTNFsdLJ4DAA" type="text/html" title="Tamashi's Project"/>
 </entry>
 </feed>

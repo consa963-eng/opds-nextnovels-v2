@@ -1,24 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Ryuusen Hirotsugu</id>
-<title>Ryuusen Hirotsugu</title>
-<updated>2026-10-25T03:42:53.815288+00:00</updated>
+<id>nextnovels:autores:Ryunosuke</id>
+<title>Ryunosuke</title>
+<updated>2026-11-01T04:01:33.563712+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-774.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Kenja no Deshi wo Nanoru Kenja Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-kenja-no-deshi-wo-nanoru-kenja-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-kenja-no-deshi-wo-nanoru-kenja-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/11/01-28.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/11/01-28.jpg"/>
-<author><name>Ryuusen Hirotsugu</name></author>
-<category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
+<title>To the Monster I Love Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-to-the-monster-i-love-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-to-the-monster-i-love-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/To-the-Monster-I-Love-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/08/To-the-Monster-I-Love-Portada.jpg"/>
+<author><name>Ryunosuke</name></author>
+<category term="Acción" label="Acción"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Gender Bender" label="Gender Bender"/>
-<category term="Magia" label="Magia"/>
+<category term="Harem" label="Harem"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Psicológico" label="Psicológico"/>
 <category term="Romance" label="Romance"/>
-<content type="text">En un VRMMORPG de origen misterioso, Sakimori Kagami con su digno personaje, ostentaba el titulo de ser uno de los Nueve Sabios, lo que lo colocaba en el pináculo de los magos. Un día para no dejar que se desperdiciara su saldo del juego, compro el articulo más barato, el cual permitía modificar la apariencia del personaje, y se le ocurrió la idea de crear el personaje femenino ideal, debido a que ya había creado el masculino, al final de esto, una repentina somnolencia lo atacó, al despertar se encontraba en un mundo más realista que el del juego y se había transformado en una linda jovencita. Por lo que ahora tiene que adaptarse a este mundo con su nueva identidad y genero.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1_UBp-V40WfKAMa4dxyzA4g" type="text/html" title="Ferindrad"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1ZnAqQiMP-MmTdJHplLDLJg" type="text/html" title="LNBytes"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">¿Te has enamorado de un monstruo? Los recuerdos y confesión de un cierto chico.
+
+Balldlum, la ciudad amurallada- aquí en un cuarto poco alumbrado. El chico Norman estaba restringido.
+
+Parece que me están por interrogar. Hablaré de las Ilegalidades, aquellos con habilidades anormales de convertir emociones en poder. Y mis recuerdos se confrontan con las 4 bellezas llamadas "Tear Flower" "Demon Dog" "Jewel" "Hada" y los monstruos. Cumplir los deseos de las feroces y fuertes chicas que no tienen motivación. Lidiar en secreto con extraños incidentes en esta ciudad.
+
+Magia, milagros, fantasías— parece que nada de eso se permite en esta ciudad. Sin embargo, aún hay esperanza. ¿Por qué? Lo entenderás si escuchas esto.
+
+Se supone que esta es mi verdadera misión. Pero ahora, soy el gran criminal que arrojó al caos la ciudad.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1-00zliBELC13UAzJoef2tg" type="text/html" title="WisheSubs"/>
 </entry>
 </feed>

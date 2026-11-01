@@ -1,39 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Yaku Yuuki</id>
-<title>Yaku Yuuki</title>
-<updated>2026-10-25T03:42:53.877394+00:00</updated>
+<id>nextnovels:autores:Y.A</id>
+<title>Y.A</title>
+<updated>2026-11-01T04:01:33.649422+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1051.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Jaku-chara Tomozaki-kun Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-jaku-chara-tomozaki-kun-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-jaku-chara-tomozaki-kun-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-74.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-74.jpg"/>
-<author><name>Yaku Yuuki</name></author>
+<title>Hachinan tte Sore wa Nai Deshou! Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-hachinan-tte-sore-wa-nai-deshou-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-hachinan-tte-sore-wa-nai-deshou-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/04/Hachinan-tte-Sore-wa-Nai-Deshou-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/04/Hachinan-tte-Sore-wa-Nai-Deshou-Portada.jpg"/>
+<author><name>Y.A</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
 <category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Maduro" label="Maduro"/>
 <category term="Romance" label="Romance"/>
 <category term="Seinen" label="Seinen"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Esto está a la cabeza de las guías de estrategia de la Vida (un videojuego de mierda).
+<content type="text">Ichinomiya Shingo, un joven de 25 años, soltero, trabajador de empresa, mientras pensaba en el día de trabajo ocupado de mañana, fue a dormir. Sin embargo, en el momento en que se despertó, era una habitación desconocida para él.
 
-La vida es un mal videojuego. Esta frase tan común es, por desafortunada que sea, la verdad.
+Luego se enteró de que estaba dentro de un niño de 6 años y había tomado su mente.
 
-Al fin y al cabo, la vida no tiene reglas simples y sencillas. Las reglas que tiene no son más que irracionales e injustas. Los fuertes afirman que la Vida tiene un alto nivel de libertad, pero los débiles no tienen más remedio que enfrentarse a un diseño abrumadoramente desventajoso.
+Además, aprendió mucho de los recuerdos de dicho chico: nació como el hijo menor (8° hijo) de una pobre familia noble que vivía en una zona rural. Sin habilidad administrativa, no podía hacer nada para manejar la vasta tierra que tenía su familia.
 
-Por eso es un juego de mierda.
-
-Puesto que lo digo yo, el principal jugador de Japón que ha experimentado y dominado multitud de juegos, no puede haber ningún error.
-
-- Sin embargo, esa persona, además de dominar los juegos casi al mismo nivel que yo, me declaró que Life es un juego de nivel divino.
-
-Destinada a ser un personaje de primer nivel, esa persona es la heroína perfecta de la escuela, Hinami Aoi. Y para colmo, incluso dice que me enseñará las reglas de la Vida...
-
-...... Normalmente, no me creería algo así. Sin embargo, Hinami Aoi es alguien que no encaja para nada en un marco como el "normal".
-
-Del ganador del 10º Premio Shogakukan de Novela Ligera a la Excelencia. Un personaje de bajo nivel se enfrenta a la guía de estrategia de la vida, ¡pero con la instrucción de una chica guapa!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/10Hx-88x1d75Z-Q3c06qbIQ" type="text/html" title="Hitoribocchi translation"/>
+Afortunadamente, fue bendecido con un talento muy raro, talento de magia. Desafortunadamente, mientras su talento podía traer prosperidad a su familia, en su situación sólo trajo desastre.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1jGicB8ZTDRuAhvI6Itkd0w" type="text/html" title="Vastolord , MiraiK, Pablo 3681"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1qMZTYi9Y5hUrbVkEy8gXgA" type="text/html" title="Ferindrad"/>
 </entry>
 </feed>

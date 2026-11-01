@@ -1,20 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Uta Sakura</id>
-<title>Uta Sakura</title>
-<updated>2026-10-25T03:42:53.873421+00:00</updated>
+<id>nextnovels:autores:Urushibara Yukito</id>
+<title>Urushibara Yukito</title>
+<updated>2026-11-01T04:01:33.645401+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1033.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Forming a Harem of Ladies From Different Races Is a Piece of Cake If a Big Brother Gets Serious! Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-forming-a-harem-of-ladies-from-different-races-is-a-piece-of-cake-if-a-big-brother-gets-serious-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-forming-a-harem-of-ladies-from-different-races-is-a-piece-of-cake-if-a-big-brother-gets-serious-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/04/Forming-a-Harem-of-Ladies-From-Different-Races-Is-a-Piece-of-Cake-If-a-Big-Brother-Gets-Serious-Portada.jpeg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/04/Forming-a-Harem-of-Ladies-From-Different-Races-Is-a-Piece-of-Cake-If-a-Big-Brother-Gets-Serious-Portada.jpeg"/>
-<author><name>Uta Sakura</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Fantasía" label="Fantasía"/>
+<title>Moshimo Ashita, Kono Sekai ga Owaru to Shitara Novela Ligera en Español</title>
+<id>https://nextnovels.com/moshimo-ashita-kono-sekai-ga-owaru-to-shitara-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/moshimo-ashita-kono-sekai-ga-owaru-to-shitara-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/11/Moshimo-Ashita-Kono-Sekai-ga-Owaru-to-Shitara-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/11/Moshimo-Ashita-Kono-Sekai-ga-Owaru-to-Shitara-Portada.jpg"/>
+<author><name>Urushibara Yukito</name></author>
+<category term="Adulto" label="Adulto"/>
+<category term="Drama" label="Drama"/>
 <category term="Romance" label="Romance"/>
-<content type="text">"Dejar que Onii-chan conquiste a las chicas... ¡Déjamelo a mí!" La joven y ingenua elfa, Lili Angefort. Apenas huyó de casa, fue capturada de inmediato por criminales, pero fue rescatada de su apuro por dos hermanos que se hacen llamar Noah y Luna. Sin embargo, parece que estos hermanos también tienen sus propios planes... ¿!?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1_DmBHIXeukQ1P-6KAlJ2dg" type="text/html" title="Dark Guild Fansub"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Es el fin del mundo. No hay esperanza. Pero, aun así, la gente se enamora… Solo le queda un año de vida al mundo que aquel héroe una vez salvó. Aunque solo pueda ser salvado con su muerte…
+
+«Osaki Sora-san, por favor, te lo ruego. ¿Podrías salvar este mundo?».
+
+«Eres la reencarnación del héroe que una vez salvó este mundo».
+
+Antes del fin del mundo, el chico duda. Piensa en los días que pasó con esa chica después de ser invocado en este mundo, es un poco tonta y se enoja demasiado rápido, pero sus esporádicas sonrisas lo hacen feliz.
+
+«Este mundo y la única chica que aprecio. Si solo puedo elegir uno…».</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1jxp9Akh2saCfqFQrQMSAVw" type="text/html" title="DantalianSubs"/>
 </entry>
 </feed>

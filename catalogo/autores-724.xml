@@ -1,32 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Orijima Kanoko</id>
-<title>Orijima Kanoko</title>
-<updated>2026-10-25T03:42:53.804505+00:00</updated>
+<id>nextnovels:autores:Oosaki Isle</id>
+<title>Oosaki Isle</title>
+<updated>2026-11-01T04:01:33.552946+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-724.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Usotsuki Lip wa Koi de Kuzureru Novela Ligera en Español</title>
-<id>https://nextnovels.com/usotsuki-lip-wa-koi-de-kuzureru-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/usotsuki-lip-wa-koi-de-kuzureru-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/10/Usotsuki-Lip-wa-Koi-de-Kuzureru-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/10/Usotsuki-Lip-wa-Koi-de-Kuzureru-Portada.jpg"/>
-<author><name>Orijima Kanoko</name></author>
+<title>Full Clearing Another World under a Goddess with Zero Believers Novela Ligera en Español</title>
+<id>https://nextnovels.com/full-clearing-another-world-under-a-goddess-with-zero-believers-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/full-clearing-another-world-under-a-goddess-with-zero-believers-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/02/portada-3-e1643787635590.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/02/portada-3-e1643787635590.jpg"/>
+<author><name>Oosaki Isle</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
 <category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
 <category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">La historia de… Sagara Sohei, un estudiante universitario que insiste en vivir solo, y Nanase Haruko, una chica hermosa y brillante. Una estrella universitaria que vivía al lado. En su lindo apartamento.
+<category term="Shounen" label="Shounen"/>
+<content type="text">Makoto Takatsuki es un estudiante normal de preparatoria y un jugador experto en juegos de rol.
 
-Desde el punto de vista de Sohei Se puede decir que la identidad de Haruko está en una dimensión diferente, como si fuera un extraterrestre. Sin embargo… La verdadera identidad de esa chica hermosa y perfecta. En cambio, ella era solo una chica con una apariencia hogareña. Exitosa y popular cuando se escribió en la universidad.
+Sin embargo, la «normalidad» se esfuma cuando toda su clase sufre un accidente de autobús y es transportada a otro mundo. Poderosos dioses gobiernan esta nueva y extraña tierra de magia y monstruos, y todos los recién llegados son bendecidos con fuertes estadísticas y habilidades únicas.
 
-Después de conocer ese secreto, Sohei decide unir fuerzas con la torpe Haruko. Para proteger mi propia vida pacífica y aislada.
+Bueno, no del todo. Las estadísticas de Makoto resultan ser patéticas, y sus habilidades son súper débiles comparadas con las de sus compañeros… incluso está atrapado como mago aprendiz. Y lo que es peor, ¡sólo le quedan diez años de vida!
 
-“Mientras puedas vivir tu vida como una chica hermosa y brillante. No hay necesidad de interferir conmigo.”
+Por suerte, Makoto pronto conoce a una diosa menor llamada Noah, que se le aparece en sueños y le pide que se convierta en su primer creyente. Con la ayuda de las bendiciones de Noé y de un arma divina, Makoto intenta hacerse lo suficientemente fuerte para rescatar a su diosa de la mazmorra en la que está atrapada.
 
-“Sagara-kun… ¡¡Me gusta hacer cosas complicadas!!”
-
-Si se revela la cara de tu chica de casa, ¿podría arruinarse así su brillante vida universitaria?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1PMnWWo4sjA8Whtt_dDWUcQ" type="text/html" title="Legends no Fansub"/>
+Entrenando duro y utilizando sus débiles habilidades de formas poco ortodoxas, Makoto demuestra que, incluso jugando en dificultad hardcore, ¡un jugador de RPG siempre llega al final!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1jA8p07tHLbF04ksjsPIETg" type="text/html" title="Akira Translations"/>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1gkyxatyw1AueGUc2Vi-6Cw" type="text/html" title="World Project"/>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1B6J-uJNan3T46fFUZeK5EA" type="text/html" title="Los Musculos De Vandelieu"/>
 </entry>
 </feed>

@@ -1,48 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Mikumo Gakuto</id>
-<title>Mikumo Gakuto</title>
-<updated>2026-10-25T03:42:53.771985+00:00</updated>
+<id>nextnovels:autores:Miku</id>
+<title>Miku</title>
+<updated>2026-11-01T04:01:33.521555+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-578.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Strike the Blood Novela Ligera en Español</title>
-<id>https://nextnovels.com/strike-the-blood-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/strike-the-blood-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-67.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-67.jpg"/>
-<author><name>Mikumo Gakuto</name></author>
+<title>Bushinden: Ikenie ni Sasagerareta Ore wa, Kami ni Hirowarebu wo Kiwameru Novela Ligera en Español</title>
+<id>https://nextnovels.com/bushinden-ikenie-ni-sasagerareta-ore-wa-kami-ni-hirowarebu-wo-kiwameru-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/bushinden-ikenie-ni-sasagerareta-ore-wa-kami-ni-hirowarebu-wo-kiwameru-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/05/Bushinden-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/05/Bushinden-Portada.jpg"/>
+<author><name>Miku</name></author>
 <category term="Acción" label="Acción"/>
 <category term="Artes marciales" label="Artes marciales"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Psicológico" label="Psicológico"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
 <category term="Romance" label="Romance"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">"El cuarto primogénito" - Es el vampiro más fuerte del mundo que sólo debería existir en las leyendas. Acompañado incluso por doce Kenjuu y propagando la calamidad, este vampiro fantasma apareció en Japón.
+<category term="Shounen" label="Shounen"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">Desde su infancia, Toma Godo ha sido incapaz de usar magia, como resultado, fue despreciado y tratado como un incompetente por su propio padre.
 
-Para la observación y aniquilación de este "cuarto primogénito", el gobierno y el Rey León decidieron enviar a un mago de ataque denominado "chamán de las espadas". Sin embargo, por alguna razón, la elegida para la observación fue una aprendiz de "chamán de las espadas", Himeragi Yukina.
+Esto provocó que fuese sacrificado en la isla de los Demonios. Donde vagan feroces bestias demoniacas. Sin embargo, allí conoce a un semidiós que lo ayudará a dominar el arte del combate hasta volverse un ser invencible.
 
-Empuñando la más fuerte lanza espiritual anti-primogenitor, Yukina llegó al Santuario de los Demonios, "Ciudad Itogami". ¿Cuál era la verdadera identidad del "cuarto primigenio", Akatsuki Kojou, que encontró allí?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1I3q5ffa5sWMLBv7Lr8Qj7g" type="text/html" title="Kaleid Word Translations: CanisLycaon"/>
+Un día en la peligrosa isla aparece una chica que se hace llamar Lise, Toma jura protegerla, y ambos escapan de la isla mientras que ocultan su secreto de ser el hombre más poderoso del mundo con el fin de no afectar su misma supervivencia en el mundo y de la raza humana.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/19yX-1c45CqRhFWPpogjHPg" type="text/html" title="Gashadokai"/>
 </entry>
 <entry>
-<title>The Mystic Archives of Dantalian Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-mystic-archives-of-dantalian-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-mystic-archives-of-dantalian-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/The-Mystic-Archives-of-Dantalian-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/05/The-Mystic-Archives-of-Dantalian-Portada.jpg"/>
-<author><name>Mikumo Gakuto</name></author>
+<title>Isekai de Cheat Skill Novela Ligera en Español</title>
+<id>https://nextnovels.com/isekai-de-cheat-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/isekai-de-cheat-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/03/Isekai-de-Cheat-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/03/Isekai-de-Cheat-Portada.jpg"/>
+<author><name>Miku</name></author>
 <category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Horror" label="Horror"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Shounen" label="Shounen"/>
+<category term="Harem" label="Harem"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
 <category term="Supernatural" label="Supernatural"/>
-<content type="text">El joven Huey se hizo cargo de la antigua mansión de su difunto abuelo, un apasionado de los libros, así como de la colección de libros que allí se guardaba. Pero había una condición: también tenía que heredar la «Bibliotheca».
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Tenjou Yuuya ha sido un niño acosado desde el pasado.
 
-Al inspeccionar la mansión, Huey descubre un sótano lleno de libros apilados. En medio de ellos se encuentra con una chica vestida de negro que lee en silencio un libro. Se llama Dalian y lleva un gran candado colgado delante. Ella misma es la entrada a la «Bibliotheca de Dantalian», que contiene los prohibidos «Libros Fantasma».</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1gXPJBYOW_myatl41BTnaQw" type="text/html" title="Next Novels (MTL)"/>
+Vive en la casa de su querido abuelo mientras va a la escuela. Como es habitual, recibe un duro acoso, y se toma una larga ausencia de la escuela para tener algo de tiempo para curar sus heridas.
+
+Durante este largo tiempo de ausencia, aprovecha para limpiar la casa de su abuelo y va a una habitación a la que nunca había ido, donde su abuelo guarda muchos objetos diferentes que recogió de sus viajes por el mundo. Mientras ordenaba los objetos, encuentra una puerta que no está en una pared entre los objetos.
+
+Por curiosidad abre esta puerta, lo que encontró al otro lado fue...</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1abxeYQHRhU8P0_FBpPmxBQ" type="text/html" title="Lolipoi - Kinako Pan"/>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1ecIEm5Ps2BsO0IORqDwSgA" type="text/html" title="Akat Novels"/>
 </entry>
 </feed>

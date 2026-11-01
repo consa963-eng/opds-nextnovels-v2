@@ -1,29 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kamishiro Kyousuke</id>
-<title>Kamishiro Kyousuke</title>
-<updated>2026-10-25T03:42:53.645223+00:00</updated>
+<id>nextnovels:autores:Kamino Okina</id>
+<title>Kamino Okina</title>
+<updated>2026-11-01T04:01:33.474503+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-362.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>My Stepmom’s Daughter Is My Ex Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-my-stepmoms-daughter-is-my-ex-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-my-stepmoms-daughter-is-my-ex-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-27.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-27.jpg"/>
-<author><name>Kamishiro Kyousuke</name></author>
+<title>Cat Planet Cuties Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-cat-planet-cuties-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-cat-planet-cuties-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/Cat-Planet-Cuties-Portada-1.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/03/Cat-Planet-Cuties-Portada-1.jpg"/>
+<author><name>Kamino Okina</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
 <category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Mecha" label="Mecha"/>
 <category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Un chico y una chica de la escuela secundaria se convirtieron en pareja, coquetearon, discreparon en cosas triviales, se irritaron con más frecuencia el uno con el otro... y finalmente rompieron al graduarse.
-
-Ahora, en el instituto, los dos, Irido Mizuto y Ayai Yume, acabaron encontrándose de la forma más inesperada.
-
-La antigua pareja, reunida por el nuevo matrimonio de sus padres, decidió tener en cuenta los sentimientos de sus padres e ideó una "regla de hermanos", según la cual el primero que toma conciencia del otro como miembro del otro sexo pierde, pero...
-
-Cuando se encuentran en el cuarto de baño, van y vienen juntos de la escuela, junto con los recuerdos del pasado y viviendo bajo el mismo techo, ¿cómo se desentienden el uno del otro?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1GaT_76edPp81IHFNHBWBcQ" type="text/html" title="Einherjar Project y Nahucirujano Translations"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1L0JZUH6xNMXVMcW3CSSuHg" type="text/html" title="Tamashi's Project"/>
+<content type="text">Kakazu Kio, un estudiante de bachillerato de Okinawa (Japón), se despertó y se encontró a una chica desconocida a su lado, que emitía los suaves y constantes sonidos de alguien que duerme. ¡Y además le salían orejas y una cola de gato! Ante el atónito Kio, apareció su amiga de la infancia con el desayuno. Con voz severa, le preguntó: «¿Dónde está la chica guapa que volvió contigo ayer? ¡Preséntamela!». Justo cuando estas dos duras frases estaban a punto de convertirse en una auténtica reunión de denuncia de pervertidos, la hermosa y estricta profesora, Itokazu Maki, irrumpió en la habitación, complicando aún más las cosas para Kio. Sin embargo… ¡esta chica de orejas de gato que se hace llamar Eris es, en realidad, una extraterrestre! Pero un misterioso grupo que se niega a aceptar este tipo de contacto extraterrestre, así como la CIA, por no hablar de la Agencia de Inteligencia Japonesa, están extendiendo sus sucias manos hacia la despreocupada Eris. «¡Basta ya! ¿Qué te ha hecho Eris?».</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/11SkAMKXvdWJtr90MPoX7RQ" type="text/html" title="Patosantranslations"/>
 </entry>
 </feed>

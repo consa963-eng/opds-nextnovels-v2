@@ -1,35 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Sasato Goro</id>
-<title>Sasato Goro</title>
-<updated>2026-10-25T03:42:53.824677+00:00</updated>
+<id>nextnovels:autores:Sasaki Ichirou</id>
+<title>Sasaki Ichirou</title>
+<updated>2026-11-01T04:01:33.572592+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-815.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Aren’t you Embarrassed to Lose to a Maid? Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-arent-you-embarrassed-to-lose-to-a-maid-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-arent-you-embarrassed-to-lose-to-a-maid-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/Arent-you-Embarrassed-to-Lose-to-a-Maid-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/07/Arent-you-Embarrassed-to-Lose-to-a-Maid-Portada.jpg"/>
-<author><name>Sasato Goro</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Ecchi" label="Ecchi"/>
+<title>Kyuuketsu-hime Tan Astrid Novela Ligera en Español</title>
+<id>https://nextnovels.com/kyuuketsu-hime-tan-astrid-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/kyuuketsu-hime-tan-astrid-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/03/Kyuuketsu-hime-Tan-Astrid-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/03/Kyuuketsu-hime-Tan-Astrid-Portada.jpg"/>
+<author><name>Sasaki Ichirou</name></author>
+<category term="Adulto" label="Adulto"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Romance" label="Romance"/>
-<category term="Shoujo Ai" label="Shoujo Ai"/>
-<category term="Yuri" label="Yuri"/>
-<content type="text">La sirvienta de baja cuna Lotte, incapaz de encajar en su entorno laboral debido a la diferencia abismal de estutus entre ella y sus compañeras. La valiente y audaz Alicia, una dama noble admirada por todos como la Gran Princesa Caballero del reino. Este par, ama y sirvienta guarda un indevido secret.
+<category term="Maduro" label="Maduro"/>
+<category term="Tetona" label="Tetona"/>
+<content type="text">Mi adorable y linda princesita vampiro: siempre y para siempre estaré contigo.
 
-Alicia acostumbra llamar a Lotte a su recamara y le da ordenes indecorosas
+Cabello dorado, ojos ámbar - la verdadera vampira Astrid.
 
-「¿Podrias someterme? 」
+Crepúsculo, en el camino a un santuario, conocí y me enamoré de un vampiro inmortal.
 
-「¡¿Eeeh?! ¿Yo, hacer eso con Lady Alicia? 」
+"Encantada" de corazón, ¡una primera experiencia que roba la v*rginidad de dos centenares de años!
 
-Un deseo de sumision que nadie podria esperar en su comportamiento diario, puro e intachable.
+¡Monopolizando la hermosa cabellera y su c*lo, hacia adelante a una propuesta de matrimonio e impr*gnación!
 
-Lotte, mientras se repite a si misma sin cesar que solo es parte de su trabajo como sirienta, acepta obedecer esas perversas ordenes, pero desde el primer dia queella se lo popuso, el corazon de Lotte no paro de latir de la emocion.
-
-A medida que aumentan sus enchutaros secretos y los momentos que la intachable caballero le arrebata durante el trabajo para ser, atentendida, ambas caen en una atraccion mutua y autodependiente.... Una historia de amor y sumision entre una sirvienta y una princesa caballero que no puede contenerse de dar ordenes atrevidas.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1jvNgjmR-uOQbJxkj48QILg" type="text/html" title="Kyūden Translation"/>
+Humano y monstruo, esta es una historia sobre el primer amor que es más importante que la vida eterna.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1myRcim7_N5VE0RKt3B_YxA" type="text/html" title="Domen Translations"/>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1AKsihlOJbZzN6YCEHwV0Bw" type="text/html" title="Defous123"/>
 </entry>
 </feed>

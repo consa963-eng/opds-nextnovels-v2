@@ -1,23 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Ismi Fa Ismail</id>
-<title>Ismi Fa Ismail</title>
-<updated>2026-10-25T03:42:53.602676+00:00</updated>
+<id>nextnovels:autores:Ishio Yamagata</id>
+<title>Ishio Yamagata</title>
+<updated>2026-11-01T04:01:33.464491+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-319.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Don’t Read This Novel Novela Ligera en Español</title>
-<id>https://nextnovels.com/dont-read-this-novel-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/dont-read-this-novel-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/07/Dont-Read-This-Novel-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/07/Dont-Read-This-Novel-Portada.jpg"/>
-<author><name>Ismi Fa Ismail</name></author>
-<category term="Horror" label="Horror"/>
+<title>Rokka no Yuusha Novela Ligera en Español</title>
+<id>https://nextnovels.com/rokka-no-yuusha-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/rokka-no-yuusha-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/03/Rokka-No-Yuusha-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/03/Rokka-No-Yuusha-Portada.jpg"/>
+<author><name>Ishio Yamagata</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Fantasía" label="Fantasía"/>
 <category term="Misterio" label="Misterio"/>
 <category term="Psicológico" label="Psicológico"/>
+<category term="Romance" label="Romance"/>
+<category term="Supernatural" label="Supernatural"/>
 <category term="Tragedia" label="Tragedia"/>
-<content type="text">Es aburrido si solo lees historias de amor, ¿verdad?
-
-Prueba esta novela. Pero ¡no la leas solo! Asegúrate de que haya alguien contigo, ya que puedes comenzar a sentirse extraño. O tal vez simplemente alucines sobre cosas que no deberían estar ahí. Esta novela no es para aquellos con un espíritu débil sino para aquellos que quieren trabajar su mente y fortalecer su corazón. Cuanto más leas, más pensarás y más rápido latirá tu corazón. ¿No me crees? Inténtalo…</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1-7-elE2od9-72FM6JNBBOA" type="text/html" title="Blue Phoenix Translations"/>
+<content type="text">Cada 100 años el dios demonio despierta de su letargo y amenaza la existencia de la humanidad sin embargo cada vez que esto pasa 6 heroes elegidos por la diosa del destino obtienen su poder y luchan por salvar a la humanidad. esta historia se sentra en una nueva generacion de heroes que enfrentaran problemas nunca vistos por otras generaciones empezando con un heroe impostor que busca asesinarlos.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1sG94bf2ryASGYX-NwUWQ7Q" type="text/html" title="Akat Novels"/>
 </entry>
 </feed>

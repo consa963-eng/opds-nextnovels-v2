@@ -1,34 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Zezeze</id>
-<title>Zezeze</title>
-<updated>2026-10-25T03:42:53.894806+00:00</updated>
+<id>nextnovels:autores:Yūta</id>
+<title>Yūta</title>
+<updated>2026-11-01T04:01:33.668048+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1131.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>The Girls in The Entertainment Department Won't Let me, an Ardinary Person, Escape Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-girls-in-the-entertainment-department-wont-let-me-an-ardinary-person-escape-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-girls-in-the-entertainment-department-wont-let-me-an-ardinary-person-escape-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/06/The-Girls-in-The-Entertainment-Department-Wont-Let-me-an-Ardinary-Person-Escape-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/06/The-Girls-in-The-Entertainment-Department-Wont-Let-me-an-Ardinary-Person-Escape-Portada.jpg"/>
-<author><name>Zezeze</name></author>
+<title>Kono Koi, Okuchi ni Aimasu ka? Novela Ligera en Español</title>
+<id>https://nextnovels.com/kono-koi-okuchi-ni-aimasu-ka-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/kono-koi-okuchi-ni-aimasu-ka-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/06/Kono-Koi-Okuchi-ni-Aimasu-ka-Portada.jpeg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/06/Kono-Koi-Okuchi-ni-Aimasu-ka-Portada.jpeg"/>
+<author><name>Yūta</name></author>
 <category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Harem" label="Harem"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">¡ Las chicas que saben distinguir lo extraordinario no pueden ignorar a este chico!
+<content type="text">Todos, ni siquiera tratan de entenderme-
 
-"Yo, en realidad, estoy en el departamento académico..."
+Yo, Kiminami Toui, conocido como el niño problemático número uno de la escuela, tengo un sueño para el futuro.
 
-Yuto Aoi, hijo secreto de un actor famoso, ingresa a la Preparatoria Privada Ichiyo, que tiene diversos departamentos.
+Por ese sueño, todo lo demás me importa un bledo.
 
-Él, como un estudiante común del departamento académico, desea tener una vida estudiantil tranquila... ¡Pero, por alguna razón, las chicas del departamento de artes escénicas no lo dejan en paz!
+Pero un día, todo cambia cuando mi padre me obliga a asistir a un matrimonio concertado.
 
-Es acusado de ser el novio de su amiga de la infancia, Akari Hotta, que sueña con ser idol, debido a su cercana relación y comienza a vivir al lado de la popular actriz joven de su edad, Nagisa Minase, lo que da lugar a una vida diaria ruidosa y llena de atención.
+Su nombre es Shirahime Rira, la chica más guapa de la escuela y la mejor estudiante, además de hija del presidente de una empresa y de una activa modelo conocida como 'S-Hime'.
 
-Además, la genética de su padre, quien fue llamado un ‘guapo nivel tesoro nacional’ cuando era joven, es bastante fuerte, y, debido a su atractivo oculto y su talento para la actuación ¡Le encargan ser la pareja para el examen del departamento de artes escénicas de Nagisa!
+Todo en ella es exactamente lo contrario a mí. Con una verdadera naturaleza muy distinta a su aspecto exterior, se interpone en el camino de mis sueños e incluso amenaza con besarme todos los días, encargándose ella misma de reformarme.
 
-¡Una comedia romántica escolar llena de chicas brillantes que se interesan por él!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1MN4kNMvm4_fkrc4jfuxonw" type="text/html" title="Tamashi's Project"/>
+Esto es malo. Tengo que hacer algo con ella rápidamente por el bien de mi futuro...
+
+Pero parece que incluso la aparentemente invencible Shirahime tiene circunstancias que la obligan a ser perfecta...</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1pbtekhrsm5zANvt41Dq_RA" type="text/html" title="Ilusion Shuri Novels"/>
 </entry>
 </feed>

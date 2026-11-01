@@ -1,37 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Seto Meguru</id>
-<title>Seto Meguru</title>
-<updated>2026-10-25T03:42:53.828341+00:00</updated>
+<id>nextnovels:autores:Senya Mihagi</id>
+<title>Senya Mihagi</title>
+<updated>2026-11-01T04:01:33.576416+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-832.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>The Hidden Dungeon Only I Can Enter Novela Ligera en Español</title>
-<id>https://nextnovels.com/the-hidden-dungeon-only-i-can-enter-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/the-hidden-dungeon-only-i-can-enter-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2021/12/The-hidden-dungeon-1-e1641220503607.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2021/12/The-hidden-dungeon-1-e1641220503607.jpg"/>
-<author><name>Seto Meguru</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
+<title>Welcome to the Tama High Social Dance Club Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-welcome-to-the-tama-high-social-dance-club-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-welcome-to-the-tama-high-social-dance-club-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/Welcome-to-the-Tama-High-Social-Dance-Club-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/03/Welcome-to-the-Tama-High-Social-Dance-Club-Portada.jpg"/>
+<author><name>Senya Mihagi</name></author>
 <category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
+<category term="Deportes" label="Deportes"/>
 <category term="Romance" label="Romance"/>
-<category term="Supernatural" label="Supernatural"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Noir, el tercer hijo de un "noble de poca monta", de forma inesperada termina perdiendo su trabajo, pero la fortuna le sonrió cuando se convirtió en un aventurero.
+<content type="text">Yukiya, un estudiante de instituto cualquiera que se matriculó en el Instituto de Saitama, acaba uniéndose inesperadamente al «Club de Baile Social». Aunque Yukiya se sentía como en casa en este club tan relajado y lleno de miembros excéntricos, poco a poco se va viendo atraído por la profundidad y el disfrute del baile social. Pero justo entonces, con la supervivencia del club en juego, ¡acaban teniendo que enfrentarse al Club de Baile Competitivo!?
 
-Mazmorras ocultas en las que nadie sabe cómo entrar. Lugares Legendarios infestados de Monstruos mágicos extremadamente peligrosos, herramientas fuera de lo normal con poderes mágicos increíblemente altos y objetos que serían una de reliquia en cualquier parte del mundo.
-
-Una de esas mazmorras se abrió ante Noir.
-
-"Sin decirle a nadie sobre este lugar, en secreto me convertiré en el más fuerte"
-
-Un mundo complicado para los que perteneces a la nobleza. Sin autoridad ni honor, sin posibilidad de poder adquirir poder...
-
-¿Qué le esperará a Noir en su aventura? ¿Qué beneficios y desgracias le causará esta mazmorra secreta?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/15l4P-pbL7AZDo-mnU7MCgA" type="text/html" title="God's Earth Translations"/>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1GAxhjDwVhzdWKEgHw2__0Q" type="text/html" title="World Project"/>
+¡Ganador del Premio Especial en la 20.ª edición de los Sneaker Awards (Selección de Primavera)!! ¡Se levanta el telón de una historia juvenil de baile y comedia romántica!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/11UR9cy-KvgALa_84WIdhWQ" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 </feed>

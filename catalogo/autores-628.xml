@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Mugi Amamiya</id>
-<title>Mugi Amamiya</title>
-<updated>2026-10-25T03:42:53.782520+00:00</updated>
+<id>nextnovels:autores:Motoo Nakanishi</id>
+<title>Motoo Nakanishi</title>
+<updated>2026-11-01T04:01:33.532272+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-628.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Tensai Joyuu no Osananajimi to, Kiss Scene wo Enjiru Koto ni Natta Novela Ligera en Español</title>
-<id>https://nextnovels.com/tensai-joyuu-no-osananajimi-to-kiss-scene-wo-enjiru-koto-ni-natta-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/tensai-joyuu-no-osananajimi-to-kiss-scene-wo-enjiru-koto-ni-natta-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/02/Tensai-Joyuu-no-Osananajimi-to-Kiss-Scene-wo-Enjiru-Koto-ni-Natta-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/02/Tensai-Joyuu-no-Osananajimi-to-Kiss-Scene-wo-Enjiru-Koto-ni-Natta-Portada.jpg"/>
-<author><name>Mugi Amamiya</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Kaito es un chico de secundaria que intenta convertirse en actor, sin importar cuán pequeño sea el papel, para poder cumplir una promesa que le hizo a su amiga de la infancia, Rena.
+<title>Sword of the Demon Hunter Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-sword-of-the-demon-hunter-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-sword-of-the-demon-hunter-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/Sword-of-the-Demon-Hunter-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/08/Sword-of-the-Demon-Hunter-Portada.jpg"/>
+<author><name>Motoo Nakanishi</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Histórico" label="Histórico"/>
+<category term="Seinen" label="Seinen"/>
+<content type="text">En esta épica fantástica de humanos y demonios que atraviesa el tiempo, un guerrero del Japón feudal debe cazar a un demonio a través de las eras.
 
-Al mismo tiempo una nueva estudiante se transfiere a su clase. ¡Es Rena, que ha crecido hasta convertirse en una hermosa chica y una popular actriz del más alto calibre!
-
-Entonces, cuando son elegidos para protagonizar juntos un nuevo drama, sus sentimientos mutuos, que habían sido un poco incómodos, ¡se vuelven aún más fuertes que antes!
-
-Leyendo el guión durante sus descansos y teniendo citas (a modo de ensayo) para prepararse lo mejor que pueden para sus papeles. Pero el clímax del espectáculo, la escena del beso, es todo menos simple...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/14Oy__47VDMshh_droysl6Q" type="text/html" title="Ilusion Shuri Novels"/>
+Durante generaciones, un santuario se ha alzado en la aldea montañesa de Kadono, y en cada generación el santuario ha tenido a su Itsukihime—su doncella del santuario—y la doncella ha tenido a su guardián. Durante el período Edo, un joven llamado Jinta protege la aldea y a la Itsukihime. Cuando se enfrenta a un extraño demonio en el bosque cercano, este le dice que en un futuro lejano un Dios Demonio amenazará a todas las personas, en todas partes, y afirma que el ascenso al poder del Dios Demonio surge de este mismo tiempo y lugar, en la aldea de Kadono. Así comienza el viaje de siglos de un hombre manchado por los demonios, cazando a través del tiempo para buscar justicia por lo que ha perdido y para encontrar una razón para seguir luchando.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/11GFWxXsNTEVay54jYqdlaw" type="text/html" title="Next Novels (MTL)"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1PQ6rI8i1x6rq4v7OhJ383g" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 </feed>

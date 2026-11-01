@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Tatsuhiko Takimoto</id>
-<title>Tatsuhiko Takimoto</title>
-<updated>2026-10-25T03:42:53.856377+00:00</updated>
+<id>nextnovels:autores:Taro Hitsuji</id>
+<title>Taro Hitsuji</title>
+<updated>2026-11-01T04:01:33.611634+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-954.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>NHK ni Youkoso! Novela Ligera en Español</title>
-<id>https://nextnovels.com/nhk-ni-youkoso-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/nhk-ni-youkoso-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/07/NHK-ni-Youkoso-Portada-scaled.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/07/NHK-ni-Youkoso-Portada-scaled.jpg"/>
-<author><name>Tatsuhiko Takimoto</name></author>
+<title>Last Round Arthurs Novela Ligera en Español</title>
+<id>https://nextnovels.com/last-round-arthurs-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/last-round-arthurs-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-5.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-5.jpg"/>
+<author><name>Taro Hitsuji</name></author>
+<category term="Acción" label="Acción"/>
 <category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
+<category term="Fantasía" label="Fantasía"/>
 <category term="Shounen" label="Shounen"/>
-<content type="text">HK nos presenta una historia de un Hikikomori llamado Tatsuhiro Sato y las paranoias de su automarginación de la sociedad hasta que conoce a Misaki Nakahara, una chica autoproclamada «ángel» que toca a su puerta y lo elige para su ‘proyecto personal’. Con esto, los dos empiezan a vivir muchas situaciones freak y divertidas, de las cuales Sato intenta una y otra vez salir de su estado de hikikomori volviendo siempre a sus inicios, o incluso PEOR.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1kRBqgm3o4nYApasAek6WJg" type="text/html" title="Lanove"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">La vida cotidiana de Rintaro Magami, el prodigio del instituto local, es bastante aburrida, aunque no por falta de cosas que hacer. Simplemente... ya lo ha hecho todo. Para matar algo de tiempo, se alía deliberadamente con Luna, la chica más buena para nada que hay, y se presenta a un concurso para decidir el próximo sucesor del legendario Rey Arturo. Pero sólo hay un problema... ¡Luna ha empeñado la espada sagrada Excalibur!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1sqIZgXUq-k1s0tJFzBx01Q" type="text/html" title="World Project"/>
 </entry>
 </feed>

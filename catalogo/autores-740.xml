@@ -1,30 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Purapura</id>
-<title>Purapura</title>
-<updated>2026-10-25T03:42:53.807892+00:00</updated>
+<id>nextnovels:autores:Prajed gayatri</id>
+<title>Prajed gayatri</title>
+<updated>2026-11-01T04:01:33.556293+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-740.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>After I Rescued a Cold-Hearted, Black-Haired, Beautiful Girl, She Started Acting Sweet Only When We Were Alone Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-after-i-rescued-a-cold-hearted-black-haired-beautiful-girl-she-started-acting-sweet-only-when-we-were-alone-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-after-i-rescued-a-cold-hearted-black-haired-beautiful-girl-she-started-acting-sweet-only-when-we-were-alone-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/10/After-I-Rescued-a-Cold-Hearted-Black-Haired-Beautiful-Girl-She-Started-Acting-Sweet-Only-When-We-Were-Alone-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/10/After-I-Rescued-a-Cold-Hearted-Black-Haired-Beautiful-Girl-She-Started-Acting-Sweet-Only-When-We-Were-Alone-Portada.jpg"/>
-<author><name>Purapura</name></author>
+<title>Finding Avalon Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-finding-avalon-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-finding-avalon-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/09/Finding-Avalon-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/09/Finding-Avalon-Portada.jpg"/>
+<author><name>Prajed gayatri</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
 <category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
 <category term="Romance" label="Romance"/>
+<category term="Supernatural" label="Supernatural"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Un amor elegido por otra persona no siempre conduce a la infelicidad. De hecho, quizá sea precisamente porque fue planeado que pueda comenzar de la mejor manera.
-
-Nacido como el hijo mayor de la prestigiosa y antigua familia noble Ichijo, Minato, estudiante de preparatoria, recibe repentinamente la noticia de su padre de que su prometida ya está decidida. Como heredero de una distinguida familia, la libertad nunca fue parte de la ecuación, algo que había aceptado hacía mucho tiempo. Con una seca resignación, Minato sigue las instrucciones de su padre y se dirige a la reunión concertada.
-
-Soy Nanase Rei, la hija mayor de la familia Nanase. Espero con ilusión nuestra vida juntos, querido esposo.
-
-Pero la chica que lo espera no es otra que Nanase Rei, la belleza de corazón frío de su clase, conocida por su comportamiento gélido.
-
-Así comienza su vida en común, junto al cariño incesante e inesperado de Rei.
-
-Aunque Minato está desconcertado por el repentino giro de los acontecimientos, pronto se da cuenta de que este nuevo capítulo puede no ser tan malo después de todo y, lentamente, comienza a sentir felicidad en la vida que comparte con Rei.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1YUP0GCf_ZsVbvYhaAwXBAg" type="text/html" title="Ichijou Translations"/>
+<content type="text">Cuando un jugador empedernido descarga una actualización que lo transporta a su juego favorito, Dungeon Explorer Chronicles, espera encontrarse con chicas guapas y combates épicos. Empieza como estudiante en Adventurers' High, la mejor escuela para aventureros en ciernes, ansioso por sumergirse en la fantástica mazmorra que ha aparecido en el Japón actual. ¡Pero una mirada al espejo destroza sus sueños de ser un tipo duro! Ha entrado en el juego como Piggy, el villano obeso que todos aman odiar y cuya obsesión acosadora por su renuente prometida le lleva a la perdición. Con matones elitistas merodeando por los pasillos de la escuela y aventureros despiadados acechando en la mazmorra, nuestro héroe tiene que actuar rápido para perder peso y subir de nivel si quiere sobrevivir y liberarse de su destino predeterminado. Gracias a su incomparable conocimiento del juego, está listo para aprovechar todos los trucos y convertirse en el héroe más grande y desconocido del mundo.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/12Y-PAlA9sBPBJ1tgYEUiLg" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 </feed>

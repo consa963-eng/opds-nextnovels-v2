@@ -1,23 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Yuuji Yuuji</id>
-<title>Yuuji Yuuji</title>
-<updated>2026-10-25T03:42:53.892416+00:00</updated>
+<id>nextnovels:autores:Yuu Nomiya</id>
+<title>Yuu Nomiya</title>
+<updated>2026-11-01T04:01:33.665284+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1119.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Ore no Kanojo to Osananajimi ga Shuraba Sugiru Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-ore-no-kanojo-to-osananajimi-ga-shuraba-sugiru-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-ore-no-kanojo-to-osananajimi-ga-shuraba-sugiru-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/04/OreShura-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/04/OreShura-Portada.jpg"/>
-<author><name>Yuuji Yuuji</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Harem" label="Harem"/>
+<title>This Summer Will End Anyway Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-this-summer-will-end-anyway-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-this-summer-will-end-anyway-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/05/This-Summer-Will-End-Anyway-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/05/This-Summer-Will-End-Anyway-Portada.jpg"/>
+<author><name>Yuu Nomiya</name></author>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Drama" label="Drama"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Eita Kidō entra en el instituto con el objetivo de graduarse con unas notas lo suficientemente altas como para poder conseguir una beca para estudiar medicina. Con este objetivo en mente y el hecho de que sus padres se divorciaron, encontraron otras amantes y lo dejaron al cuidado de un familiar, rehúye todo lo que tenga que ver con el romance o el amor. Un día, la belleza de la escuela, Masuzu Natsukawa, le invita a caminar con ella a casa, pero él se niega. Después de varios días, cede y vuelve a casa con ella. Resulta que Masuzu está cansada de ser el centro de atención y de recibir confesiones casi a diario, así que sugiere que ella y Eita se conviertan en una falsa pareja. Aunque Eita intenta negarse, Masuzu le chantajea para que se convierta en su novio sólo de nombre. La noticia de la nueva pareja se extiende rápidamente por toda la escuela y la amiga de la infancia de Eita, Chiwa Harusaki, a quien le gusta, empieza a competir con Masuzu por el afecto de Eita.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1rftb8i0g10Q6KzG3fmjQKw" type="text/html" title="MiraiK, Up! Subs, Next Novels (MTL)"/>
+<content type="text">Han pasado dos años desde que anunciaron el fin de la humanidad. El mundo, exhausto de tener miedo, se había rendido. Todos malgastaban sus días en una rutina gris, ahogando en la monotonía una realidad imposible de cambiar. Así transcurrían las últimas vacaciones de verano de la humanidad.
+
+Un chico que había renunciado a sus sueños, se debatía por no entender la distancia con su amiga de la infancia, de quién siempre estuvo enamorado en silencio. El presidente del club de literatura, atrapado en una sequía creativa, conoce a una chica que masacraba zombies a patadas en un arcade. Una estudiante rebelde sigue a una nueva estudiante transferida lleno de misterios. Una joven, cargando un secreto que podría cambiarlo todo, se prepara para su última cita con su novio, quién estaba obsesionado con las ruinas. Y un muchacho cínico, chantajeado por una autoproclamada directora de cine, acaba rodando la última película de la humanidad.
+
+Esta es la historia de un verano de chicos y chicas que amaron, rieron y vivieron como si el mundo no se fuera a acabar... Aunque sí lo haría.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Iu0rQVmTtGDfzTTjqmr1VQ" type="text/html" title="Ganbarimasu Translations"/>
 </entry>
 </feed>

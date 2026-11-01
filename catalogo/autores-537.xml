@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Mao Nishiura</id>
-<title>Mao Nishiura</title>
-<updated>2026-10-25T03:42:53.763234+00:00</updated>
+<id>nextnovels:autores:Mamoru Hosoda</id>
+<title>Mamoru Hosoda</title>
+<updated>2026-11-01T04:01:33.512606+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-537.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Pens Down, Swords Up Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-pens-down-swords-up-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-pens-down-swords-up-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/Pens-Down-Swords-Up-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/10/Pens-Down-Swords-Up-Portada.jpg"/>
-<author><name>Mao Nishiura</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
+<title>Wolf Children Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-wolf-children-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-wolf-children-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/03/Ookami-Kodomo-no-Ame-to-Yuki-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/03/Ookami-Kodomo-no-Ame-to-Yuki-Portada.jpg"/>
+<author><name>Mamoru Hosoda</name></author>
+<category term="Drama" label="Drama"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">¿Un excatedrático problemático del pasado irrumpe en una escuela de élite?
-
-Allen, el tercer hijo de una familia noble rural nacida en una sociedad aristocrática donde el destino de tu vida lo decide la escuela a la que asististe, era un «niño común» que, a pesar de tener un talento extraordinario, no mantenía la constancia ni en los estudios ni en el entrenamiento mágico.
-
-Sin embargo, sus recuerdos de la vida anterior resucitan de repente: ¡un trabajador matado de los estudios que se la pasaba inmerso en exámenes de admisión y certificaciones! Aprovechando los conocimientos de su vida pasada, entrenó al máximo tanto sus aptitudes académicas como sus habilidades marciales para desafiar a la escuela de élite más difícil de todas. Su vertiginoso crecimiento llegó al punto de hacer dudar a todos sobre un posible fraude, convirtiéndose en el centro de atención tanto de aspirantes como de profesores.
-
-Durante la entrevista de aventurero revive los recuerdos de la búsqueda de empleo, y frente al aterrador examinador los de su castrante jefe anterior, ¡¿lo que lo llevará a armar aún más alboroto por toda la academia?!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Rc-3eHkIfFNuntdsxi080g" type="text/html" title="SliperNovels"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<content type="text">Cuando Hana se enamora de un joven intruso que encuentra en su clase universitaria, lo último que espera descubrir es que él es parte lobo. En lugar de rechazar a su amante al conocer su secreto, lo acepta con los brazos abiertos. Pronto, la pareja espera a su primer hijo, y se despliega una cálida imagen de la vida familiar. Pero después de lo que parece un momento de dicha para Hana, el padre de sus hijos es trágicamente arrebatado. La vida como madre soltera es difícil en cualquier situación, pero cuando tus hijos caminan por la delgada línea entre el hombre y la bestia, las reglas de la crianza casi se desvanecen. Sin nadie a quien recurrir, ¿cómo sobrevivirá Hana?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1io5F5rxIuiHYmFMy3ycgAw" type="text/html" title="MangaProject Español"/>
 </entry>
 </feed>

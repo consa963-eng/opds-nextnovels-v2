@@ -1,43 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Takahiro</id>
-<title>Takahiro</title>
-<updated>2026-10-25T03:42:53.847636+00:00</updated>
+<id>nextnovels:autores:Takahashi Bisui</id>
+<title>Takahashi Bisui</title>
+<updated>2026-11-01T04:01:33.603813+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-920.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Chained Soldier Anti-Demon Corps Log Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-chained-soldier-anti-demon-corps-log-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-chained-soldier-anti-demon-corps-log-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/Chained-Soldier-Anti-Demon-Corps-Log-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/07/Chained-Soldier-Anti-Demon-Corps-Log-Portada.jpg"/>
-<author><name>Takahiro</name></author>
-<category term="Comedia" label="Comedia"/>
+<title>How to Seduce a Fickle Angel Obsessed with Games Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-how-to-seduce-a-fickle-angel-obsessed-with-games-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-how-to-seduce-a-fickle-angel-obsessed-with-games-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/04/How-to-Seduce-a-Fickle-Angel-Obsessed-with-Games-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/04/How-to-Seduce-a-Fickle-Angel-Obsessed-with-Games-Portada.jpg"/>
+<author><name>Takahashi Bisui</name></author>
+<category term="Drama" label="Drama"/>
 <category term="Ecchi" label="Ecchi"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Harem" label="Harem"/>
 <category term="Romance" label="Romance"/>
-<content type="text">El "Cuerpo de Defensa Mágica" protege a la gente de los "Shuki", criaturas que emergen desde la misteriosa dimensión conocida como "Capital Mágica". Esta fuerza se compone exclusivamente de mujeres con habilidades especiales, y entre ellas, Yuki Wakura lleva una vida de lo más atareada como esclavo de Kyoka Uzen, jefa del Séptimo Escuadrón, y encargado de la residencia, compartiendo el día a día con sus integrantes.
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Para garantizar la supervivencia de la humanidad, debes ganarle en un juego a un Ángel… ¡¿y hacerla caer, en cuerpo y alma?!
 
-A veces, durante el entrenamiento a solas con Kyoka, recibe las recompensas de costumbre; otras, mientras se entrena en el campamento intensivo del clan Azuma, Matoi lo mima con sus masajes... ¡¿y no son pocas las ventajas de su peculiar posición?!
+—Oye, hagamos una apuesta. Si me vences, haré lo que tú quieras.
 
-Por otro lado, Tenka Izumo, jefa del Sexto Escuadrón, era incapaz de entender qué era el "amor"... hasta que conoció a Yuki. A medida que pasa tiempo con él y lo trata, siente cómo sus sentimientos crecen sin control...
+La angelical Luxuria se presentó como una enemiga de la humanidad. Desafió a los humanos a un juego donde se ponía en juego su territorio, poseyendo un poder abrumador que le permitía usar cualquier trampa o jugada sucia que deseara… siempre que no la descubrieran. Sin embargo, Shuto Tsuda , un estudiante de preparatoria común y corriente presente en el encuentro, se convirtió en el primer humano de la historia en derrotar a un Ángel.
 
-Una novelización escrita por el mismísimo Takahiro, autor responsable del guion original del manga.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1jId56OxZCrELRLHuwO1Q4Q" type="text/html" title="Next Novels (MTL)"/>
+—Como perdí contra ti, me he convertido en un Ángel Caído. A partir de ahora, me dedicaré por completo a ti… así que, ¿quieres hacerme tu esposa?
+
+Tras saborear la derrota, Luxuria se transforma en un Ángel Caído y comienza a perseguir a Shuto de forma agresiva, suplicándole que se case con ella… ¡¿Acaso este es el premio por haber ganado?!
+
+¡Se alza el telón de una batalla de ingenio de altas apuestas mezclada con una comedia romántica escolar, en las primeras líneas de la Academia Valhalla!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1W7nYUYnjZxA1yKj9zDHN_g" type="text/html" title="GambaTrans"/>
 </entry>
 <entry>
-<title>Washio Sumi wa Yuusha de Aru Novela Ligera en Español</title>
-<id>https://nextnovels.com/washio-sumi-wa-yuusha-de-aru-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/washio-sumi-wa-yuusha-de-aru-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/11/Washio-Sumi-wa-Yuusha-de-Aru-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/11/Washio-Sumi-wa-Yuusha-de-Aru-Portada.jpg"/>
-<author><name>Takahiro</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Fantasía" label="Fantasía"/>
+<title>I Hold Your Voice Alone, Under The Starry Sky Novela Ligera en Español</title>
+<id>https://nextnovels.com/i-hold-your-voice-alone-under-the-starry-sky-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/i-hold-your-voice-alone-under-the-starry-sky-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/06/01-8-scaled.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/06/01-8-scaled.jpg"/>
+<author><name>Takahashi Bisui</name></author>
+<category term="Drama" label="Drama"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Seinen" label="Seinen"/>
+<category term="Romance" label="Romance"/>
+<category term="Supernatural" label="Supernatural"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">En el año 298 de la Era Divina, las niñas de la primaria Shinju: Washio Sumi, Nogi Sonoko y Minowa Gin son escogidas para llevar a cabo un importante deber. Las tres han de convertirse en Heroínas y luchar contra los Vertex, unos misteriosos enemigos que buscan destruir a Shinju-sama, el Árbol Sagrado que protege Shikoku, la única zona del mundo que todavía es habitable. Lo que ellas no saben, es que esta lucha será más difícil de lo que podrían haber imaginado.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1eU6xJpZTYRRPlSC3xhj80A" type="text/html" title="Yuyuyu Project"/>
+<content type="text">Shuu es un miembro del club de literatura que no sabe escribir. Un día, recibe en su teléfono un misterioso mensaje de una chica llamada Eina, y a partir de ese impulsivo contacto, comienzan a intercambiar mensajes. Hablan de cosas como su interés compartido por las novelas y se vuelven cercanos. Sin embargo, cuando intentan conocerse, descubren una verdad impactante. Eina vive… ¡No en el presente, sino cinco años en el pasado! ¿¡Cómo se desarrollará su amor, al estar separados por cinco años…!?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1n26QmJ-eeZYY1aLtyh5SLw" type="text/html" title="MiraiK"/>
 </entry>
 </feed>

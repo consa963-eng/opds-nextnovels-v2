@@ -1,25 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Yasohachi Tsuchise</id>
-<title>Yasohachi Tsuchise</title>
-<updated>2026-10-25T03:42:53.881180+00:00</updated>
+<id>nextnovels:autores:Yanagimi Touki</id>
+<title>Yanagimi Touki</title>
+<updated>2026-11-01T04:01:33.653247+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1068.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Scoop Musou Novela Ligera en Español</title>
-<id>https://nextnovels.com/scoop-musou-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/scoop-musou-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/08/Scoop-Musou-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/08/Scoop-Musou-Portada.jpg"/>
-<author><name>Yasohachi Tsuchise</name></author>
+<title>Taimadou Gakuen 35 Shiken Shoutai Novela Ligera en Español</title>
+<id>https://nextnovels.com/taimadou-gakuen-35-shiken-shoutai-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/taimadou-gakuen-35-shiken-shoutai-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/07/Taimadou-Gakuen-35-Shiken-Shoutai-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/07/Taimadou-Gakuen-35-Shiken-Shoutai-Portada.jpg"/>
+<author><name>Yanagimi Touki</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
 <category term="Ecchi" label="Ecchi"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Romance" label="Romance"/>
+<category term="Harem" label="Harem"/>
 <category term="Shounen" label="Shounen"/>
-<content type="text">Alan es el minero más fuerte del mundo, capaz de reducir montañas a escombros con solo un golpe de su pala de confianza. Pero cuando la Princesa Lithisia le ruega que la escolte en una búsqueda para salvar su reino de una fuerza demoníaca invasora, acepta dejar su morada solitaria en la montaña y aventurarse, con una condición: debe ayudarlo a encontrar un sucesor para entrenar. En este divertido cuento de fantasía para fanáticos de los juegos de rol, ¡el mal no tiene ninguna posibilidad contra el poderoso poder de la pala!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1Xnb2r_1xVJJiHAUXpfeYYg" type="text/html" title="Domen Translations"/>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1lue4n3iJZJB89qZmGJLAYQ" type="text/html" title="World Project"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">En un mundo en el que los humanos que usan la magia están cerca de ser aniquilados, los combates se libran con armas de fuego, relegando el uso de espadas al pasado. El protagonista de la historia, Kusanagi Takeru, es un estudiante de la Academia Antimagia, una institucion en el que se forman los Inquisidores que cazarán a las brujas malvadas en el futuro. Takeru es incapaz de usar un arma de fuego y solo es capaz de luchar con una espada, por lo que es relegado al 35º Pelotón de Prueba, también llamado “Peloton Small Fry” por la debilidad de sus miembros. Sin embargo, Ootori Ouka, una pistolera de élite que pertenecia a los Dullahan (Cazadores de Brujas), es enlistada en ese pelotón.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1d7OUj_Iz04LdMBPIT6Q5nA" type="text/html" title="Kurosaki-vizard &amp; HaremSubs"/>
 </entry>
 </feed>

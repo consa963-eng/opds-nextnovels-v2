@@ -1,32 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kurasumi Sunayama</id>
-<title>Kurasumi Sunayama</title>
-<updated>2026-10-25T03:42:53.755335+00:00</updated>
+<id>nextnovels:autores:Kurage</id>
+<title>Kurage</title>
+<updated>2026-11-01T04:01:33.504641+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-500.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Tengen Toppa Gurren Lagann Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-tengen-toppa-gurren-lagann-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-tengen-toppa-gurren-lagann-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/Tengen-Toppa-Gurren-Lagann-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/05/Tengen-Toppa-Gurren-Lagann-Portada.jpg"/>
-<author><name>Kurasumi Sunayama</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
+<title>The Secret Life Of An Honor Student Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-secret-life-of-an-honor-student-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-secret-life-of-an-honor-student-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/The-Secret-Life-Of-An-Honor-Student-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/07/The-Secret-Life-Of-An-Honor-Student-Portada.jpg"/>
+<author><name>Kurage</name></author>
 <category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Mecha" label="Mecha"/>
-<content type="text">¡Atraviesa el cielo con tu taladro!
+<category term="Ecchi" label="Ecchi"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">“Si mantienes mi cuenta secreta oculta, haré algo bueno por ti, ¿de acuerdo?”
 
-«¡Atraviesa el cielo con tu taladro!» — En la aldea subterránea de Jiha, el joven Simon excava agujeros para expandir el pueblo. Un día, al avanzar, encuentra por casualidad un pequeño taladro que brilla con una luz misteriosa. Ese fue el principio de todo… En un futuro lejano, la humanidad ha sido expulsada de la superficie. Y esta es la historia de un hombre que aún no ha descubierto su destino.
+“Noventa por ciento impuro, diez por ciento amor puro”: ese fue el comienzo de una relación secreta solo entre nosotros dos.
 
-La mitología robótica de combinación completamente nueva que GAINAX levantó con todo su esfuerzo, Tengen Toppa Gurren Lagann, ¡es novelizada por su propio equipo de guionistas! Incluye también historias originales nunca emitidas en televisión.
+“Si prometes no contarlo, me aseguraré de que lo pases bien.”
 
-El osado combinado Gurren Lagann, con el indoblegable líder del Gurren-dan, Kamina, y Simon. Y así aparece majestuosa la primera parte, que narra la despedida llena de lágrimas de los hombres.
+Aisaka Akito descubrió por casualidad que Mamiya Yuu, la estudiante modelo y ejemplar que se sentaba a su lado, era en realidad una “chica de la cuenta secreta”. Para que guardara silencio, ella lo obligó a acompañarla como su fotógrafo para esas fotos de la cuenta oculta.
 
-※ Esta obra contiene ilustraciones a color y en blanco y negro de la misma calidad que el original.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1KF-PQ9z4w3mlxKUb2oEH4Q" type="text/html" title="Next Novels (MTL)"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1BP_rIF8XsxpSwGg9jOD40A" type="text/html" title="Next Novels (MTL)"/>
+“Oye… hagamos algo aún más loco.”
+
+Sus sesiones de fotos empezaron a tomar rumbos que jamás podrían contarle a nadie. Confundido pero incapaz de resistirse, Akito se encontró pasando cada vez más tiempo a solas con ella: viéndose en secreto, tomando fotos, caminando juntos a casa después de desvíos. Cada momento se acumulaba, revelando poco a poco destellos de su verdadera personalidad.
+
+Una relación que comenzó como un secreto impuro pronto se transformó en un amor tierno y dulce.
+
+El frente y la espalda. Las dos caras que albergaba. Una emocionante comedia romántica secreta con la chica que vivía en dos mundos</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1OEI-oPy0GF2THfY1eP2zEA" type="text/html" title="Underword Liella Novels"/>
 </entry>
 </feed>

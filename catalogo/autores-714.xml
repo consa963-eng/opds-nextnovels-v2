@@ -1,28 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Okita Masashi</id>
-<title>Okita Masashi</title>
-<updated>2026-10-25T03:42:53.802303+00:00</updated>
+<id>nextnovels:autores:Okayu Masaki</id>
+<title>Okayu Masaki</title>
+<updated>2026-11-01T04:01:33.550827+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-714.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Okami-san and Her Seven Companions Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-okami-san-and-her-seven-companions-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-okami-san-and-her-seven-companions-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/01/Okami-san-and-Her-Seven-Companions-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/01/Okami-san-and-Her-Seven-Companions-Portada.jpg"/>
-<author><name>Okita Masashi</name></author>
-<category term="Acción" label="Acción"/>
+<title>Bludgeoning Angel Dokuro-chan Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-bludgeoning-angel-dokuro-chan-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-bludgeoning-angel-dokuro-chan-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/04/Bludgeoning-Angel-Dokuro-chan-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/04/Bludgeoning-Angel-Dokuro-chan-Portada.jpg"/>
+<author><name>Okayu Masaki</name></author>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
 <category term="Comedia" label="Comedia"/>
-<category term="Harem" label="Harem"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Ecchi" label="Ecchi"/>
 <category term="Romance" label="Romance"/>
-<content type="text">Ōkami Ryōko, conocida como “La Loba” del Ginkō Otogi, es una chica dura y temeraria que resuelve problemas a puñetazos junto a su astuta amiga Ringo. Su vida da un vuelco cuando el chico más invisible de la clase, le confiesa su amor de la manera más torpe y persistente.
+<category term="Seinen" label="Seinen"/>
+<category term="Supernatural" label="Supernatural"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Pi piru piru piru pi piru pi～♪
 
-Pero en la Academia Otogi, nada es lo que parece. Entre sirvientas con agendas ocultas, brujas inventoras, un presidente travesti y un príncipe demasiado perfecto, Ōkami y sus nuevos compañeros se verán inmersos en un torbellino de casos absurdos, desde acosadores obsesivos hasta rescates con patines eléctricos.
+Junto con una misteriosa onomatopeya, un ángel aparece de repente en la casa de Sakura Sakura-kun (estudiante de segundo de secundaria).
 
-¿Podrá una loba solitaria aprender a confiar en alguien? ¿Y podrá un cazador miedoso proteger a quien ama?
+¿¡El nombre de esa chica es Dokuro-chan, el Ángel Apaleador!?
 
-Una comedia romántica llena de acción, equívocos y un toque de locura, donde ayudar a los demás siempre tiene un precio… y ese precio suele ser embarazoso.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/195BbdzJC4EmwuH2YgWmRsg" type="text/html" title="Bell traducciones"/>
+Sin que él se dé cuenta, Dokuro-chan se instala de gorra en casa de Sakura y empieza a seducirlo (en todos los sentidos)… ¡¡!!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1j4LafT-I3SwC2hjlET76pg" type="text/html" title="Versión Next Novels (MTL)"/>
 </entry>
 </feed>

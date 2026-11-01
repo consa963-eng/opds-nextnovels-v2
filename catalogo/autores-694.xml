@@ -1,23 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Northcarolina</id>
-<title>Northcarolina</title>
-<updated>2026-10-25T03:42:53.797697+00:00</updated>
+<id>nextnovels:autores:Nora Kohigashi</id>
+<title>Nora Kohigashi</title>
+<updated>2026-11-01T04:01:33.546592+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-694.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Hametsu no Madou Ou to Golem no Banhi Novela Ligera en Español</title>
-<id>https://nextnovels.com/hametsu-no-madou-ou-to-golem-no-banhi-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/hametsu-no-madou-ou-to-golem-no-banhi-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/04/Hametsu-no-Madou-Ou-to-Golem-no-Banhi-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/04/Hametsu-no-Madou-Ou-to-Golem-no-Banhi-Portada.jpg"/>
-<author><name>Northcarolina</name></author>
+<title>I Could Never Be a Succubus! Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-i-could-never-be-a-succubus-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-i-could-never-be-a-succubus-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/01/Watashi-wa-Succubus-Jaarimasen-Portada-1.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/01/Watashi-wa-Succubus-Jaarimasen-Portada-1.jpg"/>
+<author><name>Nora Kohigashi</name></author>
 <category term="Acción" label="Acción"/>
 <category term="Aventura" label="Aventura"/>
 <category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<content type="text">Una nueva y emocionante serie de isekai sobre un joven atrapado en otro mundo con un poderoso compañero inhumano, ¡y no te pierdas la adaptación al manga, también de Seven Seas! No tiene nombre, y no tiene memoria. Todo lo que sabe es que fue convocado por un hechizo oscuro con un sacrificio espantoso. Ahora, él es el Rey Hechicero de la Destrucción, destinado a provocar el fin del mundo. Su única esperanza para desafiar ese destino está en su compañero, un hermoso golem elfo con un aterrador gusto por la violencia. Ella será su mayor protectora, ¡así como él debe convertirse en el de ella!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/114Dh7a3a7IZXLwhkfCLVGA" type="text/html" title="Traducciones Fajardo"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Liz, una joven noble, es la alumna estrella de su academia: talentosa, refinada, generosa y la niña de los ojos de todos. Pero el día que un héroe legendario llega a la academia para convalecer, Liz, a su pesar, hace lo impensable... ¡Pide los calzoncillos del héroe!
+
+Resulta que Liz tiene un secreto. Era miembro del grupo del héroe hasta que le robaron todos sus recuerdos durante una batalla culminante, ¡incluido el hecho de que es un demonio del deseo conocido como súcubo! Apenas puede creerlo cuando vuelve a despertar con sus poderes completamente fuera de lo común, pero por desgracia para Liz, está a punto de descubrir que no es tan fácil desafiar tu verdadera naturaleza...</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Odg6HKKV-UJ54p9lpPyNfw" type="text/html" title="Kyūden Translation"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1XabhUGVhRM2uz3anjaIfCQ" type="text/html" title="World Project"/>
 </entry>
 </feed>

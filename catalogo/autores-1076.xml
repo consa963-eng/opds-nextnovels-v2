@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Yoneori</id>
-<title>Yoneori</title>
-<updated>2026-10-25T03:42:53.882864+00:00</updated>
+<id>nextnovels:autores:Yo Mitsuoka</id>
+<title>Yo Mitsuoka</title>
+<updated>2026-11-01T04:01:33.654945+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1076.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>The Forsaken Saintess and her Foodie Roadtrip in Another World Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-forsaken-saintess-and-her-foodie-roadtrip-in-another-world-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-forsaken-saintess-and-her-foodie-roadtrip-in-another-world-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/The-Forsaken-Saintess-and-her-Foodie-Roadtrip-in-Another-World-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/07/The-Forsaken-Saintess-and-her-Foodie-Roadtrip-in-Another-World-Portada.jpg"/>
-<author><name>Yoneori</name></author>
+<title>The Master of the Brave Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-master-of-the-brave-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-master-of-the-brave-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/The-Master-of-the-Brave-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/09/The-Master-of-the-Brave-Portada.jpg"/>
+<author><name>Yo Mitsuoka</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
 <category term="Aventura" label="Aventura"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Harem" label="Harem"/>
 <category term="Romance" label="Romance"/>
-<category term="Shoujo" label="Shoujo"/>
-<content type="text">Rin Takanashi, una cuidadora de mediana edad, quedó atrapada en una «Convocación de Santos» en la que la arrojaron como si fuera basura.
+<category term="Seinen" label="Seinen"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Después de perder a sus padres, anhela convertirse en un Caballero, el pobre muchacho Wynn Bard se entrenó diligentemente. Sin embargo, le fue imposible convertirse en un Caballero, porque su poder mágico era demasiado bajo, no podía pasar el examen de Caballeros, por lo que fue etiquetado con el desagradable título de 'Eterno Cadete de Caballero'.
 
-Pero con la ayuda de 【Supervivencia】 y otra habilidad especial, esta mujer a la que le encanta acampar, junto con los compañeros de viaje que recogió por casualidad, ¡se embarcará en un viaje sin prisas para disfrutar de la gastronomía de diferentes mundos! ¡Esta es una historia llena de sudor, lágrimas y hambre!
-
-O al menos eso se suponía, pero de alguna manera su viaje ha dado un giro inesperado…?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1lQ8BKQ86-WeNxGxlt9ac5w" type="text/html" title="Next Novels (MTL)"/>
+Pero un día El Valiente derrotó al Rey Demonio y salvó al mundo. El Valiente era una belleza sin igual y se ganó la atención del mundo entero. Sin embargo, declaró al mundo: "Voy a regresar al lado de mi Maestro, Wynn Byrd". Esta es la historia de un chico que de alguna manera paso de ser 'Eterno Cadete de Caballero' a 'Maestro del Valiente'.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1uG6WMQICLjSxU-HDbAACmw" type="text/html" title="Turret Translations"/>
 </entry>
 </feed>

@@ -1,30 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kousaka Mato</id>
-<title>Kousaka Mato</title>
-<updated>2026-10-25T03:42:53.751873+00:00</updated>
+<id>nextnovels:autores:Kouki Engyou</id>
+<title>Kouki Engyou</title>
+<updated>2026-11-01T04:01:33.501277+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-484.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Guild no Uketsukejou desu ga, Zangyou wa Iya na no de Boss wo Solo Toubatsu Shiyou to Omoimasu Novela Ligera en Español</title>
-<id>https://nextnovels.com/guild-no-uketsukejou-desu-ga-zangyou-wa-iya-na-no-de-boss-wo-solo-toubatsu-shiyou-to-omoimasu-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/guild-no-uketsukejou-desu-ga-zangyou-wa-iya-na-no-de-boss-wo-solo-toubatsu-shiyou-to-omoimasu-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/01/Guild-no-Uketsukejou-desu-ga-Zangyou-wa-Iya-na-no-de-Boss-wo-Solo-Toubatsu-Shiyou-to-Omoimasu-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/01/Guild-no-Uketsukejou-desu-ga-Zangyou-wa-Iya-na-no-de-Boss-wo-Solo-Toubatsu-Shiyou-to-Omoimasu-Portada.jpg"/>
-<author><name>Kousaka Mato</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
+<title>When my Wife Cheated on me, I Went Back to College! Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-when-my-wife-cheated-on-me-i-went-back-to-college-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-when-my-wife-cheated-on-me-i-went-back-to-college-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/04/When-my-Wife-Cheated-on-me-I-Went-Back-to-College-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/04/When-my-Wife-Cheated-on-me-I-Went-Back-to-College-Portada.jpg"/>
+<author><name>Kouki Engyou</name></author>
 <category term="Comedia" label="Comedia"/>
-<category term="Fantasía" label="Fantasía"/>
-<content type="text">¡USA UN MARTILLO DE GUERRA GIGANTE PARA EVITAR TRABAJAR EN EXCESO!
+<category term="Drama" label="Drama"/>
+<category term="Harem" label="Harem"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">¡Una segunda juventud llena de brillo y popularidad en la universidad! Una vida universitaria con viajes en el tiempo Kanata fue 4s3s1nado tras ser engañado por su esposa, pero al despertar, se encuentra en la víspera de su ingreso a la universidad, antes siquiera de conocerla.
 
-Alina Clover se inscribió para ser recepcionista del Gremio de Aventureros, pensando que sería su boleto a la buena vida: salario estable, horarios regulares y condiciones laborales seguras. Desafortunadamente, el trabajo de sus sueños se convierte en una pesadilla de papeleo interminable y horas extras cada vez que los aventureros que ayuda a coordinar se quedan atascados limpiando una mazmorra. Pero la gente no está hecha para trabajar para siempre, por lo que Alina se escabulle por la noche para darles una paliza a los monstruos responsables de sus horas extra, cortesía de su enorme martillo de guerra.
+Con el conocimiento y la experiencia de adulto, esta vez piensa evitar cualquier relación con ella y vivir una brillante vida universitaria en un harem… o al menos, eso planeaba.
 
-Mantener todo esto en secreto para evitar violar la prohibición de su oficina sobre segundos trabajos es difícil, especialmente cuando las historias de sus hazañas comienzan a difundirse, pero Alina de alguna manera logra mantener su identidad segura... hasta que el líder de la party más fuerte del gremio la atrapa.
-
-¡Derrota a un jefe para evitar una noche fatídica de horas extra!
-
-¿Tiene Alina lo necesario para evitar que su vida se ponga patas arriba?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxlink.com/s/1TlFuaw9SYZGBncC7uPZs9g" type="text/html" title="AniMangaNovel y Cafuné Translations"/>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxlink.com/s/1zRqhayS7DXLCxcrqDQF8Hg" type="text/html" title="Kyūden Translation"/>
+¿Por qué demonios su esposa vuelve a acercarse a él con tanto cariño?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1I9JALpyO7_Iu_mh_ahBzcQ" type="text/html" title="Tamashi's Project"/>
 </entry>
 </feed>

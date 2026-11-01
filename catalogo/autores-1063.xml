@@ -1,43 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Yanagawa Keisho</id>
-<title>Yanagawa Keisho</title>
-<updated>2026-10-25T03:42:53.880035+00:00</updated>
+<id>nextnovels:autores:Yamato Takahiro</id>
+<title>Yamato Takahiro</title>
+<updated>2026-11-01T04:01:33.652074+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1063.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Today, I Was Confessed To by the Student Council President, Reunited with My Childhood Friend, and Had a Marriage Meeting with a Nordic Noble Lady Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-today-i-was-confessed-to-by-the-student-council-president-reunited-with-my-childhood-friend-and-had-a-marriage-meeting-with-a-nordic-noble-lady-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-today-i-was-confessed-to-by-the-student-council-president-reunited-with-my-childhood-friend-and-had-a-marriage-meeting-with-a-nordic-noble-lady-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/Today-I-Was-Confessed-To-by-the-Student-Council-President-Reunited-with-My-Childhood-Friend-and-Had-a-Marriage-Meeting-with-a-Nordic-Noble-Lady-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/10/Today-I-Was-Confessed-To-by-the-Student-Council-President-Reunited-with-My-Childhood-Friend-and-Had-a-Marriage-Meeting-with-a-Nordic-Noble-Lady-Portada.jpg"/>
-<author><name>Yanagawa Keisho</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Harem" label="Harem"/>
+<title>Kaze no Stigma Novela Ligera en Español</title>
+<id>https://nextnovels.com/kaze-no-stigma-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/kaze-no-stigma-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/06/Kaze-no-Stigma-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/06/Kaze-no-Stigma-Portada.jpg"/>
+<author><name>Yamato Takahiro</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Drama" label="Drama"/>
 <category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">¡Ese día, la comedia romántica, la comedia romántica y más comedia romántica entraron en mi vida!
+<category term="Shounen" label="Shounen"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Cuatro años antes del inicio de la historia, Kazuma Kannagi fue derrotado por su prima Ayano por el derecho de ser el sucesor de la Enraiha, una espada pasada de generación en generación por la familia Kannagi. El clan Kannagi esta compuesto por miembros de una familia capaz de invocar a los espíritus del fuego y usarlos a su antojo. Todos excepto su primo, Kazuma, quien no posee la habilidad de manipular el fuego. Por tal motivo, después de ser derrotado por Ayano, su padre lo excluyó de la familia por ser una vergüenza para el clan..
 
-Ese día, mi vida se cruzó con la de tres chicas hermosas.
-
-Shiiba Shio, la presidenta del consejo estudiantil, admirada por toda la escuela.
-
-"Me gustas. Me gustas desde la secundaria."
-
-Casualmente, hoy se me declaró.
-
-Gokase Raika, la chica popular que se convirtió en el centro de atención en su primer día en la nueva escuela.
-
-"Te amo. Uf... qué vergüenza..."
-
-Casualmente, hoy me reencontré con ella como amiga de la infancia, y se me declaró.
-
-Nadeshiko Elvshid, la hermosa hija del presidente de una empresa del norte de Europa.
-
-"Aunque empezó como un matrimonio concertado por mi padre, sentí que tu corazón es precioso."
-
-Casualmente, la conocí hoy por primera vez en la reunión para concertar el matrimonio, y me propuso matrimonio.
-
-¡Una comedia romántica repentina y simultánea se desarrolla en tres direcciones!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1hs2DDT8Z5YZZvzJxtyuLhA" type="text/html" title="Saitou Translations &amp; OX-MR Traducciones"/>
+Ante esto Kazuma con sus sentimientos que lo desbordaban decide firmar un contrato con el supremo espíritu del viento y luego de cuatro años de un arduo entrenamiento se convierte en un maestro en el uso de éste elemento y ahora regresará con una nueva identidad y un asombroso poder. Unos asesinatos en la casa Kannagi realizados por un usuario del viento muy poderoso conducen a Ayano y a la familia Kannagi a pensar que Kazuma esta tomando venganza y aunque dice ser inocente también esta preparado para una guerra contra los Kannagi. Este, será el primer paso para confrontar el verdadero poder e ideales de Yagami Kazuma, el contratista del espíritu del viento.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1mdlyEk4Jhuhtk9KYUqazAg" type="text/html" title="Kurosaki-Vizard"/>
 </entry>
 </feed>

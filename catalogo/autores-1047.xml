@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Xing Bao Er</id>
-<title>Xing Bao Er</title>
-<updated>2026-10-25T03:42:53.876523+00:00</updated>
+<id>nextnovels:autores:Watari Wataru &amp; Sagara Sou</id>
+<title>Watari Wataru &amp; Sagara Sou</title>
+<updated>2026-11-01T04:01:33.648455+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1047.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Flower Flower Dragon Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-flower-flower-dragon-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-flower-flower-dragon-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/10/Flower-Flower-Dragon-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/10/Flower-Flower-Dragon-Portada.jpg"/>
-<author><name>Xing Bao Er</name></author>
-<category term="Adulto" label="Adulto"/>
+<title>Kuzu to Kinka no Qualidea Novela Ligera en Español</title>
+<id>https://nextnovels.com/kuzu-to-kinka-no-qualidea-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/kuzu-to-kinka-no-qualidea-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/06/Kuzu-to-Kinka-no-Qualidea-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/06/Kuzu-to-Kinka-no-Qualidea-Portada.jpg"/>
+<author><name>Watari Wataru &amp; Sagara Sou</name></author>
+<category term="Comedia" label="Comedia"/>
 <category term="Drama" label="Drama"/>
-<category term="Maduro" label="Maduro"/>
 <category term="Psicológico" label="Psicológico"/>
-<category term="Smut" label="Smut"/>
-<category term="Yaoi" label="Yaoi"/>
-<content type="text">Para ayudar a su jefe a encontrar una esposa, los bandidos secuestraron a una mujer del pie de la montaña para ofrecérsela.
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Contada a través de dos perspectivas, esta historia trata sobre un mundo a punto de acabar y un momento deslumbrante de la juventud
 
-¡El jefe de la fortaleza de la montaña, Lu Cang, se enamora a primera vista de la belleza absolutamente impresionante!
+— Kusaoka Haruma, un estudiante de una escuela preparatoria de gama baja, y su angelical kouhai Chigusa Yu. Dos personas que no deberían estar en el mismo nivel del año terminan reuniéndose como resultado de un fatídico incidente. Un clima anormal, fenómenos anormales, acciones anormales. Una vida ordinaria que se retuerce poco a poco, y una extraña leyenda urbana .
 
-Sin embargo, en la noche de la consumación...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/10WQOd2AK3ZI8bzO2-BzC6g" type="text/html" title="Rose [Hua Hua You Long Novela en español]"/>
+Según con la “Encrucijada Aleatoria” — a la medianoche, si se llegas al final de un camino en forma de T y eliges el camino equivocado, puede que jamas vuelvas.
+
+A medida que buscan a una chica cuyo paradero se desconoce como resultado de estos eventos, ¿¡Podrán Haruma y Yu superar las expectativas mas salvajes… ?!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/18aZeCpF4589ggcBwNGjI6A" type="text/html" title="Kikuslirus"/>
 </entry>
 </feed>
