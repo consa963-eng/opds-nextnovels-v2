@@ -1,68 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Nanao, Kaiu Shirai</id>
-<title>Nanao, Kaiu Shirai</title>
-<updated>2026-11-01T04:01:33.538308+00:00</updated>
+<id>nextnovels:autores:Nanano Riku</id>
+<title>Nanano Riku</title>
+<updated>2026-11-08T04:02:34.971676+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-656.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>The Promised Neverland: A Letter from Norman Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-promised-neverland-a-letter-from-norman-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-promised-neverland-a-letter-from-norman-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/11/The-Promised-Neverland-A-Letter-from-Norman-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/11/The-Promised-Neverland-A-Letter-from-Norman-Portada.jpg"/>
-<author><name>Nanao, Kaiu Shirai</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Horror" label="Horror"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Tragedia" label="Tragedia"/>
-<content type="text">Norman escribió una carta para guiar la huida de Grace Field el 3 de noviembre de 2045, que es el día de su embarque. Mientras escribe, reflexiona sobre los recuerdos felices que pasó con Emma y Ray años antes.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1ts3qc6tlmR-t5GqPjMEM8g" type="text/html" title="DIRJI LLAMO"/>
-</entry>
-<entry>
-<title>The Promised Neverland: Films of Memories Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-promised-neverland-films-of-memories-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-promised-neverland-films-of-memories-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/11/The-Promised-Neverland-Films-of-Memories-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/11/The-Promised-Neverland-Films-of-Memories-Portada.jpg"/>
-<author><name>Nanao, Kaiu Shirai</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Horror" label="Horror"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">Norman y sus amigos se reunieron con Emma y todos hablaron de sus recuerdos del pasado. Las historias secretas que antes sólo aparecían en los folletos del DVD del anime, en la Jump Giga y en la página web oficial del País Prometido de Nunca Jamás han sido reeditadas y publicadas en forma de libro, ¡con nuevas historias cortas añadidas! ¡Esta es la cuarta versión novelada llena de recuerdos que quieres leer ya!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1QOK6CohuFnviBv_zzWG59w" type="text/html" title="DIRJI LLAMO"/>
-</entry>
-<entry>
-<title>The Promised Neverland: Moms' Song of Remembrance Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-promised-neverland-moms-song-of-remembrance-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-promised-neverland-moms-song-of-remembrance-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/11/The-Promised-Neverland-Moms-Song-of-Remembrance-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/11/The-Promised-Neverland-Moms-Song-of-Remembrance-Portada.jpg"/>
-<author><name>Nanao, Kaiu Shirai</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Horror" label="Horror"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Tragedia" label="Tragedia"/>
-<content type="text">La noche de la huida de Grace Field, unos trozos de papel fluyen en el cielo estrellado. Perdida en la contemplación, Isabella recuerda a un niño de su infancia. Krone, al borde de la muerte, recuerda sus días inocentes en el orfanato.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1HZuBJKnArgHrdzx78nortA" type="text/html" title="DIRJI LLAMO"/>
-</entry>
-<entry>
-<title>The Promised Neverland: Records of Comrades Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-promised-neverland-records-of-comrades-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-promised-neverland-records-of-comrades-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/11/The-Promised-Neverland-Records-of-Comrades-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/11/The-Promised-Neverland-Records-of-Comrades-Portada.jpg"/>
-<author><name>Nanao, Kaiu Shirai</name></author>
+<title>Koujo Denka no Kateikyoushi Novela Ligera en Español</title>
+<id>https://nextnovels.com/koujo-denka-no-kateikyoushi-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/koujo-denka-no-kateikyoushi-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/02/Koujo-Denka-no-Kateikyoushi-Portada-e1644649302214.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/02/Koujo-Denka-no-Kateikyoushi-Portada-e1644649302214.jpg"/>
+<author><name>Nanano Riku</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Drama" label="Drama"/>
+<category term="Comedia" label="Comedia"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Horror" label="Horror"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">Tras escapar del Campo de Gracia, Emma y sus amigos se acercan al misterio de los demonios y del mundo a partir del Arco del Bosque Prometido. Yugo y Lucas, Nigel y Gillian, que lucharon con Emma contra los demonios, y Mujika y Sonju, que desempeñaron un papel importante en el bando demoníaco. Ahora se desvela la historia de los respectivos pasados y vínculos de estos populares dúos.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1Wm0XYgNHkC7N6JD2H67HKA" type="text/html" title="DIRJI LLAMO"/>
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<content type="text">Él estaba por ir por un buen camino en la vida, hasta que ese momento llego.
+
+Aunque, era un plebeyo, aún llego al segundo rango en la Academia Real debido a sus propios esfuerzos, superando incluso a la nobleza. Luego de graduarse de una Universidad con un excelente registro, se le garantizo un buen lugar de trabajo. si las cosas iban tan bien, se había convertido en un Mago de la Corte. un elite entre las elites
+
+Pero bueno, debido a circunstancias falló el examen. Qué lamentable. Y siquiera tenía suficiente dinero para el tren para volver a casa. En tal dura situación, mi profesor me presentó un trabajo: volverme profesor particular para la hija de un Duque. Este trabajo me huele mal...
+
+Esta es una historia de un hombre que quiere llevar una vida ordinaria, pero lo inesperado lo atrapa en una competición entre su rival de sus días de academia y su estudiante de tutorías-- Todo este lo fuerza a subir la ladera de la sociedad.
+
+¿Cómo pasó esto...?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1-0EqoPFSeLlgSyTQ9Tkpog" type="text/html" title="WisheSubs"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1nXQNE4CGV7sgqzNUBVKXSg" type="text/html" title="Astral Novel Translations"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1mSd-N3eAp7ET6wSEYhuw8w" type="text/html" title="World Project"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1woziPBS6AUrOCTCiVRtCsg" type="text/html" title="Patosantranslations"/>
 </entry>
 </feed>

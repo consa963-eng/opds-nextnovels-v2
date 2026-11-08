@@ -1,63 +1,106 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Yoshida Sunao</id>
-<title>Yoshida Sunao</title>
-<updated>2026-11-01T04:01:33.657097+00:00</updated>
+<id>nextnovels:autores:Yoru Sumino</id>
+<title>Yoru Sumino</title>
+<updated>2026-11-08T04:02:35.062100+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1085.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Trinity Blood CANON Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-trinity-blood-canon-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-trinity-blood-canon-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/Trinity-Blood-CANON-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/03/Trinity-Blood-CANON-Portada.jpg"/>
-<author><name>Yoshida Sunao</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
+<title>Chichi to Tsuioku no Dareka ni Novela Ligera en Español</title>
+<id>https://nextnovels.com/chichi-to-tsuioku-no-dareka-ni-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/chichi-to-tsuioku-no-dareka-ni-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/10/A-mi-padre-y-a-alguien-en-sus-recuerdos.png"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/10/A-mi-padre-y-a-alguien-en-sus-recuerdos.png"/>
+<author><name>Yoru Sumino</name></author>
 <category term="Drama" label="Drama"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">Se incluyen todos los relatos cortos hasta ahora no recopilados, como "Gunmetal Hound". Además, a partir de las notas de ideas y materiales de diseño que dejó el autor, ¡se explica el 〈principio〉 y el 〈 final 〉 de "Trinity Blood" que nunca llegaron a escribirse! También se publica la versión más reciente del glosario "Gran Compendio Eclesiástico".</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1saxGtdFc8yEZ3ssW6kYMZw" type="text/html" title="Next Novels (MTL)"/>
+<category term="Seinen" label="Seinen"/>
+<content type="text">Una historia corta adicional distribuida a los espectadores de la adaptación cinematográfica del anime Quiero comerme tu páncreas (Kimi no Suizō wo Tabetai). Ambientada después de los acontecimientos de la novela original.
+
+Fuyumi odia su propia mediocridad y vive según su creencia de que una vida sin nada es aburrida.
+
+Ella afirma que si la vida va a seguir siendo tan tediosa como es, entonces preferiría morir dramáticamente, lo que la lleva a pelear con su padre, Haruki, por sus creencias contradictorias sobre la muerte. Esa noche, cuando se está cepillando los dientes, escucha a su padre llamando a una joven y prometiéndole conocerla, lo que lleva a Fuyumi a sospechar que está teniendo una aventura.
+
+Con ello comienza la historia de Fuyumi Shiga y cómo descubre a la persona insustituible del pasado de su padre.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1hrl8qsR-D9-9JN4Wgz7P6A" type="text/html" title="Traducciones Roberth"/>
 </entry>
 <entry>
-<title>Trinity Blood Rage Against the Moons Novela Ligera en Español</title>
-<id>https://nextnovels.com/trinity-blood-rage-against-the-moons-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/trinity-blood-rage-against-the-moons-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-105.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-105.jpg"/>
-<author><name>Yoshida Sunao</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Drama" label="Drama"/>
+<title>I am Blue, in Pain, and Fragile Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-i-am-blue-in-pain-and-fragile-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-i-am-blue-in-pain-and-fragile-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/I-am-Blue-in-Pain-and-Fragile-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/08/I-am-Blue-in-Pain-and-Fragile-Portada.jpg"/>
+<author><name>Yoru Sumino</name></author>
+<category term="Histórico" label="Histórico"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">La serie se desarrolla en un período indeterminado del futuro, 500 años después de que una guerra apocalíptica entre todas las naciones de la Tierra destruyera la civilización, cuando la humanidad se ha restablecido.
+<content type="text">¿Qué pasa cuando las personas que prometen cambiar el mundo terminan destruyéndose entre ellas?...
 
-En este mundo futuro, la Iglesia católica romana se ha convertido en una gran potencia militar, cuyos objetivos incluyen la protección de la humanidad contra los vampiros Methuselahs, que están en guerra contra la humanidad (o "Terran", como ellos llaman a los humanos). Su sede de poder es el Vaticano, un lugar atractivo con arquitectura tradicional europea; es probable que sea la misma ciudad del Vaticano en el mundo real (aunque quizás reconstruida tras la guerra anterior).
-
-Los Methuselahs son otra fuerza política y militar importante. Su capital, Bizancio (presumiblemente construida en el emplazamiento de la Bizancio del mundo real, ahora Estambul) aparece como una elegante metrópolis, rodeada por un campo de partículas que filtra la radiación ultravioleta, protegiendo así a la población de Matusalén.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Yp5Avj7FGIJm0LIlnzSCLg" type="text/html" title="Timun Mas, Racksha, MiraiK"/>
+“La Fragilidad del Azul” es una historia intensa y dolorosamente humana sobre ideales, amistad y las heridas que dejamos crecer. Entre secretos, traiciones y sueños rotos, dos jóvenes descubrirán que aferrarse al pasado puede ser mucho más peligroso que dejarlo ir.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1jIWR2GE9fkzQAPwRmqSwfw" type="text/html" title="Cazadora de Mangas"/>
 </entry>
 <entry>
-<title>Trinity Blood Reborn on the Mars Novela Ligera en Español</title>
-<id>https://nextnovels.com/trinity-blood-reborn-on-the-mars-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/trinity-blood-reborn-on-the-mars-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-106.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-106.jpg"/>
-<author><name>Yoshida Sunao</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
+<title>Kimi no Suizou wo Tabetai Novela Ligera en Español</title>
+<id>https://nextnovels.com/kimi-no-suizou-wo-tabetai-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/kimi-no-suizou-wo-tabetai-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/10/cover.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/10/cover.jpg"/>
+<author><name>Yoru Sumino</name></author>
 <category term="Drama" label="Drama"/>
-<category term="Horror" label="Horror"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">Una misteriosa organización terrorista está empeñada en provocar una guerra entre el Nuevo Imperio Humano y el Vaticano. El agente de Operaciones Especiales AX Abel Nightroad se une a una joven y valiente novata llamada Esther para intentar impedir que Gyula, el sanguinario marqués de Hungría, desate la legendaria Estrella del Dolor. Con un telón de fondo neogótico, esta segunda serie de Trinity Blood -conectada con la serie Rage Against the Moons- promete mucha acción e intriga mientras Esther y Abel luchan por salvar las vidas de humanos y vampiros por igual.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/12DD_a1jR9NFKiZdZ5ALZIw" type="text/html" title="Timun Mas"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Tragedia" label="Tragedia"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Un día me encontré un libro en el hospital. Su título era: "El diario de coexistencia con la enfermedad". Era un diario que una compañera de clase, Sakura Yamauchi, había escrito en secreto. Dentro ponía que sus días estaban contados a causa de su enfermedad de páncreas. Y así, pasé de ser: "Sólo-Un-Compañero-De-Clase", a ser: "El-Compañero-Que-Sabe-El-Secreto".
+
+Era mi polo opuesto, pero era como si me atrajera…
+
+No obstante, el mundo le presenta a la chica, que ya sufre una enfermedad terminal, una realidad igual de cruel...</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1wxpc4AmcCtA1wvjp86RqhQ" type="text/html" title="Happy Bubble Subs"/>
+</entry>
+<entry>
+<title>Mata, Onaji Yume o Mite Ita Novela Ligera en Español</title>
+<id>https://nextnovels.com/mata-onaji-yume-o-mite-ita-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/mata-onaji-yume-o-mite-ita-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/12/Mata-Onaji-Yume-o-Mite-Ita-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/12/Mata-Onaji-Yume-o-Mite-Ita-Portada.jpg"/>
+<author><name>Yoru Sumino</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">«Una chica infeliz que se lastima a sí misma, una mujer aislada por la sociedad, y una mujer mayor buscando vivir sus días de crepúsculo en paz—¿qué podrían tener en común personas tan diferentes? Eso es lo que la estudiante de primaria Koyanagi Nanoka está intentando averiguar. Después de que su maestra le asigna definir qué significa la «felicidad» para ella, Nanoka pretende conocer a estas tres extrañas—y a través de ellas, quizás, conocerse a sí misma también.»</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1iS7JvvfgE10UMwZUgSB30g" type="text/html" title="JmCrap Translations"/>
+</entry>
+<entry>
+<title>The Confession Strategy Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-confession-strategy-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-confession-strategy-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/The-Confession-Strategy-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/07/The-Confession-Strategy-Portada.jpg"/>
+<author><name>Yoru Sumino</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Romance" label="Romance"/>
+<content type="text">Una mujer idea un plan para que su mejor amigo le confiese sus sentimientos... y así ayudarlo a seguir adelante. ¡Una nueva novela del aclamado autor de I Want to Eat Your Pancreas y At Night, I Become a Monster , Yoru Sumino!
+
+Chizuru está a punto de cumplir treinta años... y de casarse. Pero antes de que suenen las campanas de boda, le queda una última misión: hacer que Hibiki, su mejor amigo de la universidad, le confiese lo que siente por ella... para poder rechazarlo de una vez por todas y ayudarlo a pasar página. Su deseo es simple: que una vez que hable con el corazón, no se quede atrapado en el pasado y encuentre el valor para caminar hacia el futuro.
+
+Karin, amigo de ambos desde hace años, pone los ojos en blanco ante un plan tan infantil pero, en contra de su buen juicio, acepta ayudar. Sin embargo, esta llamada "Estrategia de la Confesión" pronto se descontrola de formas que nadie esperaba...
+
+Una comedia romántica agridulce sobre el amor no correspondido, amistades enredadas y los giros inesperados del corazón.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1lMNBZq5fAWMOyGi--cJQwQ" type="text/html" title="Next Novels (MTL)"/>
+</entry>
+<entry>
+<title>Yoru no Bakemono Novela Ligera en Español</title>
+<id>https://nextnovels.com/yoru-no-bakemono-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/yoru-no-bakemono-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/03/Yoru-no-Bakemono-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/03/Yoru-no-Bakemono-Portada.jpg"/>
+<author><name>Yoru Sumino</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Una nueva e inquietante novela del creador de Quiero comerme tu páncreas. Cada noche, Adachi se transforma en una criatura de pesadilla y cada mañana vuelve a su forma humana. Cuando se encuentra con su compañera de clase Yano Satsuki en su estado monstruoso, los dos desarrollan un vínculo peculiar. Pero la luz del día trae consigo su propia forma de terror. ¿Qué es peor, el monstruo de noche o la cruel realidad de la clase de día? Una novela de fantasía psicológica de instituto de Yoru Sumino, autora del bestseller, Quiero comerme tu páncreas.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1_I3r1DZ2tL27LXtt89EJRw" type="text/html" title="Traducciones Fajardo"/>
 </entry>
 </feed>

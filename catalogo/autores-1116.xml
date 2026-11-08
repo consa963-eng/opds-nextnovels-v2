@@ -1,91 +1,97 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Yuu Kagami</id>
-<title>Yuu Kagami</title>
-<updated>2026-11-01T04:01:33.664536+00:00</updated>
+<id>nextnovels:autores:Yuu Hidaka</id>
+<title>Yuu Hidaka</title>
+<updated>2026-11-08T04:02:35.068455+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1116.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Bokura no Haru wa Inazuma no You ni Novela Ligera en Español</title>
-<id>https://nextnovels.com/bokura-no-haru-wa-inazuma-no-you-ni-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/bokura-no-haru-wa-inazuma-no-you-ni-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/07/Bokura-no-Haru-wa-Inazuma-no-You-ni-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/07/Bokura-no-Haru-wa-Inazuma-no-You-ni-Portada.jpg"/>
-<author><name>Yuu Kagami</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
+<title>Anata no Koto wo, Kirai ni Naru kara Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-anata-no-koto-wo-kirai-ni-naru-kara-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-anata-no-koto-wo-kirai-ni-naru-kara-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/01/Anata-no-Koto-wo-Kirai-ni-Naru-kara-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/01/Anata-no-Koto-wo-Kirai-ni-Naru-kara-Portada.jpg"/>
+<author><name>Yuu Hidaka</name></author>
+<category term="Drama" label="Drama"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Mi prometida y yo tuvimos días dulces, tristes y fugaces.
+<content type="text">Cuando las emociones se intensifican, pueden llevar a la mu3rte: Esa es la enfermedad conocida como "Tr4storn0 Autoinmune Emocional".
 
-“¿Porque nuestro amor es tan rápido?”
+Desde que me diagnosticaron, las emociones se han vuelto para mí algo sin valor. La alegría, la ira, la tristeza, el placer... cada una de estas emociones me consume. Por eso, elijo no tener emociones. No me enamoro de nadie.
 
-Como ella dijo, nuestro amor fue rápido.
+Sin embargo, mi compañera de clase, Megumi Nanakawa, se dirige a mí con determinación:
 
-Ni bien nos conocimos, me propuso matrimonio en el acto.
+"¡¡En realidad, me gustas, Shito-kun!!”
 
-En la segunda ocasión tuvimos una cita en mi casa.
-
-¡Y en la tercera oportunidad fui de visita a saludar a sus padres!
-
-Pero ella me dio una condición. Si la beso nuestro compromiso se romperá...
-
-Es una relación un tanto forzada, pero ¿Está bien empezar a salir así?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1s515a2KRwSTwL8qaJsSO7A" type="text/html" title="Tamashi's Project"/>
+Nunca podría enamorarme de alguien; sería imposible. Porque si llego a enamorarme, p3rd3ría mi vida. Pero no puedo detener los sentimientos que empiezan a florecer dentro de mí... Esta es la historia de un chico sin emociones y una chica llena de sentimiento.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1ENxUG1hbfG2NVbs-xpJfTw" type="text/html" title="Tamashi's Project"/>
 </entry>
 <entry>
-<title>The Beautiful Girl Who Loves Eroge Wants to Do Everything Like in Those Games Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-beautiful-girl-who-loves-eroge-wants-to-do-everything-like-in-those-games-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-beautiful-girl-who-loves-eroge-wants-to-do-everything-like-in-those-games-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/The-Beautiful-Girl-Who-Loves-Eroge-Wants-to-Do-Everything-Like-in-Those-Games-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/08/The-Beautiful-Girl-Who-Loves-Eroge-Wants-to-Do-Everything-Like-in-Those-Games-Portada.jpg"/>
-<author><name>Yuu Kagami</name></author>
+<title>My Clumsy Cute Kouhai’s First Love Order Is Bugged Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-my-clumsy-cute-kouhais-first-love-order-is-bugged-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-my-clumsy-cute-kouhais-first-love-order-is-bugged-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/My-Clumsy-Cute-Kouhais-First-Love-Order-Is-Bugged-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/08/My-Clumsy-Cute-Kouhais-First-Love-Order-Is-Bugged-Portada.jpg"/>
+<author><name>Yuu Hidaka</name></author>
 <category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
+<content type="text">¡¿Tuvieron sexo, pero ni siquiera pueden tomarse de la mano?!
+
+¡Aquí da comienzo una dulcísima comedia romántica de «amor puro», tejida por dos personas que aún no llegan a ser novios!
+
+—...L-la arruiné...
+
+Komaki Hano, una torpe kouhai, desparrama el contenido de su bolso en el seminario. Yuugo Takara, quien tiene cierta aversión hacia el romance, no puede dejarla sola y le tiende la mano.
+
+Ambos, estudiantes de la Academia Seika, comienzan a acercarse rápidamente a través de sus charlas otaku sobre una idol virtual y programas de televisión, sus gustos en común. Sin embargo, cuando Komaki ve a Yuugo comportarse de forma cercana con otra mujer, sus sentimientos se descontrolan...
+
+—Me gustas... ¡Es la primera vez que siento algo así...!
+
+Arrastrados por el impulso, los dos terminan teniendo una relación física.
+
+Aunque hicieron algo que va más allá de ser pareja, por alguna razón la distancia entre ellos sigue siendo menor a la de unos novios.
+
+Una comedia romántica de «amor puro» demasiado dulce, tejida por estos dos, ¡da comienzo aquí!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/11CFmudD7fPrfn1FMvaP9mA" type="text/html" title="OX-MR Traducciones"/>
+</entry>
+<entry>
+<title>My Plain-looking Fiance is Secretly Sweet with Me Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-my-plain-looking-fiance-is-secretly-sweet-with-me-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-my-plain-looking-fiance-is-secretly-sweet-with-me-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/04/Ore-no-Iinazuke-ni-Natta-Jimiko-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/04/Ore-no-Iinazuke-ni-Natta-Jimiko-Portada.jpg"/>
+<author><name>Yuu Hidaka</name></author>
+<category term="Adulto" label="Adulto"/>
+<category term="Comedia" label="Comedia"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">"Ús4me como modelo, como más te guste. Haré todo lo que me p1d4s."
+<content type="text">«Onii-san, felicitaciones por tu matrimonio. Esta persona es tu novia».
 
-"¡Por favor, hagamos un 3rog3 juntos!"
+«M-mi nombre es Watanae Yuuka… estoy en la misma clase que tú…»
 
-Noel, una hermosa chica francesa que normalmente es muy fría, en realidad es una fan empedernida de los 3rog3.
+Mi nombre es Sakata Yuichi. Estoy en mi segundo año de secundaria.
 
-¡De repente, Noel le pide a Masato, un estudiante de preparatoria, que haga las ilustraciones para un 3rog3!
+¿Debido a las circunstancias de mis padres, de repente me caso…?
 
-Aunque Masato suele dibujar con frecuencia, no se le da bien hacer ilustraciones 3r0tic4s...
+Además, mi compañera es una chica sencilla, Watanae-san. Durante mi tercer año de secundaria, pasé por una mala experiencia. Desde entonces, solo me han interesado las heroínas 2D. De ninguna manera me interesaría una chica 3D. Eso fue lo que pensé, pero…
 
-"Ús4me como modelo. Haré cualquier cosa que me p1d4s ¿De acuerdo?"
+«…Bueno, entonces, ¿quién es tu heroína favorita en este momento?»
 
-Como primer paso, Masato comienza a dibujar a Noel después de que ella se quita los p4ntsus para servirle de modelo, pero...
+Resulta que en realidad era una otaku y se vuelve muy habladora cuando la conoces. Ella siempre participaría felizmente en nuestras conversaciones. Me mostró cosas que nunca hubiera esperado de una chica de mi clase.
 
-¿¡Desarrollar un 3rog3 a solas con una hermosa chica en un edificio comercial de Akihabara!?
+«Err, ya que vamos a vivir juntos… ¿Está bien si te llamo Yuu-kun?»
 
-¡Una comedia romántica de creadores, donde la pasión y el 3rot1sm0 se cruzan!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1j36P8cEfXVa5FbZnjfYkWA" type="text/html" title="Shadow Translations"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1axsg3rWYxyxpajB1XGM3ow" type="text/html" title="Tamashi's Project"/>
-</entry>
-<entry>
-<title>When I Confessed to the Girl I Liked, Her Twin Sister Came Along as an Extra Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-when-i-confessed-to-the-girl-i-liked-her-twin-sister-came-along-as-an-extra-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-when-i-confessed-to-the-girl-i-liked-her-twin-sister-came-along-as-an-extra-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/05/Suki-na-Ko-ni-Kokuttara-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/05/Suki-na-Ko-ni-Kokuttara-Portada.jpg"/>
-<author><name>Yuu Kagami</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Harem" label="Harem"/>
-<category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Un día de verano, Nakaba Masaki se le declara de repente a su compañera de clase, Yuzuki Tsubasa, quien casualmente está a solas con él en el aula después de clases.
+Y, en el momento en que bajara la guardia, instantáneamente intentaría acortar la distancia entre nosotros. Y lo que es más…
 
-Él ya se estaba preparando para ser rechazado por las palabras que salieron de su boca, pero lo que recibió fue una respuesta impactante: "Saldré contigo si también quieres salir con mi hermana gemela."
+«Solo entre tú y yo, en realidad soy la actriz de voz de Yuuna Izumi de『 Alice Stage 』. ¡Gracias por apoyarme siempre! «
 
-Por un momento, no supo de qué le estaban hablando, pero sabía que no podía retroceder, así que aceptó salir con ambas al mismo tiempo.
+Es un secreto para todos los demás, ¿pero resulta que en realidad es la actriz de voz de mi heroína favorita? ¡Solo me interesan las heroínas 2D!
 
-Pero entonces, le esperan aún más acontecimientos inesperados.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/17Ky6NjBpShFVTES2b3uULw" type="text/html" title="Shadow Translations"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1rhusl3QZ_yt6fMsLaqDkkg" type="text/html" title="World Project"/>
+Pero, el verdadero yo de Yuuka, que solo muestra cuando está a solas conmigo, ¡no es más que lindo!
+
+Esta es la historia de Yuuka y yo, comenzando como prometidas. ¡Una comedia romántica reconfortante y caótica!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1oFxhlqrKGuzrltb1faB68Q" type="text/html" title="Underword Liella Novels"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/15VkRUug-PQxBIwSieMb_IQ" type="text/html" title="OX-MR Traducciones"/>
 </entry>
 </feed>

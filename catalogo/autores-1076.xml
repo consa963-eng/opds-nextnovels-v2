@@ -1,27 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Yo Mitsuoka</id>
-<title>Yo Mitsuoka</title>
-<updated>2026-11-01T04:01:33.654945+00:00</updated>
+<id>nextnovels:autores:Yayoi Shirou</id>
+<title>Yayoi Shirou</title>
+<updated>2026-11-08T04:02:35.060438+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1076.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>The Master of the Brave Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-master-of-the-brave-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-master-of-the-brave-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/The-Master-of-the-Brave-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/09/The-Master-of-the-Brave-Portada.jpg"/>
-<author><name>Yo Mitsuoka</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Artes marciales" label="Artes marciales"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
+<title>Chuuko (?) no Mizumori-san to Tsukiatte Mitara, Yakeni Ore ni Kamatte Kuru Novela Ligera en Español</title>
+<id>https://nextnovels.com/chuuko-no-mizumori-san-to-tsukiatte-mitara-yakeni-ore-ni-kamatte-kuru-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/chuuko-no-mizumori-san-to-tsukiatte-mitara-yakeni-ore-ni-kamatte-kuru-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/12/Chuuko-no-Mizumori-san-to-Tsukiatte-Mitara-Yakeni-Ore-ni-Kamatte-Kuru-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/12/Chuuko-no-Mizumori-san-to-Tsukiatte-Mitara-Yakeni-Ore-ni-Kamatte-Kuru-Portada.jpg"/>
+<author><name>Yayoi Shirou</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Después de perder a sus padres, anhela convertirse en un Caballero, el pobre muchacho Wynn Bard se entrenó diligentemente. Sin embargo, le fue imposible convertirse en un Caballero, porque su poder mágico era demasiado bajo, no podía pasar el examen de Caballeros, por lo que fue etiquetado con el desagradable título de 'Eterno Cadete de Caballero'.
+<content type="text">El amor es algo tan innecesario. Togami Riku, un autoproclamado defensor del amor, un día se encuentra con una estudiante que busca algo después de la escuela y decide acercarse a ella, pero...
 
-Pero un día El Valiente derrotó al Rey Demonio y salvó al mundo. El Valiente era una belleza sin igual y se ganó la atención del mundo entero. Sin embargo, declaró al mundo: "Voy a regresar al lado de mi Maestro, Wynn Byrd". Esta es la historia de un chico que de alguna manera paso de ser 'Eterno Cadete de Caballero' a 'Maestro del Valiente'.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1uG6WMQICLjSxU-HDbAACmw" type="text/html" title="Turret Translations"/>
+"¿Podría ser que quieras hacer cosas malas conmigo?"
+
+"¿Eh?"
+
+La chica llamada Mizumori Yui, parece ser la persona más odiada de la escuela y es conocida por ser promiscua.
+
+Después de ayudar a Mizumori, Riku se hace amigo de ella y finalmente se confiesa.
+
+Aunque Riku ha renunciado al amor y no tiene sentimientos románticos por Mizumori, debido a ciertas circunstancias, ¡terminaron saliendo juntos!
+
+"Oye, ¿quieres que nos besemos?"
+
+"Riku-kun, te faltan ciertos elementos que debes completar".
+
+"Me he sentido nervioso sin parar desde antes".
+
+Esta es la historia de una chica sincera y posiblemente desechada (?), y con su vida juvenil de comedia romántica que ha comenzado.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1yvMpgK6dNX2QIr4l6FpuMg" type="text/html" title="Antihero LN"/>
 </entry>
 </feed>

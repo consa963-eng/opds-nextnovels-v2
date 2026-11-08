@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Nonohara Usata</id>
-<title>Nonohara Usata</title>
-<updated>2026-11-01T04:01:33.546391+00:00</updated>
+<id>nextnovels:autores:Niteron</id>
+<title>Niteron</title>
+<updated>2026-11-08T04:02:34.979671+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-693.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>The Alchemist Who Survived Now Dreams of a Quiet City Life Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-alchemist-who-survived-now-dreams-of-a-quiet-city-life-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-alchemist-who-survived-now-dreams-of-a-quiet-city-life-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/04/The-Alchemist-Who-Survived-Now-Dreams-of-a-Quiet-City-Life-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/04/The-Alchemist-Who-Survived-Now-Dreams-of-a-Quiet-City-Life-Portada.jpg"/>
-<author><name>Nonohara Usata</name></author>
+<title>The Hole in My Heart Cannot Be Filled with Reincarnation Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-hole-in-my-heart-cannot-be-filled-with-reincarnation-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-hole-in-my-heart-cannot-be-filled-with-reincarnation-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/The-Hole-in-My-Heart-Cannot-Be-Filled-with-Reincarnation-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/09/The-Hole-in-My-Heart-Cannot-Be-Filled-with-Reincarnation-Portada.jpg"/>
+<author><name>Niteron</name></author>
+<category term="Acción" label="Acción"/>
 <category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Harem" label="Harem"/>
+<category term="Psicológico" label="Psicológico"/>
 <category term="Romance" label="Romance"/>
-<category term="Shoujo" label="Shoujo"/>
-<content type="text">Los alquimistas solían ser muy comunes en el Reino de Endalsia, por lo que Mariela nunca fue especialmente especial. Pero sus habilidades se pusieron a prueba un fatídico día, cuando una horda de monstruos salió en estampida desde el bosque cercano. En un intento desesperado por escapar del horror, la joven alquimista se sumió en un estado de animación suspendida que duró un poco más de lo que había planeado: ¡doscientos años enteros! Huelga decir que ha habido grandes cambios, y el mayor de todos: Mariela es ahora la única alquimista de todo el reino. Su único deseo en este extraño y nuevo entorno es recuperar su estilo de vida tranquilo, relajado y discreto.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1jhWLw80w1AqJDnC8HRkjKA" type="text/html" title="Next Novels (MTL)"/>
+<content type="text">En un mundo donde los deseos despiertan magias únicas y los guerreros Adepts gozan de privilegios supremos, el reencarnado Konoe alcanza esta codiciada posición con un solo objetivo en mente: conseguir una poción de amor. Marcado por el trauma de su vida pasada e incapaz de confiar en los demás, cree que solo un brebaje mágico le permitirá ser al fin la persona más importante para alguien. Sin embargo, su plan da un giro inesperado cuando una chica de cabellos dorados y enfermedad terminal se cruza en su camino, ofreciéndole su devoción absoluta a cambio de que la salve.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/16ZnGyvUYcYxkTbk4TcKhTw" type="text/html" title="Astral Novel Translations"/>
 </entry>
 </feed>

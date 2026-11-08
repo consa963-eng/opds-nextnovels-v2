@@ -1,31 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Saeki-san</id>
-<title>Saeki-san</title>
-<updated>2026-11-01T04:01:33.565226+00:00</updated>
+<id>nextnovels:autores:Saeki Nagi</id>
+<title>Saeki Nagi</title>
+<updated>2026-11-08T04:02:34.997667+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-781.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>The Angel Next Door Spoils Me Rotten Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-angel-next-door-spoils-me-rotten-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-angel-next-door-spoils-me-rotten-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/06/Otonari-no-tenshi-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/06/Otonari-no-tenshi-Portada.jpg"/>
-<author><name>Saeki-san</name></author>
+<title>An Extremely Wholesome Level-Up of a Beautiful Girl Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-an-extremely-wholesome-level-up-of-a-beautiful-girl-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-an-extremely-wholesome-level-up-of-a-beautiful-girl-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/An-Extremely-Wholesome-Level-Up-of-a-Beautiful-Girl-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/05/An-Extremely-Wholesome-Level-Up-of-a-Beautiful-Girl-Portada.jpg"/>
+<author><name>Saeki Nagi</name></author>
 <category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Harem" label="Harem"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">La vecina de Amane Fujimiya, en el apartamento en el que vive, es el ángel adorable número uno de la escuela: Excelente y con un nivel de belleza que sólo puede describirse como angelical: Mahiru Shiina. Amane, un estudiante normal y corriente que no destaca, es su vecino, pero hasta ahora no se relacionaban. Después de conocer al ángel empapado en la lluvia:
+<content type="text">¡EXP Gigantesca, Harem al Máximo! Una comedia romántica sana de solo un ligero toque
 
-"Te devuelvo lo que me has prestado. Por cierto, limpia tu habitación. Está sucia".
+En un mundo moderno donde han aparecido las mazmorras, las mujeres poseen "Niveles" mientras que los hombres manifiestan "EXP". Al ser tocadas por un hombre, las mujeres reciben puntos de experiencia junto con un flujo de placer intenso. Yo, Tatsuya, un estudiante de preparatoria, poseo una cantidad masiva de EXP; tan masiva, de hecho, que un simple toque hace que las chicas se desmayen de éxtasis. Debido a esto, me había rendido con la idea de tener novia... o eso pensaba.
 
-"No es asunto tuyo".
+"¡Por supuesto que vamos a hacerlo!"
 
-La relación con un ángel de lengua afilada comienza con la entrega de un paraguas. Desde coger un resfriado y que alguien te cuide, hasta hacer una comida a alguien porque descuidó su salud, pasando por el trabajo conjunto (limpieza de habitaciones)...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/13O7fced5V2gqzm74vl7ZAA" type="text/html" title="Underword Liella Novels"/>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1MDp_OKQtF3OyQavvKg1pUg" type="text/html" title="World Project"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Swczr1EYbvRPWfdhfZ-BrQ" type="text/html" title="Onigiri"/>
-<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1NbLdS-UZRJJUrg4cMJy-wg" type="text/html" title="Cafuné Translation"/>
+"¡Por favor!"
+
+"Patético perdedor ♡"
+
+Una gyaru, una enfermera escolar y una streamer insolente. ¡Estas hermosas chicas que quieren subir de nivel han notado mi "tamaño"! Entre una convivencia dulce y coqueta, sesiones nocturnas en la enfermería y transmisiones en vivo de "resistencia al éxtasis", ¡me persiguen tan implacablemente que mis propios impulsos están llegando al límite! Si cruzo la línea, las romperé, y aun así...
+
+"¡Dame más... EXP!"
+
+¡Una comedia romántica de harem sana que comienza con solo un pequeño toque!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1gC1e7Vo935EZCKeCtqFQJg" type="text/html" title="Shadow Translations"/>
 </entry>
 </feed>

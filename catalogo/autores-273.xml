@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Hitoma Iruma</id>
-<title>Hitoma Iruma</title>
-<updated>2026-11-01T04:01:33.454328+00:00</updated>
+<id>nextnovels:autores:Hishikawa Sakaku</id>
+<title>Hishikawa Sakaku</title>
+<updated>2026-11-08T04:02:34.887142+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-273.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>My First Love’s Kiss Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-my-first-loves-kiss-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-my-first-loves-kiss-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/10/My-First-Loves-Kiss-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/10/My-First-Loves-Kiss-Portada.jpg"/>
-<author><name>Hitoma Iruma</name></author>
+<title>The Brilliant Healer's New Life in the Shadows Novela Ligera en Español</title>
+<id>https://nextnovels.com/the-brilliant-healers-new-life-in-the-shadows-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/the-brilliant-healers-new-life-in-the-shadows-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/01/The-Brilliant-Healers-New-Life-in-the-Shadows-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/01/The-Brilliant-Healers-New-Life-in-the-Shadows-Portada.jpg"/>
+<author><name>Hishikawa Sakaku</name></author>
+<category term="Acción" label="Acción"/>
 <category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<category term="Yuri" label="Yuri"/>
-<content type="text">¿Por qué tuve que enamorarme de mi compañera de cuarto?
+<content type="text">La vida no ha sido amable con Zenos. Nació en los suburbios y su origen pobre y sucio le ha negado casi todas las oportunidades. Tras un encuentro con un curandero, se lanza a estudiar para convertirse en uno y, por fin, encuentra una oportunidad cuando un aventurero invita a Zenos a su grupo. Zenos está encantado, tanto que está dispuesto a soportar que sus compañeros lo traten como basura. No aprecian su talento y acaban por echarlo a la calle, alegando que ya no les es útil.
 
-La vida de Hoshi Takasora se ve alterada cuando su compañera de escuela Mizuike Umi y su madre se mudan temporalmente al pequeño apartamento de su familia. Desde el principio, a Takasora le molesta el comportamiento de Umi… y su atractivo. Aunque al principio las dos chicas se comprometen a no interferir en la vida de la otra, Takasora no puede evitar empezar a preguntarse adónde va Umi por las noches… Del autor de Adachi y Shimamura llega la agridulce historia de dos chicas de secundaria cuyas vidas se ven empujadas a convivir bajo el mismo techo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1RkjKWcVJl_pSWhcYgYXbxQ" type="text/html" title="Ferindrad"/>
+Sin dinero y sin opciones, Zenos decide poner en práctica sus habilidades autodidactas y abre una clínica clandestina. Rápidamente se corre la voz de que este brillante sanador hace una magia increíble en los bajos fondos de la ciudad. Incluso el palacio real se da cuenta...
+
+¿Podrá Zenos superar las adversidades y labrarse una vida en un mundo que le escupe a la cara? ¿Y podrá salvar las vidas de los pacientes que acaban en su puerta?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1m7R7JeSDWC1BBHIVRPrpQQ" type="text/html" title="World Project"/>
 </entry>
 </feed>

@@ -1,33 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Tozuka Riku</id>
-<title>Tozuka Riku</title>
-<updated>2026-11-01T04:01:33.621661+00:00</updated>
+<id>nextnovels:autores:Toyozo Okamura</id>
+<title>Toyozo Okamura</title>
+<updated>2026-11-08T04:02:35.043059+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1004.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Noble Saint Novela Ligera en Español</title>
-<id>https://nextnovels.com/noble-saint-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/noble-saint-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/04/Noble-Saint-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/04/Noble-Saint-Portada.jpg"/>
-<author><name>Tozuka Riku</name></author>
+<title>Love &amp; Magic Academy Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-love-magic-academy-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-love-magic-academy-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/04/Love-Magic-Academy-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/04/Love-Magic-Academy-Portada.jpg"/>
+<author><name>Toyozo Okamura</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
 <category term="Comedia" label="Comedia"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
 <category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">«¿Vienes?» Son las 11 de la noche.
+<content type="text">¡Estudiante de día, aventurera de noche!
 
-Kuraki Yamato, un estudiante de secundaria normal y corriente, va de camino a casa desde la tienda de comestibles cuando conoce a Shirase Sayla, una hermosa chica de su clase que tiene fama de santa.
-
-Ella le invita a pasar un rato con ella en el centro de la ciudad en plena noche, y ese día es el comienzo de una nueva relación entre los dos.
-
-Juegan a los dardos por primera vez, prestan y toman prestados CDs, y visitan tiendas de ramen …….
-
-La aburrida vida cotidiana de Yamato se torna más colorida a medida que se relaciona con Sayla, que a veces lo mima y tiene un lado travieso.
-
-«Me alegro mucho de que Yamato viniera conmigo en ese momento».
-
-Este es el comienzo de una dulce y preciosa historia de juventud y amor vivida con una mujer santa que es natural en todos los sentidos.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/18KYO0jwde9eMs-7oRCl0Og" type="text/html" title="MiraiK"/>
+Aquí estoy, reencarnado en el mundo de Love &amp; Magic Academy, un juego otome con elementos de RPG, y soy uno de los intereses amorosos: el guay Arius con gafas. Espera, espera. Lo que significa que... ¡¿voy a ser arrastrada a las escenas románticas como en el juego?! Pero tengo cero interés en el romance. Y este mundo no se trata sólo de escenas románticas. Tiene magia y monstruos, y puedes subir tus estadísticas buceando por las mazmorras. Como no me interesan los romances, voy a empezar entrenando y aumentando mis estadísticas con la espada y la magia, y luego me adentraré en las mazmorras, aplastando a innumerables monstruos por el camino. Allá voy, ignorando las escenas románticas mientras me sumerjo en las mazmorras para hacerme más fuerte.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1sGkcOXYxXQSeZl8FxCuHzw" type="text/html" title="Next Novels (MTL)"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1n8qK5I_R_bjU07yy9OCyXQ" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 </feed>

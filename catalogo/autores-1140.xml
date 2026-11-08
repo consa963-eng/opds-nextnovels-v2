@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:マサイ</id>
-<title>マサイ</title>
-<updated>2026-11-01T04:01:33.670069+00:00</updated>
+<id>nextnovels:autores:キャラ文庫</id>
+<title>キャラ文庫</title>
+<updated>2026-11-08T04:02:35.073487+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1140.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Confinement King Novela Ligera en Español</title>
-<id>https://nextnovels.com/confinement-king-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/confinement-king-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/11/01-40.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/11/01-40.jpg"/>
-<author><name>マサイ</name></author>
-<category term="Adulto" label="Adulto"/>
+<title>Marriage of an Omega Novela Ligera en Español</title>
+<id>https://nextnovels.com/marriage-of-an-omega-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/marriage-of-an-omega-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/08/Marriage-of-an-Omega-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/08/Marriage-of-an-Omega-Portada.jpg"/>
+<author><name>キャラ文庫</name></author>
 <category term="Drama" label="Drama"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Harem" label="Harem"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Una chica que se hace llamar demonio se presenta ante un tímido estudiante llamado Fumio Kijima. La chica dice ser una chica de la campaña del mundo de los demonios y le da la capacidad de «invocar una habitación» de la nada. Al principio no abusa de su poder y lo utiliza como una habilidad conveniente en su vida cotidiana. Pero un día es acosado por sus compañeros de clase con un falso pretexto y le hacen sufrir. En el pasado se habría revolcado en la miseria y habría llorado hasta quedarse dormido, pero ahora tiene un poder al que recurrir. «¡Haré que se arrepientan!» Utilizando sus poderes para invocar su «habitación», comienza su era de confinamiento y lavado de cerebro para lograr sus objetivos.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/confinement-king-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Romance" label="Romance"/>
+<category term="Smut" label="Smut"/>
+<category term="Yaoi" label="Yaoi"/>
+<content type="text">Nacer como un omega en la familia de un conde prestigioso se considera una desgracia. Desesperado por guardar su secreto, Masazumi vive como Beta en un internado.
+
+─ ¡No me enamoraré de nadie, me moriré sin una pareja!
+
+Sin embargo, un día su inigualable belleza e ingenio llamaron la atención de sus compañeros de clase y fue atacado. Quien lo rescató de esta situación fue el conserje, Miyake. A pesar de estar vestido con ropa de trabajo sencilla y un sombrero, cuando Miyake se acercó, Masazumi sintió una chispa como nunca antes había experimentado.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1Tj72h9YSULGQ4t_fbl7KOg" type="text/html" title="Zixrïs_Chosm"/>
 </entry>
 </feed>

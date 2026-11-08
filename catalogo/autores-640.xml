@@ -1,23 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Nagano Mizuki</id>
-<title>Nagano Mizuki</title>
-<updated>2026-11-01T04:01:33.534780+00:00</updated>
+<id>nextnovels:autores:Nagaharu Hibihana</id>
+<title>Nagaharu Hibihana</title>
+<updated>2026-11-08T04:02:34.968216+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-640.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>The Person I Loved Asked Me to Die in My Sister’s Stead Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-person-i-loved-asked-me-to-die-in-my-sisters-stead-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-person-i-loved-asked-me-to-die-in-my-sisters-stead-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/08/The-Person-I-Loved-Asked-Me-to-Die-in-My-Sisters-Stead-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/08/The-Person-I-Loved-Asked-Me-to-Die-in-My-Sisters-Stead-Portada.jpg"/>
-<author><name>Nagano Mizuki</name></author>
-<category term="Drama" label="Drama"/>
+<title>Isekai Konyoku Monogatari Novela Ligera en Español</title>
+<id>https://nextnovels.com/isekai-konyoku-monogatari-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/isekai-konyoku-monogatari-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/11/01-11.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/11/01-11.jpg"/>
+<author><name>Nagaharu Hibihana</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
 <category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
 <category term="Romance" label="Romance"/>
-<category term="Shoujo" label="Shoujo"/>
-<category term="Tragedia" label="Tragedia"/>
-<content type="text">Wisteria, una ex dama noble, se convirtió en la Guardiana de un mundo extraño y venenoso en lugar de su hermana. Un día, un hombre idéntico a su primer amor aparece en el cielo. Su nombre es Lloyd. ¡Y resulta ser el hijo de aquel primer amor! Ha venido a reclamar a Surtis, la espada sagrada con voluntad y compañera de Wisteria, como prueba para pedir la mano de la princesa. Ella, que ha sobrevivido en un tiempo detenido, lo derrota con su magia única y le insta a regresar a su mundo original, pero... «¡Para derrotarla, me convertiré en su discípulo!». Sin dejarse convencer, él se queda a vivir con ella. Mientras Wisteria se ve arrastrada por un discípulo que domina la magia ante sus propios ojos, comienza una relación de maestro y discípulo impuesta de forma unilateral. ¿Logrará el tiempo de Wisteria, que permanece detenido, volver a ponerse en marcha? Una fantasía romántica de maestro y discípulo entre una ex dama solitaria y no combatiente y un noble caballero arrogante y superdotado. Incluye el relato corto «Alto, pequeño» y una galería de configuración de personajes.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1qQF_jB7IVSrYUEaUq_keUQ" type="text/html" title="Next Novels (MTL)"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1-Kxwy8f2WGBXU6unPpd-iQ" type="text/html" title="Next Novels (MTL)"/>
+<content type="text">"¿¡Cómo se supone que voy a pelear con esto?!" Después de ser convocado a otra dimensión como uno de los cinco héroes destinados a derrotar al rey demonio, Toya Hojo despierta su poder de héroe sólo para descubrir que... ¿es un baño ilimitado?
+
+Él fue bendecido con el poder de crear un baño en el que se puede acceder en cualquier lugar, lo que parece desgraciar su misión para derrotar al rey demonio. A medida que se recupera de su shock, Toya lentamente descubre las características únicas de su poder, que le permiten utilizarlo de manera que nunca había soñado...
+
+Pero ¿alguna vez tendría una hora del baño con Haruno Shinonome, la hermosa chica que también fue convocada junto con él?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1ECUQOzpVJzCFjLK-KTzaAA" type="text/html" title="Turret Translations"/>
 </entry>
 </feed>

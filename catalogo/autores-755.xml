@@ -1,26 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Rikako Akiyoshi</id>
-<title>Rikako Akiyoshi</title>
-<updated>2026-11-01T04:01:33.559799+00:00</updated>
+<id>nextnovels:autores:Riichiro Inagaki</id>
+<title>Riichiro Inagaki</title>
+<updated>2026-11-08T04:02:34.992448+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-755.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Ankoku Joshi Novela Ligera en Español</title>
-<id>https://nextnovels.com/ankoku-joshi-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/ankoku-joshi-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/10/01-9.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/10/01-9.jpg"/>
-<author><name>Rikako Akiyoshi</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">En esta historia de misterio al estilo de Rashomon, cada miembro de un club de literatura de bachillerato presenta su propia versión de la muerte de la líder del grupo.
-
-En un prestigioso colegio femenino, una alumna ha muerto. Itsumi era la chica más hermosa, carismática y popular de la Academia St. Mary para Chicas. También era la presidenta del exclusivo y unido Club de Literatura. Una semana después de su muerte, las miembros de su querido club se reúnen en su memoria. Pero a medida que cada una de ellas testifica lo sucedido en los días previos al trágico suceso, sus acusaciones se vuelven impactantes.
-
-¿Por qué y cómo murió realmente Itsumi?
-
-En este brillante y apasionante misterio de asesinato, cada una tiene sus propias motivaciones y versión de la verdad. En su descripción de las alianzas, las traiciones y las tensiones invisibles entre amigas y enemigos, Las Doncellas Oscuras mantiene a los lectores en vilo y muestra que lo que es dulce puede ser fácilmente venenoso.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/12RHl78wGBkUAHkNLahRv6Q" type="text/html" title="Traducciones Roberth"/>
+<title>Dr. Stone The Voices That Face the Future Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-dr-stone-the-voices-that-face-the-future-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-dr-stone-the-voices-that-face-the-future-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/Dr.-Stone-The-Voices-That-Face-the-Future.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/09/Dr.-Stone-The-Voices-That-Face-the-Future.jpg"/>
+<author><name>Riichiro Inagaki</name></author>
+<category term="Aventura" label="Aventura"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">Antes del colapso de la civilización, ¡¡Tsukasa y Gen se enfrentan en un programa de televisión!! Tsukasa, que lucha por su orgullo y sus secretos, ¿podrá vencer la temible trampa del mentalista Gen?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1TlxqAM2R2c9A-Sd4krvH8A" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 </feed>

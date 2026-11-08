@@ -1,28 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Nagira Yuu</id>
-<title>Nagira Yuu</title>
-<updated>2026-11-01T04:01:33.536237+00:00</updated>
+<id>nextnovels:autores:Nagi</id>
+<title>Nagi</title>
+<updated>2026-11-08T04:02:34.969693+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-647.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Goodnight, See You Tomorrow Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-goodnight-see-you-tomorrow-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-goodnight-see-you-tomorrow-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/04/Goodnight-See-You-Tomorrow-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/04/Goodnight-See-You-Tomorrow-Portada.jpg"/>
-<author><name>Nagira Yuu</name></author>
-<category term="Adulto" label="Adulto"/>
+<title>All Mankind Is My Enemy Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-all-mankind-is-my-enemy-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-all-mankind-is-my-enemy-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/All-Making-Is-My-Enemy-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/09/All-Making-Is-My-Enemy-Portada.jpg"/>
+<author><name>Nagi</name></author>
+<category term="Acción" label="Acción"/>
 <category term="Drama" label="Drama"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Romance" label="Romance"/>
-<category term="Yaoi" label="Yaoi"/>
-<content type="text">"Nunca volveré a enamorarme de nadie".
+<category term="Fantasía" label="Fantasía"/>
+<content type="text">La ganadora de la 28ª edición de los Sneaker Awards.
 
-Esta sorprendente confesión proviene de Sakutaro, un devoto admirador y firme partidario de la obra de la novelista Tsugumi, un hombre por el que Tsugumi ha empezado a sentir los débiles impulsos del amor. Tsugumi, aún conmocionada por el final de una relación de diez años, acepta la oferta de Sakutaro de quedarse en su casa, sólo para descubrir la profunda y pesada carga que lleva en silencio.
+Para una sola niña, alzarse contra el mundo.
 
-Un joven que lucha contra un trastorno de la memoria y una tímida escritora que lidia con heridas del pasado encuentran sus vidas entrelazadas de forma inesperada. A medida que atraviesan fugaces momentos de conexión y vulnerabilidad, comienzan a preguntarse: ¿podrán los preciados recuerdos de hoy sobrevivir hasta mañana?
+«La humanidad será destruida por la 《Reina Demonio》».
 
-Una tierna y agridulce historia de amor sobre la curación, la esperanza y la fragilidad del tiempo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Zpie_Ifds6iCieTChNaBEA" type="text/html" title="Next Novels (MTL)"/>
+Así lo declaró el dios que, de pronto, descendió ante toda la humanidad.
+
+A causa de las muertes misteriosas que venían ocurriendo sin distinción desde hacía aproximadamente un mes, ya se habían perdido ochocientos millones de vidas. El dios afirmó que ese fenómeno, llamado 《Desprendimiento del Alma》, era obra de la 《Reina Demonio》, quien solo tenía la apariencia de una niña inocente.
+
+Para detener la calamidad, fueron elegidos diez ángeles en representación de la humanidad, y se levantó el telón de la 《Guerra Santa》: 《Humanidad》 contra 《Reina Demonio》.
+
+En un mundo conmocionado, solo Yūto Takasaka conocía a la niña. Sabía que ella había sido convertida en enemiga del mundo, y que era un ser débil y frágil que extendía la mano pidiendo ayuda.
+
+Para una sola niña, alzarse contra el mundo.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1JjARsuysMmZ_76urVTbAyA" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 </feed>

@@ -1,38 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kimino Sakurako</id>
-<title>Kimino Sakurako</title>
-<updated>2026-11-01T04:01:33.488720+00:00</updated>
+<id>nextnovels:autores:Kikuchi Kaisei</id>
+<title>Kikuchi Kaisei</title>
+<updated>2026-11-08T04:02:34.918591+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-429.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Strawberry Panic! Novela Ligera en Español</title>
-<id>https://nextnovels.com/strawberry-panic-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/strawberry-panic-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/11/Strawberry-Panic-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/11/Strawberry-Panic-Portada.jpg"/>
-<author><name>Kimino Sakurako</name></author>
-<category term="Drama" label="Drama"/>
+<title>Reborn as an Aristocratic Scoundrel, I Broke the Game and Mastered Magic Beyond Limits! Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-reborn-as-an-aristocratic-scoundrel-i-broke-the-game-and-mastered-magic-beyond-limits-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-reborn-as-an-aristocratic-scoundrel-i-broke-the-game-and-mastered-magic-beyond-limits-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/04/Reincarnated-as-the-Lazy-and-Villainous-Noble-I-Broke-the-Scenario-and-Became-the-Most-Formidable-with-Extraordinary-Magic-Portada.jpeg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/04/Reincarnated-as-the-Lazy-and-Villainous-Noble-I-Broke-the-Scenario-and-Became-the-Most-Formidable-with-Extraordinary-Magic-Portada.jpeg"/>
+<author><name>Kikuchi Kaisei</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
 <category term="Romance" label="Romance"/>
-<category term="Shoujo Ai" label="Shoujo Ai"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<category term="Yuri" label="Yuri"/>
-<content type="text">En Strawberry Panic se desarrollan las relaciones entre las estudiantes de varios institutos femeninos en un ambiente idílico. Tres institutos coexisten en el campus de Astraea Hill, y todos son coordinados mediante la figura de la Étoile, ¿qué pareja de estudiantes conseguirá tal título? Nagisa es una nueva estudiante recién llegada a Miator (uno de los institutos) y se encuentra con Shizuma, actual Étoile y objeto de deseo de las demás estudiantes. ¿Cómo reaccionará Nagisa ante las provocaciones de Shizuma?. Por otro lado, en Spica, la estrella del campus es Otori Amane también llamada "el príncipe de Spica" por su porte elegante y refinado ¿Qué hará cuando conozca a la dulce e inocente Hikari?¿Qué pensará su compañera de habitación de todo esto?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Jxjyend6TyL6mrH7rKP5Tg" type="text/html" title="Yuri Dream"/>
-</entry>
-<entry>
-<title>Strawberry Panic! Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-strawberry-panic-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-strawberry-panic-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/10/Strawberry-Panic-Portada.webp"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/10/Strawberry-Panic-Portada.webp"/>
-<author><name>Kimino Sakurako</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Romance" label="Romance"/>
-<category term="Shoujo Ai" label="Shoujo Ai"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<category term="Yuri" label="Yuri"/>
-<content type="text">En Strawberry Panic se desarrollan las relaciones entre las estudiantes de varios institutos femeninos en un ambiente idílico. Tres institutos coexisten en el campus de Astraea Hill, y todos son coordinados mediante la figura de la Étoile, ¿qué pareja de estudiantes conseguirá tal título? Nagisa es una nueva estudiante recién llegada a Miator (uno de los institutos) y se encuentra con Shizuma, actual Étoile y objeto de deseo de las demás estudiantes. ¿Cómo reaccionará Nagisa ante las provocaciones de Shizuma?. Por otro lado, en Spica, la estrella del campus es Otori Amane también llamada "el príncipe de Spica" por su porte elegante y refinado ¿Qué hará cuando conozca a la dulce e inocente Hikari?¿Qué pensará su compañera de habitación de todo esto?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Jxjyend6TyL6mrH7rKP5Tg" type="text/html" title="Yuri Dream"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1aOx6KR8SyR6FzV572StF-Q" type="text/html" title="Jered Bazaldua"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Evitar la destrucción, de alguna manera me convertí en el más fuerte del mundo
+
+Reencarné como Weiss Fansent, el noble villano depravado de mi juego favorito de academia. Espera, si las cosas siguen así, el protagonista descubrirá mis fechorías, lo perderé todo y, finalmente, encontraré mi fin como siervo del Rey Demonio en el final de la destrucción.
+
+Si ese es el caso, no tengo más remedio que obtener un poder abrumador y evitar el camino hacia la destrucción.
+
+Con poco tiempo para los exámenes de ingreso, comencé a aprender esgrima y magia con el aventurero de rango S Miruku Abitas, soportando días agotadores de esfuerzo.
+
+Unos años más tarde, cuando demostré mi dominio de toda la magia elemental y la magia de creación durante los exámenes de ingreso, todos a mi alrededor quedaron atónitos.
+
+Eh, ¿acabo de hacer algo increíble?
+
+Esta es una historia de fantasía ambientada en otro mundo, donde yo, reencarnado como un noble perezoso y malvado, lucho por destruir las banderas de la fatalidad y convertirme en el más fuerte a través del trabajo duro.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1LOyz6ZknB5tXruG2OsGmKw" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 </feed>

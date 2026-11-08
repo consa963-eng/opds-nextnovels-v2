@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Uno Bokuto</id>
-<title>Uno Bokuto</title>
-<updated>2026-11-01T04:01:33.644977+00:00</updated>
+<id>nextnovels:autores:Unal</id>
+<title>Unal</title>
+<updated>2026-11-08T04:02:35.048489+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1031.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Nejimaki Seirei Senki Novela Ligera en Español</title>
-<id>https://nextnovels.com/nejimaki-seirei-senki-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/nejimaki-seirei-senki-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-29.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-29.jpg"/>
-<author><name>Uno Bokuto</name></author>
+<title>Harem Life Making Babies with Busty Ladies Novela Ligera en Español</title>
+<id>https://nextnovels.com/harem-life-making-babies-with-busty-ladies-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/harem-life-making-babies-with-busty-ladies-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/03/Harem-Life-Making-Babies-with-Busty-Ladies-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/03/Harem-Life-Making-Babies-with-Busty-Ladies-Portada.jpg"/>
+<author><name>Unal</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
+<category term="Adulto" label="Adulto"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Tragedia" label="Tragedia"/>
-<content type="text">El poderoso Imperio Katjvarna está actualmente envuelto en una guerra con la vecina República de Kiorka.
+<category term="Harem" label="Harem"/>
+<category term="Maduro" label="Maduro"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<content type="text">El protagonista, Shota, es un estudiante corriente.
 
-Dentro de un rincón no especificado de este imperio, cierto joven se estaba preparando a regañadientes para tomar el examen de oficial militar de alto grado debido a circunstancias misteriosas. Se llama Ikta.
+​Cuando vuelve a casa como de costumbre y abre la puerta, se ve transportado a un palacio real en un mundo que nunca antes había visto.
 
-Como hombre, Ikta aborrece la guerra, es perezoso por naturaleza y adora la forma femenina.
+Allí conoce a la primera ministra, Berlina, que le informa de que la cara de Shota es exactamente igual a la del príncipe muerto.
 
-En ese momento, nadie podría haber predicho que una persona como él se convertiría en una figura militar digna de ser llamada un legendario general …
-
-El joven Ikta, armado con sus magníficos talentos como soldado, lucha por sobrevivir en un mundo devastado por la guerra. ¡Este cuento contará su vida tumultuosa hasta este punto, ya que las cortinas se abren para una crónica espectacular de una guerra fantástica!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1Hyf68d3Ut4UKOTTGq1Z4tA" type="text/html" title="NovelWorld y Gustang Translations"/>
+A Shota le piden que se convierta en el príncipe de este país y deje un heredero, así que decide tener s*x con la maga Torte y la caballera Eclair para tener un bebé.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/harem-life-making-babies-with-busty-ladies-novela-ligera-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

@@ -1,55 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kamisato Yamato</id>
-<title>Kamisato Yamato</title>
-<updated>2026-11-01T04:01:33.474738+00:00</updated>
+<id>nextnovels:autores:Kamino Okina</id>
+<title>Kamino Okina</title>
+<updated>2026-11-08T04:02:34.905636+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-363.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Ane o sagasunara ane no naka toshiue onēsan × 4 to no amaama apāto seikatsu hajimemasu Novela Ligera en Español</title>
-<id>https://nextnovels.com/ane-o-sagasunara-ane-no-naka-toshiue-onesan-4-to-no-amaama-apato-seikatsu-hajimemasu-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/ane-o-sagasunara-ane-no-naka-toshiue-onesan-4-to-no-amaama-apato-seikatsu-hajimemasu-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/05/01-15.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/05/01-15.jpg"/>
-<author><name>Kamisato Yamato</name></author>
+<title>Cat Planet Cuties Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-cat-planet-cuties-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-cat-planet-cuties-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/Cat-Planet-Cuties-Portada-1.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/03/Cat-Planet-Cuties-Portada-1.jpg"/>
+<author><name>Kamino Okina</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
 <category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
 <category term="Harem" label="Harem"/>
+<category term="Mecha" label="Mecha"/>
 <category term="Romance" label="Romance"/>
-<content type="text">¿¡Alguien en la casa-apartamento es mi primer amor, una Onee-san traviesa!?
-
-Yo, Futou Kaname, aprovecho la oportunidad de vivir solo en una casa-apartamento llamado “Karin” antes de ir a la escuela secundaria.
-
-Karin es una casa-apartamento celestial con cuatro Onee-san’s que viven allí y para mí, ¿¡es como el cielo——!?
-
-—Voy a cuidar de ti todos los días, ¿de acuerdo?
-
-La limpia y ordenada propietaria amantes de los juegos sociales – Suzune Kuribayashi
-
-—Tal vez quieras asumir la culpa por hacer que me gustes…
-
-La Onee-san inteligente YouTuber – Saeki Ichika
-
-—Deberías disfrutar de las tetas que tienes delante.
-
-La Onee-san novelista Imo Jersey – Inshiroi Inaho
-
-—¿Podemos jugar el juego juntos?
-
-La Onee-san gamer FPS sensei – Kanaha Ushirogawa
-
-Cada día es como un sueño, ya que soy mimado por estas Onee-san’s.
-
-Sin embargo, en el primer día de vida en Karin, una carta llega a mi buzón.
-
-—”Ha pasado mucho tiempo desde que creciste.”
-
-Esta es una carta de mi primer amor, la “Onee-chan” de la que me enamore——
-
-¿¡Podría ser – que una de las Onee-san’s en la casa-apartamento Karin sea la “Onee-chan”!?
-
-Mientras es mimado por las Onee-san’s, busca la “Onee-chan”.
-
-¡Así comienza una dulce comedia romántica sobre unas Onee-san’s!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com#Volumenes" type="text/html" title="Btoom Translations"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Kakazu Kio, un estudiante de bachillerato de Okinawa (Japón), se despertó y se encontró a una chica desconocida a su lado, que emitía los suaves y constantes sonidos de alguien que duerme. ¡Y además le salían orejas y una cola de gato! Ante el atónito Kio, apareció su amiga de la infancia con el desayuno. Con voz severa, le preguntó: «¿Dónde está la chica guapa que volvió contigo ayer? ¡Preséntamela!». Justo cuando estas dos duras frases estaban a punto de convertirse en una auténtica reunión de denuncia de pervertidos, la hermosa y estricta profesora, Itokazu Maki, irrumpió en la habitación, complicando aún más las cosas para Kio. Sin embargo… ¡esta chica de orejas de gato que se hace llamar Eris es, en realidad, una extraterrestre! Pero un misterioso grupo que se niega a aceptar este tipo de contacto extraterrestre, así como la CIA, por no hablar de la Agencia de Inteligencia Japonesa, están extendiendo sus sucias manos hacia la despreocupada Eris. «¡Basta ya! ¿Qué te ha hecho Eris?».</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/11SkAMKXvdWJtr90MPoX7RQ" type="text/html" title="Patosantranslations"/>
 </entry>
 </feed>

@@ -1,72 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Sugaru Miaki (Fafoo)</id>
-<title>Sugaru Miaki (Fafoo)</title>
-<updated>2026-11-01T04:01:33.598314+00:00</updated>
+<id>nextnovels:autores:Sugaru Miaki</id>
+<title>Sugaru Miaki</title>
+<updated>2026-11-08T04:02:35.021630+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-898.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Pain, Pain, Go Away Novela Ligera en Español</title>
-<id>https://nextnovels.com/pain-pain-go-away-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/pain-pain-go-away-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-52.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-52.jpg"/>
-<author><name>Sugaru Miaki (Fafoo)</name></author>
+<title>Parasite in Love Novela Ligera en Español</title>
+<id>https://nextnovels.com/parasite-in-love-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/parasite-in-love-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/07/Parasite-in-Love-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/07/Parasite-in-Love-Portada.jpg"/>
+<author><name>Sugaru Miaki</name></author>
 <category term="Drama" label="Drama"/>
-<category term="Horror" label="Horror"/>
-<category term="Maduro" label="Maduro"/>
 <category term="Psicológico" label="Psicológico"/>
 <category term="Romance" label="Romance"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Tragedia" label="Tragedia"/>
-<content type="text">Pain, Pain, Go Away es una novela de Sugaru Miaki, también conocido como Fafoo, autor de Begin Over y Three Days of Happiness. A diferencia de los dos libros anteriores de Miaki, Pain, Pain, Go Away no es una reescritura de ninguna historia publicada en 2ch, sino completamente original.
-
-La trama involucra a un joven que se convierte en asesino (por accidente), pero su víctima tiene el poder de "aplazar", retrasando temporalmente su muerte.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1Jv1Ajfd0apIM6thsvZY8fA" type="text/html" title="Traducciones Fajardo"/>
+<content type="text">Esta historia trata sobre un hombre cuyas tendencias compulsivas le hacen imposible mantener un trabajo y sobre una joven chica que se salta la escuela y ama los insectos. Ambos se conocen, llegan a apoyarse uno al otro para reintegrar la sociedad, y se enamoran. Sin embargo, hay un problema: los parásitos dentro de sus cabezas.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1YKrQ88bZkLUQ2v9fqI_u4Q" type="text/html" title="Blue Phoenix Translations"/>
 </entry>
 <entry>
-<title>The Place You Called From Novela en Español</title>
-<id>https://nextnovels.com/descargar-the-place-you-called-from-novela-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-place-you-called-from-novela-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/The-Place-You-Called-From-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/03/The-Place-You-Called-From-Portada.jpg"/>
-<author><name>Sugaru Miaki (Fafoo)</name></author>
-<category term="Romance" label="Romance"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">La historia trata de un chico que empieza el instituto y que, una noche, contesta una extraña llamada desde una cabina telefónica. La persona que llama le propone una apuesta: ella le quitará la marca de nacimiento que él considera la causa de tantos problemas, y él tendrá cincuenta días para conquistar el corazón de una chica a la que consideraba totalmente fuera de su alcance. Y así comienza un verano de lo más extraño.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1ZKzvxjmS6rFwccbZPE9DOA" type="text/html" title="Next Novels (MTL)"/>
-</entry>
-<entry>
-<title>Three Days of Happiness Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-three-days-of-happiness-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-three-days-of-happiness-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/Three-Days-of-Happiness-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/Three-Days-of-Happiness-Portada.jpg"/>
-<author><name>Sugaru Miaki (Fafoo)</name></author>
+<title>Starting Over Novela Ligera en Español</title>
+<id>https://nextnovels.com/starting-over-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/starting-over-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/08/01-68.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/08/01-68.jpg"/>
+<author><name>Sugaru Miaki</name></author>
 <category term="Drama" label="Drama"/>
 <category term="Maduro" label="Maduro"/>
 <category term="Psicológico" label="Psicológico"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
 <category term="Supernatural" label="Supernatural"/>
 <category term="Tragedia" label="Tragedia"/>
-<content type="text">¡LLEGA LA EMOTIVA HISTORIA DE TRES DÍAS DE FELICIDAD, LA NOVELA INÉDITA DE SUGARU MIAKI!
+<content type="text">Starting Over se originó como una historia en 2ch por Fafoo, que más tarde adoptó el seudónimo Sugaru Miaki. Luego lo reescribió como novela.
 
-Kusonoki apenas puede llegar a fin de mes, y la situación es tan extrema que al final decide vender todas sus posesiones… incluso su esperanza de vida. Al final cede ante la desesperación, pero tan solo lo valoran en 300 000 yenes, una cantidad ínfima comparada con la media del resto de vidas. Pero, sumido en la miseria, decide dar el paso, y solo cuenta con tres meses para poder disfrutar de ese dinero...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/12adY9bPvzTin5_2rxUI1rQ" type="text/html" title="Traducciones Fajardo"/>
-</entry>
-<entry>
-<title>Your Story Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-your-story-novela-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-your-story-novela-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/08/Your-Story-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/08/Your-Story-Portada.jpg"/>
-<author><name>Sugaru Miaki (Fafoo)</name></author>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Tragedia" label="Tragedia"/>
-<content type="text">La historia trata sobre un hombre que se opone a la práctica ahora común de implantar recuerdos falsos, pero que un día recibe recuerdos de una amiga ficticia de su infancia. Esta felicidad fabricada lo atormenta, pero luego, para su sorpresa, la conoce... una chica que no debería existir.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1PB7r8hkrtxt7qOhX4gGT6A" type="text/html" title="Mi Castillo de Arena"/>
+"Ha pasado tanto desde que nos tomamos el tiempo,
+
+no hay nadie a quien culpar.
+
+Sé que el tiempo vuela tan rápido,
+
+pero cuando te veo, querida,
+
+es como si los dos nos estuviéramos enamorando de nuevo,
+
+será como empezar de nuevo, empezar de nuevo."
+
+- (Just Like) Starting Over
+
+John Lennon
+
+Esta es la historia de cómo al llegar a mi vigésimo cumpleaños, fui enviado de vuelta a la edad de diez años, y viví para tener veinte años una vez más.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1g4nbH00V_KphIG3wdIkSCQ" type="text/html" title="Traducciones Daeldaus"/>
 </entry>
 </feed>

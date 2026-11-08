@@ -1,25 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Yanagino Kanata</id>
-<title>Yanagino Kanata</title>
-<updated>2026-11-01T04:01:33.653455+00:00</updated>
+<id>nextnovels:autores:Yanagimi Touki</id>
+<title>Yanagimi Touki</title>
+<updated>2026-11-08T04:02:35.059107+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1069.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Saihate no Paladin Novela Ligera en Español</title>
-<id>https://nextnovels.com/saihate-no-paladin-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/saihate-no-paladin-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/08/Saihate-no-Paladin-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/08/Saihate-no-Paladin-Portada.jpg"/>
-<author><name>Yanagino Kanata</name></author>
+<title>Taimadou Gakuen 35 Shiken Shoutai Novela Ligera en Español</title>
+<id>https://nextnovels.com/taimadou-gakuen-35-shiken-shoutai-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/taimadou-gakuen-35-shiken-shoutai-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/07/Taimadou-Gakuen-35-Shiken-Shoutai-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/07/Taimadou-Gakuen-35-Shiken-Shoutai-Portada.jpg"/>
+<author><name>Yanagimi Touki</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Drama" label="Drama"/>
+<category term="Ecchi" label="Ecchi"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Maduro" label="Maduro"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Tragedia" label="Tragedia"/>
-<content type="text">Una ciudad en ruinas a causa de las muertes. Un niño y tres no-muertos viven ahí. Los tres muertos que solían ser héroes criaron al joven, entrenándolo. Dándole habilidades, dándole conocimiento, vertiendo todo su amor en él, el joven fue criado de esa manera. Se le dijo sobre el misterio abrazado por los muertos vivientes, sobre esta ciudad escondida de la muerte. Después de aprender todo esto, este joven comenzó a caminar en el camino del Paladín.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1166bDDwspGGT1jDbXzG19A" type="text/html" title="Oasis Translations"/>
+<category term="Harem" label="Harem"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">En un mundo en el que los humanos que usan la magia están cerca de ser aniquilados, los combates se libran con armas de fuego, relegando el uso de espadas al pasado. El protagonista de la historia, Kusanagi Takeru, es un estudiante de la Academia Antimagia, una institucion en el que se forman los Inquisidores que cazarán a las brujas malvadas en el futuro. Takeru es incapaz de usar un arma de fuego y solo es capaz de luchar con una espada, por lo que es relegado al 35º Pelotón de Prueba, también llamado “Peloton Small Fry” por la debilidad de sus miembros. Sin embargo, Ootori Ouka, una pistolera de élite que pertenecia a los Dullahan (Cazadores de Brujas), es enlistada en ese pelotón.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1d7OUj_Iz04LdMBPIT6Q5nA" type="text/html" title="Kurosaki-vizard &amp; HaremSubs"/>
 </entry>
 </feed>

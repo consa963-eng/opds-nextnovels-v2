@@ -1,49 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Saitou Kenji</id>
-<title>Saitou Kenji</title>
-<updated>2026-11-01T04:01:33.566645+00:00</updated>
+<id>nextnovels:autores:Saitou Kanae</id>
+<title>Saitou Kanae</title>
+<updated>2026-11-08T04:02:34.999034+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-788.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Shiinamachi-senpai no Anzenbi Novela Ligera en Español</title>
-<id>https://nextnovels.com/shiinamachi-senpai-no-anzenbi-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/shiinamachi-senpai-no-anzenbi-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/07/Shiinamachi-senpai-no-Anzenbi-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/07/Shiinamachi-senpai-no-Anzenbi-Portada.jpg"/>
-<author><name>Saitou Kenji</name></author>
+<title>For a Happy End to the Saint Has a Death Wish Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-for-a-happy-end-to-the-saint-has-a-death-wish-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-for-a-happy-end-to-the-saint-has-a-death-wish-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/10/Shinitagari-no-Seijou-ni-Shiawase-na-Shumatsu-wo-Portada.jpeg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/10/Shinitagari-no-Seijou-ni-Shiawase-na-Shumatsu-wo-Portada.jpeg"/>
+<author><name>Saitou Kanae</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Psicológico" label="Psicológico"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">“Hoy es mi día seguro, así que por favor visita mi habitación”. Esas sangrientas palabras fueron dirigidas hacia mí, Sakuradamon Jirou, por Shiinamachi Kaguya-senpai, una superior vigilante de la biblioteca. Lleno con la anticipación, visité la Habitación de Mantenimiento de la Torre de Reloj donde Senpai vive, solo para descubrir a la Senpai colapsada en el suelo, toda cubierta en sangre. ¡Luego la situación procedió en un rápido desarrollo en una inesperada dirección! ¿El culpable es alguien a mi alrededor? ¿Qué secretos alberga la Senpai? Además, la verdad sobre el pasado y las relaciones de sangre que mantuve ocultas todos estos años y nunca le dije a nadie, pensar en eso–</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1O2S4-lT9UMUimJVDXQjrUw" type="text/html" title="HaremSubs"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">La vida cotidiana progresaba gradualmente hasta arruinarse...
+
+Una guerra entre el Mancomunado y el Bloque Imperial. Para salir del atolladero de la guerra, el lado del Mancomunado decidió romper un tabú.
+
+El nombre de lo creado es "santas". Una forma de vida artificial tipo niñas que posee poderosos poderes sobrenaturales a cambio de una corta vida útil.
+
+Sin embargo, cuando el fin de la guerra comenzó a aparecer, el despliegue de estas chicas se pospuso y, al final, toda la instalación de entrenamiento secreta llamada Jardín en Miniatura fue aniquilada y estuvo a punto de ser enterrada en la oscuridad.
+
+Un documento que describe los últimos días de las niñas desde la perspectiva de "yo", un Vigilante, un médico cuyo propósito es controlar la condición física de las santas.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1HGVKoqvsSpYD3jtxPgnREQ" type="text/html" title="Kai Sakura VENTO"/>
 </entry>
 <entry>
-<title>Trinity Seven Novela Ligera en Español</title>
-<id>https://nextnovels.com/trinity-seven-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/trinity-seven-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/05/01-18.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/05/01-18.jpg"/>
-<author><name>Saitou Kenji</name></author>
+<title>Someday, For You Who lived here / Forever, For You Who Stay There Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-someday-for-you-who-lived-here-forever-for-you-who-stay-there-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-someday-for-you-who-lived-here-forever-for-you-who-stay-there-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/09/Itsuka-Koko-ni-Ita-Anata-no-Tameni-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/09/Itsuka-Koko-ni-Ita-Anata-no-Tameni-Portada.jpg"/>
+<author><name>Saitou Kanae</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
+<category term="Drama" label="Drama"/>
 <category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Todos los días son normales en la pequeña ciudad donde vive Kasuga Arata. Sin embargo, todo cambió el día del Sol Negro, y tras él, un mago se presento ante él.
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">Esta es una historia del “fin”.
 
-El Sol Negro provocó el Fenómeno de la Descomposición que destruyó el pueblo donde vive. Debido a ello, su vida normal fue reconstruida artificialmente por un Grimorio que su amigo de la infancia había dejado. ¿Cuál es el propósito del mago que llega a la ciudad? ¿Qué hará con el recuerdo del Grimorio?
+Una historia trágica de dos personas que se preocupaban mutuamente.
 
-Historias cortas sobre el pasado de las chicas del manga Trinity Seven.
+El joven soldado Lenka vio un milagro aquel día—.
 
-Volumen 1 – Tiene lugar entre los capítulos 38 y 39 del manga principal</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1HftwJVwErPZAg_On_c4uHw" type="text/html" title="MiraiK"/>
+Nevaba en primavera y la nieve caía sobre las sangrientas líneas del frente, congelando a todos los enemigos.
+
+La chica que hizo este milagro fue llamada la "Santa del Ataúd de Hielo".
+
+Lenka y la chica se conocieron por casualidad, las circunstancias cambiantes de la guerra y los días de paz intermedias hicieron que poco a poco se hicieran más cercanos.
+
+Sin embargo, lo olvidaron—.
+
+Que el joven era “sólo un soldado”.
+
+Y que la chica era un “arma absoluta”.
+
+Esta es la historia del encuentro y la separación de un joven tonto y una chica no tan feliz.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1J7cSr-zZh5SF39IAE_zwiw" type="text/html" title="Kai Sakura VENTO"/>
 </entry>
 </feed>

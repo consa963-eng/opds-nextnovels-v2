@@ -1,23 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Mesopo Tamia</id>
-<title>Mesopo Tamia</title>
-<updated>2026-11-01T04:01:33.517959+00:00</updated>
+<id>nextnovels:autores:Meng Xi Shi</id>
+<title>Meng Xi Shi</title>
+<updated>2026-11-08T04:02:34.951783+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-562.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>A Dumped Villainess Married Me, a Lazy Villain Noble and We Became the Ultimate Power Couple Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-a-dumped-villainess-married-me-a-lazy-villain-noble-and-we-became-the-ultimate-power-couple-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-a-dumped-villainess-married-me-a-lazy-villain-noble-and-we-became-the-ultimate-power-couple-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/05/The-Lazy-Villainous-Noble-Married-the-Villainous-Young-Lady-and-Became-the-Most-Fearsome-Couple-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/05/The-Lazy-Villainous-Noble-Married-the-Villainous-Young-Lady-and-Became-the-Most-Fearsome-Couple-Portada.jpg"/>
-<author><name>Mesopo Tamia</name></author>
+<title>Thousand Autumns Novela en Español</title>
+<id>https://nextnovels.com/descargar-thousand-autumns-novela-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-thousand-autumns-novela-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/02/Thousand-Autumns-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/02/Thousand-Autumns-Portada.jpg"/>
+<author><name>Meng Xi Shi</name></author>
 <category term="Acción" label="Acción"/>
+<category term="Artes marciales" label="Artes marciales"/>
 <category term="Aventura" label="Aventura"/>
 <category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
+<category term="Histórico" label="Histórico"/>
+<category term="Maduro" label="Maduro"/>
 <category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Alban, al darse cuenta de que era un noble villano dentro de una novela, puso manos a la obra y comenzó a entrenar en la esgrima y la magia. Quería evitar a toda costa ser derrotado en un duelo por el protagonista y caer en la ruina. Justo cuando sus habilidades empezaban a dar frutos, se decide que se casará con Leticia, una dama villana rodeada de pésimos rumores. Sin embargo... ¡¿al conocerla resulta ser la esposa perfecta y su tipo ideal por completo?! La mala reputación era una conspiración de su exprometido; en realidad, en secreto le brindaba un amor incondicional a los niños sin hogar en su mansión, comportándose como un ángel. Ante tanta pureza y valor, olvidó el evitar su propia ruina, descongeló a la fuerza el frío corazón de Leticia y decidió vengarse del ruin duque que hizo caer en la trampa a su amada esposa. Aprovechando la mala fama de ambos para ataerlo a la trampa... «Si se interponen en nuestro camino, simplemente los pisotearé». ¡Una fantasía de represalia y remontada ideada por la pareja más temible de Villano × Villana!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1zcTzaB4sLqeFMx3Lvywhxg" type="text/html" title="SliperNovels"/>
+<category term="Shounen Ai" label="Shounen Ai"/>
+<category term="Wuxia" label="Wuxia"/>
+<content type="text">En el complejo círculo de las artes marciales, lo más importante son la fuerza y el poder. Las distintas sectas buscan imponerse mientras se suceden las peleas por ser el luchador más fuerte. Shen Qiao, el líder de la prestigiosa secta taoísta de la Montaña Xuandu, sufre un accidente en medio de una pelea que hace que pierda todo su poder y su posición como líder. Ciego y sin recuerdos, Shen Qiao tendrá que descubrir la verdad sobre su accidente y sobre sí mismo mientras aprende a vivir con las consecuencias de su accidente.
+
+El poderoso «Señor Demonio» Yan Wushi, el arrogante y caprichoso líder de la Secta Huanyue, una de las tres grandes sectas demoníacas, regresa de su retiro de diez años después de ser derrotado por Cui Youwang. Yan Wushi rescata a Shen Qiao con el objetivo de corromperlo y que se una a él, pero pronto descubrirá que Shen Qiao no es fácil como pensaba de ideales y personalidades totalmente distintas, los dos se embarcarán en una aventura en un territorio dividido y marcado por las intrigas donde, contra todo pronóstico, se convertirán en compañeros de viaje.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com/descargar-thousand-autumns-novela-en-espanol/" type="text/html" title="Abrir en Next Novels"/>
 </entry>
 </feed>

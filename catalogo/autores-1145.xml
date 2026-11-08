@@ -1,33 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:土車 甫</id>
-<title>土車 甫</title>
-<updated>2026-11-01T04:01:33.671111+00:00</updated>
+<id>nextnovels:autores:及川 輝新</id>
+<title>及川 輝新</title>
+<updated>2026-11-08T04:02:35.074479+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1145.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>The Best Friend of the Person I Like is Secretly Approaching Me Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-best-friend-of-the-person-i-like-is-secretly-approaching-me-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-best-friend-of-the-person-i-like-is-secretly-approaching-me-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/10/The-Best-Friend-of-the-Person-I-Like-is-Secretly-Approaching-Me-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/10/The-Best-Friend-of-the-Person-I-Like-is-Secretly-Approaching-Me-Portada.jpg"/>
-<author><name>土車 甫</name></author>
-<category term="Adulto" label="Adulto"/>
-<category term="Drama" label="Drama"/>
+<title>Ore no Haitoku Meshi wo Onedari Sezu ni Irarenai, Otonari no Top Idol-sama Novela Ligera en Español</title>
+<id>https://nextnovels.com/ore-no-haitoku-meshi-wo-onedari-sezu-ni-irarenai-otonari-no-top-idol-sama-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/ore-no-haitoku-meshi-wo-onedari-sezu-ni-irarenai-otonari-no-top-idol-sama-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/03/Ore-no-Haitoku-Meshi-wo-Onedari-Sezu-ni-Irarenai-Otonari-no-Top-Idol-sama-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/03/Ore-no-Haitoku-Meshi-wo-Onedari-Sezu-ni-Irarenai-Otonari-no-Top-Idol-sama-Portada.jpg"/>
+<author><name>及川 輝新</name></author>
+<category term="Comedia" label="Comedia"/>
 <category term="Ecchi" label="Ecchi"/>
-<category term="Harem" label="Harem"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Le he confesado incontables veces mis sentimientos a mi primer amos, Yosaki Misa, una chica fuerte, orgullosa, y mas linda que nadie cuando sonríe. Todo para ser rechazado cada vez.
+<content type="text">La "entrometida" estudiante de instituto Mamori Suzufumi ayuda a un vecino hambriento que por casualidad se había desplomado en el apartamento de al lado.
 
-Pero no estoy dispuesto a rendirme, aunque la mejor amiga de Yosaki, Hinata Haru, sigue interponiéndose en mi camino
+Esa persona resultó ser la popular ídolo del instituto, ¡Sasaki Yuzuki!
 
-Y por alguna razón, a Yosaki le gusta vernos discutir con una sonrisa.
+Yuzuki se había sometido a una dieta excesiva para mantener su imagen de ídolo ideal.
 
-Nuestra vida cotidiana, nuestra amistad de tres, un poco inusual pero tranquila, comienza a desmoronarse gradualmente debido a cierta "invitación".
+Pero cuando la preocupada Suzufumi le sirve comida casera, se la come con cara de felicidad mientras grita,
 
-"Puedes hacer lo que quieras conmigo... como sustituta de Misa".
+「--Aaaaaah... ¡No puedo más!」
 
-Ojos llorosos. Piel suave. Juntas en una habitación, solo nosotras dos. Hinata, que se suponía que era solo una amiga, se aserco a mi con una súplica febril.....</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1kBlScCMDQ0RUIe-kvaOXlw" type="text/html" title="Kyūden Translation"/>
+Con la cara llena de felicidad, terminó su comida.
+
+Enamorado de su abundante apetito, Suzufumi decide tentar a Yuzuki con sus comidas favoritas para que se enamore de él a través de la 'seducción culinaria'.
+
+Tazón de cerdo, ramen, okonomiyaki...
+
+「¡Definitivamente no me lo comeré!」
+
+Eso es lo que dice Yuzuki, pero una vez más, hoy se le antoja la comida de Suzufumi──.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1jmFgVUwKCSr5MdUZRFcvcQ" type="text/html" title="Ilusion Shuri Novels"/>
 </entry>
 </feed>

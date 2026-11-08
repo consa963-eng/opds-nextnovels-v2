@@ -1,32 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Katsubi Keisho</id>
-<title>Katsubi Keisho</title>
-<updated>2026-11-01T04:01:33.481144+00:00</updated>
+<id>nextnovels:autores:Kasukabe Takeru</id>
+<title>Kasukabe Takeru</title>
+<updated>2026-11-08T04:02:34.911695+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-393.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Toiichi, Eien no Ai wo Shoumei Seyo. Heroine Hosei wa Nai mono to Suru Novela Ligera en Español</title>
-<id>https://nextnovels.com/toiichi-eien-no-ai-wo-shoumei-seyo-heroine-hosei-wa-nai-mono-to-suru-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/toiichi-eien-no-ai-wo-shoumei-seyo-heroine-hosei-wa-nai-mono-to-suru-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/08/Eien-no-Ai-o-Shoumei-Seyo-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/08/Eien-no-Ai-o-Shoumei-Seyo-Portada.jpg"/>
-<author><name>Katsubi Keisho</name></author>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
+<title>Noucome Novela Ligera en Español</title>
+<id>https://nextnovels.com/noucome-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/noucome-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/02/Noucome-Portada-e1645055523151.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/02/Noucome-Portada-e1645055523151.jpg"/>
+<author><name>Kasukabe Takeru</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Harem" label="Harem"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
 <category term="Shounen" label="Shounen"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Ese día iba a confesar mis sentimientos. Iba a confesarle mis sentimientos a Tokiwa Nagisa, una kouhai que me había confesado su amor muchas veces.
-
-Solo en la azotea, se suponía que debía decirle cómo me siento y finalmente convertirnos en amantes—pero me vi envuelto en un “Cuarteto de Confesiones”, un juego sobre el amor y el romance.
-
-Si te enamoras durante el juego, el poder de la magia te promete «Amor Eterno», pero si tu amor no se cumple, será como si nunca hubiera existido en primer lugar. En otras palabras, vuelve a la relación que tenía antes de enamorarse.
-
-«Quiero apreciar el proceso de amar con la persona que amo, sin la garantía del amor eterno.»
-
-«Si no puedo tener el amor eterno, prefiero olvidar este sentimiento por completo.»
-
-Frente a una elección tan decisiva, empiezo a desafiar este juego—</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1vrBEO0GsXZPwLAX9gIj8gQ" type="text/html" title="Domen Translations"/>
+<content type="text">Kanade Amakusa es un estudiante de secundaria que sufre de una maldición llamada "opciones absolutas". Esta maldición le obliga a seleccionar una acción de una lista de dos o tres opciones que aparecen delante de él, en cualquier momento, y no tiene ningún control sobre lo que parecen opciones. Muchas de ellas son raras o perversas y, como resultado, la maldición ha manchado su reputación con sus compañeros y otras personas a su alrededor, por lo que su vida se ha vuelto muy difícil.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1HxkuIE_v0b1fGRYy9zSCrQ" type="text/html" title="Astral Novel Translations"/>
 </entry>
 </feed>

@@ -1,33 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Fujiki Washiro</id>
-<title>Fujiki Washiro</title>
-<updated>2026-11-01T04:01:33.426660+00:00</updated>
+<id>nextnovels:autores:Fujikawa Keizo</id>
+<title>Fujikawa Keizo</title>
+<updated>2026-11-08T04:02:34.864897+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-157.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Eiyuu to Kenja no Tensei Kon Novela Ligera en Español</title>
-<id>https://nextnovels.com/eiyuu-to-kenja-no-tensei-kon-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/eiyuu-to-kenja-no-tensei-kon-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/08/Eiyuu-to-Kenja-no-Tensei-Kon-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/08/Eiyuu-to-Kenja-no-Tensei-Kon-Portada.jpg"/>
-<author><name>Fujiki Washiro</name></author>
-<category term="Acción" label="Acción"/>
+<title>Ascendance of a Scummy Hero Novela Ligera en Español</title>
+<id>https://nextnovels.com/ascendance-of-a-scummy-hero-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/ascendance-of-a-scummy-hero-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/06/01-16.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/06/01-16.jpg"/>
+<author><name>Fujikawa Keizo</name></author>
 <category term="Aventura" label="Aventura"/>
 <category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Romance" label="Romance"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Reid, un joven héroe con super fuerza física, y Elria, una bella sabia con la mayor destreza mágica.
+<content type="text">Crow estaba a punto de graduarse en la Real Academia Militar.
 
-Siguieron luchando como rivales en naciones enemigas opuestas, pero su relación llegó a su fin con la repentina muerte de Elria... Entonces, mil años después:
+Un día, escuchó una voz de la Espada Sagrada que sólo podía ser empuñada por el Héroe elegido...
 
-Reencarnado en un mundo donde la magia reina, pero el que ha conservado la fuerza física más fuerte de su vida anterior, Reid, se reunió con Elria, que también se ha reencarnado...
+La Espada Santa── ¡Excalibur le habló!
 
-"Oye, Reid... quiero que te cases conmigo."
+La voz provenía de Holly, la Sprite de la Espada Santa.
 
-"......¿Huh?"
+El Rey Demonio que quería destruir el mundo reviviría pronto, así que debían encontrar al Héroe rápidamente, y entregarle la Espada Sagrada.
 
-Los dos, que se han convertido en la pareja de enamorados inconscientes más fuerte en mil años, ¡Se inscribieron en la Academia Real de Magia para decidir quién es más fuerte!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1-yoFWmmk3vg3CZ4NL1F9UA" type="text/html" title="Domen Translations"/>
+Crow pensó que entregar la espada al Héroe era una tarea sencilla, y le permitiría recibir el mérito de encontrar al mesías. Aceptó de buena gana, y emprendió un viaje para encontrar al Héroe.
+
+Sin embargo, cuando el niño problemático Crow se asoció con Holly, que tenía una personalidad horrible, ¡su viaje estuvo lleno de desastres! ¿Y el Héroe que encontraron era en realidad una esclava?
+
+¿Cómo iban a traerla de vuelta...?
+
+"¿Por qué no me usas para partir por la mitad al maestro de esa niña?"</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com#Volumenes" type="text/html" title="JmCrap Translations"/>
 </entry>
 </feed>

@@ -1,27 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:NANATSUKI Takafumi</id>
-<title>NANATSUKI Takafumi</title>
-<updated>2026-11-01T04:01:33.539377+00:00</updated>
+<id>nextnovels:autores:Nanato Nana</id>
+<title>Nanato Nana</title>
+<updated>2026-11-08T04:02:34.972815+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-661.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Ore ga Ojou-sama Gakkou ni “Shomin Sample” Toshite Rachirareta Ken Novela Ligera en Español</title>
-<id>https://nextnovels.com/ore-ga-ojou-sama-gakkou-ni-shomin-sample-toshite-rachirareta-ken-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/ore-ga-ojou-sama-gakkou-ni-shomin-sample-toshite-rachirareta-ken-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/06/Shomin-Sample-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/06/Shomin-Sample-Portada.jpg"/>
-<author><name>NANATSUKI Takafumi</name></author>
+<title>VTuber Legend Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-vtuber-legend-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-vtuber-legend-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/06/01-4.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/06/01-4.jpg"/>
+<author><name>Nanato Nana</name></author>
 <category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Harem" label="Harem"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Kimito Kagurazaka es un estudiante de preparatoria ordinario. Un día, es forzado a inscribirse en la Academia Femenina Seikain, donde a sus nobles alumnas son aisladas del resto del mundo para preservar su inocencia. Sin embargo, este aislamiento profundo deja un gran número de graduados de la escuela siendo incapaces de lidiar con los problemas del mundo exterior.
+<category term="Shoujo Ai" label="Shoujo Ai"/>
+<content type="text">Tanaka Yuki, alias Kokorone Awayuki, fue milagrosamente aceptada para el tercer periodo de la importante empresa de gestión de VTuber “Live On”, dejó su trabajo en la empresa negra y se convirtió en una VTuber, que fue su apoyo emocional durante sus días infernales.
 
-Para resolver este problema, la escuela ha decidido secuestrar a un hombre plebeyo, Kimito, con la esperanza de que la influencia de un «Hombre Ordinario» será una manera gentil de presentarles a las chicas acerca de las realidades de la vida de afuera. Desafortunadamente para Kimito, la escuela sólo lo consideraba un candidato para este proyecto porque pensaban que era un homosexual con un fetiche de músculos. Por lo tanto, la escuela no concluyó que Kimito represente amenaza alguna a la castidad de las chicas inocentes.
+Sin embargo, parece que le falta originalidad, y está muy por detrás de sus mayores y compañeros en popularidad.
 
-Una vez que él se entera que será castrado o exiliado si se demuestra lo contrario, no tiene otra opción más que cooperar. Poco después de su inscripción, tiene un fatídico encuentro con Aika Tenkūbashi. Aika es una estudiante que alternativamente puede ser tímida, obstinada y/o pretenciosa. Ella está inocentemente fascinada por el mundo exterior.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/10lX52S_ALkHpKCVVcu__og" type="text/html" title="HiroLsn"/>
+Pero un día, sin querer, se olvida de apagar el stream y su verdadero carácter se revela al mundo.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Omu4Y9nNIg-eLn9PO0ZvYg" type="text/html" title="Domen Translations"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1K60IvRYRU1qc0EJughJPgQ" type="text/html" title="Onigiri Novels"/>
 </entry>
 </feed>

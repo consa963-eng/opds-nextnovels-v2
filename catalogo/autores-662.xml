@@ -1,44 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Nanjamonja</id>
-<title>Nanjamonja</title>
-<updated>2026-11-01T04:01:33.539571+00:00</updated>
+<id>nextnovels:autores:NANATSUKI Takafumi</id>
+<title>NANATSUKI Takafumi</title>
+<updated>2026-11-08T04:02:34.972993+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-662.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Garbage Brave Novela Ligera en Español</title>
-<id>https://nextnovels.com/garbage-brave-novela-ligera-en-espanol-2/</id>
-<link rel="alternate" href="https://nextnovels.com/garbage-brave-novela-ligera-en-espanol-2/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/08/Garbage-Brave-Portada.jpeg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/08/Garbage-Brave-Portada.jpeg"/>
-<author><name>Nanjamonja</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Fantasía" label="Fantasía"/>
+<title>Ore ga Ojou-sama Gakkou ni “Shomin Sample” Toshite Rachirareta Ken Novela Ligera en Español</title>
+<id>https://nextnovels.com/ore-ga-ojou-sama-gakkou-ni-shomin-sample-toshite-rachirareta-ken-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/ore-ga-ojou-sama-gakkou-ni-shomin-sample-toshite-rachirareta-ken-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/06/Shomin-Sample-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/06/Shomin-Sample-Portada.jpg"/>
+<author><name>NANATSUKI Takafumi</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
 <category term="Harem" label="Harem"/>
-<category term="Misterio" label="Misterio"/>
+<category term="Romance" label="Romance"/>
 <category term="Shounen" label="Shounen"/>
-<content type="text">Tsukuru, que asiste a la escuela como de costumbre, de repente es convocado a un mundo diferente con sus compañeros de clase. Sin embargo, lo que les espera después de ser convocados es una subasta de héroes en la que cada país puja por héroes para derrotar al rey demonio. Mientras que sus compañeros de clase que obtuvieron clases tramposas se vendieron por precios altísimos, Tsukuru, con la obvia clase basura ‘Chef’ no se vendió en absoluto y fue arrojado por una puerta de transferencia a un bosque mágico en medio de la nada, habitado por muchos monstruos poderosos. Tsukuru, evitando por poco la muerte muchas veces a manos de los monstruos, es empujado al camino del más fuerte!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1KZ2Pk8vTkej3qEAy924xpg" type="text/html" title="NOVA"/>
-</entry>
-<entry>
-<title>Garbage Brave Novela Ligera en Español</title>
-<id>https://nextnovels.com/garbage-brave-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/garbage-brave-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/12/Garbage-Brave-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/12/Garbage-Brave-Portada.jpg"/>
-<author><name>Nanjamonja</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Harem" label="Harem"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Shounen" label="Shounen"/>
-<content type="text">Tsukuru, que asiste a la escuela como de costumbre, de repente es convocado a un mundo diferente con sus compañeros de clase. Sin embargo, lo que les espera después de ser convocados es una subasta de héroes en la que cada país puja por héroes para derrotar al rey demonio.
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Kimito Kagurazaka es un estudiante de preparatoria ordinario. Un día, es forzado a inscribirse en la Academia Femenina Seikain, donde a sus nobles alumnas son aisladas del resto del mundo para preservar su inocencia. Sin embargo, este aislamiento profundo deja un gran número de graduados de la escuela siendo incapaces de lidiar con los problemas del mundo exterior.
 
-Mientras que sus compañeros de clase que obtuvieron clases tramposas se vendieron por precios altísimos, Tsukuru, con la obvia clase basura ‘Chef’ no se vendió en absoluto y fue arrojado por una puerta de transferencia a un bosque mágico en medio de la nada, habitado por muchos monstruos poderosos.
+Para resolver este problema, la escuela ha decidido secuestrar a un hombre plebeyo, Kimito, con la esperanza de que la influencia de un «Hombre Ordinario» será una manera gentil de presentarles a las chicas acerca de las realidades de la vida de afuera. Desafortunadamente para Kimito, la escuela sólo lo consideraba un candidato para este proyecto porque pensaban que era un homosexual con un fetiche de músculos. Por lo tanto, la escuela no concluyó que Kimito represente amenaza alguna a la castidad de las chicas inocentes.
 
-Tsukuru, evitando por poco la muerte muchas veces a manos de los monstruos, es empujado al camino del más fuerte!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1mJN12u69Tg4vd1pRNxBDlA" type="text/html" title="Lolipoi - Kinako Pan"/>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1clMDkxOx-fyHQb0-xml-0w" type="text/html" title="NOVA"/>
+Una vez que él se entera que será castrado o exiliado si se demuestra lo contrario, no tiene otra opción más que cooperar. Poco después de su inscripción, tiene un fatídico encuentro con Aika Tenkūbashi. Aika es una estudiante que alternativamente puede ser tímida, obstinada y/o pretenciosa. Ella está inocentemente fascinada por el mundo exterior.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/10lX52S_ALkHpKCVVcu__og" type="text/html" title="HiroLsn"/>
 </entry>
 </feed>

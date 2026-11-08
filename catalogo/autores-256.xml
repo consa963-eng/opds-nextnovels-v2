@@ -1,30 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Hinoura Takumi</id>
-<title>Hinoura Takumi</title>
-<updated>2026-11-01T04:01:33.450819+00:00</updated>
+<id>nextnovels:autores:Hinohara</id>
+<title>Hinohara</title>
+<updated>2026-11-08T04:02:34.883909+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-256.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>I Got a New Skill Every Time I Was Exiled, and After 100 Different Worlds, I Was Unmatched Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-i-got-a-new-skill-every-time-i-was-exiled-and-after-100-different-worlds-i-was-unmatched-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-i-got-a-new-skill-every-time-i-was-exiled-and-after-100-different-worlds-i-was-unmatched-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/01/Tsuihou-Sareru-Tabi-ni-Skill-wo-Te-ni-Ireta-Ore-ga-100-no-Isekai-de-2-shuume-Musou-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/01/Tsuihou-Sareru-Tabi-ni-Skill-wo-Te-ni-Ireta-Ore-ga-100-no-Isekai-de-2-shuume-Musou-Portada.jpg"/>
-<author><name>Hinoura Takumi</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Comedia" label="Comedia"/>
+<title>Nekonoyama Neneko Becomes a Cat Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-nekonoyama-neneko-becomes-a-cat-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-nekonoyama-neneko-becomes-a-cat-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/Nekonoyama-Neneko-Becomes-a-Cat-Portada.jpeg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/03/Nekonoyama-Neneko-Becomes-a-Cat-Portada.jpeg"/>
+<author><name>Hinohara</name></author>
+<category term="Ecchi" label="Ecchi"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Misterio" label="Misterio"/>
+<category term="Maduro" label="Maduro"/>
 <category term="Romance" label="Romance"/>
-<category term="Shounen" label="Shounen"/>
-<content type="text">Ed, un mercenario expulsado de 100 mundos diferentes y de 100 grupos de héroes, adquiere una poderosa "habilidad de expulsión" cada vez que es rechazado, y con el tiempo se convierte en el ser más fuerte.
+<category term="Yuri" label="Yuri"/>
+<content type="text">«¿Está mal que una chica quiera convertirse en príncipe?»
 
-Sin embargo, se entera de que el mundo al que fue expulsado ha tenido un trágico final.
+Nekonoyama Neneko es una semihumana que cursa el instituto y puede transformarse en gata.
 
-Para salvar a Tia, una chica elfa que fue su compañera, Ed, ahora el más fuerte, decide reiniciar todo y volver a conquistar los 100 mundos.
+Aunque oculta su verdadera identidad al mundo, se muestra tímida con todo el mundo, excepto con su familia.
 
-¡Con su segunda oportunidad, hará uso completo de sus habilidades y su poder para arrasar nuevamente en estos 100 mundos, en una emocionante aventura de fantasía en un nuevo juego!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1lMZUZ-4OhzIyjW4dNPeenw" type="text/html" title="Tamashi's Project"/>
+La única persona a la que deja entrar en su corazón es Mashiro, la amiga de su hermana mayor.
+
+Neneko vive admirando a la guay y misteriosa Mashiro.
+
+Un día, Neneko descubre que Mashiro es una vampiresa y le propone vivir juntas como su donante de sangre (pareja).
+
+Esta es una historia de amor entre chicas torpes en el amor.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1HGXY5h94jf-7DuB6wB6fNw" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 </feed>

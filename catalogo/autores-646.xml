@@ -1,34 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Nagi</id>
-<title>Nagi</title>
-<updated>2026-11-01T04:01:33.536044+00:00</updated>
+<id>nextnovels:autores:Nagayama Hisaryuu</id>
+<title>Nagayama Hisaryuu</title>
+<updated>2026-11-08T04:02:34.969484+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-646.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>All Mankind Is My Enemy Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-all-mankind-is-my-enemy-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-all-mankind-is-my-enemy-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/09/All-Making-Is-My-Enemy-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/09/All-Making-Is-My-Enemy-Portada.jpg"/>
-<author><name>Nagi</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<content type="text">La ganadora de la 28ª edición de los Sneaker Awards.
+<title>Words of Encounter Dedicated to That Summer Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-words-of-encounter-dedicated-to-that-summer-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-words-of-encounter-dedicated-to-that-summer-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/09/Words-of-Encounter-Dedicated-to-That-Summer-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/09/Words-of-Encounter-Dedicated-to-That-Summer-Portada.jpg"/>
+<author><name>Nagayama Hisaryuu</name></author>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Supernatural" label="Supernatural"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">“¿Podrías llevarme contigo? A algún lugar lejano, donde no haya nadie.”
 
-Para una sola niña, alzarse contra el mundo.
+Quien le hizo esa petición a Shuuya, un chico marcado por el trauma de desear algo, fue Yuu Aitake: una chica de cabello verde brillante, popular youtuber… y una inteligencia artificial.
 
-«La humanidad será destruida por la 《Reina Demonio》».
+Así comenzó su escapada veraniega, empujado por aquella chica que decía haber “huido”. Un verano vivido junto a una cómplice de dulzura tenue, tan bello que hacía que todo lo demás dejara de importar.
 
-Así lo declaró el dios que, de pronto, descendió ante toda la humanidad.
+Día tras día, esa experiencia fue cosiendo con delicadeza las heridas del corazón de Shuuya.
 
-A causa de las muertes misteriosas que venían ocurriendo sin distinción desde hacía aproximadamente un mes, ya se habían perdido ochocientos millones de vidas. El dios afirmó que ese fenómeno, llamado 《Desprendimiento del Alma》, era obra de la 《Reina Demonio》, quien solo tenía la apariencia de una niña inocente.
+Pero un día, él descubre el verdadero motivo por el que Yuu lo había buscado…
 
-Para detener la calamidad, fueron elegidos diez ángeles en representación de la humanidad, y se levantó el telón de la 《Guerra Santa》: 《Humanidad》 contra 《Reina Demonio》.
+“Aun así, quiero estar contigo, Yuu.”
 
-En un mundo conmocionado, solo Yūto Takasaka conocía a la niña. Sabía que ella había sido convertida en enemiga del mundo, y que era un ser débil y frágil que extendía la mano pidiendo ayuda.
-
-Para una sola niña, alzarse contra el mundo.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1JjARsuysMmZ_76urVTbAyA" type="text/html" title="Next Novels (MTL)"/>
+Por eso, estas palabras son mi ofrenda a aquel verano lleno de errores, que solo duró un mes.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1KXeoOeWupntpGaKtbi5SIA" type="text/html" title="Tamashi's Project"/>
 </entry>
 </feed>

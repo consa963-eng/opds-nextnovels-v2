@@ -1,46 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Kaya Kizaki</id>
-<title>Kaya Kizaki</title>
-<updated>2026-11-01T04:01:33.482930+00:00</updated>
+<id>nextnovels:autores:Kaya</id>
+<title>Kaya</title>
+<updated>2026-11-08T04:02:34.913362+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-401.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>D.Gray-man Reverse Novela Ligera en Español</title>
-<id>https://nextnovels.com/d-gray-man-reverse-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/d-gray-man-reverse-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/06/01-38.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/06/01-38.jpg"/>
-<author><name>Kaya Kizaki</name></author>
+<title>Taking My Reincarnation One Step at a Time Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-taking-my-reincarnation-one-step-at-a-time-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-taking-my-reincarnation-one-step-at-a-time-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/09/Taking-My-Reincarnation-One-Step-at-a-Time-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/09/Taking-My-Reincarnation-One-Step-at-a-Time-Portada.jpg"/>
+<author><name>Kaya</name></author>
 <category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Shounen" label="Shounen"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">Nota de la traductora: Las novelas de D.Gray-Man Reverse, nos cuentan ciertas anécdotas que complementan algunos aspectos del anime/manga.
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<content type="text">Aunque Sarasa no tenía ninguna enfermedad, se cansaba con facilidad y tendía a descansar. Aun así, consiguió un trabajo y trabajó duro. Pero al final, se desmayó, y acabó en la habitación de la Diosa de un mundo diferente.「Tienes un cuerpo que requiere poder mágico, pero naciste en la tierra que no lo tiene」. Ella se sorprendió por las palabras de la Diosa.「Es un mundo donde mucha gente como tú vino de la tierra. Sólo tienes que estar allí y absorber el poder mágico」. Y fue enviada a la fuerza a un mundo rebosante de poder mágico. Pero en realidad Sarasa, que debía actuar como purificadora del aire, fue dejada caer en un mundo lleno de monstruos fuertes, por lo que no podía poner un pie fuera「Sólo tengo que estar aquí, pero ¿qué es esto.......!?」.
 
-- Capítulo 1: 旅たちの聖職者(クラーヂマン) / El clérigo viajero
-
-Allen está de camino al cuartel general de la Orden Negra y ha llegado a Inglaterra, donde nació. Se pone al día con Madre, una vieja monja con la que él y Cross se quedaron tras la muerte de Mana. A Allen le piden que hable con una enfermera que ha perdido recientemente a su amante.
-
-- Capítulo 2: 魔女の棲む村 / El pueblo donde habita la bruja
-
-Se centra en Kanda Yuu
-
-- Capítulo 3: バク．チャン狂想曲(カプリッチオ) / La rapsodia de Bak Chan (Capriccio)
-
-Se centra en Bak Chan
-
-- Capítulo 4: 1000の悲劇 / 1000 Tragedias
-
-Se centra en torno a El Conde del Milenio
-
-- Capítulo 5: 四十九番目の名前 / El 49º nombre
-
-Se centra en Lavi y Doug
-
-- Capítulo 6: 黒の教団親睦パーティー / La fiesta de reunión de la Orden Negra
-
-Se centra en la Orden Negra</content>
-<link rel="http://opds-spec.org/acquisition" href="https://mi-castillo-de-arena.blogspot.com/2019/01/novelas-dgray-man-reverse.html" type="text/html" title="Mi Castillo de Arena"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1uvBgk_Lpa-DgxJiTjDYYNg" type="text/html" title="Bluwim No Fansub"/>
+Su lenta vida en un mundo diferente comenzó con sus esfuerzos por salir al exterior.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1h5mCnClwrBSs3oj1V-VvkA" type="text/html" title="Domen Translations"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/13wYDrSnnbn3ECU1GGA3CaQ" type="text/html" title="Edgno traducciones"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1sZ5A67HyH-OWtjXPh6QdKw" type="text/html" title="Bell Traducciones"/>
 </entry>
 </feed>

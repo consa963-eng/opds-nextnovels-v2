@@ -1,26 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Yube Mochizaki</id>
-<title>Yube Mochizaki</title>
-<updated>2026-11-01T04:01:33.660306+00:00</updated>
+<id>nextnovels:autores:Yu Hyemin</id>
+<title>Yu Hyemin</title>
+<updated>2026-11-08T04:02:35.064877+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1099.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>How to be my ex-girlfriend’s friend Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-how-to-be-my-ex-girlfriends-friend-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-how-to-be-my-ex-girlfriends-friend-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/03/04.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/03/04.jpg"/>
-<author><name>Yube Mochizaki</name></author>
-<category term="Comedia" label="Comedia"/>
+<title>Miss Pendleton Novela Web en Español</title>
+<id>https://nextnovels.com/descargar-miss-pendleton-novela-web-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-miss-pendleton-novela-web-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/09/Miss-Pendleton-Portada-1.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/09/Miss-Pendleton-Portada-1.jpg"/>
+<author><name>Yu Hyemin</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
 <category term="Drama" label="Drama"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Histórico" label="Histórico"/>
+<category term="Josei" label="Josei"/>
 <category term="Romance" label="Romance"/>
-<content type="text">Fuyu Yamase, un joven adulto cansado de su agotador trabajo llama a su ex novia en la universidad, Ito Minase, para tomar unos tragos. Comieron, rieron, recordaron anécdotas de la universidad; eso hizo que Fuyu piense que esa relación con Ito era perfecta, sin embargo, tragos van, tragos vienen y terminaron 'haciéndolo'.
+<content type="text">Laura Pendleton, la famosa casamentera de la alta sociedad.
 
-Arrepentido por lo sucedido, Fuyu trata de disculparse con Ito pero ella piensa que está bien lo que sucedió, ya que no hicieron nada malo, al contrario, fue algo divertido porque ambos se sintieron cómodos.
+Creía que esta última petición, encontrar pareja para Ian Dalton, un soltero de primera y rico terrateniente, sería pan comido.
 
-Ito estaba cansada de lo complicado que es era ser en la vida por ser una adulta, por lo que ambos deciden tener una relación donde simplemente se diviertan sin preocuparse por el trabajo o el amor.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1KRiNpfY6hxCMT2YRRxu9GA" type="text/html" title="Tamashi's Project"/>
+Al menos, hasta que conoció al hombre envuelto en nada más que obstinación.
+
+«Ya te habrás enterado. Cuántos problemas le ha costado a mi hermana traerme aquí».
+
+Una nariz recta y unos ojos que irradiaban una elegancia refinada. La señorita Pendleton pensó:
+
+Con un rostro como ese, podría llevarse a cualquier dama en carruaje a su finca.
+
+Y muy pronto se dio cuenta de lo acertada que era su valoración.
+
+—¿Me está diciendo que me case con otra persona ahora mismo?
+
+Su hermoso rostro se torció ligeramente antes de volver a hablar.
+
+—Cásese conmigo, señorita Pendleton.
+
+Un anillo de diamantes de corte fino brillaba a la luz.
+
+Se lo tendió a Laura Pendleton, una solterona de veintinueve años.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1qiTS8kmQj_6kKUVYfHCMjw" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 </feed>

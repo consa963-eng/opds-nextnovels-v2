@@ -1,31 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Shunto Saiba</id>
-<title>Shunto Saiba</title>
-<updated>2026-11-01T04:01:33.586708+00:00</updated>
+<id>nextnovels:autores:Shun Takinami</id>
+<title>Shun Takinami</title>
+<updated>2026-11-08T04:02:35.018053+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-881.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>You and I Are Polar Opposites Sunny &amp; Rainy Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-you-and-i-are-polar-opposites-sunny-rainy-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-you-and-i-are-polar-opposites-sunny-rainy-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/07/You-and-I-Are-Polar-Opposites-Sunny-Rainy-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/07/You-and-I-Are-Polar-Opposites-Sunny-Rainy-Portada.jpg"/>
-<author><name>Shunto Saiba</name></author>
+<title>Jikan wo Tomete Dere Makuru, Saikyou Muteki no Kurono-san Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-jikan-wo-tomete-dere-makuru-saikyou-muteki-no-kurono-san-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-jikan-wo-tomete-dere-makuru-saikyou-muteki-no-kurono-san-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/02/Jikan-wo-Tomete-Dere-Makuru-Saikyou-Muteki-no-Kurono-san-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/02/Jikan-wo-Tomete-Dere-Makuru-Saikyou-Muteki-no-Kurono-san-Portada.jpg"/>
+<author><name>Shun Takinami</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
 <category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Psicológico" label="Psicológico"/>
 <category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
+<category term="Supernatural" label="Supernatural"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">La comedia romántica a escala real publicada en Shōnen Jump+ se convierte por primera vez en novela.
+<content type="text">El tiempo se detiene, pero los latidos de mi corazón no se detienen.
 
-Suzuki va a la escuela como siempre, pero algo en Tani-kun parece distinto a como es habitualmente...
+“¡Ah, ya no puedo más! ¡Kai-kun, me encantas!”
 
-¿¡...!?
+—Fin de la detención del tiempo.
 
-Y Nishi-san acaba prestándole un libro que le gusta a Yamada, pero...
+“¿Eh? Kurono-san ¿Te pasa algo?” “No, fue solo tu imaginación”.
 
-¿¡...!?
+Shia Kurono, una estudiante de preparatoria con un extraordinario cabello negro y una belleza inigualable, es también una agente invencible con la habilidad de detener el tiempo. Sin embargo, guarda un peculiar secreto: Usa su poder para detener el tiempo y volverse completamente tierna en secreto con el chico que le gusta.
 
-¡Una antología de relatos breves que narra los acontecimientos de un mismo día desde tres perspectivas distintas!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/11Egx3aLMXXDPGzuWErPBfA" type="text/html" title="Next Novels (MTL)"/>
+Aunque cree que nadie lo sabe, su interés romántico, Rou Kai, también tiene un secreto: ¡Es capaz de ser plenamente consciente de todo lo que sucede mientras el tiempo está detenido! (Aunque su cuerpo no puede moverse).
+
+Ignorando este hecho, Kurono sigue desbordando ternura en secreto, lo que garantiza momentos de risas y corazones acelerados.
+
+¡Una comedia romántica donde los sentimientos aceleran en un tiempo detenido, comienza aquí!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1AmBR_ub3gkk6JYgsu6hQ2w" type="text/html" title="Tamashi's Project"/>
 </entry>
 </feed>

@@ -1,21 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Hanako Arashi</id>
-<title>Hanako Arashi</title>
-<updated>2026-11-01T04:01:33.441457+00:00</updated>
+<id>nextnovels:autores:Hana Amazaki</id>
+<title>Hana Amazaki</title>
+<updated>2026-11-08T04:02:34.875357+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-211.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Notorious No More Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-notorious-no-more-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-notorious-no-more-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/Notorious-No-More-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/05/Notorious-No-More-Portada.jpg"/>
-<author><name>Hanako Arashi</name></author>
-<category term="Comedia" label="Comedia"/>
+<title>Ikenie-hime no Koufuku Novela Ligera en Español</title>
+<id>https://nextnovels.com/ikenie-hime-no-koufuku-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/ikenie-hime-no-koufuku-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/07/Ikenie-hime-no-Koufuku-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/07/Ikenie-hime-no-Koufuku-Portada.jpg"/>
+<author><name>Hana Amazaki</name></author>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
 <category term="Romance" label="Romance"/>
-<content type="text">Laviange, la primogénita de la Casa Robur, es conocida por ser desagradable, irresponsable, carecer de talento para la magia y carecer por completo de educación. Todos creen que es totalmente incompetente, pero ¿es realmente tan inútil como dicen? La verdad es mucho más extraña. Esta es la tercera vida de Laviange. En la primera, fue una villana legendaria y una maga genial. En la segunda, fue una mujer común que vivió hasta los 86 años... ¡¿en Japón?! Para su tercera vida, ha decidido tomárselo con calma. Ocultando su talento mágico, desempeña felizmente el papel de una joven noble inepto, disfrutando de la libertad que eso le brinda. Pero sus días despreocupados llegan a un abrupto final cuando un ejercicio de entrenamiento al aire libre sale terriblemente mal. Con el sentido común de una anciana y el poder de una maga imparable, su alboroto accidental da un giro completo a su reputación. ¿La chica más odiada de la alta sociedad está a punto de convertirse en la más querida? ¡Comienza la alocada comedia de la villana más poderosa!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1TBS9dJA7OkAjnEvd28PMJQ" type="text/html" title="Onigiri Novels"/>
+<content type="text">Iba a ser devorada como sacrificio, pero el rey de los demonios la ama tiernamente como a una novia...?
+
+Desde niña, a la segunda princesa del reino, Lydia, le han enseñado que la "felicidad" consiste en morir como sacrificio al rey de los demonios.
+
+Aunque el rey y la reina no le prestan atención y está encerrada sola en un lugar remoto, lo único que desea es cumplir al menos el papel que le han asignado.
+
+Por fin llega el día del juicio final. Mientras el pueblo está asustado por la visita del rey de los demonios, Louis, éste les dice: ......?
+
+Por fin te he encontrado, mi novia".
+
+Lydia está tan ansiosa que se ofrece a Louis como sacrificio para que se la coma deliciosamente. Pero Louis la trata como a su novia y se niega a comérsela.
+
+También le enseña a cocinar y la saca al mundo exterior, ya que ella no sabe vivir como un ser humano.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxlink.com/s/1BO9syYGvpwM03h_vOyudxw" type="text/html" title="Ayamatsu Traslation"/>
 </entry>
 </feed>

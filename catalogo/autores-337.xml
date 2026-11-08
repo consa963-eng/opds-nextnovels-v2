@@ -1,27 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Joyo Nishi</id>
-<title>Joyo Nishi</title>
-<updated>2026-11-01T04:01:33.468462+00:00</updated>
+<id>nextnovels:autores:Jouyou Nishi</id>
+<title>Jouyou Nishi</title>
+<updated>2026-11-08T04:02:34.899864+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-337.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>The Pet Girl on August Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-the-pet-girl-on-august-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-the-pet-girl-on-august-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/11/The-Pet-Girl-on-August-Shoujo-Jian-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/11/The-Pet-Girl-on-August-Shoujo-Jian-Portada.jpg"/>
-<author><name>Joyo Nishi</name></author>
+<title>Just an Idol! Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-just-an-idol-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-just-an-idol-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/06/Just-an-Idol-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/06/Just-an-Idol-Portada.jpg"/>
+<author><name>Jouyou Nishi</name></author>
 <category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<category term="Romance" label="Romance"/>
-<content type="text">Este verano, Natsume Koji, un estudiante de secundaria, se ve obligado a hacer de guardián de una joven colegiala, Fumika Yukimi, que posee la asombrosa capacidad de «ver el futuro». ¿Por qué esta situación tan inusual? Según las predicciones de Fumika, ella podría ser la próxima víctima de un asesino en serie al final de las vacaciones de verano, a menos que actúe como un «gato» en la casa de Natsume.
+<content type="text">¡Buenas visuales, buenas voces y buen baile! ¡Pero estas chicas piensan demasiado en el amor!
 
-Trauma Savant es un grupo de chicas dotadas de poderes sobrenaturales, adquiridos a cambio de dolores pasados. La capacidad de Fumika es, de hecho, muy real.
+Un grupo de cinco idols que últimamente está dando mucho de qué hablar.
 
-Para escapar de esta situación inextricable, en la que Natsume corre el riesgo de ser denunciado a la policía y arruinado socialmente, deciden resolver el caso de los asesinatos en serie, que está causando mucho revuelo. Para ello, se asocian con Tsukiko Kyono, una joven apasionada con habilidades excepcionales que en el pasado escapó de un asesino en serie.
+En esta era saturada de idols, lo que las llevó a la cima en un abrir y cerrar de ojos fue su abrumadora ‘belleza visual’.
 
-Sin embargo, a medida que avanzan en su investigación, se presentan una serie de casos complejos que les llevan a preguntarse si lograrán sobrevivir en esta situación en constante evolución...</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1yWsv4eZhklXRERuHE6z0kA" type="text/html" title="Kyūden Translation"/>
+Pero, al final, no dejan de ser idols. En su vida cotidiana son un desastre de chicas en plena adolescencia que se enamoran de cualquiera a la menor oportunidad.
+
+"Se me rompió el tacón. Llévame a caballito."
+
+"Esta es Maya Yoruno, la hermosa y digna center perfecta…"
+
+"¡No tiene nada de malo~! ¡Aunque sea solo acariciarme la cabeza estaría bien~!"
+
+Ittetsu Hananome, un estudiante de preparatoria supuestamente serio y tradicional, termina recibiendo de lleno el amor 0bs3siv0 de todas ellas al convertirse en su mánager, por lo que decide aislarlas a todas en una casa compartida.
+
+Así da inicio al ‘Proyecto de la Idol Inmortal’, cuyo objetivo es evitar escándalos amorosos… pero ¿Será realmente posible?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1qWz4shNUSkucsXREHe3VeQ" type="text/html" title="Tamashi Project"/>
 </entry>
 </feed>

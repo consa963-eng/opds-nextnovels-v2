@@ -1,26 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Shoutarou Miya, Gichi Ootsuka</id>
-<title>Shoutarou Miya, Gichi Ootsuka</title>
-<updated>2026-11-01T04:01:33.585657+00:00</updated>
+<id>nextnovels:autores:Shouga Neiya</id>
+<title>Shouga Neiya</title>
+<updated>2026-11-08T04:02:35.017120+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-876.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>JoJo's Bizarre Adventure 2: Golden Heart, Golden Ring Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-jojos-bizarre-adventure-2-golden-heart-golden-ring-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-jojos-bizarre-adventure-2-golden-heart-golden-ring-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/11/JoJos-Bizarre-Adventure-2-Golden-Heart-Golden-Ring-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/11/JoJos-Bizarre-Adventure-2-Golden-Heart-Golden-Ring-Portada.jpg"/>
-<author><name>Shoutarou Miya, Gichi Ootsuka</name></author>
-<category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
+<title>When I Repaired a Gal’s Bicycle, She Became Attached to Me Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-when-i-repaired-a-gals-bicycle-she-became-attached-to-me-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-when-i-repaired-a-gals-bicycle-she-became-attached-to-me-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/When-I-Repaired-a-Gals-Bicycle-She-Became-Attached-to-Me-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/10/When-I-Repaired-a-Gals-Bicycle-She-Became-Attached-to-Me-Portada.jpg"/>
+<author><name>Shouga Neiya</name></author>
 <category term="Comedia" label="Comedia"/>
-<category term="Drama" label="Drama"/>
-<category term="Fantasía" label="Fantasía"/>
-<category term="Horror" label="Horror"/>
-<category term="Shounen" label="Shounen"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Thriller" label="Thriller"/>
-<content type="text">Coni es una chica tímida e introvertida, prácticamente sin amigos, originaria de Roma. Debido a una serie de extraños acontecimientos, ahora se encuentra en Venecia, haciéndose cargo del trabajo de su abuela, fallecida en un grave accidente. En un gran hotel de la ciudad lagunar, se encarga de la limpieza de las habitaciones, arrastrando su existencia a una rutina que poco a poco la absorbe hacia el anonimato. Pero todo vale, no sea que su gran secreto vuelva a salir a la superficie y le haga daño, como ocurrió en su época escolar. Coni es portadora de un estandarte, una presencia misteriosa cuyo origen nunca ha comprendido, y que sólo ella puede ver. Pero, sin saberlo, está a punto de verse arrastrada a un asunto más grande que ella, a un vórtice de terror.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1OF8HnpcSCjkLE652PMWh4g" type="text/html" title="jextroll96"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Kutsuzawa Kousei es un chico introvertido sin ningún amigo. Un día, mientras caminaba solo a casa como siempre, se topa con la chica más popular de la clase, una chica guapa muy codiciada por todos los chicos.
+
+Después de salvarla de una caída y reparar su bicicleta, planea marcharse de inmediato, pero ella le mira con ojos de admiración.
+
+Un introvertido y una chica social, dos personas que nunca debieron cruzarse, torpes, pero irresistiblemente atraídos el uno por el otro, comienza su historia juvenil de comedia romántica.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1ckXNy_mIoyzdYr2zegd65Q" type="text/html" title="Dōjō Novels"/>
 </entry>
 </feed>

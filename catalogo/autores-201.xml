@@ -1,42 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Hajime Ninomae</id>
-<title>Hajime Ninomae</title>
-<updated>2026-11-01T04:01:33.439338+00:00</updated>
+<id>nextnovels:autores:Hajime Naehara</id>
+<title>Hajime Naehara</title>
+<updated>2026-11-08T04:02:34.873383+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-201.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Phenomeno Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-phenomeno-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-phenomeno-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/04/Phenomeno-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/04/Phenomeno-Portada.jpg"/>
-<author><name>Hajime Ninomae</name></author>
-<category term="Horror" label="Horror"/>
-<category term="Misterio" label="Misterio"/>
-<category term="Supernatural" label="Supernatural"/>
-<content type="text">Nagito Yamada es un estudiante universitario que vive lejos de casa. Como necesita un lugar barato donde vivir, se entera de la existencia de una misteriosa «casa que concede deseos» que se alquila por un precio ridículamente bajo; no lo duda, la alquila y se muda allí. Al cabo de unas noches, empieza a oír unos extraños crujidos. Noche tras noche, se ve asaltado por esos ruidos torturadores. La gota que colma el vaso es cuando encuentra el número 7 grabado en la pared, como si fuera una cuenta atrás para algo. Interesado en el ocultismo, Nagito busca ayuda en una página web que visita con frecuencia: «Ikaigabuchi», especializada en temas ocultistas.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1FEVYNlaWJpZnzaFdy_agkg" type="text/html" title="Next Novels (MTL)"/>
-</entry>
-<entry>
-<title>Puella Magi Madoka Magica Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-puella-magi-madoka-magica-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-puella-magi-madoka-magica-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/03/Puella-Magi-Madoka-Magica-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/03/Puella-Magi-Madoka-Magica-Portada.jpg"/>
-<author><name>Hajime Ninomae</name></author>
+<title>A Cave King’s Road to Paradise Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-a-cave-kings-road-to-paradise-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/descargar-a-cave-kings-road-to-paradise-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/05/The-Cave-King-Will-Live-a-Paradise-Life-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/05/The-Cave-King-Will-Live-a-Paradise-Life-Portada.jpg"/>
+<author><name>Hajime Naehara</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Drama" label="Drama"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Shoujo Ai" label="Shoujo Ai"/>
-<category term="Supernatural" label="Supernatural"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Madoka Kaname y Sayaka Miki son dos chicas normales de secundaria con vidas normales, pero todo eso cambia cuando conocen a Kyuubey, un familiar mágico con aspecto de gato, y a Homura Akemi, la nueva alumna transferida.
-
-Kyuubey les hace una propuesta: concederles cualquier deseo que tengan. A cambio, cada una de ellas se convertirá en una chica mágica, obteniendo el poder suficiente para hacer realidad sus sueños. Sin embargo, Homura Akemi, que ya es una chica mágica, les insta a no aceptar la oferta, afirmando que no todo es lo que parece.
-
-Una historia de esperanza, desesperación y amistad, esta novelización del exitoso anime Puella Magi Madoka Magica aborda las dificultades de ser una chica mágica y el precio de hacer realidad un sueño.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/12vQ1YZdLxjxOugqqoiNDoA" type="text/html" title="Next Novels (MTL)"/>
+<category term="Harem" label="Harem"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">En un mundo donde los emblemas deciden el destino de cada uno, el príncipe Heale nace con el Emblema del Rey de las Cavernas, una insignia tan inútil como él mismo. Considerado una deshonra para su familia, es desterrado a una isla estéril y desierta, sin una planta ni un alma a la vista. Solo, desdichado, pero decidido a sobrevivir, empuña un pico para ampliar la cueva que piensa convertir en su nuevo hogar… ¡y descubre el verdadero poder de su emblema! Resulta que el Rey de las Cavernas hace que excavar sea tan fácil como respirar. Y a medida que Heale cava más y más hondo en la isla, descubre un mineral de otro mundo tras otro. ¿Quién es el inútil ahora? Pero las menas valiosas no son lo único que encuentra Heale en sus aventuras mineras. Pronto traba amistad con limos y salva a unos goblins que llegan arrastrados hasta la orilla. Y todos juntos, como una gran familia, se esforzarán por superar cualquier reto en el camino de transformar la isla en su propio paraíso.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1xlvSAiPXLin25p3kmviGkw" type="text/html" title="Next Novels (MTL)"/>
 </entry>
 </feed>

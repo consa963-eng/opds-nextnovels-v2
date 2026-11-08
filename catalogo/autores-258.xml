@@ -1,43 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Hirasaka Yomi</id>
-<title>Hirasaka Yomi</title>
-<updated>2026-11-01T04:01:33.451233+00:00</updated>
+<id>nextnovels:autores:Hirano Danshaku y Atelier Kaguya</id>
+<title>Hirano Danshaku y Atelier Kaguya</title>
+<updated>2026-11-08T04:02:34.884260+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-258.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Boku wa Tomodachi ga Sukunai Novela Ligera en Español</title>
-<id>https://nextnovels.com/boku-wa-tomodachi-ga-sukunai-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/boku-wa-tomodachi-ga-sukunai-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/06/01-24.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/06/01-24.jpg"/>
-<author><name>Hirasaka Yomi</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Harem" label="Harem"/>
-<category term="Romance" label="Romance"/>
-<category term="Seinen" label="Seinen"/>
-<category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Hasegawa Kodaka se ha transferido de escuela y le cuesta hacer amigos. No ayuda el hecho de que su pelo rubio tiende a hacer que la gente piense que es un delincuente. Un día, se cruza con su malhumorada y solitaria compañera de clase Yozora mientras ésta habla animadamente con su amigo imaginario Tomo. Al darse cuenta de que ninguno de los dos tiene amigos de verdad, deciden que la mejor manera de alterar esta situación es formar un club y empezar a reclutar.
-
-Así es como se forma "Rinjinbu", un club específicamente diseñado para personas que no tienen muchos amigos. A medida que otros compañeros de clase solitarios se unen poco a poco a su pequeño club, tratarán de aprender a crear amistades cocinando juntos, jugando y realizando otras actividades de grupo. Pero, ¿podrá este grupo de inadaptados con problemas para relacionarse realmente llevarse bien?</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1fBk47fKuiSmwHz0WvzQYMg" type="text/html" title="Darkness Dragons Translation, J-Light Novel Club y Rinnosule"/>
-</entry>
-<entry>
-<title>Henjin no Salad Bowl Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-henjin-no-salad-bowl-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-henjin-no-salad-bowl-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/08/Henjin-no-Salad-Bowl-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/08/Henjin-no-Salad-Bowl-Portada.jpg"/>
-<author><name>Hirasaka Yomi</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Ecchi" label="Ecchi"/>
+<title>Mama × Holic Novela Ligera en Español</title>
+<id>https://nextnovels.com/mama-holic-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/mama-holic-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/08/Mama-%C3%97-Holic-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/08/Mama-%C3%97-Holic-Portada.jpg"/>
+<author><name>Hirano Danshaku y Atelier Kaguya</name></author>
+<category term="Adulto" label="Adulto"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<content type="text">Kaburaya Sosuke, un detective empobrecido, conoció a Sarah, una princesa de otro mundo con poderes mágicos.
+<category term="Harem" label="Harem"/>
+<category term="Hentai" label="Hentai"/>
+<category term="Maduro" label="Maduro"/>
+<content type="text">Una sociedad en la que conviven humanos y subhumanos.
 
-Sarah empezó a vivir con Sosuke, y se adaptó rápidamente a la vida en el Japón moderno. Mientras tanto, Livia, una caballero que vino del mismo mundo que Sarah, se encontró perdida y sin hogar, pero sorprendentemente disfrutó de sus días aquí.
+Taichi, que ama tanto a los subhumanos que se convirtió en alumno de la Academia Ajinzuka, a la que acuden muchas chicas subhumanas, adquirió accidentalmente una constitución peculiar que despierta y atrae a los subhumanos.
 
-Estas dos personas, que llevan una vida positiva a pesar de su situación, empezaron a influir en Sosuke y en los demás bichos raros del barrio, entre los que se encuentran un abogado diabólico, un agente de divorcios y el líder de una secta.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1TTyqDoJDwJWzBcRp78moaw" type="text/html" title="Reversed Translations, Anónimo y Mau Translations"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/11PNfJZZVKqd4F5VR1NFUDA" type="text/html" title="Ani Hime Scan"/>
+La maestra y maga de la escuela, Avril, que planeaba hacer suyo a Taichi, provocó un accidente mientras preparaba una poción de amor en el aula experimental de la escuela, y sus ingredientes pusieron en coma a los subhumanos de sus alumnos.
+
+La única manera de despertarlos es crear una poción especial hecha con la leche materna producida por los subhumanos, la «Leche Sagrada Universal».
+
+Y para ello es necesario llevar los fl*idos corporales del Taichi peculiarmente constituido, el s*men más efectivo de todos, al cuerpo de los subhumanos que producen la leche materna.
+
+Así es como Taichi terminó teniendo s*xo con las chicas subhumanas que tenían una alta aptitud para producir «leche sagrada universal»…</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1Ov106bccMcgWLnfOJVPBog" type="text/html" title="Defous123"/>
 </entry>
 </feed>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Mizuchi Shiki</id>
-<title>Mizuchi Shiki</title>
-<updated>2026-11-01T04:01:33.527817+00:00</updated>
+<id>nextnovels:autores:Miyazaki Yuu</id>
+<title>Miyazaki Yuu</title>
+<updated>2026-11-08T04:02:34.961324+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-607.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Seikoku no Ryuu Kishi Novela Ligera en Español</title>
-<id>https://nextnovels.com/seikoku-no-ryuu-kishi-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/seikoku-no-ryuu-kishi-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/06/Seikoku-no-Ryuu-Kishi-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/06/Seikoku-no-Ryuu-Kishi-Portada.jpg"/>
-<author><name>Mizuchi Shiki</name></author>
+<title>Gakusen Toshi Asterisk Novela Ligera en Español</title>
+<id>https://nextnovels.com/gakusen-toshi-asterisk-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/gakusen-toshi-asterisk-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-25.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-25.jpg"/>
+<author><name>Miyazaki Yuu</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Aventura" label="Aventura"/>
+<category term="Ciencia ficción" label="Ciencia ficción"/>
 <category term="Comedia" label="Comedia"/>
 <category term="Ecchi" label="Ecchi"/>
 <category term="Fantasía" label="Fantasía"/>
@@ -20,7 +20,9 @@
 <category term="Romance" label="Romance"/>
 <category term="Shounen" label="Shounen"/>
 <category term="Vida Escolar" label="Vida Escolar"/>
-<content type="text">Aprender a domar y montar dragones es algo sencillo para la mayoría de estudiantes de la academia Ansarivan Dragonar, a excepción de Ash Blake de primero, un chico que es conocido por sus compañeros por ser toda una fuente de problemas. Ash es el hazmerreír de la escuela, y es que aunque tiene una enorme estrella que lo señala como un futuro señor de los dragones, no parece que tenga ninguna capacidad para serlo. De hecho, su dragón no ha aparecido nunca… o eso era hasta ahora.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1EwlqGcvYyTl05mkfBSenSA" type="text/html" title="Kikuslirus, Novelas Spanish, Dark Guild Fansub"/>
+<content type="text">La Ciudad de la Academia sobre el agua, "Rikka". Esta ciudad, también conocida como "Asterisk", fue famosa por ser el escenario más grande del mundo para el entretenimiento de batalla integrado. Los chicos y chicas de las seis academias pedían sus deseos con Armas Brillantes en sus manos, compitiendo por la supremacía - Amagiri Ayato es uno de ellos.
+
+Ayato llegó a Rikka invitado por la presidenta del Consejo de Estudiantes de la Academia de Seidoukan, Claudia, y justo después incurrió en la ira de los Julis, y terminó teniendo un duelo con ella.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1mqWuVTCSVZG5raWWDyBYFQ" type="text/html" title="HiroLsn, True Flames Project y Defous123"/>
 </entry>
 </feed>

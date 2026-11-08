@@ -1,25 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Yamazaki Hibiki</id>
-<title>Yamazaki Hibiki</title>
-<updated>2026-11-01T04:01:33.652290+00:00</updated>
+<id>nextnovels:autores:Yamato Takahiro</id>
+<title>Yamato Takahiro</title>
+<updated>2026-11-08T04:02:35.058185+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1064.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Slow Prison Life Novela Ligera en Español</title>
-<id>https://nextnovels.com/slow-prison-life-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/slow-prison-life-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/10/cover-1.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/10/cover-1.jpg"/>
-<author><name>Yamazaki Hibiki</name></author>
-<category term="Comedia" label="Comedia"/>
-<category term="Josei" label="Josei"/>
-<category term="Recuentos de la vida" label="Recuentos de la vida"/>
-<content type="text">¡Prepárate para una comedia carcelaria llena de energía!
+<title>Kaze no Stigma Novela Ligera en Español</title>
+<id>https://nextnovels.com/kaze-no-stigma-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/kaze-no-stigma-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/06/Kaze-no-Stigma-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/06/Kaze-no-Stigma-Portada.jpg"/>
+<author><name>Yamato Takahiro</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Drama" label="Drama"/>
+<category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Cuatro años antes del inicio de la historia, Kazuma Kannagi fue derrotado por su prima Ayano por el derecho de ser el sucesor de la Enraiha, una espada pasada de generación en generación por la familia Kannagi. El clan Kannagi esta compuesto por miembros de una familia capaz de invocar a los espíritus del fuego y usarlos a su antojo. Todos excepto su primo, Kazuma, quien no posee la habilidad de manipular el fuego. Por tal motivo, después de ser derrotado por Ayano, su padre lo excluyó de la familia por ser una vergüenza para el clan..
 
-El príncipe Eliot está comprometido con Rachel, la hija de un duque, pero tiene los ojos puestos en otra persona. Decide romper su compromiso acusando a Rachel de un crimen que no cometió y arrojándola en prisión. Poco sabe él, Rachel ya se a enterado de sus planes… ¡y esta encantada! Para ella, la prisión suena como unas vacaciones divertidas sin lecciones y sin sirvientes molestos. ¡Está más que lista para holgazanear y vivir la vida tranquila!
-
-Rodeada de todas las comodidades que podría desear, Rachel disfruta completamente de todo lo que el calabozo tiene para ofrecer mientras atormenta al príncipe como le plazca. ¡Su vida y alegre en prisión apenas comienza!</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1-ywDfAER0_GpH0_265Eceg" type="text/html" title="Legends Translations"/>
-<link rel="http://opds-spec.org/acquisition" href="https://lectortmo.com/library/manga/45361/konyaku-haki-kara-hajimaru-akuyaku-reijou-no-kangoku-surou-raifu-irasuto" type="text/html" title="Disponible en TuMangaOnline"/>
+Ante esto Kazuma con sus sentimientos que lo desbordaban decide firmar un contrato con el supremo espíritu del viento y luego de cuatro años de un arduo entrenamiento se convierte en un maestro en el uso de éste elemento y ahora regresará con una nueva identidad y un asombroso poder. Unos asesinatos en la casa Kannagi realizados por un usuario del viento muy poderoso conducen a Ayano y a la familia Kannagi a pensar que Kazuma esta tomando venganza y aunque dice ser inocente también esta preparado para una guerra contra los Kannagi. Este, será el primer paso para confrontar el verdadero poder e ideales de Yagami Kazuma, el contratista del espíritu del viento.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1mdlyEk4Jhuhtk9KYUqazAg" type="text/html" title="Kurosaki-Vizard"/>
 </entry>
 </feed>

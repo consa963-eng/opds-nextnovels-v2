@@ -1,23 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Oosaki Tomohiko</id>
-<title>Oosaki Tomohiko</title>
-<updated>2026-11-01T04:01:33.553182+00:00</updated>
+<id>nextnovels:autores:Oosaki Isle</id>
+<title>Oosaki Isle</title>
+<updated>2026-11-08T04:02:34.986182+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-725.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Naruto: Sakura Hiden Novela Ligera en Español</title>
-<id>https://nextnovels.com/descargar-naruto-sakura-hiden-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/descargar-naruto-sakura-hiden-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/11/Naruto-Sakura-Hiden-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/11/Naruto-Sakura-Hiden-Portada.jpg"/>
-<author><name>Oosaki Tomohiko</name></author>
+<title>Full Clearing Another World under a Goddess with Zero Believers Novela Ligera en Español</title>
+<id>https://nextnovels.com/full-clearing-another-world-under-a-goddess-with-zero-believers-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/full-clearing-another-world-under-a-goddess-with-zero-believers-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/02/portada-3-e1643787635590.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/02/portada-3-e1643787635590.jpg"/>
+<author><name>Oosaki Isle</name></author>
 <category term="Acción" label="Acción"/>
 <category term="Aventura" label="Aventura"/>
-<category term="Drama" label="Drama"/>
+<category term="Comedia" label="Comedia"/>
 <category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
 <category term="Romance" label="Romance"/>
-<content type="text">Sakura Haruno refleja en algunos momentos que ha tenido con Sasuke Uchiha: cuando sin querer lo insultó poco después de la formación del Equipo 7; cuando trató de detenerlo de desertar a Orochimaru; cuando se fue de Konoha a vagar por el mundo, pero prometió volver a verla. Sakura se pregunta dónde está ahora.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1KtlZjoEKDLgJ8CyTYfVRSQ" type="text/html" title="Mi Castillo de Arena"/>
-<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/18UjP_xceALF4dLx3qQPNHg" type="text/html" title="Martina"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">Makoto Takatsuki es un estudiante normal de preparatoria y un jugador experto en juegos de rol.
+
+Sin embargo, la «normalidad» se esfuma cuando toda su clase sufre un accidente de autobús y es transportada a otro mundo. Poderosos dioses gobiernan esta nueva y extraña tierra de magia y monstruos, y todos los recién llegados son bendecidos con fuertes estadísticas y habilidades únicas.
+
+Bueno, no del todo. Las estadísticas de Makoto resultan ser patéticas, y sus habilidades son súper débiles comparadas con las de sus compañeros… incluso está atrapado como mago aprendiz. Y lo que es peor, ¡sólo le quedan diez años de vida!
+
+Por suerte, Makoto pronto conoce a una diosa menor llamada Noah, que se le aparece en sueños y le pide que se convierta en su primer creyente. Con la ayuda de las bendiciones de Noé y de un arma divina, Makoto intenta hacerse lo suficientemente fuerte para rescatar a su diosa de la mazmorra en la que está atrapada.
+
+Entrenando duro y utilizando sus débiles habilidades de formas poco ortodoxas, Makoto demuestra que, incluso jugando en dificultad hardcore, ¡un jugador de RPG siempre llega al final!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1jA8p07tHLbF04ksjsPIETg" type="text/html" title="Akira Translations"/>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1gkyxatyw1AueGUc2Vi-6Cw" type="text/html" title="World Project"/>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1B6J-uJNan3T46fFUZeK5EA" type="text/html" title="Los Musculos De Vandelieu"/>
 </entry>
 </feed>

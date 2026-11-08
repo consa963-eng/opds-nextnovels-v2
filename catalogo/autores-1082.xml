@@ -1,26 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
-<id>nextnovels:autores:Yoo Seong</id>
-<title>Yoo Seong</title>
-<updated>2026-11-01T04:01:33.656336+00:00</updated>
+<id>nextnovels:autores:Yoo Heonhwa</id>
+<title>Yoo Heonhwa</title>
+<updated>2026-11-08T04:02:35.061545+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1082.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
 <entry>
-<title>Ark Novela Ligera en Español</title>
-<id>https://nextnovels.com/ark-novela-ligera-en-espanol/</id>
-<link rel="alternate" href="https://nextnovels.com/ark-novela-ligera-en-espanol/" type="text/html"/>
-<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/08/Ark-Portada.jpg"/>
-<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/08/Ark-Portada.jpg"/>
-<author><name>Yoo Seong</name></author>
+<title>Dungeon Defense Novela Ligera en Español</title>
+<id>https://nextnovels.com/dungeon-defense-novela-ligera-en-espanol/</id>
+<link rel="alternate" href="https://nextnovels.com/dungeon-defense-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-5.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-5.jpg"/>
+<author><name>Yoo Heonhwa</name></author>
 <category term="Acción" label="Acción"/>
-<category term="Artes marciales" label="Artes marciales"/>
-<category term="Aventura" label="Aventura"/>
-<category term="Ciencia ficción" label="Ciencia ficción"/>
-<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Ecchi" label="Ecchi"/>
 <category term="Fantasía" label="Fantasía"/>
-<category term="Shounen" label="Shounen"/>
-<content type="text">Kim siempre ha vivido una vida cómoda gracias a sus padres, pero un día recibe una llamada telefónica donde le informan de un accidente que involucra a sus padres:.su padre muerte y su madre se encuentra en el hospital en estado critico. Ahora su vida que perfecta se derrumba por completo. Al cabo de unos años Kim pasaba horas cuidando a su madre y trabajando para pagar las cuentas medicas. Un día, uno de los profesores le recomendó una compañía llamada Global Exos, quien anunció hacer historia con la mas nueva tecnología de videojuegos en realidad virtual.
+<category term="Harem" label="Harem"/>
+<category term="Horror" label="Horror"/>
+<category term="Maduro" label="Maduro"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<content type="text">¿Sabes cómo termina este mundo?
 
-Su trabajo ahora sera ser uno de los escogidos entre los 2000 participantes y demostrar su habilidad en los juegos RPG.</content>
-<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1gY9ZZLnDw30LZGgf14FNeg" type="text/html" title="BoostNoGroup, Gokoto Project"/>
+Conviértete en el héroe y derrota a los 72 señores demonios. El juego que se jactó como el juego de estrategia más difícil, 「Dungeon Attack」.
+
+Solía ser el "héroe" que había logrado todo en este juego, pero después de responder a una encuesta sospechosa, me encontré en el juego como el Señor demonio más débil, 「Dantalian」.
+
+Con solo mi lengua elocuente y mis recuerdos de conquista como un héroe.
+
+Para sobrevivir como Dantalian. Desgarraré este mundo.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1bTvbesz01SHdh7HnYcX1iQ" type="text/html" title="Traducción SAO Alicization"/>
 </entry>
 </feed>
