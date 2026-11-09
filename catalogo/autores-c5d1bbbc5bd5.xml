@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+<id>nextnovels:autores:Aki Kusanagi</id>
+<title>Aki Kusanagi</title>
+<updated>2026-11-08T00:00:00Z</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-c5d1bbbc5bd5.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<link rel="start" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="up" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<entry>
+<title>Boku no Sensei wa, Houkago Kawaii Konyakusha Novela Ligera en Español</title>
+<id>https://nextnovels.com/boku-no-sensei-wa-houkago-kawaii-konyakusha-novela-ligera-en-espanol/</id>
+<updated>2026-10-21T00:00:00Z</updated>
+<link rel="alternate" href="https://nextnovels.com/boku-no-sensei-wa-houkago-kawaii-konyakusha-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/08/Boku-no-Sensei-wa-Houkago-Kawaii-Konyakusha-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/08/Boku-no-Sensei-wa-Houkago-Kawaii-Konyakusha-Portada.jpg"/>
+<author><name>Aki Kusanagi</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Mi profesora, Reina Sakurakouji, es la mujer más hermosa de la escuela, pero también es famosa por ser muy fría. Un día después de la escuela, me encontré con ella por casualidad, y allí, por alguna razón, me presentó a sus padres como su prometido (o como si lo fuera), “Él es Shirase-kun. En realidad, estamos comprometidos”, y después de eso, ¡¿terminamos viviendo juntos?! Y aunque tenía una imagen aterradora de ella, en realidad… “¡¿Pero qué estás diciendo?! ¡No te burles de mí!”, ella en casa es muy tímida, indefensa, se emborracha rápidamente y además de eso, es una lindura torpe. Pero esto es algo que solo yo sé. ¡Este es el comienzo del acuerdo secreto de convivencia entre un estudiante y su profesora!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1lYJd93CiLEgzxfxMn5lO-g" type="text/html" title="Oasis Translations"/>
+</entry>
+</feed>

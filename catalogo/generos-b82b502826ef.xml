@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+<id>nextnovels:generos:Guerra</id>
+<title>Guerra</title>
+<updated>2026-11-08T00:00:00Z</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-b82b502826ef.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<link rel="start" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="up" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<entry>
+<title>Doushi Shoujo Yo, Teki Wo Ute Novela Ligera en Español</title>
+<id>https://nextnovels.com/doushi-shoujo-yo-teki-wo-ute-novela-ligera-en-espanol/</id>
+<updated>2026-10-21T00:00:00Z</updated>
+<link rel="alternate" href="https://nextnovels.com/doushi-shoujo-yo-teki-wo-ute-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/01/Doushi-Shoujo-Yo-Teki-Wo-Ute-Portada-scaled.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/01/Doushi-Shoujo-Yo-Teki-Wo-Ute-Portada-scaled.jpg"/>
+<author><name>Aisaka Touma</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Bélico" label="Bélico"/>
+<category term="Guerra" label="Guerra"/>
+<category term="Maduro" label="Maduro"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Tragedia" label="Tragedia"/>
+<category term="Venganza" label="Venganza"/>
+<content type="text">En 1942, durante la guerra entre Alemania y la Unión Soviética, la vida cotidiana de Serafina, una joven que vive en un pueblo agrícola cerca de Moscú, le fue arrebatada repentinamente. Su madre, y otros aldeanos fueron masacrados por las tropas alemanas que se abalanzaron sobre ellos. Serafina estaba a punto de recibir un disparo cuando Irina la salvó, una mujer soldado en el Ejército Rojo. Más tarde, le preguntó si quería pelear o morir en el acto, por lo que decidió convertirse en una francotiradora de primera clase en la escuela de entrenamiento donde Irina se desempeñaba como instructora. Mientras abraza los sentimientos de venganza contra el francotirador alemán que le disparó a su madre e Irina que quemó el cuerpo de su madre, Serafina entrena con otras francotiradoras que también lloraron a sus familias y eligieron luchar, y finalmente se encuentra en el frente de batalla en Stalingrado, un punto de inflexión decisivo en la guerra entre Alemania y la Unión Soviética. Después de muchas muertes, descubre al “verdadero enemigo”.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1EU6TR4jazKhBO68F8KggDw" type="text/html" title="MiraiK"/>
+</entry>
+</feed>

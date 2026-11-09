@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+<id>nextnovels:autores:Hana Amazaki</id>
+<title>Hana Amazaki</title>
+<updated>2026-11-08T00:00:00Z</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-ff305a2df546.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<link rel="start" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="up" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<entry>
+<title>Ikenie-hime no Koufuku Novela Ligera en Español</title>
+<id>https://nextnovels.com/ikenie-hime-no-koufuku-novela-ligera-en-espanol/</id>
+<updated>2026-10-21T00:00:00Z</updated>
+<link rel="alternate" href="https://nextnovels.com/ikenie-hime-no-koufuku-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/07/Ikenie-hime-no-Koufuku-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/07/Ikenie-hime-no-Koufuku-Portada.jpg"/>
+<author><name>Hana Amazaki</name></author>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Romance" label="Romance"/>
+<content type="text">Iba a ser devorada como sacrificio, pero el rey de los demonios la ama tiernamente como a una novia...?
+
+Desde niña, a la segunda princesa del reino, Lydia, le han enseñado que la "felicidad" consiste en morir como sacrificio al rey de los demonios.
+
+Aunque el rey y la reina no le prestan atención y está encerrada sola en un lugar remoto, lo único que desea es cumplir al menos el papel que le han asignado.
+
+Por fin llega el día del juicio final. Mientras el pueblo está asustado por la visita del rey de los demonios, Louis, éste les dice: ......?
+
+Por fin te he encontrado, mi novia".
+
+Lydia está tan ansiosa que se ofrece a Louis como sacrificio para que se la coma deliciosamente. Pero Louis la trata como a su novia y se niega a comérsela.
+
+También le enseña a cocinar y la saca al mundo exterior, ya que ella no sabe vivir como un ser humano.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxlink.com/s/1BO9syYGvpwM03h_vOyudxw" type="text/html" title="Ayamatsu Traslation"/>
+</entry>
+</feed>

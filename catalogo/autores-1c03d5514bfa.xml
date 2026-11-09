@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+<id>nextnovels:autores:Ko Hiratori</id>
+<title>Ko Hiratori</title>
+<updated>2026-11-08T00:00:00Z</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-1c03d5514bfa.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<link rel="start" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="up" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<entry>
+<title>JK Haru wa Isekai de Shōfu ni Natta Novela Ligera en Español</title>
+<id>https://nextnovels.com/jk-haru-wa-isekai-de-shofu-ni-natta-novela-ligera-en-espanol/</id>
+<updated>2026-10-21T00:00:00Z</updated>
+<link rel="alternate" href="https://nextnovels.com/jk-haru-wa-isekai-de-shofu-ni-natta-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/07/01-75.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/07/01-75.jpg"/>
+<author><name>Ko Hiratori</name></author>
+<category term="Adulto" label="Adulto"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Fantasía" label="Fantasía"/>
+<content type="text">La estudiante de secundaria Haru Koyama y su compañero de clase Seiji Chiba mueren en un accidente de tráfico y son teletransportados juntos a otro mundo. Mientras Chiba se convierte en un aventurero y sale a matar monstruos, Haru descubre que las mujeres no pueden tener poderes especiales en el nuevo mundo, por lo que decide ganarse la vida como trabajadora sexual.
+
+El volumen "Summer" es la secuela del primer volumen, formado por una colección de historias cortas, narrando lo que le pasó a Haru luego de la historia principal.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com" type="text/html" title="Ferindrad"/>
+</entry>
+</feed>

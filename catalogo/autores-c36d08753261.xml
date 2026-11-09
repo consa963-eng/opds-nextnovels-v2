@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+<id>nextnovels:autores:Kiraku Kishima</id>
+<title>Kiraku Kishima</title>
+<updated>2026-11-08T00:00:00Z</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-c36d08753261.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<link rel="start" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="up" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<entry>
+<title>Kasshoku Musume no Latina-san ni Ore no Karada ga Nerawarete iru Novela Ligera en Español</title>
+<id>https://nextnovels.com/kasshoku-musume-no-latina-san-ni-ore-no-karada-ga-nerawarete-iru-novela-ligera-en-espanol/</id>
+<updated>2026-10-20T00:00:00Z</updated>
+<link rel="alternate" href="https://nextnovels.com/kasshoku-musume-no-latina-san-ni-ore-no-karada-ga-nerawarete-iru-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/08/Kasshoku-Musume-no-Latina-san-ni-Ore-no-Karada-ga-Nerawarete-iru-Portada.jpeg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/08/Kasshoku-Musume-no-Latina-san-ni-Ore-no-Karada-ga-Nerawarete-iru-Portada.jpeg"/>
+<author><name>Kiraku Kishima</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">La historia sigue a Makoto Ito, un estudiante cuya vida cambia radicalmente con la llegada de Latina, una estudiante de intercambio con piel bronceada. Desde el primer encuentro, Latina propone audazmente matrimonio a Makoto y sugiere tener ocho hijos juntos. Aunque su propuesta es sorprendente, Makoto queda cautivado por su honestidad y energía. Sin embargo, un fracaso en su pasado hace que abrir su corazón sea un reto.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://terabox.com/s/1cu4IiwnIpSeiJP4FkRGYuw" type="text/html" title="Cafuné Translation"/>
+</entry>
+</feed>

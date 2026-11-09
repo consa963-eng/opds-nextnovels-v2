@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+<id>nextnovels:autores:Anzu Inukai</id>
+<title>Anzu Inukai</title>
+<updated>2026-11-08T00:00:00Z</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-e817858e03d6.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<link rel="start" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="up" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<entry>
+<title>Suki na Ko no Imouto Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-suki-na-ko-no-imouto-novela-ligera-en-espanol/</id>
+<updated>2026-10-20T00:00:00Z</updated>
+<link rel="alternate" href="https://nextnovels.com/descargar-suki-na-ko-no-imouto-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/11/Suki-na-Ko-no-Imouto-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/11/Suki-na-Ko-no-Imouto-Portada.jpg"/>
+<author><name>Anzu Inukai</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Romance" label="Romance"/>
+<category term="Yuri" label="Yuri"/>
+<content type="text">Mi deseo mas egoista se hizo realidad gracias a la hermana de mi primer amor, que es su copia exacta.
+
+Un complicado triangulo amoroso entre la hermana mayor, una estudiante ejemplar, y la hermana menor, una chica despreocupada.
+
+Yo Amamiya Yui, me arme de valor y le confece mis sentimientos a mi primer amor, Hanabusa Nagisa... pero fui rechazada.
+
+Al ver que no podía superar mi amor no correspondido, le hice una propuesta a Hanabusa Mimi la hermana menor de Nagisa, con quien tengo una buena relación.
+
+"Hare que olvides a mi hermana…. Y para eso, hare lo que sea, solo pídelo, dime cualquier cosa que quieras hacer"
+
+luego de escuchar aquellas palbras, desde ese dia, decidi hacer con ella todo lo que quería hacer con Nagisa.
+
+"Yui-senpai, me besarias porque somos buenas amigas o lo harás porque me veo como mi hermana"
+
+No lo pensé demasiado, me entregue al libertinaje de mis deseos. Me entregue de lleno en esta relaciona, tratando de sustituir a Nagisa, pero lentamente me di cuenta que mpezaba a sentir atraída por Mimi-chan.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1C87shQ4EuIOTJzn43a8WLg" type="text/html" title="Kyūden Translation"/>
+</entry>
+</feed>

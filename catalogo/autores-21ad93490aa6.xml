@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+<id>nextnovels:autores:Jaki</id>
+<title>Jaki</title>
+<updated>2026-11-08T00:00:00Z</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-21ad93490aa6.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<link rel="start" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="up" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<entry>
+<title>Saikyou no Shien Shoku “Wajutsushi” de Aru Ore wa Sekai Saikyou Clan o Shitagaeru Novela Ligera en Español</title>
+<id>https://nextnovels.com/saikyou-no-shien-shoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-o-shitagaeru-novela-ligera-en-espanol/</id>
+<updated>2026-10-21T00:00:00Z</updated>
+<link rel="alternate" href="https://nextnovels.com/saikyou-no-shien-shoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-o-shitagaeru-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/05/Saikyou-no-Shien-Shoku-Wajutsushi-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/05/Saikyou-no-Shien-Shoku-Wajutsushi-Portada.jpg"/>
+<author><name>Jaki</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Tragedia" label="Tragedia"/>
+<content type="text">Noel ha crecido idolatrando a su abuelo, un aventurero legendario de la clase conocida como Seekers. Pero cuando llega el momento de que Noel se ponga en marcha por su cuenta, para su consternación, resulta ser un Talker: una clase de apoyo con escasas habilidades. Pero Noel tiene la ambición a raudales, y la inteligencia para igualar, ¡por lo que está decidido a hacer lo que sea necesario para que el mundo conozca su nombre!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1qbKMtEnZA4wCgzu7Kpc_lg" type="text/html" title="World Project"/>
+</entry>
+</feed>

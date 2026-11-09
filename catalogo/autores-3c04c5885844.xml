@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+<id>nextnovels:autores:Sakai Takuma</id>
+<title>Sakai Takuma</title>
+<updated>2026-11-08T00:00:00Z</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-3c04c5885844.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<link rel="start" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="up" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<entry>
+<title>Buta no Liver wa Kanetsu Shiro Novela Ligera en Español</title>
+<id>https://nextnovels.com/buta-no-liver-wa-kanetsu-shiro-novela-ligera-en-espanol/</id>
+<updated>2026-10-20T00:00:00Z</updated>
+<link rel="alternate" href="https://nextnovels.com/buta-no-liver-wa-kanetsu-shiro-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/03/Buta-no-Liver-wa-Kanetsu-Shiro-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/03/Buta-no-Liver-wa-Kanetsu-Shiro-Portada.jpg"/>
+<author><name>Sakai Takuma</name></author>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Drama" label="Drama"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<content type="text">Un otaku poco atractivo despierta en el cuerpo de un cerdo después de desmayarse mientras come hígado de cerdo crudo. El cerdo se encuentra en compañía de Jess, una chica inocente que puede leer la mente de las personas, y ella lo acepta a pesar de sus pensamientos pervertidos… aunque planea comérselo. Cuando Jess está en peligro de sucumbir a un oscuro destino, ¿podrá el cerdo salvarla usando solo su rápido ingenio, su sabiduría y su refinado sentido del olfato?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1sKrduuNJw6ptfoaBzbncAA" type="text/html" title="Dinasty &amp; Svartalheimer"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/17FRDDq4N5S9GU2NRnQMwJw" type="text/html" title="World Project"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1TH2S1qMDk-J2iwCJYa94ew" type="text/html" title="Max Power Fansub"/>
+</entry>
+<entry>
+<title>The Science Notes of Delta and Gamma Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-science-notes-of-delta-and-gamma-novela-ligera-en-espanol/</id>
+<updated>2026-10-25T00:00:00Z</updated>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-science-notes-of-delta-and-gamma-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/The-Science-Notes-of-Delta-and-Gamma-Portada.webp"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/10/The-Science-Notes-of-Delta-and-Gamma-Portada.webp"/>
+<author><name>Sakai Takuma</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Agridulce y a la vez fresca: una historia de ciencia, amor y misterio.
+
+Si lo pienso bien, la juventud se parece mucho a una novela de detectives bien construida.
+
+El misterio de los cerezos en flor que alguna vez simbolizaron un amor que nunca llegó a concretarse.
+
+Esa vaga sensación de que algo no encajaba durante el reclutamiento del club.
+
+El secreto oculto en la edad de un viejo y majestuoso árbol.
+
+El hámster que desapareció de una habitación cerrada bajo llave.
+
+Y las decisiones desesperadas de unos estudiantes de secundaria volcados en un club de biología al borde de la desaparición.
+
+Cada causa y efecto, aparentemente inconexos, están en realidad vinculados entre sí... y solo al mirar atrás nos damos cuenta: Ah, así que eso era la juventud.
+
+Es entonces cuando por fin comprendemos aquellas cosas importantes que habíamos pasado por alto todo el tiempo.
+
+"¡Pongámoslo a prueba... científicamente!"
+
+Este es el modesto registro de actividades del Departamento de Ciencias del instituto Tsunagai, donde un grupo de estudiantes apasionados por la ciencia se enfrenta a los innumerables misterios ocultos en la vida cotidiana.
+
+Y esta es la historia de cómo, finalmente, se desentrañó un primer amor.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1Vm33vuGblbwd22gokBaMjA" type="text/html" title="Saitou Translations"/>
+</entry>
+</feed>

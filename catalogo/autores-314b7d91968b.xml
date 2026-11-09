@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+<id>nextnovels:autores:Kai Yumizu</id>
+<title>Kai Yumizu</title>
+<updated>2026-11-08T00:00:00Z</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-314b7d91968b.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<link rel="start" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="up" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<entry>
+<title>Oukoku e Tsuzuku Michi Novela Ligera en Español</title>
+<id>https://nextnovels.com/oukoku-e-tsuzuku-michi-novela-ligera-en-espanol/</id>
+<updated>2026-10-20T00:00:00Z</updated>
+<link rel="alternate" href="https://nextnovels.com/oukoku-e-tsuzuku-michi-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/04/Oukoku-e-Tsuzuku-Michi-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/04/Oukoku-e-Tsuzuku-Michi-Portada.jpg"/>
+<author><name>Kai Yumizu</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Adulto" label="Adulto"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Harem" label="Harem"/>
+<category term="Maduro" label="Maduro"/>
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<content type="text">Aegil, un hombre nacido y criado en un ambiente horrible, tiene talento para la lucha. Criado como un esclavo gladiador, conoce a Lucy, una hermosa princesa vampiro que vive en lo profundo del bosque, y aprende a sobrevivir en tiempos de guerra. Lucy le ofrece una condición para convertirse en propiedad de Aegil: debe obtener su propio reino. El crecimiento de un hombre, varios dramas y tiempos turbulentos. A veces Aegil peleara, a veces seducirá a una mujer que le gusta, y a veces se levantara en los tiempos de guerra.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1I5OZXesO-OQFp_4RLCWBXA" type="text/html" title="Btoom Translations: Defous123"/>
+</entry>
+</feed>

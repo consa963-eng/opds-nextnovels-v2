@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+<id>nextnovels:autores:Marawu Senpuuki</id>
+<title>Marawu Senpuuki</title>
+<updated>2026-11-08T00:00:00Z</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-b2e2ca53fb63.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<link rel="start" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="up" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<entry>
+<title>Kissing My Student, It’s Over if We’re Caught Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-kissing-my-student-its-over-if-were-caught-novela-ligera-en-espanol/</id>
+<updated>2026-10-20T00:00:00Z</updated>
+<link rel="alternate" href="https://nextnovels.com/descargar-kissing-my-student-its-over-if-were-caught-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/05/Kissing-My-Student-Its-Over-if-Were-Caught-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/05/Kissing-My-Student-Its-Over-if-Were-Caught-Portada.jpg"/>
+<author><name>Marawu Senpuuki</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Tengo un encuentro secreto con mi estudiante…
+
+Mi relación secreta con Kirihara es algo que no puedo contarle a nadie. Comenzó cuando me asignaron como profesor a la preparatoria Morigawara. En la escuela, Kirihara es una seria presidenta del consejo estudiantil que se ha ganado la confianza de sus profesores, pero cuando está sola, es traviesa, malcriada y celosa. Los fines de semana, preparo comidas en su casa y juego con ella, mimándola como a una amante. No puedo negarme debido a mi debilidad, pero aunque creo que no es bueno, guardo secretos poco a poco cada día…
+
+«Siento que lo quiero, profesor, y he crecido mucho»
+
+Kirihara, que se enfrenta honestamente a sus sentimientos, se hace más fuerte con sus sentimientos reprimidos. Si alguien se enterara de nuestra relación, sería el fin…</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1WVgkwXfMvLsFsVRWZUq50A" type="text/html" title="GambaTrans"/>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1-g62CoJRwwLiH7ujuPKpNQ" type="text/html" title="World Project"/>
+</entry>
+</feed>

@@ -1,66 +1,436 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
 <id>nextnovels:generos</id>
-<title>Generos</title>
-<entry><title>Acción</title><id>nextnovels:generos-0.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-0.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Adulto</title><id>nextnovels:generos-1.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-1.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Artes marciales</title><id>nextnovels:generos-2.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-2.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Aventura</title><id>nextnovels:generos-3.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-3.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Batalla</title><id>nextnovels:generos-4.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-4.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>BDSM</title><id>nextnovels:generos-5.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-5.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Bélico</title><id>nextnovels:generos-6.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-6.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Ciencia ficción</title><id>nextnovels:generos-7.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-7.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Comedia</title><id>nextnovels:generos-8.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-8.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Danmei</title><id>nextnovels:generos-9.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-9.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Deportes</title><id>nextnovels:generos-10.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-10.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Detectives</title><id>nextnovels:generos-11.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-11.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Drama</title><id>nextnovels:generos-12.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-12.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Ecchi</title><id>nextnovels:generos-13.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-13.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Fantasía</title><id>nextnovels:generos-14.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-14.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Fantasía Oscura</title><id>nextnovels:generos-15.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-15.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Ficción</title><id>nextnovels:generos-16.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-16.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Gender Bender</title><id>nextnovels:generos-17.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-17.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Gore</title><id>nextnovels:generos-18.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-18.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Guerra</title><id>nextnovels:generos-19.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-19.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Harem</title><id>nextnovels:generos-20.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-20.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Harén</title><id>nextnovels:generos-21.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-21.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Hentai</title><id>nextnovels:generos-22.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-22.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Histórico</title><id>nextnovels:generos-23.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-23.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Horror</title><id>nextnovels:generos-24.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-24.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Incesto</title><id>nextnovels:generos-25.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-25.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Josei</title><id>nextnovels:generos-26.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-26.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Maduro</title><id>nextnovels:generos-27.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-27.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Magia</title><id>nextnovels:generos-28.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-28.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Magical Girl</title><id>nextnovels:generos-29.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-29.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Mecha</title><id>nextnovels:generos-30.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-30.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Militar</title><id>nextnovels:generos-31.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-31.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Misterio</title><id>nextnovels:generos-32.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-32.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Netori</title><id>nextnovels:generos-33.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-33.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>NTR</title><id>nextnovels:generos-34.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-34.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Post apocalíptico</title><id>nextnovels:generos-35.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-35.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Psicológico</title><id>nextnovels:generos-36.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-36.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Recuentos de la vida</title><id>nextnovels:generos-37.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-37.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Romance</title><id>nextnovels:generos-38.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-38.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Seinen</title><id>nextnovels:generos-39.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-39.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Shoujo</title><id>nextnovels:generos-40.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-40.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Shoujo Ai</title><id>nextnovels:generos-41.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-41.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Shounen</title><id>nextnovels:generos-42.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-42.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Shounen Ai</title><id>nextnovels:generos-43.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-43.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Smut</title><id>nextnovels:generos-44.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-44.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Sobrenatural</title><id>nextnovels:generos-45.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-45.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Supernatural</title><id>nextnovels:generos-46.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-46.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Suspenso</title><id>nextnovels:generos-47.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-47.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Terror</title><id>nextnovels:generos-48.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-48.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Tetona</title><id>nextnovels:generos-49.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-49.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Thriller</title><id>nextnovels:generos-50.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-50.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Tragedia</title><id>nextnovels:generos-51.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-51.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Transgénero</title><id>nextnovels:generos-52.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-52.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Venganza</title><id>nextnovels:generos-53.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-53.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Vida Escolar</title><id>nextnovels:generos-54.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-54.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Violencia</title><id>nextnovels:generos-55.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-55.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Wuxia</title><id>nextnovels:generos-56.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-56.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Xianxia</title><id>nextnovels:generos-57.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-57.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Yandere</title><id>nextnovels:generos-58.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-58.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Yaoi</title><id>nextnovels:generos-59.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-59.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
-<entry><title>Yuri</title><id>nextnovels:generos-60.xml</id><link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-60.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/></entry>
+<title>Géneros</title>
+<updated>2026-11-08T00:00:00Z</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="start" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="up" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<entry>
+<title>Acción</title>
+<id>nextnovels:generos:Acción</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">729 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-d7927a639883.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Adulto</title>
+<id>nextnovels:generos:Adulto</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">151 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-48cd0dbb3446.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Artes marciales</title>
+<id>nextnovels:generos:Artes marciales</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">49 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-606b2bb8f18d.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Aventura</title>
+<id>nextnovels:generos:Aventura</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">538 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-8bcbc5b83b1c.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Batalla</title>
+<id>nextnovels:generos:Batalla</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">1 novela</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-d1a401b12c2c.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>BDSM</title>
+<id>nextnovels:generos:BDSM</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">1 novela</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-5b3d35e61ffe.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Bélico</title>
+<id>nextnovels:generos:Bélico</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">1 novela</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-31767163dc58.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Ciencia ficción</title>
+<id>nextnovels:generos:Ciencia ficción</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">168 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-571a79effb62.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Comedia</title>
+<id>nextnovels:generos:Comedia</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">821 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-b4e5da0f7dc3.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Danmei</title>
+<id>nextnovels:generos:Danmei</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">4 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-a56a3ec43587.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Deportes</title>
+<id>nextnovels:generos:Deportes</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">9 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-a6706ea7f6c2.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Detectives</title>
+<id>nextnovels:generos:Detectives</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">1 novela</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-87cb0ec9e7ae.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Drama</title>
+<id>nextnovels:generos:Drama</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">672 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-553745b0f036.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Ecchi</title>
+<id>nextnovels:generos:Ecchi</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">333 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-10b377a1955e.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Fantasía</title>
+<id>nextnovels:generos:Fantasía</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">843 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-fec75603b32a.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Fantasía Oscura</title>
+<id>nextnovels:generos:Fantasía Oscura</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">3 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-51482c51c0a9.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Ficción</title>
+<id>nextnovels:generos:Ficción</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">9 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-77722f500257.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Gender Bender</title>
+<id>nextnovels:generos:Gender Bender</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">18 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-1202b56d7181.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Gore</title>
+<id>nextnovels:generos:Gore</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">1 novela</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-e2a38584151c.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Guerra</title>
+<id>nextnovels:generos:Guerra</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">1 novela</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-b82b502826ef.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Harem</title>
+<id>nextnovels:generos:Harem</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">522 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-40d778a6087c.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Harén</title>
+<id>nextnovels:generos:Harén</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">1 novela</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-0c83172855e9.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Hentai</title>
+<id>nextnovels:generos:Hentai</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">51 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-9364c1e5eebd.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Histórico</title>
+<id>nextnovels:generos:Histórico</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">16 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-bea29e92ac2b.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Horror</title>
+<id>nextnovels:generos:Horror</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">58 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-cf80dcfced80.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Incesto</title>
+<id>nextnovels:generos:Incesto</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">4 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-5ca9a1a2a443.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Josei</title>
+<id>nextnovels:generos:Josei</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">17 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-44d383ca2efe.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Maduro</title>
+<id>nextnovels:generos:Maduro</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">178 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-a01e23d90879.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Magia</title>
+<id>nextnovels:generos:Magia</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">10 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-9e8b3b54fe73.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Magical Girl</title>
+<id>nextnovels:generos:Magical Girl</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">8 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-30da41423368.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Mecha</title>
+<id>nextnovels:generos:Mecha</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">37 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-286ddfecb311.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Militar</title>
+<id>nextnovels:generos:Militar</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">4 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-281e5be46a14.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Misterio</title>
+<id>nextnovels:generos:Misterio</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">181 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-0316c245721a.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Netori</title>
+<id>nextnovels:generos:Netori</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">1 novela</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-bdd669486e51.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>NTR</title>
+<id>nextnovels:generos:NTR</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">7 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-d589eb80ee7e.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Post apocalíptico</title>
+<id>nextnovels:generos:Post apocalíptico</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">1 novela</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-70e69e784f52.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Psicológico</title>
+<id>nextnovels:generos:Psicológico</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">160 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-584b0174faca.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Recuentos de la vida</title>
+<id>nextnovels:generos:Recuentos de la vida</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">503 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-59869f487856.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Romance</title>
+<id>nextnovels:generos:Romance</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">1031 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-c6c0500dcbfc.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Seinen</title>
+<id>nextnovels:generos:Seinen</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">235 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-34012d1c7102.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Shoujo</title>
+<id>nextnovels:generos:Shoujo</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">71 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-61e8a8ab7bc1.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Shoujo Ai</title>
+<id>nextnovels:generos:Shoujo Ai</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">20 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-cb1c2a8845a7.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Shounen</title>
+<id>nextnovels:generos:Shounen</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">315 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-611c0d1cba72.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Shounen Ai</title>
+<id>nextnovels:generos:Shounen Ai</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">5 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-ed14fec56a97.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Smut</title>
+<id>nextnovels:generos:Smut</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">15 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-77ded835332c.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Sobrenatural</title>
+<id>nextnovels:generos:Sobrenatural</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">3 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-ccf505b760db.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Supernatural</title>
+<id>nextnovels:generos:Supernatural</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">304 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-03a6e6da11bc.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Suspenso</title>
+<id>nextnovels:generos:Suspenso</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">7 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-c1dff060ac28.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Terror</title>
+<id>nextnovels:generos:Terror</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">1 novela</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-799316349768.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Tetona</title>
+<id>nextnovels:generos:Tetona</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">10 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-b057226f05b4.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Thriller</title>
+<id>nextnovels:generos:Thriller</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">8 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-4edf2d914ed9.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Tragedia</title>
+<id>nextnovels:generos:Tragedia</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">125 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-a8f1547d8585.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Transgénero</title>
+<id>nextnovels:generos:Transgénero</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">1 novela</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-54b05a0addbd.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Venganza</title>
+<id>nextnovels:generos:Venganza</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">2 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-6c3f650e559b.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Vida Escolar</title>
+<id>nextnovels:generos:Vida Escolar</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">586 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-88f85afb9446.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Violencia</title>
+<id>nextnovels:generos:Violencia</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">1 novela</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-cf93a5e63ab5.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Wuxia</title>
+<id>nextnovels:generos:Wuxia</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">1 novela</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-e25f694c8958.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Xianxia</title>
+<id>nextnovels:generos:Xianxia</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">1 novela</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-56ce0b29d78e.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Yandere</title>
+<id>nextnovels:generos:Yandere</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">4 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-91a2ef2f32bc.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Yaoi</title>
+<id>nextnovels:generos:Yaoi</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">37 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-288d193d7bdb.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
+<entry>
+<title>Yuri</title>
+<id>nextnovels:generos:Yuri</id>
+<updated>2026-11-08T00:00:00Z</updated>
+<content type="text">56 novelas</content>
+<link rel="subsection" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/generos-08f62520dd1e.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+</entry>
 </feed>

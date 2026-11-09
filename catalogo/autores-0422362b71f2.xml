@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+<id>nextnovels:autores:Gotou Yuujin</id>
+<title>Gotou Yuujin</title>
+<updated>2026-11-08T00:00:00Z</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-0422362b71f2.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<link rel="start" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="up" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<entry>
+<title>Tsuki Tsuki! Novela Ligera en Español</title>
+<id>https://nextnovels.com/tsuki-tsuki-novela-ligera-en-espanol/</id>
+<updated>2026-10-21T00:00:00Z</updated>
+<link rel="alternate" href="https://nextnovels.com/tsuki-tsuki-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/07/Tsuki-Tsuki-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/07/Tsuki-Tsuki-Portada.jpg"/>
+<author><name>Gotou Yuujin</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Ecchi" label="Ecchi"/>
+<category term="Harem" label="Harem"/>
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Un día, Shinobu se despierta sólo para encontrar una chica rubia desnuda durmiendo a su lado. No tiene memoria alguna de ella ¿Quién es ella? ¿Por qué está en su cama? ¿Por qué está desnuda? Para empeorar las cosas su hermana llega y los ve. ¿Qué pasará ahora?</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1hAce7mJl1KdL8-VYFGlYJA" type="text/html" title="ersión de Kikuslirus"/>
+</entry>
+</feed>

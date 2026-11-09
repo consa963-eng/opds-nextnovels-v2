@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+<id>nextnovels:autores:Chiba Toshihiro</id>
+<title>Chiba Toshihiro</title>
+<updated>2026-11-08T00:00:00Z</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-acbd5dcddc5e.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<link rel="start" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="up" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<entry>
+<title>The Cold and Aloof Transfer Student Turns the Master Key and Is Sweet After School Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-cold-and-aloof-transfer-student-turns-the-master-key-and-is-sweet-after-school-novela-ligera-en-espanol/</id>
+<updated>2026-10-25T00:00:00Z</updated>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-cold-and-aloof-transfer-student-turns-the-master-key-and-is-sweet-after-school-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2026/10/The-Cold-and-Aloof-Transfer-Student-Turns-the-Master-Key-and-Is-Sweet-After-School-Portada.webp"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2026/10/The-Cold-and-Aloof-Transfer-Student-Turns-the-Master-Key-and-Is-Sweet-After-School-Portada.webp"/>
+<author><name>Chiba Toshihiro</name></author>
+<category term="Comedia" label="Comedia"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Por fin estamos solos, ¿verdad?
+
+Una historia de amor un tanto torpe pero tierna entre un chico y una chica que no son muy sociables y que viven bajo el mismo techo.
+
+La interacción es innecesaria; él nunca interfiere con los demás. Una estudiante transferida llega y se sienta junto al misántropo Karasu Kuya.
+
+Fatima Kurei. Es hermosa, pero siempre silenciosa y poco amigable. Kuya podría haber permanecido indiferente como siempre, si tan solo no fuera "de la misma familia".
+
+Van de compras juntos, cocinan juntos. Comienza una convivencia informal con ella, quien en realidad es la hija adoptiva de su abuela.
+
+Pero él no puede ir más allá. Porque ambos saben que su rasgo común es la "misantropía". Pero él ya no puede reprimir sus sentimientos de "amor".
+
+Esta es una historia de amor que florece bajo el mismo techo.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/102XrQ6km_xfMQ3tQdRnp-w" type="text/html" title="Ichijou Translations"/>
+</entry>
+</feed>

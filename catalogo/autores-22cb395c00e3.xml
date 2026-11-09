@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+<id>nextnovels:autores:Hachimoku Mei</id>
+<title>Hachimoku Mei</title>
+<updated>2026-11-08T00:00:00Z</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-22cb395c00e3.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<link rel="start" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="up" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<entry>
+<title>Natsu e no Tonneru, Sayonara no Deguchi Novela Ligera en Español</title>
+<id>https://nextnovels.com/natsu-e-no-tonneru-sayonara-no-deguchi-novela-ligera-en-espanol/</id>
+<updated>2026-10-21T00:00:00Z</updated>
+<link rel="alternate" href="https://nextnovels.com/natsu-e-no-tonneru-sayonara-no-deguchi-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/10/01-10.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/10/01-10.jpg"/>
+<author><name>Hachimoku Mei</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Touno Kaoru es un chico de preparatoria que vive en un pueblo rural costeño llamado Kouzaki. Una mañana mientras se dirige a la escuela, escucha una leyenda urbana llamada: “El Túnel de Urashima”, que habla de un túnel mágico capaz de conceder cualquier deseo a la persona que entre en él. Más tarde ese mismo día, Kaoru descubre por casualidad un túnel que tiene mucha similitud con el de la leyenda lo cual desencadena un pensamiento: “Sí entro al túnel de Urashima, talvez sea capaz de recuperar a Karen”. Después de la escuela, Kaoru comienza investigar el túnel por su cuenta, pero no contaba con que alguien lo seguiría en secreto. Una callada estudiante transferida de su clase llamada Hanashiro Anzu, que ha sido una marginada desde que llegó. Pero, por alguna razón, siente interés en Kaoru. Ambos, terminarán trabajando juntos para conseguir aquello que desean. Esta historia narra el verano de un chico y una chica que desafían a un túnel que atraviesa el tiempo y el espacio.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://nextnovels.com" type="text/html" title="Owari"/>
+</entry>
+<entry>
+<title>The Mimosa Confessions Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-the-mimosa-confessions-novela-ligera-en-espanol/</id>
+<updated>2026-10-20T00:00:00Z</updated>
+<link rel="alternate" href="https://nextnovels.com/descargar-the-mimosa-confessions-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/06/The-Mimosa-Confessions-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/06/The-Mimosa-Confessions-Portada.jpg"/>
+<author><name>Hachimoku Mei</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<category term="Yaoi" label="Yaoi"/>
+<content type="text">Creciendo en una lúgubre zona rural, Sakuma Kamiki tenía poco que alegrara sus monótonos días, aparte de su mejor amigo. El brillante y talentoso Ushio parecía tener todo lo que a Sakuma le faltaba, y su buena apariencia, desempeño académico y destreza atlética lo hacían popular entre las chicas de la escuela. Traumas pasados —y un complejo de inferioridad— los fueron separando lentamente, y para cuando entraron a la preparatoria, apenas se hablaban. Así, Sakuma se encuentra solo. Contra todo pronóstico, Sakuma finalmente consigue una amiga en Natsuki, la chica más dulce de la clase. Los dos congenian al hablar con entusiasmo sobre sus novelas favoritas, y él se enamora perdidamente de ella. Pero esa misma noche, se topa con una escena inesperada mientras camina por un parque conocido: su viejo amigo Ushio, vestido con un uniforme escolar de chica completo y sollozando incontrolablemente.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1yA3Yy68fMAPZ-ObJNTKdhg" type="text/html" title="Onigiri Novels"/>
+</entry>
+</feed>

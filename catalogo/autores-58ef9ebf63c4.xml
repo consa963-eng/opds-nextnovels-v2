@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+<id>nextnovels:autores:Aoki Fuyu</id>
+<title>Aoki Fuyu</title>
+<updated>2026-11-08T00:00:00Z</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-58ef9ebf63c4.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<link rel="start" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="up" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<entry>
+<title>Hon Kirai no Ore ga, Toshoshitsu no Majo ni Koi wo Shita Novela Ligera en Español</title>
+<id>https://nextnovels.com/hon-kirai-no-ore-ga-toshoshitsu-no-majo-ni-koi-wo-shita-novela-ligera-en-espanol/</id>
+<updated>2026-10-21T00:00:00Z</updated>
+<link rel="alternate" href="https://nextnovels.com/hon-kirai-no-ore-ga-toshoshitsu-no-majo-ni-koi-wo-shita-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/12/Hon-Kirai-no-Ore-ga-Toshoshitsu-no-Majo-ni-Koi-wo-Shita-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/12/Hon-Kirai-no-Ore-ga-Toshoshitsu-no-Majo-ni-Koi-wo-Shita-Portada.jpg"/>
+<author><name>Aoki Fuyu</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Recuentos de la vida" label="Recuentos de la vida"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Dos personas totalmente opuestas salvan la distancia entre sus almas a través de los "libros".
+
+Souta Shimizu se reconoce públicamente como un extrovertido tras su debut en el instituto.
+
+Sus temas con sus amigos los aprende sobre todo en su teléfono. El contenido es interesante y emocionante. Se puede disfrutar de muchas cosas sin mover un brazo.
+
+En cambio, leer es agotador y lleva mucho tiempo en el mundo actual, sobrecargado de información.
+
+Su rentabilidad como entretenimiento es increíblemente baja.
+
+Souta no entiende la mentalidad de esos ratones de biblioteca.
+
+Hasta que la conoció durante el otoño de su primer año en el instituto...</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1dwLu65Kff5MV1Om0QvpvYg" type="text/html" title="Ilusion Shuri Novels"/>
+</entry>
+</feed>

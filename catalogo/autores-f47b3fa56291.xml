@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+<id>nextnovels:autores:Kyo Nishimura</id>
+<title>Kyo Nishimura</title>
+<updated>2026-11-08T00:00:00Z</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-f47b3fa56291.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<link rel="start" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="up" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<entry>
+<title>Megami ni Yobareta Gendai Saikyo Yamiochi Yusha o Taoshi ni Isekai e Novela Ligera en Español</title>
+<id>https://nextnovels.com/megami-ni-yobareta-gendai-saikyo-yamiochi-yusha-o-taoshi-ni-isekai-e-novela-ligera-en-espanol/</id>
+<updated>2026-10-21T00:00:00Z</updated>
+<link rel="alternate" href="https://nextnovels.com/megami-ni-yobareta-gendai-saikyo-yamiochi-yusha-o-taoshi-ni-isekai-e-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2022/09/Megami-ni-Yobareta-Gendai-Saikyo-Yamiochi-Yusha-o-Taoshi-ni-Isekai-e-Portada-T.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2022/09/Megami-ni-Yobareta-Gendai-Saikyo-Yamiochi-Yusha-o-Taoshi-ni-Isekai-e-Portada-T.jpg"/>
+<author><name>Kyo Nishimura</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Aventura" label="Aventura"/>
+<category term="Comedia" label="Comedia"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Romance" label="Romance"/>
+<category term="Shounen" label="Shounen"/>
+<content type="text">Eisuke Tsurugi es un estudiante de preparatoria normal y corriente, salvo por el hecho de que tiene una fuerza que supera con creces a la de la gente normal. Un día, mientras cazaba matones por aburrimiento, escuchó una voz en su cabeza. «¡Necesitamos tu poder...! Por favor, ven... a nuestro mundo...!» Y antes de que se diera cuenta, ¡el escenario de otro mundo se extendió ante sus ojos! Mientras se maravillaba con la vista desconocida, la chica que lo convocó se acercó a él con una petición: Por favor, derrota a los «héroes tramposos reencarnados» que dominaron el mundo tras derrotar al rey demonio. Aburrido de carecer de oponentes que puedan luchar contra él en igualdad de condiciones, Eisuke aceptó de buen grado la petición ante la posibilidad de luchar contra esos héroes. "¡Destruiré a todos esos héroes pretenciosos!" ¡Esta es la fantasía heroica del estudiante de preparatoria más fuerte que se enfrenta a los héroes tramposos reencarnados!</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/1qnHiaeJJnaieo7ND1E5gOw" type="text/html" title="Turret Translations"/>
+</entry>
+</feed>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+<id>nextnovels:autores:Katsura Ikada</id>
+<title>Katsura Ikada</title>
+<updated>2026-11-08T00:00:00Z</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-de9d299a2b96.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<link rel="start" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="up" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<entry>
+<title>I Was Supposed To Never Fall in Love with You Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-i-was-supposed-to-never-fall-in-love-with-you-novela-ligera-en-espanol/</id>
+<updated>2026-10-20T00:00:00Z</updated>
+<link rel="alternate" href="https://nextnovels.com/descargar-i-was-supposed-to-never-fall-in-love-with-you-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/04/I-Was-Supposed-To-Never-Fall-in-Love-with-You-Portada.jpeg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/04/I-Was-Supposed-To-Never-Fall-in-Love-with-You-Portada.jpeg"/>
+<author><name>Katsura Ikada</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Romance" label="Romance"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Iijima Yasuki, un chico normal que asiste a un instituto provincial en Minamisou, en la prefectura de Chiba, vivía unos días grises en su clase de Ciencias.
+
+A pesar de ello, la última noche del campamento de estudio justo antes de las vacaciones de verano, ayudó a la chica más guapa del instituto, Kitaoka Ema, cuando se encontró en apuros.
+
+Ahora, por alguna razón, Ema se ha encaprichado con él. Sin embargo, solo le habla fuera del colegio. En clase, finge no conocerlo. ¿Qué estará pensando Ema?
+
+En el colegio hay una jerarquía, con una gran diferencia entre un chico normal con gafas y una chica llamativa.
+
+Dos existencias que se suponía que eran opuestas; una historia de amor pasajera.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/11sTxbnMflL191wALShJpHQ" type="text/html" title="Next Novels (MTL)"/>
+</entry>
+</feed>

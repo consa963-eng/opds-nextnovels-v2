@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+<id>nextnovels:autores:Kougyoku Izuki</id>
+<title>Kougyoku Izuki</title>
+<updated>2026-11-08T00:00:00Z</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-5f6247c603bc.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<link rel="start" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="up" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<entry>
+<title>Mimizuku to Yoru no Ou Novela Ligera en Español</title>
+<id>https://nextnovels.com/mimizuku-to-yoru-no-ou-novela-ligera-en-espanol/</id>
+<updated>2026-10-21T00:00:00Z</updated>
+<link rel="alternate" href="https://nextnovels.com/mimizuku-to-yoru-no-ou-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2023/06/Mimizuku-to-Yoru-no-Ou-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2023/06/Mimizuku-to-Yoru-no-Ou-Portada.jpg"/>
+<author><name>Kougyoku Izuki</name></author>
+<category term="Drama" label="Drama"/>
+<category term="Fantasía" label="Fantasía"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Shoujo" label="Shoujo"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Mimizuku es una pequeña niña con grilletes en sus muñecas y tobillos, y los números: "332" marcados en su frente que deambula por el Bosque de la Noche en busca de ser comida por un monstruo. Sin embargo, cuando el soberano de los monstruos, el misterioso y hermoso "Rey de la Noche", se niega a comera intenta hallar una forma de convencerle.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxapp.com/s/14FT_vIQgacFriPXdLDkfpQ" type="text/html" title="Happy Bubble Subs"/>
+</entry>
+</feed>

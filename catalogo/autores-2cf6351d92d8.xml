@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+<id>nextnovels:autores:Kanata Nakata</id>
+<title>Kanata Nakata</title>
+<updated>2026-11-08T00:00:00Z</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-2cf6351d92d8.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<link rel="start" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="up" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<entry>
+<title>I Got Involved in a Life-or-Death Game, So I Decided to Kill All the People I Hate with Great Enthusiasm Novela Ligera en Español</title>
+<id>https://nextnovels.com/descargar-i-got-involved-in-a-life-or-death-game-so-i-decided-to-kill-all-the-people-i-hate-with-great-enthusiasm-novela-ligera-en-espanol/</id>
+<updated>2026-10-20T00:00:00Z</updated>
+<link rel="alternate" href="https://nextnovels.com/descargar-i-got-involved-in-a-life-or-death-game-so-i-decided-to-kill-all-the-people-i-hate-with-great-enthusiasm-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2025/07/I-Got-Involved-in-a-Life-or-Death-Game-So-I-Decided-to-Kill-All-the-People-I-Hate-with-Great-Enthusiasm-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2025/07/I-Got-Involved-in-a-Life-or-Death-Game-So-I-Decided-to-Kill-All-the-People-I-Hate-with-Great-Enthusiasm-Portada.jpg"/>
+<author><name>Kanata Nakata</name></author>
+<category term="Acción" label="Acción"/>
+<category term="Drama" label="Drama"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Psicológico" label="Psicológico"/>
+<category term="Suspenso" label="Suspenso"/>
+<category term="Vida Escolar" label="Vida Escolar"/>
+<content type="text">Al despertar, Arai Tomo se encuentra en un lugar completamente desconocido.
+
+Una figura enigmática conocida solo como “Nanashi” le informa que debe participar, junto a todos sus compañeros y profesores, en un juego donde lo que está en juego es la propia supervivencia.
+
+Para Tomo, sin embargo, este escenario de vida o muerte no es una pesadilla, sino un deleite. Ansía ver correr la sangre de todos aquellos que le resultan despreciables. Y junto a la actriz de nivel súperélite Tetsuyama Yuiko, une fuerzas para enfrentar este juego mortal…
+
+Usando como arma su mente afilada y despiadada.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://1024terabox.com/s/1sNE11MdZ_g-cFoNlyxuhww" type="text/html" title="Kai Sakura VENTO"/>
+</entry>
+</feed>

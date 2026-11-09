@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+<id>nextnovels:autores:Kaminaga Manabu</id>
+<title>Kaminaga Manabu</title>
+<updated>2026-11-08T00:00:00Z</updated>
+<link rel="self" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores-9e43beaf55bb.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+<link rel="start" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<link rel="up" href="https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main/catalogo/autores.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+<entry>
+<title>Shinrei Tantei Yakumo Novela Ligera en Español</title>
+<id>https://nextnovels.com/shinrei-tantei-yakumo-novela-ligera-en-espanol/</id>
+<updated>2026-10-21T00:00:00Z</updated>
+<link rel="alternate" href="https://nextnovels.com/shinrei-tantei-yakumo-novela-ligera-en-espanol/" type="text/html"/>
+<link rel="http://opds-spec.org/image" href="https://nextnovels.com/wp-content/uploads/2024/08/Shinrei-Tantei-Yakumo-Portada.jpg"/>
+<link rel="http://opds-spec.org/image/thumbnail" href="https://nextnovels.com/wp-content/uploads/2024/08/Shinrei-Tantei-Yakumo-Portada.jpg"/>
+<author><name>Kaminaga Manabu</name></author>
+<category term="Aventura" label="Aventura"/>
+<category term="Drama" label="Drama"/>
+<category term="Horror" label="Horror"/>
+<category term="Misterio" label="Misterio"/>
+<category term="Romance" label="Romance"/>
+<category term="Seinen" label="Seinen"/>
+<category term="Supernatural" label="Supernatural"/>
+<content type="text">Por el bien de una amiga poseída por un fantasma, la joven estudiante Ozawa Haruka visita el Club de Investigación del Cine de la Universidad. Haruka se encuentra ahí a un joven- Saitou Yakumo, que se cree, tiene poderes psíquicos. Ambos empiezan a investigar las raras ocurrencias que están sucediendo alrededor de los amigos de Haruka, Haruka está convencida de que Yakumo es sólo un psíquico falso.
+
+¿Serán capaces de encontrar al culpable que asesinó a la persona que poseía a la amiga de Haruka antes de que mate a todos los amigos que visitaron el edificio abandonado y a Haruka también? Con todo esto, ¡Haruka descubre que este joven es un verdadero psíquico! El Ojo Izquierdo Rojo de Yakumo puede ver lo que otros no pueden- los espíritus de los muertos. Con este poder y sobre todo con la gran percepción de Yakumo estáran resolviendo este caso confuso, no terrenal.
+
+Este caso es sólo el comienzo de la cadena de incidentes ocurriendo a su alrededor. Haruka tiene la mala suerte de participar y entonces ella siempre le trae nuevos casos a Yakumo, ¡Sólo para su molestia!.</content>
+<link rel="http://opds-spec.org/acquisition" href="https://teraboxlink.com/s/1zSqKId74Z4krkwQAvcub-g" type="text/html" title="UpsTranslations"/>
+</entry>
+</feed>
