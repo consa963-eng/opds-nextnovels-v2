@@ -1,3 +1,11 @@
 name = "opds-nextnovels-v2"
 main = "worker.js"
 compatibility_date = "2025-01-01"
+
+[vars]
+# Repositorio de donde se leen catalogo.json y los XML. Cámbialo aquí
+# si el repositorio se mueve, sin tocar el código.
+REPO_BASE = "https://raw.githubusercontent.com/consa963-eng/opds-nextnovels-v2/main"
+
+[observability]
+enabled = true
