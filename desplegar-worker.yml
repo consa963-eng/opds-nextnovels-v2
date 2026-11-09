@@ -1,0 +1,33 @@
+name: Desplegar worker
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - worker.js
+      - wrangler.toml
+      - .github/workflows/desplegar-worker.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: desplegar-worker
+  cancel-in-progress: true
+
+jobs:
+  desplegar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      # Requiere los secretos CLOUDFLARE_API_TOKEN (permiso Workers Scripts: Edit)
+      # y CLOUDFLARE_ACCOUNT_ID en Settings > Secrets and variables > Actions.
+      - name: Desplegar con wrangler
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}

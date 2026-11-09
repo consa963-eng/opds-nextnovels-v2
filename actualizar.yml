@@ -1,0 +1,49 @@
+name: Actualizar catálogo OPDS
+
+on:
+  workflow_dispatch:
+    inputs:
+      escaneo_completo:
+        description: "Volver a descargar todas las fichas (tarda mucho)"
+        type: boolean
+        default: false
+  schedule:
+    - cron: "0 3 * * 0"
+
+permissions:
+  contents: write
+
+# Evita que dos flujos escriban el catálogo a la vez.
+concurrency:
+  group: catalogo-opds
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Generar catálogo
+        env:
+          FULL_SCAN: ${{ inputs.escaneo_completo }}
+          OPDS_BASE: ${{ vars.OPDS_BASE }}
+        run: python generador.py
+
+      - name: Guardar catálogo
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "Actualizar catálogo OPDS"
+          file_pattern: "catalogo/**"
